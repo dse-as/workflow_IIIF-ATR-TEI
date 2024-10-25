@@ -59,6 +59,18 @@ def get_document_content(colid, docid, sid):
         logging.error(f'documentID or collectionID invalid? {r}')
         raise
 
+def get_mets(colid, docid, sid):
+    # Get METS file of a specific document
+
+    r = requests.get("https://transkribus.eu/TrpServer/rest/collections/{}/{}/mets?JSESSIONID={}".format(colid,
+                                                                                                         docid,
+                                                                                                         sid))
+    if r.status_code == requests.codes.ok:
+        return et.fromstring(r.text.encode("utf8"))
+    else:
+        logging.error(f'documentID or collectionID invalid? {r}')
+        raise
+
 def download_pagexml(url, path, n_retry=60):
     """Download a pagexml file.
 
@@ -86,20 +98,24 @@ def download_pagexml(url, path, n_retry=60):
             response.raise_for_status()
 
 def main():
-    # Define target directory for pageXMLs.
-    dest_dir = os.path.join(os.getcwd(),'download')
-
-    # Login to Transkribus.
-    parser = argparse.ArgumentParser(description='Download PageXML files from Transkribus.')
+    # Parse arguments.
+    parser = argparse.ArgumentParser(description='Download PAGE XML files from Transkribus.')
     parser.add_argument('-u', '--user', help='<Required> Username', required=True)
     parser.add_argument('-p', '--password', help='<Required> Password', required=True)
-    parser.add_argument('-c','--collections', nargs='+', help='<Required> Collection IDs', required=True)
+    parser.add_argument('-c', '--collections', nargs='+', help='<Required> Collection IDs', required=True)
+    parser.add_argument('-o', '--outfolder', help='<Required> Path to the folder where the PAGE files should be stored.', required=True)
     args = parser.parse_args()
     user = args.user
     password = args.password
     collections = args.collections
-    sid = get_sid(user, password)
+    outfolder = args.outfolder
+
+    # Target directory for pageXMLs.
+    dest_dir = os.path.join(os.getcwd(), outfolder)
     
+    # Login to Transkribus.
+    sid = get_sid(user, password)
+
     # Read all available collections.
     coll = pd.DataFrame(list_collections(sid))
 
@@ -114,12 +130,18 @@ def main():
         for doc in docs:
             pages = get_document_content(col[1]['colId'], doc['docId'], sid)
 
-            print('Downloading document ' + str(doc['docId']) + ' (' + str(len(pages)) + ' pages)')
+            print('- Downloading document ' + str(doc['docId']) + ' (' + str(len(pages['pageList']['pages'])) + ' pages)')
 
             # Create destination folder.
             dest_path = f"{dest_dir}/{col[1]['colId']}/page/{doc['title']}"
             if not os.path.exists(dest_path):
                 os.makedirs(dest_path)
+
+            # Get and save Mets file
+            mets = get_mets(col[1]['colId'], doc['docId'], sid)
+            mets_path = f"{dest_dir}/{col[1]['colId']}/"
+            with open(mets_path + "/mets.xml", "wb") as file:
+                file.write(et.tostring(mets))
 
             for page in pages['pageList']['pages']:
                 # Determine the latest transcript.
