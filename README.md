@@ -2,10 +2,11 @@
 
 Scripts for Transkribus-related workflows:
 
-* upload IIIF Manifest to Transkribus
+* generation of IIIF manifests, see https://github.com/dse-as/i3f
+* upload IIIF manifest to Transkribus
 * download PAGE XML from Transkribus
 * transform PAGE XML from Transkribus to raw TEI
-* transformat raw TEI to final format
+* transform raw TEI to final format
 
 ## Download PAGE
 
@@ -28,4 +29,4 @@ The code in this repository is based on
 
 ## License
 
-TBD
+* [dse-as/workflow_IIIF-ATR-TEI](https://github.com/dse-as/workflow_IIIF-ATR-TEI): See [LICENSE](LICENSE)
