@@ -10,7 +10,7 @@ Scripts for Transkribus-related workflows:
 
 ## Upload IIIF images to Transkribus for ATR
 
-[![Initiate IIIF upload to Transkribus](assets/image.png)](https://github.dev/dse-as/workflow_IIIF-ATR-TEI/issues/new/choose)
+[![Initiate IIIF upload to Transkribus](assets/image.png)](https://github.com/dse-as/workflow_IIIF-ATR-TEI/issues/new/choose)
 
 Automated upload workflow of IIIF images into a Transkribus collection.
 
