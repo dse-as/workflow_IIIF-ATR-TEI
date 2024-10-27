@@ -1,0 +1,38 @@
+name: IIIF Upload
+description: Submit one or more IIIF manifests for upload to Transkribus.
+title: "[Upload]: "
+labels: ["iiif-upload"]
+projects: ["octo-org/1", "octo-org/44"]
+assignees:
+  - octocat
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to submit IIIF presentation manifests for upload in a Transkribus project directory.
+  - type: dropdown
+    id: target-collection
+    attributes:
+      label: Choose target collection
+      multiple: false
+      options:
+        - as-dse_wait (1386966)
+        - as-dse_work (1249767)
+        - as-dse_finished (1387086)
+        - iiif-test (1090782)
+      default: 0
+  - type: textarea
+    id: iiif-manifests
+    attributes:
+      label: List IIIF manifests to upload
+      description: For multiple manifests, make a new line for each entry.
+      placeholder: https://iiif.annemarie-schwarzenbach.ch/presentation/{id}/info.json
+      value: "https://iiif.annemarie-schwarzenbach.ch/presentation/{id}/info.json"
+    validations:
+      required: true
+  - type: markdown
+    id: create-manifests
+    attributes:
+      value: |
+        ## How to create IIIF manifests?
+        Commit the necessary IIIF image URLs in TOML format to the `main` branch of https://github.com/dse-as/i3f. The manifest will automatically become available under https://iiif.annemarie-schwarzenbach.ch/presentation/   

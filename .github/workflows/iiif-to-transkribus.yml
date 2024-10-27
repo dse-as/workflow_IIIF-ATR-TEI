@@ -1,0 +1,81 @@
+name: Upload IIIF images to Transkribus based on IIIF manifests
+
+on:
+  issues:
+    types: [opened, edited]
+  issue_comment:
+    types: [created, edited]
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    outputs:
+      output1: ${{ steps.ipynb-txt.outputs.out }}
+    steps:
+    - uses: actions/checkout@v4
+    - uses: stefanbuck/github-issue-parser@v3
+      id: issue-parser
+      with:
+        template-path: .github/ISSUE_TEMPLATE/initiate-upload.yml
+
+    - run: cat ${HOME}/issue-parser-result.json
+    - run: cp ${HOME}/issue-parser-result.json ./issue-parser-result.json
+
+    - run: echo $TARGET_COLLECTION
+      env:
+        TARGET_COLLECTION: ${{ steps.issue-parser.outputs.issueparser_choose_target_collection }}
+    - run: echo $MANIFESTS
+      env:
+        MANIFESTS: ${{ steps.issue-parser.outputs.issueparser_list_iiif_manifests_to_upload }}    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    - uses: yaananth/run-notebook@v2
+      id: ipynb
+      env:
+        RUNNER: ${{ toJson(runner) }}
+        SECRETS: ${{ toJson(secrets) }}
+        GITHUB: ${{ toJson(github) }}
+        ISSUE: ./issue-parser-result.json
+      with:
+        notebook: "./iiif-to-transkribus/iiif-to-transkribus.ipynb"
+        params: "./iiif-to-transkribus/iiif-to-transkribus-params.json"
+        isReport: False
+        poll: True
+ # for easier debugging:       
+    - uses: actions/upload-pages-artifact@v3
+      if: always()
+      with:
+        name: output
+        path: ${{ RUNNER.temp }}/nb-runner
+      env:
+        RUNNER: ${{ toJson(runner) }}
+
+# output for auto reply
+    - name: Read notebook capture into a github actions output
+      id: ipynb-txt
+      run: |
+        {
+          echo 'out<<DELIM'
+          cat ./ipynb.txt
+          echo
+          echo DELIM
+        } >> "$GITHUB_OUTPUT"
+
+# adding a reply to the issue thread
+  add-comment:
+    needs: run
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Add comment
+#        run: gh issue comment "$NUMBER" --body-file ./ipynb.txt
+        run: gh issue comment "$NUMBER" --body "$BODY"
+        env:
+          OUTPUT1: ${{needs.run.outputs.output1}}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          NUMBER: ${{ github.event.issue.number }}
+          BODY: ${{needs.run.outputs.output1}}

@@ -8,6 +8,14 @@ Scripts for Transkribus-related workflows:
 * transform PAGE XML from Transkribus to raw TEI
 * transform raw TEI to final format
 
+## Upload IIIF images to Transkribus for ATR
+
+[![Initiate IIIF upload to Transkribus](assets/image.png)](https://github.dev/dse-as/workflow_IIIF-ATR-TEI/issues/new/choose)
+
+Automated upload workflow of IIIF images into a Transkribus collection.
+
+---
+
 ## Download PAGE
 
 ```bash
