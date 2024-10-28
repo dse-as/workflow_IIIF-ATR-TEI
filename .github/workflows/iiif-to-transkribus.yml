@@ -9,6 +9,7 @@ on:
 jobs:
   run:
     runs-on: ubuntu-latest
+    if: ${{contains(fromJson(vars.WHITELIST),github.actor)}}
     outputs:
       output1: ${{ steps.ipynb-txt.outputs.out }}
     steps:
@@ -89,3 +90,18 @@ jobs:
           GH_REPO: ${{ github.repository }}
           NUMBER: ${{ github.event.issue.number }}
           BODY: ${{needs.run.outputs.output1}}
+
+# adding a reply to the issue thread in case of non-authorization
+  add-comment-unauthorized:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Add comment
+        if: ${{ ! contains(fromJson(vars.WHITELIST),github.actor)}}
+        run: gh issue close "$NUMBER" -c "$BODY"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          NUMBER: ${{ github.event.issue.number }}
+          BODY: "**Initiator of the action (${{ github.actor }}) is not whitelisted.**\n\n **Aborting.**\n\n\n [Edit `WHITELIST`](https://github.com/pdaengeli/IIIF-to-Transkribus-test/settings/variables/actions/WHITELIST)"
