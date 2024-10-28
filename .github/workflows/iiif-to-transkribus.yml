@@ -12,6 +12,16 @@ jobs:
     outputs:
       output1: ${{ steps.ipynb-txt.outputs.out }}
     steps:
+    - uses: tspascoal/get-user-teams-membership@v3
+      id: actorTeams
+      with:
+        username: ${{ github.actor }}
+        GITHUB_TOKEN: ${{ secrets.PAT }}
+    - name: Stop workflow if user is no member
+      if: ${{ !(contains(steps.actorTeams.outputs.teams, 'dev') || contains(steps.actorTeams.outputs.teams.teams, 'editors')) }}
+      run: |
+        echo "You have no rights to trigger this job."
+        exit 1  
     - uses: actions/checkout@v4
     - uses: stefanbuck/github-issue-parser@v3
       id: issue-parser
