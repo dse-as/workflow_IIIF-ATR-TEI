@@ -16,7 +16,7 @@ jobs:
       id: actorTeams
       with:
         username: ${{ github.actor }}
-        GITHUB_TOKEN: ${{ secrets.PAT }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Stop workflow if user is no member
       if: ${{ !(contains(steps.actorTeams.outputs.teams, 'dev') || contains(steps.actorTeams.outputs.teams.teams, 'editors')) }}
       run: |
