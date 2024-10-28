@@ -25,7 +25,7 @@ body:
     id: iiif-manifests
     attributes:
       label: List IIIF manifests to upload
-      description: For multiple manifests, make a new line for each entry.
+      description: For multiple manifests, make a new line for each entry. Use text links (instead of markdown link syntax).
       placeholder: https://iiif.annemarie-schwarzenbach.ch/presentation/{id}/info.json
       value: "https://iiif.annemarie-schwarzenbach.ch/presentation/{id}/info.json"
     validations:
