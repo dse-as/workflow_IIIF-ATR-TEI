@@ -23,7 +23,7 @@ jobs:
       if: contains(env.TASKS,'task:iiif-upload')
       id: issue-parser
       with:
-        template-path: .github/ISSUE_TEMPLATE/initiate-upload.yml
+        template-path: .github/ISSUE_TEMPLATE/0-initiate-upload.yml
 
     - run: cat ${HOME}/issue-parser-result.json
       if: contains(env.TASKS,'task:iiif-upload')
