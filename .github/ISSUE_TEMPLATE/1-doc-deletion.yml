@@ -1,0 +1,77 @@
+name: Transkribus document deletion
+description: Delete one or more documents from a Transkribus collection (based on IIIF manifes or Transkribus ID).
+title: "[Deletion]: "
+labels: ["task:doc-deletion"]
+#projects: ["octo-org/1", "octo-org/44"]
+assignees:
+  - octocat
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Use this form to delete Transkribus documents owned by `tech@annemarie-schwarzenbach.ch`.
+
+        There are three alternative ways to specify the documents: 
+        * by Transkribus ID, 
+        * by filename or 
+        * by IIIF manifest, from which they were imported
+
+        ---
+        
+  - type: dropdown
+    id: target-collection
+    attributes:
+      label: Choose target collection
+      multiple: false
+      options:
+        - as-dse_wait (1386966)
+        - as-dse_work (1249767)
+        - as-dse_finished (1387086)
+        - iiif-test (1090782)
+      default: 0
+  - type: markdown
+    attributes:
+      value: |
+        
+        ---
+        
+  - type: markdown
+    attributes:
+      value: |
+        ### Specify Transkribus documents to delete
+  - type: textarea
+    id: transkribus-ids
+    attributes:
+      label: List Transkribus ID(s) to delete
+      description: For multiple documents, make a new line for each entry.
+      placeholder: "123456"
+#      value: "123456"
+      render: shell
+    validations:
+      required: false
+  - type: textarea
+    id: file-names
+    attributes:
+      label: List file names of documents to delete (not actual image file names)
+      description: For multiple documents, make a new line for each entry.
+      placeholder: "letter_00991.json"
+#      value: "letter_00001.json"
+      render: shell
+    validations:
+      required: false
+  - type: textarea
+    id: iiif-manifests
+    attributes:
+      label: List IIIF manifests to delete. Note that all documents imported from the specidied manifest(s) will be deleted.
+      description: For multiple manifests, make a new line for each entry.
+      placeholder: https://iiif.annemarie-schwarzenbach.ch/presentation/{id}/info.json
+#      value: "https://iiif.annemarie-schwarzenbach.ch/presentation/{id}/info.json"
+      render: shell
+    validations:
+      required: false
+  - type: markdown
+    id: delete-docs
+    attributes:
+      value: |
+        ## How to create IIIF manifests?
+        Commit the necessary IIIF image URLs in TOML format to the `main` branch of https://github.com/dse-as/i3f. The manifest will automatically become available under https://iiif.annemarie-schwarzenbach.ch/presentation/   

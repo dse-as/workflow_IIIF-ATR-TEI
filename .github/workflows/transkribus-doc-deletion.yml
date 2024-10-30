@@ -1,4 +1,4 @@
-name: Upload IIIF images to Transkribus based on IIIF manifests
+name: Delete Transkribus documents from a collection
 
 on:
   issues:
@@ -18,25 +18,25 @@ jobs:
 #    - run: echo ${{join(github.event.issue.labels.*.name,', ')}}
 #    - run: echo env.TASKS
     - uses: actions/checkout@v4
-      if: contains(env.TASKS,'task:iiif-upload')
+      if: contains(env.TASKS,'task:doc-deletion')
     - uses: stefanbuck/github-issue-parser@v3
-      if: contains(env.TASKS,'task:iiif-upload')
+      if: contains(env.TASKS,'task:doc-deletion')
       id: issue-parser
       with:
-        template-path: .github/ISSUE_TEMPLATE/initiate-upload.yml
+        template-path: .github/ISSUE_TEMPLATE/1-initiate-deletion.yml
 
     - run: cat ${HOME}/issue-parser-result.json
-      if: contains(env.TASKS,'task:iiif-upload')
+      if: contains(env.TASKS,'task:doc-deletion')
     - run: cp ${HOME}/issue-parser-result.json ./issue-parser-result.json
-      if: contains(env.TASKS,'task:iiif-upload')
+      if: contains(env.TASKS,'task:doc-deletion')
 
     - name: Set up Python
-      if: contains(env.TASKS,'task:iiif-upload')
+      if: contains(env.TASKS,'task:doc-deletion')
       uses: actions/setup-python@v5
       with:
         python-version: '3.11'
     - uses: yaananth/run-notebook@v2
-      if: contains(env.TASKS,'task:iiif-upload')
+      if: contains(env.TASKS,'task:doc-deletion')
       id: ipynb
       env:
         RUNNER: ${{ toJson(runner) }}
@@ -44,13 +44,13 @@ jobs:
         GITHUB: ${{ toJson(github) }}
         ISSUE: ./issue-parser-result.json
       with:
-        notebook: "./iiif-to-transkribus/iiif-to-transkribus.ipynb"
+        notebook: "./iiif-to-transkribus/transkribus-doc-deletion.ipynb"
         params: "./iiif-to-transkribus/default-params.json"
         isReport: False
         poll: True
  # for easier debugging:       
     - uses: actions/upload-pages-artifact@v3
-      if: always() && contains(env.TASKS,'task:iiif-upload')
+      if: always() && contains(env.TASKS,'task:doc-deletion')
       with:
         name: output
         path: ${{ RUNNER.temp }}/nb-runner
@@ -59,7 +59,7 @@ jobs:
 
 # output for auto reply
     - name: Read notebook capture into a github actions output
-      if: contains(env.TASKS,'task:iiif-upload')
+      if: contains(env.TASKS,'task:doc-deletion')
       id: ipynb-txt
       run: |
         {
@@ -79,7 +79,7 @@ jobs:
       issues: write
     steps:
       - name: Add comment
-        if: contains(env.TASKS,'task:iiif-upload')
+        if: contains(env.TASKS,'task:doc-deletion')
 #        run: gh issue comment "$NUMBER" --body-file ./ipynb.txt
         run: gh issue comment "$NUMBER" --body "$BODY"
         env:

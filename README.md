@@ -4,6 +4,7 @@ Scripts for Transkribus-related workflows:
 
 * generation of IIIF manifests, see https://github.com/dse-as/i3f
 * upload IIIF manifest to Transkribus
+* delete documents from a Transkribus collection
 * download PAGE XML from Transkribus
 * transform PAGE XML from Transkribus to raw TEI
 * transform raw TEI to final format
@@ -13,6 +14,10 @@ Scripts for Transkribus-related workflows:
 [![Initiate IIIF upload to Transkribus](assets/image.png)](https://github.com/dse-as/workflow_IIIF-ATR-TEI/issues/new/choose)
 
 Automated upload workflow of IIIF images into a Transkribus collection.
+
+## Delete documents from Transkribus collection
+
+FML: Button
 
 ---
 
