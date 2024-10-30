@@ -1,13 +1,21 @@
-# ⚙️ DSE-AS document workflow: IIIF-ATR-TEI
+# DSE-AS document workflow: IIIF-ATR-TEI ⚙️ 
 
-Scripts for Transkribus-related workflows:
+The preparation workflow for images and transcriptions consists of the following steps:
 
 * generation of IIIF manifests, see https://github.com/dse-as/i3f
-* upload IIIF manifest to Transkribus
-* delete documents from a Transkribus collection
-* download PAGE XML from Transkribus
-* transform PAGE XML from Transkribus to raw TEI
-* transform raw TEI to final format
+* [uploading IIIF images contained in the manifests to Transkribus](#upload-iiif-images-to-transkribus-for-atr)
+* automated transcription in three document collections
+* downloaing PAGE XML from Transkribus
+* transforming PAGE XML from Transkribus to raw TEI
+* transforming raw TEI to final format
+
+Auxiliary methods:
+
+* [deleting documents from a Transkribus collection](delete-documents-from-transkribus-collection)
+
+To facilitate handling, most scripts are executable directly on Github, either by opening an issue (using the appropriate template) or by committing a metadata file to the repository.
+
+---
 
 ## Upload IIIF images to Transkribus for ATR
 
@@ -15,10 +23,13 @@ Scripts for Transkribus-related workflows:
 
 Automated upload workflow of IIIF images into a Transkribus collection.
 
+---
+
 ## Delete documents from Transkribus collection
 
 [![Delete Transkribus document](assets/doc-deletion.png)](https://github.com/dse-as/workflow_IIIF-ATR-TEI/issues/new/choose)
 
+---
 ---
 
 ## Download PAGE
