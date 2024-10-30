@@ -23,7 +23,7 @@ jobs:
       if: contains(env.TASKS,'task:doc-deletion')
       id: issue-parser
       with:
-        template-path: .github/ISSUE_TEMPLATE/1-initiate-deletion.yml
+        template-path: .github/ISSUE_TEMPLATE/1-doc-deletion.yml
 
     - run: cat ${HOME}/issue-parser-result.json
       if: contains(env.TASKS,'task:doc-deletion')
