@@ -15,8 +15,8 @@ jobs:
     env:
       TASKS: ${{ join(github.event.issue.labels.*.name,', ') }}
     steps:
-#    - run: echo ${{join(github.event.issue.labels.*.name,', ')}}
-#    - run: echo env.TASKS
+    - run: echo ${{join(github.event.issue.labels.*.name,', ')}}
+    - run: echo env.TASKS
     - uses: actions/checkout@v4
       if: contains(env.TASKS,'task:iiif-upload')
     - uses: stefanbuck/github-issue-parser@v3
