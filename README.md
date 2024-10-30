@@ -1,4 +1,4 @@
-# ⚙️ Workflow IIIF-ATR-TEI
+# ⚙️ DSE-AS document workflow: IIIF-ATR-TEI
 
 Scripts for Transkribus-related workflows:
 
@@ -17,7 +17,8 @@ Automated upload workflow of IIIF images into a Transkribus collection.
 
 ## Delete documents from Transkribus collection
 
-FML: Button
+![Delete Transkribus document](https://github.com/user-attachments/assets/cf0342b4-323e-411d-9280-dca13a2125ba)
+
 
 ---
 
