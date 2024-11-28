@@ -151,16 +151,18 @@ jobs:
 
       # go on here with base transformation
  
-      #- name: Add comment
-      #  if: contains(env.TASKS,'task:transkribus-export')
+      - name: Add comment
+        if: needs.run.outputs.schematron_is_valid == 'False' && contains(env.TASKS,'task:transkribus-export')
 #        run: gh issue comment "$NUMBER" --body-file ./ipynb.txt
-      #  run: gh issue comment "$NUMBER" --body "$BODY"
-      #  env:
-      #    OUTPUT1: ${{needs.run.outputs.schematron_is_valid}}
-      #    GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      #    GH_REPO: ${{ github.repository }}
-      #    NUMBER: ${{ github.event.issue.number }}
-      #    BODY: ${{ steps.prepare-comment-success.outputs.issue_reply }} ${{ steps.prepare-comment-failure.outputs.issue_reply }}
+        run: gh issue comment "$NUMBER" --body "$BODY"
+        env:
+          OUTPUT1: ${{needs.run.outputs.schematron_is_valid}}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          NUMBER: ${{ github.event.issue.number }}
+          BODY: ${{ steps.prepare-comment-success.outputs.issue_reply }} ${{ steps.prepare-comment-failure.outputs.issue_reply }}
+
+        # also add comment for success case (TBD)
 
 # adding a reply to the issue thread in case of non-authorization
   add-comment-unauthorized:
