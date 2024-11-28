@@ -23,7 +23,6 @@
 
     <!-- marker `\p\`, `\:p\` (beginning and end of paragraph)
      strategy: split by paragraph and look for paragraph ends (by tokenization); there should be two tokens; any other number of tokens is reported -->
-    <!-- debug: this rule produces a failed-assert but validation evaluates to true -->
     <pattern id="pa_special-syntax-test-1">
         <rule context="validation-wrapper" id="ru_special-syntax-test-1">
             <assert test="
