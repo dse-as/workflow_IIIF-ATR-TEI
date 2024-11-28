@@ -1,0 +1,32 @@
+name: Transkribus export
+description: Export a transcription from Transkribus to this repository.
+title: "[Export]: "
+labels: ["task:transkribus-export"]
+projects: ["octo-org/1", "octo-org/44"]
+assignees:
+  - octocat
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to submit a document ID for rough validation and export from Transkribus.
+  - type: dropdown
+    id: source-collection
+    attributes:
+      label: Choose source collection
+      multiple: false
+      options:
+        - as-dse_wait (1386966)
+        - as-dse_work (1249767)
+        - as-dse_finished (1387086)
+        - iiif-test (1090782)
+      default: 2
+  - type: input
+    id: document-id
+    attributes:
+      label: Enter document ID to export
+      description: Create a separate issue for each document.
+      placeholder: '0123456'
+#      value: "https://iiif.annemarie-schwarzenbach.ch/presentation/{id}/info.json"
+    validations:
+      required: true
