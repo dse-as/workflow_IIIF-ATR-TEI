@@ -8,7 +8,6 @@
     <pattern id="pa_general-check-image-filename">
         <rule id="ru_general-check-image-filename" context="@imageFilename">
             <assert test="matches(.,'^\w+_\d{4}_\d{3}\.\w+$')">Attribute imageFilename need to follow the convention.</assert>
-            <!--<report role="warn" test="matches(.,'dsl_dev')">The 'dsl_dev' collection should be changed to 'schwarzenbach'.</report>-->
         </rule>
     </pattern>
 
