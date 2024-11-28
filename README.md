@@ -30,6 +30,15 @@ Automated upload workflow of IIIF images into a Transkribus collection.
 [![Delete Transkribus document](assets/doc-deletion.png)](https://github.com/dse-as/workflow_IIIF-ATR-TEI/issues/new/choose)
 
 ---
+
+## Validate and export documents from Transkribus
+
+*Work in progress*
+
+* validation is working and problems are reported as replies to the invoking issue in this repository ([example](https://github.com/dse-as/workflow_IIIF-ATR-TEI/issues/47#issuecomment-2506514012))
+* successful validation is for the time being silently terminating; eventually a base TEI file will be produced in this case
+
+---
 ---
 
 ## Download PAGE
