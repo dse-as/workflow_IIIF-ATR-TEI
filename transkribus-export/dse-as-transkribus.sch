@@ -20,9 +20,10 @@
         </rule>
     </pattern>
 
-    <!-- marker `\p\`, `\:p\` (beginning and end of paragraph)
-     strategy: split by paragraph and look for paragraph ends (by tokenization); there should be two tokens; any other number of tokens is reported -->
     <pattern id="pa_special-syntax-test-1">
+
+        <!-- marker `\p\`, `\:p\` (beginning and end of paragraph)
+             strategy: split by paragraph and look for paragraph ends (by tokenization); there should be two tokens; any other number of tokens is reported -->
         <rule context="validation-wrapper" id="ru_special-syntax-test-1">
             <assert test="
             every $token in (//PAGE:Unicode/text() => string-join(' ') 
@@ -35,6 +36,18 @@
             => count() return $counterpart[not(.=2)]
             !('*Not 2 tokens but '||.||' tokens at:* &quot;'||$token => replace('(\\:?p\\)','`$1`')||'&quot;.')"/></assert>
 
+        <!-- marker `\fp\`, `\:fp\` -->
+        <assert test="
+            every $token in (//PAGE:Unicode/text() => string-join(' ') 
+            => tokenize('\\fp\\'))[position() gt 1] satisfies
+            tokenize($token,'\\:fp\\') => count() = 2
+            ">**Paragraphs must contain a starting and ending symbol**&#xA;  <value-of select="
+            for $token in (//PAGE:Unicode/text() => string-join(' ') 
+            => tokenize('\\fp\\'))[position() gt 1] 
+            return let $counterpart := tokenize($token,'\\:fp\\') 
+            => count() return $counterpart[not(.=2)]
+            !('*Not 2 tokens but '||.||' tokens at:* &quot;'||$token => replace('(\\:?fp\\)','`$1`')||'&quot;.')"/></assert>
+      
         </rule>
     </pattern>
             
