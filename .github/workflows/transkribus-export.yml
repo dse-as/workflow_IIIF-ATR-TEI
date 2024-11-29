@@ -117,8 +117,8 @@ jobs:
   add-comment:
     needs: run
     runs-on: ubuntu-latest
-    outputs:
-      issue_reply: ${{ steps.prepare-comment.outputs.issue_reply }}
+    #outputs:
+    #  issue_reply: ${{ steps.prepare-comment.outputs.issue_reply }}
     env:
       TASKS: ${{ join(github.event.issue.labels.*.name,', ') }}
       ISSUE_MD: ${{ needs.run.outputs.issue_reply_file }}
@@ -152,7 +152,8 @@ jobs:
       # go on here with base transformation
  
       - name: Add comment
-        if: needs.run.outputs.schematron_is_valid == 'False' && contains(env.TASKS,'task:transkribus-export')
+#        if: needs.run.outputs.schematron_is_valid == 'False' && contains(env.TASKS,'task:transkribus-export')
+        if: contains(env.TASKS,'task:transkribus-export')
 #        run: gh issue comment "$NUMBER" --body-file ./ipynb.txt
         run: gh issue comment "$NUMBER" --body "$BODY"
         env:
