@@ -48,7 +48,19 @@
             => count() return $counterpart[not(.=2)]
             !('*Not 2 tokens but '||.||' tokens at:* &quot;'||$token => replace('(\\:?fp\\)','`$1`')||'&quot;.')"/></assert>
       
-        </rule>
+        <!-- marker `\f\`, `\:f\` -->
+        <assert test="
+            every $token in (//PAGE:Unicode/text() => string-join(' ') 
+            => tokenize('\\f\\'))[position() gt 1] satisfies
+            tokenize($token,'\\:f\\') => count() = 2
+            ">**Paragraphs must contain a starting and ending symbol**&#xA;  <value-of select="
+            for $token in (//PAGE:Unicode/text() => string-join(' ') 
+            => tokenize('\\f\\'))[position() gt 1] 
+            return let $counterpart := tokenize($token,'\\:f\\') 
+            => count() return $counterpart[not(.=2)]
+            !('*Not 2 tokens but '||.||' tokens at:* &quot;'||$token => replace('(\\:?f\\)','`$1`')||'&quot;.')"/></assert>
+      
+      </rule>
     </pattern>
             
 
