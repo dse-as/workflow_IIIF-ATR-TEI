@@ -114,11 +114,11 @@ jobs:
         RUNNER: ${{ toJson(runner) }}
 
  # adding a reply to the issue thread
-  add-comment-invalid:
+  add-comment:
     needs: run
     runs-on: ubuntu-latest
-    #outputs:
-    #  issue_reply: ${{ steps.prepare-comment.outputs.issue_reply }}
+    outputs:
+      issue_reply: ${{ steps.prepare-comment.outputs.issue_reply }}
     env:
       TASKS: ${{ join(github.event.issue.labels.*.name,', ') }}
       ISSUE_MD: ${{ needs.run.outputs.issue_reply_file }}
@@ -162,7 +162,7 @@ jobs:
           NUMBER: ${{ github.event.issue.number }}
           BODY: ${{ steps.prepare-comment-success.outputs.issue_reply }} ${{ steps.prepare-comment-failure.outputs.issue_reply }}
 
-        # also add comment for success case (TBD)
+        # also add comment for success case (TBD after transformation)
 
 # adding a reply to the issue thread in case of non-authorization
   add-comment-unauthorized:
