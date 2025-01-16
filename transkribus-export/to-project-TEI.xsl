@@ -7,7 +7,7 @@
     xmlns:local="local"
     xmlns="http://www.tei-c.org/ns/1.0"
     exclude-result-prefixes="array map xd xs"
-    xpath-default-namespace="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+    xpath-default-namespace="http://www.tei-c.org/ns/1.0"
     expand-text="true"
     version="3.0">
     <xd:doc scope="stylesheet">
@@ -37,7 +37,7 @@
             <xsl:call-template name="teiHeader"/>
             <text>
                 <body>
-                    <xsl:apply-templates select="//*:text/node()"/>
+                    <xsl:apply-templates select="//text/node()"/>
                 </body>
             </text>
         </TEI>
@@ -67,7 +67,7 @@
     </xsl:template>
     
     <!--Add @break (yes/no) to lb-->
-    <xsl:template match="*:lb">
+    <xsl:template match="lb">
         <xsl:copy>
             <xsl:apply-templates select="@*"/>
             <xsl:attribute name="break" select="if (matches(preceding::text() => string-join() => normalize-space(),'¬$')) then 'no' else 'yes'"/>
@@ -75,20 +75,20 @@
     </xsl:template>
     
     <!--Unwrap zone divs-->
-    <xsl:template match="*:div[starts-with(@xml:id,'dummy_')]">  
+    <xsl:template match="div[starts-with(@xml:id,'dummy_')]">  
         <!--TODO: Adding pb here?-->
         <xsl:apply-templates select="node()"/>
     </xsl:template>
     
     <!--Transform CONV tag: paragraph-->
-    <xsl:template match="*:CONV[@tag='p']">
+    <xsl:template match="CONV[@tag='p']">
         <xsl:element name="{@tag}">
             <xsl:apply-templates select="node()"/>
         </xsl:element>
     </xsl:template>
     
     <!--Transform CONV tag: figure/paragraph-->
-    <xsl:template match="*:CONV[@tag='fp']">
+    <xsl:template match="CONV[@tag='fp']">
         <xsl:element name="figure">
             <xsl:element name="head"/>
             <xsl:element name="p">
@@ -98,7 +98,7 @@
     </xsl:template>
 
     <!--Transform CONV tag: figure-->
-    <xsl:template match="*:CONV[@tag='f']">
+    <xsl:template match="CONV[@tag='f']">
         <xsl:element name="figure">
             <xsl:element name="head">
                 <xsl:apply-templates select="node()"/>
@@ -108,7 +108,7 @@
     </xsl:template>
     
     <!--Transform PAGE tag: hi (i.e. bold, italic, strikethrough, underlined, subscript, superscript)-->
-    <xsl:template match="*:PAGE[matches(@tag,'bold|italic|strikethrough|underlined|subscript|superscript')]">
+    <xsl:template match="PAGE[matches(@tag,'bold|italic|strikethrough|underlined|subscript|superscript')]">
         <xsl:element name="hi">
             <xsl:attribute name="rendition" select="
                 if (@tag='bold') then '#b'
