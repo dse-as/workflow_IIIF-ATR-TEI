@@ -38,7 +38,7 @@ jobs:
       if: contains(env.TASKS,'task:transkribus-export')
       with:
         python-version: '3.12'
-    - uses: fzimmermann89/run-notebook@357b84ea1b0605afb5ed2da0548ab80c9556cd1a #dse-as/run-notebook@v3-versions-locked #fzimmermann89/run-notebook@v3 #yaananth/run-notebook@v2
+    - uses: dse-as/run-notebook@v3-versions-locked-with-node-modules #fzimmermann89/run-notebook@357b84ea1b0605afb5ed2da0548ab80c9556cd1a #fzimmermann89/run-notebook@v3 #yaananth/run-notebook@v2
       id: ipynb
       if: contains(env.TASKS,'task:transkribus-export')
       env:
