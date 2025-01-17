@@ -20,7 +20,7 @@
   
   <xsl:output indent="true"/>
   
-  <xsl:param name="fileName" select="//Page[1]/@imageFilename => replace('^(\w+_\d{4}).*$','$1')"/>
+  <xsl:param name="fileName" select="(//Page)[1]/@imageFilename => replace('^(\w+_\d{4}).*$','$1')"/>
   
   <xsl:mode on-no-match="shallow-copy"/>
   <xsl:mode name="lines-break-before-lb" on-no-match="shallow-copy"/>
