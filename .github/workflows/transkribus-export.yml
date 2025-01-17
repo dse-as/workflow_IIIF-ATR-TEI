@@ -122,8 +122,7 @@ jobs:
       if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
       uses: pdaengeli/use-saxon-he-j@12.5
       with:
-        args: -s:raw -xsl:transkribus-export/to-project-TEI.xsl -o:dseas
-#        args: -s:raw -xsl:transkribus-export/raw-to-dseas-tei.xsl -o:dseas
+        args: -s:raw -xsl:transkribus-export/raw-to-dseas-tei.xsl -o:dseas
     - run: for f in dseas/*_raw.xml; do mv -i -- "$f" "${f//_raw/}"; done
       if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
     - run: tree -L 2
