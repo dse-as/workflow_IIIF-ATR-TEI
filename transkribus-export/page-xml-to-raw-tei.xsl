@@ -31,7 +31,7 @@
   
   <xsl:variable name="PAGE-tag-info" as="map(*)">
     <xsl:sequence select="//TextLine[contains(@custom,'textStyle')] ! 
-      map:entry(@id, 
+      map:entry(@id||'-'||generate-id(@id), 
       for-each(@custom => substring-after('textStyle'), 
       function($a) { local:parse-PAGE-tag-syntax($a)})
       ) => map:merge()"/>
@@ -91,12 +91,13 @@
     
     <xsl:sequence select="$lines"/>
     <!-- TODO for GH action: xsl:result-document -->
-    
+
   </xsl:template>
   
   <!-- raw lines: raw unicode content with interspersed lb elements -->
   <xsl:template match="TextLine" mode="lines-raw">
-    <lb xml:id="{$fileName}_{@id}"/>
+    <!-- @tmp-id is used as a temporary unique line identifier (the Transkribus/PAGE line IDs are not always unique per document) -->
+    <lb xml:id="{$fileName}_{@id}" tmp-id="{@id||'-'||generate-id(@id)}"/>
     <xsl:apply-templates select=".//TextEquiv/Unicode/node()"/>
   </xsl:template>
   
@@ -105,7 +106,7 @@
                  this will allow to generate intermediary outputs that help to track down problems
   -->
   <xsl:template match="text()" mode="lines-page-tags">
-    <xsl:variable name="lineId" select="preceding-sibling::*:lb[1]/@xml:id => substring-after($fileName||'_')"/>
+    <xsl:variable name="lineId" select="preceding-sibling::*:lb[1]/@tmp-id"/>
     <xsl:variable name="lineTags" select="map:get($PAGE-tag-info,$lineId)"/>
     <xsl:variable name="line" select="."/>
     
