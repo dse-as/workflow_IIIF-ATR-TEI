@@ -25,6 +25,7 @@
   <xsl:mode on-no-match="shallow-copy"/>
   <xsl:mode name="lines-break-before-lb" on-no-match="shallow-copy"/>
   <xsl:mode name="lines-page-tags" on-no-match="shallow-copy"/>
+  <xsl:mode name="rm-tmp-id" on-no-match="shallow-copy"/>
   <xsl:mode name="lines-conventional-tags" on-no-match="shallow-copy"/>
   <xsl:mode name="lines-conventional-tags-comments" on-no-match="shallow-copy"/>
   <xsl:mode name="move-lb" on-no-match="shallow-copy"/>
@@ -67,7 +68,12 @@
       <xsl:apply-templates select="$lines" mode="lines-page-tags"/>
     </xsl:variable>
     <!-- TODO for GH action: xsl:result-document -->
-    
+
+    <!-- rm @tmp-id -->
+    <xsl:variable name="lines">
+      <xsl:apply-templates select="$lines" mode="rm-tmp-id"/>
+    </xsl:variable>
+
     <!-- CONV tags -->
     <xsl:variable name="lines">
       <xsl:apply-templates select="$lines" mode="lines-conventional-tags"/>
@@ -142,6 +148,13 @@
     </xsl:choose>
   </xsl:template>
   
+  <!-- rm @tmp-id -->
+  <xsl:template match="Q{http://www.tei-c.org/ns/1.0}lb" mode="rm-tmp-id">
+    <xsl:copy>
+      <xsl:copy-of select="@* except @tmp-id">
+    </xsl:copy>
+  </xsl:template>
+
   <!-- pre-process conventionalised tags -->
   <xsl:template match="text()" mode="lines-conventional-tags">
     <xsl:sequence select=". =>
