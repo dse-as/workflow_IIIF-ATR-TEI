@@ -121,6 +121,7 @@ jobs:
 #        args: -s:raw -xsl:transkribus-export/raw-to-dseas-tei.xsl -o:dseas
     - run: for f in dseas/*_raw.xml; do mv -i -- "$f" "${f//_raw/}"; done
     - run: tree -L 2
+    - run: cat dseas/*_[0-9]*.xml
 
 
 
