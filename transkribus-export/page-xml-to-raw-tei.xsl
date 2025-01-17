@@ -55,43 +55,43 @@
   </xsl:template>
   
   <xsl:template match="TextRegion">
-    <div xml:id="{$fileName}_{@id}">
-      <!-- raw lines -->
-      <xsl:variable name="lines">
-        <xsl:apply-templates select=".//TextLine" mode="lines-raw"/>
-      </xsl:variable>
-      <!-- TODO for GH action: xsl:result-document -->
-      
-      <!-- PAGE tags -->
-      <xsl:variable name="lines">
-        <xsl:apply-templates select="$lines" mode="lines-page-tags"/>
-      </xsl:variable>
-      <!-- TODO for GH action: xsl:result-document -->
-      
-      <!-- CONV tags -->
-      <xsl:variable name="lines">
-        <xsl:apply-templates select="$lines" mode="lines-conventional-tags"/>
-      </xsl:variable>
-      <xsl:variable name="lines">
-        <xsl:apply-templates select="$lines" mode="lines-conventional-tags-comments"/>
-      </xsl:variable>
-      <!-- TODO for GH action: xsl:result-document -->
-      
-      <!-- move lb within CONV tags -->
-      <xsl:variable name="lines">
-        <xsl:apply-templates select="$lines" mode="move-lb"/>
-      </xsl:variable>
-      <!-- TODO for GH action: xsl:result-document -->
-      
-      <!-- break before lb -->
-      <xsl:variable name="lines">
-        <xsl:apply-templates select="$lines" mode="lines-break-before-lb"/>
-      </xsl:variable>
-      <!-- TODO for GH action: xsl:result-document -->
-      
-      <xsl:sequence select="$lines"/>
-      <!-- TODO for GH action: xsl:result-document -->
-    </div>
+    <milestone unit="textregion" xml:id="{$fileName}_{@id}"/>
+    <!-- raw lines -->
+    <xsl:variable name="lines">
+      <xsl:apply-templates select=".//TextLine" mode="lines-raw"/>
+    </xsl:variable>
+    <!-- TODO for GH action: xsl:result-document -->
+    
+    <!-- PAGE tags -->
+    <xsl:variable name="lines">
+      <xsl:apply-templates select="$lines" mode="lines-page-tags"/>
+    </xsl:variable>
+    <!-- TODO for GH action: xsl:result-document -->
+    
+    <!-- CONV tags -->
+    <xsl:variable name="lines">
+      <xsl:apply-templates select="$lines" mode="lines-conventional-tags"/>
+    </xsl:variable>
+    <xsl:variable name="lines">
+      <xsl:apply-templates select="$lines" mode="lines-conventional-tags-comments"/>
+    </xsl:variable>
+    <!-- TODO for GH action: xsl:result-document -->
+    
+    <!-- move lb within CONV tags -->
+    <xsl:variable name="lines">
+      <xsl:apply-templates select="$lines" mode="move-lb"/>
+    </xsl:variable>
+    <!-- TODO for GH action: xsl:result-document -->
+    
+    <!-- break before lb -->
+    <xsl:variable name="lines">
+      <xsl:apply-templates select="$lines" mode="lines-break-before-lb"/>
+    </xsl:variable>
+    <!-- TODO for GH action: xsl:result-document -->
+    
+    <xsl:sequence select="$lines"/>
+    <!-- TODO for GH action: xsl:result-document -->
+    
   </xsl:template>
   
   <!-- raw lines: raw unicode content with interspersed lb elements -->
