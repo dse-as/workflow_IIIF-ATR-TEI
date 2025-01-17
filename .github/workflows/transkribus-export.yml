@@ -101,6 +101,7 @@ jobs:
     - run: tree -L 1 
       if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
     - name: PAGE XML to raw TEI (XSLT)
+      if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
       uses: pdaengeli/use-saxon-he-j@12.5
       with:
         args: -s:validation_input.xml -xsl:transkribus-export/page-xml-to-raw-tei.xsl
@@ -108,20 +109,26 @@ jobs:
     - run: mkdir raw && mkdir dseas
     - run: chmod +x transkribus-export/string-to-tags.sh
     - run: transkribus-export/string-to-tags.sh *_[0-9]*_raw.xml
+      if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
     - run: ls -l
     - run: cat *_[0-9]*_raw.xml
+      if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
     - run: mv *_[0-9]*_raw.xml raw/
+      if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
     
     # at this stage we got a raw xml file in the root directory of the checked out repo (the working directory)
     # next we can convert this to dseas-tei (using the -o flag or creating an xsl:result-document)
     - name: raw TEI to dseas TEI (XSLT)
+      if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
       uses: pdaengeli/use-saxon-he-j@12.5
       with:
         args: -s:raw -xsl:transkribus-export/to-project-TEI.xsl -o:dseas
 #        args: -s:raw -xsl:transkribus-export/raw-to-dseas-tei.xsl -o:dseas
     - run: for f in dseas/*_raw.xml; do mv -i -- "$f" "${f//_raw/}"; done
+      if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
     - run: tree -L 2
     - run: cat dseas/*_[0-9]*.xml
+      if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
 
 
 
