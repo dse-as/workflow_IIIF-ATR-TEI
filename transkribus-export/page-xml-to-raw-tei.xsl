@@ -151,7 +151,7 @@
   <!-- rm @tmp-id -->
   <xsl:template match="Q{http://www.tei-c.org/ns/1.0}lb" mode="rm-tmp-id">
     <xsl:copy>
-      <xsl:copy-of select="@* except @tmp-id">
+      <xsl:copy-of select="@* except @tmp-id"/>
     </xsl:copy>
   </xsl:template>
 
