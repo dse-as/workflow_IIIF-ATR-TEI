@@ -128,6 +128,16 @@ jobs:
     - run: cat data/2-base-TEI/*_[0-9]*.xml
       if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
 
+    - name: setup git config
+      run: |
+        git config user.name "GitHub Actions Bot"
+        git config user.email "<>"
+    - name: commit
+      if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
+      run: |
+        git add data
+        git commit -m "new export"
+        git push origin transkribus-exported
 
 
  # for easier debugging:       
