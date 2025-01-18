@@ -36,22 +36,10 @@ Automated upload workflow of IIIF images into a Transkribus collection.
 *Work in progress*
 
 * validation is working and problems are reported as replies to the invoking issue in this repository ([example](https://github.com/dse-as/workflow_IIIF-ATR-TEI/issues/47#issuecomment-2506514012))
-* successful validation is for the time being silently terminating; eventually a base TEI file will be produced in this case
+* after successful validation, a base TEI is being generated; this is currently WIP
 
 ---
 ---
-
-## Download PAGE
-
-```bash
-python scripts/PAGE-from-Transkribus/download_latest_pagexml.py -u 'USERNAME' -p 'PASSWORD' -c 'COLLECTION-ID-1' 'COLLECTION-ID-2' -o 'OUTFOLDER'
-```
-
-## PAGE to raw TEI
-
-```bash
-python scripts/PAGE-to-raw-TEI/page2TEI.py -i download -o download_out
-```
 
 ## Schematic
 
@@ -147,8 +135,6 @@ python scripts/PAGE-to-raw-TEI/page2TEI.py -i download -o download_out
 The code in this repository is based on 
 
 * [magbb/transkribus_API_wrapper](https://github.com/magbb/transkribus_API_wrapper/blob/master/transkribus_API_IIIF_NB_pipeline.ipynb)
-* [history-unibas/Trankribus-API](https://github.com/history-unibas/Trankribus-API)
-* [raykyn/page2tei](https://github.com/raykyn/page2tei)
 
 ## License
 
