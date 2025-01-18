@@ -21,7 +21,11 @@
   <xsl:output indent="true"/>
   
   <xsl:param name="fileName" select="(//Page)[1]/@imageFilename => replace('^(\w+_\d{4}).*$','$1')"/>
+  <xsl:variable name="fileType" select="if (matches($fileName, 'letter')) then 'letter' else 'smallform'"/>
   
+  <xsl:param name="schema" select="'../schema/tei_dseas.rng'"/>
+  <xsl:param name="schematron" select="'../schema/dseas.sch'"/>
+
   <xsl:mode on-no-match="shallow-copy"/>
   <xsl:mode name="lines-break-before-lb" on-no-match="shallow-copy"/>
   <xsl:mode name="lines-page-tags" on-no-match="shallow-copy"/>
@@ -48,11 +52,46 @@
     </xsl:comment>
     
     <xsl:result-document href="{$fileName}_raw.xml" method="xml" encoding="UTF-8">
-      <text>
-        <xsl:apply-templates select="//TextRegion"/>
-      </text>
+      <xsl:call-template name="build-raw-tei"/>
     </xsl:result-document>
+    
+  </xsl:template>
   
+  <xsl:template name="build-raw-tei">
+    <xsl:call-template name="PIs"/>
+    <TEI xml:id="{$fileName}" type="{'dseas-'||$fileType}">
+      <xsl:call-template name="teiHeader"/>
+      <text>
+        <body>
+          <text>
+            <xsl:apply-templates select="//TextRegion"/>
+          </text>
+        </body>
+      </text>
+    </TEI>
+  </xsl:template>
+  
+  <!--Processing instructions-->
+  <xsl:template name="PIs">        
+    <xsl:processing-instruction name="xml-model">href="{$schema}" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"</xsl:processing-instruction>
+    <xsl:processing-instruction name="xml-model">href="{$schematron}" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"</xsl:processing-instruction>
+  </xsl:template>
+  
+  <!--teiHeader-->
+  <xsl:template name="teiHeader">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>{$fileName}</title>
+        </titleStmt>
+        <publicationStmt>
+          <p/>
+        </publicationStmt>
+        <sourceDesc>
+          <p/>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
   </xsl:template>
   
   <xsl:template match="TextRegion">
@@ -68,12 +107,12 @@
       <xsl:apply-templates select="$lines" mode="lines-page-tags"/>
     </xsl:variable>
     <!-- TODO for GH action: xsl:result-document -->
-
+    
     <!-- rm @tmp-id -->
     <xsl:variable name="lines">
       <xsl:apply-templates select="$lines" mode="rm-tmp-id"/>
     </xsl:variable>
-
+    
     <!-- CONV tags -->
     <xsl:variable name="lines">
       <xsl:apply-templates select="$lines" mode="lines-conventional-tags"/>
@@ -97,7 +136,7 @@
     
     <xsl:sequence select="$lines"/>
     <!-- TODO for GH action: xsl:result-document -->
-
+    
   </xsl:template>
   
   <!-- raw lines: raw unicode content with interspersed lb elements -->
@@ -154,7 +193,7 @@
       <xsl:copy-of select="@* except @tmp-id"/>
     </xsl:copy>
   </xsl:template>
-
+  
   <!-- pre-process conventionalised tags -->
   <xsl:template match="text()" mode="lines-conventional-tags">
     <xsl:sequence select=". =>
@@ -189,7 +228,7 @@
   <xsl:template match="text()[following-sibling::*[1]/self::Q{http://www.tei-c.org/ns/1.0}lb]" mode="lines-break-before-lb">
     <xsl:sequence select=".||'&#xA;'"/>
   </xsl:template>
-
+  
   <!-- local functions
        =============== -->
   

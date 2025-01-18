@@ -20,50 +20,11 @@
     
     <!--We should only indent whitespace-safely-->
     <xsl:output indent="no"/>
-    
-    <xsl:param name="fileName" select="'dummy'"/>
-    <xsl:variable name="fileType" select="if (matches($fileName, 'letter')) then 'letter' else 'smallform'"/>
-    
-    <xsl:param name="schema" select="'../schema/tei_dseas.rng'"/>
-    <xsl:param name="schematron" select="'../schema/dseas.sch'"/>
-    
+        
     <xsl:mode on-no-match="shallow-copy"/>
     
     <xsl:template match="/">
-        <xsl:call-template name="PIs"/>
-        <TEI xmlns="http://www.tei-c.org/ns/1.0">
-            <xsl:attribute name="xml:id" select="$fileName"/>
-            <xsl:attribute name="type" select="'dseas-'||$fileType"/>
-            <xsl:call-template name="teiHeader"/>
-            <text>
-                <body>
-                    <xsl:apply-templates select="//text/node()"/>
-                </body>
-            </text>
-        </TEI>
-    </xsl:template>
-    
-    <!--Processing instructions-->
-    <xsl:template name="PIs">        
-        <xsl:processing-instruction name="xml-model">href="{$schema}" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"</xsl:processing-instruction>
-        <xsl:processing-instruction name="xml-model">href="{$schematron}" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"</xsl:processing-instruction>
-    </xsl:template>
-    
-    <!--teiHeader-->
-    <xsl:template name="teiHeader">
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>{$fileName}</title>
-                </titleStmt>
-                <publicationStmt>
-                    <p/>
-                </publicationStmt>
-                <sourceDesc>
-                    <p/>
-                </sourceDesc>
-            </fileDesc>
-        </teiHeader>
+        <xsl:apply-templates/>
     </xsl:template>
     
     <!--Add @break (yes/no) to lb-->
@@ -74,7 +35,7 @@
         </xsl:copy>
     </xsl:template>
     
-    <!--Unwrap zone divs-->
+    <!--Unwrap zone divs--><!-- still needed? -->
     <xsl:template match="div[starts-with(@xml:id,'dummy_')]">  
         <!--TODO: Adding pb here?-->
         <xsl:apply-templates select="node()"/>
