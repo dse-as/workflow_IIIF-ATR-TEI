@@ -28,6 +28,7 @@
   <xsl:param name="schematron" select="'../schema/dseas.sch'"/>
 
   <xsl:mode on-no-match="shallow-copy"/>
+  <xsl:mode name="coords" on-no-match="shallow-skip"/>
   <xsl:mode name="lines-break-before-lb" on-no-match="shallow-copy"/>
   <xsl:mode name="lines-page-tags" on-no-match="shallow-copy"/>
   <xsl:mode name="rm-tmp-id" on-no-match="shallow-copy"/>
@@ -67,6 +68,7 @@
     <xsl:call-template name="PIs"/>
     <TEI xml:id="{$fileName}" type="{'dseas-'||$fileType}">
       <xsl:call-template name="teiHeader"/>
+      <xsl:call-template name="facsimile"/>
       <text>
         <body>
           <xsl:apply-templates select="//Page"/>
@@ -80,6 +82,8 @@
     <xsl:processing-instruction name="xml-model">href="{$schema}" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"</xsl:processing-instruction>
     <xsl:processing-instruction name="xml-model">href="{$schematron}" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"</xsl:processing-instruction>
   </xsl:template>
+  
+  <!-- unnamed mode -->
   
   <!--teiHeader-->
   <xsl:template name="teiHeader">
@@ -98,10 +102,21 @@
     </teiHeader>
   </xsl:template>
   
+  <xsl:template name="facsimile">
+    <xsl:result-document href="{$fileName}_facs.xml" method="xml" encoding="UTF-8">
+      <facsimile xml:id="{$fileName}_facs">
+        <xsl:apply-templates select="//Page" mode="coords"/>
+      </facsimile>
+    </xsl:result-document>
+    <xsl:element name="xi:include" namespace="http://www.w3.org/2001/XInclude">
+      <xsl:attribute name="href" select="$fileName||'_facs.xml'"/>
+    </xsl:element>
+  </xsl:template>
+  
   <xsl:template match="Page">
     <xsl:variable name="ifn" select="@imageFilename => substring-before('.')"/>
     <xsl:comment>IIIF Image or Presentation URL?</xsl:comment>
-    <pb xml:id="{$fileName}_{position()}" facs="{$iiif-manifest?items?*[.?label?en?*=$ifn]?items?*?items?*?body?id}"/>
+    <pb xml:id="{$fileName}_{position()=>format-number('000')}" facs="{local:get-facs-url($ifn)}"/>
     <xsl:apply-templates select="TextRegion"/>
   </xsl:template>
   
@@ -198,6 +213,30 @@
     </xsl:choose>
   </xsl:template>
   
+  <!-- coords -->
+  <xsl:template match="Page" mode="coords">
+    <surface xml:id="{local:page-id($fileName,position())}_facs" ulx="0" uly="0" lrx="{@imageWidth}" lry="{@imageHeight}">
+      <graphic url="{local:get-facs-url(@imageFilename=>substring-before('.'))}" width="{@imageWidth}" height="{@imageHeight}"/>
+      <xsl:variable name="pos" as="xs:integer" select="position()"/>
+      <xsl:apply-templates select="TextRegion" mode="coords">
+        <xsl:with-param name="pageNr" select="$pos" tunnel="yes"/>
+      </xsl:apply-templates>
+    </surface>
+  </xsl:template>
+  
+  <xsl:template match="TextRegion" mode="coords">
+    <xsl:param name="pageNr" as="xs:integer" tunnel="yes"/>
+    <zone xml:id="{local:page-id($fileName,$pageNr)}_{@id}" points="{Coords/@points}" rendition="TextRegion">
+      <xsl:apply-templates select="TextLine" mode="coords"/>
+    </zone>
+  </xsl:template>
+  
+  <xsl:template match="TextLine" mode="coords">
+    <xsl:param name="pageNr" as="xs:integer" tunnel="yes"/>
+    <zone xml:id="{local:page-id($fileName,$pageNr)}_{@id}" points="{Coords/@points}" rendition="TextLine"/>
+  </xsl:template>
+  
+  
   <!-- rm @tmp-id -->
   <xsl:template match="Q{http://www.tei-c.org/ns/1.0}lb" mode="rm-tmp-id">
     <xsl:copy>
@@ -255,6 +294,17 @@
       </xsl:for-each>
     </xsl:variable>
     <xsl:sequence select="array { $maps }"/>
+  </xsl:function>
+  
+  <xsl:function name="local:get-facs-url" as="xs:string">
+    <xsl:param name="imageFilename" as="xs:string"/>
+    <xsl:sequence select="$iiif-manifest?items?*[.?label?en?*=$imageFilename]?items?*?items?*?body?id"/>
+  </xsl:function>
+  
+  <xsl:function name="local:page-id" as="xs:string">
+    <xsl:param name="fileName" as="xs:string"/>
+    <xsl:param name="pos" as="xs:integer"/>
+    <xsl:sequence select="$fileName||'_'||$pos=>format-number('000')"/>
   </xsl:function>
   
 </xsl:transform>
