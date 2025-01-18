@@ -116,8 +116,11 @@
   <xsl:template match="Page">
     <xsl:variable name="ifn" select="@imageFilename => substring-before('.')"/>
     <xsl:comment>IIIF Image or Presentation URL?</xsl:comment>
-    <pb xml:id="{local:page-id($fileName,position())}" facs="{local:get-facs-url($ifn)}"/>
-    <xsl:apply-templates select="TextRegion"/>
+    <xsl:variable name="pos" select="position()" as="xs:integer"/>
+    <pb xml:id="{local:page-id($fileName,$pos)}" facs="{local:get-facs-url($ifn)}"/>
+    <xsl:apply-templates select="TextRegion">
+      <xsl:with-param name="pos" select="$pos" tunnel="yes"/>
+    </xsl:apply-templates>
   </xsl:template>
   
   <xsl:template match="TextRegion">
@@ -167,8 +170,9 @@
   
   <!-- raw lines: raw unicode content with interspersed lb elements -->
   <xsl:template match="TextLine" mode="lines-raw">
+    <xsl:param name="pos" as="xs:integer" tunnel="yes"/>
     <!-- @tmp-id is used as a temporary unique line identifier (the Transkribus/PAGE line IDs are not always unique per document) -->
-    <lb xml:id="{$fileName}_{@id}" tmp-id="{@id||'-'||generate-id(@id)}"/>
+    <lb xml:id="{local:page-id($fileName,$pos)}_{@id}" tmp-id="{@id||'-'||generate-id(@id)}"/>
     <xsl:apply-templates select=".//TextEquiv/Unicode/node()"/>
   </xsl:template>
   
