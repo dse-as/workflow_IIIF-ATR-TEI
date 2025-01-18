@@ -20,7 +20,7 @@
   
   <xsl:output indent="true"/>
 
-  <xsl:param name="debug" static="true" as="xs:boolean" select="true()">
+  <xsl:param name="debug" static="true" as="xs:boolean" select="true()"/>
   
   <xsl:param name="fileName" select="(//Page)[1]/@imageFilename => replace('^(\w+_\d{4}).*$','$1')"/>
   <xsl:variable name="fileType" select="if (matches($fileName, 'letter')) then 'letter' else 'smallform'"/>
