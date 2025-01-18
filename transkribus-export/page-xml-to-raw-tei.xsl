@@ -46,6 +46,8 @@
   
   
   <xsl:template match="/">
+
+    
     
     <xsl:comment>
       debug page-tag-map:
@@ -57,8 +59,12 @@
       <xsl:variable name="ifn" select="'letter_0004_001'"/>
       <xsl:sequence select="$iiif-manifest?items?*[.?label?en?*=$ifn]?items?*?items?*?body?id => serialize(map {'method': 'json'})"/>
     </xsl:comment>
+
+    <xsl:result-document href="data/0-transkribus-PAGE/{$fileName}_page.xml" method="xml" encoding="UTF-8">
+      <xsl:copy-of select="*"/>
+    </xsl:result-document>
     
-    <xsl:result-document href="{$fileName}_raw.xml" method="xml" encoding="UTF-8">
+    <xsl:result-document href="data/1-raw-TEI/{$fileName}_raw.xml" method="xml" encoding="UTF-8">
       <xsl:call-template name="build-raw-tei"/>
     </xsl:result-document>
     
