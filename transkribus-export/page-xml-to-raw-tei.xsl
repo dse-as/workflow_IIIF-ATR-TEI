@@ -138,7 +138,6 @@
     <xsl:variable name="lines">
       <xsl:apply-templates select=".//TextLine" mode="lines-raw"/>
     </xsl:variable>
-    <!-- TODO for GH action: xsl:result-document -->
     <xsl:result-document href="data/1-raw-TEI/debug-lines/{$fileName}_lines-raw_{local:page-id($fileName,$pos)}_{@id}.xml" method="xml" encoding="UTF-8" use-when="$debug">
         <xsl:sequence select="$lines"/>
     </xsl:result-document>
@@ -147,13 +146,18 @@
     <xsl:variable name="lines">
       <xsl:apply-templates select="$lines" mode="lines-page-tags"/>
     </xsl:variable>
-    <!-- TODO for GH action: xsl:result-document -->
+    <xsl:result-document href="data/1-raw-TEI/debug-lines/{$fileName}_lines-page-tags_{local:page-id($fileName,$pos)}_{@id}.xml" method="xml" encoding="UTF-8" use-when="$debug">
+        <xsl:sequence select="$lines"/>
+    </xsl:result-document>
     
     <!-- rm @tmp-id -->
     <xsl:variable name="lines">
       <xsl:apply-templates select="$lines" mode="rm-tmp-id"/>
     </xsl:variable>
-    
+    <xsl:result-document href="data/1-raw-TEI/debug-lines/{$fileName}_rm-tmp-id_{local:page-id($fileName,$pos)}_{@id}.xml" method="xml" encoding="UTF-8" use-when="$debug">
+        <xsl:sequence select="$lines"/>
+    </xsl:result-document>
+
     <!-- CONV tags -->
     <xsl:variable name="lines">
       <xsl:apply-templates select="$lines" mode="lines-conventional-tags"/>
@@ -161,22 +165,27 @@
     <xsl:variable name="lines">
       <xsl:apply-templates select="$lines" mode="lines-conventional-tags-comments"/>
     </xsl:variable>
-    <!-- TODO for GH action: xsl:result-document -->
+    <xsl:result-document href="data/1-raw-TEI/debug-lines/{$fileName}_lines-conventional-tags-comments_{local:page-id($fileName,$pos)}_{@id}.xml" method="xml" encoding="UTF-8" use-when="$debug">
+        <xsl:sequence select="$lines"/>
+    </xsl:result-document>
     
     <!-- move lb within CONV tags -->
     <xsl:variable name="lines">
       <xsl:apply-templates select="$lines" mode="move-lb"/>
     </xsl:variable>
-    <!-- TODO for GH action: xsl:result-document -->
+    <xsl:result-document href="data/1-raw-TEI/debug-lines/{$fileName}_move-lb_{local:page-id($fileName,$pos)}_{@id}.xml" method="xml" encoding="UTF-8" use-when="$debug">
+        <xsl:sequence select="$lines"/>
+    </xsl:result-document>
     
     <!-- break before lb -->
     <xsl:variable name="lines">
       <xsl:apply-templates select="$lines" mode="lines-break-before-lb"/>
     </xsl:variable>
-    <!-- TODO for GH action: xsl:result-document -->
+    <xsl:result-document href="data/1-raw-TEI/debug-lines/{$fileName}_lines-break-before-lb_{local:page-id($fileName,$pos)}_{@id}.xml" method="xml" encoding="UTF-8" use-when="$debug">
+        <xsl:sequence select="$lines"/>
+    </xsl:result-document>
     
     <xsl:sequence select="$lines"/>
-    <!-- TODO for GH action: xsl:result-document -->
     
   </xsl:template>
   
