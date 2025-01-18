@@ -137,7 +137,8 @@ jobs:
       run: |
         git add data
         git commit -m "new export"
-        git push origin main:transkribus-exported
+        git push origin main
+#        git push origin main:transkribus-exported
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
