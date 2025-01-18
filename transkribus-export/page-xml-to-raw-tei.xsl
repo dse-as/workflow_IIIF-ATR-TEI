@@ -140,7 +140,7 @@
     </xsl:variable>
     <!-- TODO for GH action: xsl:result-document -->
     <xsl:result-document href="data/1-raw-TEI/debug-lines/{$fileName}_facs.xml" method="xml" encoding="UTF-8" use-when="$debug">
-        <xsl:sequence select="$lines">
+        <xsl:sequence select="$lines"/>
     </xsl:result-document>
     
     <!-- PAGE tags -->
