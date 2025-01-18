@@ -19,6 +19,8 @@
   </xd:doc>
   
   <xsl:output indent="true"/>
+
+  <xsl:param name="debug" static="true" as="xs:boolean" select="true()">
   
   <xsl:param name="fileName" select="(//Page)[1]/@imageFilename => replace('^(\w+_\d{4}).*$','$1')"/>
   <xsl:variable name="fileType" select="if (matches($fileName, 'letter')) then 'letter' else 'smallform'"/>
@@ -137,6 +139,9 @@
       <xsl:apply-templates select=".//TextLine" mode="lines-raw"/>
     </xsl:variable>
     <!-- TODO for GH action: xsl:result-document -->
+    <xsl:result-document href="data/1-raw-TEI/debug-lines/{$fileName}_facs.xml" method="xml" encoding="UTF-8" use-when="$debug">
+        <xsl:sequence select="$lines">
+    </xsl:result-document>
     
     <!-- PAGE tags -->
     <xsl:variable name="lines">
