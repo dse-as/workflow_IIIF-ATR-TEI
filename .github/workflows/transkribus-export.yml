@@ -137,7 +137,7 @@ jobs:
       run: |
         git add data
         git commit -m "new export"
-        git push origin transkribus-exported
+        git push origin main:transkribus-exported
 
 
  # for easier debugging:       
