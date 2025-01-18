@@ -124,7 +124,8 @@
   </xsl:template>
   
   <xsl:template match="TextRegion">
-    <milestone unit="textregion" xml:id="{$fileName}_{@id}"/>
+    <xsl:param name="pos" as="xs:integer" tunnel="yes"/>
+    <milestone unit="textregion" xml:id="{local:page-id($fileName,$pos)}_{@id}"/>
     <!-- raw lines -->
     <xsl:variable name="lines">
       <xsl:apply-templates select=".//TextLine" mode="lines-raw"/>
