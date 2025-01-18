@@ -22,6 +22,7 @@
   
   <xsl:param name="fileName" select="(//Page)[1]/@imageFilename => replace('^(\w+_\d{4}).*$','$1')"/>
   <xsl:variable name="fileType" select="if (matches($fileName, 'letter')) then 'letter' else 'smallform'"/>
+  <xsl:variable name="iiif-manifest" select="json-doc('https://iiif.annemarie-schwarzenbach.ch/presentation/'||$fileName||'.json')"/>
   
   <xsl:param name="schema" select="'../schema/tei_dseas.rng'"/>
   <xsl:param name="schematron" select="'../schema/dseas.sch'"/>
@@ -49,6 +50,11 @@
       debug page-tag-map:
     
       <xsl:sequence select="$PAGE-tag-info => serialize(map {'method': 'json'})"/>
+      
+      
+      debug iiif manifest:
+      <xsl:variable name="ifn" select="'letter_0004_001'"/>
+      <xsl:sequence select="$iiif-manifest?items?*[.?label?en?*=$ifn]?items?*?items?*?body?id => serialize(map {'method': 'json'})"/>
     </xsl:comment>
     
     <xsl:result-document href="{$fileName}_raw.xml" method="xml" encoding="UTF-8">
@@ -63,9 +69,7 @@
       <xsl:call-template name="teiHeader"/>
       <text>
         <body>
-          <text>
-            <xsl:apply-templates select="//TextRegion"/>
-          </text>
+          <xsl:apply-templates select="//Page"/>
         </body>
       </text>
     </TEI>
@@ -92,6 +96,13 @@
         </sourceDesc>
       </fileDesc>
     </teiHeader>
+  </xsl:template>
+  
+  <xsl:template match="Page">
+    <xsl:variable name="ifn" select="@imageFilename => substring-before('.')"/>
+    <xsl:comment>IIIF Image or Presentation URL?</xsl:comment>
+    <pb xml:id="{$fileName}_{position()}" facs="{$iiif-manifest?items?*[.?label?en?*=$ifn]?items?*?items?*?body?id}"/>
+    <xsl:apply-templates select="TextRegion"/>
   </xsl:template>
   
   <xsl:template match="TextRegion">
