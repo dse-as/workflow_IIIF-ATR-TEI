@@ -35,12 +35,6 @@
         </xsl:copy>
     </xsl:template>
     
-    <!--Unwrap zone divs--><!-- still needed? -->
-    <xsl:template match="div[starts-with(@xml:id,'dummy_')]">  
-        <!--TODO: Adding pb here?-->
-        <xsl:apply-templates select="node()"/>
-    </xsl:template>
-    
     <!--Transform CONV tag: paragraph-->
     <xsl:template match="CONV[@tag='p']">
         <xsl:element name="{@tag}">
