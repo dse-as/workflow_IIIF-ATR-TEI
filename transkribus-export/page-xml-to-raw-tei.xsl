@@ -139,7 +139,7 @@
       <xsl:apply-templates select=".//TextLine" mode="lines-raw"/>
     </xsl:variable>
     <!-- TODO for GH action: xsl:result-document -->
-    <xsl:result-document href="data/1-raw-TEI/debug-lines/{$fileName}_facs.xml" method="xml" encoding="UTF-8" use-when="$debug">
+    <xsl:result-document href="data/1-raw-TEI/debug-lines/{$fileName}_lines-raw_{local:page-id($fileName,$pos)}_{@id}.xml" method="xml" encoding="UTF-8" use-when="$debug">
         <xsl:sequence select="$lines"/>
     </xsl:result-document>
     
