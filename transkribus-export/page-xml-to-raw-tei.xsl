@@ -116,7 +116,7 @@
   <xsl:template match="Page">
     <xsl:variable name="ifn" select="@imageFilename => substring-before('.')"/>
     <xsl:comment>IIIF Image or Presentation URL?</xsl:comment>
-    <pb xml:id="{$fileName}_{position()=>format-number('000')}" facs="{local:get-facs-url($ifn)}"/>
+    <pb xml:id="{local:page-id($fileName,position())}" facs="{local:get-facs-url($ifn)}"/>
     <xsl:apply-templates select="TextRegion"/>
   </xsl:template>
   
