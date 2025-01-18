@@ -109,7 +109,7 @@
   </xsl:template>
   
   <xsl:template name="facsimile">
-    <xsl:result-document href="{$fileName}_facs.xml" method="xml" encoding="UTF-8">
+    <xsl:result-document href="data/2-base-TEI/{$fileName}_facs.xml" method="xml" encoding="UTF-8">
       <facsimile xml:id="{$fileName}_facs">
         <xsl:apply-templates select="//Page" mode="coords"/>
       </facsimile>

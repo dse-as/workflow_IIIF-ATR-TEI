@@ -106,7 +106,6 @@ jobs:
       with:
         args: -s:validation_input.xml -xsl:transkribus-export/page-xml-to-raw-tei.xsl
     - run: ls -l
-    - run: mkdir raw && mkdir dseas
     - run: chmod +x transkribus-export/string-to-tags.sh
     - run: transkribus-export/string-to-tags.sh ./data/1-raw-TEI/*_[0-9]*_raw.xml
       if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
