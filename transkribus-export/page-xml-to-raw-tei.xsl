@@ -83,11 +83,12 @@
       <xsl:text>&#xA;</xsl:text>
       <xsl:text>**Exported:**&#xA;</xsl:text>
       <xsl:text>&#xA;</xsl:text>
-      <xsl:text>* [`../tree/main/_generated/0-transkribus-PAGE/{$fileName}_page.xml`](/_generated/0-transkribus-PAGE/{$fileName}_page.xml)&#xA;</xsl:text>
+      <xsl:text>* [`_generated/0-transkribus-PAGE/{$fileName}_page.xml`](../tree/main/_generated/0-transkribus-PAGE/{$fileName}_page.xml)&#xA;</xsl:text>
+      <xsl:text>&#xA;</xsl:text>
       <xsl:text>**Generated:**&#xA;</xsl:text>
       <xsl:text>&#xA;</xsl:text>
-      <xsl:text>* [`../tree/main/_generated/1-raw-TEI/{$fileName}_raw.xml`](/_generated/1-raw-TEI/{$fileName}_raw.xml)&#xA;</xsl:text>
-      <xsl:text>* [`../tree/main/_generated/2-base-TEI/{$fileName}.xml`](/_generated/2-base-TEI/{$fileName}.xml)&#xA;</xsl:text>
+      <xsl:text>* [`_generated/1-raw-TEI/{$fileName}_raw.xml`](../tree/main/_generated/1-raw-TEI/{$fileName}_raw.xml)&#xA;</xsl:text>
+      <xsl:text>* [`_generated/2-base-TEI/{$fileName}.xml`](../tree/main/_generated/2-base-TEI/{$fileName}.xml)&#xA;</xsl:text>
     </xsl:result-document>
     
   </xsl:template>

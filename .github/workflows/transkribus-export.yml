@@ -191,10 +191,10 @@ jobs:
         run: |
           {
             echo 'issue_reply<<DELIM'
-            echo 'Validation successful: '
+            echo '# Validation successful: '
             echo ${{ needs.run.outputs.schematron_is_valid }}
             echo 
-            echo 'Transformation result: '
+            echo '# Transformation result: '
             echo "$ISSUE_MD2"
             echo 
             echo DELIM
