@@ -33,10 +33,15 @@ Automated upload workflow of IIIF images into a Transkribus collection.
 
 ## Validate and export documents from Transkribus
 
+[![Export TEI from Transkribus](assets/transkribus-export.png)](https://github.com/dse-as/workflow_IIIF-ATR-TEI/issues/new/choose)
+
+Automated download workflow of base TEI files from a Transkribus collection.
+
+Documents are only downloaded and converted if they pass a Schematron check reporting obvious mismatches of conventional tags (`\p\`, `\fp\` etc).
+
 *Work in progress*
 
-* validation is working and problems are reported as replies to the invoking issue in this repository ([example](https://github.com/dse-as/workflow_IIIF-ATR-TEI/issues/47#issuecomment-2506514012))
-* after successful validation, a base TEI is being generated; this is currently WIP
+Some improvements for the transformation to *dse-as* TEI are pending.
 
 ---
 ---
