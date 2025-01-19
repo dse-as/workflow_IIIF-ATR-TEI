@@ -97,14 +97,14 @@ jobs:
       run: echo "debug_param0=$(cat ./issue-parser-result.json | jq -r '.debug[]')" >> "$GITHUB_OUTPUT"
     - name: Debug param (boolean)
       id: debug_param
-      run: echo "debug_param=${{ steps.debug_param0.outputs.debug_param0 == 'Enable' && 'true()' || 'false()'}}" >> "$GITHUB_OUTPUT"
+      run: echo "debug_param=${{ steps.debug_param0.outputs.debug_param0 == 'Enable' && 'true' || 'false'}}" >> "$GITHUB_OUTPUT"
     - run: |
         {
           echo "### Workflow variables"
           echo "| Variable            | Description              |Value               |"
           echo "| ------------------- | ------------------------ | ------------------ |"
           echo "| schematron_is_valid | Document is valid?       | ${{ steps.schematron-result.outputs.schematron_is_valid }}  |"
-          echo "| debug0              | XSLT-Debugging enabled?  | ${{ steps.debug_param0.outputs.debug_param0 }}  |"
+          echo "| debug0              | XSLT-Debugging enabled?  | ${{ steps.debug_param0.outputs.debug_param0 == 'Enable' && 'Enable' || 'Disable' }}  |"
           echo "| debug               | XSLT-Debugging (bool)?   | ${{ steps.debug_param.outputs.debug_param }}  |"
         } >> $GITHUB_STEP_SUMMARY
 #    - run: echo "${{ steps.schematron-result.outputs.schematron_is_valid }}"
