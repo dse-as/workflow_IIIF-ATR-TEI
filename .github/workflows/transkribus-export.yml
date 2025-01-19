@@ -114,7 +114,7 @@ jobs:
     - name: Debug param (boolean)
       id: debug_param
       run: echo "debug_param=$([${{ steps.debug_param0.outputs.debug_param0 }}=='Enable'] && echo 'true()')" >> "$GITHUB_OUTPUT"
-    - run: echo ${{ steps.debug_param0.outputs.debug_param0 }}
+    - run: echo ${{ steps.debug_param.outputs.debug_param }}
 
 
     - name: PAGE XML to raw TEI (XSLT)
