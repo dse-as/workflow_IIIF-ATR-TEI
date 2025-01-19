@@ -147,11 +147,20 @@ jobs:
 
     - run: mkdir -p _generated && cp -r data/* _generated/
 
+    # Create a multiline string to be used by the git-auto-commit Action
+    - name: Set commit message
+      id: commit_message_step
+      run: |
+        echo 'commit_message<<EOF' >> $GITHUB_OUTPUT
+        cat commit-message.txt >> $GITHUB_OUTPUT
+        echo 'EOF' >> $GITHUB_OUTPUT
+
+    # Quick and dirty step to get rid of the temporary file holding the commit message
+    - run: rm -rf commit-message.txt
+
     - uses: stefanzweifel/git-auto-commit-action@v5
       with:
-        commit_message: new export
-        #create_branch: true
-        #branch: transkribus-exported
+        commit_message: ${{ steps.commit_message_step.outputs.commit_message }}
         file_pattern: '_generated/**'
         skip_fetch: true
         
