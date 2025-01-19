@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0004" type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0004</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0004_facs.xml"/>
+   <text>
+      <body><!--IIIF Image or Presentation URL?-->
+         <pb xml:id="letter_0004_001" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587679-BCUL-PREVIEW-426357_0001.jpg/info.json"/>
+         <milestone unit="textregion" xml:id="letter_0004_001_tr_1"/>
+         <lb xml:id="letter_0004_001_tr_1_tl_2" break="yes"/>BREVKORT
+<lb xml:id="letter_0004_001_tr_1_tl_3" break="yes"/>Saltsjö-Duvnäs bei Stockholm.
+<lb xml:id="letter_0004_001_tr_1_tl_4" break="yes"/>Cher Claude!<p>
+<lb xml:id="letter_0004_001_tr_1_tl_5" break="yes"/>Wann kommen Sie nach Berlin? Ich
+<lb xml:id="letter_0004_001_tr_1_tl_6" break="yes"/>war in Finnland, u. dann wieder
+<lb xml:id="letter_0004_001_tr_1_tl_7" break="yes"/>krank, u. schreibe deshalb so spät.
+<lb xml:id="letter_0004_001_tr_1_tl_8" break="yes"/>Antworten für bitte gleich:</p><p>
+<lb xml:id="letter_0004_001_tr_1_tl_9" break="yes"/>Ich werde ungefähr 16. bis 22. August in
+<lb xml:id="letter_0004_001_tr_1_tl_10" break="yes"/>Berlin sein, Telefon <hi rendition="#u">Westend 65-50</hi>.
+<lb xml:id="letter_0004_001_tr_1_tl_11" break="yes"/>Dann fahre ich mit meinem Auto
+<lb xml:id="letter_0004_001_tr_1_tl_12" break="yes"/>wahrscheinlich nach München,<!--IIIF Image or Presentation URL?--><pb xml:id="letter_0004_002" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587679-BCUL-PREVIEW-426357_0002.jpg/info.json"/>
+         <milestone unit="textregion" xml:id="letter_0004_002_tr_3"/>
+         <lb xml:id="letter_0004_002_tr_3_tl_1" break="yes"/>von München vielleicht für 2 Tage
+<lb xml:id="letter_0004_002_tr_3_tl_2" break="yes"/>nach Salzburg, dann in die
+<lb xml:id="letter_0004_002_tr_3_tl_3" break="yes"/>Schweiz. Schreiben Sie mir ob
+<lb xml:id="letter_0004_002_tr_3_tl_4" break="yes"/>Wir uns in Berlin sehen, u.
+<lb xml:id="letter_0004_002_tr_3_tl_5" break="yes"/>ob Sie Lust haben, ein Stück
+<lb xml:id="letter_0004_002_tr_3_tl_6" break="yes"/>Deutschland, mit mir im Auto,
+<lb xml:id="letter_0004_002_tr_3_tl_7" break="yes"/>zu sehen. Ich würde besonders
+<lb xml:id="letter_0004_002_tr_3_tl_8" break="yes"/>München - Salzburg sehr hübsch
+<lb xml:id="letter_0004_002_tr_3_tl_9" break="yes"/>finden.</p>
+<lb xml:id="letter_0004_002_tr_3_tl_10" break="yes"/>Ihre
+<lb xml:id="letter_0004_002_tr_3_tl_11" break="yes"/>Annemarie Schw.<!--IIIF Image or Presentation URL?--><pb xml:id="letter_0004_003" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587679-BCUL-PREVIEW-426357_0003.jpg/info.json"/>
+         <milestone unit="textregion" xml:id="letter_0004_003_tr_1"/>
+         <lb xml:id="letter_0004_003_tr_1_tl_3" break="yes"/>Schweiz
+<lb xml:id="letter_0004_003_tr_1_tl_5" break="yes"/><hi rendition="#lt">Tyskland</hi>
+<lb xml:id="letter_0004_003_tr_1_tl_6" break="yes"/>Herrn Claude Bourdet
+<lb xml:id="letter_0004_003_tr_1_tl_7" break="yes"/><hi rendition="#lt">34 Bolleystrasse</hi>
+<lb xml:id="letter_0004_003_tr_1_tl_8" break="yes"/><hi rendition="#lt">Zürich</hi> Paris 16 e
+<lb xml:id="letter_0004_003_tr_1_tl_9" break="yes"/>123 Rue de Longschamp
+<lb xml:id="letter_0004_003_tr_1_tl_12" break="yes"/>Bitte nachsenden! Unbedingt zustellen!<!--IIIF Image or Presentation URL?--><pb xml:id="letter_0004_004" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587679-BCUL-PREVIEW-426357_0004.jpg/info.json"/>
+         <milestone unit="textregion" xml:id="letter_0004_004_r"/>
+         <lb xml:id="letter_0004_004_l" break="yes"/>Ex. Schwarzenbach, Saltsjö. Duvnäs</body>
+   </text>
+   <!--Generated on 2025-01-19T15:16:56.087638Z by https://github.dev/dse-as/workflow_IIIF-ATR-TEI using SAXON HE 12.5 from Saxonica.-->
+</TEI>
