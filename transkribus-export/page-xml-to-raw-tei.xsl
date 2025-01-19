@@ -20,7 +20,7 @@
   
   <xsl:output indent="true"/>
 
-  <xsl:param name="debug" static="true" as="xs:boolean" select="true()"/>
+  <xsl:param name="debug" static="true" as="xs:boolean" select="false()"/>
   
   <xsl:param name="fileName" select="(//Page)[1]/@imageFilename => replace('^(\w+_\d{4}).*$','$1')"/>
   <xsl:variable name="fileType" select="if (matches($fileName, 'letter')) then 'letter' else 'smallform'"/>
@@ -49,13 +49,10 @@
   
   <xsl:template match="/">
 
-    
-    
-    <xsl:comment>
+    <xsl:comment use-when="$debug">
       debug page-tag-map:
     
       <xsl:sequence select="$PAGE-tag-info => serialize(map {'method': 'json'})"/>
-      
       
       debug iiif manifest:
       <xsl:variable name="ifn" select="'letter_0004_001'"/>
@@ -103,7 +100,8 @@
           <xsl:apply-templates select="//Page"/>
         </body>
       </text>
-      <xsl:comment use-when="$debug">Generated on {current-dateTime()} by https://github.dev/dse-as/workflow_IIIF-ATR-TEI using {system-property('xsl:product-name')} {system-property('xsl:product-version')} from {system-property('xsl:vendor')}.</xsl:comment>    </TEI>
+      <xsl:comment use-when="$debug">Generated on {current-dateTime()} by https://github.dev/dse-as/workflow_IIIF-ATR-TEI using {system-property('xsl:product-name')} {system-property('xsl:product-version')} from {system-property('xsl:vendor')}.</xsl:comment>
+    </TEI>
   </xsl:template>
   
   <!--Processing instructions-->
@@ -210,7 +208,15 @@
     
   </xsl:template>
   
-  <!-- raw lines: raw unicode content with interspersed lb elements -->
+
+  <!-- ========================================
+       | named modes                          |
+       ======================================== -->
+  
+  <!-- [mode] raw lines: raw unicode content 
+              with interspersed lb elements
+       ======================================== -->
+  <!--  -->
   <xsl:template match="TextLine" mode="lines-raw">
     <xsl:param name="pos" as="xs:integer" tunnel="yes"/>
     <!-- @tmp-id is used as a temporary unique line identifier (the Transkribus/PAGE line IDs are not always unique per document) -->
@@ -218,7 +224,8 @@
     <xsl:apply-templates select=".//TextEquiv/Unicode/node()"/>
   </xsl:template>
   
-  <!-- PAGE tag milestones -->
+  <!-- [mode] PAGE tag milestones
+       ======================================== -->
   <!-- strategy: to avoid debugging hell due to improperly nested tags we only strew in milestones, based on the Transkribus tag offsets
                  this will allow to generate intermediary outputs that help to track down problems
   -->
@@ -259,7 +266,8 @@
     </xsl:choose>
   </xsl:template>
   
-  <!-- coords -->
+  <!-- [mode] coords
+       ======================================== -->
   <xsl:template match="Page" mode="coords">
     <surface xml:id="{local:page-id($fileName,position())}_facs" ulx="0" uly="0" lrx="{@imageWidth}" lry="{@imageHeight}">
       <graphic url="{local:get-facs-url(@imageFilename=>substring-before('.'))}" width="{@imageWidth}" height="{@imageHeight}"/>
@@ -282,15 +290,16 @@
     <zone xml:id="{local:page-id($fileName,$pageNr)}_{@id}" points="{Coords/@points}" rendition="TextLine"/>
   </xsl:template>
   
-  
-  <!-- rm @tmp-id -->
+  <!-- [mode] rm @tmp-id
+       ======================================== -->  
   <xsl:template match="Q{http://www.tei-c.org/ns/1.0}lb" mode="rm-tmp-id">
     <xsl:copy>
       <xsl:copy-of select="@* except @tmp-id"/>
     </xsl:copy>
   </xsl:template>
   
-  <!-- pre-process conventionalised tags -->
+  <!-- [mode] pre-process conventionalised tags
+       ======================================== -->  
   <xsl:template match="text()" mode="lines-conventional-tags">
     <xsl:sequence select=". =>
       replace('\\:(fp)\\','┊CONV-tag:$1┋') => replace('\\(fp)\\','┋CONV-tag:$1┊') =>
@@ -308,7 +317,8 @@
     </xsl:analyze-string>
   </xsl:template>
   
-  <!-- move lb within CONV tags -->
+  <!-- [mode] move lb within CONV tags
+       ======================================== -->
   <xsl:template match="text()[starts-with(.,'┋CONV-tag:')]" mode="move-lb">
     <xsl:variable name="head" select="replace(.,'^(┋CONV-tag:\w*┊).*','$1')"/>
     <xsl:variable name="tail" select="substring-after(.,'┊')"/>
@@ -320,13 +330,15 @@
   </xsl:template>
   <xsl:template match="Q{http://www.tei-c.org/ns/1.0}lb[following-sibling::node()[1][self::text()][starts-with(.,'┋CONV-tag:')]]" mode="move-lb"/>
   
-  <!-- break before lb -->
+  <!-- [mode] break before lb
+       ======================================== -->  
   <xsl:template match="text()[following-sibling::*[1]/self::Q{http://www.tei-c.org/ns/1.0}lb]" mode="lines-break-before-lb">
     <xsl:sequence select=".||'&#xA;'"/>
   </xsl:template>
   
-  <!-- local functions
-       =============== -->
+  <!-- ========================================
+       | local functions                          |
+       ======================================== -->
   
   <xsl:function name="local:parse-PAGE-tag-syntax" as="array(*)">
     <xsl:param name="input"/>
