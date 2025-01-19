@@ -106,7 +106,10 @@ jobs:
     - run: tree -L 1 
       if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
     
-    - run: cat ./issue-parser-result.json | jq -r '.debug' | sub("Enable";"true()";"i")
+    - run: |
+        DEBUG0 = cat ./issue-parser-result.json | jq -r '.debug[]'
+        DEBUG = [$DEBUG0 == 'Enable' ] && echo "true()"
+        echo $DEBUG
     
     - name: PAGE XML to raw TEI (XSLT)
       if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
