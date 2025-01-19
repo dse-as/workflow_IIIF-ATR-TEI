@@ -131,14 +131,13 @@ jobs:
     - name: setup git config
       run: |
         git config user.name "GitHub Actions Bot"
-        git config user.email "<>"
+        git config user.email "peter.daengeli@unibe.ch"
     - name: commit
       if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
       run: |
         git add data
         git commit -m "new export"
-        git push origin main
-#        git push origin main:transkribus-exported
+        git push origin main:transkribus-exported
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
