@@ -19,7 +19,7 @@ jobs:
       schematron_is_valid: ${{ steps.schematron-result.outputs.schematron_is_valid }}
       schematron_svrl: ${{ steps.schematron-svrl.outputs.schematron_svrl }}
       issue_reply_file: ${{ steps.issue-reply.outputs.issue_reply_file }}
-      issue_reply_file2: ${{ steps.issue-reply.outputs.issue_reply_file2 }}
+      issue_reply_file2: ${{ steps.issue-reply-post-transform.outputs.issue_reply_file2 }}
     env:
       TASKS: ${{ join(github.event.issue.labels.*.name,', ') }}
     steps:
