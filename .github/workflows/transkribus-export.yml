@@ -20,6 +20,8 @@ jobs:
       schematron_svrl: ${{ steps.schematron-svrl.outputs.schematron_svrl }}
       issue_reply_file: ${{ steps.issue-reply.outputs.issue_reply_file }}
       issue_reply_file2: ${{ steps.issue-reply-post-transform.outputs.issue_reply_file2 }}
+      debug_param0: ${{ steps.debug_param0.outputs.debug_param0 }}
+      debug_param: ${{ steps.debug_param.outputs.debug_param }}
     env:
       TASKS: ${{ join(github.event.issue.labels.*.name,', ') }}
     steps:
@@ -106,8 +108,15 @@ jobs:
     - run: tree -L 1 
       if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
     
-    - run: cat ./issue-parser-result.json | jq -r '.debug[]'
-    
+    - name:
+      id: debug_param0
+      run: echo "debug_param0=cat ./issue-parser-result.json | jq -r '.debug[]'" >> "$GITHUB_OUTPUT"
+    - name:
+      id: debug_param
+      run: echo "debug_param=[${{ steps.debug_param0.outpus.debug_param0 }}=='Enable'] && echo 'true()'" >> "$GITHUB_OUTPUT"
+    - run: echo ${{ steps.debug_param0.outpus.debug_param }}
+
+
     - name: PAGE XML to raw TEI (XSLT)
       if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
       uses: pdaengeli/use-saxon-he-j@12.5
