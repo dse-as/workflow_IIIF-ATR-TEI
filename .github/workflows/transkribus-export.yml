@@ -108,13 +108,13 @@ jobs:
     - run: tree -L 1 
       if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
     
-    - name:
+    - name: Debug param (as-is)
       id: debug_param0
       run: echo "debug_param0=cat ./issue-parser-result.json | jq -r '.debug[]'" >> "$GITHUB_OUTPUT"
-    - name:
+    - name: Debug param (boolean)
       id: debug_param
-      run: echo "debug_param=[${{ steps.debug_param0.outpus.debug_param0 }}=='Enable'] && echo 'true()'" >> "$GITHUB_OUTPUT"
-    - run: echo ${{ steps.debug_param0.outpus.debug_param }}
+      run: echo "debug_param=[${{ steps.debug_param0.outputs.debug_param0 }}=='Enable'] && echo 'true()'" >> "$GITHUB_OUTPUT"
+    - run: echo ${{ steps.debug_param.outputs.debug_param }}
 
 
     - name: PAGE XML to raw TEI (XSLT)
