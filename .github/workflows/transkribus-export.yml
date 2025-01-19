@@ -91,13 +91,21 @@ jobs:
           cat ./issue-reply.txt
           echo
           echo DELIM
-        } >> "$GITHUB_OUTPUT"        
+        } >> "$GITHUB_OUTPUT"    
+    - name: Debug param (as-is)
+      id: debug_param0
+      run: echo "debug_param0=$(cat ./issue-parser-result.json | jq -r '.debug[]')" >> "$GITHUB_OUTPUT"
+    - name: Debug param (boolean)
+      id: debug_param
+      run: echo "debug_param=${{ steps.debug_param0.outputs.debug_param0 == 'Enable' && 'true()' || 'false()'}}" >> "$GITHUB_OUTPUT"
     - run: |
         {
           echo "### Workflow variables"
-          echo "| Variable            | Description         |Value               |"
-          echo "| ------------------- | ------------------- | ------------------ |"
-          echo "| schematron_is_valid | Document is valid?  | ${{ steps.schematron-result.outputs.schematron_is_valid }}  |"
+          echo "| Variable            | Description              |Value               |"
+          echo "| ------------------- | ------------------------ | ------------------ |"
+          echo "| schematron_is_valid | Document is valid?       | ${{ steps.schematron-result.outputs.schematron_is_valid }}  |"
+          echo "| debug0              | XSLT-Debugging enabled?  | ${{ steps.debug_param0.outputs.debug_param0 }}  |"
+          echo "| debug               | XSLT-Debugging (bool)?   | ${{ steps.debug_param.outputs.debug_param }}  |"
         } >> $GITHUB_STEP_SUMMARY
 #    - run: echo "${{ steps.schematron-result.outputs.schematron_is_valid }}"
 #      if: contains(env.TASKS,'task:transkribus-export')
@@ -107,21 +115,11 @@ jobs:
       if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
     - run: tree -L 1 
       if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
-    
-    - name: Debug param (as-is)
-      id: debug_param0
-      run: echo "debug_param0=$(cat ./issue-parser-result.json | jq -r '.debug[]')" >> "$GITHUB_OUTPUT"
-    - name: Debug param (boolean)
-      id: debug_param
-      run: echo "debug_param=${{ steps.debug_param0.outputs.debug_param0 == 'Enable' && 'true()' || 'false()'}}" >> "$GITHUB_OUTPUT"
-    - run: echo ${{ steps.debug_param.outputs.debug_param }}
-
-
     - name: PAGE XML to raw TEI (XSLT)
       if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
       uses: pdaengeli/use-saxon-he-j@12.5
       with:
-        args: -s:validation_input.xml -xsl:transkribus-export/page-xml-to-raw-tei.xsl
+        args: -s:validation_input.xml -xsl:transkribus-export/page-xml-to-raw-tei.xsl debug=${{ steps.debug_param.outputs.debug_param }}
     - run: ls -l
     - run: chmod +x transkribus-export/string-to-tags.sh
     - run: transkribus-export/string-to-tags.sh ./data/1-raw-TEI/*_[0-9]*_raw.xml
