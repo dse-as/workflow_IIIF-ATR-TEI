@@ -149,7 +149,7 @@ jobs:
 
     - name: Read issue reply file
       if: contains(env.TASKS,'task:transkribus-export')
-      id: issue-reply
+      id: issue-reply-post-transform
       run: |
         {
           echo 'issue_reply_file<<DELIM'
