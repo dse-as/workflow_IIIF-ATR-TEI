@@ -337,7 +337,7 @@
   </xsl:template>
   
   <!-- ========================================
-       | local functions                          |
+       | local functions                      |
        ======================================== -->
   
   <xsl:function name="local:parse-PAGE-tag-syntax" as="array(*)">
