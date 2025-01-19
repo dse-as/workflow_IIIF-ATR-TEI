@@ -78,6 +78,16 @@
       <xsl:text>* _generated/2-base-TEI/{$fileName}.xml&#xA;</xsl:text>
     </xsl:result-document>
     
+    <xsl:result-document href="issue-reply-post-transform.txt" method="text" encoding="UTF-8">
+      <xsl:text>Transkribus export: {$fileName}&#xA;</xsl:text>
+      <xsl:text>&#xA;</xsl:text>
+      <xsl:text>**Generated:**&#xA;</xsl:text>
+      <xsl:text>&#xA;</xsl:text>
+      <xsl:text>* [`_generated/0-transkribus-PAGE/{$fileName}_page.xml`](/_generated/0-transkribus-PAGE/{$fileName}_page.xml)&#xA;</xsl:text>
+      <xsl:text>* [`_generated/1-raw-TEI/{$fileName}_raw.xml`](/_generated/1-raw-TEI/{$fileName}_raw.xml)&#xA;</xsl:text>
+      <xsl:text>* [`_generated/2-base-TEI/{$fileName}.xml`](/_generated/2-base-TEI/{$fileName}.xml)&#xA;</xsl:text>
+    </xsl:result-document>
+    
   </xsl:template>
   
   <xsl:template name="build-raw-tei">

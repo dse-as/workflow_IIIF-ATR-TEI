@@ -116,8 +116,6 @@ jobs:
     - run: ls -l
     - run: cat ./data/1-raw-TEI/*_[0-9]*_raw.xml
       if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
-    #- run: mv *_[0-9]*_raw.xml raw/
-    #  if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
     
     # at this stage we got a raw xml file in the root directory of the checked out repo (the working directory)
     # next we can convert this to dseas-tei (using the -o flag or creating an xsl:result-document)
@@ -132,19 +130,6 @@ jobs:
     - run: cat data/2-base-TEI/*_[0-9]*.xml
       if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
 
-#    - name: setup git config
-#      run: |
-#        git config user.name "GitHub Actions Bot"
-#        git config user.email "<>"
-#    - name: commit
-#      if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
-#      run: |
-#        git add data
-#        git commit -m "new export"
-#        git push -f origin main:transkribus-exported
-#      env:
-#        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
     - run: mkdir -p _generated && cp -r data/* _generated/
 
     # Create a multiline string to be used by the git-auto-commit Action
@@ -154,15 +139,24 @@ jobs:
         echo 'commit_message<<EOF' >> $GITHUB_OUTPUT
         cat commit-message.txt >> $GITHUB_OUTPUT
         echo 'EOF' >> $GITHUB_OUTPUT
-
-    # Quick and dirty step to get rid of the temporary file holding the commit message
-    - run: rm -rf commit-message.txt
+        rm -rf commit-message.txt
 
     - uses: stefanzweifel/git-auto-commit-action@v5
       with:
         commit_message: ${{ steps.commit_message_step.outputs.commit_message }}
         file_pattern: '_generated/**'
         skip_fetch: true
+
+    - name: Read issue reply file
+      if: contains(env.TASKS,'task:transkribus-export')
+      id: issue-reply
+      run: |
+        {
+          echo 'issue_reply_file<<DELIM'
+          cat ./issue-reply-post-transform.txt
+          echo
+          echo DELIM
+        } >> "$GITHUB_OUTPUT"  
         
     # exclude _generated from artifact    
     - run: rm -r _generated
@@ -197,7 +191,9 @@ jobs:
             echo 'issue_reply<<DELIM'
             echo 'Validation successful: '
             echo ${{ needs.run.outputs.schematron_is_valid }}
-            echo
+            echo "$ISSUE_MD"
+            echo 'Transformation result: '
+            echo 
             echo DELIM
           } >> "$GITHUB_OUTPUT"
       - name: Prepare comment (failure)
