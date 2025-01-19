@@ -148,8 +148,8 @@ jobs:
     - uses: stefanzweifel/git-auto-commit-action@v5
       with:
         commit_message: new export
-        create_branch: true
-        branch: transkribus-exported
+        #create_branch: true
+        #branch: transkribus-exported
         file_pattern: 'data/**'
         skip_fetch: true
         
