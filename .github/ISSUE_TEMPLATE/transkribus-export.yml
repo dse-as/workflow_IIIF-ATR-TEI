@@ -31,3 +31,10 @@ body:
 #      value: "https://iiif.annemarie-schwarzenbach.ch/presentation/{id}/info.json"
     validations:
       required: true
+  - type: checkboxes
+    id: debug
+    attributes:
+      label: Generate intermediary outputs (for debugging)?
+      description: The resulting files will be available in the artifact of the action.
+      options:
+        - label: Generate debug info
