@@ -207,7 +207,7 @@ jobs:
             echo '# Transformation result: '
             echo "$ISSUE_MD2"
             echo 
-            echo Details and artifact available at: https://github.com/dse-as/workflow_IIIF-ATR-TEI/actions/runs/${{ github.run_id }}
+            echo Details and artifact ${{ needs.run.outputs.debug_param0 == 'Enable' && '(with debug files)' || ''}} available at: https://github.com/dse-as/workflow_IIIF-ATR-TEI/actions/runs/${{ github.run_id }}
             echo 
             echo DELIM
           } >> "$GITHUB_OUTPUT"
