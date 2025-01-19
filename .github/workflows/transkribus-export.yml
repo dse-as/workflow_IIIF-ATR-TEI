@@ -145,14 +145,19 @@ jobs:
 #      env:
 #        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+    - run: cp -r data/* _generated/*
+
     - uses: stefanzweifel/git-auto-commit-action@v5
       with:
         commit_message: new export
         #create_branch: true
         #branch: transkribus-exported
-        file_pattern: 'data/**'
+        file_pattern: '_generated/**'
         skip_fetch: true
         
+    # exclude _generated from artifact    
+    - run: rm -r _generated
+
  # for easier debugging:       
     - uses: actions/upload-pages-artifact@v3
       if: contains(env.TASKS,'task:transkribus-export')
