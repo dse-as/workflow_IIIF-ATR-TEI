@@ -113,9 +113,9 @@ jobs:
       run: echo "debug_param0=$(cat ./issue-parser-result.json | jq -r '.debug[]')" >> "$GITHUB_OUTPUT"
     - name: Debug param (boolean)
       id: debug_param
-      run: echo "debug_param=${{ steps.debug_param0.outputs.debug_param0 == 'Enable' && 'true()' || 'false()" >> "$GITHUB_OUTPUT"
+      run: echo "debug_param=${{ steps.debug_param0.outputs.debug_param0 == 'Enable' && 'true()' || 'false()'" >> "$GITHUB_OUTPUT"
     - run: echo ${{ steps.debug_param.outputs.debug_param }}
-    - run: echo "debug_param=${{ $(cat ./issue-parser-result.json | jq -r '.debug[]') == 'Enable' && 'true()' || 'false()"
+    - run: echo "debug_param=${{ $(cat ./issue-parser-result.json | jq -r '.debug[]') == 'Enable' && 'true()' || 'false()'"
 
 
     - name: PAGE XML to raw TEI (XSLT)
