@@ -19,6 +19,7 @@ jobs:
       schematron_is_valid: ${{ steps.schematron-result.outputs.schematron_is_valid }}
       schematron_svrl: ${{ steps.schematron-svrl.outputs.schematron_svrl }}
       issue_reply_file: ${{ steps.issue-reply.outputs.issue_reply_file }}
+      issue_reply_file2: ${{ steps.issue-reply.outputs.issue_reply_file2 }}
     env:
       TASKS: ${{ join(github.event.issue.labels.*.name,', ') }}
     steps:
@@ -148,11 +149,11 @@ jobs:
         skip_fetch: true
 
     - name: Read issue reply file
-      if: contains(env.TASKS,'task:transkribus-export')
+      if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
       id: issue-reply-post-transform
       run: |
         {
-          echo 'issue_reply_file<<DELIM'
+          echo 'issue_reply_file2<<DELIM'
           cat ./issue-reply-post-transform.txt
           echo
           echo DELIM
@@ -179,6 +180,7 @@ jobs:
     env:
       TASKS: ${{ join(github.event.issue.labels.*.name,', ') }}
       ISSUE_MD: ${{ needs.run.outputs.issue_reply_file }}
+      ISSUE_MD2: ${{ needs.run.outputs.issue_reply_file2 }}
     permissions:
       issues: write
     steps:
@@ -191,8 +193,9 @@ jobs:
             echo 'issue_reply<<DELIM'
             echo 'Validation successful: '
             echo ${{ needs.run.outputs.schematron_is_valid }}
-            echo "$ISSUE_MD"
+            echo 
             echo 'Transformation result: '
+            echo "$ISSUE_MD2"
             echo 
             echo DELIM
           } >> "$GITHUB_OUTPUT"
@@ -243,5 +246,5 @@ jobs:
 # DONE get xml files
 # DONE combine and validate (Schematron)
 # DONE problems
-# transform to raw TEI
-# transform to project TEI model
+# DONE transform to raw TEI
+# DONE transform to project TEI model
