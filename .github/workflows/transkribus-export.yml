@@ -133,7 +133,7 @@ jobs:
     - name: setup git config
       run: |
         git config user.name "GitHub Actions Bot"
-        git config user.email "peter.daengeli@unibe.ch"
+        git config user.email "<>"
     - name: commit
       if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
       run: |
