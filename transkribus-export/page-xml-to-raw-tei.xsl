@@ -103,7 +103,7 @@
           <xsl:apply-templates select="//Page"/>
         </body>
       </text>
-    </TEI>
+      <xsl:comment use-when="$debug">Generated on {current-dateTime()} by https://github.dev/dse-as/workflow_IIIF-ATR-TEI using {system-property('xsl:product-name')} {system-property('xsl:product-version')} from {system-property('xsl:vendor')}.</xsl:comment>    </TEI>
   </xsl:template>
   
   <!--Processing instructions-->
