@@ -191,11 +191,13 @@ jobs:
         run: |
           {
             echo 'issue_reply<<DELIM'
-            echo '# Validation successful: '
+            echo '# Validation successful: :green_circle:'
             echo ${{ needs.run.outputs.schematron_is_valid }}
             echo 
             echo '# Transformation result: '
             echo "$ISSUE_MD2"
+            echo 
+            echo Details and artifact available at: https://github.com/dse-as/workflow_IIIF-ATR-TEI/actions/runs/${{ github.run_id }}
             echo 
             echo DELIM
           } >> "$GITHUB_OUTPUT"
@@ -210,8 +212,6 @@ jobs:
             echo
             echo DELIM
           } >> "$GITHUB_OUTPUT"
-
-      # go on here with base transformation
 
       - name: Add comment
 #        if: needs.run.outputs.schematron_is_valid == 'False' && contains(env.TASKS,'task:transkribus-export')
