@@ -145,7 +145,7 @@ jobs:
 #      env:
 #        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-    - run: mkdir -p _generated && cp -r data/* _generated/*
+    - run: mkdir -p _generated && cp -r data/* _generated/
 
     - uses: stefanzweifel/git-auto-commit-action@v5
       with:
