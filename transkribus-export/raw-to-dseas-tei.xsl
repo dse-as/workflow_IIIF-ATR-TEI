@@ -32,7 +32,7 @@
   <xsl:template match="TEI">
     <xsl:copy>
       <xsl:copy-of select="@*"/>
-      <xsl:attribute name="xml:base" select="'https://annemarie-schwarzenbach.ch/'||@xml:id"/>
+      <xsl:attribute name="xml:base" select="'https://annemarie-schwarzenbach.ch/'||@xml:id||'#'"/>
       <xsl:apply-templates/>
     </xsl:copy>
   </xsl:template>
