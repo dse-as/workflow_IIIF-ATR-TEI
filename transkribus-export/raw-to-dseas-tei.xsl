@@ -6,7 +6,7 @@
   xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
   xmlns:local="local"
   xmlns="http://www.tei-c.org/ns/1.0"
-  exclude-result-prefixes="array map xd xs"
+  exclude-result-prefixes="#all"
   xpath-default-namespace="http://www.tei-c.org/ns/1.0"
   expand-text="true"
   version="3.0">
@@ -22,11 +22,22 @@
   <xsl:output indent="no"/>
   
   <xsl:mode on-no-match="shallow-copy"/>
+  <xsl:mode name="combine-hi" on-no-match="shallow-copy"/>
   
   <xsl:variable name="fileName" select="/TEI/@xml:id" as="xs:string"/>
   
   <xsl:template match="/">
-    <xsl:apply-templates/>
+    
+    <xsl:variable name="processed" as="node()*">
+      <xsl:apply-templates/>
+    </xsl:variable>
+    
+    <xsl:variable name="processed" as="node()*">
+      <xsl:apply-templates select="$processed" mode="combine-hi"/>
+    </xsl:variable>
+    
+    <xsl:sequence select="$processed"/>
+    
   </xsl:template>
   
   <xsl:template match="TEI">
@@ -90,6 +101,39 @@
         "/>
       <xsl:apply-templates select="node()"/>
     </xsl:element>
+  </xsl:template>
+  
+  <xsl:template match="p[hi]" mode="combine-hi">
+    <xsl:copy>
+      <xsl:sequence select="@*" />
+      <xsl:for-each-group select="node()"
+        group-starting-with="hi[
+        @rendition != preceding-sibling::hi[1]/@rendition
+        or not(preceding-sibling::hi)
+        or normalize-space(string-join(preceding-sibling::hi[1]/following-sibling::node() intersect preceding-sibling::node())) != ''
+        ]">
+        <xsl:choose>
+          <xsl:when test="not(current-group()[self::hi])">
+            <xsl:sequence select="current-group()" />
+          </xsl:when>
+          <xsl:otherwise>
+            <xsl:variable name="lastHi" select="index-of(current-group(), current-group()[self::hi][last()])"/>
+            <hi rendition="{current-group()[1]/@rendition}" xmlns="http://www.tei-c.org/ns/1.0">
+              <xsl:apply-templates select="current-group()[position() le $lastHi]" mode="do-combine-hi" />
+            </hi>
+            <xsl:sequence select="current-group()[position() gt $lastHi]" />
+          </xsl:otherwise>
+        </xsl:choose>
+      </xsl:for-each-group>
+    </xsl:copy>
+  </xsl:template>
+  
+  <xsl:template match="hi" mode="do-combine-hi">
+    <xsl:apply-templates mode="combine-hi"/>
+  </xsl:template>
+  
+  <xsl:template match="*:lb" mode="do-combine-hi">
+    <xsl:copy-of select="."/>
   </xsl:template>
   
 </xsl:transform>
