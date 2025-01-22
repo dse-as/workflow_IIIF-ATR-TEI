@@ -49,7 +49,7 @@ jobs:
       if: contains(env.TASKS,'task:transkribus-export')
       id: issue-parser
       with:
-        template-path: .github/ISSUE_TEMPLATE/transkribus-export.yml
+        template-path: .github/ISSUE_TEMPLATE/2-transkribus-export.yml
     - run: cat ${HOME}/issue-parser-result.json
       if: contains(env.TASKS,'task:transkribus-export')
     - run: cp ${HOME}/issue-parser-result.json ./issue-parser-result.json
