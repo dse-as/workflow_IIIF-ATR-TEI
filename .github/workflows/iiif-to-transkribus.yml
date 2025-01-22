@@ -10,20 +10,19 @@ jobs:
   evaluate-label:
     name: evaluate-label
     runs-on: ubuntu-latest
+    env:
+      TASKS: ${{ join(github.event.issue.labels.*.name,', ') }}
+      CONTINUE: ${{ env.TASKS  == 'task:iiif-upload' && 'true' || 'false'}}
     outputs:
-      continue: ${{ steps.set.outputs.continue }}
+      continue: ${{ env.CONTINUE }}
     steps:
-      - run: echo github.event.issue.labels.*.name
-      - id: set
-        if: ${{ !cancelled() }} && ${{ contains(fromJson(vars.WHITELIST),github.actor) }} && ${{ contains(github.event.issue.labels.*.name,'task:iiif-upload') }}
-        run: |
-          echo "::set-output name=continue::yes"
+      - run: echo ${{ env.CONTINUE }}
 
   run:
     name: run
     runs-on: ubuntu-latest
     needs: evaluate-label
-    if: needs.evaluate-label.outputs.continue == 'yes'
+    if: needs.evaluate-label.outputs.continue == 'true'
     outputs:
       output1: ${{ steps.ipynb-txt.outputs.out }}
     env:
