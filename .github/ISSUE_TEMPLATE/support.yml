@@ -1,0 +1,40 @@
+name: Support request
+description: Delete one or more documents from a Transkribus collection (based on IIIF manifes or Transkribus ID).
+title: "[Support]: "
+type: Support request
+labels: ["task:support-request"]
+#projects: ["octo-org/1", "octo-org/44"]
+assignees:
+  - octocat
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Use this form to report problems.
+
+        ---
+        
+  - type: dropdown
+    id: support-area
+    attributes:
+      label: Choose area of support
+      multiple: false
+      options:
+        - Transkribus upload
+        - Transkribus document deletion
+        - Transkribus export (TEI)
+        - other
+      default: 0
+      
+  - type: textarea
+    id: problem-desc
+    attributes:
+      label: Description
+      description: "Short description of the problem."
+      value: |
+
+      ...
+      render: bash
+    validations:
+      required: true  
+      
