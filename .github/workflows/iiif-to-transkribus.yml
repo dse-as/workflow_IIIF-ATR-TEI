@@ -10,27 +10,25 @@ jobs:
   evaluate-label:
     name: evaluate-label
     runs-on: ubuntu-latest
+    outputs:
+      continue: ${{ steps.set.outputs.continue }}
     steps:
       - run: echo github.event.issue.labels.*.name
       - id: set
-        if: always() && ${{ contains(fromJson(vars.WHITELIST),github.actor) }} && ${{ contains(github.event.issue.labels.*.name,'task:iiif-upload') }}
+        if: ${{ !cancelled() }} && ${{ contains(fromJson(vars.WHITELIST),github.actor) }} && ${{ contains(github.event.issue.labels.*.name,'task:iiif-upload') }}
         run: |
           echo "::set-output name=continue::yes"
-    outputs:
-      continue: ${{ steps.set.outputs.continue }}
 
   run:
     name: run
     runs-on: ubuntu-latest
-    needs:
-      - evaluate-label
+    needs: evaluate-label
     if: needs.evaluate-label.outputs.continue == 'yes'
     outputs:
       output1: ${{ steps.ipynb-txt.outputs.out }}
     env:
       TASKS: ${{ join(github.event.issue.labels.*.name,', ') }}
     steps:
-      - run: echo "B"
 
   #run:
   #  if: always() && ${{ contains(fromJson(vars.WHITELIST),github.actor) }} && ${{ contains(github.event.issue.labels.*.name,'task:iiif-upload') }}
