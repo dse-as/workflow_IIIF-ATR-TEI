@@ -42,26 +42,20 @@ jobs:
     - run: echo ${{join(github.event.issue.labels.*.name,', ')}}
     - run: echo env.TASKS
     - uses: actions/checkout@v4
-#      if: contains(env.TASKS,'task:transkribus-export')
       with:
         ref: ${{ github.head_ref }}
     - uses: stefanbuck/github-issue-parser@v3
-#      if: contains(env.TASKS,'task:transkribus-export')
       id: issue-parser
       with:
         template-path: .github/ISSUE_TEMPLATE/2-transkribus-export.yml
     - run: cat ${HOME}/issue-parser-result.json
-#      if: contains(env.TASKS,'task:transkribus-export')
     - run: cp ${HOME}/issue-parser-result.json ./issue-parser-result.json
-#      if: contains(env.TASKS,'task:transkribus-export')
     - name: Set up Python
       uses: actions/setup-python@v5
-#      if: contains(env.TASKS,'task:transkribus-export')
       with:
         python-version: '3.12'
     - uses: dse-as/run-notebook@v3-locked #fzimmermann89/run-notebook@357b84ea1b0605afb5ed2da0548ab80c9556cd1a #fzimmermann89/run-notebook@v3 #yaananth/run-notebook@v2
       id: ipynb
-#      if: contains(env.TASKS,'task:transkribus-export')
       env:
         RUNNER: ${{ toJson(runner) }}
         SECRETS: ${{ toJson(secrets) }}
@@ -73,10 +67,8 @@ jobs:
         isReport: False
         poll: True
     - run: ls -l
-#      if: contains(env.TASKS,'task:transkribus-export')
     # output for auto reply
     - name: Read result file
-#      if: contains(env.TASKS,'task:transkribus-export')
       id: schematron-result
       run: |
         {
@@ -87,7 +79,6 @@ jobs:
         } >> "$GITHUB_OUTPUT"
     # not sure we need this:       
     - name: Read svrl file
-#      if: contains(env.TASKS,'task:transkribus-export')
       id: schematron-svrl
       run: |
         {
@@ -97,7 +88,6 @@ jobs:
           echo DELIM
         } >> "$GITHUB_OUTPUT"
     - name: Read issue reply file
-#      if: contains(env.TASKS,'task:transkribus-export')
       id: issue-reply
       run: |
         {
@@ -122,39 +112,38 @@ jobs:
           echo "| debug               | XSLT-Debugging (bool)?   | ${{ steps.debug_param.outputs.debug_param }}  |"
         } >> $GITHUB_STEP_SUMMARY
 #    - run: echo "${{ steps.schematron-result.outputs.schematron_is_valid }}"
-#      if: contains(env.TASKS,'task:transkribus-export')
     - run: ls -l
-      if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
+      if: steps.schematron-result.outputs.schematron_is_valid == 'True'
     - run: mkdir -p ./data/0-transkribus-PAGE ./data/1-raw-TEI ./data/2-base-TEI
-      if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
+      if: steps.schematron-result.outputs.schematron_is_valid == 'True'
     - run: tree -L 1 
-      if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
+      if: steps.schematron-result.outputs.schematron_is_valid == 'True'
     - name: PAGE XML to raw TEI (XSLT)
-      if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
+      if: steps.schematron-result.outputs.schematron_is_valid == 'True'
       uses: pdaengeli/use-saxon-he-j@12.5
       with:
         args: -s:validation_input.xml -xsl:transkribus-export/page-xml-to-raw-tei.xsl debug=${{ steps.debug_param.outputs.debug_param }}
     - run: ls -l
     - run: chmod +x transkribus-export/string-to-tags.sh
-      if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
+      if: steps.schematron-result.outputs.schematron_is_valid == 'True'
     - run: transkribus-export/string-to-tags.sh ./data/1-raw-TEI/*_[0-9]*_raw.xml
-      if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
+      if: steps.schematron-result.outputs.schematron_is_valid == 'True'
     - run: ls -l
     - run: cat ./data/1-raw-TEI/*_[0-9]*_raw.xml
-      if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
+      if: steps.schematron-result.outputs.schematron_is_valid == 'True'
     
     # at this stage we got a raw xml file in the root directory of the checked out repo (the working directory)
     # next we can convert this to dseas-tei (using the -o flag or creating an xsl:result-document)
     - name: raw TEI to dseas TEI (XSLT)
-      if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
+      if: steps.schematron-result.outputs.schematron_is_valid == 'True'
       uses: pdaengeli/use-saxon-he-j@12.5
       with:
         args: -s:data/1-raw-TEI -xsl:transkribus-export/raw-to-dseas-tei.xsl -o:data/2-base-TEI
     - run: for f in data/2-base-TEI/*_raw.xml; do mv -i -- "$f" "${f//_raw/}"; done
-      if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
+      if: steps.schematron-result.outputs.schematron_is_valid == 'True'
     - run: tree -L 2 data
     - run: cat data/2-base-TEI/*_[0-9]*.xml
-      if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
+      if: steps.schematron-result.outputs.schematron_is_valid == 'True'
 
     - run: mkdir -p _generated && cp -r data/* _generated/
 
@@ -174,7 +163,7 @@ jobs:
         skip_fetch: true
 
     - name: Read issue reply file
-      if: steps.schematron-result.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
+      if: steps.schematron-result.outputs.schematron_is_valid == 'True'
       id: issue-reply-post-transform
       run: |
         {
@@ -189,7 +178,6 @@ jobs:
 
  # for easier debugging:       
     - uses: actions/upload-pages-artifact@v3
-      if: contains(env.TASKS,'task:transkribus-export')
       with:
         name: output
         path: .
@@ -212,7 +200,7 @@ jobs:
       - run: ls -l
       - name: Prepare comment (success)
         id: prepare-comment-success
-        if: needs.run.outputs.schematron_is_valid == 'True' && contains(env.TASKS,'task:transkribus-export')
+        if: needs.run.outputs.schematron_is_valid == 'True'
         run: |
           {
             echo 'issue_reply<<DELIM'
@@ -228,7 +216,7 @@ jobs:
           } >> "$GITHUB_OUTPUT"
       - name: Prepare comment (failure)
         id: prepare-comment-failure
-        if: needs.run.outputs.schematron_is_valid == 'False' && contains(env.TASKS,'task:transkribus-export')
+        if: needs.run.outputs.schematron_is_valid == 'False'
         run: |
           {
             echo 'issue_reply<<DELIM'
@@ -239,7 +227,7 @@ jobs:
           } >> "$GITHUB_OUTPUT"
 
       - name: Add comment
-#        if: needs.run.outputs.schematron_is_valid == 'False' && contains(env.TASKS,'task:transkribus-export')
+        if: needs.run.outputs.schematron_is_valid == 'False'
         if: contains(env.TASKS,'task:transkribus-export')
 #        run: gh issue comment "$NUMBER" --body-file ./ipynb.txt
         run: gh issue comment "$NUMBER" --body "$BODY"
@@ -266,10 +254,4 @@ jobs:
           GH_REPO: ${{ github.repository }}
           NUMBER: ${{ github.event.issue.number }}
           BODY: "**Initiator of the action (${{ github.actor }}) is not whitelisted.**\n\n **Aborting.**\n\n\n [Edit `WHITELIST`](https://github.com/pdaengeli/IIIF-to-Transkribus-test/settings/variables/actions/WHITELIST)"
-       
 
-# DONE get xml files
-# DONE combine and validate (Schematron)
-# DONE problems
-# DONE transform to raw TEI
-# DONE transform to project TEI model
