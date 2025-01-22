@@ -22,12 +22,13 @@ jobs:
     name: run
     runs-on: ubuntu-latest
     needs: evaluate-label
-    if: needs.evaluate-label.outputs.continue == 'true' && ${{ !cancelled() }} && ${{ contains(fromJson(vars.WHITELIST),github.actor) }}
+    if: ${{ needs.evaluate-label.outputs.continue == 'true' }}
     outputs:
       output1: ${{ steps.ipynb-txt.outputs.out }}
     env:
       TASKS: ${{ join(github.event.issue.labels.*.name,', ') }}
     steps:
+    - run: echo ${{ needs.evaluate-label.outputs.continue }}
     - run: echo ${{join(github.event.issue.labels.*.name,', ')}}
     - run: echo env.TASKS
     - uses: actions/checkout@v4
