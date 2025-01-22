@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       TASKS: ${{ join(github.event.issue.labels.*.name,', ') }}
-      CONTINUE: ${{ contains(join(github.event.issue.labels.*.name,', '),'task:iiif-upload') && 'true' || 'false'}}
+      CONTINUE: ${{ contains(join(github.event.issue.labels.*.name,', '),'task:iiif-upload') && ${{ contains(fromJson(vars.WHITELIST),github.actor) }} && 'true' || 'false'}}
     outputs:
       continue: ${{ env.CONTINUE }}
     steps:

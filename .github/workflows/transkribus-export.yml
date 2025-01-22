@@ -12,9 +12,23 @@ on:
 permissions: write-all
 
 jobs:
-  run:
-    if: always() && ${{ contains(fromJson(vars.WHITELIST),github.actor) }} && ${{ contains(github.event.issue.labels.*.name,'task:transkribus-export') }}
+  evaluate-label:
+    name: evaluate-label
     runs-on: ubuntu-latest
+    env:
+      TASKS: ${{ join(github.event.issue.labels.*.name,', ') }}
+      CONTINUE: ${{ contains(join(github.event.issue.labels.*.name,', '),'task:transkribus-export') && ${{ contains(fromJson(vars.WHITELIST),github.actor) }} && 'true' || 'false'}}
+    outputs:
+      continue: ${{ env.CONTINUE }}
+    steps:
+      - run: echo ${{ env.CONTINUE }}
+
+  run:
+    name: run
+    runs-on: ubuntu-latest
+    needs: evaluate-label
+    if: needs.evaluate-label.outputs.continue == 'true'
+#    if: always() && ${{ contains(fromJson(vars.WHITELIST),github.actor) }} && ${{ contains(github.event.issue.labels.*.name,'task:transkribus-export') }}
     outputs:
       schematron_is_valid: ${{ steps.schematron-result.outputs.schematron_is_valid }}
       schematron_svrl: ${{ steps.schematron-svrl.outputs.schematron_svrl }}
