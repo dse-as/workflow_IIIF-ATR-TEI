@@ -38,7 +38,7 @@
   </xsl:template>
   
   <xsl:template match="@xml:id">
-    <xsl:attribute name="xml:id" select="replace(.,$fileName||'_','')"/>
+    <xsl:attribute name="xml:id" select="replace(.,$fileName||'_','p')"/>
   </xsl:template>
   
   <!--Add @break (yes/no) to lb-->
