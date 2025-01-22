@@ -42,26 +42,26 @@ jobs:
     - run: echo ${{join(github.event.issue.labels.*.name,', ')}}
     - run: echo env.TASKS
     - uses: actions/checkout@v4
-      if: contains(env.TASKS,'task:transkribus-export')
+#      if: contains(env.TASKS,'task:transkribus-export')
       with:
         ref: ${{ github.head_ref }}
     - uses: stefanbuck/github-issue-parser@v3
-      if: contains(env.TASKS,'task:transkribus-export')
+#      if: contains(env.TASKS,'task:transkribus-export')
       id: issue-parser
       with:
         template-path: .github/ISSUE_TEMPLATE/2-transkribus-export.yml
     - run: cat ${HOME}/issue-parser-result.json
-      if: contains(env.TASKS,'task:transkribus-export')
+#      if: contains(env.TASKS,'task:transkribus-export')
     - run: cp ${HOME}/issue-parser-result.json ./issue-parser-result.json
-      if: contains(env.TASKS,'task:transkribus-export')
+#      if: contains(env.TASKS,'task:transkribus-export')
     - name: Set up Python
       uses: actions/setup-python@v5
-      if: contains(env.TASKS,'task:transkribus-export')
+#      if: contains(env.TASKS,'task:transkribus-export')
       with:
         python-version: '3.12'
     - uses: dse-as/run-notebook@v3-locked #fzimmermann89/run-notebook@357b84ea1b0605afb5ed2da0548ab80c9556cd1a #fzimmermann89/run-notebook@v3 #yaananth/run-notebook@v2
       id: ipynb
-      if: contains(env.TASKS,'task:transkribus-export')
+#      if: contains(env.TASKS,'task:transkribus-export')
       env:
         RUNNER: ${{ toJson(runner) }}
         SECRETS: ${{ toJson(secrets) }}
@@ -73,10 +73,10 @@ jobs:
         isReport: False
         poll: True
     - run: ls -l
-      if: contains(env.TASKS,'task:transkribus-export')
+#      if: contains(env.TASKS,'task:transkribus-export')
     # output for auto reply
     - name: Read result file
-      if: contains(env.TASKS,'task:transkribus-export')
+#      if: contains(env.TASKS,'task:transkribus-export')
       id: schematron-result
       run: |
         {
@@ -87,7 +87,7 @@ jobs:
         } >> "$GITHUB_OUTPUT"
     # not sure we need this:       
     - name: Read svrl file
-      if: contains(env.TASKS,'task:transkribus-export')
+#      if: contains(env.TASKS,'task:transkribus-export')
       id: schematron-svrl
       run: |
         {
@@ -97,7 +97,7 @@ jobs:
           echo DELIM
         } >> "$GITHUB_OUTPUT"
     - name: Read issue reply file
-      if: contains(env.TASKS,'task:transkribus-export')
+#      if: contains(env.TASKS,'task:transkribus-export')
       id: issue-reply
       run: |
         {
