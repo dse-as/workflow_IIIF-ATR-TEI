@@ -227,7 +227,6 @@ jobs:
           } >> "$GITHUB_OUTPUT"
 
       - name: Add comment
-        if: needs.run.outputs.schematron_is_valid == 'False'
 #        run: gh issue comment "$NUMBER" --body-file ./ipynb.txt
         run: gh issue comment "$NUMBER" --body "$BODY"
         env:
