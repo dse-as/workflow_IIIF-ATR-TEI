@@ -8,7 +8,7 @@ on:
 
 jobs:
   run:
-    if: always() && ${{ contains(fromJson(vars.WHITELIST),github.actor) }} && github.event.issue.labels[0].name = 'task:iiif-upload'
+    if: always() && ${{ contains(fromJson(vars.WHITELIST),github.actor) }} && ${{ contains(github.event.issue.labels.*.name = 'task:iiif-upload') }}
     runs-on: ubuntu-latest
     outputs:
       output1: ${{ steps.ipynb-txt.outputs.out }}

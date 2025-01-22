@@ -13,7 +13,7 @@ permissions: write-all
 
 jobs:
   run:
-    if: always() && ${{ contains(fromJson(vars.WHITELIST),github.actor) }} && github.event.issue.labels[0].name = 'task:transkribus-export'
+    if: always() && ${{ contains(fromJson(vars.WHITELIST),github.actor) }} && ${{ contains(github.event.issue.labels.*.name = 'task:transkribus-export') }}
     runs-on: ubuntu-latest
     outputs:
       schematron_is_valid: ${{ steps.schematron-result.outputs.schematron_is_valid }}
