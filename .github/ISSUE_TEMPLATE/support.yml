@@ -24,15 +24,15 @@ body:
         - Transkribus document deletion
         - Transkribus export (TEI)
         - other
-      default: 0
+      default: 4
       
   - type: textarea
     id: problem-desc
     attributes:
       label: Description
       description: "Short description of the problem."
-      value: |
-        ...
+      placeholder: |
+        …
       render: bash
     validations:
       required: true  
