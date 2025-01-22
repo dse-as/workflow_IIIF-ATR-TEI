@@ -228,7 +228,6 @@ jobs:
 
       - name: Add comment
         if: needs.run.outputs.schematron_is_valid == 'False'
-        if: contains(env.TASKS,'task:transkribus-export')
 #        run: gh issue comment "$NUMBER" --body-file ./ipynb.txt
         run: gh issue comment "$NUMBER" --body "$BODY"
         env:
