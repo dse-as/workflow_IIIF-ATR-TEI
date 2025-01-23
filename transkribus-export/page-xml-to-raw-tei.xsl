@@ -122,10 +122,24 @@
         <publicationStmt>
           <p/>
         </publicationStmt>
+        <notesStmt>
+          <note type="global_comment">
+            <p/>
+          </note>
+        </notesStmt>
         <sourceDesc>
           <p/>
         </sourceDesc>
       </fileDesc>
+      <profileDesc>
+        <textClass>
+          <keywords ana="keywords">
+            <list>
+              <item/>
+            </list>
+          </keywords>
+        </textClass>
+      </profileDesc>
     </teiHeader>
   </xsl:template>
   

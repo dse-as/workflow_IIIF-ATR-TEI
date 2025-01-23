@@ -42,7 +42,14 @@
         *:titleStmt | 
         *:title |
         *:publicationStmt | 
-        *:sourceDesc | 
+        *:notesStmt | 
+        *:note |
+        *:sourceDesc |
+        *:profileDesc |
+        *:textClass |
+        *:keywords |
+        *:list |
+        *:item |
         *:text | 
         *:body | 
         *:div | 
@@ -75,7 +82,13 @@
         *:fileDesc | 
         *:titleStmt | 
         *:publicationStmt | 
-        *:sourceDesc | 
+        *:notesStmt | 
+        *:note |
+        *:sourceDesc |
+        *:profileDesc |
+        *:textClass |
+        *:keywords |
+        *:list |
         *:text | 
         *:body | 
         *:figure"
