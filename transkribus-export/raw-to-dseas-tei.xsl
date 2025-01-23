@@ -25,6 +25,8 @@
   <xsl:mode name="combine-hi" on-no-match="shallow-copy"/>
   <xsl:mode on-no-match="shallow-copy" name="wrap-paragraphs"/>
   
+  <xsl:import href="raw-to-dseas-reflow-ws.xsl"/>
+  
   <xsl:variable name="fileName" select="/TEI/@xml:id" as="xs:string"/>
   
   <xsl:template match="/">
@@ -41,6 +43,10 @@
     
     <xsl:variable name="processed" as="node()*">
       <xsl:apply-templates select="$processed" mode="combine-hi"/>
+    </xsl:variable>
+    
+    <xsl:variable name="processed" as="node()*">
+      <xsl:apply-templates select="$processed" mode="reflow-ws"/>
     </xsl:variable>
     
     <xsl:sequence select="$processed"/>
