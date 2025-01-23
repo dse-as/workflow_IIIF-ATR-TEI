@@ -23,13 +23,20 @@
   
   <xsl:mode on-no-match="shallow-copy"/>
   <xsl:mode name="combine-hi" on-no-match="shallow-copy"/>
+  <xsl:mode on-no-match="shallow-copy" name="wrap-paragraphs"/>
   
   <xsl:variable name="fileName" select="/TEI/@xml:id" as="xs:string"/>
   
   <xsl:template match="/">
     
+    <!-- gather loosely floating contents in pseudo-paragraphs -->
     <xsl:variable name="processed" as="node()*">
-      <xsl:apply-templates/>
+      <xsl:apply-templates mode="wrap-paragraphs"/>
+    </xsl:variable>
+    
+    
+    <xsl:variable name="processed" as="node()*">
+      <xsl:apply-templates select="$processed"/>
     </xsl:variable>
     
     <xsl:variable name="processed" as="node()*">
@@ -65,6 +72,13 @@
     <xsl:element name="{@tag}">
       <xsl:apply-templates select="node()"/>
     </xsl:element>
+  </xsl:template>
+  
+  <!--Transform CONV tag: pseudo paragraph-->
+  <xsl:template match="CONV[@tag='pseudo-p']">
+    <p local:warning="FML-generated-to-avoid-structural-problems">
+      <xsl:apply-templates select="node()"/>
+    </p>
   </xsl:template>
   
   <!--Transform CONV tag: figure/paragraph-->
@@ -103,7 +117,36 @@
     </xsl:element>
   </xsl:template>
   
-  <xsl:template match="p[hi]" mode="combine-hi">
+  
+  <!-- [mode] wrap-paragraphs 
+              gather loosely floating content
+       ======================================== -->  
+  
+  <xsl:template match="body" mode="wrap-paragraphs">
+    <xsl:copy>
+      <xsl:copy-of select="@*"/>
+      <xsl:for-each-group select="node()" group-starting-with="CONV[@tag='p']">
+        <xsl:for-each-group select="current-group()" group-ending-with="self::CONV">
+          <xsl:choose>
+            <xsl:when test="current-group()[self::CONV[@tag='p']]">
+              <xsl:copy-of select="self::CONV"/>
+            </xsl:when>
+            <xsl:otherwise>
+              <CONV tag="pseudo-p">
+                <xsl:sequence select="current-group()"/>
+              </CONV>
+            </xsl:otherwise>
+          </xsl:choose>
+        </xsl:for-each-group>
+      </xsl:for-each-group>
+    </xsl:copy>
+  </xsl:template>
+    
+  <!-- [mode] combine-hi 
+              merge line-spanning highlights
+       ======================================== -->     
+  
+  <xsl:template match="*[hi]" mode="combine-hi">
     <xsl:copy>
       <xsl:sequence select="@*" />
       <xsl:for-each-group select="node()"
