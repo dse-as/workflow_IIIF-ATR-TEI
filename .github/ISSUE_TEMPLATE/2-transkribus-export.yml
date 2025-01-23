@@ -26,7 +26,7 @@ body:
     id: document-id
     attributes:
       label: Enter document ID to export
-      description: Create a separate issue for each document.
+      description: Use the *Transkribus document ID* and create a separate issue for each document.
       placeholder: '0123456'
 #      value: "https://iiif.annemarie-schwarzenbach.ch/presentation/{id}/info.json"
     validations:
