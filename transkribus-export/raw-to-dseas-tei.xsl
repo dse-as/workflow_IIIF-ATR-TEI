@@ -94,14 +94,20 @@
     </p>
   </xsl:template>
   
-  <!--Transform CONV tag: figure/paragraph-->
-  <xsl:template match="CONV[@tag='fp']">
-    <xsl:element name="figure">
-      <xsl:element name="head"/>
+  <xsl:template match="CONV[@tag='pseudo-p'][not(normalize-space() or element() or comment())]"/>
+  
+  <!--Transform CONV tag: figure/paragraph without preceding figure-->
+  <xsl:template match="CONV[@tag='fp'][not(preceding-sibling::element()[position()=2 and local-name()='CONV'][@tag='f'])]">
       <xsl:element name="p">
+        <xsl:comment>FML: nach oben in figure verschieben</xsl:comment>
         <xsl:apply-templates select="node()"/>
       </xsl:element>
-    </xsl:element>
+  </xsl:template>
+
+  <!--Transform CONV tag: figure/paragraph with preceding figure-->
+  <xsl:template match="CONV[@tag='fp'][preceding-sibling::element()[position()=2 and local-name()='CONV'][@tag='f']]"/>
+  <xsl:template match="CONV[@tag='fp'][preceding-sibling::element()[position()=2 and local-name()='CONV'][@tag='f']]" mode="merge-fp">
+    <xsl:apply-templates select="node()"/>
   </xsl:template>
   
   <!--Transform CONV tag: figure-->
@@ -110,7 +116,9 @@
       <xsl:element name="head">
         <xsl:apply-templates select="node()"/>
       </xsl:element>
-      <xsl:element name="p"/>
+      <xsl:element name="p">
+        <xsl:apply-templates select="following-sibling::element()[position()=2 and local-name()='CONV'][@tag='fp']" mode="merge-fp"/>
+      </xsl:element>
     </xsl:element>
   </xsl:template>
   
@@ -138,11 +146,11 @@
   <xsl:template match="body" mode="wrap-paragraphs">
     <xsl:copy>
       <xsl:copy-of select="@*"/>
-      <xsl:for-each-group select="node()" group-starting-with="CONV[@tag='p']">
-        <xsl:for-each-group select="current-group()" group-ending-with="self::CONV">
+      <xsl:for-each-group select="node()" group-starting-with="CONV[@tag='p' or @tag='fp' or @tag='f'] | milestone | pb | comment()">
+        <xsl:for-each-group select="current-group()" group-ending-with="self::CONV | self::milestone | self::pb | self::comment()">
           <xsl:choose>
-            <xsl:when test="current-group()[self::CONV[@tag='p']]">
-              <xsl:copy-of select="self::CONV"/>
+            <xsl:when test="current-group()[self::CONV[@tag='p' or @tag='fp' or @tag='f'] | self::milestone | self::pb | self::comment()]">
+              <xsl:copy-of select="self::CONV | self::milestone | self::pb | self::comment()"/>
             </xsl:when>
             <xsl:otherwise>
               <CONV tag="pseudo-p">
