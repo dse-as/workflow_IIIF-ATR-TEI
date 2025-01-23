@@ -59,13 +59,20 @@
     <xsl:attribute name="xml:id" select="replace(.,$fileName||'_','p')"/>
   </xsl:template>
   
-  <!--Add @break (yes/no) to lb-->
+  <!--Add @break (no) to lb-->
   <xsl:template match="lb">
     <xsl:copy>
       <xsl:apply-templates select="@*"/>
-      <xsl:attribute name="break" select="if (matches(preceding::text() => string-join() => normalize-space(),'¬$')) then 'no' else 'yes'"/>
+      <xsl:if test="matches(preceding::text() => string-join() => normalize-space(),'¬$')">
+        <xsl:attribute name="break">no</xsl:attribute>
+      </xsl:if>
     </xsl:copy>
   </xsl:template>
+  
+  <!--Remove hyphenation before lb-->
+  <xsl:template match="text()[matches(.,'¬\n?$')][following::element()[position()=1 and local-name()='lb']]">
+    <xsl:value-of select=". => replace('¬', '')"/>
+  </xsl:template>  
   
   <!--Transform CONV tag: paragraph-->
   <xsl:template match="CONV[@tag='p']">
