@@ -50,26 +50,26 @@ body:
       render: shell
     validations:
       required: false
-  - type: textarea
-    id: file-names
-    attributes:
-      label: List file names of documents to delete (not actual image file names)
-      description: For multiple documents, make a new line for each entry.
-      placeholder: "letter_9876.json"
-#      value: "letter_00001.json"
-      render: shell
-    validations:
-      required: false
-  - type: textarea
-    id: iiif-manifests
-    attributes:
-      label: List IIIF manifests to delete. Note that all documents imported from the specidied manifest(s) will be deleted.
-      description: For multiple manifests, make a new line for each entry.
-      placeholder: https://iiif.annemarie-schwarzenbach.ch/presentation/{id}/info.json
-#      value: "https://iiif.annemarie-schwarzenbach.ch/presentation/{id}/info.json"
-      render: shell
-    validations:
-      required: false
+#  - type: textarea
+#    id: file-names
+#    attributes:
+#      label: List file names of documents to delete (not actual image file names)
+#      description: For multiple documents, make a new line for each entry.
+#      placeholder: "letter_9876.json"
+##      value: "letter_00001.json"
+#      render: shell
+#    validations:
+#      required: false
+#  - type: textarea
+#    id: iiif-manifests
+#    attributes:
+#      label: List IIIF manifests to delete. Note that all documents imported from the specidied manifest(s) will be deleted.
+#      description: For multiple manifests, make a new line for each entry.
+#      placeholder: https://iiif.annemarie-schwarzenbach.ch/presentation/{id}/info.json
+##      value: "https://iiif.annemarie-schwarzenbach.ch/presentation/{id}/info.json"
+#      render: shell
+#    validations:
+#      required: false
   - type: markdown
     id: delete-docs
     attributes:
