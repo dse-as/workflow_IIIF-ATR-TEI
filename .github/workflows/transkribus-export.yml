@@ -251,5 +251,5 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_REPO: ${{ github.repository }}
           NUMBER: ${{ github.event.issue.number }}
-          BODY: "**Initiator of the action (${{ github.actor }}) is not whitelisted.**\n\n **Aborting.**\n\n\n [Edit `WHITELIST`](https://github.com/pdaengeli/IIIF-to-Transkribus-test/settings/variables/actions/WHITELIST)"
+          BODY: "**Initiator of the action (${{ github.actor }}) is not whitelisted.**\n\n **Aborting.**\n\n\n [Edit `WHITELIST`](https://github.com/organizations/dse-as/settings/variables/actions/WHITELIST)"
 
