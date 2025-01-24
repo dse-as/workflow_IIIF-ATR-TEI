@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0022" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0022#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0022</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <p/>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+ <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0022_facs.xml"/>    <text> 
+      <body><!--IIIF Image or Presentation URL?-->
+         <pb xml:id="p001" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587696-BCUL-PREVIEW-426374_0001.jpg/info.json"/>
+         <milestone unit="textregion" xml:id="p001_tr_2"/>         <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+            <lb xml:id="p001_tr_2_tl_1"/>Bochen 4 Octobre 33 
+            <lb xml:id="p001_tr_2_tl_2"/>Mon ami Claude 
+            <lb xml:id="p001_tr_2_tl_3"/>Qu'est- ce qu'il y a? Pourquoi pas un 
+            <lb xml:id="p001_tr_2_tl_4"/>mot, pas de Genève, pas de Zurich, 
+            <lb xml:id="p001_tr_2_tl_5"/>pas de nouvelle! Erika a du succès 
+            <lb xml:id="p001_tr_2_tl_6"/>formidable dans notre bonne ville, 
+            <lb xml:id="p001_tr_2_tl_7"/>Annemarie est quérie, le départ serieux 
+            <lb xml:id="p001_tr_2_tl_8"/>(serieux) s'approche - le 12, Claude 
+            <lb xml:id="p001_tr_2_tl_9"/>par Vienne - sans Dollfuss - sans 
+            <lb xml:id="p001_tr_2_tl_10"/>une définition européenne, sans une 
+            <lb xml:id="p001_tr_2_tl_11"/>garantie, un espoir, une sûreté... 
+            <lb xml:id="p001_tr_2_tl_12"/>et rien de mon ami Claude. Was 
+            <lb xml:id="p001_tr_2_tl_13"/>soll de[n] das, mein blasser, grosser 
+            <lb xml:id="p001_tr_2_tl_14"/>Junge u. Offizierskandidat? Und 
+            <lb xml:id="p001_tr_2_tl_15"/>was macht die Politik, die 
+            <lb xml:id="p001_tr_2_tl_16"/>Karriere? Wollen wir an die 
+            <lb xml:id="p001_tr_2_tl_17"/>Zukunft unserer Generation 
+            <lb xml:id="p001_tr_2_tl_18"/>glauben, Claude, u. unter welcher 
+            <lb xml:id="p001_tr_2_tl_19"/>Formel? Schreibe 
+            <lb xml:id="p001_tr_2_tl_20"/>u. vor dem 12. - 
+            <lb xml:id="p001_tr_2_tl_21"/>Tendresse - 
+            <lb xml:id="p001_tr_2_tl_22"/>A. 
+            <lb xml:id="p001_tr_2_tl_23"/>souvenir très repectueux à ta chère mère!</p>
+<!--IIIF Image or Presentation URL?-->
+         <pb xml:id="p002" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587696-BCUL-PREVIEW-426374_0002.jpg/info.json"/><!--IIIF Image or Presentation URL?-->
+         <pb xml:id="p003" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587696-BCUL-PREVIEW-426374_0003.jpg/info.json"/>
+         <milestone unit="textregion" xml:id="p003_tr_1"/>         <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+            <lb xml:id="p003_tr_1_tl_2"/>Mousieur Claude Bourdet 
+            <lb xml:id="p003_tr_1_tl_3"/>p. A. Madame Pozzi 
+            <lb xml:id="p003_tr_1_tl_4"/>47 Av. de Jéna 
+            <lb xml:id="p003_tr_1_tl_5"/>La Graulet 
+            <lb xml:id="p003_l"/>Paris 
+            <lb xml:id="p003_tr_1_tl_6"/>près 
+            <lb xml:id="p003_tr_1_tl_7"/>Bergerac 
+            <lb xml:id="p003_tr_1_tl_8"/>Dordogne</p>
+<!--IIIF Image or Presentation URL?-->
+         <pb xml:id="p004" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587696-BCUL-PREVIEW-426374_0004.jpg/info.json"/><!--IIIF Image or Presentation URL?-->
+         <pb xml:id="p005" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587696-BCUL-PREVIEW-426374_0005.jpg/info.json"/>      </body>
+    </text>
+ </TEI>
