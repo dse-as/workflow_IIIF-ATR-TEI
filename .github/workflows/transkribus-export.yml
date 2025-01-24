@@ -147,6 +147,7 @@ jobs:
       if: steps.schematron-result.outputs.schematron_is_valid == 'True'
 
     - run: mkdir -p _generated && cp -r data/* _generated/
+      if: steps.schematron-result.outputs.schematron_is_valid == 'True'
 
     # Create a multiline string to be used by the git-auto-commit Action
     - name: Set commit message
