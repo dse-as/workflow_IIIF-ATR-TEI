@@ -142,6 +142,7 @@ jobs:
     - run: for f in data/2-base-TEI/*_raw.xml; do mv -i -- "$f" "${f//_raw/}"; done
       if: steps.schematron-result.outputs.schematron_is_valid == 'True'
     - run: tree -L 2 data
+      if: steps.schematron-result.outputs.schematron_is_valid == 'True'
     - run: cat data/2-base-TEI/*_[0-9]*.xml
       if: steps.schematron-result.outputs.schematron_is_valid == 'True'
 
