@@ -1,5 +1,5 @@
 name: Transkribus document deletion
-description: Delete one or more documents from a Transkribus collection (based on Transkribus ID) #(based on IIIF manifes or Transkribus ID).
+description: Delete one or more documents from the Transkribus collection `as-dse_delete` (based on IIIF manifest or Transkribus ID).
 title: "[Deletion]: "
 type: Transkribus deletion
 labels: ["task:doc-deletion"]
@@ -12,24 +12,22 @@ body:
       value: |
         ## Use this form to delete Transkribus documents owned by `tech@annemarie-schwarzenbach.ch`.
 
-        Deletion is currently only possible by:
-        * by Transkribus ID
-
+        There are three alternative ways to specify the documents: 
+        * **by Transkribus ID (recommended, safest)**, 
+        * by filename or 
+        * by IIIF manifest, from which they were imported  
         ---
-        
-#        There are three alternative ways to specify the documents: 
-#        * by Transkribus ID (recommended, safest), 
-#        * by filename or 
-#        * by IIIF manifest, from which they were imported        
+              
   - type: dropdown
     id: target-collection
     attributes:
       label: Choose target collection
       multiple: false
       options:
-        - as-dse_wait (1905386)
-        - as-dse_work (1249767)
-        - as-dse_finished (1387086)
+        - as-dse_delete (1905465)
+#        - as-dse_wait (1905386)
+#        - as-dse_work (1249767)
+#        - as-dse_finished (1387086)
         - iiif-test (1903832)
       default: 0
   - type: markdown
@@ -45,33 +43,33 @@ body:
   - type: textarea
     id: transkribus-ids
     attributes:
-      label: List Transkribus ID(s) to delete
+      label: List Transkribus ID(s) to delete (**recommended, safest**)
       description: For multiple documents, make a new line for each entry.
       placeholder: "123456"
 #      value: "123456"
       render: shell
     validations:
       required: false
-#  - type: textarea
-#    id: file-names
-#    attributes:
-#      label: List file names of documents to delete (not actual image file names)
-#      description: For multiple documents, make a new line for each entry.
-#      placeholder: "letter_9876.json"
-##      value: "letter_00001.json"
-#      render: shell
-#    validations:
-#      required: false
-#  - type: textarea
-#    id: iiif-manifests
-#    attributes:
-#      label: List IIIF manifests to delete. Note that all documents imported from the specidied manifest(s) will be deleted.
-#      description: For multiple manifests, make a new line for each entry.
-#      placeholder: https://iiif.annemarie-schwarzenbach.ch/presentation/{id}/info.json
-##      value: "https://iiif.annemarie-schwarzenbach.ch/presentation/{id}/info.json"
-#      render: shell
-#    validations:
-#      required: false
+  - type: textarea
+    id: file-names
+    attributes:
+      label: List file names of documents to delete (not actual image file names)
+      description: For multiple documents, make a new line for each entry.
+      placeholder: "letter_9876.json"
+#      value: "letter_00001.json"
+      render: shell
+    validations:
+      required: false
+  - type: textarea
+    id: iiif-manifests
+    attributes:
+      label: List IIIF manifests to delete. Note that all documents imported from the specidied manifest(s) will be deleted.
+      description: For multiple manifests, make a new line for each entry.
+      placeholder: https://iiif.annemarie-schwarzenbach.ch/presentation/{id}/info.json
+#      value: "https://iiif.annemarie-schwarzenbach.ch/presentation/{id}/info.json"
+      render: shell
+    validations:
+      required: false
   - type: markdown
     id: delete-docs
     attributes:
