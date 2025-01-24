@@ -13,13 +13,14 @@ body:
         ## Use this form to delete Transkribus documents owned by `tech@annemarie-schwarzenbach.ch`.
 
         Deletion is currently only possible by:
-#        There are three alternative ways to specify the documents: 
-        * by Transkribus ID (recommended, safest), 
-#        * by filename or 
-#        * by IIIF manifest, from which they were imported
+        * by Transkribus ID
 
         ---
         
+#        There are three alternative ways to specify the documents: 
+#        * by Transkribus ID (recommended, safest), 
+#        * by filename or 
+#        * by IIIF manifest, from which they were imported        
   - type: dropdown
     id: target-collection
     attributes:
