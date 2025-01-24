@@ -9,10 +9,11 @@ The preparation workflow for images and transcriptions consists of the following
 * transforming PAGE XML from Transkribus to raw TEI
 * transforming raw TEI to final format
 
+<!--
 Auxiliary methods:
 
 * [deleting documents from a Transkribus collection](delete-documents-from-transkribus-collection)
-
+-->
 To facilitate handling, most scripts are executable directly on Github, either by opening an issue (using the appropriate template) or by committing a metadata file to the repository.
 
 ---
