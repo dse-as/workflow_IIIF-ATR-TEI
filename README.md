@@ -23,12 +23,13 @@ To facilitate handling, most scripts are executable directly on Github, either b
 
 Automated upload workflow of IIIF images into a Transkribus collection.
 
+<!--
 ---
 
 ## Delete documents from Transkribus collection
 
 [![Delete Transkribus document](assets/doc-deletion.png)](https://github.com/dse-as/workflow_IIIF-ATR-TEI/issues/new/choose)
-
+-->
 ---
 
 ## Validate and export documents from Transkribus
