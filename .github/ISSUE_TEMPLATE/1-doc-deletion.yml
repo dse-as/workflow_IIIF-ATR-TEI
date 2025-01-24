@@ -1,5 +1,5 @@
 name: Transkribus document deletion
-description: Delete one or more documents from a Transkribus collection (based on IIIF manifes or Transkribus ID).
+description: Delete one or more documents from a Transkribus collection (based on Transkribus ID) #(based on IIIF manifes or Transkribus ID).
 title: "[Deletion]: "
 type: Transkribus deletion
 labels: ["task:doc-deletion"]
@@ -12,10 +12,10 @@ body:
       value: |
         ## Use this form to delete Transkribus documents owned by `tech@annemarie-schwarzenbach.ch`.
 
-        There are three alternative ways to specify the documents: 
-        * by Transkribus ID (recommended, safest), 
-        * by filename or 
-        * by IIIF manifest, from which they were imported
+#        There are three alternative ways to specify the documents: 
+#        * by Transkribus ID (recommended, safest), 
+#        * by filename or 
+#        * by IIIF manifest, from which they were imported
 
         ---
         
