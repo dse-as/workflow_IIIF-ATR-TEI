@@ -85,8 +85,8 @@
       <xsl:text>&#xA;</xsl:text>
       <xsl:text>**Generated:**&#xA;</xsl:text>
       <xsl:text>&#xA;</xsl:text>
-      <xsl:text>* [`_generated/1-raw-TEI/{$fileName}_raw.xml`](../tree/main/_generated/1-raw-TEI/{$fileName}_raw.xml)&#xA;</xsl:text>
-      <xsl:text>* [`_generated/2-base-TEI/{$fileName}.xml`](../tree/main/_generated/2-base-TEI/{$fileName}.xml)&#xA;</xsl:text>
+      <xsl:text>* [`_generated/1-raw-TEI/{$fileName}_raw.xml`](https://github.com/dse-as/workflow_IIIF-ATR-TEI/tree/main/tree/main/_generated/1-raw-TEI/{$fileName}_raw.xml)&#xA;</xsl:text>
+      <xsl:text>* [`_generated/2-base-TEI/{$fileName}.xml`](https://github.com/dse-as/workflow_IIIF-ATR-TEI/tree/main/_generated/2-base-TEI/{$fileName}.xml)&#xA;</xsl:text>
     </xsl:result-document>
     
   </xsl:template>
