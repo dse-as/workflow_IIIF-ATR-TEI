@@ -152,6 +152,7 @@ jobs:
     # Create a multiline string to be used by the git-auto-commit Action
     - name: Set commit message
       id: commit_message_step
+      if: steps.schematron-result.outputs.schematron_is_valid == 'True'
       run: |
         echo 'commit_message<<EOF' >> $GITHUB_OUTPUT
         cat commit-message.txt >> $GITHUB_OUTPUT
@@ -159,6 +160,7 @@ jobs:
         rm -rf commit-message.txt
 
     - uses: stefanzweifel/git-auto-commit-action@v5
+      if: steps.schematron-result.outputs.schematron_is_valid == 'True'
       with:
         commit_message: ${{ steps.commit_message_step.outputs.commit_message }}
         file_pattern: '_generated/**'
@@ -177,6 +179,7 @@ jobs:
         
     # exclude _generated from artifact    
     - run: rm -r _generated
+      if: steps.schematron-result.outputs.schematron_is_valid == 'True'
 
  # for easier debugging:       
     - uses: actions/upload-pages-artifact@v3
