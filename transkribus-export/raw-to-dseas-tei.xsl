@@ -76,7 +76,11 @@
   </xsl:template>
   
   <!--Remove hyphenation before lb-->
-  <xsl:template match="text()[matches(.,'¬\n?$')][following::element()[position()=1 and local-name()='lb']]">
+  <xsl:template match="text()[matches(.,'¬\n?$')]
+    [
+      following::element()[position()=1 and local-name()='lb'] or
+      (following::element()[position()=1 and local-name()='milestone'] and following::element()[position()=2 and local-name()='lb'])
+    ]">
     <xsl:value-of select=". => replace('¬', '')"/>
   </xsl:template>  
   
