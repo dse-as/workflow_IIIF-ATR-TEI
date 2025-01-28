@@ -101,7 +101,7 @@
   <xsl:template match="CONV[@tag='pseudo-p'][not(normalize-space() or element() or comment())]"/>
   
   <!--Transform CONV tag: figure/paragraph without preceding figure-->
-  <xsl:template match="CONV[@tag='fp'][not(preceding-sibling::element()[position()=2 and local-name()='CONV'][@tag='f'])]">
+  <xsl:template match="CONV[@tag='fp'][not(preceding-sibling::element()[(position()=2 or position()=3) and local-name()='CONV'][@tag='f'])]">
       <xsl:element name="p">
         <xsl:comment>FML: nach oben in figure verschieben</xsl:comment>
         <xsl:apply-templates select="node()"/>
@@ -109,8 +109,8 @@
   </xsl:template>
 
   <!--Transform CONV tag: figure/paragraph with preceding figure-->
-  <xsl:template match="CONV[@tag='fp'][preceding-sibling::element()[position()=2 and local-name()='CONV'][@tag='f']]"/>
-  <xsl:template match="CONV[@tag='fp'][preceding-sibling::element()[position()=2 and local-name()='CONV'][@tag='f']]" mode="merge-fp">
+  <xsl:template match="CONV[@tag='fp'][preceding-sibling::element()[(position()=2 or position()=3) and local-name()='CONV'][@tag='f']]"/>
+  <xsl:template match="CONV[@tag='fp'][preceding-sibling::element()[(position()=2 or position()=3) and local-name()='CONV'][@tag='f']]" mode="merge-fp">
     <xsl:apply-templates select="node()"/>
   </xsl:template>
   
@@ -121,7 +121,7 @@
         <xsl:apply-templates select="node()"/>
       </xsl:element>
       <xsl:element name="p">
-        <xsl:apply-templates select="following-sibling::element()[position()=2 and local-name()='CONV'][@tag='fp']" mode="merge-fp"/>
+        <xsl:apply-templates select="following-sibling::element()[(position()=2 or position()=3) and local-name()='CONV'][@tag='fp']" mode="merge-fp"/>
       </xsl:element>
     </xsl:element>
   </xsl:template>
