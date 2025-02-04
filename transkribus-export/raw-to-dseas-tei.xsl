@@ -126,6 +126,14 @@
     </xsl:element>
   </xsl:template>
   
+  <!--Transform CONV tag: g-->
+  <xsl:template match="CONV[@tag='g']">
+    <xsl:element name="hi">
+      <xsl:attribute name="rendition" select="'#g'"/>
+      <xsl:apply-templates select="node()"/>
+    </xsl:element>
+  </xsl:template>
+  
   <!--Transform PAGE tag: hi (i.e. bold, italic, strikethrough, underlined, subscript, superscript)-->
   <xsl:template match="PAGE[matches(@tag,'bold|italic|strikethrough|underlined|subscript|superscript')]">
     <xsl:element name="hi">

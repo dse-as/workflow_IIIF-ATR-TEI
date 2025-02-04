@@ -319,7 +319,8 @@
     <xsl:sequence select=". =>
       replace('\\:(fp)\\','┊CONV-tag:$1┋') => replace('\\(fp)\\','┋CONV-tag:$1┊') =>
       replace('\\:(f)\\','┊CONV-tag:$1┋') => replace('\\(f)\\','┋CONV-tag:$1┊') =>
-      replace('\\:(p)\\','┊CONV-tag:$1┋') => replace('\\(p)\\','┋CONV-tag:$1┊')
+      replace('\\:(p)\\','┊CONV-tag:$1┋') => replace('\\(p)\\','┋CONV-tag:$1┊') =>
+      replace('\\:(g)\\','┊CONV-tag:$1┋') => replace('\\(g)\\','┋CONV-tag:$1┊')
       "/>
   </xsl:template>
   
