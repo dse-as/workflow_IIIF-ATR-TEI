@@ -23,6 +23,7 @@
   
   <xsl:mode on-no-match="shallow-copy"/>
   <xsl:mode name="combine-hi" on-no-match="shallow-copy"/>
+  <xsl:mode name="del-overstrike" on-no-match="shallow-copy"/>
   <xsl:mode on-no-match="shallow-copy" name="wrap-paragraphs"/>
   
   <xsl:import href="raw-to-dseas-reflow-ws.xsl"/>
@@ -43,6 +44,10 @@
     
     <xsl:variable name="processed" as="node()*">
       <xsl:apply-templates select="$processed" mode="combine-hi"/>
+    </xsl:variable>
+    
+    <xsl:variable name="processed" as="node()*">
+      <xsl:apply-templates select="$processed" mode="del-overstrike"/>
     </xsl:variable>
     
     <xsl:variable name="processed" as="node()*">
@@ -210,6 +215,17 @@
   
   <xsl:template match="*:lb" mode="do-combine-hi">
     <xsl:copy-of select="."/>
+  </xsl:template>
+
+  <!-- [mode] del-overstrike 
+              transform <hi rendition="#lt"/> to <del rend="overstrike"/>
+       ======================================== -->  
+  
+  <xsl:template match="hi[matches(@rendition,'#lt')]" mode="del-overstrike">
+    <xsl:element name="del">
+      <xsl:attribute name="rend" select="'overstrike'"/>
+      <xsl:apply-templates select="node()"/>
+    </xsl:element>
   </xsl:template>
   
 </xsl:transform>
