@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0002" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0002#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0002</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <p/>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+ <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0002_facs.xml"/>    <text> 
+      <body><!--IIIF Image or Presentation URL?-->
+         <pb xml:id="p001" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587677-BCUL-PREVIEW-426355_0001.jpg/info.json"/>
+         <milestone unit="textregion" xml:id="p001_tr_2"/>         <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+            <lb xml:id="p001_tr_2_tl_1"/>Lundi 
+            <lb xml:id="p001_tr_2_tl_2"/>Cher Claude - 
+            <lb xml:id="p001_tr_2_tl_3"/>pour des raisons un peu compliquées 
+            <lb xml:id="p001_tr_2_tl_4"/>je ne suis pas partir pour l’Autriche. 
+            <lb xml:id="p001_tr_2_tl_5"/>Je parts Mercredi pour Berlin. Je 
+            <lb xml:id="p001_tr_2_tl_6"/>voudrais beaucoup vous voir avant 
+            <lb xml:id="p001_tr_2_tl_7"/>de partir. Si vous êtes là - téléphonez 
+            <lb xml:id="p001_tr_2_tl_8"/>moi s’il vous plait tout de suite. 
+            <lb xml:id="p001_tr_2_tl_9"/>(924-169) 
+            <lb xml:id="p001_tr_2_tl_10"/>Amitiés 
+            <lb xml:id="p001_tr_2_tl_11"/>Annemarie</p>
+<!--IIIF Image or Presentation URL?-->
+         <pb xml:id="p002" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587677-BCUL-PREVIEW-426355_0002.jpg/info.json"/>      </body>
+    </text>
+ </TEI>
