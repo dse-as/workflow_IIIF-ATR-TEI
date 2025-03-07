@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0001"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0001</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0001_facs.xml"/>
+   <text>
+      <body><!--IIIF Image or Presentation URL?-->
+         <pb xml:id="letter_0001_001"
+             facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587676-BCUL-PREVIEW-426354_0002.jpg/info.json"/>
+         <milestone unit="textregion" xml:id="letter_0001_001_r_85"/>
+         <lb xml:id="letter_0001_001_l_46"/>[Aufdruck Karte] Echte
+<lb xml:id="letter_0001_001_l_53"/>Photographie<milestone unit="textregion" xml:id="letter_0001_001_r_32"/>
+         <lb xml:id="letter_0001_001_l"/>[Audruck Karte] Georg Grebe, Stockdrf bei Mänchen Nr. 147<milestone unit="textregion" xml:id="letter_0001_001_tr_1"/>
+         <lb xml:id="letter_0001_001_tr_1_tl_2"/>Cher Claude!
+<lb xml:id="letter_0001_001_tr_1_tl_5"/>Nous flanons à
+<lb xml:id="letter_0001_001_tr_1_tl_7"/>Munich, je pars demain
+<lb xml:id="letter_0001_001_tr_1_tl_10"/>pour Paris et Valerie
+<lb xml:id="letter_0001_001_tr_1_tl_14"/>travaille. Moi je ne
+<lb xml:id="letter_0001_001_tr_1_tl_15"/>travaille rien. Je
+<lb xml:id="letter_0001_001_tr_1_tl_19"/>dors et je bois du
+<lb xml:id="letter_0001_001_tr_1_tl_20"/>café noir.  Savez-vous
+<lb xml:id="letter_0001_001_tr_1_tl_22"/>que j'ai passé mon
+<lb xml:id="letter_0001_001_tr_1_tl_23"/>Doctorat? Est-ce que
+<lb xml:id="letter_0001_001_tr_1_tl_24"/>ns. ns. verrons à Paris?
+<lb xml:id="letter_0001_001_l_320"/>Annemarie
+<lb xml:id="letter_0001_001_tr_1_tl_27"/>Bien des amitiés
+<lb xml:id="letter_0001_001_tr_1_tl_29"/>Valerie<milestone unit="textregion" xml:id="letter_0001_001_r"/>
+         <lb xml:id="letter_0001_001_l_276"/>M. Claude Bourdet
+<lb xml:id="letter_0001_001_tr_1_tl_21"/>Boleystr. 34
+<lb xml:id="letter_0001_001_tr_1_tl_25"/>Zurich
+<lb xml:id="letter_0001_001_tr_1_tl_28"/>Schweiz [Stempel]<!--IIIF Image or Presentation URL?--><pb xml:id="letter_0001_002"
+             facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587676-BCUL-PREVIEW-426354_0001.jpg/info.json"/>
+      </body>
+   </text>
+</TEI>
