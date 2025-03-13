@@ -342,7 +342,7 @@
     <xsl:comment>tail: {$tail}</xsl:comment>-->
     <xsl:sequence select="$head"/>
     <xsl:copy-of select="preceding-sibling::*[1]"/>
-    <xsl:sequence select="$tail"/>
+    <xsl:sequence select="$tail => substring-after('┊')"/>
   </xsl:template>
   <xsl:template match="Q{http://www.tei-c.org/ns/1.0}lb[following-sibling::node()[1][self::text()][starts-with(.,'┋CONV-tag:')]]" mode="move-lb"/>
   
