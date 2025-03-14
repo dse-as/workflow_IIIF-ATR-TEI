@@ -150,7 +150,7 @@
               gather loosely floating content
        ======================================== -->  
   
-  <xsl:template match="body" mode="wrap-paragraphs">
+  <xsl:template match="body/div" mode="wrap-paragraphs">
     <xsl:copy>
       <xsl:copy-of select="@*"/>
       <xsl:for-each-group select="node()" group-starting-with="CONV[@tag='p' or @tag='fp' or @tag='f'] | milestone | pb | comment()">
