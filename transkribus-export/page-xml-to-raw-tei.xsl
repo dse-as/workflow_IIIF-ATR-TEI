@@ -98,7 +98,7 @@
       <xsl:call-template name="facsimile"/>
       <text>
         <body>
-          <div>
+          <div type="{$fileType}">
             <xsl:apply-templates select="//Page"/>
           </div>
         </body>
