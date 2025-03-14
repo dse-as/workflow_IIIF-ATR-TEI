@@ -165,7 +165,7 @@
   
   <xsl:template match="Page">
     <xsl:variable name="ifn" select="@imageFilename => substring-before('.')"/>
-    <xsl:comment>IIIF Image or Presentation URL?</xsl:comment>
+    <!--IIIF Image or Presentation URL?-->
     <xsl:variable name="pos" select="position()" as="xs:integer"/>
     <pb xml:id="{local:page-id($fileName,$pos)}" facs="{local:get-facs-url($ifn)}"/>
     <xsl:apply-templates select="TextRegion">
