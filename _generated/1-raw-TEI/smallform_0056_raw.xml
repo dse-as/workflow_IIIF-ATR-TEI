@@ -22,8 +22,16 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
          <textClass>
             <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
                <list>
                   <item/>
                </list>
@@ -33,7 +41,7 @@
    </teiHeader>
    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0056_facs.xml"/>
    <text>
-      <body><!--IIIF Image or Presentation URL?-->
+      <body>
          <pb xml:id="smallform_0056_001"
              facs="https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211933_009%21zui-001_1933_009_1497.jpg/info.json"/>
          <milestone unit="textregion" xml:id="smallform_0056_001_r_30"/>
@@ -116,5 +124,5 @@
 <lb xml:id="smallform_0056_001_r_21_tl_3"/>heutigen Tag Transportmittel geblieben. Wegen des ächzenden «Ge¬
 <lb xml:id="smallform_0056_001_r_21_tl_4"/>sangs» ihrer Vollräder werden diese Karren «Nachtigallen» genannt.</CONV></body>
    </text>
-   <!--Generated on 2025-03-14T00:28:40.238114Z by https://github.dev/dse-as/workflow_IIIF-ATR-TEI using SAXON HE 12.5 from Saxonica.-->
+   <!--Generated on 2025-03-14T08:41:38.139659Z by https://github.dev/dse-as/workflow_IIIF-ATR-TEI using SAXON HE 12.5 from Saxonica.-->
 </TEI>
