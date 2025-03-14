@@ -48,6 +48,8 @@
         *:profileDesc |
         *:textClass |
         *:keywords |
+        *:langUsage |
+        *:language |
         *:list |
         *:item |
         *:text | 
@@ -88,6 +90,7 @@
         *:profileDesc |
         *:textClass |
         *:keywords |
+        *:langUsage |
         *:list |
         *:text | 
         *:body | 
