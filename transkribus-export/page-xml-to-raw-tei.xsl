@@ -98,7 +98,9 @@
       <xsl:call-template name="facsimile"/>
       <text>
         <body>
-          <xsl:apply-templates select="//Page"/>
+          <div>
+            <xsl:apply-templates select="//Page"/>
+          </div>
         </body>
       </text>
       <xsl:comment use-when="$debug">Generated on {current-dateTime()} by https://github.dev/dse-as/workflow_IIIF-ATR-TEI using {system-property('xsl:product-name')} {system-property('xsl:product-version')} from {system-property('xsl:vendor')}.</xsl:comment>
