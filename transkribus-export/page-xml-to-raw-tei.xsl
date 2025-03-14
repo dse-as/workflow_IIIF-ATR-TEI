@@ -172,7 +172,7 @@
     <xsl:variable name="lines">
       <xsl:apply-templates select=".//TextLine" mode="lines-raw"/>
     </xsl:variable>
-    <xsl:result-document href="data/1-raw-TEI/debug-lines/{$fileName}_lines-raw_{local:page-id($fileName,$pos)}_{@id}.xml" method="xml" encoding="UTF-8" use-when="$debug">
+    <xsl:result-document href="data/1-raw-TEI/debug-lines/{$fileName}_0_lines-raw_{local:page-id($fileName,$pos)}_{@id}.xml" method="xml" encoding="UTF-8" use-when="$debug">
         <xsl:sequence select="$lines"/>
     </xsl:result-document>
     
@@ -180,7 +180,7 @@
     <xsl:variable name="lines">
       <xsl:apply-templates select="$lines" mode="lines-page-tags"/>
     </xsl:variable>
-    <xsl:result-document href="data/1-raw-TEI/debug-lines/{$fileName}_lines-page-tags_{local:page-id($fileName,$pos)}_{@id}.xml" method="xml" encoding="UTF-8" use-when="$debug">
+    <xsl:result-document href="data/1-raw-TEI/debug-lines/{$fileName}_1_lines-page-tags_{local:page-id($fileName,$pos)}_{@id}.xml" method="xml" encoding="UTF-8" use-when="$debug">
         <xsl:sequence select="$lines"/>
     </xsl:result-document>
     
@@ -188,7 +188,7 @@
     <xsl:variable name="lines">
       <xsl:apply-templates select="$lines" mode="rm-tmp-id"/>
     </xsl:variable>
-    <xsl:result-document href="data/1-raw-TEI/debug-lines/{$fileName}_rm-tmp-id_{local:page-id($fileName,$pos)}_{@id}.xml" method="xml" encoding="UTF-8" use-when="$debug">
+    <xsl:result-document href="data/1-raw-TEI/debug-lines/{$fileName}_2_rm-tmp-id_{local:page-id($fileName,$pos)}_{@id}.xml" method="xml" encoding="UTF-8" use-when="$debug">
         <xsl:sequence select="$lines"/>
     </xsl:result-document>
 
@@ -199,7 +199,7 @@
     <xsl:variable name="lines">
       <xsl:apply-templates select="$lines" mode="lines-conventional-tags-comments"/>
     </xsl:variable>
-    <xsl:result-document href="data/1-raw-TEI/debug-lines/{$fileName}_lines-conventional-tags-comments_{local:page-id($fileName,$pos)}_{@id}.xml" method="xml" encoding="UTF-8" use-when="$debug">
+    <xsl:result-document href="data/1-raw-TEI/debug-lines/{$fileName}_3_lines-conventional-tags-comments_{local:page-id($fileName,$pos)}_{@id}.xml" method="xml" encoding="UTF-8" use-when="$debug">
         <xsl:sequence select="$lines"/>
     </xsl:result-document>
     
@@ -207,7 +207,7 @@
     <xsl:variable name="lines">
       <xsl:apply-templates select="$lines" mode="move-lb"/>
     </xsl:variable>
-    <xsl:result-document href="data/1-raw-TEI/debug-lines/{$fileName}_move-lb_{local:page-id($fileName,$pos)}_{@id}.xml" method="xml" encoding="UTF-8" use-when="$debug">
+    <xsl:result-document href="data/1-raw-TEI/debug-lines/{$fileName}_4_move-lb_{local:page-id($fileName,$pos)}_{@id}.xml" method="xml" encoding="UTF-8" use-when="$debug">
         <xsl:sequence select="$lines"/>
     </xsl:result-document>
     
@@ -215,7 +215,7 @@
     <xsl:variable name="lines">
       <xsl:apply-templates select="$lines" mode="lines-break-before-lb"/>
     </xsl:variable>
-    <xsl:result-document href="data/1-raw-TEI/debug-lines/{$fileName}_lines-break-before-lb_{local:page-id($fileName,$pos)}_{@id}.xml" method="xml" encoding="UTF-8" use-when="$debug">
+    <xsl:result-document href="data/1-raw-TEI/debug-lines/{$fileName}_5_lines-break-before-lb_{local:page-id($fileName,$pos)}_{@id}.xml" method="xml" encoding="UTF-8" use-when="$debug">
         <xsl:sequence select="$lines"/>
     </xsl:result-document>
     
@@ -336,13 +336,13 @@
   <!-- [mode] move lb within CONV tags
        ======================================== -->
   <xsl:template match="text()[starts-with(.,'┋CONV-tag:')]" mode="move-lb">
-    <xsl:variable name="head" select="replace(.,'^(┋CONV-tag:\w*┊).*','$1')"/>
+    <xsl:variable name="head" select="replace(.,'^(┋CONV-tag:\w*?┊).*','$1')"/>
     <xsl:variable name="tail" select="substring-after(.,'┊')"/>
     <!--<xsl:comment>head: {$head}</xsl:comment>
     <xsl:comment>tail: {$tail}</xsl:comment>-->
     <xsl:sequence select="$head"/>
     <xsl:copy-of select="preceding-sibling::*[1]"/>
-    <xsl:sequence select="replace($tail,'.*┊','┊')"/>
+    <xsl:sequence select="$tail"/>
   </xsl:template>
   <xsl:template match="Q{http://www.tei-c.org/ns/1.0}lb[following-sibling::node()[1][self::text()][starts-with(.,'┋CONV-tag:')]]" mode="move-lb"/>
   
