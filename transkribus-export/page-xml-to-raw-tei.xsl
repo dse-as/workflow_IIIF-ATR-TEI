@@ -133,8 +133,16 @@
         </sourceDesc>
       </fileDesc>
       <profileDesc>
+        <langUsage>
+          <language/>
+        </langUsage>
         <textClass>
           <keywords ana="keywords">
+            <list>
+              <item/>
+            </list>
+          </keywords>
+          <keywords ana="travels">
             <list>
               <item/>
             </list>
