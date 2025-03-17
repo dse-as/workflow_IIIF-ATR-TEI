@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0005" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0005#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0005</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <p/>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+ <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0005_facs.xml"/>    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587680-BCUL-PREVIEW-426358_0001.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_2"/>24. VIII. 32 
+               <lb xml:id="p001_tr_1_tl_3"/>Cher Claude! Quelle chaleur! Tout de 
+               <lb xml:id="p001_tr_1_tl_4"/>même j’aurais bien voulu partir 
+               <lb xml:id="p001_tr_1_tl_5"/>demain avec vous pour Munich et 
+               <lb xml:id="p001_tr_1_tl_6"/>Salzburg - et j’aurais certainement 
+               <lb xml:id="p001_tr_1_tl_7"/>envie de venir en Périgord mais 
+               <lb xml:id="p001_tr_1_tl_8"/>c’est malheureusement impossible. 
+               <lb xml:id="p001_tr_1_tl_9"/>Ich habe sehr viel Arbeit, u. kann 
+               <lb xml:id="p001_tr_1_tl_10"/>auch im Sept. den 2. Band eines 
+               <lb xml:id="p001_tr_1_tl_11"/>Schweizerbuches schreiben, daher in 
+               <lb xml:id="p001_tr_1_tl_12"/>der Schweiz bleiben. Bis Anfang 
+               <lb xml:id="p001_tr_1_tl_13"/>Oktober. Dan[n] sehe ich Sie wohl noch? 
+               <lb xml:id="p001_tr_1_tl_14"/>Oui, je suis guéri. Ich rede hier mit vielen 
+               <lb xml:id="p001_tr_1_tl_15"/>Verlegern u. Zeitungsleuten, u. bin daher  
+               <lb xml:id="p001_tr_1_tl_16"/>unfähig zum Briefeschreiben. Doch bleibe ich 
+               <lb xml:id="p001_tr_1_tl_17"/>unverändert Ihre befreundete 
+               <lb xml:id="p001_tr_1_tl_18"/>An[n]emarie</p>
+
+            <pb xml:id="p002" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587680-BCUL-PREVIEW-426358_0002.jpg/info.json"/>
+            <pb xml:id="p003" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587680-BCUL-PREVIEW-426358_0003.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_5"/>Herrn Claude Bourdet 
+               <lb xml:id="p003_l_180"/><del rend="overstrike">Villa Borghèse 
+                  <lb xml:id="p003_tr_1_tl_9"/>La Bourboule 
+                  <lb xml:id="p003_tr_1_tl_12"/>Auvergne 
+                  <lb xml:id="p003_tr_1_tl_14"/>Frankreich</del> 
+               <lb xml:id="p003_l"/>Tamaris s/Mer 
+               <lb xml:id="p003_tr_1_tl_6"/>La Villa Blanche 
+               <lb xml:id="p003_tr_1_tl_8"/><hi rendition="#u">Var</hi> [Poststempel]</p>
+
+            <pb xml:id="p004" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587680-BCUL-PREVIEW-426358_0004.jpg/info.json"/></div>
+       </body>
+    </text>
+ </TEI>
