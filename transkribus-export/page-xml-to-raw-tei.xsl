@@ -131,10 +131,46 @@
           </note>
         </notesStmt>
         <sourceDesc>
-          <p/>
+          <xsl:choose>
+            <xsl:when test="$fileType = 'letter'">
+              <msDesc>
+                <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+                </msIdentifier>
+              </msDesc>
+            </xsl:when>
+            <xsl:when test="$fileType = 'smallform'">
+              <bibl>
+                <persName/>
+                <bibl type="monogr">
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+                </bibl>
+              </bibl>
+            </xsl:when>
+            <xsl:otherwise>
+              <p/>
+            </xsl:otherwise>
+          </xsl:choose>
         </sourceDesc>
       </fileDesc>
       <profileDesc>
+        <xsl:if test="$fileType = 'letter'">
+          <correspDesc>
+            <correspAction type="sent">
+              <persName/>
+              <date/>
+              <placeName/>
+            </correspAction>
+            <correspAction type="received">
+              <persName/>
+              <placeName/>
+            </correspAction>
+          </correspDesc>
+        </xsl:if>
         <langUsage>
           <language/>
         </langUsage>

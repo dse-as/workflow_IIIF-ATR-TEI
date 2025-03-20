@@ -45,8 +45,19 @@
         *:notesStmt | 
         *:note |
         *:sourceDesc |
+        *:msDesc |
+        *:msIdentifier |
+        *:repository |
+        *:collection |
+        *:idno |
+        *:altIdentifier |
         *:profileDesc |
         *:textClass |
+        *:correspDesc |
+        *:correspAction |
+        *:persName |
+        *:placeName |
+        *:date |
         *:keywords |
         *:langUsage |
         *:language |
@@ -87,8 +98,13 @@
         *:notesStmt | 
         *:note |
         *:sourceDesc |
+        *:msDesc |
+        *:msIdentifier |
+        *:altIdentifier |
         *:profileDesc |
         *:textClass |
+        *:correspDesc |
+        *:correspAction |
         *:keywords |
         *:langUsage |
         *:list |
