@@ -18,12 +18,27 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <p/>
+            <bibl>
+               <persName/>
+               <bibl type="monogr">
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
          <textClass>
             <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
                <list>
                   <item/>
                </list>
@@ -33,12 +48,13 @@
    </teiHeader>
    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0226_facs.xml"/>
    <text>
-      <body><!--IIIF Image or Presentation URL?-->
-         <pb xml:id="smallform_0226_001"
-             facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0226_001.tif/info.json"/>
-         <milestone unit="textregion" xml:id="smallform_0226_001_r"/>
-         <lb xml:id="smallform_0226_001_l_2"/>BEI STUDENTEN IN VIER LÄNDERN<milestone unit="textregion" xml:id="smallform_0226_001_r_3"/>
-         <lb xml:id="smallform_0226_001_r_3_tl_1"/>DEUTSCHE UNTERWEGS<CONV tag="p">
+      <body>
+         <div type="smallform">
+            <pb xml:id="smallform_0226_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0226_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0226_001_r"/>
+            <lb xml:id="smallform_0226_001_l_2"/>BEI STUDENTEN IN VIER LÄNDERN<milestone unit="textregion" xml:id="smallform_0226_001_r_3"/>
+            <lb xml:id="smallform_0226_001_r_3_tl_1"/>DEUTSCHE UNTERWEGS<CONV tag="p">
 <lb xml:id="smallform_0226_001_r_3_tl_2"/>In Danzig hatte ich erlebt, wie die Studenten der
 <lb xml:id="smallform_0226_001_r_3_tl_3"/>dortigen Technischen Hochschule von der National¬
 <lb xml:id="smallform_0226_001_r_3_tl_4"/>sozialistischen Partei erfaßt, straff organisiert und mit
@@ -98,7 +114,7 @@
 <lb xml:id="smallform_0226_001_r_3_tl_58"/>werden?«</CONV><CONV tag="p">
 <lb xml:id="smallform_0226_001_r_3_tl_59"/>»Sie müssen entweder das Land verlassen oder
 <lb xml:id="smallform_0226_001_r_3_tl_60"/>sich als loyale Minorität in den neuen Staat fügen —<milestone unit="textregion" xml:id="smallform_0226_001_r_4"/>
-         <lb xml:id="smallform_0226_001_r_4_tl_1"/>genau wie die Russen, die Juden und andere Minori¬
+            <lb xml:id="smallform_0226_001_r_4_tl_1"/>genau wie die Russen, die Juden und andere Minori¬
 <lb xml:id="smallform_0226_001_r_4_tl_2"/>täten.«</CONV><CONV tag="p">
 <lb xml:id="smallform_0226_001_r_4_tl_3"/>»Das sind ja sonderbare Ansichten«, sagte mein
 <lb xml:id="smallform_0226_001_r_4_tl_4"/>Nachbar aufgebracht. »Sie können einen Deutschen
@@ -157,7 +173,7 @@
 <lb xml:id="smallform_0226_001_r_4_tl_57"/>wisten und gegen die deutschen Okkupationsarmeen
 <lb xml:id="smallform_0226_001_r_4_tl_58"/>und »Landeswehren« der baltischen Grundbesitzer
 <lb xml:id="smallform_0226_001_r_4_tl_59"/>seine nationale Selbständigkeit erhalten hat. Aber wie<milestone unit="textregion" xml:id="smallform_0226_001_r_5"/>
-         <lb xml:id="smallform_0226_001_r_5_tl_1"/>berechtigt der Anspruch auf Selbstregierung, wie reif
+            <lb xml:id="smallform_0226_001_r_5_tl_1"/>berechtigt der Anspruch auf Selbstregierung, wie reif
 <lb xml:id="smallform_0226_001_r_5_tl_2"/>die Stunde für die Befreiung der Esten war, das merkt
 <lb xml:id="smallform_0226_001_r_5_tl_3"/>man, wenn man sich mit diesen neugebackenen Stu¬
 <lb xml:id="smallform_0226_001_r_5_tl_4"/>denten, diesen zukünftigen Landwirten, Lehrern ode
@@ -176,7 +192,7 @@
 <lb xml:id="smallform_0226_001_r_5_tl_17"/>haben ihre eigenen, voll anerkannten Korporationen.</CONV>
 <lb xml:id="smallform_0226_001_r_5_tl_18"/>DIE SCHWEDEN<CONV tag="p">
 <lb xml:id="smallform_0226_001_r_5_tl_19"/>Das studentische Leben in Tartu gleicht ein wenig
-<lb xml:id="smallform_0226_001_r_5_tl_20"/>dem, wie ich es in der alten schwedischen Universität<CONV tag="g">Upsala┊
+<lb xml:id="smallform_0226_001_r_5_tl_20"/>dem, wie ich es in der alten schwedischen Universität<CONV tag="g">
 <lb xml:id="smallform_0226_001_r_5_tl_21"/>Upsala</CONV> kennengelernt hafte. Damals schienen mir
 <lb xml:id="smallform_0226_001_r_5_tl_22"/>die schwedischen Studenten eine sehr lebenslustig
 <lb xml:id="smallform_0226_001_r_5_tl_23"/>und unbeschwerte Gesellschaft — beschwert nur von
@@ -215,7 +231,7 @@
 <lb xml:id="smallform_0226_001_r_5_tl_56"/>Auf meine Frage, ob dieser Kampf sehr scharf ge¬
 <lb xml:id="smallform_0226_001_r_5_tl_57"/>führt werde, erhielt ich die Antwort: »Wir kennen
 <lb xml:id="smallform_0226_001_r_5_tl_58"/>keinen wirklichen sozialen Kampf, und es gibt bei uns<milestone unit="textregion" xml:id="smallform_0226_001_r_1"/>
-         <lb xml:id="smallform_0226_001_r_1_tl_1"/>keine unferdrückte und kaum eine wirklich arme Be¬
+            <lb xml:id="smallform_0226_001_r_1_tl_1"/>keine unferdrückte und kaum eine wirklich arme Be¬
 <lb xml:id="smallform_0226_001_r_1_tl_2"/>völkerungsschicht. Das spürt man natürlich auch bei
 <lb xml:id="smallform_0226_001_r_1_tl_3"/>der Studentenschaft.«</CONV>
 <lb xml:id="smallform_0226_001_r_1_tl_4"/>IN MOSKAU UND LENINGRAD<CONV tag="p">
@@ -273,6 +289,7 @@
 <lb xml:id="smallform_0226_001_r_1_tl_56"/>uns skeptische Mitteleuropäer fast bestürzend, aber
 <lb xml:id="smallform_0226_001_r_1_tl_57"/>an ihrer gläubigen Aufrichtigkeit kann nicht gezweifelt
 <lb xml:id="smallform_0226_001_r_1_tl_58"/>werden.</CONV>
-<lb xml:id="smallform_0226_001_r_1_tl_59"/>Dr. Annemarie Clark.</body>
+<lb xml:id="smallform_0226_001_r_1_tl_59"/>Dr. Annemarie Clark.</div>
+      </body>
    </text>
 </TEI>
