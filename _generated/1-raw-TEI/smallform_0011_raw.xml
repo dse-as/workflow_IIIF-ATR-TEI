@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="smallform_0011"
+     type="dseas-smallform">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>smallform_0011</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl>
+               <persName/>
+               <bibl type="monogr">
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0011_facs.xml"/>
+   <text>
+      <body>
+         <div type="smallform">
+            <pb xml:id="smallform_0011_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0011_001.png/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0011_001_r_2"/>
+            <lb xml:id="smallform_0011_001_l"/>Abenteuer von <CONV tag="g">Klaus Mann</CONV>.[Schlagwörter: Ästhetik, Jugend]<CONV tag="p">
+<lb xml:id="smallform_0011_001_l_23"/>A. Schw. Diese stürmischen, von Abenteuer und
+<lb xml:id="smallform_0011_001_l_27"/>Exzentrizität getriebenen Novellen, scheinen dazu
+<lb xml:id="smallform_0011_001_l_31"/>angetan, das Publikum zu erschrecken und ihm die
+<lb xml:id="smallform_0011_001_l_35"/>Loslösung heutiger Jugend in krassester Form vor
+<lb xml:id="smallform_0011_001_l_39"/>Augen zu führen. Klaus Mann schreibt unzwei¬
+<lb xml:id="smallform_0011_001_l_43"/>deutig und glänzend zugleich, seine Aufrichtigkeit
+<lb xml:id="smallform_0011_001_l_47"/>macht das Abstoßende erträglich, sein bezaubern¬
+<lb xml:id="smallform_0011_001_l_51"/>der Stil reißt die Widerstrebendsten mit in die
+<lb xml:id="smallform_0011_001_l_55"/>Buntheit und in die Tragik seiner Schicksale. Da-
+<lb xml:id="smallform_0011_001_l_59"/>zwischen sind zarte Stellen von großer Schönheit,
+<lb xml:id="smallform_0011_001_l_63"/>die tief und schmerzlich an die unsagbaren Kon¬
+<lb xml:id="smallform_0011_001_l_67"/>flikte auch des freiesten Lebens rühren, und über
+<lb xml:id="smallform_0011_001_l_71"/>den drei Novellen steht die Schwermut des Unab¬
+<lb xml:id="smallform_0011_001_l_75"/>wendbaren. Man kann dieses Buch lieben oder es
+<lb xml:id="smallform_0011_001_l_79"/>ablehnen, aber unleugbar trägt es das Zeichen
+<lb xml:id="smallform_0011_001_l_83"/>des Talents.</CONV></div>
+      </body>
+   </text>
+</TEI>
