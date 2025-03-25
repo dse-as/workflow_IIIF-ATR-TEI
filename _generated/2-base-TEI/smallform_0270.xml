@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0270" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0270#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0270</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> <bibl> 
+               <persName/>
+ <bibl type="monogr"> 
+                  <title level="j"/>
+                   <date/>
+ <biblScope/> </bibl> </bibl>          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+ <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0270_facs.xml"/>    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211938_014%21zui-001_1938_014_0261.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l"/>Studenten – in drei 
+               <lb xml:id="p001_l_7"/>Ländern</p>
+
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_2_tl_1"/>BILDBERICHT VON 
+               <lb xml:id="p001_r_2_tl_2"/>DR. ANNEMARIE CLARK-SCHWARZENBACH</p>
+
+            <milestone unit="textregion" xml:id="p001_r_3"/>            <p> 
+               <lb xml:id="p001_r_3_tl_1"/>Will man erfahren, wie es um ein Land bestellt ist und um Charakter 
+               <lb xml:id="p001_r_3_tl_2"/>und Geistesverfassung einer Nation, so tut man gut daran, sich an 
+               <lb xml:id="p001_r_3_tl_3"/>die Studenten zu wenden. Was ein Bauer, ein Arbeiter, ein Arzt oder 
+               <lb xml:id="p001_r_3_tl_4"/>Ingenieur aussagt, gilt zunächst nur für seinen Stand und muß erst sorg 
+               <lb xml:id="p001_r_3_tl_5" break="no"/>fältig geprüft werden, bevor man es verallgemeinert. Die Studenten aber 
+               <lb xml:id="p001_r_3_tl_6"/>sind im besten Sinne ein <hi rendition="#g">freier</hi> Stand, sie sind noch nicht an einen 
+               <lb xml:id="p001_r_3_tl_7"/>Beruf, an eine Klasse gebunden, müssen nicht für eine Familie sorgen 
+               <lb xml:id="p001_r_3_tl_8"/>nichts hindert sie, so zu urteilen, wie es ihnen ums Herz ist, und sich für 
+               <lb xml:id="p001_r_3_tl_9"/>das zu interessieren, was «in der Luft liegt». Und sie, die späteren Aerzte 
+               <lb xml:id="p001_r_3_tl_10"/>und Juristen, Landwirte und Lehrer, sie bestimmen das werdende Gesicht<!--FML: this needs attention (was tagged as "fml" in Transkribus)--></p>
+
+            <milestone unit="textregion" xml:id="p001_r_5"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_5_tl_1"/><hi rendition="#i">La jeunesse universitaire des Etats 
+                  <lb xml:id="p001_r_5_tl_2"/>de la Baltique</hi></p>
+            <p> 
+               <lb xml:id="p001_r_5_tl_3"/><hi rendition="#i">Le futur «Climat» politique, économique et social d'un 
+                  <lb xml:id="p001_r_5_tl_4"/>pays dépend en grande partie de la jeunesse qui l'habite et 
+                  <lb xml:id="p001_r_5_tl_5"/>surtout de ceux qui, demain, en formeront l'élite intellec 
+                  <lb xml:id="p001_r_5_tl_6" break="no"/>tuelle: les étudiants. Notre éminente collaboratrice Madame 
+                  <lb xml:id="p001_r_5_tl_7"/>Annemarie Clark s'est rendue sur les rives de la Baltique et y 
+                  <lb xml:id="p001_r_5_tl_8"/>a interrogé nombre de jeunes universitaires sur leurs préoccu 
+                  <lb xml:id="p001_r_5_tl_9" break="no"/>pations présentes, leurs projets d'avenir et leurs conceptions 
+                  <lb xml:id="p001_r_5_tl_10"/>politiques.</hi></p>
+
+            <milestone unit="textregion" xml:id="p001_r_8"/>            <figure>
+               <head> 
+                  <lb xml:id="p001_l_8"/>Jan Alamae</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_4"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_4_tl_1"/><hi rendition="#b">Estland:</hi> Jan Alamae, Student der theologischen Fakultät an 
+               <lb xml:id="p001_r_4_tl_2"/>der estnischen Landesuniversität Tartu, ist ein typi 
+               <lb xml:id="p001_r_4_tl_3" break="no"/>scher Vertreter der «ersten gebildeten Generation» Estlands. Ein 
+               <lb xml:id="p001_r_4_tl_4"/>Bauernsohn — mit unverbrauchter Energie und ruhigem Selbst 
+               <lb xml:id="p001_r_4_tl_5" break="no"/>bewußtsein. Er und seine Kameraden wissen, daß ihr Land sie 
+               <lb xml:id="p001_r_4_tl_6"/>brauchen wird, sie fühlen sich in Uebereinstimmung mit dem Staat 
+               <lb xml:id="p001_r_4_tl_7"/>und der Gesellschaft, in der sie leben und an deren Zukunft sie 
+               <lb xml:id="p001_r_4_tl_8"/>teilhaben und mitarbeiten werden.</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_4_tl_9"/><hi rendition="#i">Estonie. Jan Alamae, étud. théol. à l'Université de Tartu, est un 
+                  <lb xml:id="p001_r_4_tl_10"/>représentant typique de la jeunesse actuelle estonienne, jeunesse 
+                  <lb xml:id="p001_r_4_tl_11"/>énergique, sûre d’elle-même, optimiste, dont le premier idéal est de 
+                  <lb xml:id="p001_r_4_tl_12"/>servir la patrie.</hi></p>
+
+            <milestone unit="textregion" xml:id="p001_r_32"/>            <figure>
+               <head> 
+                  <lb xml:id="p001_l_9"/>Schwedische Studenten in Fracks</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_6"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_6_tl_1"/><hi rendition="#b">Schweden:</hi> Die schwedischen Studenten sind nach altem 
+               <lb xml:id="p001_r_6_tl_2"/>Brauch in «Nationen» organisiert, d. h. nach den 
+               <lb xml:id="p001_r_6_tl_3"/>Landschaften, aus denen sie stammen. Die «Nationen» wohnen, 
+               <lb xml:id="p001_r_6_tl_4"/>z. B. in Upsala, in ihren besonderen Internaten. Obwohl die Tra 
+               <lb xml:id="p001_r_6_tl_5" break="no"/>dition im studentischen Leben eine große Rolle spielt, existiert 
+               <lb xml:id="p001_r_6_tl_6"/>doch kein enger, von gesellschaftlichen Vorurteilen belasteter 
+               <lb xml:id="p001_r_6_tl_7"/>«Korpsgeist». So fügen sich diese beiden Studenten trotz des feier 
+               <lb xml:id="p001_r_6_tl_8" break="no"/>lichen Fracks unbefangen in die Volksmenge, die in Gripsholm 
+               <lb xml:id="p001_r_6_tl_9"/>während eines Jubiläumsfestes die Ankunft des Königs erwartet.</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_6_tl_10"/><hi rendition="#i">Suède. Les étudiants suédois ne sont pas constitués en corps ou en 
+                  <lb xml:id="p001_r_6_tl_11"/>sociétés, mais ils sont groupés par «nations», c'est-à-dire par pro 
+                  <lb xml:id="p001_r_6_tl_12" break="no"/>vinces d'origine. Bien que les traditions estudiantines jouent en 
+                  <lb xml:id="p001_r_6_tl_13"/>Suède un rôle considérable, les «nations» n'ont aucun esprit fron 
+                  <lb xml:id="p001_r_6_tl_14" break="no"/>deur et hostile à l'égard de la vie de société. Voici, revêtus du frac 
+                  <lb xml:id="p001_r_6_tl_15"/>protocolaire, deux étudiants venus saluer le roi lors du 400me anni 
+                  <lb xml:id="p001_r_6_tl_16" break="no"/>versaire du château de Gripsholm.</hi></p>
+
+            <pb xml:id="p002" facs="https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211938_014%21zui-001_1938_014_0262.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p> 
+               <lb xml:id="p002_r_tl_1"/> <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->ihrer Nation. — Diese Rolle und Aufgabe der 
+               <lb xml:id="p002_r_tl_2"/>akademischen Jugend tritt in den kleinen Balti 
+               <lb xml:id="p002_r_tl_3" break="no"/>schen Staaten besonders hervor, denn dort, wo 
+               <lb xml:id="p002_r_tl_4"/>die nationale Selbständigkeit erst nach dem Welt 
+               <lb xml:id="p002_r_tl_5" break="no"/>krieg in zweifachem Befreiungskampf gegen Rus 
+               <lb xml:id="p002_r_tl_6" break="no"/>sen und Deutsch-Balten errungen wurde, dort 
+               <lb xml:id="p002_r_tl_7"/>galt es, eine «erste Generation» von Gebildeten 
+               <lb xml:id="p002_r_tl_8"/>zu erziehen, Söhne von Bauern, Enkel von Leib 
+               <lb xml:id="p002_r_tl_9" break="no"/>eigenen. Die alte Universität Dorpat, wo einst 
+               <lb xml:id="p002_r_tl_10"/>Russen und Deutsche studiert hatten, wurde nun, 
+               <lb xml:id="p002_r_tl_11"/>umgetauft in <hi rendition="#g">Tartu</hi>, das Zentrum der jungen 
+               <lb xml:id="p002_r_tl_12"/>estnischen Nation. In Finnland-Suomi vollzog sich 
+               <lb xml:id="p002_r_tl_13"/>ein ähnlicher Umschwung, aber auf friedlichere 
+               <lb xml:id="p002_r_tl_14"/>Weise: dort verloren die Schweden ihr Bildungs 
+               <lb xml:id="p002_r_tl_15" break="no"/>monopol, die jungen Finnen rückten nach, selbst 
+               <lb xml:id="p002_r_tl_16" break="no"/>bewußt, optimistisch, unbelastet von politischer 
+               <lb xml:id="p002_r_tl_17"/>und ökonomischn Krisen. Suomi wird teils von 
+               <lb xml:id="p002_r_tl_18"/>Skandinavien, teils von der Baltischen Länder 
+               <lb xml:id="p002_r_tl_19" break="no"/>gruppe reklamiert [vgl. ausführlicher in smallform_?] — die neue Generation blickt 
+               <lb xml:id="p002_r_tl_20"/>aber mehr nach Schweden, wo die bürgerliche 
+               <lb xml:id="p002_r_tl_21"/>Jugend in alter studentischer Tradition erzogen 
+               <lb xml:id="p002_r_tl_22"/>wird. Prosperität und lange Friedensperiode und 
+               <lb xml:id="p002_r_tl_23"/>die Entfernung von den europäischen Zentren 
+               <lb xml:id="p002_r_tl_24"/>und Brandherden haben die Schweden «entpoliti 
+               <lb xml:id="p002_r_tl_25" break="no"/>siert». Erst der Konflikt zwischen der fortschritt 
+               <lb xml:id="p002_r_tl_26" break="no"/>lichen Sozialdemokratie und dem saturierten 
+               <lb xml:id="p002_r_tl_27"/>Bürgertum hat die Jugend aufgerüttelt: die bür 
+               <lb xml:id="p002_r_tl_28" break="no"/>gerlichen Studenten vereinigen sich in nationali 
+               <lb xml:id="p002_r_tl_29" break="no"/>stischer Opposition gegen die neue proletarische 
+               <lb xml:id="p002_r_tl_30"/>Schicht, die zu den Hochschulen strömt. Aber in 
+               <lb xml:id="p002_r_tl_31"/>diesem reichen und sozial vorzüglich organisier 
+               <lb xml:id="p002_r_tl_32" break="no"/>ten Land ist auch diese Spannung und Spaltung 
+               <lb xml:id="p002_r_tl_33"/>gemäßigt.</p>
+
+            <milestone unit="textregion" xml:id="p002_r_2"/>            <figure>
+               <head> 
+                  <lb xml:id="p002_r_2_tl_1"/>Studentin der Universität Tartu</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p002_r_3"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_3_tl_1"/><hi rendition="#b">Estland:</hi> Diese kleine Studentin ist «Fuchs» in einer weiblichen Korporation 
+               <lb xml:id="p002_r_3_tl_2"/>der Universität Tartu. Man hat die studentischen Traditionen der 
+               <lb xml:id="p002_r_3_tl_3"/>alten Universität Dorpat übernommen, sie aber den modernen Verhältnissen an 
+               <lb xml:id="p002_r_3_tl_4" break="no"/>gepaßt. Früher studierten hier die Söhne russischer Beamter und deutscher Ba 
+               <lb xml:id="p002_r_3_tl_5" break="no"/>rone, jetzt studiert die männliche und weibliche Jugend der neuen estnischen 
+               <lb xml:id="p002_r_3_tl_6"/>Nation.</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_3_tl_7"/><hi rendition="#i">Estonic. Cette petite jeune fille n'est encore que «fuchs» dans son corps d'étudiants. 
+                  <lb xml:id="p002_r_3_tl_8"/>Aujourd’hui, les Estoniens ont le droit de se constituer en corps d'étudiants et d'étu 
+                  <lb xml:id="p002_r_3_tl_9" break="no"/>diantes. Il n’en fut pas toujours ainsi, au temps des nobles barons, quand Tartu se 
+                  <lb xml:id="p002_r_3_tl_10"/>nommait Dorpat, seuls les Baltes et les Russes avaient ce privilège.</hi></p>
+
+            <milestone unit="textregion" xml:id="p002_r_5"/>            <figure>
+               <head> 
+                  <lb xml:id="p002_l"/>Sozialdemokratischer Studen int Schweden (Nils Kellgren, vgl. A-5-16/117)</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p002_r_6"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_6_tl_1"/><hi rendition="#b">Schweden: </hi>Sozialdemokratischer Student, ein Angehöriger jener neuen 
+               <lb xml:id="p002_r_6_tl_2"/>Schicht schwedischer Studenten, welche aus dem Proletariat her 
+               <lb xml:id="p002_r_6_tl_3" break="no"/>vorgegangen, dem akademischen Leben neue Antriebe geben. Aufgenommen im 
+               <lb xml:id="p002_r_6_tl_4"/>äußersten Winkel von Estland, wo er an der russischen Grenze während der 
+               <lb xml:id="p002_r_6_tl_5"/>Sommerferien die russische Sprache lernt.</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_6_tl_6"/><hi rendition="#i">Suède. C'est à Petseri, dans cette petite ville de langue russe enclavée sur le sol 
+                  <lb xml:id="p002_r_6_tl_7"/>d'Estonie, que Nils Kellgren est venu passer ses vacances d’été pour apprendre le 
+                  <lb xml:id="p002_r_6_tl_8"/>russe. Nils Kellgren est étudiant à l'Université de Lund (Suède). Il est social-démo 
+                  <lb xml:id="p002_r_6_tl_9" break="no"/>crate et se dépense généreusement pour faire triompher ses conceptions politiques 
+                  <lb xml:id="p002_r_6_tl_10"/>parmi les étudiants suédois qui, pour la plupart, sont «nationaux», c'est-à-dire con 
+                  <lb xml:id="p002_r_6_tl_11" break="no"/>servateurs.</hi></p>
+
+            <milestone unit="textregion" xml:id="p002_r_7"/>            <figure>
+               <head> 
+                  <lb xml:id="p002_l_7"/>Zwei Studenten aus Finnland-Suomi</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p002_r_8"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_8_tl_1"/><hi rendition="#b">Finnland-Suomi:</hi> 
+               <lb xml:id="p002_r_8_tl_2"/>Diese beiden Studenten aus Hel 
+               <lb xml:id="p002_r_8_tl_3" break="no"/>sinki sprechen wenig von ihrem 
+               <lb xml:id="p002_r_8_tl_4"/>Studium, noch weniger von poli 
+               <lb xml:id="p002_r_8_tl_5" break="no"/>tischen oder sozialen Problemen. 
+               <lb xml:id="p002_r_8_tl_6"/>Höchstens beklagen sie sich dar 
+               <lb xml:id="p002_r_8_tl_7"/>über, daß sie als «Finnländer» 
+               <lb xml:id="p002_r_8_tl_8"/>schwedischer Herkunft nicht 
+               <lb xml:id="p002_r_8_tl_9"/>mehr die gleichen Privilegien be 
+               <lb xml:id="p002_r_8_tl_10" break="no"/>sitzen wie ihre Väter, sondern 
+               <lb xml:id="p002_r_8_tl_11"/>nun mit den jungen Finnen kon 
+               <lb xml:id="p002_r_8_tl_12" break="no"/>kurrieren müssen. Dafür nimmt 
+               <lb xml:id="p002_r_8_tl_13"/>der exklusive schwedische Segel 
+               <lb xml:id="p002_r_8_tl_14" break="no"/>klub, dem die beiden angehören, 
+               <lb xml:id="p002_r_8_tl_15"/>keine «Finnen» auf ...</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_8_tl_16"/><hi rendition="#i">Finlande. Ces deux étudiants sont 
+                  <lb xml:id="p002_r_8_tl_17"/>avant tout d'émérites yachtmens. 
+                  <lb xml:id="p002_r_8_tl_18"/>Ils ne s'occupent guère d'autre 
+                  <lb xml:id="p002_r_8_tl_19"/>chose que de voile. Leurs études, 
+                  <lb xml:id="p002_r_8_tl_20"/>leur avenir, ne semblent guère les 
+                  <lb xml:id="p002_r_8_tl_21"/>inquiéter présentement. Tout au 
+                  <lb xml:id="p002_r_8_tl_22"/>plus se plaignent-ils du fait que 
+                  <lb xml:id="p002_r_8_tl_23"/>«Finlandais», c'est-à-dire d'ori 
+                  <lb xml:id="p002_r_8_tl_24" break="no"/>gine suédoise, ils sont tenus à 
+                  <lb xml:id="p002_r_8_tl_25"/>l'écart par les «Finnois» et obli 
+                  <lb xml:id="p002_r_8_tl_26" break="no"/>gés d'apprendre cette langue pour 
+                  <lb xml:id="p002_r_8_tl_27"/>obtenir un jour une situation.</hi></p>
+</div>
+       </body>
+    </text>
+ </TEI>
