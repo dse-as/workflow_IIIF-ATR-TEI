@@ -13,13 +13,24 @@
                <p/>
              </note>
           </notesStmt>
-          <sourceDesc> 
-            <p/>
-          </sourceDesc>
+          <sourceDesc> <bibl> 
+               <persName/>
+ <bibl type="monogr"> 
+                  <title level="j"/>
+                   <date/>
+ <biblScope/> </bibl> </bibl>          </sourceDesc>
        </fileDesc>
        <profileDesc> 
-         <textClass> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
             <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
                <list> 
                   <item/>
                 </list>
@@ -28,179 +39,181 @@
        </profileDesc>
     </teiHeader>
  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0227_facs.xml"/>    <text> 
-      <body><!--IIIF Image or Presentation URL?-->
-         <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0227_001.tif/info.json"/>
-         <milestone unit="textregion" xml:id="p001_r_2"/>         <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
-            <lb xml:id="p001_r_2_tl_1"/>Baltisches Tagebuch. 
-            <lb xml:id="p001_r_2_tl_2"/>[div type redactional]</p>
-         <p>Die junge, weitgereiste Schweizer Schrift 
-            <lb xml:id="p001_r_2_tl_3" break="no"/>stellerin Annemarie Clark-Schwarzenbach, 
-            <lb xml:id="p001_r_2_tl_4"/>deren Berichte aus Amerika unsere Leser 
-            <lb xml:id="p001_r_2_tl_5"/>zweifellos mit großem Interesse beachtet 
-            <lb xml:id="p001_r_2_tl_6"/>haben, ist schon wieder auf neuer Fahrt be 
-            <lb xml:id="p001_r_2_tl_7" break="no"/>griffen. Ihr Ziel ist diesmal der europäische 
-            <lb xml:id="p001_r_2_tl_8"/>Nordosten, aus dessen für uns vielfach ganz 
-            <lb xml:id="p001_r_2_tl_9"/>unbekannten Lebensgebieten sie unter dem 
-            <lb xml:id="p001_r_2_tl_10"/>Titel „<hi rendition="#g">Baltisches Tagebuch</hi>“ Neues und 
-            <lb xml:id="p001_r_2_tl_11"/>Aufschlußreiches erzählen wird.</p>
-         <p> 
-            <lb xml:id="p001_r_2_tl_12"/>Die Red.</p>
-         <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
-            <lb xml:id="p001_l"/>I. 
-            <lb xml:id="p001_r_2_tl_13"/>Kaunas, die Hauptstadt einer „ersten Generation“.</p>
-         <p> 
-            <lb xml:id="p001_r_2_tl_14"/>Am Teetisch im Hause eines Professors an der Uni 
-            <lb xml:id="p001_r_2_tl_15" break="no"/>versität von Kaunas klärten mich drei weißhaarige Damen 
-            <lb xml:id="p001_r_2_tl_16"/>und ein bejahrter Herr über <hi rendition="#g">Litauen</hi> und die Eigenart 
-            <lb xml:id="p001_r_2_tl_17"/>seiner Kapitale auf: „Beachten Sie das Straßenbild", 
-            <lb xml:id="p001_r_2_tl_18"/>sagten die wohlwollenden Herrschaften einstimmig, „in 
-            <lb xml:id="p001_r_2_tl_19"/>Kowno gibt es keine alten Leute!“ — Mein verwunderter 
-            <lb xml:id="p001_r_2_tl_20"/>Blick erregte ihre Heiterkeit. „Wir sind ja keine Litauer", 
-            <lb xml:id="p001_r_2_tl_21"/>so erklärten sie mir, „wir sind nur Gäste, Flüchtlinge, die 
-            <lb xml:id="p001_r_2_tl_22"/>durch sonderbare Umstände hier hängen blieben."</p>
-         <p> 
-            <lb xml:id="p001_r_2_tl_23"/>In der Tat waren sie alle vier Emigranten, — zwei 
-            <lb xml:id="p001_r_2_tl_24"/>von ihnen Gattinnen deutscher Pastoren aus Estland, die 
-            <lb xml:id="p001_r_2_tl_25"/>dritte die Frau eines hohen russischen Beamten, der alte 
-            <lb xml:id="p001_r_2_tl_26"/>Herr einst ein großer Grundbesitzer, Träger eines berühm 
-            <lb xml:id="p001_r_2_tl_27" break="no"/>ten Namens und Erbe einer sterbenden Tradition: der 
-            <lb xml:id="p001_r_2_tl_28"/>des baltischen Adels. Und alle hatten auf der Flucht hier, 
-            <lb xml:id="p001_r_2_tl_29"/>im Städtchen Kowno, Station gemacht, und sich in langen 
-            <lb xml:id="p001_r_2_tl_30"/>und schweren Jahren damit abgefunden, daß es die letzte 
-            <lb xml:id="p001_r_2_tl_31"/>Station sei. Verirrt nach Kowno, das inzwischen <hi rendition="#g">Kaunas</hi> 
-            <lb xml:id="p001_r_2_tl_32"/>geworden war, Hauptstadt des jungen Litauens, Kapitale 
-            <lb xml:id="p001_r_2_tl_33"/>der Jugend, der „ersten Generation“ dieses Volkes, das 
-            <lb xml:id="p001_r_2_tl_34"/>zum ersten Mal nach einer tausendjährigen Geschichte 
-            <lb xml:id="p001_r_2_tl_35"/>seine Selbständigkeit erlangt hat.</p>
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0227_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_2_tl_1"/>Baltisches Tagebuch. 
+               <lb xml:id="p001_r_2_tl_2"/>[div type redactional]</p>
+            <p>Die junge, weitgereiste Schweizer Schrift 
+               <lb xml:id="p001_r_2_tl_3" break="no"/>stellerin Annemarie Clark-Schwarzenbach, 
+               <lb xml:id="p001_r_2_tl_4"/>deren Berichte aus Amerika unsere Leser 
+               <lb xml:id="p001_r_2_tl_5"/>zweifellos mit großem Interesse beachtet 
+               <lb xml:id="p001_r_2_tl_6"/>haben, ist schon wieder auf neuer Fahrt be 
+               <lb xml:id="p001_r_2_tl_7" break="no"/>griffen. Ihr Ziel ist diesmal der europäische 
+               <lb xml:id="p001_r_2_tl_8"/>Nordosten, aus dessen für uns vielfach ganz 
+               <lb xml:id="p001_r_2_tl_9"/>unbekannten Lebensgebieten sie unter dem 
+               <lb xml:id="p001_r_2_tl_10"/>Titel „<hi rendition="#g">Baltisches Tagebuch</hi>“ Neues und 
+               <lb xml:id="p001_r_2_tl_11"/>Aufschlußreiches erzählen wird.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_12"/>Die Red.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l"/>I. 
+               <lb xml:id="p001_r_2_tl_13"/>Kaunas, die Hauptstadt einer „ersten Generation“.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_14"/>Am Teetisch im Hause eines Professors an der Uni 
+               <lb xml:id="p001_r_2_tl_15" break="no"/>versität von Kaunas klärten mich drei weißhaarige Damen 
+               <lb xml:id="p001_r_2_tl_16"/>und ein bejahrter Herr über <hi rendition="#g">Litauen</hi> und die Eigenart 
+               <lb xml:id="p001_r_2_tl_17"/>seiner Kapitale auf: „Beachten Sie das Straßenbild", 
+               <lb xml:id="p001_r_2_tl_18"/>sagten die wohlwollenden Herrschaften einstimmig, „in 
+               <lb xml:id="p001_r_2_tl_19"/>Kowno gibt es keine alten Leute!“ — Mein verwunderter 
+               <lb xml:id="p001_r_2_tl_20"/>Blick erregte ihre Heiterkeit. „Wir sind ja keine Litauer", 
+               <lb xml:id="p001_r_2_tl_21"/>so erklärten sie mir, „wir sind nur Gäste, Flüchtlinge, die 
+               <lb xml:id="p001_r_2_tl_22"/>durch sonderbare Umstände hier hängen blieben."</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_23"/>In der Tat waren sie alle vier Emigranten, — zwei 
+               <lb xml:id="p001_r_2_tl_24"/>von ihnen Gattinnen deutscher Pastoren aus Estland, die 
+               <lb xml:id="p001_r_2_tl_25"/>dritte die Frau eines hohen russischen Beamten, der alte 
+               <lb xml:id="p001_r_2_tl_26"/>Herr einst ein großer Grundbesitzer, Träger eines berühm 
+               <lb xml:id="p001_r_2_tl_27" break="no"/>ten Namens und Erbe einer sterbenden Tradition: der 
+               <lb xml:id="p001_r_2_tl_28"/>des baltischen Adels. Und alle hatten auf der Flucht hier, 
+               <lb xml:id="p001_r_2_tl_29"/>im Städtchen Kowno, Station gemacht, und sich in langen 
+               <lb xml:id="p001_r_2_tl_30"/>und schweren Jahren damit abgefunden, daß es die letzte 
+               <lb xml:id="p001_r_2_tl_31"/>Station sei. Verirrt nach Kowno, das inzwischen <hi rendition="#g">Kaunas</hi> 
+               <lb xml:id="p001_r_2_tl_32"/>geworden war, Hauptstadt des jungen Litauens, Kapitale 
+               <lb xml:id="p001_r_2_tl_33"/>der Jugend, der „ersten Generation“ dieses Volkes, das 
+               <lb xml:id="p001_r_2_tl_34"/>zum ersten Mal nach einer tausendjährigen Geschichte 
+               <lb xml:id="p001_r_2_tl_35"/>seine Selbständigkeit erlangt hat.</p>
 
-         <milestone unit="textregion" xml:id="p001_r_1"/>         <p> 
-            <lb xml:id="p001_r_1_tl_1"/>Die alten Leute Litauens wohnen noch auf dem Dorf. 
-            <lb xml:id="p001_r_1_tl_2"/>Ihre Söhne und Töchter aber — auf Bauernhöfen, in 
-            <lb xml:id="p001_r_1_tl_3"/>Katen geboren — drängen zur Stadt, werden Schüler, 
-            <lb xml:id="p001_r_1_tl_4"/>Studenten, Pfadfinder, Soldaten, Offiziere. Werden In 
-            <lb xml:id="p001_r_1_tl_5" break="no"/>genieure, Aerzte, Kaufleute, Anwälte, Flieger. Oder 
-            <lb xml:id="p001_r_1_tl_6"/>sie werden Bauern, auf dem Grund und Boden, wo ihre 
-            <lb xml:id="p001_r_1_tl_7"/>Eltern noch als Knechte gelebt haben und als Angehörige 
-            <lb xml:id="p001_r_1_tl_8"/>eines Volkes, das nicht einmal seine eigene Sprache 
-            <lb xml:id="p001_r_1_tl_9"/>lernen durfte. Es ist, als habe sich in diesem kleinen 
-            <lb xml:id="p001_r_1_tl_10"/>Land, wie in den baltischen Nachbarstaaten, das Rad der 
-            <lb xml:id="p001_r_1_tl_11"/>Geschichte schneller gedreht, — so schnell, daß die Genera 
-            <lb xml:id="p001_r_1_tl_12" break="no"/>tion von heute das Gestern schon überwunden und ver 
-            <lb xml:id="p001_r_1_tl_13" break="no"/>gessen hat.</p>
-         <p> 
-            <lb xml:id="p001_r_1_tl_14"/>Die Reaktion darauf aber ist heftig wie eine Kinder 
-            <lb xml:id="p001_r_1_tl_15" break="no"/>krankheit, — und nicht ganz unbedenklich. Fast wie in 
-            <lb xml:id="p001_r_1_tl_16"/>den jungen Staaten des Nahen Ostens ist auch hier der 
-            <lb xml:id="p001_r_1_tl_17"/>Nationalismus an der Grenze nationaler Ueberheb 
-            <lb xml:id="p001_r_1_tl_18" break="no"/>lichkeit und während die geistige Wandlung noch frisch, 
-            <lb xml:id="p001_r_1_tl_19"/>ein wenig roh und zuweilen oberflächlich ist, sind die An 
-            <lb xml:id="p001_r_1_tl_20" break="no"/>sprüche stürmisch und kritiklos: man hat soeben eine Uni 
-            <lb xml:id="p001_r_1_tl_21" break="no"/>versität ausgebaut, zum Teil ausländische Lehrer berufen, 
-            <lb xml:id="p001_r_1_tl_22"/>die litauische Sprache zur Schriftsprache erhoben, die 
-            <lb xml:id="p001_r_1_tl_24"/>Druckerschwärze der ersten litauischen Bücher und Zeitun 
-            <lb xml:id="p001_r_1_tl_23" break="no"/>gen ist noch feucht — aber bereits glaubt man, die Ausländer 
-            <lb xml:id="p001_r_1_tl_25"/>entbehren zu können. Man ist in Litauen ausgesprochen<hi rendition="#g">fremdenfeindlich┊ 
-               <lb xml:id="p001_r_1_tl_26"/>fremdenfeindlich</hi>. Nicht etwa allein oder besonders <hi rendition="#g">deutsch┊ 
-               <lb xml:id="p001_r_1_tl_27"/>deutsch</hi>feindlich, denn in Litauen gab es, zum Unterschied 
-            <lb xml:id="p001_r_1_tl_28"/>mit Lettland und Estland, keinen deutsch-baltischen Adel; 
-            <lb xml:id="p001_r_1_tl_29"/>der Großgrundbesitz war meistens in polnischen, teilweise 
-            <lb xml:id="p001_r_1_tl_30"/>in russischen Händen. Der Haß trifft vor allem die Minori 
-            <lb xml:id="p001_r_1_tl_31" break="no"/>täten in Litauen selbst, unter ihnen die Juden, die seit 
-            <lb xml:id="p001_r_1_tl_32"/>Jahrhunderten in den Städten nicht nur Handel trieben, 
-            <lb xml:id="p001_r_1_tl_33"/>sondern die intellektuellen und wissenschaftlichen Berufe 
-            <lb xml:id="p001_r_1_tl_34"/>ausübten, kurz: den Litauern gegenüber zu den höhern 
-            <lb xml:id="p001_r_1_tl_35"/>Ständen zählten. Jetzt beginnt man sie zu verdrängen; 
-            <lb xml:id="p001_r_1_tl_36"/>aus dem Handel mittels der halbstaatlichen Kooperativen, 
-            <lb xml:id="p001_r_1_tl_37"/>deren es bereits eine große Zahl gibt (z. B. die Milchver 
-            <lb xml:id="p001_r_1_tl_38" break="no"/>wertungs=Gesellschaft), aus dem intellektuellen Leben<!--FML: this needs attention (was tagged as "fml" in Transkribus)--></p>
-<!--IIIF Image or Presentation URL?-->
-         <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0227_002.tif/info.json"/>
-         <milestone unit="textregion" xml:id="p002_r_2"/>         <p> 
-            <lb xml:id="p002_r_2_tl_1"/> <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->durch ein einfaches, aber sehr gründliches Mittel: die 
-            <lb xml:id="p002_r_2_tl_2"/>Juden haben in Litauen eigene Schulen, die sie auch 
-            <lb xml:id="p002_r_2_tl_3"/>heute noch besuchen. Man beginnt nun, den Zutritt zur 
-            <lb xml:id="p002_r_2_tl_4"/>Universität nur den Absolventen der staatlichen höhern 
-            <lb xml:id="p002_r_2_tl_5"/>Schulen zu gestatten, eine Maßnahme, die an der medi 
-            <lb xml:id="p002_r_2_tl_6" break="no"/>zinischen Fakultät bereits durchgeführt wird und die Juden 
-            <lb xml:id="p002_r_2_tl_7"/>empfindlich trifft ... Die Klasse der Großgrundbesitzer 
-            <lb xml:id="p002_r_2_tl_8"/>ist ja bereits verschwunden, die großen Güter, schon im 
-            <lb xml:id="p002_r_2_tl_9"/>Anfang der russischen Revolution konfisziert, sind später 
-            <lb xml:id="p002_r_2_tl_10"/>aufgeteilt worden, selbst Landbesitz mittlerer Größe wird 
-            <lb xml:id="p002_r_2_tl_11"/>so stark besteuert, daß er sich meistens nicht lange hält.</p>
-         <p> 
-            <lb xml:id="p002_r_2_tl_12"/>Die <hi rendition="#g">Aufteilung des Bodens</hi> war fraglos unvermeid 
-            <lb xml:id="p002_r_2_tl_13" break="no"/>lich und von größter Bedeutung, da ja der litauische Staat, 
-            <lb xml:id="p002_r_2_tl_14"/>bis heute vorwiegend ein Agrarland, sich ganz auf dem 
-            <lb xml:id="p002_r_2_tl_15"/>selbständigen Bauernstand aufbauen muß. Einsichtige 
-            <lb xml:id="p002_r_2_tl_16"/>Litauer sind sogar der Ansicht, daß für die Bauern 
-            <lb xml:id="p002_r_2_tl_17"/>auch im neuen Litauen zu wenig getan werde. Sie zahlen 
-            <lb xml:id="p002_r_2_tl_18"/>hohe Steuern, haben aber für ihre Produkte nur den in 
-            <lb xml:id="p002_r_2_tl_19" break="no"/>ländischen Markt, während man in erster Linie Flachs, 
-            <lb xml:id="p002_r_2_tl_20"/>aber auch Obst, besonders Aepfel, ausführen und so einen 
-            <lb xml:id="p002_r_2_tl_21"/>Anfang für den so dringend nötigen Außenhandel schaffen 
-            <lb xml:id="p002_r_2_tl_22"/>könnte. Mit dem Außenhandel Litauens ist es vorläufig 
-            <lb xml:id="p002_r_2_tl_23"/>schlecht bestellt; von den drei großen Nachbarstaaten wird 
-            <lb xml:id="p002_r_2_tl_24"/>eigentlich nur Rußland in größerem Maße beliefert, mit 
-            <lb xml:id="p002_r_2_tl_25"/>Deutschland bestehen die bekannten Schwierigkeiten, mit 
-            <lb xml:id="p002_r_2_tl_26"/>Polen lebt man in schon traditioneller Feindschaft, weil 
-            <lb xml:id="p002_r_2_tl_27"/>man ihm den Verlust Wilnas nicht verzeihen kann!</p>
-         <p> 
-            <lb xml:id="p002_r_2_tl_28"/>So lebt also das kleine Litauen in einseitiger halb 
-            <lb xml:id="p002_r_2_tl_29"/>freiwilliger Autarkie, die es sich eigentlich nicht leisten 
-            <lb xml:id="p002_r_2_tl_30"/>kann. Man braucht Geld, denn Geld wird, heute jeden 
-            <lb xml:id="p002_r_2_tl_31" break="no"/>falls, reichlich ausgegeben! Für die Armee und für Schulen 
-            <lb xml:id="p002_r_2_tl_32"/>und neue Gebäude, die das Gesicht der einstigen Gou 
-            <lb xml:id="p002_r_2_tl_33" break="no"/>vernementshauptstadt Kowno gründlich verändern. Es 
-            <lb xml:id="p002_r_2_tl_34"/>gibt Stadtteile, die noch ganz „russisch“ sind, so, wie eben 
-            <lb xml:id="p002_r_2_tl_35"/>die Landstädte des zaristischen Rußlands ausgesehen haben. 
-            <lb xml:id="p002_r_2_tl_36"/>Es gibt da breite Straßen, gesäumt von niedrigen ,ein 
-            <lb xml:id="p002_r_2_tl_37" break="no"/>stöckigen Holzhäuschen, es gibt ein Hotel, dessen riesiges, 
-            <lb xml:id="p002_r_2_tl_38"/>billig ausgeschmücktes Restaurant mit großer Kapelle und
-            <milestone unit="textregion" xml:id="p002_r_1"/> 
-            <lb xml:id="p002_r_1_tl_1"/>einem von Vorgerichten, kalten Braten, Pilzen, Gurken 
-            <lb xml:id="p002_r_1_tl_2"/>und saurer Sahne beladenen Buffet an ein Offiziers 
-            <lb xml:id="p002_r_1_tl_3" break="no"/>kasino der Vorkriegs-Garnisonen erinnert, und es gibt 
-            <lb xml:id="p002_r_1_tl_4"/>alte Kirchen mit schweren, prächtigen, wolkenumsegelten 
-            <lb xml:id="p002_r_1_tl_5"/>Kuppeln ... Russisch sind auch die Droschken, die Kutsche 
-            <lb xml:id="p002_r_1_tl_6"/>mit eisgrauen Bärten, die kleinen Pferdchen unter dem 
-            <lb xml:id="p002_r_1_tl_7"/>hohen Kummet. Daneben aber wächst das neue Kaunas, 
-            <lb xml:id="p002_r_1_tl_8"/>mit vereinzelten weißen, sehr geschmackvollen Gebäuden, 
-            <lb xml:id="p002_r_1_tl_9"/>mit Sportplätzen, Kasernen und großen grünen Anlagen. 
-            <lb xml:id="p002_r_1_tl_10"/>Wer das neue Rußland, vor allem Moskau, kennt, findet 
-            <lb xml:id="p002_r_1_tl_11"/>auch hier viel Verwandtes: Ganz wie im Moskauer 
-            <lb xml:id="p002_r_1_tl_12"/>„Kulturpark“ sitzen in den öffentlichen Gärten von 
-            <lb xml:id="p002_r_1_tl_13"/>Kaunas die jungen Mütter in weißen, bäurischen Kopf 
-            <lb xml:id="p002_r_1_tl_14" break="no"/>tüchern neben den Soldaten auf den Bänken, die Uniform 
-            <lb xml:id="p002_r_1_tl_15"/>spielt im Straßenbild eine gewisse Rolle, während die 
-            <lb xml:id="p002_r_1_tl_16"/>männliche Jugend, und gerade die studentische Jugend, 
-            <lb xml:id="p002_r_1_tl_17"/>in Kleidung und Benehmen eine proletarische Note be 
-            <lb xml:id="p002_r_1_tl_18" break="no"/>vorzugt. Die Mädchen geben sich Mühe, bürgerlich 
-            <lb xml:id="p002_r_1_tl_19" break="no"/>elegant auszusehen; weil aber die Stoffe oft schlecht, die 
-            <lb xml:id="p002_r_1_tl_20"/>Strümpfe zu grob, die Schuhe billig sind, wird der Ein 
-            <lb xml:id="p002_r_1_tl_21" break="no"/>druck kleinbürgerlich-ärmlich. Die Burschen halten es 
-            <lb xml:id="p002_r_1_tl_22"/>ganz anders: die Buben gehen am liebsten in kurzen 
-            <lb xml:id="p002_r_1_tl_23"/>Sporthosen, die jungen Männer tragen weiße Hem 
-            <lb xml:id="p002_r_1_tl_24" break="no"/>den, oft über der Hose mit Ledergürteln, stets aber den 
-            <lb xml:id="p002_r_1_tl_25"/>Kragen offen und keine Krawatte. Hüte sieht man selten, 
-            <lb xml:id="p002_r_1_tl_26"/>einige tragen Mützen, die meisten gehen ohne Kopfbe 
-            <lb xml:id="p002_r_1_tl_27" break="no"/>deckung. So unterscheidet sich dann der junge Bauer wenig 
-            <lb xml:id="p002_r_1_tl_28"/>vom Arbeiter, der Arbeiter nicht vom Schüler oder Stu 
-            <lb xml:id="p002_r_1_tl_29" break="no"/>denten. Alle treiben Sport — und alle sind ungeheuer 
-            <lb xml:id="p002_r_1_tl_30"/>lernbegierig. Es kann gar nicht genug Bücher, nicht genug 
-            <lb xml:id="p002_r_1_tl_31"/>Vorträge, Theater, Kurse geben. Man holt nach, was 
-            <lb xml:id="p002_r_1_tl_32"/>Generationen ohne eigene Schuld versäumt haben. 
-            <lb xml:id="p002_r_1_tl_33"/>Und wenn man sich erinnert, daß die stärkste Welle gewalt 
-            <lb xml:id="p002_r_1_tl_34" break="no"/>samer Russifizierung im Zeichen des Panslawismus erst 
-            <lb xml:id="p002_r_1_tl_35"/>vor siebzig Jahren Litauen heimgesucht, alle Keime seiner 
-            <lb xml:id="p002_r_1_tl_36"/>nationalen Entwicklung erstickt hat, dann bewundert man 
-            <lb xml:id="p002_r_1_tl_37"/>die Energien, die hier am Werke sind. Man begreift die 
-            <lb xml:id="p002_r_1_tl_38"/>Auswüchse, die, so hofft man, wirklich nur „Kinder 
-            <lb xml:id="p002_r_1_tl_39" break="no"/>krankheiten“ sind. Und man muß diese „erste Generation“
-            <milestone unit="textregion" xml:id="p002_r"/> 
-            <lb xml:id="p002_l"/>der literarischen Bauernsöhne um ihres Einsatzwillens 
-            <lb xml:id="p002_l_7"/>lieben!</p>
-         <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"><hi rendition="#g"> 
-               <lb xml:id="p002_l_11"/>Dr. Annemarie Clark.</hi></p>
-      </body>
+            <milestone unit="textregion" xml:id="p001_r_1"/>            <p> 
+               <lb xml:id="p001_r_1_tl_1"/>Die alten Leute Litauens wohnen noch auf dem Dorf. 
+               <lb xml:id="p001_r_1_tl_2"/>Ihre Söhne und Töchter aber — auf Bauernhöfen, in 
+               <lb xml:id="p001_r_1_tl_3"/>Katen geboren — drängen zur Stadt, werden Schüler, 
+               <lb xml:id="p001_r_1_tl_4"/>Studenten, Pfadfinder, Soldaten, Offiziere. Werden In 
+               <lb xml:id="p001_r_1_tl_5" break="no"/>genieure, Aerzte, Kaufleute, Anwälte, Flieger. Oder 
+               <lb xml:id="p001_r_1_tl_6"/>sie werden Bauern, auf dem Grund und Boden, wo ihre 
+               <lb xml:id="p001_r_1_tl_7"/>Eltern noch als Knechte gelebt haben und als Angehörige 
+               <lb xml:id="p001_r_1_tl_8"/>eines Volkes, das nicht einmal seine eigene Sprache 
+               <lb xml:id="p001_r_1_tl_9"/>lernen durfte. Es ist, als habe sich in diesem kleinen 
+               <lb xml:id="p001_r_1_tl_10"/>Land, wie in den baltischen Nachbarstaaten, das Rad der 
+               <lb xml:id="p001_r_1_tl_11"/>Geschichte schneller gedreht, — so schnell, daß die Genera 
+               <lb xml:id="p001_r_1_tl_12" break="no"/>tion von heute das Gestern schon überwunden und ver 
+               <lb xml:id="p001_r_1_tl_13" break="no"/>gessen hat.</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_14"/>Die Reaktion darauf aber ist heftig wie eine Kinder 
+               <lb xml:id="p001_r_1_tl_15" break="no"/>krankheit, — und nicht ganz unbedenklich. Fast wie in 
+               <lb xml:id="p001_r_1_tl_16"/>den jungen Staaten des Nahen Ostens ist auch hier der 
+               <lb xml:id="p001_r_1_tl_17"/>Nationalismus an der Grenze nationaler Ueberheb 
+               <lb xml:id="p001_r_1_tl_18" break="no"/>lichkeit und während die geistige Wandlung noch frisch, 
+               <lb xml:id="p001_r_1_tl_19"/>ein wenig roh und zuweilen oberflächlich ist, sind die An 
+               <lb xml:id="p001_r_1_tl_20" break="no"/>sprüche stürmisch und kritiklos: man hat soeben eine Uni 
+               <lb xml:id="p001_r_1_tl_21" break="no"/>versität ausgebaut, zum Teil ausländische Lehrer berufen, 
+               <lb xml:id="p001_r_1_tl_22"/>die litauische Sprache zur Schriftsprache erhoben, die 
+               <lb xml:id="p001_r_1_tl_24"/>Druckerschwärze der ersten litauischen Bücher und Zeitun 
+               <lb xml:id="p001_r_1_tl_23" break="no"/>gen ist noch feucht — aber bereits glaubt man, die Ausländer 
+               <lb xml:id="p001_r_1_tl_25"/>entbehren zu können. Man ist in Litauen ausgesprochen<hi rendition="#g"> 
+                  <lb xml:id="p001_r_1_tl_26"/>fremdenfeindlich</hi>. Nicht etwa allein oder besonders <hi rendition="#g"> 
+                  <lb xml:id="p001_r_1_tl_27"/>deutsch</hi>feindlich, denn in Litauen gab es, zum Unterschied 
+               <lb xml:id="p001_r_1_tl_28"/>mit Lettland und Estland, keinen deutsch-baltischen Adel; 
+               <lb xml:id="p001_r_1_tl_29"/>der Großgrundbesitz war meistens in polnischen, teilweise 
+               <lb xml:id="p001_r_1_tl_30"/>in russischen Händen. Der Haß trifft vor allem die Minori 
+               <lb xml:id="p001_r_1_tl_31" break="no"/>täten in Litauen selbst, unter ihnen die Juden, die seit 
+               <lb xml:id="p001_r_1_tl_32"/>Jahrhunderten in den Städten nicht nur Handel trieben, 
+               <lb xml:id="p001_r_1_tl_33"/>sondern die intellektuellen und wissenschaftlichen Berufe 
+               <lb xml:id="p001_r_1_tl_34"/>ausübten, kurz: den Litauern gegenüber zu den höhern 
+               <lb xml:id="p001_r_1_tl_35"/>Ständen zählten. Jetzt beginnt man sie zu verdrängen; 
+               <lb xml:id="p001_r_1_tl_36"/>aus dem Handel mittels der halbstaatlichen Kooperativen, 
+               <lb xml:id="p001_r_1_tl_37"/>deren es bereits eine große Zahl gibt (z. B. die Milchver 
+               <lb xml:id="p001_r_1_tl_38" break="no"/>wertungs=Gesellschaft), aus dem intellektuellen Leben<!--FML: this needs attention (was tagged as "fml" in Transkribus)--></p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0227_002.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p002_r_2"/>            <p> 
+               <lb xml:id="p002_r_2_tl_1"/> <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->durch ein einfaches, aber sehr gründliches Mittel: die 
+               <lb xml:id="p002_r_2_tl_2"/>Juden haben in Litauen eigene Schulen, die sie auch 
+               <lb xml:id="p002_r_2_tl_3"/>heute noch besuchen. Man beginnt nun, den Zutritt zur 
+               <lb xml:id="p002_r_2_tl_4"/>Universität nur den Absolventen der staatlichen höhern 
+               <lb xml:id="p002_r_2_tl_5"/>Schulen zu gestatten, eine Maßnahme, die an der medi 
+               <lb xml:id="p002_r_2_tl_6" break="no"/>zinischen Fakultät bereits durchgeführt wird und die Juden 
+               <lb xml:id="p002_r_2_tl_7"/>empfindlich trifft ... Die Klasse der Großgrundbesitzer 
+               <lb xml:id="p002_r_2_tl_8"/>ist ja bereits verschwunden, die großen Güter, schon im 
+               <lb xml:id="p002_r_2_tl_9"/>Anfang der russischen Revolution konfisziert, sind später 
+               <lb xml:id="p002_r_2_tl_10"/>aufgeteilt worden, selbst Landbesitz mittlerer Größe wird 
+               <lb xml:id="p002_r_2_tl_11"/>so stark besteuert, daß er sich meistens nicht lange hält.</p>
+            <p> 
+               <lb xml:id="p002_r_2_tl_12"/>Die <hi rendition="#g">Aufteilung des Bodens</hi> war fraglos unvermeid 
+               <lb xml:id="p002_r_2_tl_13" break="no"/>lich und von größter Bedeutung, da ja der litauische Staat, 
+               <lb xml:id="p002_r_2_tl_14"/>bis heute vorwiegend ein Agrarland, sich ganz auf dem 
+               <lb xml:id="p002_r_2_tl_15"/>selbständigen Bauernstand aufbauen muß. Einsichtige 
+               <lb xml:id="p002_r_2_tl_16"/>Litauer sind sogar der Ansicht, daß für die Bauern 
+               <lb xml:id="p002_r_2_tl_17"/>auch im neuen Litauen zu wenig getan werde. Sie zahlen 
+               <lb xml:id="p002_r_2_tl_18"/>hohe Steuern, haben aber für ihre Produkte nur den in 
+               <lb xml:id="p002_r_2_tl_19" break="no"/>ländischen Markt, während man in erster Linie Flachs, 
+               <lb xml:id="p002_r_2_tl_20"/>aber auch Obst, besonders Aepfel, ausführen und so einen 
+               <lb xml:id="p002_r_2_tl_21"/>Anfang für den so dringend nötigen Außenhandel schaffen 
+               <lb xml:id="p002_r_2_tl_22"/>könnte. Mit dem Außenhandel Litauens ist es vorläufig 
+               <lb xml:id="p002_r_2_tl_23"/>schlecht bestellt; von den drei großen Nachbarstaaten wird 
+               <lb xml:id="p002_r_2_tl_24"/>eigentlich nur Rußland in größerem Maße beliefert, mit 
+               <lb xml:id="p002_r_2_tl_25"/>Deutschland bestehen die bekannten Schwierigkeiten, mit 
+               <lb xml:id="p002_r_2_tl_26"/>Polen lebt man in schon traditioneller Feindschaft, weil 
+               <lb xml:id="p002_r_2_tl_27"/>man ihm den Verlust Wilnas nicht verzeihen kann!</p>
+            <p> 
+               <lb xml:id="p002_r_2_tl_28"/>So lebt also das kleine Litauen in einseitiger halb 
+               <lb xml:id="p002_r_2_tl_29"/>freiwilliger Autarkie, die es sich eigentlich nicht leisten 
+               <lb xml:id="p002_r_2_tl_30"/>kann. Man braucht Geld, denn Geld wird, heute jeden 
+               <lb xml:id="p002_r_2_tl_31" break="no"/>falls, reichlich ausgegeben! Für die Armee und für Schulen 
+               <lb xml:id="p002_r_2_tl_32"/>und neue Gebäude, die das Gesicht der einstigen Gou 
+               <lb xml:id="p002_r_2_tl_33" break="no"/>vernementshauptstadt Kowno gründlich verändern. Es 
+               <lb xml:id="p002_r_2_tl_34"/>gibt Stadtteile, die noch ganz „russisch“ sind, so, wie eben 
+               <lb xml:id="p002_r_2_tl_35"/>die Landstädte des zaristischen Rußlands ausgesehen haben. 
+               <lb xml:id="p002_r_2_tl_36"/>Es gibt da breite Straßen, gesäumt von niedrigen ,ein 
+               <lb xml:id="p002_r_2_tl_37" break="no"/>stöckigen Holzhäuschen, es gibt ein Hotel, dessen riesiges, 
+               <lb xml:id="p002_r_2_tl_38"/>billig ausgeschmücktes Restaurant mit großer Kapelle und
+               <milestone unit="textregion" xml:id="p002_r_1"/> 
+               <lb xml:id="p002_r_1_tl_1"/>einem von Vorgerichten, kalten Braten, Pilzen, Gurken 
+               <lb xml:id="p002_r_1_tl_2"/>und saurer Sahne beladenen Buffet an ein Offiziers 
+               <lb xml:id="p002_r_1_tl_3" break="no"/>kasino der Vorkriegs-Garnisonen erinnert, und es gibt 
+               <lb xml:id="p002_r_1_tl_4"/>alte Kirchen mit schweren, prächtigen, wolkenumsegelten 
+               <lb xml:id="p002_r_1_tl_5"/>Kuppeln ... Russisch sind auch die Droschken, die Kutsche 
+               <lb xml:id="p002_r_1_tl_6"/>mit eisgrauen Bärten, die kleinen Pferdchen unter dem 
+               <lb xml:id="p002_r_1_tl_7"/>hohen Kummet. Daneben aber wächst das neue Kaunas, 
+               <lb xml:id="p002_r_1_tl_8"/>mit vereinzelten weißen, sehr geschmackvollen Gebäuden, 
+               <lb xml:id="p002_r_1_tl_9"/>mit Sportplätzen, Kasernen und großen grünen Anlagen. 
+               <lb xml:id="p002_r_1_tl_10"/>Wer das neue Rußland, vor allem Moskau, kennt, findet 
+               <lb xml:id="p002_r_1_tl_11"/>auch hier viel Verwandtes: Ganz wie im Moskauer 
+               <lb xml:id="p002_r_1_tl_12"/>„Kulturpark“ sitzen in den öffentlichen Gärten von 
+               <lb xml:id="p002_r_1_tl_13"/>Kaunas die jungen Mütter in weißen, bäurischen Kopf 
+               <lb xml:id="p002_r_1_tl_14" break="no"/>tüchern neben den Soldaten auf den Bänken, die Uniform 
+               <lb xml:id="p002_r_1_tl_15"/>spielt im Straßenbild eine gewisse Rolle, während die 
+               <lb xml:id="p002_r_1_tl_16"/>männliche Jugend, und gerade die studentische Jugend, 
+               <lb xml:id="p002_r_1_tl_17"/>in Kleidung und Benehmen eine proletarische Note be 
+               <lb xml:id="p002_r_1_tl_18" break="no"/>vorzugt. Die Mädchen geben sich Mühe, bürgerlich 
+               <lb xml:id="p002_r_1_tl_19" break="no"/>elegant auszusehen; weil aber die Stoffe oft schlecht, die 
+               <lb xml:id="p002_r_1_tl_20"/>Strümpfe zu grob, die Schuhe billig sind, wird der Ein 
+               <lb xml:id="p002_r_1_tl_21" break="no"/>druck kleinbürgerlich-ärmlich. Die Burschen halten es 
+               <lb xml:id="p002_r_1_tl_22"/>ganz anders: die Buben gehen am liebsten in kurzen 
+               <lb xml:id="p002_r_1_tl_23"/>Sporthosen, die jungen Männer tragen weiße Hem 
+               <lb xml:id="p002_r_1_tl_24" break="no"/>den, oft über der Hose mit Ledergürteln, stets aber den 
+               <lb xml:id="p002_r_1_tl_25"/>Kragen offen und keine Krawatte. Hüte sieht man selten, 
+               <lb xml:id="p002_r_1_tl_26"/>einige tragen Mützen, die meisten gehen ohne Kopfbe 
+               <lb xml:id="p002_r_1_tl_27" break="no"/>deckung. So unterscheidet sich dann der junge Bauer wenig 
+               <lb xml:id="p002_r_1_tl_28"/>vom Arbeiter, der Arbeiter nicht vom Schüler oder Stu 
+               <lb xml:id="p002_r_1_tl_29" break="no"/>denten. Alle treiben Sport — und alle sind ungeheuer 
+               <lb xml:id="p002_r_1_tl_30"/>lernbegierig. Es kann gar nicht genug Bücher, nicht genug 
+               <lb xml:id="p002_r_1_tl_31"/>Vorträge, Theater, Kurse geben. Man holt nach, was 
+               <lb xml:id="p002_r_1_tl_32"/>Generationen ohne eigene Schuld versäumt haben. 
+               <lb xml:id="p002_r_1_tl_33"/>Und wenn man sich erinnert, daß die stärkste Welle gewalt 
+               <lb xml:id="p002_r_1_tl_34" break="no"/>samer Russifizierung im Zeichen des Panslawismus erst 
+               <lb xml:id="p002_r_1_tl_35"/>vor siebzig Jahren Litauen heimgesucht, alle Keime seiner 
+               <lb xml:id="p002_r_1_tl_36"/>nationalen Entwicklung erstickt hat, dann bewundert man 
+               <lb xml:id="p002_r_1_tl_37"/>die Energien, die hier am Werke sind. Man begreift die 
+               <lb xml:id="p002_r_1_tl_38"/>Auswüchse, die, so hofft man, wirklich nur „Kinder 
+               <lb xml:id="p002_r_1_tl_39" break="no"/>krankheiten“ sind. Und man muß diese „erste Generation“
+               <milestone unit="textregion" xml:id="p002_r"/> 
+               <lb xml:id="p002_l"/>der literarischen Bauernsöhne um ihres Einsatzwillens 
+               <lb xml:id="p002_l_7"/>lieben!</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"><hi rendition="#g"> 
+                  <lb xml:id="p002_l_11"/>Dr. Annemarie Clark.</hi></p>
+</div>
+       </body>
     </text>
  </TEI>

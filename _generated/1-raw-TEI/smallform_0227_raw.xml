@@ -18,12 +18,27 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <p/>
+            <bibl>
+               <persName/>
+               <bibl type="monogr">
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
          <textClass>
             <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
                <list>
                   <item/>
                </list>
@@ -33,11 +48,12 @@
    </teiHeader>
    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0227_facs.xml"/>
    <text>
-      <body><!--IIIF Image or Presentation URL?-->
-         <pb xml:id="smallform_0227_001"
-             facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0227_001.tif/info.json"/>
-         <milestone unit="textregion" xml:id="smallform_0227_001_r_2"/>
-         <lb xml:id="smallform_0227_001_r_2_tl_1"/>Baltisches Tagebuch.
+      <body>
+         <div type="smallform">
+            <pb xml:id="smallform_0227_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0227_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0227_001_r_2"/>
+            <lb xml:id="smallform_0227_001_r_2_tl_1"/>Baltisches Tagebuch.
 <lb xml:id="smallform_0227_001_r_2_tl_2"/>[div type redactional]<CONV tag="p">Die junge, weitgereiste Schweizer Schrift¬
 <lb xml:id="smallform_0227_001_r_2_tl_3"/>stellerin Annemarie Clark-Schwarzenbach,
 <lb xml:id="smallform_0227_001_r_2_tl_4"/>deren Berichte aus Amerika unsere Leser
@@ -97,8 +113,8 @@
 <lb xml:id="smallform_0227_001_r_1_tl_22"/>die litauische Sprache zur Schriftsprache erhoben, die
 <lb xml:id="smallform_0227_001_r_1_tl_24"/>Druckerschwärze der ersten litauischen Bücher und Zeitun¬
 <lb xml:id="smallform_0227_001_r_1_tl_23"/>gen ist noch feucht — aber bereits glaubt man, die Ausländer
-<lb xml:id="smallform_0227_001_r_1_tl_25"/>entbehren zu können. Man ist in Litauen ausgesprochen<CONV tag="g">fremdenfeindlich┊
-<lb xml:id="smallform_0227_001_r_1_tl_26"/>fremdenfeindlich</CONV>. Nicht etwa allein oder besonders <CONV tag="g">deutsch┊
+<lb xml:id="smallform_0227_001_r_1_tl_25"/>entbehren zu können. Man ist in Litauen ausgesprochen<CONV tag="g">
+<lb xml:id="smallform_0227_001_r_1_tl_26"/>fremdenfeindlich</CONV>. Nicht etwa allein oder besonders <CONV tag="g">
 <lb xml:id="smallform_0227_001_r_1_tl_27"/>deutsch</CONV>feindlich, denn in Litauen gab es, zum Unterschied
 <lb xml:id="smallform_0227_001_r_1_tl_28"/>mit Lettland und Estland, keinen deutsch-baltischen Adel;
 <lb xml:id="smallform_0227_001_r_1_tl_29"/>der Großgrundbesitz war meistens in polnischen, teilweise
@@ -110,11 +126,11 @@
 <lb xml:id="smallform_0227_001_r_1_tl_35"/>Ständen zählten. Jetzt beginnt man sie zu verdrängen;
 <lb xml:id="smallform_0227_001_r_1_tl_36"/>aus dem Handel mittels der halbstaatlichen Kooperativen,
 <lb xml:id="smallform_0227_001_r_1_tl_37"/>deren es bereits eine große Zahl gibt (z. B. die Milchver¬
-<lb xml:id="smallform_0227_001_r_1_tl_38"/>wertungs=Gesellschaft), aus dem intellektuellen Leben<!--FML: this needs attention (was tagged as "fml" in Transkribus)--></CONV><!--IIIF Image or Presentation URL?--><pb xml:id="smallform_0227_002"
-             facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0227_002.tif/info.json"/>
-         <milestone unit="textregion" xml:id="smallform_0227_002_r_2"/><CONV tag="p">
+<lb xml:id="smallform_0227_001_r_1_tl_38"/>wertungs=Gesellschaft), aus dem intellektuellen Leben<!--FML: this needs attention (was tagged as "fml" in Transkribus)--></CONV><pb xml:id="smallform_0227_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0227_002.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0227_002_r_2"/><CONV tag="p">
 <lb xml:id="smallform_0227_002_r_2_tl_1"/>
-         <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->durch ein einfaches, aber sehr gründliches Mittel: die
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->durch ein einfaches, aber sehr gründliches Mittel: die
 <lb xml:id="smallform_0227_002_r_2_tl_2"/>Juden haben in Litauen eigene Schulen, die sie auch
 <lb xml:id="smallform_0227_002_r_2_tl_3"/>heute noch besuchen. Man beginnt nun, den Zutritt zur
 <lb xml:id="smallform_0227_002_r_2_tl_4"/>Universität nur den Absolventen der staatlichen höhern
@@ -152,7 +168,7 @@
 <lb xml:id="smallform_0227_002_r_2_tl_36"/>Es gibt da breite Straßen, gesäumt von niedrigen ,ein¬
 <lb xml:id="smallform_0227_002_r_2_tl_37"/>stöckigen Holzhäuschen, es gibt ein Hotel, dessen riesiges,
 <lb xml:id="smallform_0227_002_r_2_tl_38"/>billig ausgeschmücktes Restaurant mit großer Kapelle und<milestone unit="textregion" xml:id="smallform_0227_002_r_1"/>
-         <lb xml:id="smallform_0227_002_r_1_tl_1"/>einem von Vorgerichten, kalten Braten, Pilzen, Gurken
+            <lb xml:id="smallform_0227_002_r_1_tl_1"/>einem von Vorgerichten, kalten Braten, Pilzen, Gurken
 <lb xml:id="smallform_0227_002_r_1_tl_2"/>und saurer Sahne beladenen Buffet an ein Offiziers¬
 <lb xml:id="smallform_0227_002_r_1_tl_3"/>kasino der Vorkriegs-Garnisonen erinnert, und es gibt
 <lb xml:id="smallform_0227_002_r_1_tl_4"/>alte Kirchen mit schweren, prächtigen, wolkenumsegelten
@@ -191,8 +207,9 @@
 <lb xml:id="smallform_0227_002_r_1_tl_37"/>die Energien, die hier am Werke sind. Man begreift die
 <lb xml:id="smallform_0227_002_r_1_tl_38"/>Auswüchse, die, so hofft man, wirklich nur „Kinder¬
 <lb xml:id="smallform_0227_002_r_1_tl_39"/>krankheiten“ sind. Und man muß diese „erste Generation“<milestone unit="textregion" xml:id="smallform_0227_002_r"/>
-         <lb xml:id="smallform_0227_002_l"/>der literarischen Bauernsöhne um ihres Einsatzwillens
+            <lb xml:id="smallform_0227_002_l"/>der literarischen Bauernsöhne um ihres Einsatzwillens
 <lb xml:id="smallform_0227_002_l_7"/>lieben!</CONV><CONV tag="g">
-<lb xml:id="smallform_0227_002_l_11"/>Dr. Annemarie Clark.</CONV></body>
+<lb xml:id="smallform_0227_002_l_11"/>Dr. Annemarie Clark.</CONV></div>
+      </body>
    </text>
 </TEI>
