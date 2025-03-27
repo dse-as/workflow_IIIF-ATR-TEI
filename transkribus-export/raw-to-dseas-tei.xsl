@@ -24,7 +24,8 @@
   <xsl:mode on-no-match="shallow-copy"/>
   <xsl:mode name="combine-hi" on-no-match="shallow-copy"/>
   <xsl:mode name="del-overstrike" on-no-match="shallow-copy"/>
-  <xsl:mode on-no-match="shallow-copy" name="wrap-paragraphs"/>
+  <xsl:mode name="wrap-paragraphs" on-no-match="shallow-copy"/>
+  <xsl:mode name="normalize-punctuation" on-no-match="shallow-copy"/>
   
   <xsl:import href="raw-to-dseas-reflow-ws.xsl"/>
   
@@ -48,6 +49,10 @@
     
     <xsl:variable name="processed" as="node()*">
       <xsl:apply-templates select="$processed" mode="del-overstrike"/>
+    </xsl:variable>
+
+    <xsl:variable name="processed" as="node()*">
+      <xsl:apply-templates select="$processed" mode="normalize-punctuation"/>
     </xsl:variable>
     
     <xsl:variable name="processed" as="node()*">
@@ -216,6 +221,31 @@
       <xsl:attribute name="rend" select="'overstrike'"/>
       <xsl:apply-templates select="node()"/>
     </xsl:element>
+  </xsl:template>
+
+  <!-- [mode] normalize-punctuation 
+              normalize punctuation marks, e.g. dashes, quotation
+       ======================================== -->  
+  
+  <xsl:template match="text()" mode="normalize-punctuation">
+    <xsl:value-of select=".
+      (:dashes and hyphens:)
+        => replace('—',codepoints-to-string((8211)))
+      (:double quotation marks:)
+        => replace('«',codepoints-to-string((34)))
+        => replace('»',codepoints-to-string((34)))
+        => replace('“',codepoints-to-string((34)))
+        => replace('”',codepoints-to-string((34)))
+        => replace('„',codepoints-to-string((34)))
+        => replace('‟',codepoints-to-string((34)))
+      (:single quotation marks:)
+        => replace('‘',codepoints-to-string((39)))
+        => replace('’',codepoints-to-string((39)))
+        => replace('‹',codepoints-to-string((39)))
+        => replace('›',codepoints-to-string((39)))
+        => replace('‚',codepoints-to-string((39)))
+        => replace('‛',codepoints-to-string((39)))
+      "/>
   </xsl:template>
   
 </xsl:transform>
