@@ -27,8 +27,8 @@
   <xsl:variable name="iiif-manifest" select="json-doc('https://iiif.annemarie-schwarzenbach.ch/presentation/'||$fileName||'.json')"/>
   
   <!-- TODO: Change path to "../schema/tei_dseas.rng" when the schema files have been moved to the documents -->
-  <xsl:param name="schema" select="'https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/tei_dseas.rng'"/>
-  <xsl:param name="schematron" select="'https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/dseas.sch'"/>
+  <xsl:param name="schema" select="'https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng'"/>
+  <xsl:param name="schematron" select="'https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch'"/>
 
   <xsl:mode on-no-match="shallow-copy"/>
   <xsl:mode name="coords" on-no-match="shallow-skip"/>
