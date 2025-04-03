@@ -142,9 +142,9 @@
               </msDesc>
             </xsl:when>
             <xsl:when test="$fileType = 'smallform'">
-              <bibl>
+              <bibl corresp="{$fileName}">
                 <persName/>
-                <bibl type="monogr">
+                <bibl>
                   <title level="j"/>
                   <date/>
                   <biblScope/>
