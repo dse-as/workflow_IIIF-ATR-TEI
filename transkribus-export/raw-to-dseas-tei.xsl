@@ -120,7 +120,7 @@
   <!--Transform CONV tag: figure-->
   <xsl:template match="CONV[@tag='f']">
     <figure>
-      <head>
+      <head resp="editor">
         <xsl:apply-templates select="node()"/>
       </head>
     </figure>
