@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0510" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0510#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0510</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> <bibl corresp="smallform_0510"> 
+               <persName/>
+ <bibl> 
+                  <title level="j"/>
+                   <date/>
+ <biblScope/> </bibl> </bibl>          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+ <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0510_facs.xml"/>    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0510_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_tl_4"/>Menschen 
+               <lb xml:id="p001_r_tl_5"/>aus Russland 
+               <lb xml:id="p001_r_tl_1"/>Types 
+               <lb xml:id="p001_r_tl_2"/>populaires 
+               <lb xml:id="p001_r_tl_3"/>russes [Unklar, ob die Textunterschriften und der 'Haupttext' von Schwarzenbach stammen, zumal hier – im Gegensatz zur Mehrheit ihrer Fotoreportagen – die deutschen Texte zuweilen kürzer und ungenauer sind als die französischen. Zugewiesen sind ihr nur die Fotografien. Jedoch wird Schwarzenbach bei ähnlichen Fotoreportagen in Sie und Er ausdrücklich auch als Autorin genannt (z.B. smallform_0495) und in anderen Reportagen, die ihr zugewiesen werden können, gar nicht als Urheberin erwähnt.]</p>
+
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l"/>Zwei Bauernmädchen aus dem russischen Kaukasus</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_3"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_3_tl_1"/>Zwei Bauernmädchen aus dem russischen Kaukasus. Einfach ist ihre Kleidung, bedürfnislos 
+               <lb xml:id="p001_r_3_tl_2"/>ihr Wesen, aber in ihren Herzen tragen sie doch eine Lebensfreude, die aus den Augen leuchtet. 
+               <lb xml:id="p001_r_3_tl_3"/><hi rendition="#i">Jeunes paysannes du Caucase.</hi></p>
+
+            <milestone unit="textregion" xml:id="p001_r_7"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_90"/>Bäuerin vor Kloster in Tiflis</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_12"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_12_tl_1"/>Aufgang zu einem georgischen Kloster in Tiflis. Welch frauliche Würde geht von dieser 
+               <lb xml:id="p001_r_12_tl_2"/>einfachen Bäuerin aus, die schlicht und doch königlich über die Treppe schreitet. – <hi rendition="#i">Cette 
+                  <lb xml:id="p001_r_12_tl_3"/>humble paysanne de Tiflis descend cet escalier avec une majesté que lui envierait mainte 
+                  <lb xml:id="p001_r_12_tl_4"/>vedette de l'écran ou du music-hall.</hi></p>
+
+            <milestone unit="textregion" xml:id="p001_r_17"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_12"/>Zwei kaukasische Bauern nahe Tiflis</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_22"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_22_tl_1"/>Zwei kaukasische Bauern in der Nähe von Tiflis. Sie leben noch so, wie 
+               <lb xml:id="p001_r_22_tl_2"/>schon ihre Väter lebten, und auch in der Kleidung unterscheiden sie sich 
+               <lb xml:id="p001_r_22_tl_3"/>kaum von ihren Vorfahren. – <hi rendition="#i">Campagnards des environs de Tiflis.</hi></p>
+
+            <milestone unit="textregion" xml:id="p001_r_27"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_16"/>Händler an Bahnstation im nördlichen Kaukasus</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_32"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_32_tl_1"/>Typischer Händler an einer kleinen Bahnstation im nördlichen Kaukasus. 
+               <lb xml:id="p001_r_32_tl_2"/>Er bietet den Reisenden als einzige Erfrischung saure Milch feil. – 
+               <lb xml:id="p001_r_32_tl_3"/><hi rendition="#i">Marchand de lait caillé installé à côté d'une gare du Caucase.</hi></p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0510_002.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p002_r_14"/>            <p> 
+               <lb xml:id="p002_r_14_tl_1"/>In der Morgenfrühe des vergangenen Sonntags hat Deutschland in Verbindung mit rumänischen 
+               <lb xml:id="p002_r_14_tl_2"/>Truppen die kriegerischen Aktionen gegen Rußland eröffnet. Eine ungeheure Front, die sich vom 
+               <lb xml:id="p002_r_14_tl_3"/>Eismeer bis zum Schwarzen Meer erstreckt, ist damit in Bewegung geraten, und ein Kampf, wie ihn 
+               <lb xml:id="p002_r_14_tl_4"/>dem zahlenmäßigen Einsatz nach, die Welt noch nie gesehen hat, ist entbrannt.</p>
+
+            <milestone unit="textregion" xml:id="p002_r"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p002_l"/>Menschenmenge an Feiertag in Moskau</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p002_r_2"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_2_tl_1"/>Ein Feiertag in Moskau. Die Leute versammeln sich auf den 
+               <lb xml:id="p002_r_2_tl_2"/>Plätzen. Da und dort spielt einer auf einer Handharmonika 
+               <lb xml:id="p002_r_2_tl_3"/>alte Lieder, und die andern lauschen oder singen mit. – <hi rendition="#i">Un 
+                  <lb xml:id="p002_r_2_tl_4"/>jour férie à Moscou.</hi> (Photos von Annemarie Clarak-Schwarzenbach)</p>
+
+            <milestone unit="textregion" xml:id="p002_r_3"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p002_l_8"/>Bäuerinnen bei Mittagessen auf dem Feld</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p002_r_4"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_4_tl_1"/>Eine Mittagsrast auf dem Felde. Einfach ist die Verpflegung, die in gemeinsamen Küchen zubereitet wird. 
+               <lb xml:id="p002_r_4_tl_2"/><hi rendition="#i">Les paysannes prennent en commun le repas que leur a préparé la cuisine de la kolkhose.</hi></p>
+
+            <milestone unit="textregion" xml:id="p002_r_5"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p002_r_5_tl_2"/>Tanzende Kinder, von Menschenmenge umringt</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p002_r_9"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_9_tl_1"/>Und nicht selten kann man Kinder sehen, die einfache 
+               <lb xml:id="p002_r_9_tl_2"/>Tänze oder Reigen aufführen, zu denen die Umstehenden 
+               <lb xml:id="p002_r_9_tl_3"/>den Rhythmus angeben. – <hi rendition="#i">Enfants exécutant une danse 
+                  <lb xml:id="p002_r_9_tl_4"/>rythmée par des adultes et de petits camarades.</hi></p>
+
+            <milestone unit="textregion" xml:id="p002_r_19"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p002_l_54"/>Verwalter einer Kolchose</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p002_r_20"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_20_tl_1"/>Das ist der Verwalter einer Kolchose. Er trägt die Verantwor 
+               <lb xml:id="p002_r_20_tl_2" break="no"/>tung für die landwirtschaftliche Produktion und die politische 
+               <lb xml:id="p002_r_20_tl_3"/>Schulung der ihm unterstellten Gebiete und Menschen. – <hi rendition="#i">Un 
+                  <lb xml:id="p002_r_20_tl_4"/>administrateur de kolkhose. Il est responsable de la marche d'un 
+                  <lb xml:id="p002_r_20_tl_5"/>exploitation agricole et de l'esprit politique de son personnel.</hi></p>
+
+            <milestone unit="textregion" xml:id="p002_r_21"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p002_l_4"/>Bauern während einer Arbeitspause</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p002_r_26"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_26_tl_1"/>Russische Bauerntypen während einer Arbeitspause. 
+               <lb xml:id="p002_r_26_tl_2"/>Gruppenweise verrichten sie die Arbeiten auf den Feldern. 
+               <lb xml:id="p002_r_26_tl_3"/><hi rendition="#i">Paysans russes au repos.</hi></p>
+
+            <milestone unit="textregion" xml:id="p002_r_31"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p002_l_9"/>Ruderboote der russischen Marine auf der Neva</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p002_r_41"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_41_tl_1"/>Ein Blick auf die Neva bei Leningrad. Die Boote gehören der russischen Marine. – <hi rendition="#i">La Neva à Leningrad.</hi></p>
+</div>
+       </body>
+    </text>
+ </TEI>
