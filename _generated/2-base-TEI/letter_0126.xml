@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0126" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0126#"> 
    <teiHeader> 
       <fileDesc> 
@@ -14,12 +14,37 @@
              </note>
           </notesStmt>
           <sourceDesc> 
-            <p/>
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
           </sourceDesc>
        </fileDesc>
        <profileDesc> 
-         <textClass> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
             <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
                <list> 
                   <item/>
                 </list>
@@ -28,96 +53,98 @@
        </profileDesc>
     </teiHeader>
  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0126_facs.xml"/>    <text> 
-      <body><!--IIIF Image or Presentation URL?-->
-         <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0126_001.tif/info.json"/>
-         <milestone unit="textregion" xml:id="p001_tr_1"/>         <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
-            <lb xml:id="p001_tr_1_tl_2"/>13. April 1930 
-            <lb xml:id="p001_tr_1_tl_3"/>Lieber Herr Fueter – vielen herzlichen 
-            <lb xml:id="p001_tr_1_tl_4"/>Dank für Ihren inhaltsreichen 
-            <lb xml:id="p001_tr_1_tl_5"/>Brief – Sie sind vielleicht von Ihren 
-            <lb xml:id="p001_tr_1_tl_6"/>Wanderfahrten zurück u. bereiten 
-            <lb xml:id="p001_tr_1_tl_7"/>sich, wie ich, mit Fleiss auf das 
-            <lb xml:id="p001_tr_1_tl_8"/>neue Semester vor (von dem ich viel 
-            <lb xml:id="p001_tr_1_tl_9"/>an Anregung, Arbeit u. som[gem]erlicher 
-            <lb xml:id="p001_l"/>Freude erhoffe!). Jedenfalls wünsche 
-            <lb xml:id="p001_tr_1_tl_12"/>ich Ihnen dass Sie schöne Tage gehabt 
-            <lb xml:id="p001_tr_1_tl_13"/>haben u. alles das was Sie brauchen! 
-            <lb xml:id="p001_tr_1_tl_14"/>– Sie fragen welchen Eindruck ich 
-            <lb xml:id="p001_tr_1_tl_15"/>von der Italienfahrt [unklar, in welchem Zusammenhang AS im Winter/Frühling 1930 nach Italien reiste!] empfing. – 
-            <lb xml:id="p001_tr_1_tl_16"/>Rom war erstaunlich u. beglückend, 
-            <lb xml:id="p001_tr_1_tl_17"/>ein “Ganzes“ in welchem sich die 
-            <lb xml:id="p001_tr_1_tl_18"/>grössten Gegensätze der Geschichte, u. 
-            <lb xml:id="p001_tr_1_tl_19"/>im[gem]er in ihrer glänzendsten Äusserung 
-            <lb xml:id="p001_tr_1_tl_20"/>vereinen zu einem Schauspiel mensch 
-            <lb xml:id="p001_tr_1_tl_21" break="no"/>licher Grösse trotz aller "Vergänglichkeit" –</p>
-<!--IIIF Image or Presentation URL?-->
-         <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0126_002.tif/info.json"/>
-         <milestone unit="textregion" xml:id="p002_tr_1"/>         <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
-            <lb xml:id="p002_tr_1_tl_1"/>und dieses alles im herrlichen Rahmen 
-            <lb xml:id="p002_tr_1_tl_2"/>einer unvergleichlichen Landschaft, schwer 
-            <lb xml:id="p002_tr_1_tl_3"/>von Geschichte, u. endend im "heute", im 
-            <lb xml:id="p002_tr_1_tl_4"/>Leben einer eleganten, von Tradition 
-            <lb xml:id="p002_tr_1_tl_5"/>spürbar erfüllten u. den[gem]och völlig modernen 
-            <lb xml:id="p002_tr_1_tl_6"/>Stadt – nachher kam Neapel mit Capri, 
-            <lb xml:id="p002_tr_1_tl_7"/>Vesuv u. Amalfi – endlich Mailand. 
-            <lb xml:id="p002_tr_1_tl_8"/>Wenn Sie Lust haben möcht ich Ihnen die 
-            <lb xml:id="p002_tr_1_tl_9"/>"literarische" Arbeit dieser Ferien zu lesen, 
-            <lb xml:id="p002_tr_1_tl_10"/>geben, ein Aufsatz "Stellung der Jugend" [smallform_0020 bzw. smallform_0021] u. 
-            <lb xml:id="p002_tr_1_tl_11"/>eine Novelle "Paris" [smallform_0018] – Sie werden sich viell. 
-            <lb xml:id="p002_tr_1_tl_12"/>wundern dass darin so wenig von den neuen 
-            <lb xml:id="p002_tr_1_tl_13"/>Eindrücken ist – die Novelle enthält nichts 
-            <lb xml:id="p002_tr_1_tl_14"/>als die Stimmung eines Abends, nichts als 
-            <lb xml:id="p002_tr_1_tl_15"/>eine menschliche Beziehung. Aber vielleicht 
-            <lb xml:id="p002_tr_1_tl_16"/>kann ich Ihnen erklären was ich davon 
-            <lb xml:id="p002_tr_1_tl_17"/>denke: Wen[gem] schreiben einen "mänlichen" Willen 
-            <lb xml:id="p002_tr_1_tl_18"/>zur Formung erfordert, so gibt es doch bei 
-            <lb xml:id="p002_tr_1_tl_19"/>den Schreibenden zwei Seelenhaltungen: 
-            <lb xml:id="p002_tr_1_tl_20"/>Der Män[gem]lichere, schöpferische Mensch kann in 
-            <lb xml:id="p002_tr_1_tl_21"/>das was er schreibt, bewusste <hi rendition="#u">Ideen</hi> 
-            <lb xml:id="p002_tr_1_tl_22"/>oder Eindrücke legen, oder er kann sogar 
-            <lb xml:id="p002_tr_1_tl_23"/>von einer Idee ausgehend Schreiben – Der andere, 
-            <lb xml:id="p002_tr_1_tl_24"/>in seiner Psyche "weiblichere" Mensch</p>
-<!--IIIF Image or Presentation URL?-->
-         <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0126_003.tif/info.json"/>
-         <milestone unit="textregion" xml:id="p003_tr_1"/>         <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
-            <lb xml:id="p003_l"/>schreibt unbewusst, als Instrument 
-            <lb xml:id="p003_l_1"/>gleichsam wartend, dass ihm eine 
-            <lb xml:id="p003_tr_1_tl_5"/>fast fremde Kraft die Feder führe. 
-            <lb xml:id="p003_tr_1_tl_6"/>Ein solcher, selbst wen[gem] er viele Gedanken 
-            <lb xml:id="p003_tr_1_tl_7"/>verarbeitet, sollte nicht versuchen sie 
-            <lb xml:id="p003_tr_1_tl_8"/>in sein Schreiben zu mengen: es würde 
-            <lb xml:id="p003_tr_1_tl_9"/>als <hi rendition="#u">Theorie</hi> wirken. Das aber, was er <hi rendition="#u">ganz</hi> 
-            <lb xml:id="p003_tr_1_tl_10"/>verarbeitet hat, wird in dem was er 
-            <lb xml:id="p003_tr_1_tl_11"/>schreibt, sicher irgendwo wieder zum 
-            <lb xml:id="p003_tr_1_tl_12"/>Ausdruch kom[gem]en.</p>
-         <p> 
-            <lb xml:id="p003_tr_1_tl_13"/>In diesen Menschen zähle ich mich. Und 
-            <lb xml:id="p003_tr_1_tl_14"/>ich bin deshalb sehr anspruchslos 
-            <lb xml:id="p003_tr_1_tl_15"/>im "Thema" dessen was ich schreibe. 
-            <lb xml:id="p003_tr_1_tl_16"/>Ein Einsdruck, ein gesprochener Satz, eine 
-            <lb xml:id="p003_tr_1_tl_17"/>menschliche Beziehung genügt. Ich lausche 
-            <lb xml:id="p003_tr_1_tl_18"/>beinahe nur den Worten die ich schreibe 
-            <lb xml:id="p003_tr_1_tl_19"/>u. überlasse es dem "Zufall" was darauf 
-            <lb xml:id="p003_tr_1_tl_20"/>werden soll. Ich "will" nichts, wen[gem] ich 
-            <lb xml:id="p003_tr_1_tl_21"/>schreibe.</p>
-         <p> 
-            <lb xml:id="p003_tr_1_tl_22"/>Ich weiss nicht ob ich mich klar 
-            <lb xml:id="p003_tr_1_tl_23"/>ausgedrückt habe.</p>
-<!--IIIF Image or Presentation URL?-->
-         <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0126_004.tif/info.json"/>
-         <milestone unit="textregion" xml:id="p004_tr_1"/>         <p> 
-            <lb xml:id="p004_tr_1_tl_1"/>Und damit genug. - Wir werden uns 
-            <lb xml:id="p004_tr_1_tl_2"/>ja bald sprechen.</p>
-         <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
-            <lb xml:id="p004_l"/>Grüsse an Ihre verehrten Eltern – 
-            <lb xml:id="p004_tr_1_tl_5"/>und Ihnen stets alles Gute 
-            <lb xml:id="p004_tr_1_tl_6"/>Ihre 
-            <lb xml:id="p004_tr_1_tl_7"/>An[gem]emarie Schwarzenbach. 
-            <lb xml:id="p004_tr_1_tl_8"/>P.S. zulezt war ich 10 Tage krank u. bin 
-            <lb xml:id="p004_tr_1_tl_9"/>noch in unerfreulichem Halb-Stadium – 
-            <lb xml:id="p004_tr_1_tl_10"/>dadurch hatte ich aber Zeit viel 
-            <lb xml:id="p004_tr_1_tl_11"/>zu lesen. Sie kennen das ja aus 
-            <lb xml:id="p004_tr_1_tl_12"/>eigner Erfahrung!</p>
-      </body>
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0126_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_2"/>13. April 1930 
+               <lb xml:id="p001_tr_1_tl_3"/>Lieber Herr Fueter – vielen herzlichen 
+               <lb xml:id="p001_tr_1_tl_4"/>Dank für Ihren inhaltsreichen 
+               <lb xml:id="p001_tr_1_tl_5"/>Brief – Sie sind vielleicht von Ihren 
+               <lb xml:id="p001_tr_1_tl_6"/>Wanderfahrten zurück u. bereiten 
+               <lb xml:id="p001_tr_1_tl_7"/>sich, wie ich, mit Fleiss auf das 
+               <lb xml:id="p001_tr_1_tl_8"/>neue Semester vor (von dem ich viel 
+               <lb xml:id="p001_tr_1_tl_9"/>an Anregung, Arbeit u. som[gem]erlicher 
+               <lb xml:id="p001_l"/>Freude erhoffe!). Jedenfalls wünsche 
+               <lb xml:id="p001_tr_1_tl_12"/>ich Ihnen dass Sie schöne Tage gehabt 
+               <lb xml:id="p001_tr_1_tl_13"/>haben u. alles das was Sie brauchen! 
+               <lb xml:id="p001_tr_1_tl_14"/>– Sie fragen welchen Eindruck ich 
+               <lb xml:id="p001_tr_1_tl_15"/>von der Italienfahrt [unklar, in welchem Zusammenhang AS im Winter/Frühling 1930 nach Italien reiste!] empfing. – 
+               <lb xml:id="p001_tr_1_tl_16"/>Rom war erstaunlich u. beglückend, 
+               <lb xml:id="p001_tr_1_tl_17"/>ein "Ganzes" in welchem sich die 
+               <lb xml:id="p001_tr_1_tl_18"/>grössten Gegensätze der Geschichte, u. 
+               <lb xml:id="p001_tr_1_tl_19"/>im[gem]er in ihrer glänzendsten Äusserung 
+               <lb xml:id="p001_tr_1_tl_20"/>vereinen zu einem Schauspiel mensch 
+               <lb xml:id="p001_tr_1_tl_21" break="no"/>licher Grösse trotz aller "Vergänglichkeit" –</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0126_002.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>und dieses alles im herrlichen Rahmen 
+               <lb xml:id="p002_tr_1_tl_2"/>einer unvergleichlichen Landschaft, schwer 
+               <lb xml:id="p002_tr_1_tl_3"/>von Geschichte, u. endend im "heute", im 
+               <lb xml:id="p002_tr_1_tl_4"/>Leben einer eleganten, von Tradition 
+               <lb xml:id="p002_tr_1_tl_5"/>spürbar erfüllten u. den[gem]och völlig modernen 
+               <lb xml:id="p002_tr_1_tl_6"/>Stadt – nachher kam Neapel mit Capri, 
+               <lb xml:id="p002_tr_1_tl_7"/>Vesuv u. Amalfi – endlich Mailand. 
+               <lb xml:id="p002_tr_1_tl_8"/>Wenn Sie Lust haben möcht ich Ihnen die 
+               <lb xml:id="p002_tr_1_tl_9"/>"literarische" Arbeit dieser Ferien zu lesen, 
+               <lb xml:id="p002_tr_1_tl_10"/>geben, ein Aufsatz "Stellung der Jugend" [smallform_0020 bzw. smallform_0021] u. 
+               <lb xml:id="p002_tr_1_tl_11"/>eine Novelle "Paris" [smallform_0018] – Sie werden sich viell. 
+               <lb xml:id="p002_tr_1_tl_12"/>wundern dass darin so wenig von den neuen 
+               <lb xml:id="p002_tr_1_tl_13"/>Eindrücken ist – die Novelle enthält nichts 
+               <lb xml:id="p002_tr_1_tl_14"/>als die Stimmung eines Abends, nichts als 
+               <lb xml:id="p002_tr_1_tl_15"/>eine menschliche Beziehung. Aber vielleicht 
+               <lb xml:id="p002_tr_1_tl_16"/>kann ich Ihnen erklären was ich davon 
+               <lb xml:id="p002_tr_1_tl_17"/>denke: Wen[gem] schreiben einen "mänlichen" Willen 
+               <lb xml:id="p002_tr_1_tl_18"/>zur Formung erfordert, so gibt es doch bei 
+               <lb xml:id="p002_tr_1_tl_19"/>den Schreibenden zwei Seelenhaltungen: 
+               <lb xml:id="p002_tr_1_tl_20"/>Der Män[gem]lichere, schöpferische Mensch kann in 
+               <lb xml:id="p002_tr_1_tl_21"/>das was er schreibt, bewusste <hi rendition="#u">Ideen</hi> 
+               <lb xml:id="p002_tr_1_tl_22"/>oder Eindrücke legen, oder er kann sogar 
+               <lb xml:id="p002_tr_1_tl_23"/>von einer Idee ausgehend Schreiben – Der andere, 
+               <lb xml:id="p002_tr_1_tl_24"/>in seiner Psyche "weiblichere" Mensch</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0126_003.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_l"/>schreibt unbewusst, als Instrument 
+               <lb xml:id="p003_l_1"/>gleichsam wartend, dass ihm eine 
+               <lb xml:id="p003_tr_1_tl_5"/>fast fremde Kraft die Feder führe. 
+               <lb xml:id="p003_tr_1_tl_6"/>Ein solcher, selbst wen[gem] er viele Gedanken 
+               <lb xml:id="p003_tr_1_tl_7"/>verarbeitet, sollte nicht versuchen sie 
+               <lb xml:id="p003_tr_1_tl_8"/>in sein Schreiben zu mengen: es würde 
+               <lb xml:id="p003_tr_1_tl_9"/>als <hi rendition="#u">Theorie</hi> wirken. Das aber, was er <hi rendition="#u">ganz</hi> 
+               <lb xml:id="p003_tr_1_tl_10"/>verarbeitet hat, wird in dem was er 
+               <lb xml:id="p003_tr_1_tl_11"/>schreibt, sicher irgendwo wieder zum 
+               <lb xml:id="p003_tr_1_tl_12"/>Ausdruch kom[gem]en.</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_13"/>In diesen Menschen zähle ich mich. Und 
+               <lb xml:id="p003_tr_1_tl_14"/>ich bin deshalb sehr anspruchslos 
+               <lb xml:id="p003_tr_1_tl_15"/>im "Thema" dessen was ich schreibe. 
+               <lb xml:id="p003_tr_1_tl_16"/>Ein Einsdruck, ein gesprochener Satz, eine 
+               <lb xml:id="p003_tr_1_tl_17"/>menschliche Beziehung genügt. Ich lausche 
+               <lb xml:id="p003_tr_1_tl_18"/>beinahe nur den Worten die ich schreibe 
+               <lb xml:id="p003_tr_1_tl_19"/>u. überlasse es dem "Zufall" was darauf 
+               <lb xml:id="p003_tr_1_tl_20"/>werden soll. Ich "will" nichts, wen[gem] ich 
+               <lb xml:id="p003_tr_1_tl_21"/>schreibe.</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_22"/>Ich weiss nicht ob ich mich klar 
+               <lb xml:id="p003_tr_1_tl_23"/>ausgedrückt habe.</p>
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0126_004.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>            <p> 
+               <lb xml:id="p004_tr_1_tl_1"/>Und damit genug. - Wir werden uns 
+               <lb xml:id="p004_tr_1_tl_2"/>ja bald sprechen.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_l"/>Grüsse an Ihre verehrten Eltern – 
+               <lb xml:id="p004_tr_1_tl_5"/>und Ihnen stets alles Gute 
+               <lb xml:id="p004_tr_1_tl_6"/>Ihre 
+               <lb xml:id="p004_tr_1_tl_7"/>An[gem]emarie Schwarzenbach. 
+               <lb xml:id="p004_tr_1_tl_8"/>P.S. zulezt war ich 10 Tage krank u. bin 
+               <lb xml:id="p004_tr_1_tl_9"/>noch in unerfreulichem Halb-Stadium – 
+               <lb xml:id="p004_tr_1_tl_10"/>dadurch hatte ich aber Zeit viel 
+               <lb xml:id="p004_tr_1_tl_11"/>zu lesen. Sie kennen das ja aus 
+               <lb xml:id="p004_tr_1_tl_12"/>eigner Erfahrung!</p>
+</div>
+       </body>
     </text>
  </TEI>

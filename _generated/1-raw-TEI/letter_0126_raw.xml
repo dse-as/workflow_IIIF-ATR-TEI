@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xml:id="letter_0126"
      type="dseas-letter">
@@ -18,12 +18,37 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <p/>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
          <textClass>
             <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
                <list>
                   <item/>
                </list>
@@ -33,11 +58,12 @@
    </teiHeader>
    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0126_facs.xml"/>
    <text>
-      <body><!--IIIF Image or Presentation URL?-->
-         <pb xml:id="letter_0126_001"
-             facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0126_001.tif/info.json"/>
-         <milestone unit="textregion" xml:id="letter_0126_001_tr_1"/>
-         <lb xml:id="letter_0126_001_tr_1_tl_2"/>13. April 1930
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0126_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0126_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0126_001_tr_1"/>
+            <lb xml:id="letter_0126_001_tr_1_tl_2"/>13. April 1930
 <lb xml:id="letter_0126_001_tr_1_tl_3"/>Lieber Herr Fueter – vielen herzlichen
 <lb xml:id="letter_0126_001_tr_1_tl_4"/>Dank für Ihren inhaltsreichen
 <lb xml:id="letter_0126_001_tr_1_tl_5"/>Brief – Sie sind vielleicht von Ihren
@@ -55,10 +81,10 @@
 <lb xml:id="letter_0126_001_tr_1_tl_18"/>grössten Gegensätze der Geschichte, u.
 <lb xml:id="letter_0126_001_tr_1_tl_19"/>im[gem]er in ihrer glänzendsten Äusserung
 <lb xml:id="letter_0126_001_tr_1_tl_20"/>vereinen zu einem Schauspiel mensch¬
-<lb xml:id="letter_0126_001_tr_1_tl_21"/>licher Grösse trotz aller "Vergänglichkeit" –<!--IIIF Image or Presentation URL?--><pb xml:id="letter_0126_002"
-             facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0126_002.tif/info.json"/>
-         <milestone unit="textregion" xml:id="letter_0126_002_tr_1"/>
-         <lb xml:id="letter_0126_002_tr_1_tl_1"/>und dieses alles im herrlichen Rahmen
+<lb xml:id="letter_0126_001_tr_1_tl_21"/>licher Grösse trotz aller "Vergänglichkeit" –<pb xml:id="letter_0126_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0126_002.tif/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0126_002_tr_1"/>
+            <lb xml:id="letter_0126_002_tr_1_tl_1"/>und dieses alles im herrlichen Rahmen
 <lb xml:id="letter_0126_002_tr_1_tl_2"/>einer unvergleichlichen Landschaft, schwer
 <lb xml:id="letter_0126_002_tr_1_tl_3"/>von Geschichte, u. endend im "heute", im
 <lb xml:id="letter_0126_002_tr_1_tl_4"/>Leben einer eleganten, von Tradition
@@ -81,10 +107,10 @@
 <lb xml:id="letter_0126_002_tr_1_tl_21"/>das was er schreibt, bewusste <PAGE tag="underlined">Ideen</PAGE>
 <lb xml:id="letter_0126_002_tr_1_tl_22"/>oder Eindrücke legen, oder er kann sogar
 <lb xml:id="letter_0126_002_tr_1_tl_23"/>von einer Idee ausgehend Schreiben – Der andere,
-<lb xml:id="letter_0126_002_tr_1_tl_24"/>in seiner Psyche "weiblichere" Mensch<!--IIIF Image or Presentation URL?--><pb xml:id="letter_0126_003"
-             facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0126_003.tif/info.json"/>
-         <milestone unit="textregion" xml:id="letter_0126_003_tr_1"/>
-         <lb xml:id="letter_0126_003_l"/>schreibt unbewusst, als Instrument
+<lb xml:id="letter_0126_002_tr_1_tl_24"/>in seiner Psyche "weiblichere" Mensch<pb xml:id="letter_0126_003"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0126_003.tif/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0126_003_tr_1"/>
+            <lb xml:id="letter_0126_003_l"/>schreibt unbewusst, als Instrument
 <lb xml:id="letter_0126_003_l_1"/>gleichsam wartend, dass ihm eine
 <lb xml:id="letter_0126_003_tr_1_tl_5"/>fast fremde Kraft die Feder führe.
 <lb xml:id="letter_0126_003_tr_1_tl_6"/>Ein solcher, selbst wen[gem] er viele Gedanken
@@ -104,9 +130,9 @@
 <lb xml:id="letter_0126_003_tr_1_tl_20"/>werden soll. Ich "will" nichts, wen[gem] ich
 <lb xml:id="letter_0126_003_tr_1_tl_21"/>schreibe.</CONV><CONV tag="p">
 <lb xml:id="letter_0126_003_tr_1_tl_22"/>Ich weiss nicht ob ich mich klar
-<lb xml:id="letter_0126_003_tr_1_tl_23"/>ausgedrückt habe.</CONV><!--IIIF Image or Presentation URL?--><pb xml:id="letter_0126_004"
-             facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0126_004.tif/info.json"/>
-         <milestone unit="textregion" xml:id="letter_0126_004_tr_1"/><CONV tag="p">
+<lb xml:id="letter_0126_003_tr_1_tl_23"/>ausgedrückt habe.</CONV><pb xml:id="letter_0126_004"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0126_004.tif/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0126_004_tr_1"/><CONV tag="p">
 <lb xml:id="letter_0126_004_tr_1_tl_1"/>Und damit genug. - Wir werden uns
 <lb xml:id="letter_0126_004_tr_1_tl_2"/>ja bald sprechen.</CONV>
 <lb xml:id="letter_0126_004_l"/>Grüsse an Ihre verehrten Eltern –
@@ -117,6 +143,7 @@
 <lb xml:id="letter_0126_004_tr_1_tl_9"/>noch in unerfreulichem Halb-Stadium –
 <lb xml:id="letter_0126_004_tr_1_tl_10"/>dadurch hatte ich aber Zeit viel
 <lb xml:id="letter_0126_004_tr_1_tl_11"/>zu lesen. Sie kennen das ja aus
-<lb xml:id="letter_0126_004_tr_1_tl_12"/>eigner Erfahrung!</body>
+<lb xml:id="letter_0126_004_tr_1_tl_12"/>eigner Erfahrung!</div>
+      </body>
    </text>
 </TEI>
