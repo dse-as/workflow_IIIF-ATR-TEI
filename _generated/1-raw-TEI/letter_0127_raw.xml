@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0127"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0127</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0127_facs.xml"/>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0127_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0127_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0127_001_r"/>
+            <lb xml:id="letter_0127_001_l"/>Parkhotel Erbprinz. Weimar<milestone unit="textregion" xml:id="letter_0127_001_tr_2"/><CONV tag="p">
+<lb xml:id="letter_0127_001_l_103"/>Lieber Edi! Ich kenne jetzt
+<lb xml:id="letter_0127_001_l_107"/>Göttingen Stuttgart Mergentheim
+<lb xml:id="letter_0127_001_l_111"/>Würzburg Meiningen Eisenach
+<lb xml:id="letter_0127_001_l_115"/>samt der Wartburg u. sogar
+<lb xml:id="letter_0127_001_l_119"/>die Musenstadt [? allgemein für Studentenstadt, taucht z.B. in div. Studentenliedern auf; hier könnte z.B. Göttingen gemeint sein, das in der Verlängerung der aufgezählten Orte liegt, am wahrscheinlichsten ist jedoch Weimar, wo AS die Karte erstand] .</CONV><CONV tag="p">
+<lb xml:id="letter_0127_001_l_123"/>Das gäbe Stoff zu zehn langen
+<lb xml:id="letter_0127_001_l_127"/>Reiseberiefen doch muss Dir ein
+<lb xml:id="letter_0127_001_l_131"/>Gruss genügen. Schmerzen habe
+<lb xml:id="letter_0127_001_l_135"/>ich genau wie Samstag u.
+<lb xml:id="letter_0127_001_l_139"/>schluche tapfer Brom. Die
+<lb xml:id="letter_0127_001_l_143"/>Opiumtropfen haben übrigens,
+<lb xml:id="letter_0127_001_l_147"/>scheint mir, gerade während<milestone unit="textregion" xml:id="letter_0127_001_tr_1"/>
+            <lb xml:id="letter_0127_001_tr_1_tl_1"/>Prüfung Deines Pa leicht lähmend gewirkt!!</CONV>
+<lb xml:id="letter_0127_001_tr_1_tl_2"/>Vielen herzlichen Dank für die schönen
+<lb xml:id="letter_0127_001_tr_1_tl_3"/>Blumen, u. für Deine "Anteilnahme" – u.
+<lb xml:id="letter_0127_001_l_1"/>viele früsse Deinen Eltern u. Dir!
+<lb xml:id="letter_0127_001_tr_1_tl_6"/>Annemarie
+<lb xml:id="letter_0127_001_tr_1_tl_7"/>P.S. Kan[gem]st du gleich einen "Zürcher Student"[vermutlich geht es um AS' Publikation im Zürcher Student - Eduard Fueter Redaktor?]
+<lb xml:id="letter_0127_001_tr_1_tl_8"/>schicken an: Erika Mann, Poschingerstr. 1
+<lb xml:id="letter_0127_001_tr_1_tl_9"/><PAGE tag="underlined">München</PAGE>
+<lb xml:id="letter_0127_001_tr_1_tl_10"/>und 6 an mich: Freiherr v. Stein-Str. 8 IV,
+<lb xml:id="letter_0127_001_tr_1_tl_11"/><PAGE tag="underlined">Berlin Schöneberg</PAGE>
+<lb xml:id="letter_0127_001_tr_1_tl_12"/>Tausend dank!</div>
+      </body>
+   </text>
+</TEI>
