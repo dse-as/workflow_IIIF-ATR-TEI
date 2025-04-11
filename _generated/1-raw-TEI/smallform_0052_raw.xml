@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xml:id="smallform_0052"
      type="dseas-smallform">
@@ -18,12 +18,27 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <p/>
+            <bibl corresp="smallform_0052">
+               <persName/>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
          <textClass>
             <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
                <list>
                   <item/>
                </list>
@@ -33,11 +48,12 @@
    </teiHeader>
    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0052_facs.xml"/>
    <text>
-      <body><!--IIIF Image or Presentation URL?-->
-         <pb xml:id="smallform_0052_001"
-             facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0052_001.tif/info.json"/>
-         <milestone unit="textregion" xml:id="smallform_0052_001_r_3"/>
-         <lb xml:id="smallform_0052_001_r_3_tl_1"/>Die neue landwirtschaftliche Hochschule
+      <body>
+         <div type="smallform">
+            <pb xml:id="smallform_0052_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0052_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0052_001_r_3"/>
+            <lb xml:id="smallform_0052_001_r_3_tl_1"/>Die neue landwirtschaftliche Hochschule
 <lb xml:id="smallform_0052_001_r_3_tl_2"/>in Ankara.<CONV tag="p">
 <lb xml:id="smallform_0052_001_r_3_tl_3"/>Unter den mannigfachen Reformen, welche in den 10
 <lb xml:id="smallform_0052_001_r_3_tl_4"/>Jahren des Bestehens der Republik in der Türkei
@@ -62,17 +78,17 @@
 <lb xml:id="smallform_0052_001_r_3_tl_23"/>führen — zweitens einen Stab von jungen Landwir¬
 <lb xml:id="smallform_0052_001_r_3_tl_24"/>ten auszubilden — drittens eine allgemein beratende
 <lb xml:id="smallform_0052_001_r_3_tl_25"/>Funktion zu erfüllen.</CONV><CONV tag="p">
-<lb xml:id="smallform_0052_001_r_3_tl_26"/>Dies werden die wichtigsten Aufgaben der \g\neuen
+<lb xml:id="smallform_0052_001_r_3_tl_26"/>Dies werden die wichtigsten Aufgaben der <CONV tag="g">neuen
 <lb xml:id="smallform_0052_001_r_3_tl_27"/>landwirtschaftlichen Hochschule in An¬
-<lb xml:id="smallform_0052_001_r_3_tl_28"/>kara\:g\ sein.</CONV><CONV tag="p">
+<lb xml:id="smallform_0052_001_r_3_tl_28"/>kara</CONV> sein.</CONV><CONV tag="p">
 <lb xml:id="smallform_0052_001_r_3_tl_29"/>Diese Schule ist nicht ohne Vorgängerin: seit einer
 <lb xml:id="smallform_0052_001_r_3_tl_30"/>Reihe von Jahren existierte in Ankara eine landwirt¬
 <lb xml:id="smallform_0052_001_r_3_tl_31"/>schaftliche Schule, deren deutsche Professoren mit ihren
 <lb xml:id="smallform_0052_001_r_3_tl_32"/>Assistenten bereits wertvolle Pionierarbeit geleistet
 <lb xml:id="smallform_0052_001_r_3_tl_33"/>haben.</CONV><CONV tag="p">
 <lb xml:id="smallform_0052_001_r_3_tl_34"/>An die Spitze der neuen Hochschule hat die tür¬
-<lb xml:id="smallform_0052_001_r_3_tl_35"/>kische Regierung Professor \g\Falke\:g\ als Rektor be¬
-<lb xml:id="smallform_0052_001_r_3_tl_36"/>rufen. Auch die übrigen Professoren sind \g\deutsche\:g\
+<lb xml:id="smallform_0052_001_r_3_tl_35"/>kische Regierung Professor <CONV tag="g">Falke</CONV> als Rektor be¬
+<lb xml:id="smallform_0052_001_r_3_tl_36"/>rufen. Auch die übrigen Professoren sind <CONV tag="g">deutsche</CONV>
 <lb xml:id="smallform_0052_001_r_3_tl_37"/>Gelehrte, so daß die Schule einen einheitlichen Lehr¬
 <lb xml:id="smallform_0052_001_r_3_tl_38"/>körper besitzt.</CONV><CONV tag="p">
 <lb xml:id="smallform_0052_001_r_3_tl_39"/>Man hat diejenigen Fakultäten eingerichtet, welche
@@ -81,7 +97,7 @@
 <lb xml:id="smallform_0052_001_r_3_tl_42"/>liche, eine veterinär-medizinische, und eine techno¬
 <lb xml:id="smallform_0052_001_r_3_tl_43"/>logisch-technische. Eine Anzahl praktischer Versuchs¬
 <lb xml:id="smallform_0052_001_r_3_tl_44"/>anstalten und wissenschaftlicher Laboratorien, sowie ein<milestone unit="textregion" xml:id="smallform_0052_001_r_21"/>
-         <lb xml:id="smallform_0052_001_r_21_tl_1"/>landwirtschaftlicher Musterbetrieb vervollständigen die
+            <lb xml:id="smallform_0052_001_r_21_tl_1"/>landwirtschaftlicher Musterbetrieb vervollständigen die
 <lb xml:id="smallform_0052_001_r_21_tl_2"/>Schule, deren Einrichtung in jeder Beziehung vor¬
 <lb xml:id="smallform_0052_001_r_21_tl_3"/>bildlich ist. Damit ist eine Anstalt geschaffen, die die
 <lb xml:id="smallform_0052_001_r_21_tl_4"/>neuorganisierte Istambuler Universität ergänzt.</CONV><CONV tag="p">
@@ -127,7 +143,7 @@
 <lb xml:id="smallform_0052_001_r_21_tl_44"/>schiedenheit der türkischen Mentalität von der west¬
 <lb xml:id="smallform_0052_001_r_21_tl_45"/>europäischen. Sie zu definieren wäre eine Aufgabe,
 <lb xml:id="smallform_0052_001_r_21_tl_46"/>die über den Rahmen dieses Artikels hinausgeht.<milestone unit="textregion" xml:id="smallform_0052_001_r_53"/>
-         <lb xml:id="smallform_0052_001_r_53_tl_1"/>Jedenfalls wäre es falsch, anzunehmen, daß die jun¬
+            <lb xml:id="smallform_0052_001_r_53_tl_1"/>Jedenfalls wäre es falsch, anzunehmen, daß die jun¬
 <lb xml:id="smallform_0052_001_r_53_tl_2"/>gen Türken, aus welchen Landesteilen sie auch stam¬
 <lb xml:id="smallform_0052_001_r_53_tl_3"/>men mögen, geistig unbegabter seien als eine Schüler¬
 <lb xml:id="smallform_0052_001_r_53_tl_4"/>schaft bei uns. Aber sie sind unter anderen Voraus¬
@@ -172,6 +188,7 @@
 <lb xml:id="smallform_0052_001_r_53_tl_43"/>praktischsten Bedürfnisse des türkischen Staates sind
 <lb xml:id="smallform_0052_001_r_53_tl_44"/>zugleich geistige, und keines läßt sich ohne das andere
 <lb xml:id="smallform_0052_001_r_53_tl_45"/>erfüllen.</CONV>
-<lb xml:id="smallform_0052_001_r_53_tl_46"/>Dr. Annemarie Schwarzenbach.</body>
+<lb xml:id="smallform_0052_001_r_53_tl_46"/>Dr. Annemarie <CONV tag="g">Schwarzenbach</CONV>.</div>
+      </body>
    </text>
 </TEI>
