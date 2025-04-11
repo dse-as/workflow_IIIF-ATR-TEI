@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xml:id="smallform_0175"
      type="dseas-smallform">
@@ -18,12 +18,27 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <p/>
+            <bibl corresp="smallform_0175">
+               <persName/>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
          <textClass>
             <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
                <list>
                   <item/>
                </list>
@@ -33,11 +48,12 @@
    </teiHeader>
    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0175_facs.xml"/>
    <text>
-      <body><!--IIIF Image or Presentation URL?-->
-         <pb xml:id="smallform_0175_001"
-             facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0175f_001.tif/info.json"/>
-         <milestone unit="textregion" xml:id="smallform_0175_001_r_2"/>
-         <lb xml:id="smallform_0175_001_r_2_tl_1"/>Papiermühlen und kleine Farmen
+      <body>
+         <div type="smallform">
+            <pb xml:id="smallform_0175_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0175f_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0175_001_r_2"/>
+            <lb xml:id="smallform_0175_001_r_2_tl_1"/>Papiermühlen und kleine Farmen
 <lb xml:id="smallform_0175_001_r_2_tl_2"/>in Maine
 <lb xml:id="smallform_0175_001_r_2_tl_3"/>Von Dr. <CONV tag="g">Annemarie Clark</CONV><CONV tag="p">
 <lb xml:id="smallform_0175_001_r_2_tl_4"/>„Wie Maine wählt, wählt die Nation“, — man
@@ -64,7 +80,7 @@
 <lb xml:id="smallform_0175_001_r_2_tl_25"/>hätten in alten Zeiten auf den schlechten Wegen nicht
 <lb xml:id="smallform_0175_001_r_2_tl_26"/>zu den Wahlurnen gelangen können. Heute gibt es
 <lb xml:id="smallform_0175_001_r_2_tl_27"/>„Highroads“ asphaltierte Straßen, und Schneepflüge,
-<lb xml:id="smallform_0175_001_r_2_tl_28"/> — aber Marine ist konservativ, und deshalb wird der
+<lb xml:id="smallform_0175_001_r_2_tl_28"/> — aber Maine ist konservativ, und deshalb wird der
 <lb xml:id="smallform_0175_001_r_2_tl_29"/>frühe Wahltermin beibehalten ...</CONV><CONV tag="p">
 <lb xml:id="smallform_0175_001_r_2_tl_30"/>Die Wahlen sind ungeheuer wichtig, die Wahl¬
 <lb xml:id="smallform_0175_001_r_2_tl_31"/>pflicht wird sehr ernst genommen, — ein junges Mäd¬
@@ -78,7 +94,7 @@
 <lb xml:id="smallform_0175_001_r_2_tl_39"/>gekommen sind, dort den kargen Boden bebaut, ein
 <lb xml:id="smallform_0175_001_r_2_tl_40"/>Gutshaus errichtet, und in der Geschichte des Staates,
 <lb xml:id="smallform_0175_001_r_2_tl_41"/>während des Bürgerkrieges besonders, eine bedeutende<milestone unit="textregion" xml:id="smallform_0175_001_r_3"/>
-         <lb xml:id="smallform_0175_001_r_3_tl_1"/>Rolle gespielt haben: Männer des Fortschritts, der
+            <lb xml:id="smallform_0175_001_r_3_tl_1"/>Rolle gespielt haben: Männer des Fortschritts, der
 <lb xml:id="smallform_0175_001_r_3_tl_2"/>Aufklärung, des Liberalismus, Gegner des Sklaven¬
 <lb xml:id="smallform_0175_001_r_3_tl_3"/>handels, Freunde der Freiheit. — Das alte Haus,
 <lb xml:id="smallform_0175_001_r_3_tl_4"/>das wir nun für ein paar Tage bewohnen, ist voll
@@ -100,7 +116,7 @@
 <lb xml:id="smallform_0175_001_r_3_tl_20"/>forsten kann, sie hängt an diesem Land, aber sie sieht
 <lb xml:id="smallform_0175_001_r_3_tl_21"/>es mit anderen Augen, mit den Augen der zukunfts¬
 <lb xml:id="smallform_0175_001_r_3_tl_22"/>freudigen, opferwilligen Jugend, aus der sich Roose¬
-<lb xml:id="smallform_0175_001_r_3_tl_23"/>velts beste Anhangerschaft rekrutiert.</CONV><CONV tag="p">
+<lb xml:id="smallform_0175_001_r_3_tl_23"/>velts beste Anhängerschaft rekrutiert.</CONV><CONV tag="p">
 <lb xml:id="smallform_0175_001_r_3_tl_24"/>Tagelang fahren wir umher, und ich lerne das
 <lb xml:id="smallform_0175_001_r_3_tl_25"/>Land kennen: ein Land der Flüsse und großen Wäl¬
 <lb xml:id="smallform_0175_001_r_3_tl_26"/>der und tausend Seen. Auf den Flüssen wird das
@@ -121,7 +137,7 @@
 <lb xml:id="smallform_0175_001_r_3_tl_41"/>balken und schlanken, weißen Pfeilern vor den Ter¬
 <lb xml:id="smallform_0175_001_r_3_tl_42"/>rassen, auf denen altmodische Schaukelstühle stehen.
 <lb xml:id="smallform_0175_001_r_3_tl_43"/>Auf dem Dach befindet sich meistens ein kleiner, vier¬<milestone unit="textregion" xml:id="smallform_0175_001_r_4"/>
-         <lb xml:id="smallform_0175_001_r_4_tl_1"/>eckiger Balkon mit weißem Gitter, den man „Kapitäns
+            <lb xml:id="smallform_0175_001_r_4_tl_1"/>eckiger Balkon mit weißem Gitter, den man „Kapitäns
 <lb xml:id="smallform_0175_001_r_4_tl_2"/>Spaziergang" nennt. Skandinavisch ist auch die Land¬
 <lb xml:id="smallform_0175_001_r_4_tl_3"/>schaft: der helle Himmel über den melancholischen
 <lb xml:id="smallform_0175_001_r_4_tl_4"/>Seen, und die hellen Nächte über den dunklen, endlos
@@ -164,7 +180,7 @@
 <lb xml:id="smallform_0175_001_r_4_tl_42"/>der Papiermühle umher, zeigte mir die Maschine, die
 <lb xml:id="smallform_0175_001_r_4_tl_43"/>er bediente, und auf die er offensichtlich stolz war, und
 <lb xml:id="smallform_0175_001_r_4_tl_44"/>erklärte mir, daß der amerikanische Zeitungskönig<milestone unit="textregion" xml:id="smallform_0175_001_r_1"/>
-         <lb xml:id="smallform_0175_001_r_1_tl_1"/>Hearst das Papier für seine Blätter und Magazine
+            <lb xml:id="smallform_0175_001_r_1_tl_1"/>Hearst das Papier für seine Blätter und Magazine
 <lb xml:id="smallform_0175_001_r_1_tl_2"/>aus einer Konkurrenzfabrik beziehe, die ihrerseits Holz
 <lb xml:id="smallform_0175_001_r_1_tl_3"/>in Rußland statt in Maine kaufe. Dafür hing im
 <lb xml:id="smallform_0175_001_r_1_tl_4"/>Schaufenster des „republikanischen Hauptquartiers"
@@ -206,11 +222,11 @@
 <lb xml:id="smallform_0175_001_r_1_tl_40"/>nötig. — Ich bin gewiß lieber mein eigener Herr, —
 <lb xml:id="smallform_0175_001_r_1_tl_41"/>aber ich weiß, daß die alten Zeiten der Selbstherrlich¬
 <lb xml:id="smallform_0175_001_r_1_tl_42"/>keit vorbei sind. Heute müssen wir zusammenarbeiten,
-<lb xml:id="smallform_0175_001_r_1_tl_43"/>organisieren, — und wenn es sich nur darum handelt,<!--FML: this needs attention (was tagged as "fml" in Transkribus)--></CONV><!--IIIF Image or Presentation URL?--><pb xml:id="smallform_0175_002"
-             facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0175_002.tif/info.json"/>
-         <milestone unit="textregion" xml:id="smallform_0175_002_r"/><CONV tag="p">
+<lb xml:id="smallform_0175_001_r_1_tl_43"/>organisieren, — und wenn es sich nur darum handelt,<!--FML: this needs attention (was tagged as "fml" in Transkribus)--></CONV><pb xml:id="smallform_0175_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0175_002.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0175_002_r"/><CONV tag="p">
 <lb xml:id="smallform_0175_002_r_tl_1"/>
-         <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->eine elektrische Leitung hier herauf zu legen; die für
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->eine elektrische Leitung hier herauf zu legen; die für
 <lb xml:id="smallform_0175_002_r_tl_2"/>mich allein zu teuer ist, die ich mir aber leisten kann,
 <lb xml:id="smallform_0175_002_r_tl_3"/>wenn ich mich mit meinen Nachbarn zusammen tue."
 <lb xml:id="smallform_0175_002_r_tl_4"/>Ich sah in das trauliche Licht der Petroleumlampe
@@ -229,7 +245,8 @@
 <lb xml:id="smallform_0175_002_r_tl_17"/>haben ihn nicht mehr nötig und kehren zu ihren alten
 <lb xml:id="smallform_0175_002_r_tl_18"/>Bräuchen zurück. Und doch sollte man meinen, sie
 <lb xml:id="smallform_0175_002_r_tl_19"/>hätten ein bißchen Dankbarkeit und Einsicht aus der
-<lb xml:id="smallform_0175_002_r_tl_20"/>Krisenzeit lernen können!"</CONV> (Schluß.)<CONV tag="p">
-<lb xml:id="smallform_0175_002_r_tl_21"/>(Schluß.)</CONV></body>
+<lb xml:id="smallform_0175_002_r_tl_20"/>Krisenzeit lernen können!"</CONV><CONV tag="p">
+<lb xml:id="smallform_0175_002_r_tl_21"/>(Schluß.)</CONV></div>
+      </body>
    </text>
 </TEI>
