@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0010" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0010#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0010</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+ <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0010_facs.xml"/>    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587685-BCUL-PREVIEW-426363_0001.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_2"/>Berlin, Mardi 
+               <lb xml:id="p001_tr_1_tl_3"/>Mon vieux - ich danke Ihnen sehr 
+               <lb xml:id="p001_tr_1_tl_4"/>für Ihren lieben Brief, u. für das 
+               <lb xml:id="p001_tr_1_tl_5"/>kleine Tuch, ich trage es oft. Sie 
+               <lb xml:id="p001_tr_1_tl_6"/>wissen, nicht wahr, dass Ihre Befürch 
+               <lb xml:id="p001_tr_1_tl_7" break="no"/>tungen über meine Freundschaft 
+               <lb xml:id="p001_tr_1_tl_8"/>für sie grundlos waren – sie hingen 
+               <lb xml:id="p001_tr_1_tl_9"/>mit der Nervosität der Abreise 
+               <lb xml:id="p001_tr_1_tl_10"/>zusammen.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_11"/>Hier ist es sehr schwer, zu leben. Und 
+               <lb xml:id="p001_tr_1_tl_12"/>unmöglich, darüber zu schreiben. 
+               <lb xml:id="p001_tr_1_tl_13"/>Alles was man äussert, ist zu 
+               <lb xml:id="p001_tr_1_tl_14"/>leichtfertig gegenüber der ungeheuer 
+               <lb xml:id="p001_tr_1_tl_15"/>tragischen u. schwer zu begreifenden 
+               <lb xml:id="p001_tr_1_tl_16"/>Wirklichkeit. Das Privatleben 
+               <lb xml:id="p001_tr_1_tl_17"/>bleibt nicht verschont, j'en souffre 
+               <lb xml:id="p001_tr_1_tl_18"/>beaucoup - aber vielleicht lernt 
+               <lb xml:id="p001_tr_1_tl_19"/>man viel, wird "klüger", nach 
+               <lb xml:id="p001_tr_1_tl_20" break="no"/>denklicher, fatalistischer u. 
+               <lb xml:id="p001_l"/>skeptischer. <hi rendition="#u">Jede</hi> Oberflächlichkeit, 
+               <lb xml:id="p001_tr_1_tl_23"/>jede spontane Reaktion ohne 
+               <lb xml:id="p001_tr_1_tl_24"/>Rechenschaft rächt sich.
+               <pb xml:id="p002" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587685-BCUL-PREVIEW-426363_0002.jpg/info.json"/> 
+               <milestone unit="textregion" xml:id="p002_tr_1"/> 
+               <lb xml:id="p002_tr_1_tl_1"/>Verstehen Sie: diese spontanen 
+               <lb xml:id="p002_tr_1_tl_2"/>Gefühle sind im[m]er die gleichen: 
+               <lb xml:id="p002_tr_1_tl_3"/>Auflehnung - Und damit kom[m]t 
+               <lb xml:id="p002_tr_1_tl_4"/>man nicht weiter. La maison 
+               <lb xml:id="p002_tr_1_tl_5"/>brûle – inutile de se répéter 
+               <lb xml:id="p002_tr_1_tl_6"/>la même chose. Elle brûle, nous 
+               <lb xml:id="p002_tr_1_tl_7"/>en souffrons, toute l'humanité 
+               <lb xml:id="p002_tr_1_tl_8"/>en <del rend="overstrike">sof</del> souffrira.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_9"/>J'ai peu de courage. Comme je 
+               <lb xml:id="p002_tr_1_tl_10"/>n'ai pas le choix, je partirai. 
+               <lb xml:id="p002_tr_1_tl_11"/>Et ceux entre mes amis qui 
+               <lb xml:id="p002_tr_1_tl_12"/>doivent rester sous le nuage noir 
+               <lb xml:id="p002_tr_1_tl_13"/>je vais les <del rend="overstrike">pedre</del> perdre, d'une 
+               <lb xml:id="p002_tr_1_tl_14"/>façon ou d'une autre. Croyez-moi 
+               <lb xml:id="p002_tr_1_tl_15"/>quelquefois je voudrais rester 
+               <lb xml:id="p002_tr_1_tl_16"/><hi rendition="#u">prendre part</hi>, souffrir comme éux. 
+               <lb xml:id="p002_tr_1_tl_17"/>Je me sens trop seule. À Zurich, on 
+               <lb xml:id="p002_tr_1_tl_18"/>savait si bien comment réagir -  
+               <lb xml:id="p002_tr_1_tl_19"/>ici, le destin est trop près - </p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_20"/>Ecrivez-moi, cher Claude. 
+               <lb xml:id="p002_tr_1_tl_21"/>Je pense rester jusqu'au 1° mai</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_22"/>Affection 
+               <lb xml:id="p002_tr_1_tl_23"/>A.</p>
+
+            <pb xml:id="p003" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587685-BCUL-PREVIEW-426363_0003.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p003_r_4"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_l"/>Herrn Claude Bourdet 
+               <lb xml:id="p003_l_17"/>Bolleystrasse 34 
+               <lb xml:id="p003_l_24"/><hi rendition="#u">Zürich</hi> 
+               <lb xml:id="p003_l_31"/>Schweiz [Poststempel]</p>
+
+            <pb xml:id="p004" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587685-BCUL-PREVIEW-426363_0004.jpg/info.json"/></div>
+       </body>
+    </text>
+ </TEI>
