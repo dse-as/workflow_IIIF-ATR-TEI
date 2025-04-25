@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<validation-wrapper>
+   <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+      <Metadata>
+         <Creator>Transkribus</Creator>
+         <Created>2024-11-15T16:50:23.388+01:00</Created>
+         <LastChange>2025-01-27T15:46:39.250+01:00</LastChange>
+      </Metadata>
+      <Page imageFilename="letter_0009_002.jpg"
+            imageWidth="1824"
+            imageHeight="1244">
+         <ReadingOrder>
+            <OrderedGroup id="ro_1737989199250" caption="Regions reading order">
+               <RegionRefIndexed index="0" regionRef="r"/>
+               <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+         </ReadingOrder>
+         <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="123,95 936,111 940,1129 133,1129"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+               <Coords points="162,1087 184,155 154,155 132,1086"/>
+               <Baseline points="162,1087 184,155"/>
+               <TextEquiv>
+                  <Unicode>Lieber Claude! Bitte rufen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_40" custom="readingOrder {index:1;}">
+               <Coords points="238,1088 247,250 217,249 208,1088"/>
+               <Baseline points="238,1088 247,250"/>
+               <TextEquiv>
+                  <Unicode>Sie Son[n]tag abend oder</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_47" custom="readingOrder {index:2;}">
+               <Coords points="315,1104 329,134 299,134 285,1104"/>
+               <Baseline points="315,1104 329,134"/>
+               <TextEquiv>
+                  <Unicode>Montag morgen an, Telefon</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_54" custom="readingOrder {index:3;}">
+               <Coords points="382,1110 406,140 376,140 352,1110"/>
+               <Baseline points="382,1110 406,140"/>
+               <TextEquiv>
+                  <Unicode>924-169 - Montag bis Don[n]ers-</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_61"
+                      custom="readingOrder {index:4;} textStyle {offset:24; length:5;underlined:true;}">
+               <Coords points="451,1106 485,142 455,141 421,1105"/>
+               <Baseline points="451,1106 485,142"/>
+               <TextEquiv>
+                  <Unicode>tag gehe ich vielleicht noch </Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_68"
+                      custom="readingOrder {index:5;} textStyle {offset:0; length:6;underlined:true;}">
+               <Coords points="513,1110 556,132 526,131 483,1109"/>
+               <Baseline points="513,1110 556,132"/>
+               <TextEquiv>
+                  <Unicode>einmal Skielaufen, aber es</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_75" custom="readingOrder {index:6;}">
+               <Coords points="584,1100 625,125 595,124 554,1099"/>
+               <Baseline points="584,1100 625,125"/>
+               <TextEquiv>
+                  <Unicode>ist nicht sicher. Und ganz </Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_88" custom="readingOrder {index:7;}">
+               <Coords points="647,1100 688,201 658,199 617,1098"/>
+               <Baseline points="647,1100 688,201"/>
+               <TextEquiv>
+                  <Unicode>sicher bin ich mindestens </Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_95" custom="readingOrder {index:8;}">
+               <Coords points="714,1108 744,234 714,233 684,1107"/>
+               <Baseline points="714,1108 744,234"/>
+               <TextEquiv>
+                  <Unicode>eine Woche in Zürich.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_102" custom="readingOrder {index:9;}">
+               <Coords points="771,1083 795,212 765,211 741,1082"/>
+               <Baseline points="771,1083 795,212"/>
+               <TextEquiv>
+                  <Unicode>Danke, Ihr Brief war</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_109" custom="readingOrder {index:10;}">
+               <Coords points="829,1075 855,325 825,324 799,1074"/>
+               <Baseline points="829,1075 855,325"/>
+               <TextEquiv>
+                  <Unicode>sehr hübsch - Stets</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_116" custom="readingOrder {index:11;}">
+               <Coords points="892,1089 947,146 917,144 862,1087"/>
+               <Baseline points="892,1089 947,146"/>
+               <TextEquiv>
+                  <Unicode>amicalement Ihre An[n]emarie</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="932,123 932,1102 1694,1102 1694,123"/>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:0;}">
+               <Coords points="974,646 1010,641 1046,638 1082,638 1118,638 1154,638 1190,638 1226,641 1262,642 1298,640 1334,640 1370,641 1406,645 1442,645 1478,646 1514,648 1550,650 1586,650 1622,650 1658,648 1694,648 1694,581 1658,581 1622,583 1586,583 1550,583 1514,581 1478,579 1442,578 1406,578 1370,574 1334,573 1298,573 1262,575 1226,574 1190,571 1154,571 1118,571 1082,571 1046,571 1010,574 974,579"/>
+               <Baseline points="974,624 1010,619 1046,616 1082,616 1118,616 1154,616 1190,616 1226,619 1262,620 1298,618 1334,618 1370,619 1406,623 1442,623 1478,624 1514,626 1550,628 1586,628 1622,628 1658,626 1694,626"/>
+               <TextEquiv>
+                  <Unicode>Monsieur Claude Bourdet</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:1;}">
+               <Coords points="1040,770 1066,765 1092,761 1119,759 1145,757 1171,756 1198,757 1224,759 1250,762 1277,762 1303,764 1329,764 1356,765 1382,765 1408,764 1435,764 1461,766 1488,770 1488,703 1461,699 1435,697 1408,697 1382,698 1356,698 1329,697 1303,697 1277,695 1250,695 1224,692 1198,690 1171,689 1145,690 1119,692 1092,694 1066,698 1040,703"/>
+               <Baseline points="1040,748 1066,743 1092,739 1119,737 1145,735 1171,734 1198,735 1224,737 1250,740 1277,740 1303,742 1329,742 1356,743 1382,743 1408,742 1435,742 1461,744 1488,748"/>
+               <TextEquiv>
+                  <Unicode>Bolleystr. 36</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:2;}">
+               <Coords points="1224,942 1249,937 1274,933 1299,933 1324,934 1350,934 1375,934 1400,934 1425,935 1450,938 1476,941 1501,942 1526,942 1551,944 1576,944 1602,944 1602,877 1576,877 1551,877 1526,875 1501,875 1476,874 1450,871 1425,868 1400,867 1375,867 1350,867 1324,867 1299,866 1274,866 1249,870 1224,875"/>
+               <Baseline points="1224,920 1249,915 1274,911 1299,911 1324,912 1350,912 1375,912 1400,912 1425,913 1450,916 1476,919 1501,920 1526,920 1551,922 1576,922 1602,922"/>
+               <TextEquiv>
+                  <Unicode>Zürich</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:3;}">
+               <Coords points="1348,1054 1373,1049 1398,1047 1423,1046 1449,1046 1474,1046 1499,1046 1524,1047 1550,1048 1575,1049 1600,1050 1626,1052 1626,1015 1600,1013 1575,1012 1550,1011 1524,1010 1499,1009 1474,1009 1449,1009 1423,1009 1398,1010 1373,1012 1348,1017"/>
+               <Baseline points="1348,1042 1373,1037 1398,1035 1423,1034 1449,1034 1474,1034 1499,1034 1524,1035 1550,1036 1575,1037 1600,1038 1626,1040"/>
+               <TextEquiv>
+                  <Unicode>Schweiz [Poststempel]</Unicode>
+               </TextEquiv>
+            </TextLine>
+         </TextRegion>
+      </Page>
+   </PcGts>
+   <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+      <Metadata>
+         <Creator>Transkribus</Creator>
+         <Created>2024-11-15T16:50:23.206+01:00</Created>
+         <LastChange>2024-11-15T16:50:23.206+01:00</LastChange>
+      </Metadata>
+      <Page imageFilename="letter_0009_001.jpg"
+            imageHeight="1244"
+            imageWidth="1824"/>
+   </PcGts>
+</validation-wrapper>
