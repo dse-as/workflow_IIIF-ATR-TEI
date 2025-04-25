@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0008" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0008#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0008</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+ <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0008_facs.xml"/>    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587683-BCUL-PREVIEW-426361_0001.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_2_tl_1"/>Zürs am Arlberg 
+               <lb xml:id="p001_tr_2_tl_2"/>Hotel Zürser Hof 
+               <lb xml:id="p001_tr_2_tl_3"/>19. II. 33 
+               <lb xml:id="p001_tr_2_tl_4"/>Mon cher Claude -  
+               <lb xml:id="p001_tr_2_tl_5"/>Vous n'attendez probablement plus de 
+               <lb xml:id="p001_tr_2_tl_6"/>mes nouvelles – après un si long silence 
+               <lb xml:id="p001_tr_2_tl_7"/>qui vous doit avoir semblé assez 
+               <lb xml:id="p001_tr_2_tl_8"/>incomprehensible et sans raison. 
+               <lb xml:id="p001_tr_2_tl_9"/>Tout de même – ce n'était pas de méchan 
+               <lb xml:id="p001_tr_2_tl_10" break="no"/>ceté de ma part, ni un désintéressement. 
+               <lb xml:id="p001_tr_2_tl_11"/>J'étais "abwesend" avec toutes mes 
+               <lb xml:id="p001_tr_2_tl_12"/>pensées, préoccupée, troublée et même 
+               <lb xml:id="p001_tr_2_tl_13"/>découragée. Après une grippe avec assez 
+               <lb xml:id="p001_tr_2_tl_14"/>de fièvre je suis partie avec mon amie 
+               <lb xml:id="p001_tr_2_tl_15"/>Maria Daelen (docteur en médecine et femme 
+               <lb xml:id="p001_tr_2_tl_16"/>absolument charmante) pour le Arlberg. 
+               <lb xml:id="p001_tr_2_tl_17"/>Je faits beaucoup de progrès en Skie -  
+               <lb xml:id="p001_tr_2_tl_18"/>chose très serieuse ici – et j'écrits 
+               <lb xml:id="p001_tr_2_tl_19"/>un roman. Voilà mes occupations.</p>
+
+            <pb xml:id="p002" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587683-BCUL-PREVIEW-426361_0002.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>C'est très possible que je 
+               <lb xml:id="p002_tr_1_tl_2"/>viendrai, en Mars, pour 
+               <lb xml:id="p002_tr_1_tl_3"/>8 jours à Zurich. Je voudrais 
+               <lb xml:id="p002_tr_1_tl_4"/>savoir si vous i êtes. Ecrivez 
+               <lb xml:id="p002_tr_1_tl_5"/>moi donc. 
+               <lb xml:id="p002_tr_1_tl_6"/>En avril où en mai je pense 
+               <lb xml:id="p002_tr_1_tl_7"/>partir avec une jeune amie. 
+               <lb xml:id="p002_tr_1_tl_8"/>excellente photographe pour 
+               <lb xml:id="p002_tr_1_tl_9"/>le pays des basques - Pyrenées etc - 
+               <lb xml:id="p002_tr_1_tl_10"/>En auto - gagnant l'argent <del rend="overstrike">qui</del> 
+               <lb xml:id="p002_tr_1_tl_11"/>qu'il nous faudra par des articles 
+               <lb xml:id="p002_tr_1_tl_12"/>et des photos.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_13"/>Haben Sie eventuell Lust u. Möglich- 
+               <lb xml:id="p002_tr_1_tl_14"/>keit diese, oder eine spätere Fahrt 
+               <lb xml:id="p002_tr_1_tl_15"/>(Herbst) zur Donaumündung 
+               <lb xml:id="p002_tr_1_tl_16"/>mit zumachen?</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_17"/>Amitiés sincères, chéry Claude 
+               <lb xml:id="p002_tr_1_tl_20"/>An[n]emarie 
+               <lb xml:id="p002_tr_1_tl_18"/>P.S. Grüssen Sie sehr 
+               <lb xml:id="p002_tr_1_tl_19"/>herzlich Valerie K.</p>
+
+            <pb xml:id="p003" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587683-BCUL-PREVIEW-426361_0003.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_1"/>Monsieur Claude Bourdet 
+               <lb xml:id="p003_tr_1_tl_2"/>36 Bolleystrasse 
+               <lb xml:id="p003_tr_1_tl_3"/><hi rendition="#u">Zürich</hi> 
+               <lb xml:id="p003_tr_1_tl_4"/>Schweiz [halber Poststempel]</p>
+
+            <pb xml:id="p004" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587683-BCUL-PREVIEW-426361_0004.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p004_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_l"/>HOTEL ZÜRSERHOF 
+               <lb xml:id="p004_l_13"/>ZÜRS BEI LANGEN AM ARLBERGE 
+               <lb xml:id="p004_l_20"/>AUSTRIA</p>
+</div>
+       </body>
+    </text>
+ </TEI>
