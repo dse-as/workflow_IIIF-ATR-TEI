@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xml:id="smallform_0084"
      type="dseas-smallform">
@@ -18,12 +18,27 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <p/>
+            <bibl corresp="smallform_0084">
+               <persName/>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
          <textClass>
             <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
                <list>
                   <item/>
                </list>
@@ -33,11 +48,12 @@
    </teiHeader>
    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0084_facs.xml"/>
    <text>
-      <body><!--IIIF Image or Presentation URL?-->
-         <pb xml:id="smallform_0084_001"
-             facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0084_001.tif/info.json"/>
-         <milestone unit="textregion" xml:id="smallform_0084_001_r_3"/>
-         <lb xml:id="smallform_0084_001_r_3_tl_1"/>Nachtflug über die Wüste.
+      <body>
+         <div type="smallform">
+            <pb xml:id="smallform_0084_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0084_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0084_001_r_3"/>
+            <lb xml:id="smallform_0084_001_r_3_tl_1"/>Nachtflug über die Wüste.
 <lb xml:id="smallform_0084_001_r_3_tl_2"/>Von [Annemarie Schwarzenbach[gesperrt].<CONV tag="p">
 <lb xml:id="smallform_0084_001_r_3_tl_3"/>Man weckte mich in meinem Hotel in [Damas¬
 <lb xml:id="smallform_0084_001_r_3_tl_4"/>kus[gesperrt] um halb drei Uhr. Es war eine helle Nacht, und
@@ -78,7 +94,7 @@
 <lb xml:id="smallform_0084_001_r_3_tl_39"/>der phantasievollen Sprache der Araber erhalten
 <lb xml:id="smallform_0084_001_l"/>hat.</CONV><CONV tag="p">
 <lb xml:id="smallform_0084_001_r_3_tl_40"/>Aber bald wurde die Nacht wieder dunkel und der<milestone unit="textregion" xml:id="smallform_0084_001_r_4"/>
-         <lb xml:id="smallform_0084_001_r_4_tl_1"/>Glanz erlosch. Es waren nur noch die Hügel, die sich
+            <lb xml:id="smallform_0084_001_r_4_tl_1"/>Glanz erlosch. Es waren nur noch die Hügel, die sich
 <lb xml:id="smallform_0084_001_r_4_tl_2"/>wie der Faltenwurf eines Kleides nach allen Seiten
 <lb xml:id="smallform_0084_001_r_4_tl_3"/>hin verliefen. Manchmal erkannte man ein Dorf:
 <lb xml:id="smallform_0084_001_r_4_tl_4"/>einen festen Platz, umwehrt von den geschlossenen,
@@ -120,7 +136,7 @@
 <lb xml:id="smallform_0084_001_r_4_tl_40"/>winzige Erhebung gebildet hatte und Ringe sich wie
 <lb xml:id="smallform_0084_001_r_4_tl_41"/>die Niveaulinien einer Landkarte im Sand abzeich¬
 <lb xml:id="smallform_0084_001_r_4_tl_42"/>neten. Da und dort ein Wadi, ein ausgetrocknetes<milestone unit="textregion" xml:id="smallform_0084_001_r"/>
-         <lb xml:id="smallform_0084_001_r_tl_1"/>Bachbett, und manchmal auch Wasser, in tiefen läng¬
+            <lb xml:id="smallform_0084_001_r_tl_1"/>Bachbett, und manchmal auch Wasser, in tiefen läng¬
 <lb xml:id="smallform_0084_001_r_tl_2"/>lichen Brunnen schwarze Spiegel.</CONV><CONV tag="p">
 <lb xml:id="smallform_0084_001_r_tl_4"/>Als es schon völlig Tag geworden war, sahen wir
 <lb xml:id="smallform_0084_001_r_tl_3"/>die „Wüstenstraße“ — die Route der Karawanen, und
@@ -162,7 +178,7 @@
 <lb xml:id="smallform_0084_001_r_tl_40"/>Plötzlich strich der Schatten unseres Flugzeuges
 <lb xml:id="smallform_0084_001_r_tl_41"/>wie der eines riesigen Vogels darüber hinweg.</CONV><CONV tag="p">
 <lb xml:id="smallform_0084_001_r_tl_42"/>Statt der raschen Gazellen waren es nun Schaf¬<milestone unit="textregion" xml:id="smallform_0084_001_r_2"/>
-         <lb xml:id="smallform_0084_001_r_2_tl_1"/>herden, die auf den ersten, noch kargen Grasflächen
+            <lb xml:id="smallform_0084_001_r_2_tl_1"/>herden, die auf den ersten, noch kargen Grasflächen
 <lb xml:id="smallform_0084_001_r_2_tl_2"/>weideten. Wir sahen Grün, angelegte Gärten, einen
 <lb xml:id="smallform_0084_001_r_2_tl_4"/>großen Palmenhain am segenspendenden Ufer. Eine
 <lb xml:id="smallform_0084_001_r_2_tl_3"/>Brücke, eine kleine arabische Stadt, Rauch über den
@@ -178,6 +194,7 @@
 <lb xml:id="smallform_0084_001_r_2_tl_14"/>meer [Bagdads[gesperrt] kreiste um uns, war ganz nahe, fast
 <lb xml:id="smallform_0084_001_r_2_tl_15"/>über uns, entfernte sich wieder, die Ordnung stellte sich
 <lb xml:id="smallform_0084_001_r_2_tl_16"/>her, und wir rollten schon über das Flugfeld und lan¬
-<lb xml:id="smallform_0084_001_r_2_tl_17"/>deten.</CONV></body>
+<lb xml:id="smallform_0084_001_r_2_tl_17"/>deten.</CONV></div>
+      </body>
    </text>
 </TEI>
