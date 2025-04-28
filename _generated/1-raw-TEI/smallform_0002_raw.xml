@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xml:id="smallform_0002"
      type="dseas-smallform">
@@ -18,12 +18,27 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <p/>
+            <bibl corresp="smallform_0002">
+               <persName/>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
          <textClass>
             <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
                <list>
                   <item/>
                </list>
@@ -33,11 +48,12 @@
    </teiHeader>
    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0002_facs.xml"/>
    <text>
-      <body><!--IIIF Image or Presentation URL?-->
-         <pb xml:id="smallform_0002_001"
-             facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0002_001.tif/info.json"/>
-         <milestone unit="textregion" xml:id="smallform_0002_001_tr_1"/>
-         <lb xml:id="smallform_0002_001_tr_1_tl_4"/>Zur Mädchenfrage.<CONV tag="p">
+      <body>
+         <div type="smallform">
+            <pb xml:id="smallform_0002_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0002_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0002_001_tr_1"/>
+            <lb xml:id="smallform_0002_001_tr_1_tl_4"/>Zur Mädchenfrage.<CONV tag="p">
 <lb xml:id="smallform_0002_001_tr_1_tl_5"/>Die Mädchen sollen aus dem Bunde ausscheiden.</CONV> <CONV tag="p">
 <lb xml:id="smallform_0002_001_tr_1_tl_6"/>Nicht um sich selbständig zu machen, sondern weil sie, so wie sie heute da¬
 <lb xml:id="smallform_0002_001_tr_1_tl_7"/>stehen, nicht in den Wandervogel gehören.</CONV><CONV tag="p">
@@ -81,11 +97,11 @@
 <lb xml:id="smallform_0002_001_tr_1_tl_47"/>Der <CONV tag="g">Schwung</CONV> fehlt uns, den Führern wie allen anderen. Die Wenigen,
 <lb xml:id="smallform_0002_001_tr_1_tl_48"/>die wir noch hatten, treten aus und finden, wir würden den Weg dann so gut
 <lb xml:id="smallform_0002_001_tr_1_tl_49"/>finden, wie sie ihn fanden. Wer sucht ihn aber bei uns? Ohne es zu merken,
-<lb xml:id="smallform_0002_001_tr_1_tl_50"/>stecken wir in einer spießbürgerlichen Zufriedenheit, wir begnügen uns, suchen<!--FML: this needs attention (was tagged as "fml" in Transkribus)--></CONV><!--IIIF Image or Presentation URL?--><pb xml:id="smallform_0002_002"
-             facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0002_002.tif/info.json"/>
-         <milestone unit="textregion" xml:id="smallform_0002_002_tr_1"/><CONV tag="p">
+<lb xml:id="smallform_0002_001_tr_1_tl_50"/>stecken wir in einer spießbürgerlichen Zufriedenheit, wir begnügen uns, suchen<!--FML: this needs attention (was tagged as "fml" in Transkribus)--></CONV><pb xml:id="smallform_0002_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0002_002.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0002_002_tr_1"/><CONV tag="p">
 <lb xml:id="smallform_0002_002_tr_1_tl_1"/>
-         <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->möglichst viel Ruhe, möglichst viel Sicherheit und möglichst wenig Feuer, weil
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->möglichst viel Ruhe, möglichst viel Sicherheit und möglichst wenig Feuer, weil
 <lb xml:id="smallform_0002_002_tr_1_tl_2"/>wir uns daran die Finger verbrennen könnten. Weil wir aber die Nase nicht
 <lb xml:id="smallform_0002_002_tr_1_tl_3"/>über unsere Wandervogelart hinausstrecken, merken wir nicht, wie einseitig, wie
 <lb xml:id="smallform_0002_002_tr_1_tl_4"/>arm bald die Art unseres Lebens und die Art unserer Mädchen wird.</CONV><CONV tag="p">
@@ -132,7 +148,7 @@
 <lb xml:id="smallform_0002_002_tr_1_tl_45"/>den meisten ist es unmöglich, sich ganz einem Menschen zu geben, sich mit allem,
 <lb xml:id="smallform_0002_002_tr_1_tl_46"/>was ihr Leben ausmacht, diesem Menschen zu unterziehen, auch wenn dieser noch
 <lb xml:id="smallform_0002_002_tr_1_tl_47"/>so stark und bedeutend ist. Viele Mädchen müssen noch etwas für sich allein haben,<milestone unit="textregion" xml:id="smallform_0002_002_r"/>
-         <lb xml:id="smallform_0002_002_l"/>einen Teil ihres Wesens, wohin sie sich jederzeit zurückziehen können, mit
+            <lb xml:id="smallform_0002_002_l"/>einen Teil ihres Wesens, wohin sie sich jederzeit zurückziehen können, mit
 <lb xml:id="smallform_0002_002_l_1"/>sich allein sein und eine Weile um sich selbst hören.</CONV><CONV tag="p">
 <lb xml:id="smallform_0002_002_l_2"/>Annemarie hat recht, wenn sie sagt, eine richtige Freundschaft sei selten und
 <lb xml:id="smallform_0002_002_l_3"/>nur möglich bei ganz hochstehenden Menschen. Und Menschen, die alle andern
@@ -154,6 +170,7 @@
 <lb xml:id="smallform_0002_002_l_19"/>aber wirklich aushalten will, wird unsere Macht fühlen und dann kann er auch
 <lb xml:id="smallform_0002_002_l_20"/>das Glück empfinden, welches das ganze Feststehen im Mädchenbund uns bieten
 <lb xml:id="smallform_0002_002_l_21"/>kann.</CONV><CONV tag="p">
-<lb xml:id="smallform_0002_002_l_22"/>Vren Högger.</CONV></body>
+<lb xml:id="smallform_0002_002_l_22"/>Vren Högger.</CONV></div>
+      </body>
    </text>
 </TEI>
