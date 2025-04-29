@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xml:id="smallform_0395"
      type="dseas-smallform">
@@ -18,12 +18,32 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <p/>
+            <bibl corresp="smallform_0395">
+               <persName/>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
          <textClass>
             <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
                <list>
                   <item/>
                </list>
@@ -31,13 +51,17 @@
          </textClass>
       </profileDesc>
    </teiHeader>
-   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0395_facs.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0395_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
    <text>
-      <body><!--IIIF Image or Presentation URL?-->
-         <pb xml:id="smallform_0395_001"
-             facs="https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211940_016%21zui-001_1940_016_0289.jpg/info.json"/>
-         <milestone unit="textregion" xml:id="smallform_0395_001_r"/>
-         <lb xml:id="smallform_0395_001_l_1061"/>Vorderasiatische Auto-Anekdoten
+      <body>
+         <div type="smallform">
+            <pb xml:id="smallform_0395_001"
+                facs="https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211940_016%21zui-001_1940_016_0289.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0395_001_r"/>
+            <lb xml:id="smallform_0395_001_l_1061"/>Vorderasiatische Auto-Anekdoten
 <lb xml:id="smallform_0395_001_r_tl_6"/>Im «Ford» von Zürich über Istanbul-Kabul nach
 <lb xml:id="smallform_0395_001_r_tl_8"/>Bombay in Indien
 <lb xml:id="smallform_0395_001_r_tl_7"/>Photos Annemarie Clark und Ella Maillart<milestone unit="textregion" xml:id="smallform_0395_001_r_3"/><CONV tag="p">
@@ -66,7 +90,7 @@
 <lb xml:id="smallform_0395_001_r_3_tl_23"/>aus, der mir erlaubte, über den Khyberpaß, Peshawar, Lahore, Delhi und
 <lb xml:id="smallform_0395_001_r_3_tl_24"/>Indore nach Bombay zu fahren.</CONV><CONV tag="p">
 <lb xml:id="smallform_0395_001_r_3_tl_25"/>Annemarie Clark.</CONV><milestone unit="textregion" xml:id="smallform_0395_001_r_5"/>
-         <lb xml:id="smallform_0395_001_r_5_tl_1"/><PAGE tag="italic">De Zurich à Bombay (Indes)</PAGE>
+            <lb xml:id="smallform_0395_001_r_5_tl_1"/><PAGE tag="italic">De Zurich à Bombay (Indes)</PAGE>
 <lb xml:id="smallform_0395_001_r_5_tl_2"/><PAGE tag="italic">via Constantinople-Kaboul sur une «Ford»</PAGE><CONV tag="p">
 <lb xml:id="smallform_0395_001_r_5_tl_3"/><PAGE tag="italic">Le 6 juin 1939, nous achetions, Mlle Ella Maillart et moi, un pain noir de</PAGE>
 <lb xml:id="smallform_0395_001_r_5_tl_4"/><PAGE tag="italic">campagne à Simplon-Village. Nous en avons mangé le dernier morceau juste</PAGE>
@@ -185,6 +209,7 @@
 <lb xml:id="smallform_0395_001_r_83_tl_6"/><PAGE tag="italic">L'hospitalité des Afghans. Le syndic du village</PAGE>
 <lb xml:id="smallform_0395_001_r_83_tl_7"/><PAGE tag="italic">de Karokh nous permet d'emporter une corbeille</PAGE>
 <lb xml:id="smallform_0395_001_r_83_tl_8"/><PAGE tag="italic">de raisins qui viennent d'être cueillis. Il nous</PAGE>
-<lb xml:id="smallform_0395_001_r_83_tl_9"/><PAGE tag="italic">laisse même comme escorte un de ses policiers.</PAGE></CONV></body>
+<lb xml:id="smallform_0395_001_r_83_tl_9"/><PAGE tag="italic">laisse même comme escorte un de ses policiers.</PAGE></CONV></div>
+      </body>
    </text>
 </TEI>
