@@ -58,11 +58,14 @@
         *:persName |
         *:placeName |
         *:date |
+        *:biblScope |
         *:keywords |
         *:langUsage |
         *:language |
         *:list |
+        *:listBibl |
         *:item |
+        *:bibl |
         *:text | 
         *:body | 
         *:div | 
@@ -109,6 +112,7 @@
         *:langUsage |
         *:list |
         *:listBibl |
+        *:bibl[parent::*:sourceDesc or parent::*:bibl] |
         *:text | 
         *:body | 
         *:figure"
