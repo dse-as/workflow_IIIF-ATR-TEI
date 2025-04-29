@@ -108,6 +108,7 @@
         *:keywords |
         *:langUsage |
         *:list |
+        *:listBibl |
         *:text | 
         *:body | 
         *:figure"

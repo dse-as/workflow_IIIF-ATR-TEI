@@ -155,6 +155,11 @@
               <p/>
             </xsl:otherwise>
           </xsl:choose>
+          <listBibl type="related">
+            <listBibl type="online">
+              <bibl/>
+            </listBibl>
+          </listBibl>
         </sourceDesc>
       </fileDesc>
       <profileDesc>
