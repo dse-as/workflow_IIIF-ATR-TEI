@@ -198,6 +198,8 @@
     </xsl:result-document>
     <xsl:element name="xi:include" namespace="http://www.w3.org/2001/XInclude">
       <xsl:attribute name="href" select="$fileName||'_facs.xml'"/>
+      <xsl:element name="xi:fallback" namespace="http://www.w3.org/2001/XInclude"/>
+      <xsl:comment>Inclusion path will be adjusted later.</xsl:comment>
     </xsl:element>
   </xsl:template>
   
