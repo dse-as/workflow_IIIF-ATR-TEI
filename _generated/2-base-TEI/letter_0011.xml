@@ -52,7 +52,7 @@
           </textClass>
        </profileDesc>
     </teiHeader>
- <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0011_facs.xml"/>    <text> 
+ <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0011_facs.xml"> <xi:fallback/> <!--Inclusion path will be adjusted later.--> </xi:include>    <text> 
       <body> 
          <div type="letter">
             <pb xml:id="p001" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587686-BCUL-PREVIEW-426364_0001.jpg/info.json"/>

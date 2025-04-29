@@ -56,7 +56,10 @@
          </textClass>
       </profileDesc>
    </teiHeader>
-   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0011_facs.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0011_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
    <text>
       <body>
          <div type="letter">
