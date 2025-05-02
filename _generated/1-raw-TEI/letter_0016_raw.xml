@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0016"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0016</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0016_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0016_001"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587690-BCUL-PREVIEW-426368_0001.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0016_001_tr_1"/>
+            <lb xml:id="letter_0016_001_tr_1_tl_3"/>Paris Hotel Jacob
+<lb xml:id="letter_0016_001_tr_1_tl_4"/>15 Juin
+<lb xml:id="letter_0016_001_tr_1_tl_5"/>Mon cher ami Claude -
+<lb xml:id="letter_0016_001_tr_1_tl_6"/>ich glaube: heute ist es. Heute
+<lb xml:id="letter_0016_001_tr_1_tl_7"/>Deine Examen vorbei. Je
+<lb xml:id="letter_0016_001_tr_1_tl_8"/>t'embrasse car je sais que
+<lb xml:id="letter_0016_001_tr_1_tl_9"/>tout s'est bien passé.
+<lb xml:id="letter_0016_001_tr_1_tl_10"/>J'ai vu ta mère hier, j'ai été
+<lb xml:id="letter_0016_001_tr_1_tl_11"/>très touchée par sa personnalité.
+<lb xml:id="letter_0016_001_tr_1_tl_12"/>Elle me disait que tu m'attends
+<lb xml:id="letter_0016_001_tr_1_tl_13"/>à Zürich - Com[m]e Claus est parti
+<lb xml:id="letter_0016_001_tr_1_tl_14"/>pour Amsterdam à cause de la
+<lb xml:id="letter_0016_001_tr_1_tl_15"/>"Sammlung", <PAGE tag="underlined">moi je dois rester</PAGE>
+<lb xml:id="letter_0016_001_tr_1_tl_16"/><PAGE tag="underlined">ici jusqu'au 25 Juin</PAGE>, force majeure.
+<lb xml:id="letter_0016_001_tr_1_tl_17"/>Faits donc comme tu préfère – viens
+<lb xml:id="letter_0016_001_tr_1_tl_18"/>tout de suite à Paris (Erika sera
+<lb xml:id="letter_0016_001_tr_1_tl_19"/>encore là une semaine) – oubien, je
+<lb xml:id="letter_0016_001_tr_1_tl_20"/>te verrai à Zurich - 
+<lb xml:id="letter_0016_001_tr_1_tl_21"/>Adieu, cher Claude - 
+<lb xml:id="letter_0016_001_l"/>A<pb xml:id="letter_0016_002"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587690-BCUL-PREVIEW-426368_0002.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0016_002_tr_1"/>
+            <lb xml:id="letter_0016_002_tr_1_tl_1"/>Monsieur Claude Bourdet
+<lb xml:id="letter_0016_002_tr_1_tl_2"/>34 Bolleystrasse
+<lb xml:id="letter_0016_002_tr_1_tl_3"/>Zurich
+<lb xml:id="letter_0016_002_tr_1_tl_4"/>Suisse
+<lb xml:id="letter_0016_002_l"/><PAGE tag="underlined">hôtel jacob</PAGE>
+<lb xml:id="letter_0016_002_l_21"/><PAGE tag="underlined">et d'angleterre</PAGE>
+<lb xml:id="letter_0016_002_l_28"/>44, rue jacob. paris-6'
+<lb xml:id="letter_0016_002_l_42"/>littré
+<lb xml:id="letter_0016_002_l_35"/>tel
+<lb xml:id="letter_0016_002_l_49"/>87-92</div>
+      </body>
+   </text>
+</TEI>
