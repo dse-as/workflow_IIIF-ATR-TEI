@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xml:id="letter_0004"
      type="dseas-letter">
@@ -18,12 +18,42 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <p/>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
          <textClass>
             <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
                <list>
                   <item/>
                </list>
@@ -31,13 +61,17 @@
          </textClass>
       </profileDesc>
    </teiHeader>
-   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0004_facs.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0004_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
    <text>
-      <body><!--IIIF Image or Presentation URL?-->
-         <pb xml:id="letter_0004_001"
-             facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587679-BCUL-PREVIEW-426357_0001.jpg/info.json"/>
-         <milestone unit="textregion" xml:id="letter_0004_001_tr_1"/>
-         <lb xml:id="letter_0004_001_tr_1_tl_2"/>BREVKORT
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0004_001"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587679-BCUL-PREVIEW-426357_0001.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0004_001_tr_1"/>
+            <lb xml:id="letter_0004_001_tr_1_tl_2"/>BREVKORT
 <lb xml:id="letter_0004_001_tr_1_tl_3"/>Saltsjö-Duvnäs bei Stockholm.
 <lb xml:id="letter_0004_001_tr_1_tl_4"/>Cher Claude!
 <lb xml:id="letter_0004_001_tr_1_tl_5"/>Wann ko[m]men Sie nach Berlin? Ich
@@ -47,10 +81,10 @@
 <lb xml:id="letter_0004_001_tr_1_tl_9"/>Ich werde ungefähr 16. bis 22. August in
 <lb xml:id="letter_0004_001_tr_1_tl_10"/>Berlin sein, Telefon <PAGE tag="underlined">Westend 65-50</PAGE>.
 <lb xml:id="letter_0004_001_tr_1_tl_11"/>Dan[n] fahre ich mit meinem Auto
-<lb xml:id="letter_0004_001_tr_1_tl_12"/>wahrscheinlich nach München,<!--IIIF Image or Presentation URL?--><pb xml:id="letter_0004_002"
-             facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587679-BCUL-PREVIEW-426357_0002.jpg/info.json"/>
-         <milestone unit="textregion" xml:id="letter_0004_002_tr_3"/>
-         <lb xml:id="letter_0004_002_tr_3_tl_1"/>von München vielleicht für 2 Tage
+<lb xml:id="letter_0004_001_tr_1_tl_12"/>wahrscheinlich nach München,<pb xml:id="letter_0004_002"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587679-BCUL-PREVIEW-426357_0002.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0004_002_tr_3"/>
+            <lb xml:id="letter_0004_002_tr_3_tl_1"/>von München vielleicht für 2 Tage
 <lb xml:id="letter_0004_002_tr_3_tl_2"/>nach Salzburg, dan[n] in die
 <lb xml:id="letter_0004_002_tr_3_tl_3"/>Schweiz. Schreiben Sie mir ob
 <lb xml:id="letter_0004_002_tr_3_tl_4"/>wir uns in Berlin sehen, u.
@@ -60,18 +94,19 @@
 <lb xml:id="letter_0004_002_tr_3_tl_8"/>München - Salzburg sehr hübsch
 <lb xml:id="letter_0004_002_tr_3_tl_9"/>finden.
 <lb xml:id="letter_0004_002_tr_3_tl_10"/>Ihre
-<lb xml:id="letter_0004_002_tr_3_tl_11"/>Annemarie Schw.<!--IIIF Image or Presentation URL?--><pb xml:id="letter_0004_003"
-             facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587679-BCUL-PREVIEW-426357_0003.jpg/info.json"/>
-         <milestone unit="textregion" xml:id="letter_0004_003_tr_1"/>
-         <lb xml:id="letter_0004_003_tr_1_tl_3"/>Schweiz
+<lb xml:id="letter_0004_002_tr_3_tl_11"/>Annemarie Schw.<pb xml:id="letter_0004_003"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587679-BCUL-PREVIEW-426357_0003.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0004_003_tr_1"/>
+            <lb xml:id="letter_0004_003_tr_1_tl_3"/>Schweiz
 <lb xml:id="letter_0004_003_tr_1_tl_5"/><PAGE tag="strikethrough">Tyskland</PAGE>
 <lb xml:id="letter_0004_003_tr_1_tl_6"/>Herrn Claude Bourdet
 <lb xml:id="letter_0004_003_tr_1_tl_7"/><PAGE tag="strikethrough">34 Bolleystrasse</PAGE>
 <lb xml:id="letter_0004_003_tr_1_tl_8"/><PAGE tag="strikethrough">Zürich</PAGE> Paris 16 e
 <lb xml:id="letter_0004_003_tr_1_tl_9"/>123 Rue de Longschamp
-<lb xml:id="letter_0004_003_tr_1_tl_12"/>Bitte nachsenden! Unbedingt zustellen! [Poststempel]<!--IIIF Image or Presentation URL?--><pb xml:id="letter_0004_004"
-             facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587679-BCUL-PREVIEW-426357_0004.jpg/info.json"/>
-         <milestone unit="textregion" xml:id="letter_0004_004_r"/>
-         <lb xml:id="letter_0004_004_l"/>Exp. Schwarzenbach, Saltsjö. Duvnäs</body>
+<lb xml:id="letter_0004_003_tr_1_tl_12"/>Bitte nachsenden! Unbedingt zustellen! [Poststempel]<pb xml:id="letter_0004_004"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587679-BCUL-PREVIEW-426357_0004.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0004_004_r"/>
+            <lb xml:id="letter_0004_004_l"/>Exp. Schwarzenbach, Saltsjö. Duvnäs</div>
+      </body>
    </text>
 </TEI>

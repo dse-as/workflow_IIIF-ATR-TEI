@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0004" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0004#"> 
    <teiHeader> 
       <fileDesc> 
@@ -14,12 +14,42 @@
              </note>
           </notesStmt>
           <sourceDesc> 
-            <p/>
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
           </sourceDesc>
        </fileDesc>
        <profileDesc> 
-         <textClass> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
             <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
                <list> 
                   <item/>
                 </list>
@@ -27,49 +57,51 @@
           </textClass>
        </profileDesc>
     </teiHeader>
- <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0004_facs.xml"/>    <text> 
-      <body><!--IIIF Image or Presentation URL?-->
-         <pb xml:id="p001" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587679-BCUL-PREVIEW-426357_0001.jpg/info.json"/>
-         <milestone unit="textregion" xml:id="p001_tr_1"/>         <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
-            <lb xml:id="p001_tr_1_tl_2"/>BREVKORT 
-            <lb xml:id="p001_tr_1_tl_3"/>Saltsjö-Duvnäs bei Stockholm. 
-            <lb xml:id="p001_tr_1_tl_4"/>Cher Claude! 
-            <lb xml:id="p001_tr_1_tl_5"/>Wann ko[m]men Sie nach Berlin? Ich 
-            <lb xml:id="p001_tr_1_tl_6"/>war in Finnland, u. dan[n] wieder 
-            <lb xml:id="p001_tr_1_tl_7"/>krank, u. schreibe deshalb so spät. 
-            <lb xml:id="p001_tr_1_tl_8"/>Antworten für bitte gleich:  
-            <lb xml:id="p001_tr_1_tl_9"/>Ich werde ungefähr 16. bis 22. August in 
-            <lb xml:id="p001_tr_1_tl_10"/>Berlin sein, Telefon <hi rendition="#u">Westend 65-50</hi>. 
-            <lb xml:id="p001_tr_1_tl_11"/>Dan[n] fahre ich mit meinem Auto 
-            <lb xml:id="p001_tr_1_tl_12"/>wahrscheinlich nach München,</p>
-<!--IIIF Image or Presentation URL?-->
-         <pb xml:id="p002" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587679-BCUL-PREVIEW-426357_0002.jpg/info.json"/>
-         <milestone unit="textregion" xml:id="p002_tr_3"/>         <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
-            <lb xml:id="p002_tr_3_tl_1"/>von München vielleicht für 2 Tage 
-            <lb xml:id="p002_tr_3_tl_2"/>nach Salzburg, dan[n] in die 
-            <lb xml:id="p002_tr_3_tl_3"/>Schweiz. Schreiben Sie mir ob 
-            <lb xml:id="p002_tr_3_tl_4"/>wir uns in Berlin sehen, u. 
-            <lb xml:id="p002_tr_3_tl_5"/>ob Sie Lust haben, ein Stück 
-            <lb xml:id="p002_tr_3_tl_6"/>Deutschland, mit mir im Auto, 
-            <lb xml:id="p002_tr_3_tl_7"/>zu sehen. Ich würde besonders 
-            <lb xml:id="p002_tr_3_tl_8"/>München - Salzburg sehr hübsch 
-            <lb xml:id="p002_tr_3_tl_9"/>finden. 
-            <lb xml:id="p002_tr_3_tl_10"/>Ihre 
-            <lb xml:id="p002_tr_3_tl_11"/>Annemarie Schw.</p>
-<!--IIIF Image or Presentation URL?-->
-         <pb xml:id="p003" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587679-BCUL-PREVIEW-426357_0003.jpg/info.json"/>
-         <milestone unit="textregion" xml:id="p003_tr_1"/>         <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
-            <lb xml:id="p003_tr_1_tl_3"/>Schweiz 
-            <lb xml:id="p003_tr_1_tl_5"/><del rend="overstrike">Tyskland</del> 
-            <lb xml:id="p003_tr_1_tl_6"/>Herrn Claude Bourdet 
-            <lb xml:id="p003_tr_1_tl_7"/><del rend="overstrike">34 Bolleystrasse 
-               <lb xml:id="p003_tr_1_tl_8"/>Zürich</del> Paris 16 e 
-            <lb xml:id="p003_tr_1_tl_9"/>123 Rue de Longschamp 
-            <lb xml:id="p003_tr_1_tl_12"/>Bitte nachsenden! Unbedingt zustellen! [Poststempel]</p>
-<!--IIIF Image or Presentation URL?-->
-         <pb xml:id="p004" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587679-BCUL-PREVIEW-426357_0004.jpg/info.json"/>
-         <milestone unit="textregion" xml:id="p004_r"/>         <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
-            <lb xml:id="p004_l"/>Exp. Schwarzenbach, Saltsjö. Duvnäs</p>
-      </body>
+ <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0004_facs.xml"> <xi:fallback/> <!--Inclusion path will be adjusted later.--> </xi:include>    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587679-BCUL-PREVIEW-426357_0001.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_2"/>BREVKORT 
+               <lb xml:id="p001_tr_1_tl_3"/>Saltsjö-Duvnäs bei Stockholm. 
+               <lb xml:id="p001_tr_1_tl_4"/>Cher Claude! 
+               <lb xml:id="p001_tr_1_tl_5"/>Wann ko[m]men Sie nach Berlin? Ich 
+               <lb xml:id="p001_tr_1_tl_6"/>war in Finnland, u. dan[n] wieder 
+               <lb xml:id="p001_tr_1_tl_7"/>krank, u. schreibe deshalb so spät. 
+               <lb xml:id="p001_tr_1_tl_8"/>Antworten für bitte gleich:  
+               <lb xml:id="p001_tr_1_tl_9"/>Ich werde ungefähr 16. bis 22. August in 
+               <lb xml:id="p001_tr_1_tl_10"/>Berlin sein, Telefon <hi rendition="#u">Westend 65-50</hi>. 
+               <lb xml:id="p001_tr_1_tl_11"/>Dan[n] fahre ich mit meinem Auto 
+               <lb xml:id="p001_tr_1_tl_12"/>wahrscheinlich nach München,</p>
+
+            <pb xml:id="p002" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587679-BCUL-PREVIEW-426357_0002.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p002_tr_3"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_3_tl_1"/>von München vielleicht für 2 Tage 
+               <lb xml:id="p002_tr_3_tl_2"/>nach Salzburg, dan[n] in die 
+               <lb xml:id="p002_tr_3_tl_3"/>Schweiz. Schreiben Sie mir ob 
+               <lb xml:id="p002_tr_3_tl_4"/>wir uns in Berlin sehen, u. 
+               <lb xml:id="p002_tr_3_tl_5"/>ob Sie Lust haben, ein Stück 
+               <lb xml:id="p002_tr_3_tl_6"/>Deutschland, mit mir im Auto, 
+               <lb xml:id="p002_tr_3_tl_7"/>zu sehen. Ich würde besonders 
+               <lb xml:id="p002_tr_3_tl_8"/>München - Salzburg sehr hübsch 
+               <lb xml:id="p002_tr_3_tl_9"/>finden. 
+               <lb xml:id="p002_tr_3_tl_10"/>Ihre 
+               <lb xml:id="p002_tr_3_tl_11"/>Annemarie Schw.</p>
+
+            <pb xml:id="p003" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587679-BCUL-PREVIEW-426357_0003.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_3"/>Schweiz 
+               <lb xml:id="p003_tr_1_tl_5"/><del rend="overstrike">Tyskland</del> 
+               <lb xml:id="p003_tr_1_tl_6"/>Herrn Claude Bourdet 
+               <lb xml:id="p003_tr_1_tl_7"/><del rend="overstrike">34 Bolleystrasse 
+                  <lb xml:id="p003_tr_1_tl_8"/>Zürich</del> Paris 16 e 
+               <lb xml:id="p003_tr_1_tl_9"/>123 Rue de Longschamp 
+               <lb xml:id="p003_tr_1_tl_12"/>Bitte nachsenden! Unbedingt zustellen! [Poststempel]</p>
+
+            <pb xml:id="p004" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587679-BCUL-PREVIEW-426357_0004.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p004_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_l"/>Exp. Schwarzenbach, Saltsjö. Duvnäs</p>
+</div>
+       </body>
     </text>
  </TEI>
