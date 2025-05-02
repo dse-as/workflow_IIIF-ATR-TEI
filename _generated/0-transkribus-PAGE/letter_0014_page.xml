@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<validation-wrapper>
+   <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+      <Metadata>
+         <Creator>prov=READ-COOP:name=TrHtr:version=2.20.0:model_id=51170:date=06_12_2024_13:50</Creator>
+         <Created>2024-11-25T14:46:41.161+01:00</Created>
+         <LastChange>2025-01-31T16:28:47.395+01:00</LastChange>
+         <TranskribusMetadata docId="5406932"
+                              pageId="84774088"
+                              pageNr="1"
+                              tsid="210526613"
+                              status="IN_PROGRESS"
+                              userId="210611"
+                              imgUrl="https://files.transkribus.eu/Get?id=UDTSKSRFCXRGWMJVYVCACHWW&amp;amp;amp;fileType=view"
+                              xmlUrl="https://files.transkribus.eu/Get?id=JGWDRSCAPEINMAIYZTMKEAOG"
+                              imageId="70038481"/>
+      </Metadata>
+      <Page imageFilename="letter_0014_002.jpg"
+            imageWidth="1830"
+            imageHeight="1249">
+         <ReadingOrder>
+            <OrderedGroup id="ro_1738337327395" caption="Regions reading order">
+               <RegionRefIndexed index="0" regionRef="r"/>
+               <RegionRefIndexed index="1" regionRef="r_2"/>
+            </OrderedGroup>
+         </ReadingOrder>
+         <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="108,224 905,224 905,1122 108,1122"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+               <Coords points="218,1066 186,889 202,747 185,683 204,654 179,539 202,488 136,480 130,558 161,627 128,748 146,797 132,874 166,945 131,1004 138,1064"/>
+               <Baseline points="190,1061 178,450"/>
+               <TextEquiv>
+                  <Unicode>Cher Claude - ami</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_57" custom="readingOrder {index:1;}">
+               <Coords points="280,1043 267,558 237,559 250,1043"/>
+               <Baseline points="280,1043 267,558"/>
+               <TextEquiv>
+                  <Unicode>Ecrivez-moi à </Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_17" custom="readingOrder {index:2;}">
+               <Coords points="367,986 378,863 354,791 378,753 353,719 370,623 350,504 378,462 358,434 369,289 295,288 314,413 281,452 315,573 277,609 275,655 337,742 297,816 323,854 300,985"/>
+               <Baseline points="356,981 346,287"/>
+               <TextEquiv>
+                  <Unicode>Paris, Hôtel Jacob</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_24" custom="readingOrder {index:3;}">
+               <Coords points="446,720 438,589 466,520 449,470 467,424 456,340 474,312 386,307 406,446 375,513 409,566 368,679 377,723"/>
+               <Baseline points="432,716 446,303"/>
+               <TextEquiv>
+                  <Unicode>Rue Jacob</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_31" custom="readingOrder {index:4;}">
+               <Coords points="594,1005 618,897 578,850 590,697 569,637 610,543 570,494 571,344 500,344 538,520 514,591 552,654 530,682 545,751 519,808 512,1005"/>
+               <Baseline points="571,1000 567,342"/>
+               <TextEquiv>
+                  <Unicode>J'y serai à partir</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_38" custom="readingOrder {index:5;}">
+               <Coords points="671,1005 652,931 658,776 674,754 658,603 625,603 608,632 618,697 591,733 618,769 599,858 615,879 618,933 595,964 612,1005"/>
+               <Baseline points="651,1000 651,601"/>
+               <TextEquiv>
+                  <Unicode>de Mercredi.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_45" custom="readingOrder {index:6;}">
+               <Coords points="748,874 755,859 737,829 759,808 756,782 770,753 734,715 746,703 746,663 730,647 738,614 729,604 745,574 682,572 675,605 684,627 667,689 674,754 663,781 673,795 664,818 690,852 690,873"/>
+               <Baseline points="730,869 722,571"/>
+               <TextEquiv>
+                  <Unicode>Affection</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_52" custom="readingOrder {index:7;}">
+               <Coords points="856,599 854,589 883,549 881,534 870,524 874,509 759,526 770,538 765,554 780,565 779,598 773,612"/>
+               <Baseline points="836,597 849,510"/>
+               <TextEquiv>
+                  <Unicode>A</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="950,638 1716,638 1716,1149 950,1149"/>
+            <TextLine id="l_59" custom="readingOrder {index:0;}">
+               <Coords points="968,762 1305,753 1456,778 1487,754 1519,778 1625,775 1625,692 1570,683 1473,706 1356,673 1304,710 1267,682 1219,706 1132,672 1072,698 968,694"/>
+               <Baseline points="973,753 1627,753"/>
+               <TextEquiv>
+                  <Unicode>M. Claude Bourdet</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_66" custom="readingOrder {index:1;}">
+               <Coords points="1036,897 1070,911 1124,886 1249,914 1277,887 1336,922 1435,899 1520,931 1520,834 1471,828 1445,802 1240,815 1205,794 1166,827 1131,800 1036,813"/>
+               <Baseline points="1041,879 1521,881"/>
+               <TextEquiv>
+                  <Unicode>34 Bolleyst.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_73" custom="readingOrder {index:2;}">
+               <Coords points="1182,1023 1455,1009 1480,1026 1507,1009 1547,1011 1548,962 1482,931 1440,948 1355,938 1304,954 1251,912 1184,953"/>
+               <Baseline points="1188,1004 1549,994"/>
+               <TextEquiv>
+                  <Unicode>Zürich</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_80" custom="readingOrder {index:3;}">
+               <Coords points="1302,1122 1490,1113 1525,1121 1529,1046 1512,1047 1484,1069 1441,1076 1400,1072 1365,1044 1306,1057"/>
+               <Baseline points="1308,1098 1528,1086"/>
+               <TextEquiv>
+                  <Unicode>Suiza [Stempel]</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+      </Page>
+   </PcGts>
+   <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+      <Metadata>
+         <Creator>Transkribus</Creator>
+         <Created>2024-11-25T14:46:40.923+01:00</Created>
+         <LastChange>2024-11-25T14:46:40.923+01:00</LastChange>
+      </Metadata>
+      <Page imageFilename="letter_0014_001.jpg"
+            imageHeight="1248"
+            imageWidth="1830"/>
+   </PcGts>
+</validation-wrapper>
