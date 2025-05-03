@@ -21,6 +21,11 @@
                    <idno/>
                 </msIdentifier>
              </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
           </sourceDesc>
        </fileDesc>
        <profileDesc> 
@@ -52,7 +57,7 @@
           </textClass>
        </profileDesc>
     </teiHeader>
- <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0012_facs.xml"/>    <text> 
+ <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0012_facs.xml"> <xi:fallback/> <!--Inclusion path will be adjusted later.--> </xi:include>    <text> 
       <body> 
          <div type="letter">
             <pb xml:id="p001" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587687-BCUL-PREVIEW-426365_0001.jpg/info.json"/>
@@ -95,4 +100,4 @@
             <pb xml:id="p002" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587687-BCUL-PREVIEW-426365_0002.jpg/info.json"/></div>
        </body>
     </text>
- </TEI>
+ <!--Generated on 2025-05-03T20:53:16.27875Z by https://github.dev/dse-as/workflow_IIIF-ATR-TEI using SAXON HE 12.6 from Saxonica.--> </TEI>
