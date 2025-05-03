@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0023" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0023#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0023</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+ <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0023_facs.xml"> <xi:fallback/> <!--Inclusion path will be adjusted later.--> </xi:include>    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587697-BCUL-PREVIEW-426375_0001.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_2"/>Ankara 1. Nov 33 
+               <lb xml:id="p001_tr_1_tl_3"/>Hotel Belvü Palas 
+               <lb xml:id="p001_tr_1_tl_4"/>Cher Claude ami - voilà trois semaines 
+               <lb xml:id="p001_tr_1_tl_5"/>depuis mon départ – et la deuxième 
+               <lb xml:id="p001_tr_1_tl_6"/>periode qui commence: la période du 
+               <lb xml:id="p001_tr_1_tl_7"/>temps qui s'écoule avec une vitesse 
+               <lb xml:id="p001_tr_1_tl_8"/>inattendue</p>
+
+            <milestone unit="textregion" xml:id="p001_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_2_tl_1"/>Ich fühle mich Dir näher, wen[n] ich deutsch 
+               <lb xml:id="p001_tr_2_tl_2"/>schreibe - lass mich kurz alles rekapitulieren -  
+               <lb xml:id="p001_tr_2_tl_3"/>Da war Stambul - ville de mérveille - 
+               <lb xml:id="p001_tr_2_tl_4"/>wo das Leben wie ein Rausch war u. mich 
+               <lb xml:id="p001_tr_2_tl_5"/>gefährlich bauerten. Eine sehr <del rend="overstrike">ch</del> charmanter 
+               <lb xml:id="p001_tr_2_tl_6"/>Onkel Pozzi, sehr mit Damen u. mit 
+               <lb xml:id="p001_tr_2_tl_7"/>Antiquitäten beschäftigt -  fleissiges Studium 
+               <lb xml:id="p001_tr_2_tl_8"/>im ruhigen deutschen Institut (ganz ohne 
+               <lb xml:id="p001_tr_2_tl_9"/>Luxus, deutsche Kleinstadt-Bibliothek 
+               <lb xml:id="p001_tr_2_tl_10"/>u. Universitätsluft)</p>
+
+            <milestone unit="textregion" xml:id="p001_tr_3"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_3_tl_1"/>Dan[n], mit Prof. Holzmeister - den Du lieben 
+               <lb xml:id="p001_tr_3_tl_2"/>würdest, nach Ankara gefahren. 
+               <lb xml:id="p001_tr_3_tl_3"/>(Zuerst Fieber u. schlim[m]e Träume) 
+               <lb xml:id="p001_tr_3_tl_4"/>Misstrauen gegen die Nationale Stadt 
+               <lb xml:id="p001_tr_3_tl_5"/>aber es ging mir ähnlich wie Dir 
+               <lb xml:id="p001_tr_3_tl_6"/>in Oesterreich. Das Program Kemals 
+               <lb xml:id="p001_tr_3_tl_7"/>ist generös, man[n]lich aufrichtig.</p>
+
+            <pb xml:id="p002" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587697-BCUL-PREVIEW-426375_0002.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>Würde man in die Lage versetzt, sich diesem 
+               <lb xml:id="p002_tr_1_tl_2"/>Man[n] zu ergeben, man konnte es ohne Scham 
+               <lb xml:id="p002_tr_1_tl_3"/>mit ganzer Seele tun. 
+               <lb xml:id="p002_tr_1_tl_4"/>Aber, Claude: Sans que je le voulais - presque 
+               <lb xml:id="p002_tr_1_tl_5"/>sans m'en appercevoir – tout mon coeur 
+               <lb xml:id="p002_tr_1_tl_6"/>se tourne contre ce "programisme" - soit 
+               <lb xml:id="p002_tr_1_tl_7"/>Sovjet, soit Nazi ou turque -  
+               <lb xml:id="p002_tr_1_tl_8"/>Dieses dauernde Verbünden, Auferlegen, Betonen, 
+               <lb xml:id="p002_tr_1_tl_9"/>Aufrufen – diese Bearbeitung der Seele durch 
+               <lb xml:id="p002_tr_1_tl_10"/>Plakat Rede Kino Radio Défilè Musik 
+               <lb xml:id="p002_tr_1_tl_11"/>und Presse -  
+               <lb xml:id="p002_tr_1_tl_12"/>ich schrieb es heute in einem Artikel: 
+               <lb xml:id="p002_tr_1_tl_13"/>"Die Begeisterung, zum Programm erhoben, 
+               <lb xml:id="p002_tr_1_tl_14"/>wird oede" -  
+               <lb xml:id="p002_tr_1_tl_15"/>Ich habe viel offizielles mitgemacht, 
+               <lb xml:id="p002_tr_1_tl_16"/>mit dem diplomatischen Corps. Und 
+               <lb xml:id="p002_tr_1_tl_17"/>ich habe den gan? von ganz nahr u. 
+               <lb xml:id="p002_tr_1_tl_18"/>lang gesehen. Beaucoup de choses 
+               <lb xml:id="p002_tr_1_tl_19"/>ont laissé leurs traces dans ce 
+               <lb xml:id="p002_tr_1_tl_20"/>visage 
+               <lb xml:id="p002_tr_1_tl_21"/>Nur die Archäologie geht schlecht. 
+               <lb xml:id="p002_tr_1_tl_22"/>Ich weiss jetzt dass ich im[m]er 
+               <lb xml:id="p002_tr_1_tl_23"/>ein Dilettant bleiben werde. 
+               <lb xml:id="p002_tr_1_tl_24"/>Und immer ein Schriftsteller...</p>
+
+            <pb xml:id="p003" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587697-BCUL-PREVIEW-426375_0003.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p003_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_2_tl_2"/>2 
+               <lb xml:id="p003_tr_2_tl_3"/>Ich möchte dass Du einmal das Tagebuch 
+               <lb xml:id="p003_tr_2_tl_4"/>dieser Reise lesen wirst. Ehrlich 
+               <lb xml:id="p003_tr_2_tl_5"/>wird es nicht, parceque je n'écrits 
+               <lb xml:id="p003_tr_2_tl_6"/>pas tout. Pas les rêves et la fièvre.</p>
+
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_1"/>Ma santé va mal. Je 
+               <lb xml:id="p003_tr_1_tl_2"/>suis très refroidée, je me sens faible. 
+               <lb xml:id="p003_tr_1_tl_3"/>Heuresement il y a Fred, et encore 
+               <lb xml:id="p003_tr_1_tl_4"/>une femme avec beaucoup de 
+               <lb xml:id="p003_tr_1_tl_5"/>charme (juive viennoise) qui s' occupe 
+               <lb xml:id="p003_tr_1_tl_6"/>à me soigner.  Je pense rester ici 
+               <lb xml:id="p003_tr_1_tl_7"/>encon 2-3 semaines. 
+               <lb xml:id="p003_tr_1_tl_8"/>Das Land ist grossartig - es wird 
+               <lb xml:id="p003_tr_1_tl_9"/>einmal die neue Stadt besiegen. 
+               <lb xml:id="p003_tr_1_tl_10"/>Was macht Europa? 
+               <lb xml:id="p003_tr_1_tl_11"/>Schreibe mir ob ich Dir 1-2 Artikel 
+               <lb xml:id="p003_tr_1_tl_12"/>für Frankreich schicken kann. 
+               <lb xml:id="p003_tr_1_tl_13"/>Schreibe mir überhaupt sofort. J'ai 
+               <lb xml:id="p003_tr_1_tl_14"/>envie de voir Klaus, Eriha et toi 
+               <lb xml:id="p003_tr_1_tl_15"/>aussi. Fred grüsst Dich sehr. 
+               <lb xml:id="p003_tr_1_tl_16"/>Schreibe gleich. Je t'embrasse. 
+               <lb xml:id="p003_tr_1_tl_17"/>A.</p>
+
+            <pb xml:id="p004" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587697-BCUL-PREVIEW-426375_0004.jpg/info.json"/>
+            <pb xml:id="p005" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587697-BCUL-PREVIEW-426375_0005.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p005_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p005_tr_1_tl_1"/>Monsieur Claude Bourdet 
+               <lb xml:id="p005_tr_1_tl_2"/>47 Avenue de Jéna 
+               <lb xml:id="p005_tr_1_tl_3"/><hi rendition="#u">Paris 
+                  <lb xml:id="p005_tr_1_tl_4"/>France</hi> [Stempel: 5.11.1933]</p>
+
+            <pb xml:id="p006" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587697-BCUL-PREVIEW-426375_0006.jpg/info.json"/>
+            <pb xml:id="p007" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587697-BCUL-PREVIEW-426375_0007.jpg/info.json"/></div>
+       </body>
+    </text>
+ <!--Generated on 2025-05-03T20:59:06.246146Z by https://github.dev/dse-as/workflow_IIIF-ATR-TEI using SAXON HE 12.6 from Saxonica.--> </TEI>
