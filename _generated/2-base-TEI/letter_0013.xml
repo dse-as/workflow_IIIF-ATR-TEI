@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0013" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0013#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0013</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+ <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0013_facs.xml"> <xi:fallback/> <!--Inclusion path will be adjusted later.--> </xi:include>    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587770-BCUL-PREVIEW-426413_0001.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_2"/>Chez Claude. 
+               <lb xml:id="p001_tr_1_tl_3"/>impossible de venir. 
+               <lb xml:id="p001_tr_1_tl_4"/>en ville <del rend="overstrike">cette</del> 
+               <lb xml:id="p001_tr_1_tl_5"/>cet après-midi -  
+               <lb xml:id="p001_tr_1_tl_6"/>Wen[n] Sie Zeit haben kom[m]en 
+               <lb xml:id="p001_l"/>Sie schnell ½ Std. und  
+               <lb xml:id="p001_tr_1_tl_9"/>dem Chauffeur mich 
+               <lb xml:id="p001_tr_1_tl_10"/>treffen. Sonst wäre <hi rendition="#u">sehr</hi> 
+               <lb xml:id="p001_tr_1_tl_11"/>Schade. 
+               <lb xml:id="p001_tr_1_tl_12"/>Au revoir cher ami 
+               <lb xml:id="p001_l_132"/>A</p>
+
+            <milestone unit="textregion" xml:id="p001_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_2_tl_1"/>Herr Bourdet 
+               <lb xml:id="p001_tr_2_tl_2"/>Bolleystr. 34.</p>
+
+            <pb xml:id="p002" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587770-BCUL-PREVIEW-426413_0002.jpg/info.json"/>
+            <pb xml:id="p003" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587770-BCUL-PREVIEW-426413_0003.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_1"/>15 SS02/13 
+               <lb xml:id="p003_tr_1_tl_2"/>CLASSIC 
+               <lb xml:id="p003_tr_1_tl_3"/>GIII 
+               <lb xml:id="p003_tr_1_tl_4"/>en</p>
+
+            <milestone unit="textregion" xml:id="p003_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_2_tl_1"/>Schmalbrunnstrunnismund. 
+               <lb xml:id="p003_tr_2_tl_2"/>. 
+               <lb xml:id="p003_tr_2_tl_3"/>Geschäft. 
+               <lb xml:id="p003_tr_2_tl_4"/>34 
+               <lb xml:id="p003_tr_2_tl_5"/>S.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
