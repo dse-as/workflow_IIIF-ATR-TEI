@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xml:id="smallform_0223"
      type="dseas-smallform">
@@ -18,12 +18,32 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <p/>
+            <bibl corresp="smallform_0223">
+               <persName/>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
          <textClass>
             <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
                <list>
                   <item/>
                </list>
@@ -31,13 +51,17 @@
          </textClass>
       </profileDesc>
    </teiHeader>
-   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0223_facs.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0223_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
    <text>
-      <body><!--IIIF Image or Presentation URL?-->
-         <pb xml:id="smallform_0223_001"
-             facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0223_001.tif/info.json"/>
-         <milestone unit="textregion" xml:id="smallform_0223_001_r_2"/>
-         <lb xml:id="smallform_0223_001_r_2_tl_1"/>Baltisches Tagebuch
+      <body>
+         <div type="smallform">
+            <pb xml:id="smallform_0223_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0223_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0223_001_r_2"/>
+            <lb xml:id="smallform_0223_001_r_2_tl_1"/>Baltisches Tagebuch
 <lb xml:id="smallform_0223_001_r_2_tl_2"/>Von <CONV tag="g">Annemarie Clark</CONV><CONV tag="g">
 <lb xml:id="smallform_0223_001_r_2_tl_3"/>Jenseits des Korridors</CONV> <CONV tag="p">
 <lb xml:id="smallform_0223_001_r_2_tl_4"/>Auf einem mächtigen Findlingsblock an der Weg¬
@@ -79,7 +103,7 @@
 <lb xml:id="smallform_0223_001_r_2_tl_40"/>Portal eines jener schönen, gelb oder rosa getünchten
 <lb xml:id="smallform_0223_001_r_2_tl_41"/>Herrenhäuser, die mit ihren Barockgiebeln und maß¬
 <lb xml:id="smallform_0223_001_r_2_tl_42"/>voll ornamentierten Fenstern einen angenehmen Kon¬<milestone unit="textregion" xml:id="smallform_0223_001_r_3"/>
-         <lb xml:id="smallform_0223_001_r_3_tl_1"/>trast zu den strengeren preußischen Schlössern jenseits
+            <lb xml:id="smallform_0223_001_r_3_tl_1"/>trast zu den strengeren preußischen Schlössern jenseits
 <lb xml:id="smallform_0223_001_r_3_tl_2"/>der alten Polengrenze bilden. Das Dorf gehört zum
 <lb xml:id="smallform_0223_001_r_3_tl_3"/>Gut, — und während mein Begleiter, — er ist Land¬
 <lb xml:id="smallform_0223_001_r_3_tl_4"/>arzt, — seinen Besuch im Schloß macht, führt mich der
@@ -124,7 +148,7 @@
 <lb xml:id="smallform_0223_001_r_3_tl_43"/>vor ihm in Acht nehmen. Jetzt hat er allerdings ein
 <lb xml:id="smallform_0223_001_r_3_tl_44"/>paar Erfahrungen hinter sich. Sie haben ihn vorüber¬
 <lb xml:id="smallform_0223_001_r_3_tl_45"/>gehend aus der Partei gestoßen, weil er einen Arbeiter<milestone unit="textregion" xml:id="smallform_0223_001_r_4"/>
-         <lb xml:id="smallform_0223_001_r_4_tl_1"/>anzeigte, der Holz gestohlen hat. Dieser Arbeiter war
+            <lb xml:id="smallform_0223_001_r_4_tl_1"/>anzeigte, der Holz gestohlen hat. Dieser Arbeiter war
 <lb xml:id="smallform_0223_001_r_4_tl_2"/>SA.-Unterführer, daher war die Anzeige des Inspek¬
 <lb xml:id="smallform_0223_001_r_4_tl_3"/>tors „parteiwidriges Verhalten ..."</CONV><CONV tag="p">
 <lb xml:id="smallform_0223_001_r_4_tl_4"/>Im Städtchen, das mit seinem Schloß des Deut¬
@@ -168,7 +192,7 @@
 <lb xml:id="smallform_0223_001_r_4_tl_42"/>zu Fatalisten mit guten Nerven erzogen. Das gilt für
 <lb xml:id="smallform_0223_001_r_4_tl_43"/>„Herren“ und „Bauern“, — wie ja auch in der Land¬
 <lb xml:id="smallform_0223_001_r_4_tl_44"/>verteilung und Bewirtschaftung ein günstiges Gleich¬<milestone unit="textregion" xml:id="smallform_0223_001_r_1"/>
-         <lb xml:id="smallform_0223_001_r_1_tl_1"/>gewicht zwischen großen Gütern und bäuerlichem
+            <lb xml:id="smallform_0223_001_r_1_tl_1"/>gewicht zwischen großen Gütern und bäuerlichem
 <lb xml:id="smallform_0223_001_r_1_tl_2"/>Eigenbesitz herrscht, und das gemeinsame Schicksal alle,
 <lb xml:id="smallform_0223_001_r_1_tl_3"/>wie früher gegen Russen und Franzosen, heute zur
 <lb xml:id="smallform_0223_001_r_1_tl_4"/>gemeinsamen Abwehr ganz anderer Schwierigkeiten
@@ -211,11 +235,11 @@
 <lb xml:id="smallform_0223_001_r_1_tl_41"/>eigene außenpolitische Situation, hat sein Gleich¬
 <lb xml:id="smallform_0223_001_r_1_tl_42"/>gewicht und den innern Frieden zu nötig. Man ist
 <lb xml:id="smallform_0223_001_r_1_tl_43"/>konservativ, — und aus guten und ernsten Gründen.
-<lb xml:id="smallform_0223_001_r_1_tl_44"/>Wessen Besitz und Leben so oft bedroht und so hart<!--FML: this needs attention (was tagged as "fml" in Transkribus)--></CONV><!--IIIF Image or Presentation URL?--><pb xml:id="smallform_0223_002"
-             facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0223_002.tif/info.json"/>
-         <milestone unit="textregion" xml:id="smallform_0223_002_r"/><CONV tag="p">
+<lb xml:id="smallform_0223_001_r_1_tl_44"/>Wessen Besitz und Leben so oft bedroht und so hart<!--FML: this needs attention (was tagged as "fml" in Transkribus)--></CONV><pb xml:id="smallform_0223_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0223_002.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0223_002_r"/><CONV tag="p">
 <lb xml:id="smallform_0223_002_r_tl_1"/>
-         <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->erkämpft ist, der weiß Bestehendes zu schätzen und zu
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->erkämpft ist, der weiß Bestehendes zu schätzen und zu
 <lb xml:id="smallform_0223_002_r_tl_2"/>achten, — nichts kann diesem Volk fremder sein als
 <lb xml:id="smallform_0223_002_r_tl_3"/>die oberflächliche und dilettantische Neuerungssucht,
 <lb xml:id="smallform_0223_002_r_tl_4"/>die beständige Einmischung und Reglementierung, die
@@ -261,6 +285,7 @@
 <lb xml:id="smallform_0223_002_r_tl_44"/>der Trost, daß etwas vom besten Deutschtum mir hier
 <lb xml:id="smallform_0223_002_r_tl_45"/>begegnet ist, dessen Gültigkeit die Unbill schwerer Zei¬
 <lb xml:id="smallform_0223_002_r_tl_46"/>ten überdauert hat und sich auch heute daran festigen
-<lb xml:id="smallform_0223_002_r_tl_47"/>und sie ruhigen Gemütes überstehen wird.</CONV></body>
+<lb xml:id="smallform_0223_002_r_tl_47"/>und sie ruhigen Gemütes überstehen wird.</CONV></div>
+      </body>
    </text>
 </TEI>

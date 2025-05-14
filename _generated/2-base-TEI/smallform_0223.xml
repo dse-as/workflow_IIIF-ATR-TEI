@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0223" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0223#"> 
    <teiHeader> 
       <fileDesc> 
@@ -14,12 +14,32 @@
              </note>
           </notesStmt>
           <sourceDesc> 
-            <p/>
+            <bibl corresp="smallform_0223"> 
+               <persName/>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
           </sourceDesc>
        </fileDesc>
        <profileDesc> 
-         <textClass> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
             <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
                <list> 
                   <item/>
                 </list>
@@ -27,247 +47,249 @@
           </textClass>
        </profileDesc>
     </teiHeader>
- <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0223_facs.xml"/>    <text> 
-      <body><!--IIIF Image or Presentation URL?-->
-         <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0223_001.tif/info.json"/>
-         <milestone unit="textregion" xml:id="p001_r_2"/>         <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
-            <lb xml:id="p001_r_2_tl_1"/>Baltisches Tagebuch 
-            <lb xml:id="p001_r_2_tl_2"/>Von <hi rendition="#g">Annemarie Clark</hi></p>
-         <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"><hi rendition="#g"> 
-               <lb xml:id="p001_r_2_tl_3"/>Jenseits des Korridors</hi></p>
-         <p> 
-            <lb xml:id="p001_r_2_tl_4"/>Auf einem mächtigen Findlingsblock an der Weg 
-            <lb xml:id="p001_r_2_tl_5" break="no"/>seite erhebt sich ein schlicht gefügtes Kreuz. Es fällt 
-            <lb xml:id="p001_r_2_tl_6"/>nicht auf in diesem katholischen Landstrich, wo in den 
-            <lb xml:id="p001_r_2_tl_7"/>Dörfern und vor den einsamen Höfen in Nischen 
-            <lb xml:id="p001_r_2_tl_8"/>blumengeschmückte Heiligenbilder stehen, und wo ich 
-            <lb xml:id="p001_r_2_tl_9"/>am Pfingstfeiertag die Bauern aus den Toren der 
-            <lb xml:id="p001_r_2_tl_10"/>mächtigen Backsteinkirchen strömen sah. Aber der Mann, 
-            <lb xml:id="p001_r_2_tl_11"/>der in grüner Joppe und Schlapphut neben mir auf 
-            <lb xml:id="p001_r_2_tl_12"/>dem schmalen Bock unseres Gefährts sitzt, zieht die 
-            <lb xml:id="p001_r_2_tl_13"/>Zügel an, bringt die beiden Füchse zum Stehen und 
-            <lb xml:id="p001_r_2_tl_14"/>weist mit dem Peitschenstiel zu dem dunklen Kreuz 
-            <lb xml:id="p001_r_2_tl_15"/>empor. — „Das haben die SA.-Buben kürzlich auch 
-            <lb xml:id="p001_r_2_tl_16"/>umgestürzt, und ein Hakenkreuz auf den Block gemalt. 
-            <lb xml:id="p001_r_2_tl_17"/>Aber die Bauern haben in der nächsten Nacht das 
-            <lb xml:id="p001_r_2_tl_18"/>Kreuz wieder aufgerichtet, und es mit eisernen Klam 
-            <lb xml:id="p001_r_2_tl_19" break="no"/>mern befestigt, wie sie es jetzt auch in den Dorfkirchen 
-            <lb xml:id="p001_r_2_tl_20"/>tun. Und die rote Oelfarbe haben sie auch weggekriegt, 
-            <lb xml:id="p001_r_2_tl_21"/>mit Terpentin ...“ — „Ist die Bevölkerung hier so 
-            <lb xml:id="p001_r_2_tl_22"/>fromm?“ — Mein Begleiter hebt die Schultern. 
-            <lb xml:id="p001_r_2_tl_23"/>„Früher hat man ja darüber nicht nachgedacht“, sagt 
-            <lb xml:id="p001_r_2_tl_24"/>er, — „es war eben selbstverständlich, daß man Sonn 
-            <lb xml:id="p001_r_2_tl_25" break="no"/>tags zur Messe ging. Aber seitdem in jeder Zeitung 
-            <lb xml:id="p001_r_2_tl_26"/>wieder irgendein Sittlichkeitsprozeß gegen einen katho 
-            <lb xml:id="p001_r_2_tl_27" break="no"/>lischen Priester gemeldet wird, und seitdem ein Mäd 
-            <lb xml:id="p001_r_2_tl_28" break="no"/>chen, das einen SS.-Mann heiratet, nicht mehr kirch 
-            <lb xml:id="p001_r_2_tl_29" break="no"/>lich getraut werden darf und ihren Sohn nicht mehr 
-            <lb xml:id="p001_r_2_tl_30"/>christlich taufen soll, — seither werden die Leute Ver 
-            <lb xml:id="p001_r_2_tl_31" break="no"/>teidiger ihres Glaubens, ihrer Kirchen, ihrer Heiligen 
-            <lb xml:id="p001_r_2_tl_32" break="no"/>bilder und Wegkreuze, — genau wie sie in Kriegs 
-            <lb xml:id="p001_r_2_tl_33" break="no"/>zeiten ihre Felder gegen die Russen oder Polen ver 
-            <lb xml:id="p001_r_2_tl_34" break="no"/>teidigt haben.“ — Die Pferde fallen in Trab, wir 
-            <lb xml:id="p001_r_2_tl_35"/>fahren eine Weile schweigend durch die abendlichen 
-            <lb xml:id="p001_r_2_tl_36"/>Wiesen, die sich auf beiden Seiten des Landwegs bis 
-            <lb xml:id="p001_r_2_tl_37"/>zu einem weiten und klaren Horizont ausbreiten. 
-            <lb xml:id="p001_r_2_tl_38"/>Dann biegen wir in eine Kastanienallee ein, vorbei an 
-            <lb xml:id="p001_r_2_tl_39"/>zwei Reihen niedriger Häuser, und halten vor dem 
-            <lb xml:id="p001_r_2_tl_40"/>Portal eines jener schönen, gelb oder rosa getünchten 
-            <lb xml:id="p001_r_2_tl_41"/>Herrenhäuser, die mit ihren Barockgiebeln und maß 
-            <lb xml:id="p001_r_2_tl_42" break="no"/>voll ornamentierten Fenstern einen angenehmen Kon
-            <milestone unit="textregion" xml:id="p001_r_3"/> 
-            <lb xml:id="p001_r_3_tl_1" break="no"/>trast zu den strengeren preußischen Schlössern jenseits 
-            <lb xml:id="p001_r_3_tl_2"/>der alten Polengrenze bilden. Das Dorf gehört zum 
-            <lb xml:id="p001_r_3_tl_3"/>Gut, — und während mein Begleiter, — er ist Land 
-            <lb xml:id="p001_r_3_tl_4" break="no"/>arzt, — seinen Besuch im Schloß macht, führt mich der 
-            <lb xml:id="p001_r_3_tl_5"/>junge Inspektor durch den großen Komplex der Wirt 
-            <lb xml:id="p001_r_3_tl_6" break="no"/>schaftsgebäude, der riesigen Ställe und Scheunen, und 
-            <lb xml:id="p001_r_3_tl_7"/>zu den Weiden, wo neben friedlichen Schafherden und 
-            <lb xml:id="p001_r_3_tl_8"/>schwarz-weißem Vieh in gesonderten Koppeln etwa 
-            <lb xml:id="p001_r_3_tl_9"/>fünfzig ein- und zweijährige Fohlen grasen. Es ist ein 
-            <lb xml:id="p001_r_3_tl_10"/>schöner Anblick, und der Inspektor zeigt mir mit 
-            <lb xml:id="p001_r_3_tl_11"/>Stolz einzelne Pferde, die, selbst gezogen, wie er 
-            <lb xml:id="p001_r_3_tl_12"/>sagt, „in Trakehnen[gemeint ist wohl weniger der Ort als das in der Nähe befindliche preussische Hauptgestütt] wohl ihre drei- oder viertausend 
-            <lb xml:id="p001_r_3_tl_13"/>Mark wert wären.“ — Auf dem Hof herrscht Sonn 
-            <lb xml:id="p001_r_3_tl_14" break="no"/>tagsruhe, das Dorf ist beinahe ausgestorben. Der 
-            <lb xml:id="p001_r_3_tl_15"/>junge Mann erklärt es: „Sie mußten alle hinüber in 
-            <lb xml:id="p001_r_3_tl_16"/>das Kreisstädtchen, — dort gibt es heute „Kraft durch 
-            <lb xml:id="p001_r_3_tl_17"/>Freude“. Und da müssen sich nun also unsere Arbeiter 
-            <lb xml:id="p001_r_3_tl_18"/>Künstler aus Königsberg anhören, ob sie Lust haben 
-            <lb xml:id="p001_r_3_tl_19"/>oder nicht. Und nächstens soll hier ein Klub für Lei 
-            <lb xml:id="p001_r_3_tl_20" break="no"/>besübungen gegründet werden, damit die Bauern 
-            <lb xml:id="p001_r_3_tl_21"/>abends, wenn sie von den Feldern und aus dem Stall 
-            <lb xml:id="p001_r_3_tl_22"/>kommen, gesunden Wehrsport treiben! — Sie können 
-            <lb xml:id="p001_r_3_tl_23"/>sich die Sache ja ansehen, wenn Sie mit dem Doktor 
-            <lb xml:id="p001_r_3_tl_24"/>ins Städtchen zurückfahren!“ — Der Doktor aber, den 
-            <lb xml:id="p001_r_3_tl_25"/>ich über „Kraft durch Freude“ auf dem Heimweg be 
-            <lb xml:id="p001_r_3_tl_26" break="no"/>frage, nickt trübe: „Es kann ja auch sein“, sagt er, 
-            <lb xml:id="p001_r_3_tl_27"/>„daß ich zu alt bin. Vieles, was von der Partei ge 
-            <lb xml:id="p001_r_3_tl_28" break="no"/>macht wird, ist vielleicht gar nicht so schlecht. Der Ar 
-            <lb xml:id="p001_r_3_tl_29" break="no"/>beitsdienst zum Beispiel, — und wohl auch dieses 
-            <lb xml:id="p001_r_3_tl_30"/>„Kraft durch Freude“, und manches andere. Aber sehen 
-            <lb xml:id="p001_r_3_tl_31"/>Sie sich die Leute an, die Uniform tragen und Partei 
-            <lb xml:id="p001_r_3_tl_32" break="no"/>ämter bekleiden! Da sitzt der Kern des Uebels. Daß 
-            <lb xml:id="p001_r_3_tl_33"/>viele von ihnen jung sind, dagegen würde ich noch 
-            <lb xml:id="p001_r_3_tl_34"/>nichts einwenden. Revolutionäre Bewegungen werden 
-            <lb xml:id="p001_r_3_tl_35"/>immer von der Jugend geführt. Aber sie sind Dilet 
-            <lb xml:id="p001_r_3_tl_36" break="no"/>tanten, sie blamieren sich ja unaufhörlich, und dafür 
-            <lb xml:id="p001_r_3_tl_37"/>rächen sie sich dann an den Tüchtigen.“</p>
-         <p> 
-            <lb xml:id="p001_r_3_tl_38"/>„Dieser Inspektor“, frage ich, „war doch ein ganz 
-            <lb xml:id="p001_r_3_tl_39"/>junger Mann. Warum ist der so kritisch, warum ist er 
-            <lb xml:id="p001_r_3_tl_40"/>nicht mit dabei?“ — Erstaunt sieht der Doktor mich 
-            <lb xml:id="p001_r_3_tl_41"/>an. „Sie irren sich“, sagt er dann, — „dieser junge 
-            <lb xml:id="p001_r_3_tl_42"/>Mann ist SA.-Führer. Früher mußte man sich sogar 
-            <lb xml:id="p001_r_3_tl_43"/>vor ihm in Acht nehmen. Jetzt hat er allerdings ein 
-            <lb xml:id="p001_r_3_tl_44"/>paar Erfahrungen hinter sich. Sie haben ihn vorüber 
-            <lb xml:id="p001_r_3_tl_45" break="no"/>gehend aus der Partei gestoßen, weil er einen Arbeiter
-            <milestone unit="textregion" xml:id="p001_r_4"/> 
-            <lb xml:id="p001_r_4_tl_1"/>anzeigte, der Holz gestohlen hat. Dieser Arbeiter war 
-            <lb xml:id="p001_r_4_tl_2"/>SA.-Unterführer, daher war die Anzeige des Inspek 
-            <lb xml:id="p001_r_4_tl_3" break="no"/>tors „parteiwidriges Verhalten ..."</p>
-         <p> 
-            <lb xml:id="p001_r_4_tl_4"/>Im Städtchen, das mit seinem Schloß des Deut 
-            <lb xml:id="p001_r_4_tl_5" break="no"/>schen Ordens, den ragenden roten Türmen seiner 
-            <lb xml:id="p001_r_4_tl_6"/>Ordenskirche, den grünen Wällen jenseits des kleinen 
-            <lb xml:id="p001_r_4_tl_7"/>Flusses, einen fast ehrwürdig-gesicherten Eindruck 
-            <lb xml:id="p001_r_4_tl_8"/>macht, in diesem Städtchen herrscht heute also „Kraft 
-            <lb xml:id="p001_r_4_tl_9"/>durch Freude“. Und zum ersten Mal, seitdem ich Dan 
-            <lb xml:id="p001_r_4_tl_10" break="no"/>zig verlassen habe, sehe ich wieder Hakenkreuzfahnen, 
-            <lb xml:id="p001_r_4_tl_11"/>weiße Transparente mit Aufrufen und Wahlsprüchen, 
-            <lb xml:id="p001_r_4_tl_12"/>Aufzüge unformierter Kinder, das typische Getriebe 
-            <lb xml:id="p001_r_4_tl_13"/>der SA.-Männer in den kleinen Kaffeehäusern.</p>
-         <p> 
-            <lb xml:id="p001_r_4_tl_14"/>Hier, im katholischen Ermland, hat die NSDAP. [der Punkt nach NSDAP scheint kein Fehler sondern damals üblich, siehe auch 'Studenten in vier Ländern', smf_226] 
-            <lb xml:id="p001_r_4_tl_15"/>keinen günstigen Boden. Die Grenze der katholischen 
-            <lb xml:id="p001_r_4_tl_16"/>Konfession verläuft genau entsprechend der alten 
-            <lb xml:id="p001_r_4_tl_17"/>Grenze Polens, — denn dieses Gebiet war, seit der 
-            <lb xml:id="p001_r_4_tl_18"/>Eroberung und Kolonisation durch den Deutschen 
-            <lb xml:id="p001_r_4_tl_19"/>Orden, d. h. also seit dem 13. Jahrhundert als be 
-            <lb xml:id="p001_r_4_tl_20" break="no"/>sonderer Besitz der Kurie vorbehalten, es blieb katho 
-            <lb xml:id="p001_r_4_tl_21" break="no"/>lisch, und gehörte bis zur zweiten polnischen Teilung 
-            <lb xml:id="p001_r_4_tl_22"/>1792 zu Polen. Aber auch jenseits dieser Grenze, in 
-            <lb xml:id="p001_r_4_tl_23"/>der ganzen ostpreußischen Provinz herrscht eine Atmo 
-            <lb xml:id="p001_r_4_tl_24" break="no"/>sphäre stoischer Ruhe, friedfertigen Fleißes, lang 
-            <lb xml:id="p001_r_4_tl_25" break="no"/>mütiger Geduld gegenüber den heutigen Schwierig 
-            <lb xml:id="p001_r_4_tl_26" break="no"/>keiten und Zuständen, die sich angenehm von der poli 
-            <lb xml:id="p001_r_4_tl_27" break="no"/>tischen Hochspannung Danzigs und von dem Bild 
-            <lb xml:id="p001_r_4_tl_28"/>unterscheidet, das man sich, dank der völkischen Propa 
-            <lb xml:id="p001_r_4_tl_29" break="no"/>ganda, vom bedrohten Grenzdeutschtum macht. Die 
-            <lb xml:id="p001_r_4_tl_30"/>Bevölkerung Ostpreußens hat sich im Verlauf einer 
-            <lb xml:id="p001_r_4_tl_31"/>wechselvollen, an kriegerischen Einfällen, Besetzungen, 
-            <lb xml:id="p001_r_4_tl_32"/>und politischen Veränderungen reichen Geschichte ge 
-            <lb xml:id="p001_r_4_tl_33" break="no"/>festigt und gegen alle Zufälle abgehärtet. Die Ent 
-            <lb xml:id="p001_r_4_tl_34" break="no"/>fernung vom Reich, sogar die Schaffung des sonst so 
-            <lb xml:id="p001_r_4_tl_35"/>problematischen, für dieses Land gewiß schwer zu er 
-            <lb xml:id="p001_r_4_tl_36" break="no"/>tragenden „Polnischen Korridors“, mag dazu bei 
-            <lb xml:id="p001_r_4_tl_37" break="no"/>getragen haben, die Ereignisse ihrer aktuellen Schärfe 
-            <lb xml:id="p001_r_4_tl_38"/>zu entkleiden, die Gemüter zu beruhigen, und die 
-            <lb xml:id="p001_r_4_tl_39"/>Jahrhunderte alte Stellung Ostpreußens als Vor 
-            <lb xml:id="p001_r_4_tl_40" break="no"/>posten des deutschen Reiches, als „Wacht im Osten“, 
-            <lb xml:id="p001_r_4_tl_41"/>hat seine Bewohner zu tapfern Soldaten, aber auch 
-            <lb xml:id="p001_r_4_tl_42"/>zu Fatalisten mit guten Nerven erzogen. Das gilt für 
-            <lb xml:id="p001_r_4_tl_43"/>„Herren“ und „Bauern“, — wie ja auch in der Land 
-            <lb xml:id="p001_r_4_tl_44" break="no"/>verteilung und Bewirtschaftung ein günstiges Gleich
-            <milestone unit="textregion" xml:id="p001_r_1"/> 
-            <lb xml:id="p001_r_1_tl_1" break="no"/>gewicht zwischen großen Gütern und bäuerlichem 
-            <lb xml:id="p001_r_1_tl_2"/>Eigenbesitz herrscht, und das gemeinsame Schicksal alle, 
-            <lb xml:id="p001_r_1_tl_3"/>wie früher gegen Russen und Franzosen, heute zur 
-            <lb xml:id="p001_r_1_tl_4"/>gemeinsamen Abwehr ganz anderer Schwierigkeiten 
-            <lb xml:id="p001_r_1_tl_5"/>und Gefahren vereinigt. Das Land ist nicht reich, – 
-            <lb xml:id="p001_r_1_tl_6"/>man könnte sich angesichts der wohlbestellten Felder, 
-            <lb xml:id="p001_r_1_tl_7"/>der schönen Vieh- und Pferdeherden, darüber täuschen.</p>
-         <p> 
-            <lb xml:id="p001_r_1_tl_8"/>„Acht Monate Winter, vier Monate keinen Som 
-            <lb xml:id="p001_r_1_tl_9" break="no"/>mer — und das nennt die Canaille Vaterland,“ — 
-            <lb xml:id="p001_r_1_tl_10"/>so äußerte sich Napoleon, als er zum erstenmal in Ost 
-            <lb xml:id="p001_r_1_tl_11" break="no"/>preußen einfiel. Und dieses Land hatte damals schon 
-            <lb xml:id="p001_r_1_tl_12"/>ein Jahrhundert schwerster Heimsuchungen hinter sich, 
-            <lb xml:id="p001_r_1_tl_13"/>von der großen Pest im Jahre 1709 bis zum sieben 
-            <lb xml:id="p001_r_1_tl_14"/>jährigen Krieg, als die Russen Ostpreußen vier Jahre 
-            <lb xml:id="p001_r_1_tl_15"/>lang, 1758 bis 1762, besetzt hielten.</p>
-         <p> 
-            <lb xml:id="p001_r_1_tl_17"/>Nach der Verheerung durch die Pest ließ übrigens 
-            <lb xml:id="p001_r_1_tl_16"/>Friedrich Wilhelm I. die Provinz von etwa 30,000 
-            <lb xml:id="p001_r_1_tl_18"/>Kolonisten aus der Schweiz und dem Salzburgerland 
-            <lb xml:id="p001_r_1_tl_19"/>neu besiedeln, und die Namen der protestantischen 
-            <lb xml:id="p001_r_1_tl_20"/>Salzburger, der Kirchlechner, Kreuzthaler, Gschwandter 
-            <lb xml:id="p001_r_1_tl_21"/>Lottermoser und Schweighöfer, findet man noch in 
-            <lb xml:id="p001_r_1_tl_22"/>den nördlichen Teilen der Provinz. — 1807 aber mußte 
-            <lb xml:id="p001_r_1_tl_23"/>das von Aushebungen, langen Winterquartieren, Ab 
-            <lb xml:id="p001_r_1_tl_24" break="no"/>gaben von Vieh, Pferden und Troßknechten aus 
-            <lb xml:id="p001_r_1_tl_25" break="no"/>gesogene Land acht Millionen Franken Kontribution 
-            <lb xml:id="p001_r_1_tl_26"/>in Gold entrichten, — um dann nach der Katastrophe 
-            <lb xml:id="p001_r_1_tl_27"/>an der Beresina abermals von den zurückflutenden 
-            <lb xml:id="p001_r_1_tl_28"/>Truppen Napoleons heimgesucht und gebrandschatzt 
-            <lb xml:id="p001_r_1_tl_29"/>zu werden! 100 Jahre später, 1914, haben bekannt 
-            <lb xml:id="p001_r_1_tl_30" break="no"/>lich die Russen zu Beginn des Weltkrieges in Ost 
-            <lb xml:id="p001_r_1_tl_31" break="no"/>preußen übel gehaust, und der Ruf: „Die Russen 
-            <lb xml:id="p001_r_1_tl_32"/>kommen!" ist wirklich schon geschichtsnotorisch ge 
-            <lb xml:id="p001_r_1_tl_33" break="no"/>worden. Dann wurde Ostpreußen vom Reich ab 
-            <lb xml:id="p001_r_1_tl_34" break="no"/>geschnitten, — nachdem es durch die Abtrennung des 
-            <lb xml:id="p001_r_1_tl_35"/>Memelgebietes und wirtschaftlich wertvoller Teile im 
-            <lb xml:id="p001_r_1_tl_36"/>Südwesten schon arg verstümmelt war.</p>
-         <p> 
-            <lb xml:id="p001_r_1_tl_37"/>Unter solchen Erschwerungen, in so exponierter 
-            <lb xml:id="p001_r_1_tl_38"/>Lage, führen die Bauern Ostpreußens ihr abseitiges 
-            <lb xml:id="p001_r_1_tl_39"/>und arbeitsames Leben. Revolutionen passen nicht 
-            <lb xml:id="p001_r_1_tl_40"/>hierher, — man besinnt sich zu schnell wieder auf die 
-            <lb xml:id="p001_r_1_tl_41"/>eigene außenpolitische Situation, hat sein Gleich 
-            <lb xml:id="p001_r_1_tl_42" break="no"/>gewicht und den innern Frieden zu nötig. Man ist 
-            <lb xml:id="p001_r_1_tl_43"/>konservativ, — und aus guten und ernsten Gründen. 
-            <lb xml:id="p001_r_1_tl_44"/>Wessen Besitz und Leben so oft bedroht und so hart<!--FML: this needs attention (was tagged as "fml" in Transkribus)--></p>
-<!--IIIF Image or Presentation URL?-->
-         <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0223_002.tif/info.json"/>
-         <milestone unit="textregion" xml:id="p002_r"/>         <p> 
-            <lb xml:id="p002_r_tl_1"/> <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->erkämpft ist, der weiß Bestehendes zu schätzen und zu 
-            <lb xml:id="p002_r_tl_2"/>achten, — nichts kann diesem Volk fremder sein als 
-            <lb xml:id="p002_r_tl_3"/>die oberflächliche und dilettantische Neuerungssucht, 
-            <lb xml:id="p002_r_tl_4"/>die beständige Einmischung und Reglementierung, die 
-            <lb xml:id="p002_r_tl_5"/>durch die Parteiorgane der Nationalsozialisten auch 
-            <lb xml:id="p002_r_tl_6"/>hier natürlich ihren Einzug gehalten hat. Die Ab 
-            <lb xml:id="p002_r_tl_7" break="no"/>wehr ist gelassen, so als wisse man, auch dieser 
-            <lb xml:id="p002_r_tl_8"/>Sturm werde vorübergehen, die alten Bedingungen 
-            <lb xml:id="p002_r_tl_9"/>und Gebundenheiten des deutschen Grenzlandes aber 
-            <lb xml:id="p002_r_tl_10"/>würden bleiben. Was über den Wert und die Er 
-            <lb xml:id="p002_r_tl_11" break="no"/>neuerung des Blutes und der Rasse gelehrt wird, 
-            <lb xml:id="p002_r_tl_12"/>kann keinen Eindruck machen in einem Lande, das 
-            <lb xml:id="p002_r_tl_13"/>sich eine sehr eigene kulturelle Tradition, eine sehr 
-            <lb xml:id="p002_r_tl_14"/>echte Verbundenheit mit dem heimatlichen Boden, 
-            <lb xml:id="p002_r_tl_15"/>und eine unerschütterliche, durch Jahrhunderte ge 
-            <lb xml:id="p002_r_tl_16" break="no"/>festigte Schicksalsgemeinschaft des ganzen Volkes ge 
-            <lb xml:id="p002_r_tl_17" break="no"/>schaffen hat.</p>
-         <p> 
-            <lb xml:id="p002_r_tl_18"/>Dieses Land ist schön, — ich habe meine Auf 
-            <lb xml:id="p002_r_tl_19" break="no"/>fassung von den dürftigen Kartoffeläckern und Sümp 
-            <lb xml:id="p002_r_tl_20" break="no"/>fen des fernen Ostpreußens revidiert und aufgegeben, 
-            <lb xml:id="p002_r_tl_21"/>als ich diese Hügel und Buchenwälder, diese frischen 
-            <lb xml:id="p002_r_tl_22"/>Weiden und klaren Bäche unter einem lachenden Him 
-            <lb xml:id="p002_r_tl_23" break="no"/>mel zum erstenmal erblickte. Nichts ist hier „Luxus", 
-            <lb xml:id="p002_r_tl_24"/>— vor allem nicht der Pferdesport, der sonst heute 
-            <lb xml:id="p002_r_tl_25"/>eine Liebhaberei für einen vermögenden Kreis ge 
-            <lb xml:id="p002_r_tl_26" break="no"/>worden ist. Hier braucht man Pferde, — selbst der 
-            <lb xml:id="p002_r_tl_27"/>fähigste Fordwagen würde nach einem Gewitter auf 
-            <lb xml:id="p002_r_tl_28"/>den tiefen Sandwegen versagen. Und man muß rei 
-            <lb xml:id="p002_r_tl_29" break="no"/>ten können, um über die ausgedehnten Koppeln und 
-            <lb xml:id="p002_r_tl_30"/>Wälder zu den einsamen Vorwerken zu gelangen, wo 
-            <lb xml:id="p002_r_tl_31"/>Schafe geschoren oder Kälber verkauft werden. Man 
-            <lb xml:id="p002_r_tl_32"/>lebt, auf großen und kleinen Gütern, ausschließlich 
-            <lb xml:id="p002_r_tl_33"/>von eigener Produktion, und kauft kaum etwas außer 
-            <lb xml:id="p002_r_tl_34"/>Kaffee, Tabak und Zucker. Aber dafür kennt man 
-            <lb xml:id="p002_r_tl_35"/>noch keine neudeutschen Probleme wie Eiermangel 
-            <lb xml:id="p002_r_tl_36"/>und Butterknappheit, und die Berliner Pfingstgäste 
-            <lb xml:id="p002_r_tl_37"/>glaubten sich in das Schlaraffenland des Ueberflusses 
-            <lb xml:id="p002_r_tl_38"/>und in das Paradies des Friedens versetzt ... Mir 
-            <lb xml:id="p002_r_tl_39"/>aber fiel es schwer, mir klar darüber zu bleiben, daß 
-            <lb xml:id="p002_r_tl_40"/>ich nur eine Nachtfahrt von Berlin, und nur ein paar 
-            <lb xml:id="p002_r_tl_41"/>Stunden von Danzig entfernt sei, — ja, daß jener 
-            <lb xml:id="p002_r_tl_42"/>Albdruck politischer Hochspannung kein leerer Spuk 
-            <lb xml:id="p002_r_tl_43"/>und noch lange nicht überwunden sei. Jedoch bleibt 
-            <lb xml:id="p002_r_tl_44"/>der Trost, daß etwas vom besten Deutschtum mir hier 
-            <lb xml:id="p002_r_tl_45"/>begegnet ist, dessen Gültigkeit die Unbill schwerer Zei 
-            <lb xml:id="p002_r_tl_46" break="no"/>ten überdauert hat und sich auch heute daran festigen 
-            <lb xml:id="p002_r_tl_47"/>und sie ruhigen Gemütes überstehen wird.</p>
-      </body>
+ <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0223_facs.xml"> <xi:fallback/> <!--Inclusion path will be adjusted later.--> </xi:include>    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0223_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_2_tl_1"/>Baltisches Tagebuch 
+               <lb xml:id="p001_r_2_tl_2"/>Von <hi rendition="#g">Annemarie Clark</hi></p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"><hi rendition="#g"> 
+                  <lb xml:id="p001_r_2_tl_3"/>Jenseits des Korridors</hi></p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_4"/>Auf einem mächtigen Findlingsblock an der Weg 
+               <lb xml:id="p001_r_2_tl_5" break="no"/>seite erhebt sich ein schlicht gefügtes Kreuz. Es fällt 
+               <lb xml:id="p001_r_2_tl_6"/>nicht auf in diesem katholischen Landstrich, wo in den 
+               <lb xml:id="p001_r_2_tl_7"/>Dörfern und vor den einsamen Höfen in Nischen 
+               <lb xml:id="p001_r_2_tl_8"/>blumengeschmückte Heiligenbilder stehen, und wo ich 
+               <lb xml:id="p001_r_2_tl_9"/>am Pfingstfeiertag die Bauern aus den Toren der 
+               <lb xml:id="p001_r_2_tl_10"/>mächtigen Backsteinkirchen strömen sah. Aber der Mann, 
+               <lb xml:id="p001_r_2_tl_11"/>der in grüner Joppe und Schlapphut neben mir auf 
+               <lb xml:id="p001_r_2_tl_12"/>dem schmalen Bock unseres Gefährts sitzt, zieht die 
+               <lb xml:id="p001_r_2_tl_13"/>Zügel an, bringt die beiden Füchse zum Stehen und 
+               <lb xml:id="p001_r_2_tl_14"/>weist mit dem Peitschenstiel zu dem dunklen Kreuz 
+               <lb xml:id="p001_r_2_tl_15"/>empor. – "Das haben die SA.-Buben kürzlich auch 
+               <lb xml:id="p001_r_2_tl_16"/>umgestürzt, und ein Hakenkreuz auf den Block gemalt. 
+               <lb xml:id="p001_r_2_tl_17"/>Aber die Bauern haben in der nächsten Nacht das 
+               <lb xml:id="p001_r_2_tl_18"/>Kreuz wieder aufgerichtet, und es mit eisernen Klam 
+               <lb xml:id="p001_r_2_tl_19" break="no"/>mern befestigt, wie sie es jetzt auch in den Dorfkirchen 
+               <lb xml:id="p001_r_2_tl_20"/>tun. Und die rote Oelfarbe haben sie auch weggekriegt, 
+               <lb xml:id="p001_r_2_tl_21"/>mit Terpentin ..." – "Ist die Bevölkerung hier so 
+               <lb xml:id="p001_r_2_tl_22"/>fromm?" – Mein Begleiter hebt die Schultern. 
+               <lb xml:id="p001_r_2_tl_23"/>"Früher hat man ja darüber nicht nachgedacht", sagt 
+               <lb xml:id="p001_r_2_tl_24"/>er, – "es war eben selbstverständlich, daß man Sonn 
+               <lb xml:id="p001_r_2_tl_25" break="no"/>tags zur Messe ging. Aber seitdem in jeder Zeitung 
+               <lb xml:id="p001_r_2_tl_26"/>wieder irgendein Sittlichkeitsprozeß gegen einen katho 
+               <lb xml:id="p001_r_2_tl_27" break="no"/>lischen Priester gemeldet wird, und seitdem ein Mäd 
+               <lb xml:id="p001_r_2_tl_28" break="no"/>chen, das einen SS.-Mann heiratet, nicht mehr kirch 
+               <lb xml:id="p001_r_2_tl_29" break="no"/>lich getraut werden darf und ihren Sohn nicht mehr 
+               <lb xml:id="p001_r_2_tl_30"/>christlich taufen soll, – seither werden die Leute Ver 
+               <lb xml:id="p001_r_2_tl_31" break="no"/>teidiger ihres Glaubens, ihrer Kirchen, ihrer Heiligen 
+               <lb xml:id="p001_r_2_tl_32" break="no"/>bilder und Wegkreuze, – genau wie sie in Kriegs 
+               <lb xml:id="p001_r_2_tl_33" break="no"/>zeiten ihre Felder gegen die Russen oder Polen ver 
+               <lb xml:id="p001_r_2_tl_34" break="no"/>teidigt haben." – Die Pferde fallen in Trab, wir 
+               <lb xml:id="p001_r_2_tl_35"/>fahren eine Weile schweigend durch die abendlichen 
+               <lb xml:id="p001_r_2_tl_36"/>Wiesen, die sich auf beiden Seiten des Landwegs bis 
+               <lb xml:id="p001_r_2_tl_37"/>zu einem weiten und klaren Horizont ausbreiten. 
+               <lb xml:id="p001_r_2_tl_38"/>Dann biegen wir in eine Kastanienallee ein, vorbei an 
+               <lb xml:id="p001_r_2_tl_39"/>zwei Reihen niedriger Häuser, und halten vor dem 
+               <lb xml:id="p001_r_2_tl_40"/>Portal eines jener schönen, gelb oder rosa getünchten 
+               <lb xml:id="p001_r_2_tl_41"/>Herrenhäuser, die mit ihren Barockgiebeln und maß 
+               <lb xml:id="p001_r_2_tl_42" break="no"/>voll ornamentierten Fenstern einen angenehmen Kon
+               <milestone unit="textregion" xml:id="p001_r_3"/> 
+               <lb xml:id="p001_r_3_tl_1" break="no"/>trast zu den strengeren preußischen Schlössern jenseits 
+               <lb xml:id="p001_r_3_tl_2"/>der alten Polengrenze bilden. Das Dorf gehört zum 
+               <lb xml:id="p001_r_3_tl_3"/>Gut, – und während mein Begleiter, – er ist Land 
+               <lb xml:id="p001_r_3_tl_4" break="no"/>arzt, – seinen Besuch im Schloß macht, führt mich der 
+               <lb xml:id="p001_r_3_tl_5"/>junge Inspektor durch den großen Komplex der Wirt 
+               <lb xml:id="p001_r_3_tl_6" break="no"/>schaftsgebäude, der riesigen Ställe und Scheunen, und 
+               <lb xml:id="p001_r_3_tl_7"/>zu den Weiden, wo neben friedlichen Schafherden und 
+               <lb xml:id="p001_r_3_tl_8"/>schwarz-weißem Vieh in gesonderten Koppeln etwa 
+               <lb xml:id="p001_r_3_tl_9"/>fünfzig ein- und zweijährige Fohlen grasen. Es ist ein 
+               <lb xml:id="p001_r_3_tl_10"/>schöner Anblick, und der Inspektor zeigt mir mit 
+               <lb xml:id="p001_r_3_tl_11"/>Stolz einzelne Pferde, die, selbst gezogen, wie er 
+               <lb xml:id="p001_r_3_tl_12"/>sagt, "in Trakehnen[gemeint ist wohl weniger der Ort als das in der Nähe befindliche preussische Hauptgestütt] wohl ihre drei- oder viertausend 
+               <lb xml:id="p001_r_3_tl_13"/>Mark wert wären." – Auf dem Hof herrscht Sonn 
+               <lb xml:id="p001_r_3_tl_14" break="no"/>tagsruhe, das Dorf ist beinahe ausgestorben. Der 
+               <lb xml:id="p001_r_3_tl_15"/>junge Mann erklärt es: "Sie mußten alle hinüber in 
+               <lb xml:id="p001_r_3_tl_16"/>das Kreisstädtchen, – dort gibt es heute "Kraft durch 
+               <lb xml:id="p001_r_3_tl_17"/>Freude". Und da müssen sich nun also unsere Arbeiter 
+               <lb xml:id="p001_r_3_tl_18"/>Künstler aus Königsberg anhören, ob sie Lust haben 
+               <lb xml:id="p001_r_3_tl_19"/>oder nicht. Und nächstens soll hier ein Klub für Lei 
+               <lb xml:id="p001_r_3_tl_20" break="no"/>besübungen gegründet werden, damit die Bauern 
+               <lb xml:id="p001_r_3_tl_21"/>abends, wenn sie von den Feldern und aus dem Stall 
+               <lb xml:id="p001_r_3_tl_22"/>kommen, gesunden Wehrsport treiben! – Sie können 
+               <lb xml:id="p001_r_3_tl_23"/>sich die Sache ja ansehen, wenn Sie mit dem Doktor 
+               <lb xml:id="p001_r_3_tl_24"/>ins Städtchen zurückfahren!" – Der Doktor aber, den 
+               <lb xml:id="p001_r_3_tl_25"/>ich über "Kraft durch Freude" auf dem Heimweg be 
+               <lb xml:id="p001_r_3_tl_26" break="no"/>frage, nickt trübe: "Es kann ja auch sein", sagt er, 
+               <lb xml:id="p001_r_3_tl_27"/>"daß ich zu alt bin. Vieles, was von der Partei ge 
+               <lb xml:id="p001_r_3_tl_28" break="no"/>macht wird, ist vielleicht gar nicht so schlecht. Der Ar 
+               <lb xml:id="p001_r_3_tl_29" break="no"/>beitsdienst zum Beispiel, – und wohl auch dieses 
+               <lb xml:id="p001_r_3_tl_30"/>"Kraft durch Freude", und manches andere. Aber sehen 
+               <lb xml:id="p001_r_3_tl_31"/>Sie sich die Leute an, die Uniform tragen und Partei 
+               <lb xml:id="p001_r_3_tl_32" break="no"/>ämter bekleiden! Da sitzt der Kern des Uebels. Daß 
+               <lb xml:id="p001_r_3_tl_33"/>viele von ihnen jung sind, dagegen würde ich noch 
+               <lb xml:id="p001_r_3_tl_34"/>nichts einwenden. Revolutionäre Bewegungen werden 
+               <lb xml:id="p001_r_3_tl_35"/>immer von der Jugend geführt. Aber sie sind Dilet 
+               <lb xml:id="p001_r_3_tl_36" break="no"/>tanten, sie blamieren sich ja unaufhörlich, und dafür 
+               <lb xml:id="p001_r_3_tl_37"/>rächen sie sich dann an den Tüchtigen."</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_38"/>"Dieser Inspektor", frage ich, "war doch ein ganz 
+               <lb xml:id="p001_r_3_tl_39"/>junger Mann. Warum ist der so kritisch, warum ist er 
+               <lb xml:id="p001_r_3_tl_40"/>nicht mit dabei?" – Erstaunt sieht der Doktor mich 
+               <lb xml:id="p001_r_3_tl_41"/>an. "Sie irren sich", sagt er dann, – "dieser junge 
+               <lb xml:id="p001_r_3_tl_42"/>Mann ist SA.-Führer. Früher mußte man sich sogar 
+               <lb xml:id="p001_r_3_tl_43"/>vor ihm in Acht nehmen. Jetzt hat er allerdings ein 
+               <lb xml:id="p001_r_3_tl_44"/>paar Erfahrungen hinter sich. Sie haben ihn vorüber 
+               <lb xml:id="p001_r_3_tl_45" break="no"/>gehend aus der Partei gestoßen, weil er einen Arbeiter
+               <milestone unit="textregion" xml:id="p001_r_4"/> 
+               <lb xml:id="p001_r_4_tl_1"/>anzeigte, der Holz gestohlen hat. Dieser Arbeiter war 
+               <lb xml:id="p001_r_4_tl_2"/>SA.-Unterführer, daher war die Anzeige des Inspek 
+               <lb xml:id="p001_r_4_tl_3" break="no"/>tors "parteiwidriges Verhalten ..."</p>
+            <p> 
+               <lb xml:id="p001_r_4_tl_4"/>Im Städtchen, das mit seinem Schloß des Deut 
+               <lb xml:id="p001_r_4_tl_5" break="no"/>schen Ordens, den ragenden roten Türmen seiner 
+               <lb xml:id="p001_r_4_tl_6"/>Ordenskirche, den grünen Wällen jenseits des kleinen 
+               <lb xml:id="p001_r_4_tl_7"/>Flusses, einen fast ehrwürdig-gesicherten Eindruck 
+               <lb xml:id="p001_r_4_tl_8"/>macht, in diesem Städtchen herrscht heute also "Kraft 
+               <lb xml:id="p001_r_4_tl_9"/>durch Freude". Und zum ersten Mal, seitdem ich Dan 
+               <lb xml:id="p001_r_4_tl_10" break="no"/>zig verlassen habe, sehe ich wieder Hakenkreuzfahnen, 
+               <lb xml:id="p001_r_4_tl_11"/>weiße Transparente mit Aufrufen und Wahlsprüchen, 
+               <lb xml:id="p001_r_4_tl_12"/>Aufzüge unformierter Kinder, das typische Getriebe 
+               <lb xml:id="p001_r_4_tl_13"/>der SA.-Männer in den kleinen Kaffeehäusern.</p>
+            <p> 
+               <lb xml:id="p001_r_4_tl_14"/>Hier, im katholischen Ermland, hat die NSDAP. [der Punkt nach NSDAP scheint kein Fehler sondern damals üblich, siehe auch 'Studenten in vier Ländern', smf_226] 
+               <lb xml:id="p001_r_4_tl_15"/>keinen günstigen Boden. Die Grenze der katholischen 
+               <lb xml:id="p001_r_4_tl_16"/>Konfession verläuft genau entsprechend der alten 
+               <lb xml:id="p001_r_4_tl_17"/>Grenze Polens, – denn dieses Gebiet war, seit der 
+               <lb xml:id="p001_r_4_tl_18"/>Eroberung und Kolonisation durch den Deutschen 
+               <lb xml:id="p001_r_4_tl_19"/>Orden, d. h. also seit dem 13. Jahrhundert als be 
+               <lb xml:id="p001_r_4_tl_20" break="no"/>sonderer Besitz der Kurie vorbehalten, es blieb katho 
+               <lb xml:id="p001_r_4_tl_21" break="no"/>lisch, und gehörte bis zur zweiten polnischen Teilung 
+               <lb xml:id="p001_r_4_tl_22"/>1792 zu Polen. Aber auch jenseits dieser Grenze, in 
+               <lb xml:id="p001_r_4_tl_23"/>der ganzen ostpreußischen Provinz herrscht eine Atmo 
+               <lb xml:id="p001_r_4_tl_24" break="no"/>sphäre stoischer Ruhe, friedfertigen Fleißes, lang 
+               <lb xml:id="p001_r_4_tl_25" break="no"/>mütiger Geduld gegenüber den heutigen Schwierig 
+               <lb xml:id="p001_r_4_tl_26" break="no"/>keiten und Zuständen, die sich angenehm von der poli 
+               <lb xml:id="p001_r_4_tl_27" break="no"/>tischen Hochspannung Danzigs und von dem Bild 
+               <lb xml:id="p001_r_4_tl_28"/>unterscheidet, das man sich, dank der völkischen Propa 
+               <lb xml:id="p001_r_4_tl_29" break="no"/>ganda, vom bedrohten Grenzdeutschtum macht. Die 
+               <lb xml:id="p001_r_4_tl_30"/>Bevölkerung Ostpreußens hat sich im Verlauf einer 
+               <lb xml:id="p001_r_4_tl_31"/>wechselvollen, an kriegerischen Einfällen, Besetzungen, 
+               <lb xml:id="p001_r_4_tl_32"/>und politischen Veränderungen reichen Geschichte ge 
+               <lb xml:id="p001_r_4_tl_33" break="no"/>festigt und gegen alle Zufälle abgehärtet. Die Ent 
+               <lb xml:id="p001_r_4_tl_34" break="no"/>fernung vom Reich, sogar die Schaffung des sonst so 
+               <lb xml:id="p001_r_4_tl_35"/>problematischen, für dieses Land gewiß schwer zu er 
+               <lb xml:id="p001_r_4_tl_36" break="no"/>tragenden "Polnischen Korridors", mag dazu bei 
+               <lb xml:id="p001_r_4_tl_37" break="no"/>getragen haben, die Ereignisse ihrer aktuellen Schärfe 
+               <lb xml:id="p001_r_4_tl_38"/>zu entkleiden, die Gemüter zu beruhigen, und die 
+               <lb xml:id="p001_r_4_tl_39"/>Jahrhunderte alte Stellung Ostpreußens als Vor 
+               <lb xml:id="p001_r_4_tl_40" break="no"/>posten des deutschen Reiches, als "Wacht im Osten", 
+               <lb xml:id="p001_r_4_tl_41"/>hat seine Bewohner zu tapfern Soldaten, aber auch 
+               <lb xml:id="p001_r_4_tl_42"/>zu Fatalisten mit guten Nerven erzogen. Das gilt für 
+               <lb xml:id="p001_r_4_tl_43"/>"Herren" und "Bauern", – wie ja auch in der Land 
+               <lb xml:id="p001_r_4_tl_44" break="no"/>verteilung und Bewirtschaftung ein günstiges Gleich
+               <milestone unit="textregion" xml:id="p001_r_1"/> 
+               <lb xml:id="p001_r_1_tl_1" break="no"/>gewicht zwischen großen Gütern und bäuerlichem 
+               <lb xml:id="p001_r_1_tl_2"/>Eigenbesitz herrscht, und das gemeinsame Schicksal alle, 
+               <lb xml:id="p001_r_1_tl_3"/>wie früher gegen Russen und Franzosen, heute zur 
+               <lb xml:id="p001_r_1_tl_4"/>gemeinsamen Abwehr ganz anderer Schwierigkeiten 
+               <lb xml:id="p001_r_1_tl_5"/>und Gefahren vereinigt. Das Land ist nicht reich, – 
+               <lb xml:id="p001_r_1_tl_6"/>man könnte sich angesichts der wohlbestellten Felder, 
+               <lb xml:id="p001_r_1_tl_7"/>der schönen Vieh- und Pferdeherden, darüber täuschen.</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_8"/>"Acht Monate Winter, vier Monate keinen Som 
+               <lb xml:id="p001_r_1_tl_9" break="no"/>mer – und das nennt die Canaille Vaterland," – 
+               <lb xml:id="p001_r_1_tl_10"/>so äußerte sich Napoleon, als er zum erstenmal in Ost 
+               <lb xml:id="p001_r_1_tl_11" break="no"/>preußen einfiel. Und dieses Land hatte damals schon 
+               <lb xml:id="p001_r_1_tl_12"/>ein Jahrhundert schwerster Heimsuchungen hinter sich, 
+               <lb xml:id="p001_r_1_tl_13"/>von der großen Pest im Jahre 1709 bis zum sieben 
+               <lb xml:id="p001_r_1_tl_14"/>jährigen Krieg, als die Russen Ostpreußen vier Jahre 
+               <lb xml:id="p001_r_1_tl_15"/>lang, 1758 bis 1762, besetzt hielten.</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_17"/>Nach der Verheerung durch die Pest ließ übrigens 
+               <lb xml:id="p001_r_1_tl_16"/>Friedrich Wilhelm I. die Provinz von etwa 30,000 
+               <lb xml:id="p001_r_1_tl_18"/>Kolonisten aus der Schweiz und dem Salzburgerland 
+               <lb xml:id="p001_r_1_tl_19"/>neu besiedeln, und die Namen der protestantischen 
+               <lb xml:id="p001_r_1_tl_20"/>Salzburger, der Kirchlechner, Kreuzthaler, Gschwandter 
+               <lb xml:id="p001_r_1_tl_21"/>Lottermoser und Schweighöfer, findet man noch in 
+               <lb xml:id="p001_r_1_tl_22"/>den nördlichen Teilen der Provinz. – 1807 aber mußte 
+               <lb xml:id="p001_r_1_tl_23"/>das von Aushebungen, langen Winterquartieren, Ab 
+               <lb xml:id="p001_r_1_tl_24" break="no"/>gaben von Vieh, Pferden und Troßknechten aus 
+               <lb xml:id="p001_r_1_tl_25" break="no"/>gesogene Land acht Millionen Franken Kontribution 
+               <lb xml:id="p001_r_1_tl_26"/>in Gold entrichten, – um dann nach der Katastrophe 
+               <lb xml:id="p001_r_1_tl_27"/>an der Beresina abermals von den zurückflutenden 
+               <lb xml:id="p001_r_1_tl_28"/>Truppen Napoleons heimgesucht und gebrandschatzt 
+               <lb xml:id="p001_r_1_tl_29"/>zu werden! 100 Jahre später, 1914, haben bekannt 
+               <lb xml:id="p001_r_1_tl_30" break="no"/>lich die Russen zu Beginn des Weltkrieges in Ost 
+               <lb xml:id="p001_r_1_tl_31" break="no"/>preußen übel gehaust, und der Ruf: "Die Russen 
+               <lb xml:id="p001_r_1_tl_32"/>kommen!" ist wirklich schon geschichtsnotorisch ge 
+               <lb xml:id="p001_r_1_tl_33" break="no"/>worden. Dann wurde Ostpreußen vom Reich ab 
+               <lb xml:id="p001_r_1_tl_34" break="no"/>geschnitten, – nachdem es durch die Abtrennung des 
+               <lb xml:id="p001_r_1_tl_35"/>Memelgebietes und wirtschaftlich wertvoller Teile im 
+               <lb xml:id="p001_r_1_tl_36"/>Südwesten schon arg verstümmelt war.</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_37"/>Unter solchen Erschwerungen, in so exponierter 
+               <lb xml:id="p001_r_1_tl_38"/>Lage, führen die Bauern Ostpreußens ihr abseitiges 
+               <lb xml:id="p001_r_1_tl_39"/>und arbeitsames Leben. Revolutionen passen nicht 
+               <lb xml:id="p001_r_1_tl_40"/>hierher, – man besinnt sich zu schnell wieder auf die 
+               <lb xml:id="p001_r_1_tl_41"/>eigene außenpolitische Situation, hat sein Gleich 
+               <lb xml:id="p001_r_1_tl_42" break="no"/>gewicht und den innern Frieden zu nötig. Man ist 
+               <lb xml:id="p001_r_1_tl_43"/>konservativ, – und aus guten und ernsten Gründen. 
+               <lb xml:id="p001_r_1_tl_44"/>Wessen Besitz und Leben so oft bedroht und so hart<!--FML: this needs attention (was tagged as "fml" in Transkribus)--></p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0223_002.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p> 
+               <lb xml:id="p002_r_tl_1"/> <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->erkämpft ist, der weiß Bestehendes zu schätzen und zu 
+               <lb xml:id="p002_r_tl_2"/>achten, – nichts kann diesem Volk fremder sein als 
+               <lb xml:id="p002_r_tl_3"/>die oberflächliche und dilettantische Neuerungssucht, 
+               <lb xml:id="p002_r_tl_4"/>die beständige Einmischung und Reglementierung, die 
+               <lb xml:id="p002_r_tl_5"/>durch die Parteiorgane der Nationalsozialisten auch 
+               <lb xml:id="p002_r_tl_6"/>hier natürlich ihren Einzug gehalten hat. Die Ab 
+               <lb xml:id="p002_r_tl_7" break="no"/>wehr ist gelassen, so als wisse man, auch dieser 
+               <lb xml:id="p002_r_tl_8"/>Sturm werde vorübergehen, die alten Bedingungen 
+               <lb xml:id="p002_r_tl_9"/>und Gebundenheiten des deutschen Grenzlandes aber 
+               <lb xml:id="p002_r_tl_10"/>würden bleiben. Was über den Wert und die Er 
+               <lb xml:id="p002_r_tl_11" break="no"/>neuerung des Blutes und der Rasse gelehrt wird, 
+               <lb xml:id="p002_r_tl_12"/>kann keinen Eindruck machen in einem Lande, das 
+               <lb xml:id="p002_r_tl_13"/>sich eine sehr eigene kulturelle Tradition, eine sehr 
+               <lb xml:id="p002_r_tl_14"/>echte Verbundenheit mit dem heimatlichen Boden, 
+               <lb xml:id="p002_r_tl_15"/>und eine unerschütterliche, durch Jahrhunderte ge 
+               <lb xml:id="p002_r_tl_16" break="no"/>festigte Schicksalsgemeinschaft des ganzen Volkes ge 
+               <lb xml:id="p002_r_tl_17" break="no"/>schaffen hat.</p>
+            <p> 
+               <lb xml:id="p002_r_tl_18"/>Dieses Land ist schön, – ich habe meine Auf 
+               <lb xml:id="p002_r_tl_19" break="no"/>fassung von den dürftigen Kartoffeläckern und Sümp 
+               <lb xml:id="p002_r_tl_20" break="no"/>fen des fernen Ostpreußens revidiert und aufgegeben, 
+               <lb xml:id="p002_r_tl_21"/>als ich diese Hügel und Buchenwälder, diese frischen 
+               <lb xml:id="p002_r_tl_22"/>Weiden und klaren Bäche unter einem lachenden Him 
+               <lb xml:id="p002_r_tl_23" break="no"/>mel zum erstenmal erblickte. Nichts ist hier "Luxus", 
+               <lb xml:id="p002_r_tl_24"/>– vor allem nicht der Pferdesport, der sonst heute 
+               <lb xml:id="p002_r_tl_25"/>eine Liebhaberei für einen vermögenden Kreis ge 
+               <lb xml:id="p002_r_tl_26" break="no"/>worden ist. Hier braucht man Pferde, – selbst der 
+               <lb xml:id="p002_r_tl_27"/>fähigste Fordwagen würde nach einem Gewitter auf 
+               <lb xml:id="p002_r_tl_28"/>den tiefen Sandwegen versagen. Und man muß rei 
+               <lb xml:id="p002_r_tl_29" break="no"/>ten können, um über die ausgedehnten Koppeln und 
+               <lb xml:id="p002_r_tl_30"/>Wälder zu den einsamen Vorwerken zu gelangen, wo 
+               <lb xml:id="p002_r_tl_31"/>Schafe geschoren oder Kälber verkauft werden. Man 
+               <lb xml:id="p002_r_tl_32"/>lebt, auf großen und kleinen Gütern, ausschließlich 
+               <lb xml:id="p002_r_tl_33"/>von eigener Produktion, und kauft kaum etwas außer 
+               <lb xml:id="p002_r_tl_34"/>Kaffee, Tabak und Zucker. Aber dafür kennt man 
+               <lb xml:id="p002_r_tl_35"/>noch keine neudeutschen Probleme wie Eiermangel 
+               <lb xml:id="p002_r_tl_36"/>und Butterknappheit, und die Berliner Pfingstgäste 
+               <lb xml:id="p002_r_tl_37"/>glaubten sich in das Schlaraffenland des Ueberflusses 
+               <lb xml:id="p002_r_tl_38"/>und in das Paradies des Friedens versetzt ... Mir 
+               <lb xml:id="p002_r_tl_39"/>aber fiel es schwer, mir klar darüber zu bleiben, daß 
+               <lb xml:id="p002_r_tl_40"/>ich nur eine Nachtfahrt von Berlin, und nur ein paar 
+               <lb xml:id="p002_r_tl_41"/>Stunden von Danzig entfernt sei, – ja, daß jener 
+               <lb xml:id="p002_r_tl_42"/>Albdruck politischer Hochspannung kein leerer Spuk 
+               <lb xml:id="p002_r_tl_43"/>und noch lange nicht überwunden sei. Jedoch bleibt 
+               <lb xml:id="p002_r_tl_44"/>der Trost, daß etwas vom besten Deutschtum mir hier 
+               <lb xml:id="p002_r_tl_45"/>begegnet ist, dessen Gültigkeit die Unbill schwerer Zei 
+               <lb xml:id="p002_r_tl_46" break="no"/>ten überdauert hat und sich auch heute daran festigen 
+               <lb xml:id="p002_r_tl_47"/>und sie ruhigen Gemütes überstehen wird.</p>
+</div>
+       </body>
     </text>
  </TEI>
