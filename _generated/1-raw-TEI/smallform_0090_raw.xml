@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xml:id="smallform_0090"
      type="dseas-smallform">
@@ -18,12 +18,32 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <p/>
+            <bibl corresp="smallform_0090">
+               <persName/>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
          <textClass>
             <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
                <list>
                   <item/>
                </list>
@@ -31,19 +51,23 @@
          </textClass>
       </profileDesc>
    </teiHeader>
-   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0090_facs.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0090_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
    <text>
-      <body><!--IIIF Image or Presentation URL?-->
-         <pb xml:id="smallform_0090_001"
-             facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0090_001.tif/info.json"/>
-         <milestone unit="textregion" xml:id="smallform_0090_001_r_2"/>
-         <lb xml:id="smallform_0090_001_r_2_tl_1"/>Ukheidir
-<lb xml:id="smallform_0090_001_r_2_tl_2"/>Von Annemarie Schwarzenbach.<CONV tag="p">
+      <body>
+         <div type="smallform">
+            <pb xml:id="smallform_0090_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0090_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0090_001_r_2"/>
+            <lb xml:id="smallform_0090_001_r_2_tl_1"/>Ukheidir
+<lb xml:id="smallform_0090_001_r_2_tl_2"/>Von <CONV tag="g">Annemarie Schwarzenbach</CONV>.<CONV tag="p">
 <lb xml:id="smallform_0090_001_r_2_tl_3"/>Wir waren am frühen Vormittag in der heiligen
-<lb xml:id="smallform_0090_001_r_2_tl_4"/>Stadt \g\Kerbala\:g\ — der Begräbnisstadt der Schiitten
+<lb xml:id="smallform_0090_001_r_2_tl_4"/>Stadt <CONV tag="g">Kerbala</CONV> — der Begräbnisstadt der Schiitten
 <lb xml:id="smallform_0090_001_r_2_tl_5"/>— eingetroffen und tranken im Hause des Mutasarrif
 <lb xml:id="smallform_0090_001_r_2_tl_6"/>Kaffee, die Gendarmen umstanden uns und berieten
-<lb xml:id="smallform_0090_001_r_2_tl_7"/>mit uns, ob es möglich sei, nach \g\Ukheidir\:g\ hinaus¬
+<lb xml:id="smallform_0090_001_r_2_tl_7"/>mit uns, ob es möglich sei, nach <CONV tag="g">Ukheidir</CONV> hinaus¬
 <lb xml:id="smallform_0090_001_r_2_tl_8"/>zufahren. Ukheidir ist ein Schloß, welches mitten in
 <lb xml:id="smallform_0090_001_r_2_tl_9"/>der Wüste liegt — und die Wüste ist um diese Jahres¬
 <lb xml:id="smallform_0090_001_r_2_tl_10"/>zeit eine unsichere Landstraße: ein Regenfall genügt,
@@ -79,7 +103,7 @@
 <lb xml:id="smallform_0090_001_r_2_tl_40"/>darauf kam uns auch ein Totentransport entgegen:
 <lb xml:id="smallform_0090_001_r_2_tl_41"/>ein offenes Auto, über dessen Türen die Leiche in
 <lb xml:id="smallform_0090_001_r_2_tl_42"/>einen Teppich gewickelt und auf ein schmales Brett<milestone unit="textregion" xml:id="smallform_0090_001_r_3"/>
-         <lb xml:id="smallform_0090_001_r_3_tl_1"/>geschnallt, quer gelegt war und beiderseits beträchtlich
+            <lb xml:id="smallform_0090_001_r_3_tl_1"/>geschnallt, quer gelegt war und beiderseits beträchtlich
 <lb xml:id="smallform_0090_001_r_3_tl_2"/>hinausragte.</CONV><CONV tag="p">
 <lb xml:id="smallform_0090_001_r_3_tl_3"/>Das war, für diesmal, unsere letzte Begegnung.
 <lb xml:id="smallform_0090_001_r_3_tl_4"/>Die Sonne hatte bereits ihren höchsten Stand er¬
@@ -111,7 +135,7 @@
 <lb xml:id="smallform_0090_001_r_3_tl_30"/>eigenen Radspur bis dort, wo wir die andere Spur
 <lb xml:id="smallform_0090_001_r_3_tl_31"/>verlassen hatten, und stellten fest, daß wir einen Halb¬
 <lb xml:id="smallform_0090_001_r_3_tl_32"/>kreis beschrieben hatten.</CONV><CONV tag="p">
-<lb xml:id="smallform_0090_001_r_3_tl_33"/>Man sah \g\Ukheidir\:g\ bald darauf am Horizont
+<lb xml:id="smallform_0090_001_r_3_tl_33"/>Man sah <CONV tag="g">Ukheidir</CONV> bald darauf am Horizont
 <lb xml:id="smallform_0090_001_r_3_tl_34"/>auftauchen: das dunkle, lichtumflossene Quadrat seiner
 <lb xml:id="smallform_0090_001_r_3_tl_35"/>Mauern, einsam im unendlichen Umkreis, bereitete
 <lb xml:id="smallform_0090_001_r_3_tl_36"/>uns die gleiche Ueberraschung wie vor 20 Jahren Miß
@@ -123,7 +147,7 @@
 <lb xml:id="smallform_0090_001_r_3_tl_42"/>berichten, in den "Mémoires de l'Institut Français
 <lb xml:id="smallform_0090_001_r_3_tl_43"/>d'Archéologie Orientale du Caire" veröffentlichte. 1910
 <lb xml:id="smallform_0090_001_r_3_tl_44"/>besuchte dann Oskar Reuter mit einigen Mitgliedern<milestone unit="textregion" xml:id="smallform_0090_001_r_4"/>
-         <lb xml:id="smallform_0090_001_r_4_tl_1"/>der deutschen Babylon=Expedition Ukheidir, ihre aus¬
+            <lb xml:id="smallform_0090_001_r_4_tl_1"/>der deutschen Babylon=Expedition Ukheidir, ihre aus¬
 <lb xml:id="smallform_0090_001_r_4_tl_2"/>führliche Publikation erschien als 20. Wissenschaft. Ver¬
 <lb xml:id="smallform_0090_001_r_4_tl_3"/>öffentlichung der Deutschen Orient=Gesellschaft.</CONV><CONV tag="p">
 <lb xml:id="smallform_0090_001_r_4_tl_4"/>Man sollte annehmen, daß ein Bauwerk von der
@@ -168,7 +192,7 @@
 <lb xml:id="smallform_0090_001_r_4_tl_43"/>guten Erhaltungszustand, bekannt ist. Es besteht aus
 <lb xml:id="smallform_0090_001_r_4_tl_44"/>einer äußeren quadratischen Mauer von 169 Metern
 <lb xml:id="smallform_0090_001_r_4_tl_45"/>Seitenlänge, mit vier Toren, von denen das Nordtor<milestone unit="textregion" xml:id="smallform_0090_001_r_1"/>
-         <lb xml:id="smallform_0090_001_r_1_tl_1"/>das bedeutendste ist, und insgesamt 44 Türmen. Die
+            <lb xml:id="smallform_0090_001_r_1_tl_1"/>das bedeutendste ist, und insgesamt 44 Türmen. Die
 <lb xml:id="smallform_0090_001_r_1_tl_2"/>Mauer ist zwei Stockwerke hoch und enthält im Ober¬
 <lb xml:id="smallform_0090_001_r_1_tl_3"/>geschoß einen ringsum laufenden gedeckten Wehrgang.
 <lb xml:id="smallform_0090_001_r_1_tl_4"/>Im Inneren dieses starken Mauerrings steht der recht¬
@@ -212,10 +236,10 @@
 <lb xml:id="smallform_0090_001_r_1_tl_42"/>vollständig unter persischem Einfluß stand, und daß
 <lb xml:id="smallform_0090_001_r_1_tl_43"/>wiederum einzelne Teile von Ukheidir, besonders die
 <lb xml:id="smallform_0090_001_r_1_tl_44"/>offenene Kuppel des Nordtors, der sassanidischen
-<lb xml:id="smallform_0090_001_r_1_tl_45"/>Architektur noch nicht vertraut waren. Weder die tech¬<!--IIIF Image or Presentation URL?--><pb xml:id="smallform_0090_002"
-             facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0090_002.tif/info.json"/>
-         <milestone unit="textregion" xml:id="smallform_0090_002_r"/>
-         <lb xml:id="smallform_0090_002_r_tl_1"/>nischen Angaben der deutschen Publikation, noch die
+<lb xml:id="smallform_0090_001_r_1_tl_45"/>Architektur noch nicht vertraut waren. Weder die tech¬<pb xml:id="smallform_0090_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0090_002.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0090_002_r"/>
+            <lb xml:id="smallform_0090_002_r_tl_1"/>nischen Angaben der deutschen Publikation, noch die
 <lb xml:id="smallform_0090_002_r_tl_2"/>architektonischen und historischen Argumente von
 <lb xml:id="smallform_0090_002_r_tl_3"/>Gertrude Bell machen es wahrscheinlich, daß Ukheidir
 <lb xml:id="smallform_0090_002_r_tl_4"/>einer späteren islamischen Periode angehöre. Gehört
@@ -261,7 +285,7 @@
 <lb xml:id="smallform_0090_002_r_tl_44"/>Als der Wagen wieder befreit auf festem Boden
 <lb xml:id="smallform_0090_002_r_tl_45"/>stand, luden uns die Beduinen in ihre Zelte zu einem
 <lb xml:id="smallform_0090_002_r_tl_46"/>Mahl ein; wir erklärten ihnen aber, daß wir zu un¬<milestone unit="textregion" xml:id="smallform_0090_002_r_2"/>
-         <lb xml:id="smallform_0090_002_r_2_tl_1"/>serem Bedauern keine Zeit hätten — ein Grund, der
+            <lb xml:id="smallform_0090_002_r_2_tl_1"/>serem Bedauern keine Zeit hätten — ein Grund, der
 <lb xml:id="smallform_0090_002_r_2_tl_2"/>einem Araber allerdings nur als absurde Laune er¬
 <lb xml:id="smallform_0090_002_r_2_tl_3"/>scheint. Sie fanden sich aber damit ab, und führten
 <lb xml:id="smallform_0090_002_r_2_tl_4"/>uns in das Schloß, als dessen Herren und Besitzer sie
@@ -289,6 +313,7 @@
 <lb xml:id="smallform_0090_002_r_2_tl_26"/>auf ihren heiligen Häuptern sammelten. Gleich darauf
 <lb xml:id="smallform_0090_002_r_2_tl_27"/>befanden wir uns, ernüchtert, in den lauten Straßen
 <lb xml:id="smallform_0090_002_r_2_tl_28"/>der Stadt und vor dem Hause des Mutasarrif, unseres
-<lb xml:id="smallform_0090_002_r_2_tl_29"/>besorgten Gastgebers. —</CONV></body>
+<lb xml:id="smallform_0090_002_r_2_tl_29"/>besorgten Gastgebers. —</CONV></div>
+      </body>
    </text>
 </TEI>
