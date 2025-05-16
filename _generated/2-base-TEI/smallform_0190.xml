@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0190" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0190#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0190</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0190"> 
+               <persName/>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+ <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0190_facs.xml"> <xi:fallback/> <!--Inclusion path will be adjusted later.--> </xi:include>    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0190_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_tl_1"/>Ist Roosevelt Diktator? 
+               <lb xml:id="p001_r_tl_2"/>Cl. <hi rendition="#g">New York</hi></p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">, im November.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_3"/>Die Wiederwahl Franklin <hi rendition="#g">D. Roosevelts</hi> zum 
+               <lb xml:id="p001_r_tl_4"/>Präsidenten der Vereinigten Staaten wurde von 
+               <lb xml:id="p001_r_tl_5"/>den ausländischen Regierungen und von der Welt 
+               <lb xml:id="p001_r_tl_6" break="no"/>presse mit einer begeisterten <hi rendition="#g">Zustimmung</hi> be 
+               <lb xml:id="p001_r_tl_7" break="no"/>grüßt, die über das gewöhnliche Maß diplomatischer 
+               <lb xml:id="p001_r_tl_8"/>Höflichkeit weit hinausging. Jede Regierung ver 
+               <lb xml:id="p001_r_tl_9" break="no"/>stand es sonderbarerweise, in diesem überlegenen 
+               <lb xml:id="p001_r_tl_10"/>Wahlsieg des demokratischen Präsidenten einen 
+               <lb xml:id="p001_r_tl_11"/>Sieg ihrer eigenen Prinzipien zu erblicken. Sovjet 
+               <lb xml:id="p001_r_tl_12" break="no"/>rußland argumentierte, daß ein Sieg der fort 
+               <lb xml:id="p001_r_tl_13" break="no"/>schrittlicheren von den beiden kapitalistischen Par 
+               <lb xml:id="p001_r_tl_14" break="no"/>teien Amerikas der nackten Reaktion unter einem 
+               <lb xml:id="p001_r_tl_15"/>republikanischen Präsidenten vorzuziehen sei. Da 
+               <lb xml:id="p001_r_tl_16" break="no"/>gegen erklärte die italienische Presse, das ameri 
+               <lb xml:id="p001_r_tl_17" break="no"/>kanische Volk habe durch die Wahl vom 3. No 
+               <lb xml:id="p001_r_tl_18" break="no"/>vember seine Zustimmung zu einer Regierung aus 
+               <lb xml:id="p001_r_tl_19" break="no"/>gedrückt, die man in Europa als Diktatur bezeichnen 
+               <lb xml:id="p001_r_tl_20"/>würde, und die die Konzentration der politischen 
+               <lb xml:id="p001_r_tl_21"/>und wirtschaftlichen Macht in der Hand eines Man 
+               <lb xml:id="p001_r_tl_22" break="no"/>nes zum Ziel habe. Aehnlich erblicken die offiziellen 
+               <lb xml:id="p001_r_tl_23"/>Blätter des Dritten Reichs in der überwältigenden 
+               <lb xml:id="p001_r_tl_24"/>Majorität für Roosevelt einen Triumph des Führer 
+               <lb xml:id="p001_r_tl_25" break="no"/>prinzips über den flauen Liberalismus der alten 
+               <lb xml:id="p001_r_tl_26"/>amerikanischen Demokratie. England hingegen 
+               <lb xml:id="p001_r_tl_27"/>– und in noch stärkerem Maße Frankreich, – sehen 
+               <lb xml:id="p001_r_tl_28"/>die Wahl Roosevelts als eine Kundgebung für die<hi rendition="#g"> 
+                  <lb xml:id="p001_r_tl_29"/>Demokratie</hi> und als einen Beweis an, daß auch 
+               <lb xml:id="p001_r_tl_30"/>heute noch ein großes Volk seine wirtschaftliche und 
+               <lb xml:id="p001_r_tl_31"/>politische Freiheit gegenüber den Mächten der 
+               <lb xml:id="p001_r_tl_32"/>Industrie und Hochfinanz behaupten könne.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_33"/>Man brauchte diese paradoxen Kommentare 
+               <lb xml:id="p001_r_tl_34"/>offizieller Regierungsorgane und tendenziöser Par 
+               <lb xml:id="p001_r_tl_35" break="no"/>teiblätter nicht weiter zu beachten, würde sich 
+               <lb xml:id="p001_r_tl_36"/>nicht die gleiche Verwirrung der Begriffe in 
+               <lb xml:id="p001_r_tl_37"/>Amerika selbst wiederholen. Die Republikanische 
+               <lb xml:id="p001_r_tl_38"/>Partei, – die große konservative und kapitalistische 
+               <lb xml:id="p001_r_tl_39"/>Partei Amerikas, – hat versucht, die "Rote Gefahr" 
+               <lb xml:id="p001_r_tl_40"/>gegen Roosevelt auszuspielen, indem sie ihn kom 
+               <lb xml:id="p001_r_tl_41" break="no"/>munistischer Tendenzen beschuldigte und den Be 
+               <lb xml:id="p001_r_tl_42" break="no"/>weis erbringen wollte, daß sein Programm des 
+               <lb xml:id="p001_r_tl_43"/>wirtschaftlichen Wiederaufbaus, das "New Deal", 
+               <lb xml:id="p001_r_tl_44"/>nichts anderes als die Wirtschaftsdiktatur des 
+               <lb xml:id="p001_r_tl_45"/>Staates und die Vernichtung der Privatinitiative 
+               <lb xml:id="p001_r_tl_46"/>bedeute. Die große Masse des Volkes hat sich 
+               <lb xml:id="p001_r_tl_47"/>trotzdem für Roosevelt erklärt, die Republikaner 
+               <lb xml:id="p001_r_tl_48"/>haben eine Niederlage erlitten, die sie sogar als 
+               <lb xml:id="p001_r_tl_49"/>Oppositionspartei im neuen Kongreß jedes wirk 
+               <lb xml:id="p001_r_tl_50" break="no"/>samen Einflusses beraubt.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_51"/>Inzwischen wird die Frage der <hi rendition="#g">Diktatur</hi> in 
+               <lb xml:id="p001_r_tl_52"/>Roosevelts eigenem Lager diskutiert, und Zweifel 
+               <lb xml:id="p001_r_tl_53"/>und Befürchtungen werden unter seinen Wählern 
+               <lb xml:id="p001_r_tl_54"/>laut, die ja keine einheitliche Masse darstellen, 
+               <lb xml:id="p001_r_tl_55"/>sondern alle fortschrittlichen Parteien, Gruppen 
+               <lb xml:id="p001_r_tl_56"/>und Individuen in sich begreifen, vom rechten, 
+               <lb xml:id="p001_r_tl_57"/>bürgerlich-liberalen Flügel der Demokratischen 
+               <lb xml:id="p001_r_tl_58"/>Partei bis zur extremen Linken, von den Pro 
+               <lb xml:id="p001_r_tl_59" break="no"/>fessoren der Nationalökonomie, die Roosevelt vor 
+               <lb xml:id="p001_r_tl_60"/>vier Jahren zusammen mit Bankiers und Industrie 
+               <lb xml:id="p001_r_tl_61" break="no"/>führern als wirtschaftliche Berater herangezogen 
+               <lb xml:id="p001_r_tl_62"/>hat, bis zu den mächtigen und radikal gesinnten 
+               <lb xml:id="p001_r_tl_63"/>Arbeiterführern, die eine vermehrte Kontrolle der 
+               <lb xml:id="p001_r_tl_64"/>Privatindustrie fordern, und die Organisation 
+               <lb xml:id="p001_r_tl_65"/>der Gewerkschaften und die Gründung einer ge 
+               <lb xml:id="p001_r_tl_66" break="no"/>einigten Bauern– und Arbeiter–Partei (Farmer 
+               <lb xml:id="p001_r_tl_67" break="no"/>Labor–Party) anstreben.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_68"/>Die sozialistische und kommunistische Partei 
+               <lb xml:id="p001_r_tl_69"/>Amerikas . haben bei den letzten Wahlen Verluste 
+               <lb xml:id="p001_r_tl_70"/>erlitten, was sich aus der Tatsache erklärt, daß ein
+               <milestone unit="textregion" xml:id="p001_r_2"/> 
+               <lb xml:id="p001_r_2_tl_1"/>großer Teil ihrer Mitglieder das Parteiinteresse 
+               <lb xml:id="p001_r_2_tl_2"/>zurückstellten und ihre Stimmen auf Roosevelt 
+               <lb xml:id="p001_r_2_tl_3"/>vereinigten. Der auf diese Weise zustande ge 
+               <lb xml:id="p001_r_2_tl_4" break="no"/>kommenen <hi rendition="#g">Einheitsfront</hi> ist denn auch der 
+               <lb xml:id="p001_r_2_tl_5"/>zahlenmäßig überraschende Sieg der Demokraten 
+               <lb xml:id="p001_r_2_tl_6"/>zu verdanken, die Gefahr einer Reaktion scheint 
+               <lb xml:id="p001_r_2_tl_7"/>endgültig gebannt, Roosevelt befindet sich mit 
+               <lb xml:id="p001_r_2_tl_8"/>einer Majorität von elf Millionen Wählern in 
+               <lb xml:id="p001_r_2_tl_9"/>einer Position, die der des Jahres 1932 überlegen 
+               <lb xml:id="p001_r_2_tl_10"/>ist. Das "New Deal", ein Programm wirtschaft 
+               <lb xml:id="p001_r_2_tl_11" break="no"/>lichen und sozialen Fortschritts, das nicht nur 
+               <lb xml:id="p001_r_2_tl_12"/>materiell, sondern im moralischen Sinne eine 
+               <lb xml:id="p001_r_2_tl_13"/>Hoffnung für die Zukunft eines 120–Millionen– 
+               <lb xml:id="p001_r_2_tl_14"/>Volks ist, wird weitergeführt werden. Dabei darf 
+               <lb xml:id="p001_r_2_tl_15"/>man aber nicht vergessen, daß das "New Deal" 
+               <lb xml:id="p001_r_2_tl_16"/>kein festes und unabänderliches Programm, sondern 
+               <lb xml:id="p001_r_2_tl_17"/>eine Serie von Versuchen darstellt, und daß 
+               <lb xml:id="p001_r_2_tl_18"/>allein die Person Roosevelts darüber entscheidet, 
+               <lb xml:id="p001_r_2_tl_19"/>welcher Richtung es während der nächsten vier 
+               <lb xml:id="p001_r_2_tl_20"/>Jahre folgen wird.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_21"/>Die Stimmen der reaktionären Opposition sind 
+               <lb xml:id="p001_r_2_tl_22"/>vorläufig zum Schweigen gebracht. Die Tatsache 
+               <lb xml:id="p001_r_2_tl_23"/>der unmittelbar nach der Wahl erfolgten <hi rendition="#g">Lohn 
+                  <lb xml:id="p001_r_2_tl_24" break="no"/>erhöhung</hi> beweist aber, daß die Unternehmer 
+               <lb xml:id="p001_r_2_tl_25" break="no"/>kreise trotz der republikanischen Niederlage nicht 
+               <lb xml:id="p001_r_2_tl_26"/>pessimistisch in die Zukunft blicken, – und die 
+               <lb xml:id="p001_r_2_tl_27"/>amerikanische Handelskammer, die bisher das 
+               <lb xml:id="p001_r_2_tl_28"/>"New Deal" konsequent bekämpft hat, scheint jetzt 
+               <lb xml:id="p001_r_2_tl_29"/>entschlossen, Roosevelt zu unterstützen. Roosevelt 
+               <lb xml:id="p001_r_2_tl_30"/>spricht davon, auf einen Ausgleich des Budgets 
+               <lb xml:id="p001_r_2_tl_31"/>hinarbeiten zu wollen, – ein bisher ausschließlich 
+               <lb xml:id="p001_r_2_tl_32"/>von der republikanischen Parteipropaganda ver 
+               <lb xml:id="p001_r_2_tl_33" break="no"/>wendeter Programmpunkt. Man weiß ja, daß 
+               <lb xml:id="p001_r_2_tl_34"/>Präsident Roosevelt entschlossen ist, den Privat 
+               <lb xml:id="p001_r_2_tl_35" break="no"/>kapitalismus als die Basis der amerikanischen Wirt 
+               <lb xml:id="p001_r_2_tl_36" break="no"/>schaft zu retten. Er wünscht die Zusammenarbeit 
+               <lb xml:id="p001_r_2_tl_37"/>des Staates und der staatlichen Wirtschaftskon 
+               <lb xml:id="p001_r_2_tl_38" break="no"/>trolle mit der privaten Unternehmung, und er ist 
+               <lb xml:id="p001_r_2_tl_39"/>in seiner heutigen Position eher bereit, Konzessio 
+               <lb xml:id="p001_r_2_tl_40" break="no"/>nen auf diesem Gebiet zu machen, als vor dem 
+               <lb xml:id="p001_r_2_tl_41"/>3. November, als seine Wiederwahl von der 
+               <lb xml:id="p001_r_2_tl_42"/>Wählermasse der Linken abhing. Nun beginnen 
+               <lb xml:id="p001_r_2_tl_43"/>eben diese Parteien und Gruppen der Linken zu 
+               <lb xml:id="p001_r_2_tl_44"/>fürchten, daß Roosevelt, nachdem eine militante 
+               <lb xml:id="p001_r_2_tl_45"/>Haltung nicht mehr notwendig ist, Kompromisse 
+               <lb xml:id="p001_r_2_tl_46"/>an die Interessen der privaten Unternehmer 
+               <lb xml:id="p001_r_2_tl_47"/>machen und dadurch sein eigenes Fortschrittspro 
+               <lb xml:id="p001_r_2_tl_48" break="no"/>gramm vernachlässigen und gefährden könnte. Der 
+               <lb xml:id="p001_r_2_tl_49"/>privaten Unternehmung in Industrie und Wirt 
+               <lb xml:id="p001_r_2_tl_50" break="no"/>schaft freie Hand zu lassen, bedeutet ja in Amerika 
+               <lb xml:id="p001_r_2_tl_51"/>nicht freien Konkurrenzkampf, es bedeutet nur, 
+               <lb xml:id="p001_r_2_tl_52"/>daß die Kontrolle statt vom Staat, von einigen 
+               <lb xml:id="p001_r_2_tl_53"/>mächtigen Konzernen und Monopolindustrien aus 
+               <lb xml:id="p001_r_2_tl_54" break="no"/>geübt wird. Die große Auseinandersetzung, die 
+               <lb xml:id="p001_r_2_tl_55"/>sich in den Vereinigten Staaten während der 
+               <lb xml:id="p001_r_2_tl_56"/>nächsten vier Jahre abspielen wird, ist nicht die 
+               <lb xml:id="p001_r_2_tl_57"/>zwischen Liberalismus und Diktatur, demokra 
+               <lb xml:id="p001_r_2_tl_58" break="no"/>tischer Freiheit und Staatssozialismus, es handelt 
+               <lb xml:id="p001_r_2_tl_59"/>sich vielmehr darum, wer die Wirtschaft kontrol 
+               <lb xml:id="p001_r_2_tl_60" break="no"/>lieren, d. h. die Macht in Händen haben wird. 
+               <lb xml:id="p001_r_2_tl_61"/>Bisher haben die konservativen und liberalen 
+               <lb xml:id="p001_r_2_tl_62"/>Kreise Amerikas gefürchtet, daß die von Roosevelt 
+               <lb xml:id="p001_r_2_tl_63"/>angewendeten Methoden zum Staatssozialismus 
+               <lb xml:id="p001_r_2_tl_64"/>und, in letzter Konsequenz, zu einer Linksdiktatur 
+               <lb xml:id="p001_r_2_tl_65"/>führen werde. Seit dem 3. November hat sich die 
+               <lb xml:id="p001_r_2_tl_66"/>Lage etwas verändert. Viele, die für Roosevelt 
+               <lb xml:id="p001_r_2_tl_67"/>gestimmt haben, wünschen, daß er nicht von einer 
+               <lb xml:id="p001_r_2_tl_68"/>so überwältigenden Mehrheit gewählt worden 
+               <lb xml:id="p001_r_2_tl_69"/>wäre. Die darin ausgedrückte Besorgnis, Roosevelt 
+               <lb xml:id="p001_r_2_tl_70"/>könnte einen konservativeren Kurs einschlagen, 
+               <lb xml:id="p001_r_2_tl_71"/>wird von dem amerikanischen Sozialistenführer 
+               <lb xml:id="p001_r_2_tl_72"/>Norman <hi rendition="#g">Thomas</hi> genauer formuliert, wenn er 
+               <lb xml:id="p001_r_2_tl_73"/>sagt, die Linksparteien hätten es versäumt, als 
+               <lb xml:id="p001_r_2_tl_74"/>Gegenleistung für ihre Unterstützung bestimmte 
+               <lb xml:id="p001_r_2_tl_75"/>Garantien von Roosevelt zu fordern. Der Unter 
+               <lb xml:id="p001_r_2_tl_76" break="no"/>sekretär für Landwirtschaft und einer der ersten, 
+               <lb xml:id="p001_r_2_tl_77"/>von der Rechten am meisten gehaßten Berater 
+               <lb xml:id="p001_r_2_tl_78"/>Roosevelts, <hi rendition="#g">R. G. Tugwell</hi>, hat unmittelbar
+               <milestone unit="textregion" xml:id="p001_r_7"/> 
+               <lb xml:id="p001_r_7_tl_1"/>nach der Wahl auf die verzweifelte Lage der 
+               <lb xml:id="p001_r_7_tl_2"/>bäuerlichen Pächter hingewiesen, seine wenige 
+               <lb xml:id="p001_r_7_tl_3"/>Tage später erfolgte Demission hat nicht wenig zur 
+               <lb xml:id="p001_r_7_tl_4"/>Beunruhigung der Bauern– und Arbeitergruppen 
+               <lb xml:id="p001_r_7_tl_5"/>beigetragen.</p>
+            <p> 
+               <lb xml:id="p001_r_7_tl_6"/>Man kann unter diesen Umständen sagen, daß 
+               <lb xml:id="p001_r_7_tl_7"/>die Opposition seit dem 3. November nicht ver 
+               <lb xml:id="p001_r_7_tl_8" break="no"/>nichtet ist, sondern ihr Lager gewechselt hat. 
+               <lb xml:id="p001_r_7_tl_9"/>Arbeiterführer wie Norman Thomas und John 
+               <lb xml:id="p001_r_7_tl_10"/>L. Lewis betonen die Notwendigkeit, daß alle 
+               <lb xml:id="p001_r_7_tl_11"/>fortschrittlichen Elemente der Vereinigten Staaten 
+               <lb xml:id="p001_r_7_tl_12"/>sich zusammenschließen müßten, nicht nur, um 
+               <lb xml:id="p001_r_7_tl_13"/>ihr Programm, die Gründung einer <hi rendition="#g">Farmer 
+                  <lb xml:id="p001_r_7_tl_14" break="no"/>Labor–Party</hi>, die Organisation der Massen 
+               <lb xml:id="p001_r_7_tl_15" break="no"/>produktions–Industrien, die Verbesserung und 
+               <lb xml:id="p001_r_7_tl_16"/>Durchführung des Gesetzes über die Sozialver 
+               <lb xml:id="p001_r_7_tl_17" break="no"/>sicherung, nötigenfalls aus eigenen Kräften durch 
+               <lb xml:id="p001_r_7_tl_18" break="no"/>zusetzen, sondern in erster Linie, um durch diese 
+               <lb xml:id="p001_r_7_tl_19"/>geeinte Linksopposition auf den Präsidenten einen 
+               <lb xml:id="p001_r_7_tl_20"/>genügenden Druck ausüben zu können.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_19"/>            <p> 
+               <lb xml:id="p001_r_19_tl_1"/>Roosevelt ist kein <hi rendition="#g">Diktator</hi>. Es fehlen ihm 
+               <lb xml:id="p001_r_19_tl_2"/>Neigung und Eigenschaften für diese Rolle. Man 
+               <lb xml:id="p001_r_19_tl_3"/>hat ihm, im Gegenteil, häufig zum Vorwurf ge 
+               <lb xml:id="p001_r_19_tl_4" break="no"/>macht, daß er beeinflußbar und von den Beratern 
+               <lb xml:id="p001_r_19_tl_5"/>seiner näheren Umgebung abhängig sei. Bisher 
+               <lb xml:id="p001_r_19_tl_6"/>hat er es verstanden, einer Radikalisierung der 
+               <lb xml:id="p001_r_19_tl_7"/>Linken vorzubeugen, ihr gewissermaßen den Grund 
+               <lb xml:id="p001_r_19_tl_8"/>unter den Füßen wegzunehmen, indem er Ver 
+               <lb xml:id="p001_r_19_tl_9" break="no"/>ständnis für ihre Bedürfnisse und Forderungen 
+               <lb xml:id="p001_r_19_tl_10"/>bewies und so viel tat, wie man unter den gegebe 
+               <lb xml:id="p001_r_19_tl_11" break="no"/>nen Verhältnissen, d. h. ohne einen revolutionären 
+               <lb xml:id="p001_r_19_tl_12"/>Umsturz, überhaupt für den sozialen Fortschritt tun 
+               <lb xml:id="p001_r_19_tl_13"/>kann. Ob die vergangenen vier Jahre als eine Ver 
+               <lb xml:id="p001_r_19_tl_14" break="no"/>sprechung für die Zukunft gelten dürfen, oder ob 
+               <lb xml:id="p001_r_19_tl_15"/>er sich mit dem bereits Getanen zufrieden geben 
+               <lb xml:id="p001_r_19_tl_16"/>und zu einem konservativen Optimismus über 
+               <lb xml:id="p001_r_19_tl_17" break="no"/>gehen wird, hängt vermutlich allein von der Stärke 
+               <lb xml:id="p001_r_19_tl_18"/>und Ueberzeugungskraft der neuen "Opposition 
+               <lb xml:id="p001_r_19_tl_19"/>von Links" ab.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
