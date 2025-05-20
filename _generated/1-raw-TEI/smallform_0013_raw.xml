@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="smallform_0013"
+     type="dseas-smallform">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>smallform_0013</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl corresp="smallform_0013">
+               <persName/>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0013_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="smallform">
+            <pb xml:id="smallform_0013_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0013_001.png/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0013_001_r_6"/>
+            <lb xml:id="smallform_0013_001_l"/>Nacht in Warschau von Erich Ebermeyer. [Schlagwörter: Ästhetik, Jugend, Freundschaft]<CONV tag="p">
+<lb xml:id="smallform_0013_001_l_70"/>A. Schw. Eine zarte und leidenschaftliche No¬
+<lb xml:id="smallform_0013_001_l_81"/>velle, reich an innerer Spannung und äußerem
+<lb xml:id="smallform_0013_001_l_85"/>Geschehen. Nur ein junger Mensch kann so über¬
+<lb xml:id="smallform_0013_001_l_89"/>zeugend jenes erste Ueberraschtwerden der
+<lb xml:id="smallform_0013_001_l_93"/>Jugend, jene restlose, mutige Hingabe an das
+<lb xml:id="smallform_0013_001_l_97"/>Erlebnis beschreiben, nur er kann so viel jugend¬
+<lb xml:id="smallform_0013_001_l_101"/>liches Schicksal nachempfinden, die zurückhaltende
+<lb xml:id="smallform_0013_001_l_105"/>Strenge und den schwermütigen Ernst erster
+<lb xml:id="smallform_0013_001_l_109"/>Liebe, die plötzliche, nervenerregende Sinnlichkeit
+<lb xml:id="smallform_0013_001_l_113"/>einer Nacht in fremder und gefährlicher Um¬
+<lb xml:id="smallform_0013_001_l_117"/>gebung, die mächtig heraufbrechende Sehnsucht
+<lb xml:id="smallform_0013_001_l_121"/>nach Neuem, Niegewagtem, und in diesem
+<lb xml:id="smallform_0013_001_l_125"/>Taumel von Verführung und Laster die be¬
+<lb xml:id="smallform_0013_001_l_129"/>glückende Kraft reinen und unverbrauchten Ge¬
+<lb xml:id="smallform_0013_001_l_133"/>fühls.</CONV><CONV tag="p">
+<lb xml:id="smallform_0013_001_l_137"/>Umgekehrt ist diese Novelle vielleicht nur
+<lb xml:id="smallform_0013_001_l_141"/>jungen Menschen ganz zugänglich: Hinter der
+<lb xml:id="smallform_0013_001_l_145"/>Odilienberger Schule steht ja das Landerzie¬
+<lb xml:id="smallform_0013_001_l_149"/>hungsheim von Gustav Wynneken. Man kann
+<lb xml:id="smallform_0013_001_l_153"/>diese Welt nicht erfassen, ohne einmal etwas von
+<lb xml:id="smallform_0013_001_l_157"/>der herben und reichen Atmosphäre gemeinsamen
+<lb xml:id="smallform_0013_001_l_161"/>Lebens gefühlt zu haben, ohne einmal berührt
+<lb xml:id="smallform_0013_001_l_165"/>zu sein vom scheuen Zauber innerer Verbunden¬
+<lb xml:id="smallform_0013_001_l_169"/>heit und von der tiefen, ja geheimnisvollen Kraft
+<lb xml:id="smallform_0013_001_l_173"/>solcher Freundschaft.</CONV><CONV tag="p">
+<lb xml:id="smallform_0013_001_l_177"/>So ist Erich Ebermeyers Novelle ein ergrei¬
+<lb xml:id="smallform_0013_001_l_181"/>fendes Zeugnis von Selbständigkeit, Ernst und
+<lb xml:id="smallform_0013_001_l_185"/>Zartheit heutiger Jugend.</CONV></div>
+      </body>
+   </text>
+</TEI>
