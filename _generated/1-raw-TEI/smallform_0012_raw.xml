@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="smallform_0012"
+     type="dseas-smallform">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>smallform_0012</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl corresp="smallform_0012">
+               <persName/>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0012_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="smallform">
+            <pb xml:id="smallform_0012_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0012_001.png/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0012_001_r"/>
+            <lb xml:id="smallform_0012_001_l"/>Musche. Novellen von Karl Ludwig Skutsch. [Schlagwörter: Ästhetik, Poetik, Jugend]<CONV tag="p">
+<lb xml:id="smallform_0012_001_l_11"/>A. Schw. Skutsch zeichnet feinste seelische Schwin¬
+<lb xml:id="smallform_0012_001_l_15"/>gungen, jene oft überhörten Aeußerungen verwund¬
+<lb xml:id="smallform_0012_001_l_19"/>barer und zurückgehaltener Liebe, die nur ein Dich¬
+<lb xml:id="smallform_0012_001_l_23"/>ter aussprechen darf ohne sie zu verletzen oder in
+<lb xml:id="smallform_0012_001_l_27"/>verzerrter Wiedergabe preiszugeben. Diese kleinen
+<lb xml:id="smallform_0012_001_l_31"/>Novellen sind beinahe nur Ahnung, Atmosphäre
+<lb xml:id="smallform_0012_001_l_35"/>verdrängter Sehnsucht, zitternder Spiegel scheuer
+<lb xml:id="smallform_0012_001_l_39"/>und heimlich erregter Herzen. Das Unfertige der
+<lb xml:id="smallform_0012_001_l_43"/>Handlung berührt skizzenhaft und rührend: Wie
+<lb xml:id="smallform_0012_001_l_47"/>denn in aller überzarten, auf innerstes Leiden<milestone unit="textregion" xml:id="smallform_0012_001_r_2"/>
+            <lb xml:id="smallform_0012_001_l_51"/>horchenden Jugend etwas von frühzeitiger Ent¬
+<lb xml:id="smallform_0012_001_l_55"/>täuschung und Trauer mitklingt.</CONV><CONV tag="p">
+<lb xml:id="smallform_0012_001_l_59"/>Skutsch schreibt Alltagsnovellen: Aber sie ver¬
+<lb xml:id="smallform_0012_001_l_63"/>leugnen diesen Alltag, sie heben die Schleier äuße¬
+<lb xml:id="smallform_0012_001_l_67"/>rer Gleichgültigkeit und zeigen die versteckten Tie¬
+<lb xml:id="smallform_0012_001_l_71"/>fen seiner Schwermut</CONV><CONV tag="p">
+<lb xml:id="smallform_0012_001_l_75"/>(Verlag Ph. Reclam, Leipzig.)</CONV></div>
+      </body>
+   </text>
+</TEI>
