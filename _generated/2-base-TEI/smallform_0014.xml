@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0014" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0014#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0014</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0014"> 
+               <persName/>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+ <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0014_facs.xml"> <xi:fallback/> <!--Inclusion path will be adjusted later.--> </xi:include>    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0014_001.png/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_tl_1"/>Jugenderinnerungen von Paul Ernst. [Schlagwörter: Ästhetik, Natur, Konservatismus]</p>
+            <p> 
+               <lb xml:id="p001_r_tl_2"/>A. Schw. Ein beschauliches Buch, zurück 
+               <lb xml:id="p001_r_tl_3" break="no"/>tauchend in stille Entwicklungstage, in die Zeit 
+               <lb xml:id="p001_r_tl_4"/>ruhigen und stetigen Wachstums aller Kräfte. 
+               <lb xml:id="p001_r_tl_5"/>Als Einleitung erzählt Paul Ernst die Geschichte 
+               <lb xml:id="p001_r_tl_6"/>des heimatlichen Harzgebirges, die Erschließung 
+               <lb xml:id="p001_r_tl_7"/>durch den Bergbau, das zähe Zusammenwachsen 
+               <lb xml:id="p001_r_tl_8"/>eines Volkes aus verschiedenen Stämmen, aber 
+               <lb xml:id="p001_r_tl_9"/>aus gleicher Not. Die tiefe Zugehörigkeit zu 
+               <lb xml:id="p001_r_tl_10"/>Volk und Boden dringt aus diesen Beschreibungen, 
+               <lb xml:id="p001_r_tl_11"/>und eine ebenso starke Liebe zu den Ahnen, zu 
+               <lb xml:id="p001_r_tl_12"/>Tradition und ererbtem Gut. Die Art der Be 
+               <lb xml:id="p001_r_tl_13" break="no"/>schreibung, die begrenzte und gemütvolle Erleb 
+               <lb xml:id="p001_r_tl_14" break="no"/>niswelt, die verwurzelten, konservativen und 
+               <lb xml:id="p001_r_tl_15"/>irgendwie frommen Gedanken erinnern uns an 
+               <lb xml:id="p001_r_tl_16"/>Stifter, der ebenso innig mit seiner österreichischen 
+               <lb xml:id="p001_r_tl_17"/>Heimat verwachsen war wie Paul Ernst mit dem 
+               <lb xml:id="p001_r_tl_18"/>Harz und seinen Waldgebirgen.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_19"/>Für unsere rasch bewegte, an Wechsel, Aben 
+               <lb xml:id="p001_r_tl_20" break="no"/>teuer, Revolution gewöhnte Zeit scheinen diese 
+               <lb xml:id="p001_r_tl_21"/>Erinnerungen ein wenig fern gerückt und allzu 
+               <lb xml:id="p001_r_tl_22"/>weitschweifig in der Erzählung genügsamer Schick 
+               <lb xml:id="p001_r_tl_23" break="no"/>sale. Man kommt in Versuchung, auch die feinen 
+               <lb xml:id="p001_r_tl_24"/>und eindrucksvollen Stellen zu übersehen: denn 
+               <lb xml:id="p001_r_tl_25"/>wo gibt es heute noch geduldige Leser!</p>
+            <p> 
+               <lb xml:id="p001_r_tl_26"/>(Georg Müller, Verlag, München.)</p>
+</div>
+       </body>
+    </text>
+ </TEI>
