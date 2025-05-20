@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0001" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0001#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0001</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0001"> 
+               <persName/>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+ <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0001_facs.xml"> <xi:fallback/> <!--Inclusion path will be adjusted later.--> </xi:include>    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0001_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_2"/>Über die Freundschaft.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_3"/>Ich habe, ich weiß nicht wie oft, in unserem Blatt über Gemeinschaft ge 
+               <lb xml:id="p001_tr_1_tl_4" break="no"/>lesen. Beinahe ist "Wandervogel" und "Gemeinschaft" in mir ein Begriff ge 
+               <lb xml:id="p001_tr_1_tl_5" break="no"/>worden. Aber Freundschaft ist etwas anderes. Etwas Höheres sogar, wenn ich 
+               <lb xml:id="p001_tr_1_tl_6"/>ehrlich bin. Ich sehne mich wie alle nach dem Kreis. Aber nur, weil ich darin 
+               <lb xml:id="p001_tr_1_tl_7"/>den Freund suche. Als ich noch nicht Wandervogel war, habe ich Eines von Euch 
+               <lb xml:id="p001_tr_1_tl_8"/>gefragt: "Würdest Du und Ihr alle um mich ebenso werben, wenn ich ein fremdes 
+               <lb xml:id="p001_tr_1_tl_9"/>Fürstenkind wäre, das nie Wandervogel sein könnte, das Euch nichts geben 
+               <lb xml:id="p001_tr_1_tl_11"/>könnte als sein Herz?" Und ich weiß noch heute nicht, ob wir beim Werben 
+               <lb xml:id="p001_tr_1_tl_12"/>immer über die Menschen nachdenken, die wir suchen. Wohl, wir lieben alle, die 
+               <lb xml:id="p001_tr_1_tl_13"/>zu uns gehören; aber weil sie eben zu uns gehören, zur großen Gemeinschaft. 
+               <lb xml:id="p001_tr_1_tl_14"/>Da habe ich darüber nachgedacht, was Gemeinschaft ist.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_15"/>Ein Haufe Soldaten zieht Jahr um Jahr miteinander durch die Welt. Der 
+               <lb xml:id="p001_tr_1_tl_16"/>Eine mag ein alter, weltmüder und krieggewohnter Landstreicher sein; ein Anderer 
+               <lb xml:id="p001_tr_1_tl_17"/>ist ein armer Junge, der nicht mehr wußte, was er im Leben tun sollte; ein paar 
+               <lb xml:id="p001_tr_1_tl_18"/>rohe Gesellen sind darunter, und sie alle sind aneinander gekettet durch das 
+               <lb xml:id="p001_tr_1_tl_19"/>eiserne Gesetz des Zwangs. Glaubt Ihr, daß diese nicht eine Gemeinschaft bilden, 
+               <lb xml:id="p001_tr_1_tl_20"/>so innig und so stark wie die unsere? Aber wenn nun das eiserne Gesetz sie aus 
+               <lb xml:id="p001_tr_1_tl_21" break="no"/>einander reißt, so ist eben ihre Gemeinschaft etwas, was vorüberging. Vielleicht 
+               <lb xml:id="p001_tr_1_tl_22"/>allerdings können wir es Kameradschaft nennen. Aber der Unterschied ist mir 
+               <lb xml:id="p001_tr_1_tl_23"/>nicht ganz klar, denn er ist nur durch äußere Umstände bedingt.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_24"/>Suchen wir weiter: Arbeitsgemeinschaften gibt es. Vor einem Jahr habe 
+               <lb xml:id="p001_tr_1_tl_25"/>ich in der Schule mit einem Knaben zusammen eine Bühne für unser Gartenfest 
+               <lb xml:id="p001_tr_1_tl_26"/>gebaut. Die ganze Zeit hindurch war unsere Arbeit durch ein glühendes Gemein 
+               <lb xml:id="p001_tr_1_tl_27" break="no"/>schaftsgefühl ein Fest für mich. Aber als die Arbeit vorüber war und wir 
+               <lb xml:id="p001_l"/>nichts mehr miteinander zu tun hatten, wurden wir uns nicht fremd – aber wir 
+               <lb xml:id="p001_tr_1_tl_30"/>sind so fern voneinander!</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_31"/>Uns Wandervögel umschließt das gemeinsame Erlebnis. Es ist stark in uns, 
+               <lb xml:id="p001_tr_1_tl_32"/>so stark, daß es wirklich etwas Lebendiges, Glühendes und Freudiges wird, etwas, 
+               <lb xml:id="p001_tr_1_tl_33"/>an das wir mit großer Sicherheit glauben. Ich glaube, daß jeder Wandervogel 
+               <lb xml:id="p001_tr_1_tl_34"/>mein Freund ist, weil ein Teil des gemeinsamen Gottes in uns ist. Aber von 
+               <lb xml:id="p001_tr_1_tl_35"/>vielen Wandervögeln weiß ich, daß ich, trügen sie kein silbernes Zeichen wie ich, 
+               <lb xml:id="p001_tr_1_tl_36"/>tausendmal an ihnen vorübergehen würde, ohne sie anders anzusehen als andere 
+               <lb xml:id="p001_tr_1_tl_37"/>junge Menschen.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_38"/>Es mag sein, daß wir, die ganze Jugend, zueinander gehören, daß wir in 
+               <lb xml:id="p001_tr_1_tl_39"/>Jedem ein Stück Gemeinsamkeit finden, daß wir also alle lieben können, wenn 
+               <lb xml:id="p001_tr_1_tl_40"/>wir wollen. <hi rendition="#g">Im Wandervogel wollen wir, das ist seine Berech 
+                  <lb xml:id="p001_tr_1_tl_41" break="no"/>tigung</hi>. Aber Freund will ich einen anderen Menschen nennen. Den, der durch 
+               <lb xml:id="p001_tr_1_tl_42"/>alle auf mich zugegangen ist. Den, den ich sehe und liebe, ohne darüber nachzu 
+               <lb xml:id="p001_tr_1_tl_43" break="no"/>denken. Es muß eine gewisse Rücksichtslosigkeit darin sein. Seht, wir lieben 
+               <lb xml:id="p001_tr_1_tl_44"/>uns alle. Aber einem Freund zu Liebe würde ich jede Gemeinschaft aufgeben. 
+               <lb xml:id="p001_tr_1_tl_45"/>Ich würde ganz allein sein, um alles für den einen Menschen zu haben. Darum 
+               <lb xml:id="p001_tr_1_tl_46"/>kann größte Einsamkeit höchste Liebe sein.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_47"/>Und darin habe ich den Unterschied gefunden zwischen Gemeinschaft und 
+               <lb xml:id="p001_tr_1_tl_48"/>Freundschaft. Aber beides ist heilig.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_49"/>Annemarie Schwarzenbach.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
