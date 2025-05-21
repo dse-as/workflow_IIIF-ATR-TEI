@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0015" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0015#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0015</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0015"> 
+               <persName/>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+ <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0015_facs.xml"> <xi:fallback/> <!--Inclusion path will be adjusted later.--> </xi:include>    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0015_001.png/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_tl_1"/>"Emil und die Detektive" von Erich Kästner. [Schlagwörter: Ästhetik, Kindheit, Freundschaft]</p>
+            <p> 
+               <lb xml:id="p001_r_tl_2"/>A. Schw. Gute Kinderbücher sind selten. Ent 
+               <lb xml:id="p001_r_tl_3" break="no"/>weder sind sie für Erwachsene und von ihrem 
+               <lb xml:id="p001_r_tl_4"/>Standpunkt aus geschrieben, oder sie haben be 
+               <lb xml:id="p001_r_tl_5" break="no"/>lehrende Absichten. Beides langweilt die Kinder. 
+               <lb xml:id="p001_r_tl_6"/>Es gibt ein Alter des Bilderbuches und eines der 
+               <lb xml:id="p001_r_tl_7"/>Jünglings- und Backfischromane. Dazwischen aber 
+               <lb xml:id="p001_r_tl_8"/>ist auch ein Alter: und dafür müssen Kinderbücher 
+               <lb xml:id="p001_r_tl_9"/>geschrieben werden, solche, die gerade nur das er 
+               <lb xml:id="p001_r_tl_10" break="no"/>zählen wollen, was Kinder lieben und nachfühlen 
+               <lb xml:id="p001_r_tl_11"/>können. Und es ist nicht wenig. Erich Kästner 
+               <lb xml:id="p001_r_tl_12"/>zum Beispiel kennt Kinder, die Abenteuer erleben 
+               <lb xml:id="p001_r_tl_13"/>und Verbrecherjagden veranstalten, er kennt ferner 
+               <lb xml:id="p001_r_tl_14"/>einen kleinen Knaben Emil, der seiner Großmutter 
+               <lb xml:id="p001_r_tl_15"/>140 Mark bringen soll und dem das Geld gestohlen 
+               <lb xml:id="p001_r_tl_16"/>wird. Aber wie sollte der Dieb Emil und seinen 
+               <lb xml:id="p001_r_tl_17"/>Freunden entgehen, den Detektiven, die ihn quer 
+               <lb xml:id="p001_r_tl_18"/>durch Berlin verfolgen, in Straßenbahnen und 
+               <lb xml:id="p001_r_tl_19"/>Autobussen, mit Taxis und Nachrichtendienst. 
+               <lb xml:id="p001_r_tl_20"/>Sie alarmieren zehn, zwanzig, hundert Kame 
+               <lb xml:id="p001_r_tl_21" break="no"/>raden und umstellen ihn, ein ganzes Heer von
+               <milestone unit="textregion" xml:id="p001_r_2"/> 
+               <lb xml:id="p001_r_2_tl_1"/>Kindern, bis Emil sein Geld wieder bekommen 
+               <lb xml:id="p001_r_2_tl_2"/>hat, und noch tausend Mark Belohnung dazu. Es 
+               <lb xml:id="p001_r_2_tl_3"/>ist also ein wirklicher, aufregender Abenteuer 
+               <lb xml:id="p001_r_2_tl_4" break="no"/>roman, und zugleich auch ein Bilderbuch, so daß 
+               <lb xml:id="p001_r_2_tl_5"/>wir die Helden und die Schauplätze ihrer Taten 
+               <lb xml:id="p001_r_2_tl_6"/>gleichsam persönlich kennen lernen, was nicht 
+               <lb xml:id="p001_r_2_tl_7"/>wenig zur Annäherung und Erheiterung beiträgt.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_8"/>(Verlag Williams, Berlin.)</p>
+</div>
+       </body>
+    </text>
+ </TEI>
