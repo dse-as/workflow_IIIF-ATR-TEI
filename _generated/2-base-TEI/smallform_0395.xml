@@ -47,7 +47,11 @@
           </textClass>
        </profileDesc>
     </teiHeader>
- <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0395_facs.xml"> <xi:fallback/> <!--Inclusion path will be adjusted later.--> </xi:include>    <text> 
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0395_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
       <body> 
          <div type="smallform">
             <pb xml:id="p001" facs="https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211940_016%21zui-001_1940_016_0289.jpg/info.json"/>
