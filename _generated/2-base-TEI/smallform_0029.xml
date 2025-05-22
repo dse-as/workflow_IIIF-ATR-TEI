@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0029" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0029#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0029</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0029"> 
+               <persName/>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+ <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0029_facs.xml"> <xi:fallback/> <!--Inclusion path will be adjusted later.--> </xi:include>    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0029_001.png/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p> 
+               <lb xml:id="p001_r_tl_2"/><hi rendition="#b">"Sonne im Engadin".</hi> Man hat schon lang 
+               <lb xml:id="p001_r_tl_4" break="no"/>erwartet, daß die gepriesene und weltbekannte 
+               <lb xml:id="p001_r_tl_3"/>Engadinersonne wieder einmal literarisch ein 
+               <lb xml:id="p001_r_tl_5" break="no"/>gefangen werde. Aber das Geheimnis einer Land 
+               <lb xml:id="p001_r_tl_6" break="no"/>schaft ist vielseitig und nicht so leicht zu entdecken, 
+               <lb xml:id="p001_r_tl_7"/>es ist auch individuell. Das bedeutet nichts weniger 
+               <lb xml:id="p001_r_tl_8"/>als einen Vorwurf gegen das kleine Bändchen 
+               <lb xml:id="p001_r_tl_9"/>Arthur Manuals, allenfalls eine Einschränkung. 
+               <lb xml:id="p001_r_tl_10"/>Nicht das mondäne Engadin, vielmehr das der 
+               <lb xml:id="p001_r_tl_11"/>"Skiehasen" wird uns beschrieben, und nicht jene 
+               <lb xml:id="p001_r_tl_12"/>südlich-herbe Anmut der Landschaft, sondern deut 
+               <lb xml:id="p001_r_tl_13" break="no"/>licher Hütten, Gipfelfahrten, "Erze, Gneiße, Gra 
+               <lb xml:id="p001_r_tl_14" break="no"/>nit". All das ist sehr leicht und munter erzählt, 
+               <lb xml:id="p001_r_tl_15"/>zwar ohne große Gewandtheit, vielleicht mit Ab 
+               <lb xml:id="p001_r_tl_16" break="no"/>sicht, es sollte wohl so ungeschliffen-männlich her 
+               <lb xml:id="p001_r_tl_17" break="no"/>auskommen. Dieser Stil hat natürlich seine Be 
+               <lb xml:id="p001_r_tl_19" break="no"/>rechtigung, und gerade das Schweizerische ist in 
+               <lb xml:id="p001_r_tl_18"/>diesem Zusammenhang berechtigt, man vergißt 
+               <lb xml:id="p001_r_tl_20"/>sonst vor lauter Fremdenverkehr, daß wir an sol¬<!--FML: this needs attention (was tagged as "fml" in Transkribus)--></p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0029_002.png/info.json"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p> 
+               <lb xml:id="p002_r_tl_1" break="no"/> <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->chen Orten immerhin Heimatrecht besitzen. Andere 
+               <lb xml:id="p002_r_tl_2"/>Kapitel, etwa der Anfang der "Engadiner Städte" 
+               <lb xml:id="p002_r_tl_3"/>- sind eher mißlungen, die Bilder sind anfecht 
+               <lb xml:id="p002_r_tl_4" break="no"/>bar, ein wenig zu grell. Aber als Ganzes, als 
+               <lb xml:id="p002_r_tl_5"/>Einfall, als Plauderei und Bilderbuch ist das 
+               <lb xml:id="p002_r_tl_6"/>kleine Werk erfreulich (Verlag Rascher &amp; Cie.).</p>
+            <p> 
+               <lb xml:id="p002_r_tl_7"/>A. Schwarzenbach</p>
+</div>
+       </body>
+    </text>
+ </TEI>
