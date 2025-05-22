@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="smallform_0019"
+     type="dseas-smallform">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>smallform_0019</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl corresp="smallform_0019">
+               <persName/>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0019_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="smallform">
+            <pb xml:id="smallform_0019_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0019_001.png/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0019_001_r"/>
+            <lb xml:id="smallform_0019_001_r_tl_1"/>„Hans Frischmuths Weg ins Glück" [Schlagwort: Ästhetik, Jugend, Jugendbewegung, Bürgertum]
+<lb xml:id="smallform_0019_001_r_tl_2"/>von Rudolf Schwarz<CONV tag="p">
+<lb xml:id="smallform_0019_001_r_tl_3"/>A. Schw. Die Auffassung ist von großer Frische
+<lb xml:id="smallform_0019_001_r_tl_4"/>die Wirkung wird etwas beeinträchtigt durch den
+<lb xml:id="smallform_0019_001_r_tl_5"/>wenig ausgefeilten Stil. Anscheinend stehen dem
+<lb xml:id="smallform_0019_001_r_tl_6"/>Verfasser erst begrenzte technische Mittel zur Ver¬
+<lb xml:id="smallform_0019_001_r_tl_7"/>fügung. Im Ganzen paßt sich aber die Schlichtheit
+<lb xml:id="smallform_0019_001_r_tl_8"/>des Ausdrucks dem Erlebniskreis der Erzählung
+<lb xml:id="smallform_0019_001_r_tl_9"/>an: Rudolf Schwarz beschränkt sich auf eine klein¬
+<lb xml:id="smallform_0019_001_r_tl_10"/>bürgerliche Welt, mit der sich der junge Hans
+<lb xml:id="smallform_0019_001_r_tl_11"/>Frischmuth auseinandersetzen muß. Auf der Suche
+<lb xml:id="smallform_0019_001_r_tl_12"/>nach geistigen Aufgaben und von mancherlei Pro¬
+<lb xml:id="smallform_0019_001_r_tl_13"/>blemen bedrängt [,] kommt er zunächst zum blauen
+<lb xml:id="smallform_0019_001_r_tl_14"/>Kreuz und damit zu einem Teil der großen Ju¬
+<lb xml:id="smallform_0019_001_r_tl_15"/>gendbewegung. Das Buch bringt dann die verschie¬
+<lb xml:id="smallform_0019_001_r_tl_16"/>denen Formen solcher Bünde, Diskussionen über
+<lb xml:id="smallform_0019_001_r_tl_17"/>Alkoholverbot, Frauenstimmrecht, Antisemitismus
+<lb xml:id="smallform_0019_001_r_tl_18"/>und Berufswahl, man hört von Sonntagswande¬
+<lb xml:id="smallform_0019_001_r_tl_19"/>rungen, von Zusammenkünften und Landsgemein¬
+<lb xml:id="smallform_0019_001_r_tl_20"/>den. Alle diese Unternehmungen zeugen von fröh¬
+<lb xml:id="smallform_0019_001_r_tl_21"/>licher Tatbereitschaft, von bestem Willen und un¬
+<lb xml:id="smallform_0019_001_r_tl_22"/>besiegbarem Optimismus. (Heinrich Majer-Verlag,
+<lb xml:id="smallform_0019_001_r_tl_23"/>Basel.)</CONV></div>
+      </body>
+   </text>
+</TEI>
