@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0022" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0022#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0022</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0022"> 
+               <persName/>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+ <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0022_facs.xml"> <xi:fallback/> <!--Inclusion path will be adjusted later.--> </xi:include>    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0022_001.png/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l"/>"Der große Kamerad" 
+               <lb xml:id="p001_l_7"/>Roman von Alain-Fournier</p>
+            <p> 
+               <lb xml:id="p001_l_11"/>Wenige Bücher sind der Uebersetzung so wert 
+               <lb xml:id="p001_l_15"/>wie dasjenige des jungen Franzosen Alain-Four 
+               <lb xml:id="p001_l_19" break="no"/>nier, "Le grand Meaulnes". Man könnte es ein 
+               <lb xml:id="p001_l_23"/>modernes Märchen nennen, doch würde man 
+               <lb xml:id="p001_l_27"/>damit erst einen Teil seiner zauberhaften Atmo 
+               <lb xml:id="p001_l_31" break="no"/>sphäre erklären. Denn wenn der junge Held des 
+               <lb xml:id="p001_l_35"/>Buches ein Weltfremder und Träumer ist, so ist 
+               <lb xml:id="p001_l_39"/>er doch auch der große Kamerad, der unerschüt 
+               <lb xml:id="p001_l_43" break="no"/>terlich treue Gefährte, welcher Wildheit, Kraft 
+               <lb xml:id="p001_l_47"/>und gebändigten Stolz mit der scheu verborgenen 
+               <lb xml:id="p001_l_51"/>Sehnsucht nach einer phantastischen, an Geheim 
+               <lb xml:id="p001_l_55" break="no"/>nissen reichen Welt verbindet.</p>
+            <p> 
+               <lb xml:id="p001_l_59"/>Meaulnes hat ein großes Erlebnis gehabt, in 
+               <lb xml:id="p001_l_63"/>einer halb traumhaften Festnacht hat er ein 
+               <lb xml:id="p001_l_67"/>Mädchen getroffen, das er liebt und dessen Namen 
+               <lb xml:id="p001_l_71"/>er nicht kennt. Sie wieder zu finden ist sein ein 
+               <lb xml:id="p001_l_75" break="no"/>ziger Wunsch, aber obwohl ihm das Schicksal 
+               <lb xml:id="p001_l_79"/>wohlgesinnt ist, und seltsame Zufälle seinem 
+               <lb xml:id="p001_l_83"/>Glück zu Hilfe kommen, wird der große Kamerad 
+               <lb xml:id="p001_l_87"/>doch sehr unglücklich werden: er scheitert mehr 
+               <lb xml:id="p001_l_91"/>an seinem Traum als an der Realität seines jun 
+               <lb xml:id="p001_l_95" break="no"/>gen Daseins. – Man kann sich dem Zauber dieses 
+               <lb xml:id="p001_l_99"/>schwermütigen Jugendromans nicht entziehen,
+               <milestone unit="textregion" xml:id="p001_r_2"/> 
+               <lb xml:id="p001_l_103"/>und man wird in seltsam tiefer Weise berührt 
+               <lb xml:id="p001_l_107"/>von seiner reinen und anspruchslosen Sprache. 
+               <lb xml:id="p001_l_111"/>Fügen wir noch einen Satz Alfred Neumanns 
+               <lb xml:id="p001_l_115"/>hinzu, welcher das Vorwort zu der sehr fein 
+               <lb xml:id="p001_l_119" break="no"/>fühligen Uebersetzung A. Seiffharts geschrieben 
+               <lb xml:id="p001_l_123"/>hat: "Seltsamstes Buch einer zugleich sehr alten 
+               <lb xml:id="p001_l_127"/>und neuen Romantik, großzügig, mutig im Geist 
+               <lb xml:id="p001_l_131"/>und voller menschlicher Wunder."</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> A. Schw.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
