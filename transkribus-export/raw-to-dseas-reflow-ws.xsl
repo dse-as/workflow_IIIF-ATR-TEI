@@ -71,7 +71,10 @@
         *:div | 
         *:head | 
         *:figure | 
-        *:p"
+        *:p |
+        *:include |
+        *:fallback |
+        comment()"
         expand-text="true">
         <xsl:variable name="me" select="."/>
         <!--LF before start tag if no one has closed before us (giving an LF) -->
@@ -115,7 +118,8 @@
         *:bibl[parent::*:sourceDesc or parent::*:bibl] |
         *:text | 
         *:body | 
-        *:figure"
+        *:figure |
+        *:include"
         mode="tag-indent"  expand-text="true">
         <xsl:text>{ (: indent :) (ancestor::* ! $indent-ws) => string-join('') }</xsl:text>
     </xsl:template>
