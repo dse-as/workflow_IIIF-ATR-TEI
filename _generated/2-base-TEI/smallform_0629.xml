@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0629" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0629#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0629</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0629"> 
+               <persName/>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0629_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211937_013%21zui-001_1937_013_0866.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l"/>Sech im Ruhestand</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_1"/>Wir haben augenblicklich sechs Alt Bundesräte – das ist in der Schweizer Verfas 
+               <lb xml:id="p001_r_1_tl_2" break="no"/>sungsgeschichte ein Unikum. Unsere Mitarbeiterin Dr. Annemarie Clark hat die 
+               <lb xml:id="p001_r_1_tl_3"/>einstigen Magistraten besucht und sich mit ihnen über ihren Ruhestand unterhalten.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <p> 
+               <lb xml:id="p001_r_2_tl_1"/>Der Vorschlag wurde einmal gemacht: daß man die aus 
+               <lb xml:id="p001_r_2_tl_2"/>ihrem Amt ausscheidenden Bundesräte als "Sondermit 
+               <lb xml:id="p001_r_2_tl_3" break="no"/>glieder" in den Ständerat einfügt, um dem Land ihre Erfah 
+               <lb xml:id="p001_r_2_tl_4" break="no"/>rung und ihre Weisheit zu erhalten. Auf diese Art würde sich 
+               <lb xml:id="p001_r_2_tl_5"/>also ein "Rat der Weisen", – oder "Rat der Alten" bilden, 
+               <lb xml:id="p001_r_2_tl_6"/>dessen warnende oder beratende Stimme die Politik unseres 
+               <lb xml:id="p001_r_2_tl_7"/>Parlaments kontinuierlich beeinflussen würde. Der Vorschlag 
+               <lb xml:id="p001_r_2_tl_8"/>scheint zunächst vernünftig, – aber ist er realisierbar? Und 
+               <lb xml:id="p001_r_2_tl_9"/>ist eine solche Festigung der Tradition und Kontinuität im 
+               <lb xml:id="p001_r_2_tl_10"/>Bundeshaus notwendig? – Wir kennen ja in der Schweiz 
+               <lb xml:id="p001_r_2_tl_11"/>keine dramatischen Kabinettstürze und sind dem Zufall eines 
+               <lb xml:id="p001_r_2_tl_12"/>totalen Regierungs- und Führungswechsels nicht ausgesetzt, 
+               <lb xml:id="p001_r_2_tl_13"/>wie es in diktatorisch regierten Staaten der Fall ist. Die Er 
+               <lb xml:id="p001_r_2_tl_14" break="no"/>neuerung unserer Räte wie unserer obersten Exekutive, des 
+               <lb xml:id="p001_r_2_tl_15"/>Bundesrats, erfolgt allmählich, ein durch frühere Aemter und 
+               <lb xml:id="p001_r_2_tl_16"/>Funktionen politisch erzogener und praktisch geschulter Nach 
+               <lb xml:id="p001_r_2_tl_17" break="no"/>wuchs rückt in entstehende Lücken ein, – und dadurch war 
+               <lb xml:id="p001_r_2_tl_18"/>bisher eine im wahren Sinne demokratische Kontinuität immer 
+               <lb xml:id="p001_r_2_tl_19"/>gewährleistet. Vor allem aber: was sagen die Herren alt 
+               <lb xml:id="p001_r_2_tl_20"/>Bundesräte selbst zu dem Vorschlag, daß man gewissermaßer 
+               <lb xml:id="p001_r_2_tl_21"/>ihre Demission nicht akzeptieren will? Daß sie zurücktreten, 
+               <lb xml:id="p001_r_2_tl_22"/>bedeutet doch wohl, daß sie ihre Ruhe haben wollen? Sie 
+               <lb xml:id="p001_r_2_tl_23"/>leben im Ruhestand, als private Persönlichkeiten. Aber gerade 
+               <lb xml:id="p001_r_2_tl_24"/>in ihrem privaten Leben, wo sie ohne die Verantwortungen 
+               <lb xml:id="p001_r_2_tl_25"/>und Rücksichten, die sie ihrem hohen Amt schuldeten, ihre 
+               <lb xml:id="p001_r_2_tl_26"/>Beschäftigungen wählen können, spiegelt sich deutlich nicht 
+               <lb xml:id="p001_r_2_tl_27"/>nur ihr Charakter, das Bild ihrer Persönlichkeit, sondern der 
+               <lb xml:id="p001_r_2_tl_28"/>Geist, die Lebensart, der politische Stil der Epoche, die sie als 
+               <lb xml:id="p001_r_2_tl_29"/>Leiter der Geschicke unseres Landes entscheidend beeinflußt 
+               <lb xml:id="p001_r_2_tl_30"/>haben. – Als Staatsbeamte sind die ausscheidenden Bundes 
+               <lb xml:id="p001_r_2_tl_31" break="no"/>räte pensioniert, – aus Sorge um ihren Lebensunterhalt brau 
+               <lb xml:id="p001_r_2_tl_32" break="no"/>chen sie also nicht nach Beschäftigung zu suchen. Die Verant 
+               <lb xml:id="p001_r_2_tl_33" break="no"/>wortung ist von ihren Schultern genommen. Sie können, nach 
+               <lb xml:id="p001_r_2_tl_34"/>unseren darin jedenfalls demokratischen Begriffen "standes 
+               <lb xml:id="p001_r_2_tl_35" break="no"/>gemäß" leben, sie können, wenn sie es wollen, den ganzen Tag 
+               <lb xml:id="p001_r_2_tl_36"/>fischen oder in ihrer Bibliothek stöbern oder sich ihrer Fa 
+               <lb xml:id="p001_r_2_tl_37" break="no"/>milie widmen oder Karten spielen. Sie haben aber, auch ohne 
+               <lb xml:id="p001_r_2_tl_38"/>den "Rat der Weisen", die verschiedensten Möglichkeiten, sich 
+               <lb xml:id="p001_r_2_tl_39"/>weiterhin politisch und öffentlich zu betätigen. Die Schweiz 
+               <lb xml:id="p001_r_2_tl_40"/>ist der Sitz zahlreicher internationaler Institute, – seit dem 
+               <lb xml:id="p001_r_2_tl_41"/>Weltkrieg ist ihre traditionelle Aufgabe noch gewachsen, die 
+               <lb xml:id="p001_r_2_tl_42"/>ihr wegen ihrer besonderen Lage, ihrer Neutralität und ihrer 
+               <lb xml:id="p001_r_2_tl_43"/>Möglichkeit, ein "Völkerbund im Kleinen" zu sein, zugewiesen 
+               <lb xml:id="p001_r_2_tl_44"/>wurde. Und viele Bundesräte, einmal von der Last aktueller 
+               <lb xml:id="p001_r_2_tl_45"/>Pflichten befreit, haben sich diesen großen und wichtigen Auf 
+               <lb xml:id="p001_r_2_tl_46" break="no"/>gaben zugewandt, – unter ihnen Ruffy, Comtesse, Frey, 
+               <lb xml:id="p001_r_2_tl_47"/>Decoppet, Numa Droz, Forrer. Gerade heute, da soviel von 
+               <lb xml:id="p001_r_2_tl_48"/>der "Erneuerung der Demokratie" die Rede ist, lohnt es sich, 
+               <lb xml:id="p001_r_2_tl_49"/>einmal darüber nachzudenken, wie diese Erneuerung eigentlich 
+               <lb xml:id="p001_r_2_tl_50"/>gemeint sei? Obwohl die von gewissen Kreisen gewünschte 
+               <lb xml:id="p001_r_2_tl_51"/>gründliche "Reinigung", – d. h. doch wohl die Ersetzung alt 
+               <lb xml:id="p001_r_2_tl_52" break="no"/>bewährter und erfahrungsreicher Kräfte durch junge Leute 
+               <lb xml:id="p001_r_2_tl_53"/>mit Führergelüsten und drastischen "weltanschaulich beding 
+               <lb xml:id="p001_r_2_tl_54" break="no"/>ten" Plänen überhaupt <hi rendition="#g">demokratisch</hi> wäre, oder nicht 
+               <lb xml:id="p001_r_2_tl_55"/>vielmehr ein gänzlich unschweizerisches und gefährliches Ex 
+               <lb xml:id="p001_r_2_tl_56" break="no"/>periment? – Anläßlich des ersten August haben wir uns daher 
+               <lb xml:id="p001_r_2_tl_57"/>einmal umgeschaut, was unsere sechs Bundesräte im Ruhestand 
+               <lb xml:id="p001_r_2_tl_58"/>machen, – und die neuen Pflichten, die sie freiwillig über 
+               <lb xml:id="p001_r_2_tl_59" break="no"/>nommen haben, die Sorgen, die sie erfüllen, zeugen, daß in 
+               <lb xml:id="p001_r_2_tl_60"/>unserer Demokratie Kräfte und Werte nicht plötzlich aus 
+               <lb xml:id="p001_r_2_tl_61" break="no"/>geschieden und damit erledigt werden, sondern auch von der 
+               <lb xml:id="p001_r_2_tl_62"/>privaten Sphäre aus wirksam bleiben.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_4"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_4_tl_1"/><hi rendition="#i">Six anciens 
+                  <lb xml:id="p001_r_4_tl_2"/>Conseillers fédéraux</hi></p>
+            <p> 
+               <lb xml:id="p001_r_4_tl_3"/><hi rendition="#i">On émit un jour le projet d'admettre automatiquement les 
+                  <lb xml:id="p001_r_4_tl_4"/>Conseillers fédéraux démissionnaires comme membres extra 
+                  <lb xml:id="p001_r_4_tl_5" break="no"/>ordinaires du Conseil des Etats. Cette idée d'un "Sénat des 
+                  <lb xml:id="p001_r_4_tl_6"/>Anciens" peut être une suggestion intéressante, mais est-ce bien 
+                  <lb xml:id="p001_r_4_tl_7"/>nécessaire? est-ce surtout réalisable? La Suisse ne connaît pas 
+                  <lb xml:id="p001_r_4_tl_8"/>de dramatiques crises ministérielles et de brusques change 
+                  <lb xml:id="p001_r_4_tl_9" break="no"/>ments de politique. De plus, il semble peu probable que les 
+                  <lb xml:id="p001_r_4_tl_10"/>principaux intéressés, les anciens Conseillers fédéraux, accepte 
+                  <lb xml:id="p001_r_4_tl_11" break="no"/>raient aussitôt après leur démission une nouvelle charge politi 
+                  <lb xml:id="p001_r_4_tl_12" break="no"/>que. Au reste, comme le disent les légendes de ce reportage, on 
+                  <lb xml:id="p001_r_4_tl_13"/>voit que des relations étroites et suivies subsistent entre les 
+                  <lb xml:id="p001_r_4_tl_14"/>"anciens" et les "actuels", que malgré leur retour à la vie pri 
+                  <lb xml:id="p001_r_4_tl_15" break="no"/>vée, les anciens Conseillers fédéraux sont toujours prêts à 
+                  <lb xml:id="p001_r_4_tl_16"/>servir le pays.</hi></p>
+
+            <milestone unit="textregion" xml:id="p001_r_3"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_8"/>Felix Ludwig Calonder und Heinrich Häberlin</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_6"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_6_tl_1"/>Photopress</p>
+
+            <milestone unit="textregion" xml:id="p001_r_7"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_7_tl_1"/>Alt Bundesrat 
+               <lb xml:id="p001_r_7_tl_2"/>Dr. Felix Ludwig Calonder</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_7_tl_3"/>ein elastischer Grandseigneur, der je 37 Jahre in 
+               <lb xml:id="p001_r_7_tl_4"/>vergangenen und gegenwärtigen Jahrhundert hin 
+               <lb xml:id="p001_r_7_tl_5" break="no"/>ter sich gebracht hat, war der Vertreter "alt fry 
+               <lb xml:id="p001_r_7_tl_6"/>Rhætiens" im Bundesrate von 1913 bis 1920 und 
+               <lb xml:id="p001_r_7_tl_7"/>zwar 4 Jahre als Vorsteher des Departementes des 
+               <lb xml:id="p001_r_7_tl_8"/>Innern und ab 1917 als Chef des Politischen De 
+               <lb xml:id="p001_r_7_tl_9" break="no"/>partementes. 1918, dem Jahr des Generalstreiks 
+               <lb xml:id="p001_r_7_tl_10"/>war er Bundespräsident. Der Weltkrieg wies ihm 
+               <lb xml:id="p001_r_7_tl_11"/>besondere Aufgaben der Verwaltung zu. Verschie 
+               <lb xml:id="p001_r_7_tl_12" break="no"/>dene Volksabstimmungen über direkte und indi 
+               <lb xml:id="p001_r_7_tl_13" break="no"/>rekte Steuern, welche mit den Mobilisationskosten 
+               <lb xml:id="p001_r_7_tl_14"/>zusammenhängen, fallen in seine Amtszeit. In diese 
+               <lb xml:id="p001_r_7_tl_15"/>fiel auch die Einführung der Proporzwahl des Na 
+               <lb xml:id="p001_r_7_tl_16" break="no"/>tionalrates, sowie die Unterstellung von Staatsver 
+               <lb xml:id="p001_r_7_tl_17" break="no"/>trägen unter das Referendum. Im übrigen sind die 
+               <lb xml:id="p001_r_7_tl_18"/>besondern Merkmale seiner Amtstätigkeit im Aus 
+               <lb xml:id="p001_r_7_tl_19" break="no"/>bau der Verwaltungs- und Disziplinargerichtsbar 
+               <lb xml:id="p001_r_7_tl_20" break="no"/>keit und in allgemeinen verwaltungspolitischen 
+               <lb xml:id="p001_r_7_tl_21"/>Maßnahmen zu finden. Calonders Vorgänger im 
+               <lb xml:id="p001_r_7_tl_22"/>Bundesrat war der radikale Neuenburger Perrier, 
+               <lb xml:id="p001_r_7_tl_23"/>sein Nachfolger der Thurgauer Häberlin. Kaum 
+               <lb xml:id="p001_r_7_tl_24"/>aus unserer obersten Landesbehörde zurückgetreten, 
+               <lb xml:id="p001_r_7_tl_25"/>ordnete ihn der Bundesrat in die internationale 
+               <lb xml:id="p001_r_7_tl_26"/>Rheinkommission ab und seit 1922 bis vor wenigen 
+               <lb xml:id="p001_r_7_tl_27"/>Tagen bekleidete er das Amt eines Präsidenten der 
+               <lb xml:id="p001_r_7_tl_28"/>gemischten Kommission für Oberschlesien in Kat 
+               <lb xml:id="p001_r_7_tl_29" break="no"/>towitz. Jetzt ist diese Kommission liquidiert und 
+               <lb xml:id="p001_r_7_tl_30"/>Dr. Calonder ist – nachdem er letzte Woche von 
+               <lb xml:id="p001_r_7_tl_31"/>Reichskanzler Hitler auf dem Obersalzberg zu 
+               <lb xml:id="p001_r_7_tl_32"/>einem Abschiedsbesuch empfangen wurde – in die 
+               <lb xml:id="p001_r_7_tl_33"/>Heimat zurückgekehrt.</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_7_tl_34"/>M. Félix Ludwig Calonder est né en 1863 à Schuls. 
+               <lb xml:id="p001_r_7_tl_35"/>Il étudia le droit à Berne, Zurich, Munich et Paris, 
+               <lb xml:id="p001_r_7_tl_36"/>et débuta en 1891 au Grand Conseil des Grison 
+               <lb xml:id="p001_r_7_tl_37"/>comme chef du parti radical démocrate de son 
+               <lb xml:id="p001_r_7_tl_38"/>canton. Juge suppléant au Tribunal fédéral, il ne 
+               <lb xml:id="p001_r_7_tl_39"/>posa pas sa candidature de Juge fédéral. Membre 
+               <lb xml:id="p001_r_7_tl_40"/>du Conseil des Etats de 1899–1913, il se voyait 
+               <lb xml:id="p001_r_7_tl_41"/>appelé à remplacer au Conseil fédéral, le 12 juin 
+               <lb xml:id="p001_r_7_tl_42"/>1913, M. Perrier, décédé. Chef du Département de 
+               <lb xml:id="p001_r_7_tl_43"/>l'Intérieur de 1913–17 et du Département politi 
+               <lb xml:id="p001_r_7_tl_44" break="no"/>que de 1917–1920. Un an après sa démission il 
+               <lb xml:id="p001_r_7_tl_45"/>fut délégué du Conseil fédéral à la Conférence in 
+               <lb xml:id="p001_r_7_tl_46" break="no"/>ternationale de la Commission rhénane et de 1922 
+               <lb xml:id="p001_r_7_tl_47"/>au 15 juillet 1937, président de la Commission 
+               <lb xml:id="p001_r_7_tl_48"/>mixte de Haute-Silésie à Kattovitz.</p>
+
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_tl_1"/>Alt Bundesrat Dr. h. c. Heinrich Häberlin</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_tl_2"/>von Bissegg und Frauenfeld. Zwei alte Kollegen schütteln sich die Hand 
+               <lb xml:id="p001_r_tl_3"/>Dr. Häberlin (rechts) kam 1920 als Nachfolger von Dr. Calonder (links) 
+               <lb xml:id="p001_r_tl_4"/>in den Bundesrat. Jetzt sind sie beide im Ruhestand – und treffen 
+               <lb xml:id="p001_r_tl_5"/>sich, im Januar 1937, an einer Kundgebung für die Anerkennung des 
+               <lb xml:id="p001_r_tl_6"/>Rätoromanischen als vierte Landessprache, in Zürich. Dr. Calonder ist 
+               <lb xml:id="p001_r_tl_7"/>Bündner, – Dr. Häberlin ist ein Freund Graubündens, – das Engadin 
+               <lb xml:id="p001_r_tl_8"/>wo er seit 1899 jedes Jahr seine Ferien verbringt, ist ihm eine Art von 
+               <lb xml:id="p001_r_tl_9"/>Wahlheimat geworden. Meistens wohnt er dann in Chantarella unc 
+               <lb xml:id="p001_r_tl_10"/>macht täglich, vom Hund des Hotelbesitzers treu begleitet, Spazier 
+               <lb xml:id="p001_r_tl_11"/>gänge und Touren, die schon für einen Jüngeren eine achtenswerte 
+               <lb xml:id="p001_r_tl_12"/>Leistung wären. Die Engadiner nennen Dr. Häberlin den "Oberst", – 
+               <lb xml:id="p001_r_tl_13"/>er war nämlich während der Grenzbesetzung ein Jahr lang mit seinem 
+               <lb xml:id="p001_r_tl_14"/>Regiment in Graubünden stationiert. – Er, der während seiner Amts 
+               <lb xml:id="p001_r_tl_15" break="no"/>zeit die nachhaltigsten Erfolge auf dem Gebiet der schweizerischen und 
+               <lb xml:id="p001_r_tl_16"/>internationalen Rechtssprechung und besonders des Strafrechts hatte, 
+               <lb xml:id="p001_r_tl_17"/>der heute noch als Experte für solche Fragen herangezogen wird, will 
+               <lb xml:id="p001_r_tl_18"/>seinen 70. Geburtstag – am 6. September des nächsten Jahres – als 
+               <lb xml:id="p001_r_tl_19"/>Privatmann feiern. "Sonst hätte ich ja nicht demissioniert", erklärt 
+               <lb xml:id="p001_r_tl_20"/>er, – "die Jungen sollen jetzt Politik machen. Ich beschäftige mich 
+               <lb xml:id="p001_r_tl_21"/>mit allem außer mit Politik." Und so ist er denn Präsident von 
+               <lb xml:id="p001_r_tl_22"/>Pro Juventute, war es bis vor kurzem für die Ulrico Hoepli-Stiftung, 
+               <lb xml:id="p001_r_tl_23"/>welche Künstler unterstützt und ihnen die Herausgabe ihrer Werke er 
+               <lb xml:id="p001_r_tl_24" break="no"/>möglicht, ist einer der Gründer der Thurgauischen Kunstgesellschaft, 
+               <lb xml:id="p001_r_tl_25"/>und gehört der Natur- und Heimatschutz-Kommission an. Das klingt 
+               <lb xml:id="p001_r_tl_26"/>nach privaten Liebhabereien, aber auch nach nützlichen und wichtigen. 
+               <lb xml:id="p001_r_tl_27"/>Besonders für den Natur- und Heimatschutz ist Dr. Häberlin sicher der 
+               <lb xml:id="p001_r_tl_28"/>richtige Mann: er, der auf seinen Spaziergängen am Piz Nair und auf 
+               <lb xml:id="p001_r_tl_29"/>der Fuorcla Schlatain Alpenpflanzen sammelt, aber kein guter Schütze 
+               <lb xml:id="p001_r_tl_30"/>ist, und erst recht kein Jäger – die Rehe würden ihm leid tun – und auf 
+               <lb xml:id="p001_r_tl_31"/>dessen Schreibtisch in Chantarella ein umfangreiches Manuskript liegt, 
+               <lb xml:id="p001_r_tl_32"/>geschrieben von einem ehemaligen Grenzwächter aus dem Averser Tal.</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_tl_33"/><hi rendition="#i">Deux anciens Conseillers fédéraux se retrouvent à la réunion pour la 
+                  <lb xml:id="p001_r_tl_34"/>langue rhéto-romanche, à Zurich; voici, à droite, M. Heinrich Häber 
+                  <lb xml:id="p001_r_tl_35" break="no"/>lin et à gauche, M. Félix-Ludwig Calonder, se serrant la main.</hi></p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_tl_36"/><hi rendition="#i">M. Heinrich Häberlin, né en 1868, est originaire de Bissegg et Frauen 
+                  <lb xml:id="p001_r_tl_37" break="no"/>feld. Après des études de droit à Zurich, Leipzig et Berlin, il exerça la 
+                  <lb xml:id="p001_r_tl_38"/>charge d'avocat à Weinfelden, puis à Frauenfeld. Membre du Conseil 
+                  <lb xml:id="p001_r_tl_39"/>national dès 1904, il se voyait en 1920 appelé à remplacer au Conseil 
+                  <lb xml:id="p001_r_tl_40"/>fédéral M. Calonder. Durant 14 ans, il occupa la présidence du Dé 
+                  <lb xml:id="p001_r_tl_41" break="no"/>partement fédéral de Justice et Police. Démissionnaire en 1934, M. 
+                  <lb xml:id="p001_r_tl_42"/>Häberlin néglige depuis toutes activités politiques. "La politique est 
+                  <lb xml:id="p001_r_tl_43"/>l'affaire des jeunes", aime-t-il à affirmer. Mais dans le domaine social 
+                  <lb xml:id="p001_r_tl_44"/>M. Häberlin est encore actuellement président de "Pro Juventute". 
+                  <lb xml:id="p001_r_tl_45"/>Ami de la nature, il dirige le "Heimatschutz". Protecteur des Arts et 
+                  <lb xml:id="p001_r_tl_46"/>des Lettres, il fut l'un des fondateurs de la Société thurgovienne des 
+                  <lb xml:id="p001_r_tl_47"/>Beaux-Arts et jusqu'à ces temps derniers, président de la Fondation 
+                  <lb xml:id="p001_r_tl_48"/>Ulrico Hoepli. Par ailleurs, éminent pénaliste, il est souvent appelé en 
+                  <lb xml:id="p001_r_tl_49"/>consultation.</hi></p>
+
+            <pb xml:id="p002" facs="https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211937_013%21zui-001_1937_013_0867.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p002_r_1"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p002_l"/>Edmund Schulthess mit seiner Frau und seiner Enkelin</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_tl_1"/>Photo Senn</p>
+
+            <milestone unit="textregion" xml:id="p002_r_4"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_4_tl_1"/>Alt Bundesrat Dr. h. c. Edmund Schultheß</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_4_tl_2"/>Ein Bild aus dem Privatleben: unser alt Bundesrat mit seiner Frau und seiner kleinen Enkelin Margarit de Quevedo. Absicht 
+               <lb xml:id="p002_r_4_tl_3" break="no"/>lich haben wir diese Photo gewählt, – weil es nämlich selten und schwierig ist, Herrn Dr. Schultheß "privat"anzutreffen! 
+               <lb xml:id="p002_r_4_tl_4"/>23 Jahre lang, von 1912 bis 1935, gehörte er dem Bundesrat an, und war nicht weniger als viermal Bundespräsident, in so kri 
+               <lb xml:id="p002_r_4_tl_5" break="no"/>tischen und verantwortungsschweren Jahren wie 1917, 1921, 1928 und 1933. Als Leiter des volkswirtschaftlichen Departe 
+               <lb xml:id="p002_r_4_tl_6" break="no"/>ments mußte er sich um die Versorgung unseres Landes während des Weltkrieges kümmern, – und nach dem Krieg erlebte 
+               <lb xml:id="p002_r_4_tl_7"/>er den gewaltigen Ansturm neuer sozialer und wirtschaftlicher Probleme. Fabrikgesetz und Arbeitslosenfürsorge, die Grün 
+               <lb xml:id="p002_r_4_tl_8" break="no"/>dung des schweizerischen Arbeitsamtes und eine Reihe von Entwürfen für den Ausbau des Versicherungswesens sind mit seinem 
+               <lb xml:id="p002_r_4_tl_9"/>Namen verknüpft. Aber trotz dieser langen und vielseitigen Tätigkeit macht Dr. Schultheß jetzt vom "Ruhestand" nicht viel 
+               <lb xml:id="p002_r_4_tl_10"/>Gebrauch. Daß er seinen Wohnsitz in Bern beibehalten hat, ist natürlich kein Zufall, dort bleibt er in ständigem Kontakt mit 
+               <lb xml:id="p002_r_4_tl_11"/>den früheren Kollegen, dort bleibt er, wie man sagt, "auf dem laufenden", – und sein Bureau in der Effingerstraße, wo er 
+               <lb xml:id="p002_r_4_tl_12"/>seines Amtes als Präsident der eidgenössischen Bankenkommission waltet, befindet sich in nächster Nachbarschaft des Bundes 
+               <lb xml:id="p002_r_4_tl_13" break="no"/>hauses. Außerdem ist Dr. Schultheß schweizerischer Delegierter bei der jährlichen Konferenz des Internationalen Arbeitsamtes, 
+               <lb xml:id="p002_r_4_tl_14"/>seine jetzigen Funktionen sind also, wenn sie auch nicht politischen Charakter haben, doch bedeutend und verantwortungs 
+               <lb xml:id="p002_r_4_tl_15" break="no"/>voll. Alt Bundesrat Schultheß ist denn auch, – ein Politiker aus stärkster Neigung, – eine über die Grenzen der Schweiz 
+               <lb xml:id="p002_r_4_tl_16"/>hinaus bekannte, öffentliche Persönlichkeit geblieben. Sein Memorandum über die Abwertung, deren Notwendigkeit er vor 
+               <lb xml:id="p002_r_4_tl_17" break="no"/>aussah, hat viel zur Entscheidung in Bern letztes Jahr beigetragen. Auf seinem Arbeitstisch liegen die Statistiken über die 
+               <lb xml:id="p002_r_4_tl_18"/>Arbeitslosigkeit, deren Rückgang von 75 000 auf 50 000 seit dem Juni 1937 er mit Genugtuung konstatiert. Daß eine all 
+               <lb xml:id="p002_r_4_tl_19" break="no"/>gemeine Sozialversicherung in Form einer "Volksversicherung" kommen müsse, daran glaubt er trotz der Enttäuschung, die 
+               <lb xml:id="p002_r_4_tl_20"/>ihm der Ausgang der Abstimmung von 1931 über seinen Entwurf bereitet hat. Es ist einer jener aufschlußreichen Zufälle, 
+               <lb xml:id="p002_r_4_tl_21"/>daß Dr. Schultheß erst nach seinem Rücktritt und bei einem eigentlich privaten Anlaß, noch einmal in den Mittelpunkt der 
+               <lb xml:id="p002_r_4_tl_22"/>politischen Diskussion rückte. Jener private Besuch bei Adolf Hitler wurde eben eine öffentliche und eine politische An 
+               <lb xml:id="p002_r_4_tl_23" break="no"/>gelegenheit, weil der deutsche Führer und Reichskanzler unseren alt Bundesrat ermächtigte, seine Erklärung, er werde die 
+               <lb xml:id="p002_r_4_tl_24"/>Schweizerische Neutralität respektieren, offiziell der Regierung in Bern mitzuteilen. Dr. Schultheß urteilt nicht gern über andere 
+               <lb xml:id="p002_r_4_tl_25"/>Staatsmänner oder gar über ihre Zuverlässigkeit, – und bezeichnet es selbst als "realpolitisch", eine Erklärung dann als zuver 
+               <lb xml:id="p002_r_4_tl_26" break="no"/>lässig hinzunehmen, wenn sie – oder solange – sie sich mit den tatsächlichen Interessen des betreffenden Landes deckt. In die 
+               <lb xml:id="p002_r_4_tl_27" break="no"/>sem Sinne, meint er, sei die Erklärung Hitlers damals in der Schweiz auch aufgenommen worden. Das liegt nun schon eine 
+               <lb xml:id="p002_r_4_tl_28"/>Weile zurück. Aber stets ist alt Bundesrat Schultheß mit neuen Aufgaben beschäftigt und nimmt aktiv an den politischen 
+               <lb xml:id="p002_r_4_tl_29"/>Geschicken der Schweiz teil, – auch im Ruhestand.</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_4_tl_30"/><hi rendition="#i">M. Edmund Schulthess, bourgeois de Brugg et Zurich, est né en 1868. Il fit des études juridiques à Strasbourg, Munich, Leipzig 
+                  <lb xml:id="p002_r_4_tl_31"/>et Berne. Elu Conseiller aux Etats en 1905, il remplaça en 1912 M. Deucher au Conseil fédéral. Chef du Département de l'Agri 
+                  <lb xml:id="p002_r_4_tl_32" break="no"/>culture, M. Schulthess fut par quatre fois, à des moments particulièrement difficiles, 1917, 21, 28, 33, Président de la Con 
+                  <lb xml:id="p002_r_4_tl_33" break="no"/>fédération. Au cours de son activité officielle comme après sa retraite, M. Schulthess n'a cessé de chercher à porter remède au 
+                  <lb xml:id="p002_r_4_tl_34"/>chômage. Président de la Commission fédérale des Banques, l'ancien Conseiller fédéral vit toujours en contact étroit avec 
+                  <lb xml:id="p002_r_4_tl_35"/>ses successeurs. Homme d'initiative et partisan de "realpolitik", M. Schulthess, on s'en souvient, rendit récemment visite au 
+                  <lb xml:id="p002_r_4_tl_36"/>Chancelier Hitler, visite où le Führer assura officiellement son respect de la neutralité suisse: Cette photographie, prise à Berne, 
+                  <lb xml:id="p002_r_4_tl_37"/>montre l'ancien Conseiller fédéral en compagnie de Madame Schulthess et de sa petite-fille Margarit de Quevedo.</hi></p>
+
+            <milestone unit="textregion" xml:id="p002_r_2"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p002_l_4"/>Robert Haab neben dem Abt des Klosters Einsiedeln, Ignatius Staub</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p002_r_3"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_3_tl_1"/>Photo Staub</p>
+
+            <milestone unit="textregion" xml:id="p002_r_6"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_6_tl_1"/>Alt Bundesrat Dr. Robert Haab</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_6_tl_2"/>Nur ein Jahr lang war Dr. Haab schweizerischer Gesandter in 
+               <lb xml:id="p002_r_6_tl_3"/>Berlin, bevor er, 1918, in den Bundesrat berufen wurde. Aber 
+               <lb xml:id="p002_r_6_tl_4"/>auch als Post- und Eisenbahnminister, und erst recht als Privat 
+               <lb xml:id="p002_r_6_tl_5" break="no"/>mann, hat er die weltmännischen, verbindlichen, gescheit- 
+               <lb xml:id="p002_r_6_tl_6"/>liebenswürdigen Allüren des Diplomaten beibehalten, und 
+               <lb xml:id="p002_r_6_tl_7"/>widerlegt die verbreitete Ansicht, daß ein guter Schweizer und 
+               <lb xml:id="p002_r_6_tl_8"/>insbesondere ein rechter Zürcher ein bißchen ungeschliffen und 
+               <lb xml:id="p002_r_6_tl_9"/>rauhbeinig auftreten und möglichst unelegant gekleidet sein 
+               <lb xml:id="p002_r_6_tl_10"/>müsse. Dr. Haab hat einen Teil seiner Studienjahre in Deutsch 
+               <lb xml:id="p002_r_6_tl_11" break="no"/>land verbracht, – und jenem alten Deutschland, mit seinem 
+               <lb xml:id="p002_r_6_tl_12"/>schönen akademischen Leben, seiner echten humanistischen Bil 
+               <lb xml:id="p002_r_6_tl_13" break="no"/>dung, seiner bürgerlichen Kultur-Tradition bewahrt er ein Ge 
+               <lb xml:id="p002_r_6_tl_14" break="no"/>fühl von dankbarer Verbundenheit. Seine schweizerischen Auf 
+               <lb xml:id="p002_r_6_tl_15" break="no"/>gaben waren durch sein besonderes Amt begrenzt: Alpenposten, 
+               <lb xml:id="p002_r_6_tl_16"/>Elektrifizierung der Bundesbahnen und Darlehen für den 
+               <lb xml:id="p002_r_6_tl_17"/>gleichen Zweck an Privatbahnen, Arbeitsgesetz für die Trans 
+               <lb xml:id="p002_r_6_tl_18" break="no"/>portanstalten, Weltpostverträge und die Reorganisation der 
+               <lb xml:id="p002_r_6_tl_19"/>S. B. B., – das waren wichtige Resultate, wenn sie auch wenig 
+               <lb xml:id="p002_r_6_tl_20"/>Gelegenheit zu blendenden politischen Erfolgen boten. Dr. Haab 
+               <lb xml:id="p002_r_6_tl_21"/>bedauert dies nicht, – er ist alles andere als ein ehrgeiziger 
+               <lb xml:id="p002_r_6_tl_22"/>Politikus, hat sein Amt nie als Tribüne für persönliches Her 
+               <lb xml:id="p002_r_6_tl_23" break="no"/>vortreten benützt. Und als er im Dezember demissio 
+               <lb xml:id="p002_r_6_tl_24" break="no"/>nierte, tat er es, um sich völlig von der Politik zurückzuziehen. 
+               <lb xml:id="p002_r_6_tl_25"/>"Ich habe das Bundeshaus kaum wieder betreten", sagt er, 
+               <lb xml:id="p002_r_6_tl_26"/>das einzige Amt, daß er seither übernahm, ist das eines Präsi 
+               <lb xml:id="p002_r_6_tl_27" break="no"/>denten des Verwaltungsrates der Schweizerischen Volksbank. 
+               <lb xml:id="p002_r_6_tl_28"/>Offenbar würde er seine Wohnung in Zürich, am Alpenquai, 
+               <lb xml:id="p002_r_6_tl_29"/>ungern verlassen, um einem "Rat der Weisen" beizutreten, 
+               <lb xml:id="p002_r_6_tl_30"/>obwohl er seine Zeit nicht etwa mit kleinen Liebhabereien ver 
+               <lb xml:id="p002_r_6_tl_31" break="no"/>bringt, sondern sich um die großen Geschehnisse der Welt küm 
+               <lb xml:id="p002_r_6_tl_32" break="no"/>mert, im Kontakt und Austausch mit früheren Kollegen und 
+               <lb xml:id="p002_r_6_tl_33"/>persönlichen Freunden. Wenn er sich aber einmal, wie es 
+               <lb xml:id="p002_r_6_tl_34"/>manchmal der Fall ist, einer öffentlichen Funktion unterziehen 
+               <lb xml:id="p002_r_6_tl_35"/>muß, tut er es mit dem Pflichtgefühl und der Sicherheit und 
+               <lb xml:id="p002_r_6_tl_36"/>Ueberlegenheit, die den alten Politiker von Rang kennzeichnet. 
+               <lb xml:id="p002_r_6_tl_37"/>Da mußte etwa, im Mai dieses Jahres, das Etzelwerk vom 
+               <lb xml:id="p002_r_6_tl_38"/>Abt von Einsiedeln eingesegnet werden, weil sonst kein Bauer 
+               <lb xml:id="p002_r_6_tl_39"/>aus jener katholischen Gegend über die neue Brücke gefahren 
+               <lb xml:id="p002_r_6_tl_40"/>wäre: und neben dem Abt, Dr. Ignatius Staub, in seinem 
+               <lb xml:id="p002_r_6_tl_41"/>prächtigen Ornat, vertrat alt Bundesrat Haab sozusagen die 
+               <lb xml:id="p002_r_6_tl_42"/>weltliche Macht, nämlich den Verwaltungsrat des Etzelwerks ...</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_6_tl_43"/><hi rendition="#i">M. Robert Haab, de Wädenswil est né en 1865. Sa parfaite 
+                  <lb xml:id="p002_r_6_tl_44"/>connaissance de l'Allemagne où il fit ses études de droit et la 
+                  <lb xml:id="p002_r_6_tl_45"/>compétence dont il fit preuve tant au Département de Justice 
+                  <lb xml:id="p002_r_6_tl_46"/>et Police, au Département des Constructions du Canton de 
+                  <lb xml:id="p002_r_6_tl_47"/>Zurich qu'à la direction générale des C. F. F. le désignèrent en 
+                  <lb xml:id="p002_r_6_tl_48"/>1917 comme ministre de Suisse à Berlin. Un an plus tard il 
+                  <lb xml:id="p002_r_6_tl_49"/>était appelé au Conseil fédéral. Il est resté jusqu'en 1929 dé 
+                  <lb xml:id="p002_r_6_tl_50" break="no"/>pensant dans le cadre de son Département des Postes et Che 
+                  <lb xml:id="p002_r_6_tl_51" break="no"/>mins de fer une grande activité: Création des Postes alpestres, 
+                  <lb xml:id="p002_r_6_tl_52"/>électrification et réorganisation des C. F. F., etc. Après sa re 
+                  <lb xml:id="p002_r_6_tl_53" break="no"/>traite, M. Haab n'a cessé de manifester ses talents d'organisa 
+                  <lb xml:id="p002_r_6_tl_54" break="no"/>teur et de financier. Il préside aux destinées de la Banque popu 
+                  <lb xml:id="p002_r_6_tl_55" break="no"/>laire suisse et dirige le conseil d'administration des forces mo 
+                  <lb xml:id="p002_r_6_tl_56" break="no"/>trices de l'Etzel. M. Haab a – dans l'esprit de certains Suisses 
+                  <lb xml:id="p002_r_6_tl_57"/>– le tort de viser à une recherche d'élégance (ce qui, paraît-il, 
+                  <lb xml:id="p002_r_6_tl_58"/>est anti-démocratique). Cette photographie récente, prise à la 
+                  <lb xml:id="p002_r_6_tl_59"/>cérémonie inaugurative du barrage de l'Etzel, montre l'ancien 
+                  <lb xml:id="p002_r_6_tl_60"/>Conseiller fédéral en compagnie du Prince-Abbé d'Einsiedeln 
+                  <lb xml:id="p002_r_6_tl_61"/>S. G. Ignatius Staub.</hi></p>
+
+            <pb xml:id="p003" facs="https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211937_013%21zui-001_1937_013_0868.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p003_r"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p003_l"/>Ernest Chuard</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p003_r_2"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p003_r_2_tl_1"/>Photopress</p>
+
+            <milestone unit="textregion" xml:id="p003_r_4"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p003_r_4_tl_1"/>Alt Bundesrat Dr. h. c. Ernest Chuard</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p003_r_4_tl_2"/>Es hat seinen guten Grund, daß wir ihn gerade in der Bibliothek seiner Lau 
+               <lb xml:id="p003_r_4_tl_3" break="no"/>sanner Wohnung photographieren: denn Monsieur Chuard ist ein Gelehrter. 
+               <lb xml:id="p003_r_4_tl_4"/>Bevor er in die politische Laufbahn berufen wurde, war er Professor der Chemie 
+               <lb xml:id="p003_r_4_tl_5"/>an der Lausanner Universität und einer der Gründer der Société Académique 
+               <lb xml:id="p003_r_4_tl_6"/>Vaudoise, – zu Aufgaben der Förderung wissenschaftlicher Forschung ist er 
+               <lb xml:id="p003_r_4_tl_7"/>nach seiner Demission im Bundesrat 1928 auch zurückgekehrt. Wer heute das 
+               <lb xml:id="p003_r_4_tl_8"/>Vergnügen hat, Herrn Chuard zu begegnen, weiß, daß er nicht aus Neigung 
+               <lb xml:id="p003_r_4_tl_9"/>oder gar Ehrgeiz Politiker geworden ist, sondern aus Verantwortungsgefühl. 
+               <lb xml:id="p003_r_4_tl_10"/>Und seine Tätigkeit im Bundesrat – er wurde 1919 als Nachfolger Decoppets 
+               <lb xml:id="p003_r_4_tl_11"/>gewählt – ist denn auch durch die Teilnahme an humanen und erzieherischen 
+               <lb xml:id="p003_r_4_tl_12"/>Aufgaben gekennzeichnet, wie etwa die Unterstützung der schweiz. Volks 
+               <lb xml:id="p003_r_4_tl_13" break="no"/>bibliothek und die Tuberkulosebekämpfung. Er, dessen kultivierte Persönlich 
+               <lb xml:id="p003_r_4_tl_14" break="no"/>keit und Sinn für das Vernünftige, Menschliche, Tatsächliche so durchaus 
+               <lb xml:id="p003_r_4_tl_15"/>romanisch sind, hat wie kein anderer für die Verständigung zwischen welscher 
+               <lb xml:id="p003_r_4_tl_16"/>und deutscher Schweiz gewirkt. Er war es, der Ulrich Wille nach seiner Er 
+               <lb xml:id="p003_r_4_tl_17" break="no"/>nennung zum General in Lausanne empfangen hat, – und in ihm weniger den 
+               <lb xml:id="p003_r_4_tl_18"/>Militär als den Psychologen und Erzieher, und den "homme avec beaucoup de 
+               <lb xml:id="p003_r_4_tl_19"/>bon sens" schätzte. – Jetzt feiert Dr. Chuard seinen achtzigsten Geburtstag 
+               <lb xml:id="p003_r_4_tl_20"/>am 31. Juli, dem Tag des Erscheinens dieser Nummer, so daß die ZI ihm an 
+               <lb xml:id="p003_r_4_tl_21"/>dieser Stelle ihren Glückwunsch und den des Schweizervolkes übermitteln darf. 
+               <lb xml:id="p003_r_4_tl_22"/>Monsieur Chuard ist durchaus der Ansicht, daß ein Politiker "einmal Schluß 
+               <lb xml:id="p003_r_4_tl_23"/>machen muß", sei es auch, um sich anderen Aufgaben zuzuwenden, oder anderen 
+               <lb xml:id="p003_r_4_tl_24"/>Interessen, die sein Leben und das Bild seiner Persönlichkeit komplettieren und 
+               <lb xml:id="p003_r_4_tl_25"/>abrunden sollen. Erst letztes Jahr ist er von der Carnegie-Stiftung zurück 
+               <lb xml:id="p003_r_4_tl_26" break="no"/>getreten, die neben der Société pour la lutte contre la tuberculose, der Société 
+               <lb xml:id="p003_r_4_tl_27"/>cantonale des sciences naturelles und der Société Vaudoise d'agriculture seine 
+               <lb xml:id="p003_r_4_tl_28"/>Kräfte in Anspruch nahm. Aber wie legitim wirkt es gerade bei diesem 
+               <lb xml:id="p003_r_4_tl_29"/>ruhigen und überlegenen Gelehrten, wenn er sich für Fragen der politischen 
+               <lb xml:id="p003_r_4_tl_30"/>Tagesordnung erwärmt, für scheinbar so belanglose Dinge wie die Preise, die 
+               <lb xml:id="p003_r_4_tl_31"/>man den Produzenten von Brennobst zahlt. "In der Schweiz bringen die 
+               <lb xml:id="p003_r_4_tl_32"/>Alkoholgesetze nichts ein, sondern sie kosten den Staat etwas, – das ist ein 
+               <lb xml:id="p003_r_4_tl_33"/>großer Skandal!" äußert er sich, "man wollte 15 Millionen von Alkohol-Ein 
+               <lb xml:id="p003_r_4_tl_34" break="no"/>künften für die Zwecke der Sozialversicherung verwenden, – statt dessen zahlt 
+               <lb xml:id="p003_r_4_tl_35"/>man den Obstbauern so hohe Preise für ihre Mostbirnen, daß diese gar keinen 
+               <lb xml:id="p003_r_4_tl_36"/>Anlaß haben, die Produktion einzuschränken oder durch Edelobstsorten zu 
+               <lb xml:id="p003_r_4_tl_37"/>ersetzen." – Bücher, Alkoholgesetz, wissenschaftliche Forschung, soziale Auf 
+               <lb xml:id="p003_r_4_tl_38" break="no"/>gaben, – im Gespräch mit Monsieur Chuard erlebt man, wie die kleinsten 
+               <lb xml:id="p003_r_4_tl_39"/>Dinge wichtig werden durch ihren Zusammenhang mit den großen, – und wie 
+               <lb xml:id="p003_r_4_tl_40"/>sich das alles im Geist eines erfahrenen und weisen Menschen ordnet zu schöner 
+               <lb xml:id="p003_r_4_tl_41"/>Teilnahme am täglichen und ewigen Geschehen.</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p003_r_4_tl_42"/><hi rendition="#i">M. Ernest Chuard est né le 31 juillet 1857 à Corcelles près Payerne. Il étudia 
+                  <lb xml:id="p003_r_4_tl_43"/>les sciences naturelles et fut professeur de chimie à l'Université de Lausanne et 
+                  <lb xml:id="p003_r_4_tl_44"/>directeur de la station viticole. Conseiller national en 1907, Conseiller aux Etats 
+                  <lb xml:id="p003_r_4_tl_45"/>de 1912–19, il remplaçait en 1919 M. Decoppet au Conseil fédéral et jusqu'en 
+                  <lb xml:id="p003_r_4_tl_46"/>1928 fut chef du Departement de l'Intérieur. Depuis sa retraite M. Chuard ma 
+                  <lb xml:id="p003_r_4_tl_47" break="no"/>nifeste son activité dans les domaines les plus divers. Il fut, jusqu'à l'an dernier, 
+                  <lb xml:id="p003_r_4_tl_48"/>membre de la Fondation Carnégie, mais il s'occupe encore activement de la 
+                  <lb xml:id="p003_r_4_tl_49"/>Société pour la Lutte contre la Tuberculose, de la Société vaudoise des Sciences 
+                  <lb xml:id="p003_r_4_tl_50"/>naturelles et de la Société vaudoise d'agriculture. A Monsieur Chuard, qui au 
+                  <lb xml:id="p003_r_4_tl_51"/>jour de la parution de ce numéro fêtera son 80me anniversaire, la ZI présente 
+                  <lb xml:id="p003_r_4_tl_52"/>ses meilleurs vœux.</hi></p>
+
+            <milestone unit="textregion" xml:id="p003_r_3"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p003_l_4"/>Jean-Marie Musy</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p003_r_1"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p003_r_1_tl_1"/>Photopress</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p003_r_6"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p003_r_6_tl_1"/>Alt Bundesrat Dr. Jean-Marie Musy</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p003_r_6_tl_2"/>Herr Musy, unser katholisch-konservativer Politiker, wurde 1919 als Nachfolger 
+               <lb xml:id="p003_r_6_tl_3"/>Adors in den Bundesrat gewählt, war zweimal, 1925 und 1930, Bundespräsident, 
+               <lb xml:id="p003_r_6_tl_4"/>und verwaltete das Zoll- und Finanzdepartement. Das war gewiß kein leichtes 
+               <lb xml:id="p003_r_6_tl_5"/>Amt, und wir haben Herrn Musy nicht gefragt, ob ihm die Beschäftigung damit 
+               <lb xml:id="p003_r_6_tl_6"/>besondere Freude gemacht habe: Ruhegehälter für die Bundesräte, Alkoholwesen, 
+               <lb xml:id="p003_r_6_tl_7"/>Volksbegehren über die Vermögensabgabe, Revision des Zollgesetzes, Bundesgesetz 
+               <lb xml:id="p003_r_6_tl_8"/>über die Getreideversorgung, Edelmetallkontrolle, Lohnabbau des Bundespersonals; 
+               <lb xml:id="p003_r_6_tl_9"/>das sind nur ein paar Stichworte aus der langen Sorgenliste unseres Staatshaus 
+               <lb xml:id="p003_r_6_tl_10"/>halts in jenen Jahren. Jedenfalls haben sie nicht vermocht, Herrn Musy die Politik 
+               <lb xml:id="p003_r_6_tl_11"/>zu verleiden. Im Frühling 1934 trat er als Bundesrat zurück, – aber schon im 
+               <lb xml:id="p003_r_6_tl_12"/>Oktober 1935 ließ er sich in den Nationalrat wählen, um von nun an sein ganzes 
+               <lb xml:id="p003_r_6_tl_13"/>politisches Temperament für die Verwirklichung jener Ideen einzusetzen, die ihm 
+               <lb xml:id="p003_r_6_tl_14"/>wirklich am Herzen liegen. Christlicher Ständestaat, konservative Gesellschafts 
+               <lb xml:id="p003_r_6_tl_15" break="no"/>ordnung, das sind Begriffe, die Musy oft in Gegensatz zu seinen liberalen Kollegen 
+               <lb xml:id="p003_r_6_tl_16"/>gesetzt haben [sic], auch auf wirtschafts- und währungspolitischem Gebiet. Diese Richt 
+               <lb xml:id="p003_r_6_tl_17" break="no"/>linien- und Prinzipienkämpfe der hohen Politik sind aber jetzt ganz zurückgetre 
+               <lb xml:id="p003_r_6_tl_18" break="no"/>ten, seitdem Herr Musy sich einer höchst aktuellen Aufgabe zugewandt hat, 
+               <lb xml:id="p003_r_6_tl_19"/>mag er sie auch als die logische Auswirkung seiner weltanschaulichen Ueberzeugun 
+               <lb xml:id="p003_r_6_tl_20" break="no"/>gen ansehen: es ist die "Schweizerische Aktion gegen den Kommunismus", deren 
+               <lb xml:id="p003_r_6_tl_21"/>Fäden sich von Freiburg aus über die ganze Schweiz spinnen. Herr Musy kämpft 
+               <lb xml:id="p003_r_6_tl_22"/>gern und scheut nicht sich zu exponieren. Das idyllische und prachtvoll gelegene 
+               <lb xml:id="p003_r_6_tl_23"/>Schlößchen Middes bei Freiburg, das er seit einigen Jahren bewohnt, ist denn auch 
+               <lb xml:id="p003_r_6_tl_24"/>durchaus kein "Ruhesitz", – so wenig, wie alt Bundesrat Musy ein Privatmann 
+               <lb xml:id="p003_r_6_tl_25"/>geworden ist! – Vor hundert Jahren, als Frankreich von verzweifelten Aufstän 
+               <lb xml:id="p003_r_6_tl_26" break="no"/>den und heroischen Freiheitskämpfen erschüttert wurde, hat in diesem selben 
+               <lb xml:id="p003_r_6_tl_27"/>Schlößchen Middes die Stifterin des Ordens vom "Sacré Cœur" Zuflucht gefunden 
+               <lb xml:id="p003_r_6_tl_28"/>und ein paar Jahre lang gelebt, bis die Revolutionen erstickt waren und sie in ihre 
+               <lb xml:id="p003_r_6_tl_29"/>Heimat zurückkehren konnte. Das Bild der Heiligen hängt im Flur, – während 
+               <lb xml:id="p003_r_6_tl_30"/>oben im schönen Arbeitszimmer von Herrn Musy die Photographie des öster 
+               <lb xml:id="p003_r_6_tl_31" break="no"/>reichischen Kanzlers Dollfuß den Ehrenplatz einnimmt. Unser Bild zeigt National 
+               <lb xml:id="p003_r_6_tl_32" break="no"/>rat Musy bei einer Tagung der Jungkonservativen auf dem Rütli.</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p003_r_6_tl_33"/><hi rendition="#i">M. Jean-Marie Musy, ancien conseiller fédéral, est né en Gruyères, le 10 avril 1876. 
+                  <lb xml:id="p003_r_6_tl_34"/>Il fut d'abord avocat, puis directeur du Crédit Gruyérien à Bulle. Conseiller d'Etat, 
+                  <lb xml:id="p003_r_6_tl_35"/>il dirige pendant huit ans les finances du canton de Fribourg. En 1919, il remplace 
+                  <lb xml:id="p003_r_6_tl_36"/>M. Gustave Ador au Conseil fédéral. 14 ans durant, il demeure chef du Départe 
+                  <lb xml:id="p003_r_6_tl_37" break="no"/>ment fédéral des Finances. En 1934, il se démet de ses hautes fonctions, mais 
+                  <lb xml:id="p003_r_6_tl_38"/>n'abandonne point pour cela ses activités. Sollicité par les milieux financiers et poli 
+                  <lb xml:id="p003_r_6_tl_39" break="no"/>tiques de divers pays, il entreprend dès l'automne 1934 une série de conférences à 
+                  <lb xml:id="p003_r_6_tl_40"/>l'étranger. Un an plus tard, sur les instances de ses compatriotes, M. Musy accepte 
+                  <lb xml:id="p003_r_6_tl_41"/>une candidature au Conseil national. Brillamment élu, il fait sa rentrée aux Cham 
+                  <lb xml:id="p003_r_6_tl_42" break="no"/>bres par un discours remarqué où il concluait à l'urgence d'interdire les organisa 
+                  <lb xml:id="p003_r_6_tl_43" break="no"/>tions communistes sur le territoire de la Confédération. Il dirige actuellement l'Ac 
+                  <lb xml:id="p003_r_6_tl_44" break="no"/>tion Nationale suisse contre le communisme et se dépense sans compter dans cette 
+                  <lb xml:id="p003_r_6_tl_45"/>activité. M. Musy est homme de devoir, chaque fois que les circonstances l'y obli 
+                  <lb xml:id="p003_r_6_tl_46" break="no"/>gent, il s'efforce de servir son pays. Reste très sportif, notre ancien ministre 
+                  <lb xml:id="p003_r_6_tl_47"/>des finances est encore aujourd'hui un fervent chasseur et un remarquable tireur. Il 
+                  <lb xml:id="p003_r_6_tl_48"/>lui est arrivé l'an dernier d'abattre cinq chamois en cinq coups de carabine.</hi></p>
+</div>
+       </body>
+    </text>
+ </TEI>
