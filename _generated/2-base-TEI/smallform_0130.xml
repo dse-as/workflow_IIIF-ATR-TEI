@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0130" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0130#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0130</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0130"> 
+               <persName/>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0130_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.library.ethz.ch/iiif/3/e-periodica%21zui%211934_010%21zui-001_1934_010_1534.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l"/>Mazanderan</p>
+
+            <milestone unit="textregion" xml:id="p001_r_3"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_3_tl_1"/>Text 
+               <lb xml:id="p001_r_3_tl_2"/>und Aufnahmen 
+               <lb xml:id="p001_r_3_tl_3"/>von 
+               <lb xml:id="p001_r_3_tl_4"/>Annemarie 
+               <lb xml:id="p001_r_3_tl_5"/>Schwarzenbach</p>
+
+            <milestone unit="textregion" xml:id="p001_r_33"/>            <p> 
+               <lb xml:id="p001_r_33_tl_1"/>Zwischen dem riesigen Hochplateau von Iran und dem Kaspischen Meer, zwischen den 
+               <lb xml:id="p001_r_33_tl_2"/>Kaukasusketten im Westen und der Turkmenischen Steppe im Östen, liegen die schma 
+               <lb xml:id="p001_r_33_tl_3" break="no"/>len Landstriche mit den schönklingenden Namen Mazanderan und Gilan, – Persiens 
+               <lb xml:id="p001_r_33_tl_4"/>fruchtbarste Provinzen! Kommt man über die hohen, schneebedeckten persischen Pässe 
+               <lb xml:id="p001_r_33_tl_5"/>in dieses Tiefland der "Kaspischen Senke", so überschreitet man die merkwürdigste 
+               <lb xml:id="p001_r_33_tl_6"/>klimatische und landschaftliche Scheide, die sich denken läßt; tropische und feuchte 
+               <lb xml:id="p001_r_33_tl_7"/>Wärme herrscht an Stelle 
+               <lb xml:id="p001_r_33_tl_8"/>der kontinentalen Troc 
+               <lb xml:id="p001_r_33_tl_9" break="no"/>kenheit, Wald, richtiger 
+               <lb xml:id="p001_r_33_tl_10"/>Urwald, überschwemmte 
+               <lb xml:id="p001_r_33_tl_11"/>Reisfelder, Meeresdünen, 
+               <lb xml:id="p001_r_33_tl_12"/>große Sumpfgebiete an 
+               <lb xml:id="p001_r_33_tl_13"/>Stelle des kargen Hochflä 
+               <lb xml:id="p001_r_33_tl_14" break="no"/>chen-Bodens. Und nicht 
+               <lb xml:id="p001_r_33_tl_15"/>nur dies: man begegnet 
+               <lb xml:id="p001_r_33_tl_16"/>einer gänzlich fremden Ar 
+               <lb xml:id="p001_r_33_tl_17" break="no"/>chitektur, den Menschen 
+               <lb xml:id="p001_r_33_tl_18"/>und Formen eines abge 
+               <lb xml:id="p001_r_33_tl_19" break="no"/>schlossenen, fast verzau 
+               <lb xml:id="p001_r_33_tl_20" break="no"/>berten Landes. Am Abfall 
+               <lb xml:id="p001_r_33_tl_21"/>der Berge gibt es Alpwei 
+               <lb xml:id="p001_r_33_tl_22" break="no"/>den mit strohgedeckter 
+               <lb xml:id="p001_r_33_tl_23"/>Viehkralen – im Urwald 
+               <lb xml:id="p001_r_33_tl_24"/>Köhlerhütten – am Mee 
+               <lb xml:id="p001_r_33_tl_25" break="no"/>resstrand höchst eigenartig 
+               <lb xml:id="p001_r_33_tl_26"/>gebaute Dörfer mit spitzen 
+               <lb xml:id="p001_r_33_tl_27"/>Strohdächern, die bald an
+               <milestone unit="textregion" xml:id="p001_r_45"/> 
+               <lb xml:id="p001_r_45_tl_1"/>Aargauer Bauernhäuser, bald an afrikanische Negerhütten 
+               <lb xml:id="p001_r_45_tl_2"/>erinnern. Turkmenen bewohnen die Provinzen – wie auch 
+               <lb xml:id="p001_r_45_tl_3"/>drüben über der Grenze die Sowjetrepublik Aserbeidschan. 
+               <lb xml:id="p001_r_45_tl_4"/>Die Leute sind verhältnismäßig reich, weil sie in einer üppi 
+               <lb xml:id="p001_r_45_tl_5" break="no"/>gen Natur leben: Reis und Baumwolle, Fisch, Kaviar und 
+               <lb xml:id="p001_r_45_tl_6"/>Wild gibt es, Schafe und Zebus werden gezüchtet – auch 
+               <lb xml:id="p001_r_45_tl_7"/>Felle von Geparden, Leoparden, Tigern und Bären werden 
+               <lb xml:id="p001_r_45_tl_8"/>in den Bazaren der nächsten Städte und oben in Teheran 
+               <lb xml:id="p001_r_45_tl_9"/>verkauft. – Die Leute von Mazanderan galten früher für 
+               <lb xml:id="p001_r_45_tl_10"/>Zauberer, die es verstanden, böse Krankheiten zu verbrei 
+               <lb xml:id="p001_r_45_tl_11" break="no"/>ten ... man versteht die Herkunft des Leumunds, wenn 
+               <lb xml:id="p001_r_45_tl_12"/>man in diese reiche, doch von Malaria heimgesuchte, frucht 
+               <lb xml:id="p001_r_45_tl_13" break="no"/>bare und doch so sonderbar verwunschene Gegend gelangt.</p>
+
+            <milestone unit="textregion" xml:id="p001_r"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_35"/>Haus mit Strohdach in Mazanderan</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_4"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_4_tl_1"/>Ein Aargauer Bauern 
+               <lb xml:id="p001_r_4_tl_2" break="no"/>haus? Nein, nur das 
+               <lb xml:id="p001_r_4_tl_3"/>schützende, steile Stroh 
+               <lb xml:id="p001_r_4_tl_4" break="no"/>dach ist verwandt. Das 
+               <lb xml:id="p001_r_4_tl_5"/>Dach steht auf Pfählen. 
+               <lb xml:id="p001_r_4_tl_6"/>Eine Treppe führt aus 
+               <lb xml:id="p001_r_4_tl_7"/>die Galerie und zum 
+               <lb xml:id="p001_r_4_tl_8"/>Wohnraum. Zu ebener 
+               <lb xml:id="p001_r_4_tl_9"/>Erde befindet sich ein 
+               <lb xml:id="p001_r_4_tl_10"/>aus Lehm gemauerter 
+               <lb xml:id="p001_r_4_tl_11"/>Stall. Die Luke im 
+               <lb xml:id="p001_r_4_tl_12"/>Dach ist das Fenster des 
+               <lb xml:id="p001_r_4_tl_13"/>Wohnraums.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_1"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_39"/>Alphütte am Firuskuh-Paß</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_5"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_5_tl_1"/>Alphütte am Firuskuh-Paß. In dem viereckigen "Kral" wird nachts das Vieh zusammengetrieben. 
+               <lb xml:id="p001_r_5_tl_2"/>Zum Schutze gegen Angriffe von Raubtieren, die in der Gegend von Mazanderan noch recht 
+               <lb xml:id="p001_r_5_tl_3"/>zahlreich sind, ist die Hütte mit einer Dornhecke umgeben.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_59"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_63"/>Hirte von Mazanderan</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_10"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_10_tl_1"/>Ein Hirt von Mazanderan. Er trägt die runde Turkmenen 
+               <lb xml:id="p001_r_10_tl_2" break="no"/>mütze und einen Mantel aus schwarzem Ziegenfilz. Er ver 
+               <lb xml:id="p001_r_10_tl_3" break="no"/>bringt sein Dasein im Urwald und auf den kleiner 
+               <lb xml:id="p001_r_10_tl_4"/>Weideplätzen im Gebirge, hoch über dem grauen Spie 
+               <lb xml:id="p001_r_10_tl_5" break="no"/>gel der Kaspisee. Sein Gesicht prägt große Ruhe aus. 
+               <lb xml:id="p001_r_10_tl_6"/>Als er photographiert wurde, rührte er sich nicht, 
+               <lb xml:id="p001_r_10_tl_7"/>änderte keine Miene und sah ohne Neugier in 
+               <lb xml:id="p001_r_10_tl_8"/>den unbekannten Apparat. Das Reden hatte 
+               <lb xml:id="p001_r_10_tl_9"/>er sich abgewöhnt; er antwortete auf keine 
+               <lb xml:id="p001_r_10_tl_10"/>Frage und schien an unseren fremden 
+               <lb xml:id="p001_r_10_tl_11"/>Erscheinungen völlig uninteressiert.</p>
+</div>
+       </body>
+    </text>
+ </TEI>

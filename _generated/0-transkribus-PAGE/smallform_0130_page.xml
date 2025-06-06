@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<validation-wrapper>
+   <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+      <Metadata>
+         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.27.0:model_id=39995:lm=none:date=06_06_2025_13:52</Creator>
+         <Created>2025-06-06T10:08:45.941+02:00</Created>
+         <LastChange>2025-06-06T14:53:41.377+02:00</LastChange>
+         <TranskribusMetadata docId="8890122"
+                              pageId="98655575"
+                              pageNr="1"
+                              tsid="247128177"
+                              status="IN_PROGRESS"
+                              userId="194245"
+                              imgUrl="https://files.transkribus.eu/Get?id=ZPAADYKTCBXUFVMFGREGSFEU&amp;fileType=view"
+                              xmlUrl="https://files.transkribus.eu/Get?id=IRAWMKBZFZMASGUVQPDBKOYF"
+                              imageId="82773329"/>
+      </Metadata>
+      <Page imageFilename="smallform_0130_001.jpg"
+            imageWidth="4775"
+            imageHeight="6320">
+         <ReadingOrder>
+            <OrderedGroup id="ro_1749214421378" caption="Regions reading order">
+               <RegionRefIndexed index="0" regionRef="r_2"/>
+               <RegionRefIndexed index="1" regionRef="r_3"/>
+               <RegionRefIndexed index="2" regionRef="r_33"/>
+               <RegionRefIndexed index="3" regionRef="r_45"/>
+               <RegionRefIndexed index="4" regionRef="r"/>
+               <RegionRefIndexed index="5" regionRef="r_4"/>
+               <RegionRefIndexed index="6" regionRef="r_1"/>
+               <RegionRefIndexed index="7" regionRef="r_5"/>
+               <RegionRefIndexed index="8" regionRef="r_59"/>
+               <RegionRefIndexed index="9" regionRef="r_10"/>
+            </OrderedGroup>
+         </ReadingOrder>
+         <TextRegion id="r_2" custom="readingOrder {index:0;}">
+            <Coords points="3153,437 4529,437 4529,825 3153,825"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+               <Coords points="3184,759 3567,842 3918,814 3980,754 4101,827 4213,789 4464,809 4461,736 4359,764 4324,729 4251,772 4108,699 4058,736 3773,734 3690,694 3542,736 3499,701 3359,762 3184,764"/>
+               <Baseline points="3197,782 3242,782 3283,776 3313,779 3358,782 3391,784 3982,785 4027,785 4470,807"/>
+               <TextEquiv>
+                  <Unicode>Mazanderan</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_3" custom="readingOrder {index:1;}">
+            <Coords points="4078,1016 4550,1016 4550,1425 4078,1425"/>
+            <TextLine id="r_3_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="4063,1067 4078,1067 4101,1082 4113,1070 4128,1072 4136,1082 4146,1075 4153,1080 4191,1077 4193,1007 4171,1002 4151,1017 4143,1012 4131,1022 4126,1015 4111,1020 4083,1007 4066,1012"/>
+               <Baseline points="4078,1056 4107,1053 4152,1053 4197,1050"/>
+               <TextEquiv>
+                  <Unicode>Text</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="4063,1157 4143,1135 4279,1140 4311,1162 4356,1147 4386,1160 4474,1152 4471,1062 4431,1057 4386,1092 4281,1062 4251,1075 4228,1055 4176,1080 4111,1072 4096,1085 4061,1067"/>
+               <Baseline points="4078,1125 4110,1125 4155,1125 4200,1128 4245,1125 4289,1125 4334,1125 4379,1125 4424,1128 4469,1128 4481,1131"/>
+               <TextEquiv>
+                  <Unicode>und Aufnahmen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_3" custom="readingOrder {index:2;}">
+               <Coords points="4063,1215 4078,1215 4098,1227 4113,1222 4116,1227 4136,1215 4161,1212 4163,1162 4138,1157 4118,1170 4083,1152 4066,1155"/>
+               <Baseline points="4078,1197 4119,1197 4164,1194"/>
+               <TextEquiv>
+                  <Unicode>von</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_4" custom="readingOrder {index:3;}">
+               <Coords points="4063,1280 4096,1295 4151,1278 4178,1288 4248,1283 4258,1293 4276,1283 4351,1283 4351,1225 4304,1237 4284,1230 4271,1242 4251,1232 4223,1240 4156,1207 4106,1227 4063,1212"/>
+               <Baseline points="4078,1267 4110,1265 4155,1268 4200,1268 4245,1268 4289,1268 4334,1268 4358,1268"/>
+               <TextEquiv>
+                  <Unicode>Annemarie</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_5" custom="readingOrder {index:4;}">
+               <Coords points="4063,1378 4176,1350 4256,1380 4316,1353 4339,1365 4444,1355 4489,1375 4489,1300 4446,1310 4324,1283 4274,1308 4208,1280 4111,1295 4061,1280"/>
+               <Baseline points="4078,1340 4116,1340 4161,1340 4206,1340 4251,1340 4295,1340 4340,1340 4385,1340 4430,1343 4475,1343 4495,1343"/>
+               <TextEquiv>
+                  <Unicode>Schwarzenbach</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_33" custom="readingOrder {index:2;}">
+            <Coords points="395,2780 2490,2780 2490,3231 1156,3251 1115,4437 395,4437"/>
+            <TextLine id="r_33_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="463,2911 2462,2928 2460,2823 1871,2823 1551,2878 942,2836 719,2866 463,2821"/>
+               <Baseline points="477,2901 522,2895 567,2895 611,2895 656,2895 701,2895 746,2895 791,2895 835,2895 880,2895 925,2898 970,2895 1015,2898 1059,2898 1104,2898 1149,2898 1194,2898 1238,2898 1283,2898 1328,2898 1373,2901 1418,2901 1462,2901 1507,2901 1552,2901 1597,2901 1641,2901 1686,2901 1731,2901 1776,2901 1821,2901 1865,2901 1910,2901 1955,2904 2000,2904 2044,2904 2089,2904 2134,2904 2179,2904 2224,2904 2268,2904 2313,2904 2358,2904 2403,2904 2447,2907 2465,2904"/>
+               <TextEquiv>
+                  <Unicode>\p\Zwischen dem riesigen Hochplateau von Iran und dem Kaspischen Meer, zwischen den</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_33_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="458,2966 2422,2986 2462,2983 2462,2928 456,2911"/>
+               <Baseline points="471,2946 516,2949 561,2949 606,2949 650,2949 695,2949 740,2949 785,2952 829,2949 874,2952 919,2949 964,2952 1009,2952 1053,2952 1098,2952 1143,2952 1188,2952 1232,2952 1277,2952 1322,2952 1367,2955 1412,2955 1456,2955 1501,2955 1546,2955 1591,2955 1635,2955 1680,2955 1725,2955 1770,2955 1815,2955 1859,2958 1904,2955 1949,2958 1994,2958 2038,2958 2083,2958 2128,2958 2173,2958 2218,2958 2262,2958 2307,2958 2352,2958 2397,2958 2442,2958 2468,2955"/>
+               <TextEquiv>
+                  <Unicode>Kaukasusketten im Westen und der Turkmenischen Steppe im Östen, liegen die schma¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_33_tl_3" custom="readingOrder {index:2;}">
+               <Coords points="458,3019 2467,3039 2467,2981 2397,2971 458,2961"/>
+               <Baseline points="471,3006 516,3003 561,3003 606,3006 650,3006 695,3006 740,3006 785,3006 829,3003 874,3006 919,3006 964,3006 1009,3006 1053,3006 1098,3006 1143,3006 1188,3006 1232,3009 1277,3006 1322,3006 1367,3006 1412,3006 1456,3006 1501,3009 1546,3009 1591,3009 1635,3009 1680,3009 1725,3009 1770,3009 1815,3009 1859,3009 1904,3009 1949,3009 1994,3009 2038,3012 2083,3012 2128,3012 2173,3012 2218,3009 2262,3012 2307,3012 2352,3012 2397,3012 2442,3012 2474,3015"/>
+               <TextEquiv>
+                  <Unicode>len Landstriche mit den schönklingenden Namen Mazanderan und Gilan, — Persiens</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_33_tl_4" custom="readingOrder {index:3;}">
+               <Coords points="451,3071 2460,3084 2400,3024 448,3024"/>
+               <Baseline points="465,3059 510,3057 555,3057 600,3057 644,3059 689,3057 734,3057 779,3057 823,3057 868,3057 913,3059 958,3059 1003,3059 1047,3059 1092,3059 1137,3059 1182,3059 1226,3059 1271,3059 1316,3059 1361,3059 1406,3059 1450,3059 1495,3062 1540,3062 1585,3062 1630,3062 1674,3062 1719,3062 1764,3062 1809,3065 1853,3062 1898,3062 1943,3062 1988,3062 2033,3065 2077,3065 2122,3062 2167,3062 2212,3065 2256,3065 2301,3065 2346,3065 2391,3065 2436,3065 2465,3068"/>
+               <TextEquiv>
+                  <Unicode>fruchtbarste Provinzen! Kommt man über die hohen, schneebedeckten persischen Pässe</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_33_tl_5" custom="readingOrder {index:4;}">
+               <Coords points="461,3126 2465,3141 2465,3081 2375,3076 461,3069"/>
+               <Baseline points="474,3113 519,3110 564,3113 609,3110 653,3110 698,3110 743,3110 788,3113 832,3113 877,3113 922,3113 967,3110 1012,3110 1056,3113 1101,3113 1146,3113 1191,3113 1235,3113 1280,3113 1325,3113 1370,3113 1415,3116 1459,3113 1504,3113 1549,3116 1594,3116 1638,3116 1683,3116 1728,3116 1773,3116 1818,3116 1862,3116 1907,3116 1952,3116 1997,3116 2041,3116 2086,3116 2131,3119 2176,3119 2221,3119 2265,3119 2310,3119 2355,3119 2400,3119 2445,3119 2471,3119"/>
+               <TextEquiv>
+                  <Unicode>in dieses Tiefland der «Kaspischen Senke», so überschreitet man die merkwürdigste</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_33_tl_6" custom="readingOrder {index:5;}">
+               <Coords points="458,3176 2455,3186 2412,3131 458,3126"/>
+               <Baseline points="471,3164 516,3167 561,3164 606,3167 650,3167 695,3167 740,3167 785,3167 829,3167 874,3167 919,3167 964,3167 1009,3167 1053,3167 1098,3167 1143,3167 1188,3167 1232,3167 1277,3167 1322,3167 1367,3167 1412,3170 1456,3170 1501,3170 1546,3170 1591,3170 1635,3170 1680,3170 1725,3170 1770,3170 1815,3170 1859,3170 1904,3170 1949,3170 1994,3170 2038,3170 2083,3170 2128,3173 2173,3173 2218,3173 2262,3173 2307,3173 2352,3173 2397,3173 2442,3173 2462,3173"/>
+               <TextEquiv>
+                  <Unicode>klimatische und landschaftliche Scheide, die sich denken läßt; tropische und feuchte</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_33_tl_7" custom="readingOrder {index:6;}">
+               <Coords points="466,3231 889,3251 944,3226 1065,3234 1065,3179 1042,3176 924,3196 466,3179"/>
+               <Baseline points="480,3218 525,3221 570,3221 614,3221 659,3221 704,3221 749,3221 794,3221 838,3221 883,3221 928,3221 973,3221 1018,3221 1062,3221 1068,3221"/>
+               <TextEquiv>
+                  <Unicode>Wärme herrscht an Stelle</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_33_tl_8" custom="readingOrder {index:7;}">
+               <Coords points="451,3284 501,3297 564,3272 589,3297 822,3287 852,3304 909,3274 1055,3297 1055,3234 1035,3231 937,3231 892,3254 837,3234 451,3241"/>
+               <Baseline points="465,3268 507,3274 552,3271 597,3274 641,3274 686,3274 731,3274 776,3274 820,3274 865,3274 910,3274 955,3274 1000,3274 1044,3274 1062,3274"/>
+               <TextEquiv>
+                  <Unicode>der kontinentalen Troc¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_33_tl_9" custom="readingOrder {index:8;}">
+               <Coords points="448,3337 644,3352 699,3327 824,3352 867,3329 899,3357 1060,3352 1060,3302 992,3284 964,3302 917,3274 864,3304 696,3287 646,3312 606,3284 448,3287"/>
+               <Baseline points="462,3328 507,3325 552,3328 597,3328 641,3328 686,3325 731,3328 776,3328 820,3328 865,3328 910,3328 955,3328 1000,3328 1044,3328 1065,3328"/>
+               <TextEquiv>
+                  <Unicode>kenheit, Wald, richtiger</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_33_tl_10" custom="readingOrder {index:9;}">
+               <Coords points="453,3392 589,3402 694,3379 724,3399 1065,3402 1050,3349 453,3339"/>
+               <Baseline points="468,3382 486,3379 531,3379 576,3382 620,3382 665,3379 710,3379 755,3379 800,3379 844,3379 889,3379 934,3382 979,3382 1023,3382 1068,3379"/>
+               <TextEquiv>
+                  <Unicode>Urwald, überschwemmte</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_33_tl_11" custom="readingOrder {index:10;}">
+               <Coords points="448,3457 689,3457 724,3434 929,3447 982,3472 1065,3452 1065,3402 1040,3394 741,3402 664,3384 586,3402 448,3382"/>
+               <Baseline points="462,3436 507,3433 552,3433 597,3433 641,3433 686,3433 731,3433 776,3436 820,3436 865,3436 910,3433 955,3436 1000,3436 1044,3436 1071,3436"/>
+               <TextEquiv>
+                  <Unicode>Reisfelder, Meeresdünen,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_33_tl_12" custom="readingOrder {index:11;}">
+               <Coords points="461,3504 594,3510 619,3487 749,3517 784,3497 814,3515 864,3497 929,3510 959,3487 1062,3499 1062,3454 977,3469 932,3447 716,3434 611,3467 561,3447 461,3457"/>
+               <Baseline points="474,3489 486,3486 531,3486 576,3489 620,3486 665,3486 710,3489 755,3486 800,3486 844,3489 889,3489 934,3489 979,3486 1023,3489 1068,3486"/>
+               <TextEquiv>
+                  <Unicode>große Sumpfgebiete an</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_33_tl_13" custom="readingOrder {index:12;}">
+               <Coords points="448,3560 641,3567 686,3542 767,3575 857,3545 1055,3557 1055,3499 997,3487 822,3517 631,3487 596,3520 569,3499 448,3507"/>
+               <Baseline points="462,3540 480,3540 525,3540 570,3540 614,3540 659,3540 704,3540 749,3540 794,3540 838,3540 883,3540 928,3540 973,3540 1018,3540 1062,3534"/>
+               <TextEquiv>
+                  <Unicode>Stelle des kargen Hochflä¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_33_tl_14" custom="readingOrder {index:13;}">
+               <Coords points="453,3617 684,3617 767,3595 849,3617 929,3595 1030,3620 1065,3605 1065,3557 882,3562 857,3545 772,3577 716,3550 453,3555"/>
+               <Baseline points="468,3594 513,3594 558,3591 603,3591 647,3591 692,3594 737,3594 782,3594 826,3594 871,3594 916,3594 961,3597 1006,3594 1050,3597 1068,3594"/>
+               <TextEquiv>
+                  <Unicode>chen-Bodens. Und nicht</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_33_tl_15" custom="readingOrder {index:14;}">
+               <Coords points="451,3660 979,3677 1062,3657 1062,3620 1010,3625 932,3592 857,3617 451,3617"/>
+               <Baseline points="465,3648 510,3645 555,3645 600,3645 644,3645 689,3648 734,3648 779,3648 823,3648 868,3648 913,3648 958,3648 1003,3651 1047,3651 1068,3648"/>
+               <TextEquiv>
+                  <Unicode>nur dies: man begegnet</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_33_tl_16" custom="readingOrder {index:15;}">
+               <Coords points="446,3705 569,3707 594,3727 626,3710 1060,3727 1060,3670 1007,3662 446,3660"/>
+               <Baseline points="459,3698 504,3698 549,3698 594,3698 638,3701 683,3701 728,3698 773,3698 817,3701 862,3701 907,3701 952,3701 997,3701 1041,3698 1065,3698"/>
+               <TextEquiv>
+                  <Unicode>einer gänzlich fremden Ar¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_33_tl_17" custom="readingOrder {index:16;}">
+               <Coords points="446,3773 1065,3775 1065,3717 842,3712 802,3735 746,3710 669,3730 446,3705"/>
+               <Baseline points="459,3752 504,3752 549,3752 594,3752 638,3755 683,3752 728,3752 773,3752 817,3752 862,3752 907,3755 952,3755 997,3755 1041,3755 1071,3755"/>
+               <TextEquiv>
+                  <Unicode>chitektur, den Menschen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_33_tl_18" custom="readingOrder {index:17;}">
+               <Coords points="448,3813 699,3820 752,3843 794,3810 922,3810 994,3838 1050,3823 1050,3780 969,3765 924,3790 834,3763 769,3788 641,3763 448,3773"/>
+               <Baseline points="462,3806 474,3806 519,3803 564,3803 609,3806 653,3806 698,3806 743,3806 788,3806 832,3806 877,3806 922,3806 967,3809 1012,3806 1056,3803"/>
+               <TextEquiv>
+                  <Unicode>und Formen eines abge¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_33_tl_19" custom="readingOrder {index:18;}">
+               <Coords points="451,3868 684,3890 759,3863 807,3890 1062,3868 1062,3828 864,3833 794,3810 724,3840 614,3808 586,3825 451,3813"/>
+               <Baseline points="465,3860 510,3860 555,3857 600,3860 644,3860 689,3860 734,3860 779,3860 823,3860 868,3860 913,3860 958,3860 1003,3863 1047,3860 1065,3860"/>
+               <TextEquiv>
+                  <Unicode>schlossenen, fast verzau¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_33_tl_20" custom="readingOrder {index:19;}">
+               <Coords points="446,3918 1025,3935 1062,3923 1060,3865 819,3890 749,3868 686,3888 443,3873"/>
+               <Baseline points="459,3910 504,3910 549,3910 594,3910 638,3913 683,3913 728,3910 773,3913 817,3913 862,3913 907,3913 952,3913 997,3913 1041,3913 1068,3913"/>
+               <TextEquiv>
+                  <Unicode>berten Landes. Am Abfall</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_33_tl_21" custom="readingOrder {index:20;}">
+               <Coords points="446,3980 1060,3985 1060,3928 1040,3925 446,3933"/>
+               <Baseline points="459,3964 504,3964 549,3964 594,3964 638,3964 683,3964 728,3964 773,3967 817,3967 862,3967 907,3967 952,3967 997,3967 1041,3967 1065,3967"/>
+               <TextEquiv>
+                  <Unicode>der Berge gibt es Alpwei¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_33_tl_22" custom="readingOrder {index:21;}">
+               <Coords points="446,4033 1052,4038 1052,3995 987,3978 754,3978 721,4000 684,3978 651,3998 591,3975 561,3993 446,3980"/>
+               <Baseline points="459,4018 504,4018 549,4018 594,4018 638,4021 683,4018 728,4018 773,4021 817,4021 862,4018 907,4021 952,4021 997,4021 1041,4021 1059,4021"/>
+               <TextEquiv>
+                  <Unicode>den mit strohgedeckter</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_33_tl_23" custom="readingOrder {index:22;}">
+               <Coords points="461,4078 1065,4088 1065,4033 461,4028"/>
+               <Baseline points="474,4072 519,4072 564,4072 609,4072 653,4072 698,4072 743,4072 788,4072 832,4075 877,4075 922,4072 967,4072 1012,4075 1056,4075 1071,4075"/>
+               <TextEquiv>
+                  <Unicode>Viehkralen — im Urwald</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_33_tl_24" custom="readingOrder {index:23;}">
+               <Coords points="451,4138 1050,4141 1050,4093 992,4086 909,4103 787,4073 706,4096 451,4078"/>
+               <Baseline points="465,4125 510,4122 555,4125 600,4125 644,4125 689,4125 734,4125 779,4125 823,4125 868,4128 913,4128 958,4128 1003,4125 1047,4125 1053,4125"/>
+               <TextEquiv>
+                  <Unicode>Köhlerhütten — am Mee¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_33_tl_25" custom="readingOrder {index:24;}">
+               <Coords points="446,4193 837,4181 882,4206 1060,4206 1060,4138 446,4141"/>
+               <Baseline points="459,4176 504,4176 549,4179 594,4179 638,4179 683,4179 728,4179 773,4179 817,4179 862,4182 907,4179 952,4182 997,4182 1041,4182 1065,4185"/>
+               <TextEquiv>
+                  <Unicode>resstrand höchst eigenartig</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_33_tl_26" custom="readingOrder {index:25;}">
+               <Coords points="453,4248 689,4241 777,4266 819,4243 1055,4253 1055,4208 999,4193 453,4196"/>
+               <Baseline points="468,4236 480,4233 525,4230 570,4230 614,4230 659,4230 704,4233 749,4233 794,4233 838,4236 883,4233 928,4233 973,4236 1018,4236 1062,4233"/>
+               <TextEquiv>
+                  <Unicode>gebaute Dörfer mit spitzen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_33_tl_27" custom="readingOrder {index:26;}">
+               <Coords points="446,4311 529,4294 579,4314 649,4296 767,4311 789,4294 894,4319 927,4301 1065,4314 1065,4256 1020,4248 827,4243 777,4269 634,4238 446,4251"/>
+               <Baseline points="459,4286 504,4283 549,4283 594,4283 638,4283 683,4286 728,4286 773,4286 817,4286 862,4286 907,4289 952,4286 997,4286 1041,4289 1071,4286"/>
+               <TextEquiv>
+                  <Unicode>Strohdächern, die bald an</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_45" custom="readingOrder {index:3;}">
+            <Coords points="3132,4466 4515,4466 4515,5270 3132,5270"/>
+            <TextLine id="r_45_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="3121,4534 4474,4529 4474,4469 4349,4449 4038,4486 3121,4469"/>
+               <Baseline points="3134,4513 3179,4510 3224,4510 3268,4513 3313,4513 3358,4510 3403,4513 3448,4513 3492,4513 3537,4513 3582,4513 3627,4513 3671,4513 3716,4513 3761,4516 3806,4516 3851,4516 3895,4516 3940,4516 3985,4516 4030,4516 4075,4516 4119,4516 4164,4516 4209,4519 4254,4516 4298,4519 4343,4519 4388,4519 4433,4519 4478,4519 4481,4519"/>
+               <TextEquiv>
+                  <Unicode>Aargauer Bauernhäuser, bald an afrikanische Negerhütten</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_45_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="3121,4582 4479,4592 4479,4532 3121,4534"/>
+               <Baseline points="3134,4564 3179,4564 3224,4564 3268,4564 3313,4567 3358,4567 3403,4567 3448,4567 3492,4567 3537,4567 3582,4567 3627,4567 3671,4567 3716,4567 3761,4567 3806,4570 3851,4570 3895,4567 3940,4567 3985,4567 4030,4567 4075,4570 4119,4570 4164,4570 4209,4570 4254,4567 4298,4570 4343,4573 4388,4573 4433,4573 4478,4573 4484,4573"/>
+               <TextEquiv>
+                  <Unicode>erinnern. Turkmenen bewohnen die Provinzen — wie auch</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_45_tl_3" custom="readingOrder {index:2;}">
+               <Coords points="3121,4629 4479,4639 4479,4592 4376,4579 3121,4582"/>
+               <Baseline points="3134,4618 3179,4618 3224,4618 3268,4618 3313,4618 3358,4618 3403,4618 3448,4618 3492,4618 3537,4621 3582,4621 3627,4621 3671,4621 3716,4621 3761,4621 3806,4621 3851,4621 3895,4621 3940,4624 3985,4624 4030,4624 4075,4624 4119,4624 4164,4624 4209,4624 4254,4624 4298,4624 4343,4624 4388,4624 4433,4624 4478,4627 4484,4624"/>
+               <TextEquiv>
+                  <Unicode>drüben über der Grenze die Sowjetrepublik Aserbeidschan.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_45_tl_4" custom="readingOrder {index:3;}">
+               <Coords points="3121,4699 4471,4704 4471,4637 3121,4622"/>
+               <Baseline points="3134,4672 3179,4672 3224,4672 3268,4672 3313,4672 3358,4672 3403,4672 3448,4672 3492,4672 3537,4672 3582,4675 3627,4675 3671,4675 3716,4675 3761,4675 3806,4675 3851,4675 3895,4675 3940,4678 3985,4675 4030,4675 4075,4678 4119,4678 4164,4675 4209,4678 4254,4678 4298,4678 4343,4678 4388,4678 4433,4678 4478,4675"/>
+               <TextEquiv>
+                  <Unicode>Die Leute sind verhältnismäßig reich, weil sie in einer üppi¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_45_tl_5" custom="readingOrder {index:4;}">
+               <Coords points="3129,4742 4486,4752 4486,4689 3129,4689"/>
+               <Baseline points="3143,4731 3188,4725 3233,4725 3277,4725 3322,4725 3367,4725 3412,4725 3457,4725 3501,4728 3546,4725 3591,4728 3636,4728 3680,4728 3725,4728 3770,4728 3815,4728 3860,4728 3904,4728 3949,4728 3994,4728 4039,4728 4083,4728 4128,4728 4173,4731 4218,4731 4263,4731 4307,4731 4352,4731 4397,4731 4442,4731 4486,4731 4492,4731"/>
+               <TextEquiv>
+                  <Unicode>gen Natur leben: Reis und Baumwolle, Fisch, Kaviar und</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_45_tl_6" custom="readingOrder {index:5;}">
+               <Coords points="3139,4787 4479,4795 4464,4742 3139,4744"/>
+               <Baseline points="3152,4776 3197,4779 3242,4779 3286,4776 3331,4779 3376,4779 3421,4779 3465,4779 3510,4782 3555,4779 3600,4779 3645,4779 3689,4779 3734,4779 3779,4779 3824,4782 3869,4782 3913,4782 3958,4782 4003,4782 4048,4782 4092,4782 4137,4782 4182,4782 4227,4782 4272,4782 4316,4779 4361,4782 4406,4785 4451,4785 4484,4782"/>
+               <TextEquiv>
+                  <Unicode>Wild gibt es, Schafe und Zebus werden gezüchtet — auch</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_45_tl_7" custom="readingOrder {index:6;}">
+               <Coords points="3121,4845 4481,4862 4479,4797 4364,4787 3121,4782"/>
+               <Baseline points="3134,4830 3179,4830 3224,4833 3268,4833 3313,4833 3358,4833 3403,4833 3448,4833 3492,4833 3537,4833 3582,4833 3627,4836 3671,4833 3716,4833 3761,4836 3806,4836 3851,4836 3895,4836 3940,4836 3985,4836 4030,4836 4075,4836 4119,4836 4164,4839 4209,4839 4254,4839 4298,4839 4343,4839 4388,4839 4433,4839 4478,4839 4484,4842"/>
+               <TextEquiv>
+                  <Unicode>Felle von Geparden, Leoparden, Tigern und Bären werden</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_45_tl_8" custom="readingOrder {index:7;}">
+               <Coords points="3121,4905 4479,4915 4479,4862 4424,4850 3121,4845"/>
+               <Baseline points="3134,4884 3179,4884 3224,4884 3268,4887 3313,4887 3358,4887 3403,4887 3448,4887 3492,4887 3537,4887 3582,4887 3627,4887 3671,4887 3716,4887 3761,4890 3806,4890 3851,4890 3895,4890 3940,4890 3985,4890 4030,4890 4075,4890 4119,4890 4164,4890 4209,4890 4254,4892 4298,4892 4343,4892 4388,4892 4433,4892 4478,4892 4484,4890"/>
+               <TextEquiv>
+                  <Unicode>in den Bazaren der nächsten Städte und oben in Teheran</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_45_tl_9" custom="readingOrder {index:8;}">
+               <Coords points="3126,4942 4471,4957 4421,4900 3126,4905"/>
+               <Baseline points="3140,4937 3185,4937 3230,4940 3274,4937 3319,4937 3364,4937 3409,4937 3454,4940 3498,4940 3543,4940 3588,4940 3633,4940 3677,4940 3722,4940 3767,4940 3812,4940 3857,4943 3901,4943 3946,4943 3991,4943 4036,4943 4080,4943 4125,4943 4170,4943 4215,4946 4260,4943 4304,4943 4349,4943 4394,4946 4439,4946 4478,4943"/>
+               <TextEquiv>
+                  <Unicode>verkauft. — Die Leute von Mazanderan galten früher für</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_45_tl_10" custom="readingOrder {index:9;}">
+               <Coords points="3121,5002 4474,5020 4474,4957 4399,4952 3121,4937"/>
+               <Baseline points="3134,4994 3179,4991 3224,4991 3268,4991 3313,4991 3358,4991 3403,4991 3448,4994 3492,4991 3537,4994 3582,4994 3627,4994 3671,4994 3716,4994 3761,4994 3806,4994 3851,4997 3895,4994 3940,4997 3985,4997 4030,4997 4075,4997 4119,4997 4164,4997 4209,4997 4254,4997 4298,4997 4343,4997 4388,4997 4433,4997 4478,4997 4481,4997"/>
+               <TextEquiv>
+                  <Unicode>Zauberer, die es verstanden, böse Krankheiten zu verbrei¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_45_tl_11" custom="readingOrder {index:10;}">
+               <Coords points="3124,5065 4479,5063 4479,5020 4291,5005 3124,5005"/>
+               <Baseline points="3137,5048 3182,5048 3227,5048 3271,5048 3316,5048 3361,5048 3406,5045 3451,5048 3495,5045 3540,5048 3585,5048 3630,5048 3674,5048 3719,5048 3764,5048 3809,5048 3854,5048 3898,5048 3943,5048 3988,5051 4033,5048 4077,5051 4122,5051 4167,5051 4212,5051 4257,5051 4301,5051 4346,5051 4391,5051 4436,5054 4481,5051 4486,5051"/>
+               <TextEquiv>
+                  <Unicode>ten ... man versteht die Herkunft des Leumunds, wenn</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_45_tl_12" custom="readingOrder {index:11;}">
+               <Coords points="3126,5110 4466,5128 4466,5065 4419,5060 3126,5068"/>
+               <Baseline points="3140,5098 3185,5098 3230,5098 3274,5098 3319,5098 3364,5098 3409,5098 3454,5101 3498,5101 3543,5101 3588,5101 3633,5101 3677,5101 3722,5101 3767,5101 3812,5101 3857,5101 3901,5101 3946,5101 3991,5101 4036,5104 4080,5104 4125,5101 4170,5104 4215,5104 4260,5104 4304,5104 4349,5104 4394,5104 4439,5104 4472,5101"/>
+               <TextEquiv>
+                  <Unicode>man in diese reiche, doch von Malaria heimgesuchte, frucht¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_45_tl_13" custom="readingOrder {index:12;}">
+               <Coords points="3121,5180 4474,5175 4474,5123 4364,5115 3121,5110"/>
+               <Baseline points="3134,5152 3179,5152 3224,5152 3268,5155 3313,5152 3358,5155 3403,5152 3448,5155 3492,5155 3537,5155 3582,5155 3627,5155 3671,5155 3716,5155 3761,5155 3806,5155 3851,5155 3895,5155 3940,5155 3985,5155 4030,5158 4075,5155 4119,5158 4164,5158 4209,5158 4254,5158 4298,5158 4343,5161 4388,5161 4433,5158 4478,5161 4481,5161"/>
+               <TextEquiv>
+                  <Unicode>bare und doch so sonderbar verwunschene Gegend gelangt.\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r" custom="readingOrder {index:4;}">
+            <Coords points="85,127 4014,127 4014,2737 85,2737"/>
+            <TextLine id="l_35" custom="readingOrder {index:0;}">
+               <Coords points="2788,1295 3004,1297 3004,1267 2788,1265"/>
+               <Baseline points="2788,1295 3004,1297"/>
+               <TextEquiv>
+                  <Unicode>\f\Haus mit Strohdach in Mazanderan\:f\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_4" custom="readingOrder {index:5;}">
+            <Coords points="4070,2116 4536,2116 4536,2772 4070,2772"/>
+            <TextLine id="r_4_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="4056,2159 4271,2159 4311,2184 4351,2162 4486,2164 4486,2089 4451,2089 4419,2122 4331,2084 4269,2122 4236,2092 4176,2099 4143,2079 4106,2104 4056,2097"/>
+               <Baseline points="4070,2149 4089,2149 4134,2149 4179,2149 4224,2146 4269,2149 4313,2146 4358,2149 4403,2149 4448,2149 4492,2146"/>
+               <TextEquiv>
+                  <Unicode>\fp\Ein Aargauer Bauern¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="4056,2214 4161,2212 4176,2199 4206,2222 4228,2207 4309,2219 4411,2199 4434,2214 4491,2209 4491,2162 4311,2182 4271,2159 4223,2172 4138,2154 4056,2159"/>
+               <Baseline points="4070,2197 4104,2197 4149,2197 4194,2194 4239,2197 4283,2197 4328,2197 4373,2197 4418,2197 4463,2197 4495,2197"/>
+               <TextEquiv>
+                  <Unicode>haus? Nein, nur das</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_3" custom="readingOrder {index:2;}">
+               <Coords points="4056,2260 4479,2257 4479,2209 4439,2219 4421,2202 4311,2219 4206,2217 4186,2199 4146,2217 4056,2212"/>
+               <Baseline points="4070,2244 4083,2244 4128,2244 4173,2244 4218,2244 4263,2244 4307,2244 4352,2244 4397,2244 4442,2244 4486,2242"/>
+               <TextEquiv>
+                  <Unicode>schützende, steile Stroh¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_4" custom="readingOrder {index:3;}">
+               <Coords points="4056,2305 4486,2307 4486,2262 4449,2254 4401,2270 4376,2252 4276,2270 4216,2254 4056,2260"/>
+               <Baseline points="4070,2292 4104,2292 4149,2292 4194,2292 4239,2292 4283,2289 4328,2292 4373,2292 4418,2292 4463,2292 4492,2292"/>
+               <TextEquiv>
+                  <Unicode>dach ist verwandt. Das</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_5" custom="readingOrder {index:4;}">
+               <Coords points="4056,2352 4101,2350 4123,2365 4166,2347 4216,2362 4331,2347 4484,2355 4481,2312 4461,2305 4271,2315 4228,2302 4171,2317 4138,2302 4113,2315 4053,2302"/>
+               <Baseline points="4070,2340 4104,2340 4149,2337 4194,2340 4239,2340 4283,2340 4328,2340 4373,2340 4418,2340 4463,2340 4489,2340"/>
+               <TextEquiv>
+                  <Unicode>Dach steht auf Pfählen.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_6" custom="readingOrder {index:5;}">
+               <Coords points="4056,2400 4123,2410 4206,2395 4253,2415 4284,2415 4306,2395 4484,2405 4484,2357 4466,2352 4213,2360 4163,2347 4128,2365 4056,2352"/>
+               <Baseline points="4070,2385 4107,2385 4152,2385 4197,2388 4242,2385 4286,2385 4331,2388 4376,2388 4421,2388 4466,2388 4489,2385"/>
+               <TextEquiv>
+                  <Unicode>Eine Treppe führt aus</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_7" custom="readingOrder {index:6;}">
+               <Coords points="4056,2445 4133,2435 4168,2455 4264,2455 4296,2437 4364,2455 4389,2437 4409,2455 4486,2450 4486,2405 4469,2402 4369,2397 4289,2417 4206,2397 4186,2410 4171,2397 4121,2410 4056,2397"/>
+               <Baseline points="4070,2433 4110,2433 4155,2433 4200,2433 4245,2433 4289,2433 4334,2436 4379,2433 4424,2433 4469,2436 4492,2436"/>
+               <TextEquiv>
+                  <Unicode>die Galerie und zum</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_8" custom="readingOrder {index:7;}">
+               <Coords points="4056,2487 4181,2492 4196,2505 4211,2492 4289,2492 4331,2510 4364,2492 4484,2495 4484,2452 4449,2462 4389,2440 4341,2452 4291,2435 4216,2457 4153,2452 4131,2435 4111,2450 4056,2445"/>
+               <Baseline points="4070,2480 4086,2480 4131,2480 4176,2480 4221,2480 4266,2480 4310,2480 4355,2480 4400,2480 4445,2480 4489,2477"/>
+               <TextEquiv>
+                  <Unicode>Wohnraum. Zu ebener</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_9" custom="readingOrder {index:8;}">
+               <Coords points="4056,2545 4491,2548 4491,2497 4474,2492 4434,2510 4366,2492 4334,2510 4291,2492 4196,2505 4181,2492 4056,2487"/>
+               <Baseline points="4070,2530 4092,2528 4137,2528 4182,2528 4227,2528 4272,2528 4316,2528 4361,2528 4406,2528 4451,2528 4495,2528"/>
+               <TextEquiv>
+                  <Unicode>Erde befindet sich ein</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_10" custom="readingOrder {index:9;}">
+               <Coords points="4056,2588 4098,2600 4126,2580 4148,2593 4253,2588 4276,2608 4306,2588 4479,2593 4479,2543 4056,2543"/>
+               <Baseline points="4070,2576 4107,2576 4152,2576 4197,2576 4242,2576 4286,2576 4331,2576 4376,2576 4421,2576 4466,2576 4486,2576"/>
+               <TextEquiv>
+                  <Unicode>aus Lehm gemauerter</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_11" custom="readingOrder {index:10;}">
+               <Coords points="4053,2635 4183,2625 4251,2640 4286,2628 4399,2648 4426,2628 4489,2643 4491,2595 4471,2590 4414,2603 4311,2588 4286,2605 4206,2585 4131,2583 4101,2600 4056,2588"/>
+               <Baseline points="4070,2626 4092,2624 4137,2624 4182,2624 4227,2624 4272,2621 4316,2624 4361,2624 4406,2621 4451,2624 4495,2621"/>
+               <TextEquiv>
+                  <Unicode>Stall. Die Luke im</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_12" custom="readingOrder {index:11;}">
+               <Coords points="4056,2683 4289,2685 4304,2698 4486,2683 4486,2640 4424,2628 4401,2648 4354,2650 4289,2630 4258,2650 4181,2625 4116,2648 4056,2635"/>
+               <Baseline points="4070,2671 4104,2671 4149,2671 4194,2671 4239,2671 4283,2671 4328,2671 4373,2671 4418,2671 4463,2671 4492,2671"/>
+               <TextEquiv>
+                  <Unicode>Dach ist das Fenster des</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_13" custom="readingOrder {index:12;}">
+               <Coords points="4056,2738 4088,2753 4176,2748 4218,2733 4306,2740 4306,2690 4223,2685 4203,2695 4173,2685 4161,2693 4141,2680 4121,2688 4053,2683"/>
+               <Baseline points="4070,2714 4110,2719 4155,2719 4200,2719 4245,2719 4289,2719 4313,2719"/>
+               <TextEquiv>
+                  <Unicode>Wohnraums.\:fp\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_1" custom="readingOrder {index:6;}">
+            <Coords points="2575,4155 2575,2815 4543,2815 4543,4155"/>
+            <TextLine id="l_39" custom="readingOrder {index:0;}">
+               <Coords points="3122,3772 3369,3779 3370,3749 3123,3742"/>
+               <Baseline points="3122,3772 3369,3779"/>
+               <TextEquiv>
+                  <Unicode>\f\Alphütte am Firuskuh-Paß\:f\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_5" custom="readingOrder {index:7;}">
+            <Coords points="4543,4155 4543,4381 2575,4381 2575,4155"/>
+            <TextLine id="r_5_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="2595,4226 4486,4248 4486,4193 4223,4168 3264,4198 3124,4153 2958,4196 2595,4148"/>
+               <Baseline points="2609,4221 2653,4218 2698,4221 2743,4221 2788,4221 2833,4221 2877,4221 2922,4221 2967,4221 3012,4221 3057,4221 3101,4221 3146,4221 3191,4224 3236,4224 3280,4224 3325,4224 3370,4224 3415,4224 3460,4224 3504,4224 3549,4224 3594,4227 3639,4224 3683,4224 3728,4227 3773,4227 3818,4227 3863,4227 3907,4227 3952,4227 3997,4227 4042,4227 4086,4227 4131,4227 4176,4230 4221,4230 4266,4230 4310,4227 4355,4230 4400,4230 4445,4230 4489,4230 4492,4230"/>
+               <TextEquiv>
+                  <Unicode>\fp\Alphütte am Firuskuh-Paß. In dem viereckigen «Kral" wird nachts das Vieh zusammengetrieben.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="2605,4286 4486,4301 4461,4241 2605,4231"/>
+               <Baseline points="2618,4269 2662,4266 2707,4266 2752,4269 2797,4269 2842,4269 2886,4269 2931,4269 2976,4269 3021,4272 3065,4272 3110,4269 3155,4272 3200,4269 3245,4269 3289,4269 3334,4272 3379,4272 3424,4272 3468,4272 3513,4275 3558,4272 3603,4272 3648,4275 3692,4275 3737,4275 3782,4275 3827,4275 3872,4275 3916,4275 3961,4278 4006,4275 4051,4278 4095,4278 4140,4278 4185,4278 4230,4278 4275,4278 4319,4278 4364,4278 4409,4278 4454,4278 4489,4278"/>
+               <TextEquiv>
+                  <Unicode>Zum Schutze gegen Angriffe von Raubtieren, die in der Gegend von Mazanderan noch recht</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_tl_3" custom="readingOrder {index:2;}">
+               <Coords points="2595,4349 3770,4354 3770,4279 2595,4294"/>
+               <Baseline points="2609,4316 2653,4313 2698,4316 2743,4316 2788,4316 2833,4316 2877,4316 2922,4319 2967,4319 3012,4316 3057,4319 3101,4316 3146,4319 3191,4319 3236,4319 3280,4319 3325,4319 3370,4319 3415,4319 3460,4319 3504,4319 3549,4319 3594,4322 3639,4322 3683,4322 3728,4322 3773,4325"/>
+               <TextEquiv>
+                  <Unicode>zahlreich sind, ist die Hütte mit einer Dornhecke umgeben.\:fp\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_59" custom="readingOrder {index:8;}">
+            <Coords points="141,4508 1221,4367 1183,3238 2556,3322 2541,4407 3048,4508 3080,5298 3885,6237 128,6220"/>
+            <TextLine id="l_63" custom="readingOrder {index:0;}">
+               <Coords points="2130,5073 2405,5079 2406,5049 2130,5043"/>
+               <Baseline points="2130,5073 2405,5079"/>
+               <TextEquiv>
+                  <Unicode>\f\Hirte von Mazanderan\:f\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="3254,5433 3259,5340 4551,5340 4551,5913 3706,5917"/>
+            <TextLine id="r_10_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="3259,5398 4486,5406 4486,5356 4409,5326 3259,5323"/>
+               <Baseline points="3274,5388 3319,5388 3364,5388 3409,5388 3454,5388 3498,5388 3543,5388 3588,5388 3633,5388 3677,5388 3722,5388 3767,5391 3812,5391 3857,5391 3901,5391 3946,5391 3991,5391 4036,5391 4080,5391 4125,5391 4170,5391 4215,5391 4260,5391 4304,5391 4349,5394 4394,5394 4439,5394 4484,5394 4492,5394"/>
+               <TextEquiv>
+                  <Unicode>\fp\Ein Hirt von Mazanderan. Er trägt die runde Turkmenen¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_10_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="3299,5451 4479,5456 4479,5406 3299,5416"/>
+               <Baseline points="3313,5436 3358,5436 3403,5436 3448,5436 3492,5436 3537,5436 3582,5436 3627,5436 3671,5436 3716,5439 3761,5439 3806,5436 3851,5439 3895,5439 3940,5439 3985,5439 4030,5439 4075,5439 4119,5439 4164,5439 4209,5439 4254,5442 4298,5442 4343,5439 4388,5439 4433,5439 4478,5439 4484,5436"/>
+               <TextEquiv>
+                  <Unicode>mütze und einen Mantel aus schwarzem Ziegenfilz. Er ver¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_10_tl_3" custom="readingOrder {index:2;}">
+               <Coords points="3347,5493 4474,5501 4474,5461 4334,5441 3347,5448"/>
+               <Baseline points="3361,5484 3406,5484 3451,5487 3495,5484 3540,5484 3585,5484 3630,5487 3674,5487 3719,5487 3764,5484 3809,5487 3854,5484 3898,5487 3943,5487 3988,5487 4033,5487 4077,5487 4122,5487 4167,5487 4212,5487 4257,5487 4301,5487 4346,5487 4391,5490 4436,5490 4481,5490 4484,5487"/>
+               <TextEquiv>
+                  <Unicode>bringt sein Dasein im Urwald und auf den kleiner</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_10_tl_4" custom="readingOrder {index:3;}">
+               <Coords points="3407,5549 4481,5546 4481,5501 4331,5493 3407,5496"/>
+               <Baseline points="3421,5531 3465,5531 3510,5531 3555,5531 3600,5534 3645,5534 3689,5531 3734,5531 3779,5534 3824,5534 3869,5531 3913,5534 3958,5534 4003,5534 4048,5534 4092,5534 4137,5534 4182,5534 4227,5537 4272,5534 4316,5537 4361,5537 4406,5537 4451,5537 4484,5531"/>
+               <TextEquiv>
+                  <Unicode>Weideplätzen im Gebirge, hoch über dem grauen Spie¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_10_tl_5" custom="readingOrder {index:4;}">
+               <Coords points="3452,5601 4479,5594 4479,5556 4386,5546 3452,5549"/>
+               <Baseline points="3465,5585 3498,5582 3543,5582 3588,5582 3633,5582 3677,5579 3722,5582 3767,5582 3812,5582 3857,5582 3901,5582 3946,5582 3991,5582 4036,5582 4080,5582 4125,5582 4170,5582 4215,5582 4260,5585 4304,5585 4349,5585 4394,5582 4439,5585 4484,5582"/>
+               <TextEquiv>
+                  <Unicode>gel der Kaspisee. Sein Gesicht prägt große Ruhe aus.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_10_tl_6" custom="readingOrder {index:5;}">
+               <Coords points="3497,5636 4479,5654 4479,5601 4446,5596 3497,5601"/>
+               <Baseline points="3510,5630 3555,5630 3600,5630 3645,5627 3689,5630 3734,5630 3779,5630 3824,5627 3869,5630 3913,5630 3958,5630 4003,5630 4048,5630 4092,5630 4137,5630 4182,5630 4227,5630 4272,5630 4316,5633 4361,5633 4406,5633 4451,5633 4484,5633"/>
+               <TextEquiv>
+                  <Unicode>Als er photographiert wurde, rührte er sich nicht,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_10_tl_7" custom="readingOrder {index:6;}">
+               <Coords points="3550,5709 4479,5701 4456,5644 3550,5639"/>
+               <Baseline points="3564,5678 3609,5678 3654,5678 3698,5675 3743,5675 3788,5678 3833,5678 3877,5678 3922,5678 3967,5678 4012,5678 4057,5678 4101,5678 4146,5678 4191,5681 4236,5678 4281,5678 4325,5681 4370,5678 4415,5678 4460,5681 4484,5681"/>
+               <TextEquiv>
+                  <Unicode>änderte keine Miene und sah ohne Neugier in</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_10_tl_8" custom="readingOrder {index:7;}">
+               <Coords points="3610,5764 3722,5734 4479,5746 4479,5701 4439,5686 3610,5694"/>
+               <Baseline points="3624,5725 3669,5725 3713,5725 3758,5725 3803,5725 3848,5725 3892,5725 3937,5725 3982,5728 4027,5725 4072,5725 4116,5725 4161,5728 4206,5728 4251,5725 4295,5725 4340,5725 4385,5728 4430,5725 4475,5725 4484,5728"/>
+               <TextEquiv>
+                  <Unicode>den unbekannten Apparat. Das Reden hatte</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_10_tl_9" custom="readingOrder {index:8;}">
+               <Coords points="3655,5809 3710,5782 4479,5789 4479,5744 4379,5729 4041,5756 3655,5741"/>
+               <Baseline points="3669,5773 3713,5773 3758,5773 3803,5773 3848,5770 3892,5773 3937,5773 3982,5773 4027,5773 4072,5773 4116,5773 4161,5773 4206,5773 4251,5773 4295,5773 4340,5773 4385,5773 4430,5776 4475,5776 4484,5776"/>
+               <TextEquiv>
+                  <Unicode>er sich abgewöhnt; er antwortete auf keine</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_10_tl_10" custom="readingOrder {index:9;}">
+               <Coords points="3697,5837 4479,5834 4479,5784 3697,5779"/>
+               <Baseline points="3710,5821 3755,5821 3800,5821 3845,5821 3889,5821 3934,5821 3979,5821 4024,5821 4069,5821 4113,5821 4158,5824 4203,5821 4248,5821 4292,5821 4337,5821 4382,5821 4427,5821 4472,5824 4484,5821"/>
+               <TextEquiv>
+                  <Unicode>Frage und schien an unseren fremden</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_10_tl_11" custom="readingOrder {index:10;}">
+               <Coords points="3747,5899 3813,5879 3998,5907 4108,5884 4163,5907 4479,5889 4464,5834 3747,5834"/>
+               <Baseline points="3761,5869 3806,5869 3851,5869 3895,5869 3940,5869 3985,5869 4030,5869 4075,5872 4119,5872 4164,5869 4209,5872 4254,5872 4298,5872 4343,5869 4388,5869 4433,5869 4478,5872 4484,5869"/>
+               <TextEquiv>
+                  <Unicode>Erscheinungen völlig uninteressiert.\:fp\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+      </Page>
+   </PcGts>
+</validation-wrapper>
