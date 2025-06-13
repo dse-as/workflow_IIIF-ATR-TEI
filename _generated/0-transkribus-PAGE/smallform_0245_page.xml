@@ -1,0 +1,1728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<validation-wrapper>
+   <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+      <Metadata>
+         <Creator>prov=READ-COOP:name=TrHtr:version=2.23.1:model_id=51170:date=14_02_2025_16:49</Creator>
+         <Created>2025-02-14T16:44:21.956+01:00</Created>
+         <LastChange>2025-06-13T09:28:26.441+02:00</LastChange>
+         <TranskribusMetadata docId="6918736"
+                              pageId="91565272"
+                              pageNr="1"
+                              tsid="228828909"
+                              status="IN_PROGRESS"
+                              userId="295818"
+                              imgUrl="https://files.transkribus.eu/Get?id=PVWDYWFSQYGBMNWMNDJGTXSH&amp;fileType=view"
+                              xmlUrl="https://files.transkribus.eu/Get?id=VXPDKMFPLDOOVMXRWXYQELHM"
+                              imageId="76398137"/>
+      </Metadata>
+      <Page imageFilename="smallform_0245_001.jpg"
+            imageWidth="4279"
+            imageHeight="7100">
+         <ReadingOrder>
+            <OrderedGroup id="ro_1749799706442" caption="Regions reading order">
+               <RegionRefIndexed index="0" regionRef="r"/>
+               <RegionRefIndexed index="1" regionRef="r_11"/>
+               <RegionRefIndexed index="2" regionRef="r_12"/>
+               <RegionRefIndexed index="3" regionRef="r_18"/>
+            </OrderedGroup>
+         </ReadingOrder>
+         <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="280,4450 1304,4450 1304,6130 280,6130"/>
+            <TextLine id="r_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="688,4506 712,4517 772,4504 785,4512 825,4504 838,4515 859,4504 970,4510 970,4470 919,4456 818,4463 798,4454 763,4465 745,4452 688,4454"/>
+               <Baseline points="695,4496 740,4496 785,4496 830,4496 874,4496 919,4496 964,4496 973,4496"/>
+               <TextEquiv>
+                  <Unicode>Dixie Line</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="400,4571 1260,4565 1260,4519 1154,4495 1086,4524 1018,4498 400,4508"/>
+               <Baseline points="406,4553 412,4553 456,4553 501,4553 546,4553 591,4550 635,4553 680,4553 725,4553 770,4550 815,4550 859,4550 904,4550 949,4550 994,4550 1039,4550 1083,4550 1128,4547 1173,4547 1218,4547 1262,4550"/>
+               <TextEquiv>
+                  <Unicode>Der Weg des amerikanischen Südens</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_3" custom="readingOrder {index:2;}">
+               <Coords points="417,4626 761,4607 866,4637 1248,4635 1248,4567 417,4572"/>
+               <Baseline points="423,4606 444,4606 489,4609 534,4606 579,4606 624,4606 668,4606 713,4606 758,4606 803,4606 847,4606 892,4606 937,4606 982,4603 1027,4603 1071,4603 1116,4603 1161,4603 1206,4603 1251,4603"/>
+               <TextEquiv>
+                  <Unicode>Von \g\Annemarie Clark–Schwarzenbach\:g\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:3;}">
+               <Coords points="806,4669 867,4668 866,4638 805,4639"/>
+               <Baseline points="806,4669 867,4668"/>
+               <TextEquiv>
+                  <Unicode>III.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_4" custom="readingOrder {index:4;}">
+               <Coords points="375,4762 1279,4742 1303,4690 375,4708"/>
+               <Baseline points="382,4744 388,4741 432,4738 477,4738 522,4735 567,4735 612,4735 656,4732 701,4732 746,4732 791,4732 835,4729 880,4729 925,4729 970,4729 1015,4726 1059,4726 1104,4726 1149,4726 1194,4726 1239,4726 1283,4726 1304,4735"/>
+               <TextEquiv>
+                  <Unicode>In den \g\Cumberland–Bergen wird gejaßt\:g\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_5" custom="readingOrder {index:5;}">
+               <Coords points="422,4798 1302,4788 1302,4746 730,4772 422,4750"/>
+               <Baseline points="429,4792 474,4789 519,4789 564,4789 609,4786 653,4789 698,4786 743,4786 788,4783 833,4783 877,4783 922,4780 967,4780 1012,4780 1056,4780 1101,4777 1146,4777 1191,4777 1236,4777 1280,4777 1304,4777"/>
+               <TextEquiv>
+                  <Unicode>\p\Wir waren froh, als wir endlich die Bahnstation</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_6" custom="readingOrder {index:6;}">
+               <Coords points="380,4833 1271,4824 1252,4783 381,4803"/>
+               <Baseline points="388,4827 423,4824 468,4824 513,4824 558,4824 603,4824 647,4824 692,4824 737,4821 782,4818 827,4818 871,4818 916,4818 961,4815 1006,4815 1050,4815 1095,4812 1140,4812 1185,4812 1230,4812 1274,4815"/>
+               <TextEquiv>
+                  <Unicode>und den «General Store» fanden, wo es einen geheiz¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_7" custom="readingOrder {index:7;}">
+               <Coords points="379,4869 1227,4865 1303,4829 379,4833"/>
+               <Baseline points="385,4863 426,4860 471,4860 516,4860 561,4860 606,4857 650,4857 695,4857 740,4857 785,4854 830,4854 874,4857 919,4854 964,4851 1009,4851 1053,4851 1098,4851 1143,4848 1188,4848 1233,4848 1277,4851 1304,4849"/>
+               <TextEquiv>
+                  <Unicode>ten Ofen und heißen Kaffee geben sollte. Ein Berg¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_8" custom="readingOrder {index:8;}">
+               <Coords points="373,4906 1302,4897 1302,4851 374,4870"/>
+               <Baseline points="379,4899 391,4899 435,4896 480,4896 525,4896 570,4893 615,4893 659,4893 704,4890 749,4890 794,4890 838,4890 883,4890 928,4890 973,4887 1018,4887 1062,4887 1107,4887 1152,4884 1197,4887 1242,4884 1286,4887 1304,4884"/>
+               <TextEquiv>
+                  <Unicode>arbeiter von Palmer hatte uns den Weg erklärt, aber,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_9" custom="readingOrder {index:9;}">
+               <Coords points="369,4935 1302,4929 1270,4891 371,4904"/>
+               <Baseline points="376,4932 388,4935 432,4932 477,4929 522,4932 567,4929 612,4929 656,4929 701,4926 746,4926 791,4929 835,4926 880,4926 925,4926 970,4923 1015,4923 1059,4923 1104,4923 1149,4923 1194,4920 1239,4920 1283,4923 1304,4921"/>
+               <TextEquiv>
+                  <Unicode>obwohl Myles sich in dieser Gegend gut auskennt,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_10" custom="readingOrder {index:10;}">
+               <Coords points="375,4978 1208,4973 1277,4968 1278,4932 375,4937"/>
+               <Baseline points="382,4971 385,4971 429,4968 474,4968 519,4968 564,4965 609,4965 653,4965 698,4965 743,4962 788,4962 833,4962 877,4962 922,4962 967,4962 1012,4959 1056,4959 1101,4959 1146,4956 1191,4956 1236,4956 1280,4959"/>
+               <TextEquiv>
+                  <Unicode>hatten wir uns offenbar mehrmals geirrt, waren kreuz</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_11" custom="readingOrder {index:11;}">
+               <Coords points="375,5020 1289,5011 1303,4969 376,4978"/>
+               <Baseline points="382,5007 388,5007 432,5004 477,5004 522,5004 567,5004 612,5001 656,5001 701,5001 746,4998 791,4998 835,4998 880,4998 925,4998 970,4998 1015,4995 1059,4995 1104,4995 1149,4992 1194,4992 1239,4992 1283,4992 1304,4990"/>
+               <TextEquiv>
+                  <Unicode>und quer, hügelauf und hügelab durch den Fichtenwald</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_12" custom="readingOrder {index:12;}">
+               <Coords points="381,5054 1302,5047 1302,5013 381,5019"/>
+               <Baseline points="388,5045 394,5042 438,5039 483,5039 528,5039 573,5039 618,5036 662,5036 707,5036 752,5036 797,5033 841,5033 886,5033 931,5033 976,5033 1021,5030 1065,5030 1110,5030 1155,5027 1200,5027 1245,5030 1289,5030 1304,5029"/>
+               <TextEquiv>
+                  <Unicode>gefahren, es waren überall die gleichen Lehmwege,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_13" custom="readingOrder {index:13;}">
+               <Coords points="375,5091 1302,5069 1225,5036 375,5055"/>
+               <Baseline points="382,5078 391,5075 435,5075 480,5072 525,5072 570,5072 615,5072 659,5072 704,5069 749,5069 794,5072 838,5069 883,5069 928,5069 973,5069 1018,5066 1062,5066 1107,5066 1152,5066 1197,5063 1242,5063 1286,5069 1304,5065"/>
+               <TextEquiv>
+                  <Unicode>uneben, rötlich, vom Novemberregen aufgeweicht,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_14" custom="readingOrder {index:14;}">
+               <Coords points="375,5115 1214,5118 1283,5112 1284,5074 375,5091"/>
+               <Baseline points="382,5114 391,5114 435,5108 480,5108 525,5108 570,5108 615,5108 659,5108 704,5105 749,5105 794,5105 838,5105 883,5105 928,5102 973,5102 1018,5102 1062,5102 1107,5102 1152,5099 1197,5099 1242,5099 1286,5099"/>
+               <TextEquiv>
+                  <Unicode>manchmal mit Schlacke bedeckt, – und auf beiden Sei¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_15" custom="readingOrder {index:15;}">
+               <Coords points="375,5151 1302,5142 1302,5107 375,5113"/>
+               <Baseline points="382,5150 388,5150 432,5144 477,5144 522,5144 567,5144 612,5144 656,5144 701,5141 746,5141 791,5141 835,5141 880,5141 925,5141 970,5138 1015,5138 1059,5138 1104,5138 1149,5138 1194,5138 1239,5138 1283,5138 1304,5135"/>
+               <TextEquiv>
+                  <Unicode>ten der Wege standen die Hütten der Bergarbeiter,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_16" custom="readingOrder {index:16;}">
+               <Coords points="375,5187 1248,5191 1302,5184 1303,5141 375,5165"/>
+               <Baseline points="382,5186 391,5183 435,5180 480,5180 525,5180 570,5180 615,5180 659,5180 704,5180 749,5177 794,5177 838,5180 883,5177 928,5177 973,5177 1018,5174 1062,5174 1107,5174 1152,5174 1197,5174 1242,5174 1286,5174 1304,5171"/>
+               <TextEquiv>
+                  <Unicode>aus rohem Holz gezimmert, nicht gestrichen, weil das</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_17" custom="readingOrder {index:17;}">
+               <Coords points="379,5226 1302,5219 1279,5180 379,5192"/>
+               <Baseline points="385,5219 391,5219 435,5216 480,5216 525,5216 570,5216 615,5216 659,5216 704,5216 749,5213 794,5213 838,5213 883,5213 928,5213 973,5213 1018,5210 1062,5210 1107,5210 1152,5210 1197,5210 1242,5207 1286,5210 1304,5207"/>
+               <TextEquiv>
+                  <Unicode>Geld für die Oelfarbe nicht langte. Die Balken faul¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_18" custom="readingOrder {index:18;}">
+               <Coords points="375,5260 1302,5262 1302,5219 375,5222"/>
+               <Baseline points="382,5254 403,5251 447,5254 492,5251 537,5251 582,5251 626,5251 671,5248 716,5248 761,5248 806,5248 850,5248 895,5248 940,5248 985,5245 1030,5245 1074,5245 1119,5245 1164,5245 1209,5245 1253,5245 1298,5242 1304,5242"/>
+               <TextEquiv>
+                  <Unicode>ten, das Dach war nicht dicht, zerbrochene Fensterschei¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_19" custom="readingOrder {index:19;}">
+               <Coords points="381,5292 1302,5291 1281,5253 381,5262"/>
+               <Baseline points="388,5290 394,5287 438,5287 483,5287 528,5287 573,5287 618,5287 662,5287 707,5284 752,5284 797,5284 841,5284 886,5284 931,5284 976,5284 1021,5281 1065,5281 1110,5281 1155,5281 1200,5281 1245,5281 1289,5281 1304,5278"/>
+               <TextEquiv>
+                  <Unicode>ben waren mit Zeitungspapier verklebt oder mit einem</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_20" custom="readingOrder {index:20;}">
+               <Coords points="381,5331 1240,5332 1300,5328 1302,5291 382,5293"/>
+               <Baseline points="388,5326 400,5326 444,5323 489,5323 534,5323 579,5323 624,5323 668,5323 713,5323 758,5320 803,5320 847,5320 892,5320 937,5317 982,5317 1027,5317 1071,5317 1116,5317 1161,5317 1206,5314 1251,5317 1295,5320 1304,5318"/>
+               <TextEquiv>
+                  <Unicode>Brett zugenagelt. In Palmer, wo die Kohlengesellschaft</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_22" custom="readingOrder {index:21;}">
+               <Coords points="385,5370 1257,5370 1289,5334 386,5330"/>
+               <Baseline points="391,5362 397,5359 441,5359 486,5359 531,5359 576,5356 621,5359 665,5356 710,5359 755,5356 800,5356 844,5356 889,5356 934,5356 979,5353 1024,5356 1068,5353 1113,5353 1158,5353 1203,5350 1248,5353 1292,5353"/>
+               <TextEquiv>
+                  <Unicode>ihre Bureaux, ein großes Lagerhaus, und einen La¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_21" custom="readingOrder {index:22;}">
+               <Coords points="385,5406 1106,5409 1302,5397 1303,5362 385,5369"/>
+               <Baseline points="391,5398 400,5395 444,5395 489,5395 534,5395 579,5392 624,5392 668,5392 713,5392 758,5392 803,5392 847,5392 892,5389 937,5389 982,5389 1027,5389 1071,5389 1116,5389 1161,5389 1206,5389 1251,5389 1295,5389 1304,5390"/>
+               <TextEquiv>
+                  <Unicode>den hat, wollte Myles sich nicht aufhalten. Der Streik</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_23" custom="readingOrder {index:23;}">
+               <Coords points="381,5435 1302,5435 1291,5396 381,5407"/>
+               <Baseline points="388,5433 397,5430 441,5430 486,5428 531,5428 576,5428 621,5428 665,5428 710,5428 755,5428 800,5430 844,5428 889,5425 934,5428 979,5425 1024,5425 1068,5419 1113,5425 1158,5425 1203,5425 1248,5425 1292,5425 1304,5426"/>
+               <TextEquiv>
+                  <Unicode>war noch nicht beigelegt, und Myles. – Leiter der</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_24" custom="readingOrder {index:24;}">
+               <Coords points="381,5478 1302,5467 1302,5434 381,5436"/>
+               <Baseline points="388,5472 400,5469 444,5466 489,5463 534,5463 579,5466 624,5463 668,5463 713,5463 758,5463 803,5463 847,5463 892,5460 937,5460 982,5460 1027,5460 1071,5460 1116,5460 1161,5460 1206,5460 1251,5460 1295,5463 1304,5462"/>
+               <TextEquiv>
+                  <Unicode>„Hochländer–Schule" und «CJO»–Organisator, war bei</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_25" custom="readingOrder {index:25;}">
+               <Coords points="375,5507 1261,5512 1303,5469 375,5472"/>
+               <Baseline points="382,5502 403,5502 447,5502 492,5502 537,5499 582,5499 626,5499 671,5499 716,5499 761,5499 806,5496 850,5496 895,5499 940,5496 985,5496 1030,5496 1074,5496 1119,5496 1164,5496 1209,5496 1253,5496 1298,5499 1304,5498"/>
+               <TextEquiv>
+                  <Unicode>den Herren von der Grubengesellschaft unbeliebt. Die</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_26" custom="readingOrder {index:26;}">
+               <Coords points="381,5547 1302,5542 1293,5502 381,5511"/>
+               <Baseline points="388,5541 400,5538 444,5535 489,5535 534,5535 579,5535 624,5535 668,5535 713,5532 758,5535 803,5535 847,5532 892,5532 937,5532 982,5535 1027,5532 1071,5532 1116,5532 1161,5532 1206,5532 1251,5532 1295,5535 1304,5534"/>
+               <TextEquiv>
+                  <Unicode>Anfangsbuchstaben des „Comités für Industrie–Organi¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_27" custom="readingOrder {index:27;}">
+               <Coords points="381,5581 1283,5580 1276,5538 381,5546"/>
+               <Baseline points="388,5574 391,5574 435,5571 480,5571 525,5571 570,5571 615,5571 659,5571 704,5571 749,5571 794,5571 838,5571 883,5571 928,5568 973,5568 1018,5568 1062,5568 1107,5568 1152,5568 1197,5568 1242,5568 1286,5568"/>
+               <TextEquiv>
+                  <Unicode>sation“ sind ebenso gehaßt und gefürchtet wie der Name</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_28" custom="readingOrder {index:28;}">
+               <Coords points="385,5622 1302,5612 1302,5579 385,5586"/>
+               <Baseline points="391,5616 400,5610 444,5610 489,5607 534,5607 579,5607 624,5607 668,5607 713,5610 758,5607 803,5607 847,5604 892,5604 937,5604 982,5604 1027,5604 1071,5604 1116,5604 1161,5604 1206,5604 1251,5604 1295,5604 1304,5603"/>
+               <TextEquiv>
+                  <Unicode>seines Präsidenten, des Gewerkschaftsführers \g\John</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_29" custom="readingOrder {index:29;}">
+               <Coords points="398,5655 1302,5647 1302,5619 1173,5605 398,5619"/>
+               <Baseline points="404,5642 450,5645 495,5642 540,5642 585,5645 629,5642 674,5642 719,5642 764,5642 809,5639 853,5639 898,5639 943,5639 988,5639 1033,5637 1077,5637 1122,5639 1167,5639 1212,5639 1256,5639 1298,5642 1304,5642"/>
+               <TextEquiv>
+                  <Unicode>L. Lewis\:g\. In der „Hochländer–Schule" schnappen die</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_30" custom="readingOrder {index:30;}">
+               <Coords points="391,5686 1302,5683 1300,5646 391,5653"/>
+               <Baseline points="397,5684 400,5681 444,5681 489,5681 534,5678 579,5678 624,5675 668,5675 713,5675 758,5675 803,5675 847,5675 892,5675 937,5675 982,5675 1027,5675 1071,5672 1116,5672 1161,5675 1206,5675 1251,5675 1295,5675 1304,5675"/>
+               <TextEquiv>
+                  <Unicode>Bergarbeiter und Bauern der Cumberland–Berge neue</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_31" custom="readingOrder {index:31;}">
+               <Coords points="381,5727 1302,5723 1302,5691 381,5695"/>
+               <Baseline points="388,5720 409,5717 453,5714 498,5714 543,5717 588,5714 632,5714 677,5714 722,5711 767,5711 812,5714 856,5711 901,5711 946,5711 991,5711 1036,5711 1080,5708 1125,5711 1170,5711 1215,5711 1259,5711 1304,5714"/>
+               <TextEquiv>
+                  <Unicode>Ideen auf, sie lernen, daß die amerikanische Verfassung</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_32" custom="readingOrder {index:32;}">
+               <Coords points="385,5765 1302,5755 1281,5719 1123,5714 385,5729"/>
+               <Baseline points="391,5753 400,5753 444,5750 489,5750 534,5750 579,5750 624,5750 668,5747 713,5750 758,5747 803,5747 847,5747 892,5747 937,5747 982,5747 1027,5747 1071,5747 1116,5747 1161,5747 1206,5747 1251,5747 1295,5747 1304,5748"/>
+               <TextEquiv>
+                  <Unicode>jedem Bürger das Anrecht auf „Leben, Freiheit, und</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_33" custom="readingOrder {index:33;}">
+               <Coords points="381,5791 1302,5788 1287,5752 381,5763"/>
+               <Baseline points="388,5789 403,5786 447,5789 492,5786 537,5786 582,5786 626,5783 671,5783 716,5783 761,5783 806,5783 850,5783 895,5783 940,5783 985,5783 1030,5783 1074,5783 1119,5783 1164,5783 1209,5783 1253,5783 1298,5783 1304,5784"/>
+               <TextEquiv>
+                  <Unicode>das Streben nach Glück" zugesteht, und daß es ein bes¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_34" custom="readingOrder {index:34;}">
+               <Coords points="391,5832 1289,5827 1279,5790 1172,5784 1141,5808 391,5797"/>
+               <Baseline points="397,5825 441,5822 486,5822 531,5822 576,5822 621,5819 665,5819 710,5819 755,5819 800,5819 844,5819 889,5819 934,5819 979,5819 1024,5819 1068,5819 1113,5816 1158,5816 1203,5816 1248,5819 1292,5819"/>
+               <TextEquiv>
+                  <Unicode>seres und glücklicheres Leben gibt als das Leben in</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_35" custom="readingOrder {index:35;}">
+               <Coords points="387,5868 1302,5870 1285,5826 387,5832"/>
+               <Baseline points="394,5860 403,5857 447,5857 492,5860 537,5857 582,5857 626,5857 671,5854 716,5854 761,5854 806,5854 850,5854 895,5854 940,5854 985,5854 1030,5854 1074,5854 1119,5854 1164,5851 1209,5851 1253,5854 1298,5857 1304,5857"/>
+               <TextEquiv>
+                  <Unicode>Armut, das sie führen. Sie hören die gefährliche Lehre</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_36" custom="readingOrder {index:36;}">
+               <Coords points="387,5898 1286,5907 1273,5860 387,5869"/>
+               <Baseline points="394,5893 438,5890 483,5893 528,5893 573,5893 618,5890 662,5893 707,5890 752,5890 797,5890 841,5890 886,5890 931,5890 976,5890 1021,5890 1065,5890 1110,5887 1155,5890 1200,5890 1245,5890 1289,5887"/>
+               <TextEquiv>
+                  <Unicode>von der Macht, die selbst den Aermsten, den Arbeits¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_37" custom="readingOrder {index:37;}">
+               <Coords points="385,5940 1302,5934 1302,5895 385,5899"/>
+               <Baseline points="391,5929 397,5932 441,5929 486,5929 531,5929 576,5929 621,5929 665,5929 710,5926 755,5926 800,5926 844,5926 889,5926 934,5926 979,5926 1024,5926 1068,5926 1113,5926 1158,5926 1203,5926 1248,5926 1292,5926 1304,5927"/>
+               <TextEquiv>
+                  <Unicode>losen, den „vergessenen Männern“ gegeben wird, wenn</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_38" custom="readingOrder {index:38;}">
+               <Coords points="385,5976 1212,5977 1302,5972 1303,5938 386,5939"/>
+               <Baseline points="391,5968 400,5965 444,5962 489,5965 534,5965 579,5965 624,5962 668,5962 713,5962 758,5962 803,5962 847,5962 892,5962 937,5962 982,5962 1027,5962 1071,5959 1116,5959 1161,5959 1206,5962 1251,5962 1295,5962 1304,5963"/>
+               <TextEquiv>
+                  <Unicode>sie sich organisieren und zusammentun. Was sie in der</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_39" custom="readingOrder {index:39;}">
+               <Coords points="381,6010 1302,6005 1302,5971 381,5984"/>
+               <Baseline points="388,6004 409,6001 453,5998 498,5998 543,5998 588,5998 632,5998 677,5998 722,6001 767,5998 812,5998 856,5998 901,5998 946,5995 991,5998 1036,5995 1080,5995 1125,5998 1170,5995 1215,5995 1259,5998 1304,6001"/>
+               <TextEquiv>
+                  <Unicode>„Hochländer–Schule“ gelernt haben, wenden sie nachher</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_40" custom="readingOrder {index:40;}">
+               <Coords points="381,6043 1276,6049 1303,6005 381,6020"/>
+               <Baseline points="388,6037 403,6034 447,6037 492,6037 537,6034 582,6037 626,6034 671,6034 716,6034 761,6034 806,6034 850,6034 895,6034 940,6034 985,6031 1030,6034 1074,6031 1119,6034 1164,6034 1209,6031 1253,6034 1298,6034 1304,6034"/>
+               <TextEquiv>
+                  <Unicode>an in den Lagern der Holzfäller und den Siedlungen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_41" custom="readingOrder {index:41;}">
+               <Coords points="385,6078 1302,6083 1294,6039 385,6043"/>
+               <Baseline points="391,6075 435,6072 480,6072 525,6072 570,6072 615,6072 659,6072 704,6072 749,6072 794,6072 838,6069 883,6069 928,6072 973,6069 1018,6069 1062,6069 1107,6069 1152,6069 1197,6069 1242,6069 1286,6072 1304,6072"/>
+               <TextEquiv>
+                  <Unicode>der Bergarbeiter. Die Herren der Grubengesellschaft [Achtung: letzte Zeile der Spalte ist jeweils fett]</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_11" custom="readingOrder {index:1;}">
+            <Coords points="1315,4423 2247,4423 2247,6119 1315,6119"/>
+            <TextLine id="r_11_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="1310,4460 2244,4466 2237,4421 1310,4430"/>
+               <Baseline points="1316,4454 1361,4454 1406,4454 1451,4454 1495,4454 1540,4454 1585,4454 1630,4454 1674,4454 1719,4454 1764,4454 1809,4454 1854,4451 1898,4454 1943,4454 1988,4454 2033,4454 2078,4454 2122,4451 2167,4454 2212,4457 2221,4457 2247,4457"/>
+               <TextEquiv>
+                  <Unicode>und der Holzgesellschaft erklären ihren Arbeitern, daß</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="1310,4509 2244,4501 2244,4466 2181,4460 1310,4460"/>
+               <Baseline points="1316,4490 1361,4490 1406,4490 1451,4490 1495,4490 1540,4490 1585,4490 1630,4490 1674,4490 1719,4490 1764,4490 1809,4490 1854,4490 1898,4490 1943,4490 1988,4490 2033,4490 2078,4487 2122,4490 2167,4490 2212,4490 2224,4490 2247,4490"/>
+               <TextEquiv>
+                  <Unicode>die «CJO»–Organisatoren Fremde sind, Rote, Ausländer</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_3" custom="readingOrder {index:2;}">
+               <Coords points="1310,4536 2244,4538 2224,4495 1310,4509"/>
+               <Baseline points="1316,4526 1361,4526 1406,4526 1451,4526 1495,4526 1540,4526 1585,4526 1630,4526 1674,4526 1719,4526 1764,4526 1809,4523 1854,4526 1898,4526 1943,4526 1988,4526 2033,4523 2078,4526 2122,4526 2167,4523 2212,4526 2224,4529 2247,4527"/>
+               <TextEquiv>
+                  <Unicode>aus dem Norden. „Wenn Ihr der CJO–Gewerkschaft</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_4" custom="readingOrder {index:3;}">
+               <Coords points="1309,4568 2246,4588 2246,4539 2194,4531 1309,4526"/>
+               <Baseline points="1315,4562 1358,4562 1403,4562 1448,4562 1492,4559 1537,4559 1582,4562 1627,4562 1671,4562 1716,4559 1761,4559 1806,4559 1851,4562 1895,4559 1940,4562 1985,4562 2030,4562 2075,4559 2119,4562 2164,4562 2209,4565 2221,4562 2247,4562"/>
+               <TextEquiv>
+                  <Unicode>beitretet, dann wird Euer Geld nach Rußland geschickt,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_5" custom="readingOrder {index:4;}">
+               <Coords points="1309,4606 2246,4616 2181,4569 1309,4565"/>
+               <Baseline points="1315,4597 1322,4597 1367,4594 1412,4594 1457,4597 1501,4597 1546,4594 1591,4594 1636,4597 1680,4597 1725,4597 1770,4597 1815,4594 1860,4597 1904,4597 1949,4597 1994,4597 2039,4594 2084,4594 2128,4597 2173,4597 2218,4594 2247,4597"/>
+               <TextEquiv>
+                  <Unicode>und nach Spanien, wo die Roten die Kirchen anzün¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_6" custom="readingOrder {index:5;}">
+               <Coords points="1312,4643 2244,4646 2204,4606 1312,4608"/>
+               <Baseline points="1319,4633 1364,4630 1409,4627 1454,4627 1498,4630 1543,4633 1588,4630 1633,4633 1677,4633 1722,4633 1767,4633 1812,4633 1857,4633 1901,4630 1946,4630 1991,4633 2036,4630 2081,4630 2125,4630 2170,4633 2215,4633 2247,4636"/>
+               <TextEquiv>
+                  <Unicode>den." – Die Männer und Frauen der Cumberland–</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_7" custom="readingOrder {index:6;}">
+               <Coords points="1316,4678 2244,4692 2244,4659 2169,4640 1316,4637"/>
+               <Baseline points="1322,4666 1367,4666 1412,4669 1457,4666 1501,4669 1546,4666 1591,4669 1636,4669 1680,4669 1725,4669 1770,4669 1815,4669 1860,4666 1904,4666 1949,4666 1994,4666 2039,4669 2084,4666 2128,4666 2173,4669 2218,4669 2224,4669 2247,4669"/>
+               <TextEquiv>
+                  <Unicode>Berge sind fromm, und sie trauen keinem Ausländer.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_8" custom="readingOrder {index:7;}">
+               <Coords points="1312,4715 2209,4716 2209,4673 1312,4682"/>
+               <Baseline points="1319,4705 1364,4702 1409,4702 1454,4702 1498,4702 1543,4702 1588,4702 1633,4705 1677,4702 1722,4702 1767,4702 1812,4705 1857,4702 1901,4705 1946,4705 1991,4705 2036,4705 2081,4705 2125,4702 2170,4705 2212,4705"/>
+               <TextEquiv>
+                  <Unicode>Aber ebensowenig trauen sie dem „Boß“, dem die Koh¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_9" custom="readingOrder {index:8;}">
+               <Coords points="1309,4748 2246,4754 2246,4715 2177,4712 1309,4716"/>
+               <Baseline points="1315,4740 1316,4741 1361,4738 1406,4738 1451,4738 1495,4738 1540,4738 1585,4738 1630,4738 1674,4738 1719,4741 1764,4741 1809,4741 1854,4738 1898,4741 1943,4741 1988,4741 2033,4741 2078,4738 2122,4741 2167,4741 2212,4741 2221,4741 2247,4739"/>
+               <TextEquiv>
+                  <Unicode>lengruben und die Wälder gehören, der selber ein</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_10" custom="readingOrder {index:9;}">
+               <Coords points="1309,4788 2246,4793 2246,4754 2182,4747 1309,4748"/>
+               <Baseline points="1315,4777 1319,4777 1364,4774 1409,4774 1454,4774 1498,4774 1543,4774 1588,4774 1633,4774 1677,4774 1722,4774 1767,4774 1812,4777 1857,4774 1901,4777 1946,4774 1991,4774 2036,4777 2081,4774 2125,4774 2170,4777 2215,4777 2230,4777 2247,4777"/>
+               <TextEquiv>
+                  <Unicode>„Ausländer" ist und in der Stadt wohnt und selten</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_11" custom="readingOrder {index:10;}">
+               <Coords points="1316,4831 2244,4826 2244,4794 2194,4783 1316,4787"/>
+               <Baseline points="1322,4809 1367,4809 1412,4809 1457,4809 1501,4809 1546,4809 1591,4809 1636,4809 1680,4809 1725,4809 1770,4809 1815,4809 1860,4809 1904,4812 1949,4812 1994,4812 2039,4812 2084,4812 2128,4812 2173,4812 2218,4812 2221,4812 2247,4810"/>
+               <TextEquiv>
+                  <Unicode>in die Hügel herauskommt. Wenn er kommt, sitzt er in</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_12" custom="readingOrder {index:11;}">
+               <Coords points="1309,4851 2246,4846 2146,4819 1309,4836"/>
+               <Baseline points="1315,4849 1319,4848 1325,4848 1370,4845 1415,4845 1460,4845 1504,4845 1549,4845 1594,4845 1639,4845 1683,4845 1728,4845 1773,4845 1818,4845 1863,4845 1907,4845 1952,4845 1997,4845 2042,4845 2087,4848 2131,4848 2176,4848 2221,4845 2247,4843"/>
+               <TextEquiv>
+                  <Unicode>einer großen, blanken Limousine und trägt eine Kra¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_13" custom="readingOrder {index:12;}">
+               <Coords points="1309,4888 2246,4886 2246,4850 1309,4853"/>
+               <Baseline points="1315,4882 1319,4881 1364,4881 1409,4881 1454,4881 1498,4881 1543,4881 1588,4881 1633,4881 1677,4881 1722,4881 1767,4881 1812,4881 1857,4881 1901,4881 1946,4884 1991,4884 2036,4884 2081,4884 2125,4884 2170,4884 2215,4887 2230,4884 2247,4882"/>
+               <TextEquiv>
+                  <Unicode>watte, sogar Werktags. Myles ist kein Fremder, er ist</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_14" custom="readingOrder {index:13;}">
+               <Coords points="1309,4923 2246,4931 2246,4886 1309,4897"/>
+               <Baseline points="1315,4921 1322,4920 1367,4917 1412,4917 1457,4914 1501,4917 1546,4917 1591,4917 1636,4917 1680,4917 1725,4917 1770,4917 1815,4917 1860,4917 1904,4917 1949,4920 1994,4920 2039,4920 2084,4920 2128,4920 2173,4920 2218,4923 2221,4920 2247,4918"/>
+               <TextEquiv>
+                  <Unicode>Einer von ihnen, ein Farmersohn, er spricht ihre</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_15" custom="readingOrder {index:14;}">
+               <Coords points="1318,4958 2244,4967 2217,4926 1318,4930"/>
+               <Baseline points="1325,4956 1370,4953 1415,4953 1460,4953 1504,4953 1549,4953 1594,4953 1639,4953 1683,4953 1728,4953 1773,4953 1818,4953 1863,4953 1907,4953 1952,4953 1997,4953 2042,4953 2087,4953 2131,4953 2176,4956 2221,4959 2227,4956 2247,4952"/>
+               <TextEquiv>
+                  <Unicode>Sprache, raucht den gleichen Tabak, und am Samstag</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_16" custom="readingOrder {index:15;}">
+               <Coords points="1309,4989 2246,4997 2246,4968 2195,4963 1309,4970"/>
+               <Baseline points="1315,4989 1319,4989 1364,4986 1409,4986 1454,4986 1498,4989 1543,4986 1588,4989 1633,4989 1677,4989 1722,4989 1767,4989 1812,4989 1857,4989 1901,4989 1946,4989 1991,4989 2036,4989 2081,4992 2125,4989 2170,4992 2215,4992 2221,4992 2247,4990"/>
+               <TextEquiv>
+                  <Unicode>abend kommen die Fidler in die Hochländer-Schule, ein</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_17" custom="readingOrder {index:16;}">
+               <Coords points="1309,5036 2218,5040 2218,5000 2188,4998 1309,4989"/>
+               <Baseline points="1315,5028 1325,5027 1370,5021 1415,5021 1460,5021 1504,5021 1549,5021 1594,5021 1639,5024 1683,5024 1728,5024 1773,5024 1818,5021 1863,5024 1907,5024 1952,5024 1997,5024 2042,5024 2087,5024 2131,5024 2176,5024 2221,5024"/>
+               <TextEquiv>
+                  <Unicode>Feuer brennt im Kamin, und die Hillbillys und Lum¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_18" custom="readingOrder {index:17;}">
+               <Coords points="1309,5069 2218,5068 2210,5037 2098,5032 1309,5036"/>
+               <Baseline points="1315,5063 1325,5060 1370,5057 1415,5057 1460,5060 1504,5057 1549,5060 1594,5057 1639,5057 1683,5057 1728,5057 1773,5057 1818,5060 1863,5057 1907,5060 1952,5060 1997,5060 2042,5060 2087,5060 2131,5060 2176,5060 2221,5063"/>
+               <TextEquiv>
+                  <Unicode>berjacks, die Jones und Marlton und Myles tanzen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_19" custom="readingOrder {index:18;}">
+               <Coords points="1324,5106 2244,5106 2244,5070 1324,5070"/>
+               <Baseline points="1331,5099 1376,5093 1421,5093 1465,5093 1510,5093 1555,5093 1600,5093 1645,5093 1689,5093 1734,5093 1779,5096 1824,5096 1869,5096 1913,5096 1958,5096 2003,5096 2048,5096 2092,5096 2137,5096 2182,5099 2224,5102 2247,5109"/>
+               <TextEquiv>
+                  <Unicode>„Squaredances". Tiefenteller, der auch zur Schule ge¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_20" custom="readingOrder {index:19;}">
+               <Coords points="1309,5134 2209,5145 2221,5112 1307,5109"/>
+               <Baseline points="1315,5133 1325,5132 1370,5132 1415,5129 1460,5129 1504,5129 1549,5129 1594,5129 1639,5129 1683,5132 1728,5129 1773,5129 1818,5132 1863,5132 1907,5132 1952,5132 1997,5132 2042,5135 2087,5132 2131,5132 2176,5132 2221,5138 2224,5138"/>
+               <TextEquiv>
+                  <Unicode>hört, und den sie „Teffi" nennen, ruft die Figuren zum</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_21" custom="readingOrder {index:20;}">
+               <Coords points="1309,5181 2246,5173 2187,5141 1307,5135"/>
+               <Baseline points="1315,5169 1325,5168 1370,5165 1415,5168 1460,5165 1504,5165 1549,5165 1594,5165 1639,5165 1683,5165 1728,5165 1773,5165 1818,5168 1863,5168 1907,5168 1952,5168 1997,5168 2042,5168 2087,5168 2131,5168 2176,5168 2221,5171 2230,5171 2247,5177"/>
+               <TextEquiv>
+                  <Unicode>Tanz aus, mit einer Stimme, die man drei Meilen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_22" custom="readingOrder {index:21;}">
+               <Coords points="1309,5207 2246,5209 2209,5177 1307,5181"/>
+               <Baseline points="1315,5205 1325,5204 1370,5201 1415,5201 1460,5201 1504,5201 1549,5201 1594,5201 1639,5201 1683,5201 1728,5201 1773,5201 1818,5201 1863,5204 1907,5204 1952,5204 1997,5204 2042,5204 2087,5201 2131,5204 2176,5204 2221,5204 2224,5204 2247,5212"/>
+               <TextEquiv>
+                  <Unicode>weit durch den Wald schallen hört. Niemand in Grundy</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_23" custom="readingOrder {index:22;}">
+               <Coords points="1309,5251 2246,5255 2237,5209 1309,5206"/>
+               <Baseline points="1315,5241 1325,5239 1370,5236 1415,5236 1460,5236 1504,5236 1549,5239 1594,5236 1639,5236 1683,5236 1728,5236 1773,5239 1818,5239 1863,5239 1907,5239 1952,5239 1997,5239 2042,5239 2087,5239 2131,5239 2176,5239 2221,5242 2236,5242 2247,5246"/>
+               <TextEquiv>
+                  <Unicode>County weiß genau, was ein „Roter" ist. Aber alle</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_24" custom="readingOrder {index:23;}">
+               <Coords points="1309,5276 2246,5290 2246,5255 2171,5246 1309,5247"/>
+               <Baseline points="1315,5275 1325,5272 1370,5272 1415,5272 1460,5272 1504,5272 1549,5272 1594,5272 1639,5272 1683,5272 1728,5275 1773,5275 1818,5275 1863,5275 1907,5278 1952,5275 1997,5275 2042,5275 2087,5275 2131,5275 2176,5275 2221,5275 2230,5278 2247,5282"/>
+               <TextEquiv>
+                  <Unicode>wissen, daß Myles und Teffi richtig sind, und daß man</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_25" custom="readingOrder {index:24;}">
+               <Coords points="1309,5325 1394,5314 1415,5327 1428,5316 1462,5327 1538,5319 1559,5331 1601,5316 1639,5321 1639,5284 1442,5284 1425,5301 1401,5280 1381,5288 1309,5276"/>
+               <Baseline points="1315,5314 1325,5311 1370,5308 1415,5311 1460,5308 1504,5308 1549,5308 1594,5308 1639,5314 1642,5311"/>
+               <TextEquiv>
+                  <Unicode>ihnen trauen kann.\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_26" custom="readingOrder {index:25;}">
+               <Coords points="1371,5362 2215,5356 2194,5310 1372,5317"/>
+               <Baseline points="1379,5356 1412,5353 1457,5353 1501,5353 1546,5350 1591,5350 1636,5350 1680,5350 1725,5347 1770,5347 1815,5347 1860,5347 1904,5347 1949,5347 1994,5347 2039,5347 2084,5347 2128,5347 2173,5347 2218,5347"/>
+               <TextEquiv>
+                  <Unicode>\p\Alle Bergarbeiter von Grundy County sind organi¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_27" custom="readingOrder {index:26;}">
+               <Coords points="1309,5400 2230,5388 2230,5354 1397,5373 1310,5325"/>
+               <Baseline points="1315,5392 1334,5395 1337,5392 1382,5389 1427,5389 1471,5389 1516,5386 1561,5386 1606,5386 1651,5386 1695,5386 1740,5386 1785,5386 1830,5386 1875,5386 1919,5386 1964,5386 2009,5383 2054,5383 2098,5383 2143,5383 2188,5383 2233,5386 2247,5372"/>
+               <TextEquiv>
+                  <Unicode>siert. Viele von ihnen sind arbeitslos, denn die Gruben</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_28" custom="readingOrder {index:27;}">
+               <Coords points="1309,5430 2243,5429 2244,5388 1310,5394"/>
+               <Baseline points="1315,5427 1325,5428 1334,5428 1379,5425 1424,5425 1468,5425 1513,5425 1558,5422 1603,5422 1648,5422 1692,5422 1737,5422 1782,5422 1827,5422 1872,5422 1916,5419 1961,5422 2006,5419 2051,5419 2095,5419 2140,5419 2185,5419 2230,5422 2247,5426"/>
+               <TextEquiv>
+                  <Unicode>der Cumberland–Berge sind alt und geben nicht mehr</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_29" custom="readingOrder {index:28;}">
+               <Coords points="1309,5470 2228,5461 2217,5428 1309,5430"/>
+               <Baseline points="1315,5459 1325,5457 1370,5460 1415,5460 1460,5457 1504,5457 1549,5457 1594,5457 1639,5457 1683,5457 1728,5457 1773,5457 1818,5457 1863,5457 1907,5457 1952,5457 1997,5454 2042,5454 2087,5454 2131,5454 2176,5454 2221,5457 2230,5457"/>
+               <TextEquiv>
+                  <Unicode>viel Kohle her. Fast alle Holzfäller sind arbeitslos,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_30" custom="readingOrder {index:29;}">
+               <Coords points="1309,5499 2222,5502 2208,5460 1309,5472"/>
+               <Baseline points="1315,5496 1325,5493 1370,5496 1415,5496 1460,5493 1504,5496 1549,5493 1594,5493 1639,5493 1683,5493 1728,5493 1773,5493 1818,5493 1863,5493 1907,5493 1952,5490 1997,5490 2042,5490 2087,5490 2131,5490 2176,5490 2221,5493 2224,5493"/>
+               <TextEquiv>
+                  <Unicode>weil ein Holzspekulant aus Chattanooga vor dreißig</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_31" custom="readingOrder {index:30;}">
+               <Coords points="1309,5537 2036,5546 2218,5533 2220,5505 1402,5519 1310,5494"/>
+               <Baseline points="1315,5533 1325,5532 1370,5532 1415,5532 1460,5529 1504,5532 1549,5532 1594,5529 1639,5529 1683,5529 1728,5529 1773,5529 1818,5529 1863,5529 1907,5529 1952,5526 1997,5526 2042,5526 2087,5526 2131,5523 2176,5523 2221,5523"/>
+               <TextEquiv>
+                  <Unicode>oder fünfzig Jahren den Wald kahlschlagen und das</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_32" custom="readingOrder {index:31;}">
+               <Coords points="1328,5573 2224,5570 2224,5535 1328,5541"/>
+               <Baseline points="1334,5565 1376,5568 1421,5565 1465,5565 1510,5565 1555,5565 1600,5565 1645,5565 1689,5562 1734,5562 1779,5562 1824,5562 1869,5562 1913,5562 1958,5562 2003,5559 2048,5559 2092,5559 2137,5559 2182,5559 2227,5559"/>
+               <TextEquiv>
+                  <Unicode>Holz in den Norden verkauft hat. Auf den kahlen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_33" custom="readingOrder {index:32;}">
+               <Coords points="1309,5626 2218,5605 2188,5565 1309,5570"/>
+               <Baseline points="1315,5602 1331,5601 1370,5601 1415,5601 1460,5604 1504,5601 1549,5601 1594,5598 1639,5598 1683,5598 1728,5598 1773,5598 1818,5598 1863,5598 1907,5598 1952,5598 1997,5595 2042,5595 2087,5595 2131,5598 2176,5595 2221,5598"/>
+               <TextEquiv>
+                  <Unicode>Hängen der Hügel sammelt sich das Wasser im Früh¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_34" custom="readingOrder {index:33;}">
+               <Coords points="1309,5644 2246,5657 2227,5599 1309,5619"/>
+               <Baseline points="1315,5641 1325,5639 1337,5639 1382,5639 1427,5637 1471,5637 1516,5637 1561,5637 1606,5634 1651,5637 1695,5637 1740,5637 1785,5637 1830,5637 1875,5637 1919,5634 1964,5634 2009,5634 2054,5634 2098,5631 2143,5634 2188,5631 2233,5634 2247,5638"/>
+               <TextEquiv>
+                  <Unicode>ling und frißt sich in die Erde ein, sodaß das Land</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_35" custom="readingOrder {index:34;}">
+               <Coords points="1309,5677 1448,5692 1530,5682 1575,5698 1589,5686 1663,5684 1663,5657 1637,5663 1578,5643 1532,5656 1437,5644 1417,5655 1309,5652"/>
+               <Baseline points="1315,5675 1331,5675 1352,5672 1397,5672 1442,5672 1486,5672 1531,5675 1576,5672 1621,5672 1666,5672"/>
+               <TextEquiv>
+                  <Unicode>unbrauchbar wird.\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_36" custom="readingOrder {index:35;}">
+               <Coords points="1376,5727 2244,5723 2210,5679 2067,5689 2026,5663 1816,5699 1716,5672 1376,5689"/>
+               <Baseline points="1382,5723 1427,5717 1471,5714 1516,5714 1561,5714 1606,5714 1651,5714 1695,5714 1740,5714 1785,5714 1830,5714 1875,5711 1919,5711 1964,5711 2009,5711 2054,5711 2098,5708 2143,5708 2188,5711 2233,5714 2247,5715"/>
+               <TextEquiv>
+                  <Unicode>\p\Inzwischen ist der Wald nachgewachsen, aus dem</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_37" custom="readingOrder {index:36;}">
+               <Coords points="1307,5767 2246,5760 2246,5723 2159,5711 1449,5742 1309,5688"/>
+               <Baseline points="1315,5750 1331,5753 1334,5753 1379,5750 1424,5750 1468,5750 1513,5750 1558,5750 1603,5750 1648,5750 1692,5750 1737,5750 1782,5750 1827,5750 1872,5750 1916,5747 1961,5747 2006,5747 2051,5747 2095,5744 2140,5744 2185,5744 2230,5747 2247,5750"/>
+               <TextEquiv>
+                  <Unicode>dichten Unterholz streben die jungen Fichtenstämme</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_38" custom="readingOrder {index:37;}">
+               <Coords points="1309,5807 2246,5789 2237,5758 1985,5750 1309,5764"/>
+               <Baseline points="1315,5786 1331,5789 1340,5789 1385,5786 1430,5789 1474,5786 1519,5786 1564,5786 1609,5789 1654,5786 1698,5786 1743,5786 1788,5786 1833,5786 1878,5783 1922,5783 1967,5783 2012,5783 2057,5783 2101,5780 2146,5780 2191,5780 2236,5783 2247,5785"/>
+               <TextEquiv>
+                  <Unicode>ans Licht. Die Farmer und Holzfäller haben von</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_39" custom="readingOrder {index:38;}">
+               <Coords points="1331,5837 2244,5833 2244,5791 1331,5797"/>
+               <Baseline points="1337,5825 1382,5819 1427,5822 1471,5822 1516,5822 1561,5822 1606,5822 1651,5822 1695,5822 1740,5822 1785,5822 1830,5822 1875,5819 1919,5819 1964,5819 2009,5816 2054,5816 2098,5816 2143,5816 2188,5816 2233,5822 2247,5823"/>
+               <TextEquiv>
+                  <Unicode>Myles gelernt, daß der Wald, wenn man ihn schont</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_40" custom="readingOrder {index:39;}">
+               <Coords points="1309,5869 2224,5865 2196,5823 1309,5840"/>
+               <Baseline points="1315,5857 1337,5857 1376,5854 1421,5857 1465,5857 1510,5857 1555,5857 1600,5857 1645,5854 1689,5854 1734,5854 1779,5854 1824,5854 1869,5854 1913,5851 1958,5854 2003,5851 2048,5851 2092,5851 2137,5851 2182,5854 2227,5854"/>
+               <TextEquiv>
+                  <Unicode>und pflegt, Reichtum bedeutet. Als ein neuer Holz¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_41" custom="readingOrder {index:40;}">
+               <Coords points="1331,5904 2244,5904 2233,5858 1331,5868"/>
+               <Baseline points="1337,5896 1346,5896 1391,5893 1436,5890 1480,5893 1525,5890 1570,5893 1615,5890 1660,5893 1704,5893 1749,5893 1794,5890 1839,5890 1883,5890 1928,5890 1973,5890 2018,5890 2063,5890 2107,5887 2152,5890 2197,5890 2242,5890 2247,5891"/>
+               <TextEquiv>
+                  <Unicode>spekulant auf dem Plan erschien, um den jungen Wald</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_42" custom="readingOrder {index:41;}">
+               <Coords points="1309,5937 2246,5937 2222,5896 1309,5902"/>
+               <Baseline points="1315,5928 1334,5929 1346,5929 1391,5926 1436,5926 1480,5926 1525,5929 1570,5926 1615,5929 1660,5926 1704,5929 1749,5929 1794,5929 1839,5926 1883,5926 1928,5929 1973,5926 2018,5926 2063,5926 2107,5926 2152,5923 2197,5926 2242,5926 2247,5927"/>
+               <TextEquiv>
+                  <Unicode>in Grundy County kahlzuschlagen, weigerten sich die</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_43" custom="readingOrder {index:42;}">
+               <Coords points="1309,5968 2246,5977 2246,5938 2187,5932 1309,5942"/>
+               <Baseline points="1315,5963 1334,5965 1349,5962 1394,5962 1439,5962 1483,5962 1528,5965 1573,5962 1618,5962 1663,5962 1707,5962 1752,5962 1797,5965 1842,5962 1886,5962 1931,5962 1976,5962 2021,5962 2066,5962 2110,5962 2155,5959 2200,5962 2245,5962 2247,5962"/>
+               <TextEquiv>
+                  <Unicode>Lumberjacks, an die Arbeit zu gehen. Der Spekulant</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_44" custom="readingOrder {index:43;}">
+               <Coords points="1309,6000 2246,6005 2246,5977 2179,5967 1309,5967"/>
+               <Baseline points="1315,6000 1337,5998 1382,5998 1427,5998 1471,5998 1516,5998 1561,5998 1606,5998 1651,5998 1695,5998 1740,5998 1785,5998 1830,5998 1875,5998 1919,5998 1964,5998 2009,5998 2054,5998 2098,5998 2143,5998 2188,5998 2233,5998 2247,5999"/>
+               <TextEquiv>
+                  <Unicode>hatte das Land um den Wald gekauft, aber die Far¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_45" custom="readingOrder {index:44;}">
+               <Coords points="1309,6053 2246,6044 2231,6004 1309,6001"/>
+               <Baseline points="1315,6034 1331,6034 1376,6034 1421,6034 1465,6034 1510,6034 1555,6034 1600,6034 1645,6034 1689,6034 1734,6034 1779,6034 1824,6034 1869,6034 1913,6034 1958,6034 2003,6034 2048,6034 2092,6031 2137,6034 2182,6034 2227,6034 2242,6034 2247,6034"/>
+               <TextEquiv>
+                  <Unicode>mer und die arbeitslosen Holzfäller taten sich zusam¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_tl_46" custom="readingOrder {index:45;}">
+               <Coords points="1309,6084 2246,6092 2222,6040 1309,6053"/>
+               <Baseline points="1315,6072 1331,6072 1376,6069 1421,6072 1465,6069 1510,6072 1555,6072 1600,6069 1645,6072 1689,6069 1734,6072 1779,6072 1824,6069 1869,6069 1913,6069 1958,6069 2003,6069 2048,6069 2092,6072 2137,6069 2182,6069 2227,6072 2247,6074"/>
+               <TextEquiv>
+                  <Unicode>men, um ihr Land und ihren Wald zu schützen. Als die [Zeile ist fett markiert]</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_12" custom="readingOrder {index:2;}">
+            <Coords points="2251,4418 3176,4418 3195,6116 2251,6118"/>
+            <TextLine id="r_12_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="2244,4463 3152,4464 3134,4426 3035,4421 2244,4426"/>
+               <Baseline points="2251,4457 2257,4457 2301,4454 2346,4454 2391,4454 2436,4454 2481,4454 2525,4454 2570,4454 2615,4454 2660,4454 2705,4454 2749,4454 2794,4454 2839,4454 2884,4454 2928,4454 2973,4454 3018,4454 3063,4454 3108,4454 3152,4460 3155,4457"/>
+               <TextEquiv>
+                  <Unicode>Polizei kam, um sie zu zwingen, die Bäume zu fällen,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="2244,4502 3152,4498 3119,4459 2244,4475"/>
+               <Baseline points="2251,4490 2251,4490 2296,4490 2340,4490 2385,4490 2430,4490 2475,4490 2519,4490 2564,4487 2609,4490 2654,4490 2699,4490 2743,4487 2788,4490 2833,4490 2878,4490 2923,4490 2967,4490 3012,4490 3057,4487 3102,4490 3146,4493 3155,4493"/>
+               <TextEquiv>
+                  <Unicode>oder dann anderen Holzfällern den Platz zu räumen,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_3" custom="readingOrder {index:2;}">
+               <Coords points="2244,4537 3146,4537 3121,4496 2244,4498"/>
+               <Baseline points="2251,4526 2257,4526 2301,4526 2346,4523 2391,4526 2436,4523 2481,4523 2525,4523 2570,4523 2615,4523 2660,4526 2705,4526 2749,4526 2794,4523 2839,4526 2884,4526 2928,4526 2973,4526 3018,4526 3063,4526 3108,4526 3149,4526"/>
+               <TextEquiv>
+                  <Unicode>die man von auswärts geholt hatte, nahmen die Män¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_4" custom="readingOrder {index:3;}">
+               <Coords points="2244,4571 3175,4564 3168,4529 2244,4537"/>
+               <Baseline points="2251,4562 2251,4562 2296,4562 2340,4559 2385,4559 2430,4559 2475,4559 2519,4559 2564,4559 2609,4559 2654,4559 2699,4559 2743,4562 2788,4562 2833,4562 2878,4562 2923,4562 2967,4562 3012,4562 3057,4562 3102,4562 3146,4562 3158,4562 3177,4562"/>
+               <TextEquiv>
+                  <Unicode>ner von Grundy County ihre Flinten und verteidigten</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_5" custom="readingOrder {index:4;}">
+               <Coords points="2244,4607 3175,4606 3175,4574 3122,4569 2244,4571"/>
+               <Baseline points="2251,4597 2251,4597 2296,4594 2340,4594 2385,4594 2430,4597 2475,4594 2519,4597 2564,4594 2609,4594 2654,4597 2699,4597 2743,4597 2788,4597 2833,4597 2878,4597 2923,4597 2967,4594 3012,4597 3057,4597 3102,4597 3146,4597 3158,4597 3177,4596"/>
+               <TextEquiv>
+                  <Unicode>den Wald. Es war nichts dagegen zu machen. Der</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_6" custom="readingOrder {index:5;}">
+               <Coords points="2244,4641 3175,4637 3166,4603 2244,4603"/>
+               <Baseline points="2251,4636 2257,4636 2263,4636 2307,4633 2352,4630 2397,4630 2442,4633 2487,4633 2531,4630 2576,4633 2621,4630 2666,4630 2711,4633 2755,4633 2800,4633 2845,4633 2890,4633 2934,4633 2979,4633 3024,4633 3069,4633 3114,4633 3158,4633 3178,4633"/>
+               <TextEquiv>
+                  <Unicode>Spekulant mußte einen Vertrag unterzeichnen, nicht</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_7" custom="readingOrder {index:6;}">
+               <Coords points="2244,4673 3020,4688 3164,4678 3174,4639 2243,4641"/>
+               <Baseline points="2251,4669 2254,4669 2298,4666 2343,4669 2388,4666 2433,4669 2478,4666 2522,4666 2567,4666 2612,4666 2657,4666 2702,4669 2746,4669 2791,4669 2836,4669 2881,4669 2925,4669 2970,4669 3015,4669 3060,4669 3105,4669 3149,4672 3161,4672 3178,4669"/>
+               <TextEquiv>
+                  <Unicode>mehr Holz zu fällen, als für den Wald gut war. Das</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_8" custom="readingOrder {index:7;}">
+               <Coords points="2250,4715 3177,4712 3090,4676 2250,4674"/>
+               <Baseline points="2257,4702 2301,4702 2346,4702 2391,4702 2436,4702 2481,4702 2525,4702 2570,4702 2615,4702 2660,4702 2705,4702 2749,4702 2794,4702 2839,4702 2884,4702 2928,4702 2973,4702 3018,4702 3063,4702 3108,4705 3152,4708 3158,4708 3179,4705"/>
+               <TextEquiv>
+                  <Unicode>war der erste erfolgreiche Streik in Grundy County.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_9" custom="readingOrder {index:8;}">
+               <Coords points="2244,4740 3177,4758 3177,4712 3105,4708 2244,4716"/>
+               <Baseline points="2251,4738 2257,4738 2301,4738 2346,4738 2391,4738 2436,4735 2481,4738 2525,4738 2570,4735 2615,4738 2660,4738 2705,4738 2749,4738 2794,4738 2839,4738 2884,4738 2928,4738 2973,4738 3018,4738 3063,4738 3108,4738 3152,4741 3155,4741 3179,4739"/>
+               <TextEquiv>
+                  <Unicode>Seither macht die Organisation Fortschritte. Sogar</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_10" custom="readingOrder {index:9;}">
+               <Coords points="2244,4794 3146,4785 3146,4751 3107,4745 2244,4747"/>
+               <Baseline points="2251,4777 2257,4777 2301,4774 2346,4774 2391,4774 2436,4774 2481,4774 2525,4771 2570,4774 2615,4774 2660,4774 2705,4774 2749,4774 2794,4774 2839,4774 2884,4774 2928,4774 2973,4774 3018,4774 3063,4774 3108,4774 3149,4777"/>
+               <TextEquiv>
+                  <Unicode>die «WPA»–Leute, die für die Regierung Notstands¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_11" custom="readingOrder {index:10;}">
+               <Coords points="2244,4820 3158,4817 3118,4779 2244,4791"/>
+               <Baseline points="2251,4810 2257,4809 2301,4806 2346,4806 2391,4806 2436,4806 2481,4806 2525,4806 2570,4806 2615,4806 2660,4806 2705,4809 2749,4809 2794,4809 2839,4812 2884,4809 2928,4812 2973,4812 3018,4812 3063,4812 3108,4812 3152,4812 3161,4812"/>
+               <TextEquiv>
+                  <Unicode>arbeiten ausführen und die Wege reparieren, die der</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_12" custom="readingOrder {index:11;}">
+               <Coords points="2244,4846 3177,4860 3169,4817 2244,4819"/>
+               <Baseline points="2251,4843 2257,4842 2301,4842 2346,4842 2391,4842 2436,4845 2481,4842 2525,4845 2570,4845 2615,4842 2660,4845 2705,4845 2749,4845 2794,4845 2839,4845 2884,4845 2928,4845 2973,4845 3018,4845 3063,4845 3108,4848 3152,4848 3161,4851 3180,4849"/>
+               <TextEquiv>
+                  <Unicode>Grubengesellschaft gehören, haben sich organisiert. Sie</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_13" custom="readingOrder {index:12;}">
+               <Coords points="2244,4884 3178,4902 3178,4860 3116,4853 2244,4853"/>
+               <Baseline points="2251,4882 2257,4881 2301,4881 2346,4881 2391,4881 2436,4881 2481,4878 2525,4878 2570,4881 2615,4881 2660,4881 2705,4881 2749,4881 2794,4881 2839,4881 2884,4881 2928,4881 2973,4881 3018,4881 3063,4881 3108,4884 3152,4884 3161,4884 3181,4882"/>
+               <TextEquiv>
+                  <Unicode>streikten, als es sich herausstellte, daß die ohnehin mini¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_14" custom="readingOrder {index:13;}">
+               <Coords points="2244,4934 3161,4930 3161,4890 2244,4896"/>
+               <Baseline points="2251,4917 2257,4917 2301,4914 2346,4914 2391,4917 2436,4914 2481,4917 2525,4914 2570,4914 2615,4914 2660,4917 2705,4917 2749,4917 2794,4917 2839,4917 2884,4917 2928,4917 2973,4920 3018,4920 3063,4920 3108,4920 3152,4920 3164,4920"/>
+               <TextEquiv>
+                  <Unicode>malen Löhne, die sie als „Unterstützung“ bezogen, gegen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_15" custom="readingOrder {index:14;}">
+               <Coords points="2246,4961 3060,4974 3164,4967 3178,4932 2244,4934"/>
+               <Baseline points="2251,4951 2257,4950 2301,4950 2346,4950 2391,4953 2436,4950 2481,4950 2525,4950 2570,4950 2615,4950 2660,4950 2705,4953 2749,4953 2794,4953 2839,4953 2884,4953 2928,4953 2973,4953 3018,4953 3063,4953 3108,4956 3152,4959 3164,4956 3182,4959"/>
+               <TextEquiv>
+                  <Unicode>die Bergarbeiter ausgespielt wurden, um auch ihre</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_16" custom="readingOrder {index:15;}">
+               <Coords points="2244,5003 3179,5007 3146,4963 2244,4960"/>
+               <Baseline points="2251,4989 2263,4989 2307,4986 2352,4986 2397,4986 2442,4989 2487,4986 2531,4986 2576,4989 2621,4986 2666,4989 2711,4989 2755,4989 2800,4989 2845,4989 2890,4989 2934,4992 2979,4992 3024,4992 3069,4992 3114,4992 3158,4995 3164,4992 3182,4993"/>
+               <TextEquiv>
+                  <Unicode>Löhne zu drücken. Und mit ihnen streikten die Berg¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_17" custom="readingOrder {index:16;}">
+               <Coords points="2260,5048 2273,5043 2280,5049 2307,5036 2313,5042 2339,5040 2348,5047 2364,5041 2394,5053 2394,5000 2361,5002 2340,4994 2328,5003 2302,4994 2260,5006"/>
+               <Baseline points="2266,5027 2310,5021 2355,5021 2397,5027"/>
+               <TextEquiv>
+                  <Unicode>arbeiter.\:p\ [space]</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_18" custom="readingOrder {index:17;}">
+               <Coords points="2309,5083 3181,5093 3181,5049 3123,5026 2937,5056 2309,5041"/>
+               <Baseline points="2316,5078 2319,5078 2364,5075 2409,5075 2454,5072 2499,5075 2543,5072 2588,5072 2633,5072 2678,5072 2722,5072 2767,5072 2812,5072 2857,5072 2902,5072 2946,5072 2991,5069 3036,5072 3081,5072 3126,5069 3170,5072 3183,5070"/>
+               <TextEquiv>
+                  <Unicode>\p\Myles weiß, daß der Streik beendet sein muß, be¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_19" custom="readingOrder {index:18;}">
+               <Coords points="2244,5114 3181,5118 3120,5079 2244,5072"/>
+               <Baseline points="2251,5110 2263,5114 2278,5114 2322,5114 2367,5111 2412,5111 2457,5111 2502,5108 2546,5108 2591,5108 2636,5108 2681,5108 2725,5108 2770,5105 2815,5108 2860,5108 2905,5108 2949,5108 2994,5108 3039,5108 3084,5108 3129,5108 3173,5108 3183,5106"/>
+               <TextEquiv>
+                  <Unicode>vor es in den Cumberland–Bergen Winter wird.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_20" custom="readingOrder {index:19;}">
+               <Coords points="2260,5155 3181,5144 3166,5115 2260,5120"/>
+               <Baseline points="2266,5150 2278,5147 2322,5147 2367,5147 2412,5147 2457,5144 2502,5144 2546,5144 2591,5144 2636,5144 2681,5144 2725,5144 2770,5144 2815,5144 2860,5144 2905,5144 2949,5144 2994,5144 3039,5144 3084,5144 3129,5141 3173,5144 3184,5141"/>
+               <TextEquiv>
+                  <Unicode>Bittere Armut herrscht in den Hütten der Farmer, acht–</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_21" custom="readingOrder {index:20;}">
+               <Coords points="2244,5209 3181,5179 3162,5147 2244,5147"/>
+               <Baseline points="2251,5178 2263,5183 2269,5183 2313,5183 2358,5180 2403,5180 2448,5180 2493,5180 2537,5180 2582,5180 2627,5180 2672,5180 2716,5180 2761,5180 2806,5180 2851,5180 2896,5180 2940,5180 2985,5180 3030,5180 3075,5180 3120,5180 3164,5180 3184,5175"/>
+               <TextEquiv>
+                  <Unicode>und zehnköpfige Familien haben im ganzen Jahr</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_22" custom="readingOrder {index:21;}">
+               <Coords points="2244,5222 3167,5226 3142,5186 2244,5190"/>
+               <Baseline points="2251,5214 2263,5219 2275,5219 2319,5216 2364,5216 2409,5219 2454,5216 2499,5216 2543,5216 2588,5216 2633,5216 2678,5216 2722,5216 2767,5216 2812,5216 2857,5216 2902,5216 2946,5216 2991,5216 3036,5216 3081,5216 3126,5216 3170,5216 3185,5232"/>
+               <TextEquiv>
+                  <Unicode>nur fünfzig Dollar auszugeben. «Camp four», ein</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_23" custom="readingOrder {index:22;}">
+               <Coords points="2244,5258 3182,5264 3182,5218 2244,5217"/>
+               <Baseline points="2251,5247 2272,5254 2316,5251 2361,5254 2406,5254 2451,5251 2496,5251 2540,5248 2585,5248 2630,5251 2675,5248 2719,5248 2764,5251 2809,5251 2854,5248 2899,5248 2943,5248 2988,5248 3033,5248 3078,5248 3123,5251 3167,5251 3185,5266"/>
+               <TextEquiv>
+                  <Unicode>Holzlager, wo früher Stämme, Balken und Bretter zu</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_24" custom="readingOrder {index:23;}">
+               <Coords points="2244,5291 3164,5296 3165,5262 2246,5268"/>
+               <Baseline points="2251,5283 2266,5287 2310,5290 2355,5287 2400,5287 2445,5287 2490,5287 2534,5284 2579,5287 2624,5284 2669,5287 2714,5287 2758,5287 2803,5287 2848,5287 2893,5284 2937,5284 2982,5284 3027,5287 3072,5284 3117,5284 3161,5287 3167,5287"/>
+               <TextEquiv>
+                  <Unicode>riesigen Stapeln anwuchsen, Sägemaschinen ratterten,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_25" custom="readingOrder {index:24;}">
+               <Coords points="2256,5328 3184,5334 3184,5293 2256,5297"/>
+               <Baseline points="2263,5326 2272,5326 2316,5326 2361,5323 2406,5323 2451,5323 2496,5323 2540,5323 2585,5320 2630,5323 2675,5323 2719,5323 2764,5323 2809,5323 2854,5323 2899,5320 2943,5320 2988,5320 3033,5320 3078,5320 3123,5320 3167,5323 3186,5317"/>
+               <TextEquiv>
+                  <Unicode>liegt still. Ein mangeres Maultier stampft im Kreis</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_26" custom="readingOrder {index:25;}">
+               <Coords points="2244,5374 3184,5369 3185,5334 2244,5350"/>
+               <Baseline points="2251,5368 2263,5356 2307,5359 2352,5359 2397,5359 2442,5359 2487,5356 2531,5359 2576,5359 2621,5359 2666,5359 2711,5359 2755,5359 2800,5356 2845,5359 2890,5356 2934,5356 2979,5356 3024,5356 3069,5356 3114,5356 3158,5359 3170,5356 3186,5355"/>
+               <TextEquiv>
+                  <Unicode>über knisterndes Zuckerrohr und dreht die primitive</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_27" custom="readingOrder {index:26;}">
+               <Coords points="2272,5403 3185,5409 3158,5362 2272,5370"/>
+               <Baseline points="2278,5398 2319,5395 2364,5395 2409,5395 2454,5395 2499,5392 2543,5395 2588,5395 2633,5392 2678,5392 2722,5392 2767,5395 2812,5395 2857,5395 2902,5392 2946,5392 2991,5392 3036,5392 3081,5392 3126,5392 3170,5392 3186,5388"/>
+               <TextEquiv>
+                  <Unicode>Mühle, wo die arbeitslosen Holzfäller ihr Maisbrot</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_28" custom="readingOrder {index:27;}">
+               <Coords points="2244,5435 3158,5435 3158,5403 2244,5413"/>
+               <Baseline points="2251,5427 2263,5430 2307,5430 2352,5428 2397,5430 2442,5430 2487,5430 2531,5430 2576,5428 2621,5430 2666,5430 2711,5430 2755,5430 2800,5430 2845,5430 2890,5430 2934,5430 2979,5428 3024,5428 3069,5428 3114,5428 3158,5430 3161,5430"/>
+               <TextEquiv>
+                  <Unicode>herstellen. Maisbrot, manchmal ein Happen Schweine¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_29" custom="readingOrder {index:28;}">
+               <Coords points="2266,5479 3185,5472 3158,5436 2266,5439"/>
+               <Baseline points="2272,5469 2275,5469 2319,5466 2364,5466 2409,5466 2454,5466 2499,5463 2543,5466 2588,5466 2633,5466 2678,5466 2722,5466 2767,5466 2812,5466 2857,5466 2902,5463 2946,5463 2991,5463 3036,5463 3081,5463 3126,5463 3170,5463 3187,5466"/>
+               <TextEquiv>
+                  <Unicode>fett, das ist das Mindeste, was man zum Leben braucht.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_30" custom="readingOrder {index:29;}">
+               <Coords points="2261,5513 3184,5514 3175,5473 2262,5481"/>
+               <Baseline points="2269,5505 2313,5502 2358,5502 2403,5502 2448,5502 2493,5502 2537,5502 2582,5502 2627,5502 2672,5502 2716,5502 2761,5502 2806,5502 2851,5502 2896,5499 2940,5499 2985,5499 3030,5499 3075,5499 3120,5502 3164,5502 3179,5505 3188,5504"/>
+               <TextEquiv>
+                  <Unicode>Jetzt herrscht Not auch in den elenden Häusern der</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_31" custom="readingOrder {index:30;}">
+               <Coords points="2262,5544 3185,5550 3151,5508 2262,5514"/>
+               <Baseline points="2269,5538 2313,5538 2358,5538 2403,5535 2448,5538 2493,5538 2537,5535 2582,5535 2627,5535 2672,5535 2716,5538 2761,5535 2806,5538 2851,5535 2896,5535 2940,5538 2985,5535 3030,5538 3075,5535 3120,5535 3164,5538 3176,5538 3188,5538"/>
+               <TextEquiv>
+                  <Unicode>Bergarbeiter. Myles fährt nach Palmer, um zu hören,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_32" custom="readingOrder {index:31;}">
+               <Coords points="2262,5583 3185,5583 3185,5550 3115,5541 2262,5544"/>
+               <Baseline points="2269,5574 2313,5571 2358,5571 2403,5574 2448,5574 2493,5574 2537,5574 2582,5571 2627,5574 2672,5574 2716,5574 2761,5574 2806,5571 2851,5574 2896,5574 2940,5571 2985,5571 3030,5571 3075,5571 3120,5571 3164,5574 3179,5574 3188,5574"/>
+               <TextEquiv>
+                  <Unicode>was die Grubenarbeiter vorzuschlagen haben. Er fährt</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_33" custom="readingOrder {index:32;}">
+               <Coords points="2262,5620 3187,5624 3162,5580 2262,5583"/>
+               <Baseline points="2269,5610 2275,5610 2319,5610 2364,5610 2409,5610 2454,5610 2499,5610 2543,5610 2588,5610 2633,5610 2678,5607 2722,5610 2767,5610 2812,5610 2857,5607 2902,5610 2946,5607 2991,5607 3036,5607 3081,5610 3126,5607 3170,5607 3189,5608"/>
+               <TextEquiv>
+                  <Unicode>nach «Camp four» und redet mit den Lumberjacks, und</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_34" custom="readingOrder {index:33;}">
+               <Coords points="2244,5659 3187,5650 3162,5614 2467,5636 2244,5604"/>
+               <Baseline points="2251,5639 2272,5645 2316,5645 2361,5645 2406,5645 2451,5645 2496,5645 2540,5645 2585,5642 2630,5642 2675,5645 2719,5645 2764,5645 2809,5642 2854,5642 2899,5642 2943,5642 2988,5642 3033,5642 3078,5642 3123,5642 3167,5648 3179,5648 3189,5647"/>
+               <TextEquiv>
+                  <Unicode>er fordert «WPA»–Männer und Grubenarbeiter auf,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_35" custom="readingOrder {index:34;}">
+               <Coords points="2262,5685 3167,5692 3167,5652 2262,5657"/>
+               <Baseline points="2269,5681 2313,5681 2358,5678 2403,5681 2448,5681 2493,5681 2537,5678 2582,5678 2627,5681 2672,5678 2716,5678 2761,5678 2806,5678 2851,5681 2896,5681 2940,5678 2985,5678 3030,5678 3075,5678 3120,5678 3164,5681 3170,5681"/>
+               <TextEquiv>
+                  <Unicode>in den Laden bei der Bahnstation zu kommen und mit</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_36" custom="readingOrder {index:35;}">
+               <Coords points="2244,5724 3187,5725 3187,5694 3138,5686 2339,5703 2244,5675"/>
+               <Baseline points="2251,5716 2269,5717 2313,5717 2358,5717 2403,5717 2448,5717 2493,5717 2537,5714 2582,5717 2627,5717 2672,5714 2716,5714 2761,5714 2806,5717 2851,5717 2896,5717 2940,5714 2985,5714 3030,5717 3075,5714 3120,5714 3164,5717 3182,5720 3190,5719"/>
+               <TextEquiv>
+                  <Unicode>ihm zu besprechen, wie der Streik beendet werden</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_37" custom="readingOrder {index:36;}">
+               <Coords points="2244,5758 3187,5760 3171,5721 2244,5724"/>
+               <Baseline points="2251,5750 2269,5753 2281,5753 2325,5753 2370,5753 2415,5753 2460,5753 2505,5750 2549,5750 2594,5753 2639,5753 2684,5753 2728,5753 2773,5753 2818,5753 2863,5750 2908,5753 2952,5750 2997,5753 3042,5750 3087,5750 3132,5750 3176,5750 3190,5753"/>
+               <TextEquiv>
+                  <Unicode>kann. Der Bahnhof liegt mitten im Wald, er besteht</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_38" custom="readingOrder {index:37;}">
+               <Coords points="2244,5804 3188,5803 3158,5763 3010,5756 2244,5771"/>
+               <Baseline points="2251,5785 2272,5789 2316,5786 2361,5789 2406,5789 2451,5786 2496,5789 2540,5786 2585,5789 2630,5789 2675,5789 2719,5789 2764,5789 2809,5789 2854,5789 2899,5789 2943,5786 2988,5789 3033,5786 3078,5786 3123,5786 3167,5792 3179,5792 3191,5791"/>
+               <TextEquiv>
+                  <Unicode>aus einem langen Lagerschuppen und einer Laderampe,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_39" custom="readingOrder {index:38;}">
+               <Coords points="2244,5841 3188,5833 3156,5794 2244,5788"/>
+               <Baseline points="2251,5823 2269,5825 2313,5822 2358,5822 2403,5825 2448,5825 2493,5825 2537,5825 2582,5825 2627,5825 2672,5825 2716,5825 2761,5822 2806,5825 2851,5825 2896,5825 2940,5825 2985,5825 3030,5822 3075,5822 3120,5822 3164,5822 3191,5820"/>
+               <TextEquiv>
+                  <Unicode>wo ein paar Männer mit vom Frost geröteten Gesich¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_40" custom="readingOrder {index:39;}">
+               <Coords points="2272,5869 3191,5875 3191,5830 2272,5833"/>
+               <Baseline points="2278,5860 2322,5857 2367,5860 2412,5860 2457,5860 2502,5860 2546,5857 2591,5860 2636,5860 2681,5857 2725,5860 2770,5857 2815,5860 2860,5857 2905,5860 2949,5860 2994,5857 3039,5857 3084,5857 3129,5857 3173,5863 3179,5863 3192,5861"/>
+               <TextEquiv>
+                  <Unicode>tern Bretter von einem Lastwagen in den Waggon</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_41" custom="readingOrder {index:40;}">
+               <Coords points="2244,5893 3190,5901 3164,5868 2944,5861 2244,5874"/>
+               <Baseline points="2251,5892 2275,5896 2284,5896 2328,5896 2373,5893 2418,5893 2463,5893 2507,5896 2552,5893 2597,5893 2642,5896 2687,5896 2731,5896 2776,5896 2821,5893 2866,5893 2911,5893 2955,5893 3000,5893 3045,5893 3090,5893 3134,5893 3179,5893 3192,5894"/>
+               <TextEquiv>
+                  <Unicode>schaffen. Der Laden ist ein fensterloser Raum mit ver¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_42" custom="readingOrder {index:41;}">
+               <Coords points="2244,5940 3169,5938 3145,5904 2246,5894"/>
+               <Baseline points="2251,5928 2278,5935 2322,5929 2367,5929 2412,5932 2457,5929 2502,5932 2546,5929 2591,5929 2636,5932 2681,5929 2725,5932 2770,5929 2815,5929 2860,5929 2905,5929 2949,5929 2994,5929 3039,5929 3084,5929 3129,5932 3173,5932"/>
+               <TextEquiv>
+                  <Unicode>gitterter Türe, durch die spätes Nachmittagslicht ein¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_43" custom="readingOrder {index:42;}">
+               <Coords points="2244,5980 3190,5978 3190,5931 2244,5951"/>
+               <Baseline points="2251,5963 2275,5968 2319,5965 2364,5965 2409,5965 2454,5965 2499,5965 2543,5965 2588,5965 2633,5965 2678,5965 2722,5965 2767,5965 2812,5965 2857,5965 2902,5965 2946,5965 2991,5965 3036,5962 3081,5965 3126,5965 3170,5968 3185,5968 3193,5967"/>
+               <TextEquiv>
+                  <Unicode>dringt. Vor dem Laden überdeckt ein primitives Dach</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_44" custom="readingOrder {index:43;}">
+               <Coords points="2244,6010 3190,6013 3190,5978 3149,5974 2244,5980"/>
+               <Baseline points="2251,5999 2269,6001 2313,5998 2358,6001 2403,6001 2448,6001 2493,6001 2537,6001 2582,6001 2627,6001 2672,6001 2716,6001 2761,6001 2806,6001 2851,6001 2896,6001 2940,6001 2985,6001 3030,6001 3075,6001 3120,6001 3164,6001 3176,6001 3193,6001"/>
+               <TextEquiv>
+                  <Unicode>die Benzinpumpe. Lastwagen halten, die Chauffeure, in</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_45" custom="readingOrder {index:44;}">
+               <Coords points="2244,6044 3191,6049 3148,6009 2244,6011"/>
+               <Baseline points="2251,6034 2278,6037 2322,6034 2367,6034 2412,6034 2457,6034 2502,6037 2546,6034 2591,6037 2636,6034 2681,6037 2725,6034 2770,6037 2815,6037 2860,6034 2905,6034 2949,6034 2994,6037 3039,6037 3084,6037 3129,6037 3173,6040 3194,6040"/>
+               <TextEquiv>
+                  <Unicode>Ohrenmützen und Lederjacken, trinken im Laden eine</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_tl_46" custom="readingOrder {index:45;}">
+               <Coords points="2244,6088 2992,6090 2982,6039 2244,6044"/>
+               <Baseline points="2251,6074 2272,6075 2316,6072 2361,6072 2406,6075 2451,6072 2496,6072 2540,6072 2585,6072 2630,6072 2675,6072 2719,6075 2764,6075 2809,6072 2854,6072 2899,6072 2943,6072 2988,6078 2994,6078"/>
+               <TextEquiv>
+                  <Unicode>Flasche Coca Cola, bevor sie weiterfahren.\:p\ [Zeile ist fett markiert]</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_18" custom="readingOrder {index:3;}">
+            <Coords points="3193,4423 4134,4410 4134,6132 3210,6125"/>
+            <TextLine id="r_18_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="3245,4466 4096,4465 4096,4431 4001,4420 3245,4425"/>
+               <Baseline points="3251,4457 3296,4454 3341,4454 3385,4454 3430,4454 3475,4454 3520,4454 3564,4454 3609,4454 3654,4454 3699,4454 3744,4451 3788,4451 3833,4451 3878,4451 3923,4454 3967,4454 4012,4454 4057,4454 4099,4457"/>
+               <TextEquiv>
+                  <Unicode>\p\Der «General store» ist der Ahne des «Drugstores»,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="3241,4497 4096,4497 4076,4458 3241,4464"/>
+               <Baseline points="3248,4490 3293,4490 3338,4490 3382,4487 3427,4490 3472,4487 3517,4490 3561,4490 3606,4487 3651,4487 3696,4490 3741,4490 3785,4487 3830,4490 3875,4487 3920,4490 3965,4487 4009,4487 4054,4490 4099,4490"/>
+               <TextEquiv>
+                  <Unicode>– an Stelle der sauberen weißen Theke wird ein</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_3" custom="readingOrder {index:2;}">
+               <Coords points="3191,4532 4099,4535 4099,4495 4056,4493 3191,4496"/>
+               <Baseline points="3197,4523 3242,4523 3287,4523 3332,4523 3376,4523 3421,4523 3466,4523 3511,4523 3555,4523 3600,4523 3645,4526 3690,4523 3735,4526 3779,4523 3824,4526 3869,4526 3914,4523 3959,4523 4003,4523 4048,4523 4093,4523 4102,4526"/>
+               <TextEquiv>
+                  <Unicode>Ladentisch aus rohem Holz zum Biertrinken und Kar¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_4" custom="readingOrder {index:3;}">
+               <Coords points="3187,4564 4100,4571 4100,4531 4023,4526 3187,4532"/>
+               <Baseline points="3194,4562 3233,4562 3278,4559 3323,4559 3367,4559 3412,4559 3457,4559 3502,4559 3547,4562 3591,4562 3636,4562 3681,4562 3726,4562 3770,4562 3815,4559 3860,4559 3905,4559 3950,4559 3994,4559 4039,4559 4084,4559 4102,4562"/>
+               <TextEquiv>
+                  <Unicode>tenspielen verwendet, Kaffee wird hinten in der Küche</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_5" custom="readingOrder {index:4;}">
+               <Coords points="3187,4604 4096,4607 4096,4571 4000,4565 3187,4565"/>
+               <Baseline points="3194,4594 3239,4594 3284,4594 3329,4597 3373,4597 3418,4597 3463,4594 3508,4594 3552,4597 3597,4597 3642,4597 3687,4597 3732,4597 3776,4597 3821,4597 3866,4594 3911,4594 3956,4594 4000,4597 4045,4594 4090,4597 4099,4597"/>
+               <TextEquiv>
+                  <Unicode>des Besitzers gekocht, es gibt alles, was ein Siedler</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_6" custom="readingOrder {index:5;}">
+               <Coords points="3188,4647 4096,4640 4096,4607 4014,4603 3188,4602"/>
+               <Baseline points="3195,4633 3239,4630 3284,4630 3329,4630 3373,4630 3418,4630 3463,4630 3508,4630 3552,4630 3597,4633 3642,4630 3687,4633 3732,4630 3776,4633 3821,4633 3866,4633 3911,4630 3956,4633 4000,4630 4045,4633 4090,4633 4099,4633"/>
+               <TextEquiv>
+                  <Unicode>im Hinterland braucht, von der Rasierseife bis zum</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_7" custom="readingOrder {index:6;}">
+               <Coords points="3188,4679 4108,4681 4086,4637 3188,4647"/>
+               <Baseline points="3195,4667 3197,4666 3242,4666 3287,4666 3332,4666 3376,4666 3421,4666 3466,4666 3511,4666 3555,4666 3600,4666 3645,4666 3690,4669 3735,4669 3779,4669 3824,4666 3869,4669 3914,4666 3959,4666 4003,4666 4048,4669 4093,4669 4111,4669"/>
+               <TextEquiv>
+                  <Unicode>Kautabak, von den Konserven bis zum Schweinespeck,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_8" custom="readingOrder {index:7;}">
+               <Coords points="3188,4711 4102,4713 4077,4674 3188,4680"/>
+               <Baseline points="3195,4702 3239,4702 3284,4702 3329,4702 3373,4702 3418,4702 3463,4702 3508,4702 3552,4702 3597,4702 3642,4702 3687,4702 3732,4702 3776,4702 3821,4705 3866,4705 3911,4702 3956,4702 4000,4702 4045,4705 4090,4705 4105,4708"/>
+               <TextEquiv>
+                  <Unicode>von elektrischen Taschenlampen bis zu Wasserstiefeln.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_9" custom="readingOrder {index:8;}">
+               <Coords points="3190,4748 4109,4751 4109,4712 3190,4711"/>
+               <Baseline points="3196,4738 3239,4738 3284,4738 3329,4738 3373,4738 3418,4738 3463,4738 3508,4738 3552,4738 3597,4738 3642,4738 3687,4738 3732,4738 3776,4738 3821,4738 3866,4738 3911,4738 3956,4738 4000,4741 4045,4741 4090,4741 4111,4741"/>
+               <TextEquiv>
+                  <Unicode>Und rings um den eisernen Ofen in der Mitte des</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_10" custom="readingOrder {index:9;}">
+               <Coords points="3193,4779 4108,4788 4075,4746 3193,4751"/>
+               <Baseline points="3200,4777 3245,4774 3290,4774 3335,4774 3379,4774 3424,4774 3469,4774 3514,4774 3558,4774 3603,4774 3648,4774 3693,4774 3738,4774 3782,4774 3827,4774 3872,4774 3917,4774 3962,4774 4006,4774 4051,4777 4096,4777 4111,4777"/>
+               <TextEquiv>
+                  <Unicode>Ladens versammeln sich abends die Farmerbuben, die</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_11" custom="readingOrder {index:10;}">
+               <Coords points="3199,4814 4106,4818 4106,4787 4012,4779 3199,4779"/>
+               <Baseline points="3206,4812 3212,4809 3257,4809 3302,4809 3346,4809 3391,4809 3436,4809 3481,4809 3526,4809 3570,4809 3615,4812 3660,4809 3705,4809 3750,4809 3794,4809 3839,4809 3884,4812 3929,4809 3973,4809 4018,4809 4063,4809 4108,4809"/>
+               <TextEquiv>
+                  <Unicode>Lumberjacks, die Arbeiter, und reden über Politik und</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_12" custom="readingOrder {index:11;}">
+               <Coords points="3191,4859 4105,4863 4093,4817 3191,4820"/>
+               <Baseline points="3197,4846 3203,4845 3248,4842 3293,4845 3338,4845 3382,4845 3427,4845 3472,4845 3517,4845 3561,4845 3606,4845 3651,4848 3696,4845 3741,4848 3785,4848 3830,4848 3875,4848 3920,4848 3965,4848 4009,4848 4054,4848 4099,4848 4108,4845"/>
+               <TextEquiv>
+                  <Unicode>Hochzeiten, über Streik und Löhne, über die Ernte und</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_13" custom="readingOrder {index:12;}">
+               <Coords points="3192,4910 3225,4910 3282,4886 3338,4898 3391,4891 3403,4901 3482,4893 3481,4852 3430,4862 3391,4853 3191,4860"/>
+               <Baseline points="3197,4881 3239,4881 3284,4881 3329,4881 3373,4881 3418,4884 3463,4884 3484,4884"/>
+               <TextEquiv>
+                  <Unicode>über das Wetter.\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_14" custom="readingOrder {index:13;}">
+               <Coords points="3245,4942 4105,4939 4105,4903 4070,4899 3245,4896"/>
+               <Baseline points="3251,4929 3296,4926 3341,4926 3385,4923 3430,4923 3475,4923 3520,4926 3564,4926 3609,4926 3654,4926 3699,4926 3744,4926 3788,4929 3833,4929 3878,4929 3923,4929 3967,4929 4012,4926 4057,4926 4102,4932 4108,4929"/>
+               <TextEquiv>
+                  <Unicode>\p\Als wir mit Myles den General store betraten,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_15" custom="readingOrder {index:14;}">
+               <Coords points="3192,4965 4105,4970 4093,4935 3192,4934"/>
+               <Baseline points="3198,4961 3239,4959 3284,4959 3329,4959 3373,4959 3418,4962 3463,4962 3508,4959 3552,4959 3597,4959 3642,4962 3687,4962 3732,4962 3776,4962 3821,4962 3866,4962 3911,4965 3956,4962 4000,4962 4045,4962 4090,4962 4108,4965"/>
+               <TextEquiv>
+                  <Unicode>waren schon ein paar Männer versammelt, sie schüttel¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_16" custom="readingOrder {index:15;}">
+               <Coords points="3192,5003 4105,5006 4063,4969 3192,4978"/>
+               <Baseline points="3198,4994 3200,4995 3245,4995 3290,4995 3335,4995 3379,4995 3424,4995 3469,4995 3514,4995 3558,4998 3603,4998 3648,4998 3693,4998 3738,4998 3782,4998 3827,4998 3872,4998 3917,5001 3962,5001 4006,5001 4051,4998 4096,4998 4108,4998"/>
+               <TextEquiv>
+                  <Unicode>ten Myles die Hand, rückten ein paar leere Bierkisten</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_17" custom="readingOrder {index:16;}">
+               <Coords points="3199,5043 4106,5047 4106,5004 3199,5007"/>
+               <Baseline points="3206,5033 3251,5030 3296,5030 3341,5030 3385,5030 3430,5030 3475,5030 3520,5030 3564,5030 3609,5030 3654,5030 3699,5030 3744,5033 3788,5033 3833,5033 3878,5033 3923,5033 3967,5033 4012,5033 4057,5033 4102,5036 4108,5033"/>
+               <TextEquiv>
+                  <Unicode>zum Ofen, und forderten uns zum Sitzen auf. Der</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_18" custom="readingOrder {index:17;}">
+               <Coords points="3193,5072 4113,5080 4113,5049 4030,5037 3193,5043"/>
+               <Baseline points="3199,5066 3200,5066 3245,5063 3290,5063 3335,5066 3379,5066 3424,5066 3469,5066 3514,5066 3558,5066 3603,5066 3648,5066 3693,5066 3738,5066 3782,5066 3827,5066 3872,5066 3917,5069 3962,5069 4006,5069 4051,5066 4096,5069 4117,5075"/>
+               <TextEquiv>
+                  <Unicode>Ladenbesitzer holte ein Stück Käse und alte Maiskuchen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_19" custom="readingOrder {index:18;}">
+               <Coords points="3193,5114 4108,5112 4090,5076 3193,5080"/>
+               <Baseline points="3199,5102 3200,5102 3245,5099 3290,5099 3335,5099 3379,5099 3424,5102 3469,5099 3514,5102 3558,5102 3603,5102 3648,5102 3693,5099 3738,5102 3782,5102 3827,5102 3872,5105 3917,5102 3962,5102 4006,5102 4051,5102 4096,5105 4111,5108"/>
+               <TextEquiv>
+                  <Unicode>vom Gestell, seine Frau verschwand im Hinterzimmer,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_20" custom="readingOrder {index:19;}">
+               <Coords points="3193,5144 4109,5146 4108,5113 3193,5114"/>
+               <Baseline points="3200,5138 3242,5135 3287,5135 3332,5138 3376,5138 3421,5135 3466,5138 3511,5138 3555,5138 3600,5138 3645,5138 3690,5138 3735,5138 3779,5138 3824,5138 3869,5138 3914,5141 3959,5138 4003,5141 4048,5141 4093,5141 4111,5144"/>
+               <TextEquiv>
+                  <Unicode>um Kaffee aufzuwärmen. Drei Burschen, die an der</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_21" custom="readingOrder {index:20;}">
+               <Coords points="3193,5175 4112,5184 4099,5145 3193,5148"/>
+               <Baseline points="3200,5172 3206,5171 3251,5171 3296,5174 3341,5171 3385,5171 3430,5174 3475,5171 3520,5174 3564,5174 3609,5174 3654,5174 3699,5174 3744,5174 3788,5174 3833,5174 3878,5174 3923,5174 3967,5174 4012,5174 4057,5177 4102,5177 4114,5177"/>
+               <TextEquiv>
+                  <Unicode>Theke saßen und Karten spielten, wandten sich zu</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_23" custom="readingOrder {index:21;}">
+               <Coords points="3199,5216 4113,5222 4113,5184 3199,5178"/>
+               <Baseline points="3206,5210 3251,5207 3296,5207 3341,5210 3385,5207 3430,5207 3475,5207 3520,5207 3564,5207 3609,5210 3654,5210 3699,5210 3744,5210 3788,5213 3833,5210 3878,5210 3923,5213 3967,5210 4012,5213 4057,5210 4102,5210 4117,5213"/>
+               <TextEquiv>
+                  <Unicode>Myles. „Warte einen Augenblick", sagten sie, „wir</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_22" custom="readingOrder {index:22;}">
+               <Coords points="3194,5249 4113,5255 4113,5218 3194,5217"/>
+               <Baseline points="3201,5242 3239,5239 3284,5239 3329,5242 3373,5242 3418,5242 3463,5242 3508,5242 3552,5242 3597,5245 3642,5242 3687,5242 3732,5236 3776,5242 3821,5242 3866,5245 3911,5245 3956,5245 4000,5245 4045,5245 4090,5245 4117,5245"/>
+               <TextEquiv>
+                  <Unicode>machen nur das Spiel fertig,“ – und schmetterten die</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_24" custom="readingOrder {index:23;}">
+               <Coords points="3194,5284 4096,5297 4104,5256 3193,5252"/>
+               <Baseline points="3201,5278 3245,5278 3290,5278 3335,5275 3379,5278 3424,5278 3469,5278 3514,5278 3558,5278 3603,5278 3648,5278 3693,5278 3738,5278 3782,5281 3827,5281 3872,5281 3917,5281 3962,5281 4006,5281 4051,5281 4096,5284 4108,5284"/>
+               <TextEquiv>
+                  <Unicode>Karten auf den Ladentisch. Es war nicht nur die Geste,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_25" custom="readingOrder {index:24;}">
+               <Coords points="3194,5319 4121,5332 4121,5298 4069,5289 3194,5285"/>
+               <Baseline points="3201,5312 3203,5311 3248,5311 3293,5314 3338,5314 3382,5314 3427,5314 3472,5314 3517,5314 3561,5314 3606,5314 3651,5317 3696,5314 3741,5317 3785,5317 3830,5317 3875,5317 3920,5317 3965,5317 4009,5317 4054,5317 4099,5317 4123,5320"/>
+               <TextEquiv>
+                  <Unicode>die mir vertraut vorkam. Sie spielten mit wenigen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_26" custom="readingOrder {index:25;}">
+               <Coords points="3195,5357 4121,5367 4121,5332 4057,5325 3195,5319"/>
+               <Baseline points="3202,5353 3209,5353 3254,5347 3299,5347 3343,5347 3388,5347 3433,5350 3478,5350 3523,5350 3567,5350 3612,5350 3657,5350 3702,5350 3747,5353 3791,5353 3836,5353 3881,5353 3926,5353 3970,5353 4015,5353 4060,5353 4105,5356 4123,5356"/>
+               <TextEquiv>
+                  <Unicode>Karten, – ein Bündel mit ausgeschiedenen niedrigen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_27" custom="readingOrder {index:26;}">
+               <Coords points="3197,5413 3304,5391 3947,5408 3973,5361 3195,5357"/>
+               <Baseline points="3202,5386 3245,5383 3290,5383 3335,5383 3379,5386 3424,5386 3469,5386 3514,5386 3558,5389 3603,5386 3648,5386 3693,5389 3738,5389 3782,5389 3827,5389 3872,5392 3917,5392 3962,5392 3976,5392"/>
+               <TextEquiv>
+                  <Unicode>Nummern hatten sie sorgfältig beiseite gelegt.\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_28" custom="readingOrder {index:27;}">
+               <Coords points="3251,5447 4020,5441 4111,5434 4112,5403 3252,5413"/>
+               <Baseline points="3257,5433 3263,5433 3308,5430 3352,5430 3397,5428 3442,5428 3487,5428 3532,5428 3576,5428 3621,5428 3666,5428 3711,5428 3756,5428 3800,5425 3845,5425 3890,5425 3935,5425 3979,5425 4024,5425 4069,5425 4114,5425"/>
+               <TextEquiv>
+                  <Unicode>\p\„Wie heißt das Spiel?" fragte ich, – mir dämmer¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_29" custom="readingOrder {index:28;}">
+               <Coords points="3197,5479 4111,5468 4093,5432 3197,5447"/>
+               <Baseline points="3203,5468 3212,5469 3218,5466 3263,5466 3308,5463 3352,5463 3397,5463 3442,5463 3487,5463 3532,5463 3576,5463 3621,5463 3666,5463 3711,5460 3756,5460 3800,5460 3845,5460 3890,5463 3935,5460 3979,5463 4024,5460 4069,5460 4114,5460"/>
+               <TextEquiv>
+                  <Unicode>ten beim Knallen der Karten Erinnerungen, wie es</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_30" custom="readingOrder {index:29;}">
+               <Coords points="3197,5507 4122,5508 4122,5472 3197,5475"/>
+               <Baseline points="3203,5502 3206,5502 3227,5499 3272,5499 3317,5499 3361,5499 3406,5499 3451,5499 3496,5499 3541,5499 3585,5499 3630,5499 3675,5499 3720,5496 3764,5496 3809,5496 3854,5499 3899,5499 3944,5496 3988,5496 4033,5496 4078,5499 4123,5499"/>
+               <TextEquiv>
+                  <Unicode>sonst durch lange vergessene Melodien und Gerüche zu</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_31" custom="readingOrder {index:30;}">
+               <Coords points="3198,5545 4121,5541 4121,5508 3198,5518"/>
+               <Baseline points="3204,5538 3212,5538 3227,5535 3272,5535 3317,5535 3361,5535 3406,5535 3451,5535 3496,5532 3541,5532 3585,5535 3630,5535 3675,5535 3720,5535 3764,5535 3809,5532 3854,5532 3899,5535 3944,5535 3988,5532 4033,5535 4078,5535 4123,5535"/>
+               <TextEquiv>
+                  <Unicode>geschehen pflegt. – «Jass» sagte einer der Spieler, ohne</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_32" custom="readingOrder {index:31;}">
+               <Coords points="3198,5581 4096,5576 4089,5541 3198,5554"/>
+               <Baseline points="3204,5574 3248,5574 3293,5571 3338,5571 3382,5571 3427,5574 3472,5571 3517,5571 3561,5568 3606,5571 3651,5568 3696,5571 3741,5571 3785,5568 3830,5571 3875,5571 3920,5571 3965,5571 4009,5571 4054,5565 4099,5562"/>
+               <TextEquiv>
+                  <Unicode>aufzusehen. „Aber das ist ein Schweizer Spiel!" –</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_33" custom="readingOrder {index:32;}">
+               <Coords points="3198,5624 4117,5618 4108,5577 3198,5581"/>
+               <Baseline points="3204,5609 3212,5610 3224,5610 3269,5610 3314,5610 3358,5607 3403,5607 3448,5607 3493,5607 3538,5607 3582,5607 3627,5607 3672,5604 3717,5604 3761,5607 3806,5607 3851,5607 3896,5607 3941,5604 3985,5604 4030,5604 4075,5604 4120,5604"/>
+               <TextEquiv>
+                  <Unicode>«Sure», antworteten die Burschen, „wir haben es von</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_34" custom="readingOrder {index:33;}">
+               <Coords points="3199,5650 4113,5646 4113,5613 3199,5623"/>
+               <Baseline points="3205,5646 3206,5645 3221,5645 3266,5642 3311,5642 3355,5642 3400,5642 3445,5642 3490,5642 3535,5642 3579,5642 3624,5642 3669,5642 3714,5642 3758,5642 3803,5642 3848,5642 3893,5642 3938,5642 3982,5642 4027,5642 4072,5642 4117,5642"/>
+               <TextEquiv>
+                  <Unicode>den Schweizern gelernt. Alle Leute hier in unserer</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_35" custom="readingOrder {index:34;}">
+               <Coords points="3208,5689 4122,5688 4122,5649 3208,5650"/>
+               <Baseline points="3215,5681 3227,5678 3272,5678 3317,5678 3361,5678 3406,5675 3451,5678 3496,5678 3541,5678 3585,5672 3630,5678 3675,5678 3720,5678 3764,5678 3809,5678 3854,5678 3899,5678 3944,5678 3988,5678 4033,5678 4078,5678 4123,5678"/>
+               <TextEquiv>
+                  <Unicode>Gegend spielen Jaß." – Der Ladeninhaber mischte sich</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_36" custom="readingOrder {index:35;}">
+               <Coords points="3199,5727 4113,5721 4066,5686 3199,5690"/>
+               <Baseline points="3205,5717 3206,5717 3251,5714 3296,5714 3341,5714 3385,5714 3430,5714 3475,5711 3520,5714 3564,5714 3609,5714 3654,5714 3699,5714 3744,5714 3788,5714 3833,5714 3878,5714 3923,5714 3967,5714 4012,5714 4057,5714 4102,5714 4117,5717"/>
+               <TextEquiv>
+                  <Unicode>in das Gespräch. „Mein Bruder hat ein Schweizer</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_37" custom="readingOrder {index:36;}">
+               <Coords points="3199,5769 4118,5757 4106,5719 3199,5723"/>
+               <Baseline points="3206,5756 3206,5756 3224,5753 3269,5753 3314,5750 3358,5750 3403,5750 3448,5750 3493,5747 3538,5750 3582,5750 3627,5750 3672,5750 3717,5750 3761,5750 3806,5750 3851,5750 3896,5750 3941,5750 3985,5750 4030,5750 4075,5750 4120,5750"/>
+               <TextEquiv>
+                  <Unicode>girl geheiratet", sagte er, „ihre Leute heißen Hunziker</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_38" custom="readingOrder {index:37;}">
+               <Coords points="3199,5795 4121,5793 4111,5758 3199,5768"/>
+               <Baseline points="3206,5789 3209,5789 3227,5786 3272,5786 3317,5783 3361,5783 3406,5783 3451,5783 3496,5786 3541,5786 3585,5786 3630,5783 3675,5786 3720,5786 3764,5786 3809,5786 3854,5786 3899,5786 3944,5786 3988,5786 4033,5786 4078,5786 4123,5786"/>
+               <TextEquiv>
+                  <Unicode>und haben eine Farm im Gruetli. Die Schweizer von</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_39" custom="readingOrder {index:38;}">
+               <Coords points="3200,5833 4113,5829 4112,5797 4031,5791 3199,5800"/>
+               <Baseline points="3206,5819 3251,5819 3296,5822 3341,5819 3385,5819 3430,5819 3475,5819 3520,5819 3564,5819 3609,5819 3654,5822 3699,5822 3744,5819 3788,5819 3833,5819 3878,5819 3923,5822 3967,5822 4012,5822 4057,5822 4102,5822 4117,5825"/>
+               <TextEquiv>
+                  <Unicode>Gruetli haben die besten Farmen und die fettesten</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_40" custom="readingOrder {index:39;}">
+               <Coords points="3200,5870 4121,5883 4104,5827 3200,5832"/>
+               <Baseline points="3207,5858 3212,5857 3257,5857 3302,5857 3346,5857 3391,5857 3436,5857 3481,5857 3526,5857 3570,5857 3615,5857 3660,5857 3705,5857 3750,5860 3794,5857 3839,5860 3884,5857 3929,5857 3973,5857 4018,5857 4063,5857 4108,5860 4123,5863"/>
+               <TextEquiv>
+                  <Unicode>Kälber und machen roten Wein. Sie verstehen sich aufs</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_41" custom="readingOrder {index:40;}">
+               <Coords points="3200,5906 3211,5907 3219,5899 3227,5904 3253,5899 3265,5906 3299,5896 3313,5905 3325,5899 3339,5904 3352,5899 3354,5870 3344,5873 3331,5866 3304,5872 3293,5867 3262,5874 3240,5862 3201,5870"/>
+               <Baseline points="3207,5895 3218,5896 3221,5896 3266,5890 3311,5893 3355,5893"/>
+               <TextEquiv>
+                  <Unicode>Bauern."\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_42" custom="readingOrder {index:41;}">
+               <Coords points="3253,5939 4121,5942 4121,5909 3999,5887 3253,5905"/>
+               <Baseline points="3260,5929 3305,5932 3349,5932 3394,5929 3439,5932 3484,5929 3529,5932 3573,5932 3618,5932 3663,5932 3708,5932 3753,5929 3797,5932 3842,5932 3887,5932 3932,5932 3976,5932 4021,5932 4066,5932 4111,5935 4123,5938"/>
+               <TextEquiv>
+                  <Unicode>\p\So erfuhr ich zum ersten Mal, daß zur Gemeinde</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_43" custom="readingOrder {index:42;}">
+               <Coords points="3201,5971 4121,5980 4108,5939 3201,5931"/>
+               <Baseline points="3208,5965 3251,5965 3296,5965 3341,5965 3385,5965 3430,5965 3475,5965 3520,5962 3564,5968 3609,5965 3654,5965 3699,5965 3744,5968 3788,5968 3833,5968 3878,5968 3923,5968 3967,5968 4012,5968 4057,5968 4102,5968 4123,5971"/>
+               <TextEquiv>
+                  <Unicode>Grundy County – einer Gemeinde von Holzfällern,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_44" custom="readingOrder {index:43;}">
+               <Coords points="3201,6001 4115,6014 4115,5977 4065,5973 3201,5972"/>
+               <Baseline points="3208,6001 3212,6001 3257,6001 3302,6001 3346,6001 3391,6001 3436,6001 3481,6001 3526,6001 3570,6001 3615,6004 3660,6004 3705,6001 3750,6001 3794,5998 3839,6001 3884,6004 3929,6004 3973,6004 4018,6004 4063,6004 4108,6004 4117,6004"/>
+               <TextEquiv>
+                  <Unicode>Grubenarbeitern und Farmern – etwa 24 Schweizer</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_45" custom="readingOrder {index:44;}">
+               <Coords points="3203,6042 4123,6052 4123,6019 4069,6011 3203,6000"/>
+               <Baseline points="3209,6040 3212,6040 3257,6037 3302,6037 3346,6037 3391,6037 3436,6037 3481,6037 3526,6037 3570,6037 3615,6037 3660,6037 3705,6037 3750,6037 3794,6037 3839,6037 3884,6037 3929,6037 3973,6037 4018,6037 4063,6037 4108,6040 4126,6040"/>
+               <TextEquiv>
+                  <Unicode>Landsleute gehören, zu den angelsächsischen Marlton</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_18_tl_46" custom="readingOrder {index:45;}">
+               <Coords points="3203,6084 4128,6094 4128,6052 4079,6046 3203,6040"/>
+               <Baseline points="3209,6077 3245,6072 3290,6075 3335,6075 3379,6075 3424,6075 3469,6075 3514,6075 3558,6072 3603,6075 3648,6075 3693,6075 3738,6075 3782,6075 3827,6075 3872,6075 3917,6075 3962,6075 4006,6075 4051,6075 4096,6075 4129,6084"/>
+               <TextEquiv>
+                  <Unicode>und Jones, die Zürcher Suter, die Luzerner Stocker, \fml\\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+      </Page>
+   </PcGts>
+   <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+      <Metadata>
+         <Creator>prov=READ-COOP:name=TrHtr:version=2.23.1:model_id=51170:date=14_02_2025_16:49</Creator>
+         <Created>2025-02-14T16:44:22.076+01:00</Created>
+         <LastChange>2025-06-13T09:31:51.445+02:00</LastChange>
+         <TranskribusMetadata docId="6918736"
+                              pageId="91565252"
+                              pageNr="2"
+                              tsid="228828910"
+                              status="IN_PROGRESS"
+                              userId="295818"
+                              imgUrl="https://files.transkribus.eu/Get?id=GHLEWVPFJGUPAZFBYVDZSYTS&amp;fileType=view"
+                              xmlUrl="https://files.transkribus.eu/Get?id=OSJJHTRALOOLDHFRXBVXJWDL"
+                              imageId="76398255"/>
+      </Metadata>
+      <Page imageFilename="smallform_0245_002.jpg"
+            imageWidth="4279"
+            imageHeight="7100">
+         <ReadingOrder>
+            <OrderedGroup id="ro_1749799911445" caption="Regions reading order">
+               <RegionRefIndexed index="0" regionRef="r"/>
+               <RegionRefIndexed index="1" regionRef="r_2"/>
+            </OrderedGroup>
+         </ReadingOrder>
+         <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="180,4395 1130,4395 1130,6157 180,6157"/>
+            <TextLine id="r_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="211,4436 1127,4439 1116,4389 211,4400"/>
+               <Baseline points="217,4424 262,4421 307,4421 352,4424 397,4424 441,4424 486,4424 531,4424 576,4424 621,4424 665,4424 710,4421 755,4421 800,4424 844,4424 889,4421 934,4424 979,4421 1024,4424 1068,4424 1113,4424 1119,4427 1130,4427"/>
+               <TextEquiv>
+                  <Unicode>\fml\\p\die Aarberger Staempfli, die Bon, Luchsinger, Schild</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="202,4471 1116,4467 1116,4438 202,4441"/>
+               <Baseline points="208,4460 223,4460 268,4457 313,4460 358,4460 403,4460 447,4460 492,4460 537,4460 582,4460 626,4460 671,4457 716,4457 761,4457 806,4460 850,4457 895,4460 940,4457 985,4457 1030,4457 1074,4457 1119,4457"/>
+               <TextEquiv>
+                  <Unicode>und Schießer. Die ersten Schweizer sind 1869 herüber¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_3" custom="readingOrder {index:2;}">
+               <Coords points="217,4505 1113,4508 1113,4470 1045,4466 217,4466"/>
+               <Baseline points="223,4499 265,4493 310,4493 355,4493 400,4493 444,4493 489,4496 534,4496 579,4496 624,4496 668,4496 713,4496 758,4493 803,4493 847,4496 892,4496 937,4493 982,4496 1027,4493 1071,4493 1116,4496"/>
+               <TextEquiv>
+                  <Unicode>gekommen und haben ihre Siedlung „Gruetli“ getauft,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_4" custom="readingOrder {index:3;}">
+               <Coords points="217,4541 1113,4546 1113,4508 1034,4502 217,4505"/>
+               <Baseline points="223,4532 265,4529 310,4529 355,4529 400,4529 444,4529 489,4529 534,4529 579,4532 624,4529 668,4529 713,4529 758,4529 803,4529 847,4529 892,4529 937,4526 982,4529 1027,4529 1071,4532 1116,4529"/>
+               <TextEquiv>
+                  <Unicode>die letzten kamen kurz vor dem Weltkrieg – viele Fa¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_5" custom="readingOrder {index:4;}">
+               <Coords points="211,4569 1127,4572 1117,4534 211,4543"/>
+               <Baseline points="217,4568 220,4568 265,4565 310,4565 355,4565 400,4565 444,4565 489,4565 534,4565 579,4565 624,4565 668,4565 713,4565 758,4565 803,4565 847,4565 892,4565 937,4565 982,4565 1027,4565 1071,4565 1116,4565 1130,4565"/>
+               <TextEquiv>
+                  <Unicode>milien sind seither ausgestorben oder wieder abge¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_6" custom="readingOrder {index:5;}">
+               <Coords points="208,4610 1127,4613 1127,4577 1075,4570 208,4572"/>
+               <Baseline points="214,4600 259,4597 304,4600 349,4600 394,4600 438,4600 483,4600 528,4600 573,4600 618,4600 662,4600 707,4600 752,4600 797,4600 841,4600 886,4600 931,4600 976,4600 1021,4600 1065,4600 1110,4600 1122,4603 1130,4602"/>
+               <TextEquiv>
+                  <Unicode>wandert, die, welche blieben, haben dem kargen Boden</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_7" custom="readingOrder {index:6;}">
+               <Coords points="211,4642 1113,4651 1113,4607 211,4609"/>
+               <Baseline points="217,4636 262,4633 307,4636 352,4636 397,4636 441,4636 486,4636 531,4636 576,4636 621,4633 665,4636 710,4636 755,4636 800,4636 844,4636 889,4636 934,4633 979,4636 1024,4636 1068,4636 1113,4636 1116,4636"/>
+               <TextEquiv>
+                  <Unicode>von Tennessee mehr Wohlstand abgerungen als die</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_8" custom="readingOrder {index:7;}">
+               <Coords points="211,4683 1122,4683 1122,4643 211,4655"/>
+               <Baseline points="217,4669 262,4669 307,4669 352,4669 397,4669 441,4669 486,4669 531,4669 576,4669 621,4672 665,4669 710,4672 755,4672 800,4669 844,4669 889,4669 934,4669 979,4669 1024,4669 1068,4672 1113,4675 1125,4672"/>
+               <TextEquiv>
+                  <Unicode>alten angelsächsischen Siedler. „Und sie haben das</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_9" custom="readingOrder {index:8;}">
+               <Coords points="217,4715 1119,4712 1108,4678 217,4678"/>
+               <Baseline points="223,4708 268,4705 313,4705 358,4705 403,4705 447,4705 492,4705 537,4705 582,4705 626,4705 671,4702 716,4705 761,4705 806,4705 850,4705 895,4705 940,4705 985,4705 1030,4705 1074,4705 1119,4708 1122,4708"/>
+               <TextEquiv>
+                  <Unicode>beste Kartenspiel erfunden" sagte mir Myles – „wir</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_10" custom="readingOrder {index:9;}">
+               <Coords points="217,4750 1127,4747 1127,4715 1025,4705 957,4729 217,4713"/>
+               <Baseline points="223,4744 226,4741 271,4738 316,4738 361,4741 406,4741 450,4741 495,4741 540,4741 585,4741 629,4741 674,4741 719,4741 764,4741 809,4741 853,4741 898,4741 943,4741 988,4741 1033,4741 1077,4741 1122,4741 1130,4742"/>
+               <TextEquiv>
+                  <Unicode>haben es während des Streiks ausprobiert. Nichts ist</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_11" custom="readingOrder {index:10;}">
+               <Coords points="217,4785 1127,4805 1127,4754 1066,4747 217,4747"/>
+               <Baseline points="223,4777 268,4774 313,4777 358,4777 403,4777 447,4774 492,4777 537,4774 582,4777 626,4777 671,4777 716,4777 761,4777 806,4777 850,4774 895,4777 940,4777 985,4777 1030,4777 1074,4780 1119,4780 1122,4777 1130,4777"/>
+               <TextEquiv>
+                  <Unicode>besser, um die Zeit hinzubringen und die Moral zu</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_12" custom="readingOrder {index:11;}">
+               <Coords points="213,4838 288,4814 381,4824 408,4810 705,4825 705,4794 685,4784 467,4796 444,4780 341,4800 213,4785"/>
+               <Baseline points="220,4812 265,4809 310,4809 355,4809 400,4809 444,4809 489,4809 534,4809 579,4809 624,4812 668,4812 707,4818"/>
+               <TextEquiv>
+                  <Unicode>stärken, als ein richtiger Jaß."\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_13" custom="readingOrder {index:12;}">
+               <Coords points="261,4852 1128,4854 1128,4814 870,4837 784,4805 261,4824"/>
+               <Baseline points="268,4845 313,4845 358,4845 403,4845 447,4845 492,4845 537,4845 582,4845 626,4845 671,4845 716,4845 761,4848 806,4845 850,4845 895,4845 940,4845 985,4845 1030,4845 1074,4845 1119,4848 1122,4845 1130,4846"/>
+               <TextEquiv>
+                  <Unicode>\p\Als wir endlich den General store verließen, war</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_14" custom="readingOrder {index:13;}">
+               <Coords points="213,4885 1128,4894 1127,4856 1073,4852 213,4859"/>
+               <Baseline points="220,4878 265,4881 310,4878 355,4881 400,4881 444,4881 489,4881 534,4881 579,4881 624,4881 668,4881 713,4881 758,4881 803,4881 847,4881 892,4881 937,4881 982,4881 1027,4881 1071,4881 1116,4884 1125,4884 1130,4884"/>
+               <TextEquiv>
+                  <Unicode>es draußen dunkel, Nebel hing zwischen den Fichten,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_15" custom="readingOrder {index:14;}">
+               <Coords points="213,4920 1127,4921 1100,4890 213,4889"/>
+               <Baseline points="220,4917 265,4914 310,4914 355,4917 400,4914 444,4914 489,4914 534,4917 579,4914 624,4917 668,4914 713,4914 758,4914 803,4914 847,4914 892,4914 937,4914 982,4914 1027,4917 1071,4917 1116,4914 1130,4915"/>
+               <TextEquiv>
+                  <Unicode>es war bitter kalt. Wir nahmen vier Männer in un¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_16" custom="readingOrder {index:15;}">
+               <Coords points="213,4956 1127,4964 1120,4920 213,4921"/>
+               <Baseline points="220,4953 265,4950 310,4950 355,4950 400,4950 444,4950 489,4950 534,4953 579,4947 624,4953 668,4950 713,4950 758,4953 803,4950 847,4953 892,4950 937,4950 982,4950 1027,4950 1071,4950 1116,4953 1125,4953 1130,4953"/>
+               <TextEquiv>
+                  <Unicode>serem Wagen mit, – Männer in Lederwesten und</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_17" custom="readingOrder {index:16;}">
+               <Coords points="217,4994 1110,4997 1110,4961 1051,4951 217,4960"/>
+               <Baseline points="223,4989 268,4983 313,4986 358,4986 403,4986 447,4986 492,4986 537,4986 582,4986 626,4986 671,4986 716,4986 761,4986 806,4986 850,4986 895,4986 940,4986 985,4986 1030,4986 1074,4986 1113,4989"/>
+               <TextEquiv>
+                  <Unicode>dünnen Baumwollhosen, mit ernsten, hageren Gesich¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_18" custom="readingOrder {index:17;}">
+               <Coords points="217,5029 1127,5034 1117,4993 217,4993"/>
+               <Baseline points="223,5024 268,5018 313,5021 358,5021 403,5021 447,5021 492,5021 537,5021 582,5021 626,5021 671,5021 716,5021 761,5021 806,5021 850,5021 895,5021 940,5021 985,5021 1030,5024 1074,5024 1119,5024 1125,5024 1130,5024"/>
+               <TextEquiv>
+                  <Unicode>tern, die schweigsam an ihren Pfeifen sogen. „Wir</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_19" custom="readingOrder {index:18;}">
+               <Coords points="213,5070 1127,5071 1109,5030 1026,5023 213,5030"/>
+               <Baseline points="220,5057 265,5054 310,5054 355,5057 400,5054 444,5057 489,5057 534,5057 579,5057 624,5057 668,5057 713,5054 758,5054 803,5057 847,5054 892,5054 937,5057 982,5054 1027,5057 1071,5057 1116,5057 1130,5055"/>
+               <TextEquiv>
+                  <Unicode>fahren zuerst in die Schule zurück," schlug Myles vor,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_20" custom="readingOrder {index:19;}">
+               <Coords points="217,5104 1127,5107 1127,5070 1054,5059 217,5072"/>
+               <Baseline points="223,5096 268,5090 313,5090 358,5090 403,5090 447,5093 492,5090 537,5090 582,5090 626,5090 671,5090 716,5093 761,5090 806,5090 850,5090 895,5090 940,5093 985,5090 1030,5093 1074,5093 1119,5096 1130,5094"/>
+               <TextEquiv>
+                  <Unicode>„dort gibt es für alle etwas Warmes zu essen. Dann</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_21" custom="readingOrder {index:20;}">
+               <Coords points="217,5131 1127,5139 1127,5103 1065,5096 217,5104"/>
+               <Baseline points="223,5129 268,5126 313,5126 358,5126 403,5126 447,5126 492,5126 537,5126 582,5126 626,5126 671,5126 716,5126 761,5126 806,5126 850,5126 895,5126 940,5126 985,5126 1030,5126 1074,5126 1119,5129 1122,5129 1130,5127"/>
+               <TextEquiv>
+                  <Unicode>telephoniere ich nach Palmer, und wenn der Boß von</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_22" custom="readingOrder {index:21;}">
+               <Coords points="217,5171 1127,5174 1127,5139 1089,5133 217,5134"/>
+               <Baseline points="223,5165 268,5159 313,5159 358,5162 403,5162 447,5162 492,5162 537,5162 582,5162 626,5162 671,5162 716,5162 761,5162 806,5162 850,5162 895,5162 940,5162 985,5162 1030,5162 1074,5162 1119,5165 1125,5165 1130,5163"/>
+               <TextEquiv>
+                  <Unicode>der Grubengesellschaft herüberkommt und bereit ist,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_23" custom="readingOrder {index:22;}">
+               <Coords points="211,5200 745,5201 802,5233 1052,5202 1127,5231 1127,5174 1093,5170 211,5165"/>
+               <Baseline points="217,5198 262,5195 307,5195 352,5195 397,5198 441,5198 486,5198 531,5195 576,5198 621,5198 665,5198 710,5198 755,5195 800,5198 844,5198 889,5198 934,5198 979,5198 1024,5198 1068,5198 1113,5201 1125,5204 1130,5207"/>
+               <TextEquiv>
+                  <Unicode>die Sache mit uns zu besprechen, dann wissen wir,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_24" custom="readingOrder {index:23;}">
+               <Coords points="208,5246 793,5238 775,5201 654,5219 565,5200 208,5205"/>
+               <Baseline points="214,5230 259,5230 304,5230 349,5230 394,5230 438,5230 483,5230 528,5230 573,5230 618,5230 662,5230 707,5230 752,5230 794,5233"/>
+               <TextEquiv>
+                  <Unicode>was wir ihm vorschlagen wollen."\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_25" custom="readingOrder {index:24;}">
+               <Coords points="265,5274 1110,5276 1110,5232 265,5239"/>
+               <Baseline points="271,5269 316,5266 361,5266 406,5266 450,5266 495,5266 540,5266 585,5266 629,5266 674,5266 719,5266 764,5266 809,5266 853,5266 898,5266 943,5266 988,5266 1033,5266 1077,5266 1113,5269"/>
+               <TextEquiv>
+                  <Unicode>\p\Die Männer waren einverstanden. Nur einer be¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_26" custom="readingOrder {index:25;}">
+               <Coords points="217,5310 1127,5311 1127,5275 1070,5270 217,5272"/>
+               <Baseline points="223,5305 268,5299 313,5302 358,5302 403,5299 447,5302 492,5302 537,5302 582,5299 626,5299 671,5299 716,5302 761,5302 806,5302 850,5299 895,5302 940,5302 985,5302 1030,5305 1074,5302 1119,5305 1130,5301"/>
+               <TextEquiv>
+                  <Unicode>stand darauf, daß er nach Hause wollte, seine Frau</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_27" custom="readingOrder {index:26;}">
+               <Coords points="213,5352 1127,5345 1104,5309 213,5310"/>
+               <Baseline points="220,5338 265,5335 310,5335 355,5335 400,5335 444,5335 489,5335 534,5335 579,5335 624,5335 668,5338 713,5335 758,5335 803,5335 847,5335 892,5335 937,5335 982,5335 1027,5335 1071,5338 1116,5341 1119,5341 1130,5347"/>
+               <TextEquiv>
+                  <Unicode>warte auf ihn. Er schien älter als die anderen. Sein</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_28" custom="readingOrder {index:27;}">
+               <Coords points="211,5382 1127,5386 1127,5345 211,5357"/>
+               <Baseline points="217,5374 262,5371 307,5371 352,5371 397,5371 441,5371 486,5371 531,5371 576,5371 621,5371 665,5371 710,5371 755,5371 800,5371 844,5374 889,5371 934,5371 979,5371 1024,5371 1068,5374 1113,5377 1116,5377 1130,5382"/>
+               <TextEquiv>
+                  <Unicode>gelbes Gesicht war mit grauen Bartstoppeln bedeckt,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_29" custom="readingOrder {index:28;}">
+               <Coords points="213,5418 1026,5411 1127,5438 1104,5379 1034,5403 213,5385"/>
+               <Baseline points="220,5410 265,5407 310,5407 355,5407 400,5407 444,5407 489,5407 534,5407 579,5407 624,5407 668,5407 713,5407 758,5407 803,5407 847,5407 892,5407 937,5407 982,5407 1027,5410 1071,5410 1116,5410 1130,5415"/>
+               <TextEquiv>
+                  <Unicode>graues Haar wuchs ihm lang in den Nacken. „Sag</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_30" custom="readingOrder {index:29;}">
+               <Coords points="213,5450 1107,5456 1088,5418 213,5418"/>
+               <Baseline points="220,5442 265,5442 310,5442 355,5442 400,5442 444,5442 489,5442 534,5442 579,5442 624,5442 668,5442 713,5442 758,5442 803,5442 847,5442 892,5442 937,5442 982,5442 1027,5442 1071,5442 1110,5445"/>
+               <TextEquiv>
+                  <Unicode>deiner Frau, daß der Streik bald fertig sein wird,"</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_31" custom="readingOrder {index:30;}">
+               <Coords points="213,5485 1127,5496 1127,5454 1083,5450 213,5450"/>
+               <Baseline points="220,5478 265,5475 310,5478 355,5478 400,5478 444,5478 489,5478 534,5475 579,5478 624,5478 668,5478 713,5478 758,5478 803,5478 847,5478 892,5478 937,5478 982,5475 1027,5478 1071,5478 1116,5481 1125,5481 1130,5483"/>
+               <TextEquiv>
+                  <Unicode>sagte Myles zu ihm, als wir am Rand der Straße</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_32" custom="readingOrder {index:31;}">
+               <Coords points="217,5522 1113,5525 1113,5492 1075,5486 217,5486"/>
+               <Baseline points="223,5514 268,5511 313,5511 358,5514 403,5508 447,5511 492,5511 537,5511 582,5511 626,5511 671,5511 716,5511 761,5511 806,5511 850,5511 895,5511 940,5514 985,5511 1030,5511 1074,5514 1116,5514"/>
+               <TextEquiv>
+                  <Unicode>hielten, „– und wenn sie etwas braucht, Milch oder</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_33" custom="readingOrder {index:32;}">
+               <Coords points="217,5554 1127,5561 1127,5530 1055,5517 217,5524"/>
+               <Baseline points="223,5547 268,5547 313,5547 358,5550 403,5550 447,5550 492,5550 537,5547 582,5547 626,5547 671,5547 716,5547 761,5547 806,5547 850,5547 895,5547 940,5547 985,5550 1030,5547 1074,5547 1116,5547 1130,5552"/>
+               <TextEquiv>
+                  <Unicode>Gemüse für die Kinder, soll sie in die Schule herüber¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_34" custom="readingOrder {index:33;}">
+               <Coords points="217,5589 1127,5594 1082,5553 217,5554"/>
+               <Baseline points="223,5586 268,5580 313,5580 358,5580 403,5577 447,5583 492,5583 537,5583 582,5583 626,5583 671,5580 716,5583 761,5583 806,5583 850,5583 895,5583 940,5583 985,5583 1030,5583 1074,5583 1119,5583 1130,5587"/>
+               <TextEquiv>
+                  <Unicode>kommen." – Die Hütte des alten Mannes lag einige</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_35" custom="readingOrder {index:34;}">
+               <Coords points="213,5627 1113,5627 1083,5593 213,5588"/>
+               <Baseline points="220,5619 265,5616 310,5616 355,5619 400,5616 444,5619 489,5616 534,5619 579,5619 624,5619 668,5619 713,5619 758,5619 803,5619 847,5616 892,5616 937,5619 982,5619 1027,5619 1071,5619 1116,5622"/>
+               <TextEquiv>
+                  <Unicode>Schritte von der Straße entfernt, im Gebüsch. Die</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_36" custom="readingOrder {index:35;}">
+               <Coords points="213,5664 1110,5667 1110,5627 1060,5624 213,5627"/>
+               <Baseline points="220,5654 265,5651 310,5651 355,5651 400,5651 444,5654 489,5654 534,5651 579,5654 624,5651 668,5651 713,5651 758,5651 803,5651 847,5651 892,5651 937,5651 982,5654 1027,5654 1071,5654 1113,5657"/>
+               <TextEquiv>
+                  <Unicode>Türe wurde geöffnet, im schwach erleuchteten Türrah¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_37" custom="readingOrder {index:36;}">
+               <Coords points="213,5691 1104,5695 1104,5663 213,5664"/>
+               <Baseline points="220,5690 265,5687 310,5687 355,5687 400,5687 444,5687 489,5687 534,5687 579,5687 624,5687 668,5687 713,5687 758,5687 803,5687 847,5687 892,5687 937,5687 982,5690 1027,5687 1071,5687 1107,5690"/>
+               <TextEquiv>
+                  <Unicode>men stand die Frau. Der Mann ging dem ausgetre¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_38" custom="readingOrder {index:37;}">
+               <Coords points="217,5730 1127,5736 1114,5694 217,5695"/>
+               <Baseline points="223,5723 268,5723 313,5723 358,5723 403,5720 447,5723 492,5723 537,5723 582,5723 626,5723 671,5723 716,5723 761,5723 806,5723 850,5723 895,5723 940,5723 985,5723 1030,5726 1074,5726 1119,5726 1125,5726 1130,5722"/>
+               <TextEquiv>
+                  <Unicode>tenen Pfad entlang auf sie zu. Die Türe schloß sich.\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_39" custom="readingOrder {index:38;}">
+               <Coords points="265,5773 1099,5769 1066,5731 265,5746"/>
+               <Baseline points="271,5762 295,5759 340,5759 385,5759 429,5759 474,5759 519,5759 564,5756 609,5759 653,5756 698,5759 743,5759 788,5759 833,5759 877,5759 922,5759 967,5759 1012,5759 1056,5759 1101,5756"/>
+               <TextEquiv>
+                  <Unicode>\p\„Er hat unter dem Streik gelitten," sagte Myles, –</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_40" custom="readingOrder {index:39;}">
+               <Coords points="213,5809 1127,5798 1117,5759 213,5777"/>
+               <Baseline points="220,5798 265,5795 310,5792 355,5792 400,5792 444,5792 489,5792 534,5795 579,5792 624,5792 668,5792 713,5792 758,5792 803,5792 847,5792 892,5795 937,5795 982,5795 1027,5795 1071,5795 1116,5798 1119,5798 1130,5799"/>
+               <TextEquiv>
+                  <Unicode>„er ist nicht so alt, wie er aussieht. Er hat fünf Kin¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_41" custom="readingOrder {index:40;}">
+               <Coords points="217,5834 1127,5840 1127,5809 1047,5796 217,5804"/>
+               <Baseline points="223,5831 268,5828 313,5828 358,5828 403,5828 447,5828 492,5828 537,5831 582,5831 626,5831 671,5828 716,5828 761,5828 806,5828 850,5828 895,5828 940,5831 985,5831 1030,5831 1074,5831 1119,5834 1130,5834"/>
+               <TextEquiv>
+                  <Unicode>der, die er nicht zur Schule schicken kann, weil sie</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_42" custom="readingOrder {index:41;}">
+               <Coords points="216,5871 572,5875 573,5837 403,5844 362,5827 308,5850 217,5836"/>
+               <Baseline points="223,5866 262,5863 307,5863 352,5863 397,5860 441,5863 486,5860 531,5863 576,5863"/>
+               <TextEquiv>
+                  <Unicode>keine Kleider haben.“\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_43" custom="readingOrder {index:42;}">
+               <Coords points="265,5909 1127,5907 1127,5879 968,5863 899,5888 842,5861 265,5878"/>
+               <Baseline points="271,5902 310,5899 355,5899 400,5896 444,5896 489,5899 534,5896 579,5899 624,5899 668,5899 713,5896 758,5896 803,5896 847,5896 892,5896 937,5899 982,5899 1027,5899 1071,5899 1116,5899 1130,5901"/>
+               <TextEquiv>
+                  <Unicode>\p\„Weiß Gott, wir streiken nicht zum Spaß," sagte</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_44" custom="readingOrder {index:43;}">
+               <Coords points="213,5948 1127,5959 1127,5911 1041,5900 213,5908"/>
+               <Baseline points="220,5935 265,5932 310,5932 355,5932 400,5932 444,5932 489,5932 534,5932 579,5929 624,5935 668,5932 713,5935 758,5932 803,5932 847,5935 892,5935 937,5935 982,5935 1027,5935 1071,5935 1116,5938 1122,5935 1130,5936"/>
+               <TextEquiv>
+                  <Unicode>einer der Männer, – „aber während eines Streiks</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_45" custom="readingOrder {index:44;}">
+               <Coords points="213,5986 840,5976 840,5949 786,5940 213,5947"/>
+               <Baseline points="220,5974 259,5971 304,5968 349,5968 394,5968 438,5968 483,5968 528,5968 573,5968 618,5968 662,5968 707,5968 752,5968 797,5968 841,5968"/>
+               <TextEquiv>
+                  <Unicode>zeigt es sich, was ein Mann wert ist."\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_46" custom="readingOrder {index:45;}">
+               <Coords points="261,6020 1128,6020 1128,5980 261,5991"/>
+               <Baseline points="268,6007 313,6004 358,6004 403,6004 447,6004 492,6004 537,6004 582,6004 626,6004 671,6004 716,6004 761,6004 806,6004 850,6004 895,6004 940,6004 985,6004 1030,6004 1074,6004 1119,6007 1125,6007 1130,6007"/>
+               <TextEquiv>
+                  <Unicode>\p\„Er hat die Frau, und die Kinder, und kein Essen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_47" custom="readingOrder {index:46;}">
+               <Coords points="215,6071 1113,6069 1127,6017 213,6010"/>
+               <Baseline points="220,6040 265,6040 310,6040 355,6040 400,6040 444,6040 489,6040 534,6040 579,6040 624,6040 668,6040 713,6040 758,6040 803,6043 847,6040 892,6043 937,6043 982,6043 1027,6043 1071,6043 1116,6043 1130,6043"/>
+               <TextEquiv>
+                  <Unicode>im Haus. Wahrscheinlich macht ihm die Frau die</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="1139,4386 2076,4386 2076,4636 1139,4636"/>
+            <TextLine id="r_2_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="1133,4450 2073,4439 2064,4397 1133,4396"/>
+               <Baseline points="1139,4427 1158,4427 1203,4424 1248,4424 1292,4424 1337,4427 1382,4427 1427,4427 1471,4427 1516,4427 1561,4427 1606,4427 1651,4427 1695,4427 1740,4427 1785,4427 1830,4427 1875,4427 1919,4427 1964,4427 2009,4427 2054,4433 2057,4433 2076,4431"/>
+               <TextEquiv>
+                  <Unicode>Hölle heiß, – und er hat trotzdem durchgehalten“, sagte</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="1157,4475 1187,4477 1194,4472 1205,4473 1215,4464 1242,4472 1250,4467 1271,4470 1271,4438 1255,4432 1243,4436 1219,4432 1212,4439 1204,4434 1192,4437 1188,4433 1157,4433"/>
+               <Baseline points="1164,4460 1209,4460 1253,4460 1274,4460"/>
+               <TextEquiv>
+                  <Unicode>Myles.\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_3" custom="readingOrder {index:2;}">
+               <Coords points="1199,4502 2073,4498 2073,4465 1799,4478 1732,4443 1199,4473"/>
+               <Baseline points="1206,4496 1251,4493 1295,4496 1340,4493 1385,4496 1430,4496 1474,4493 1519,4496 1564,4496 1609,4496 1654,4496 1698,4496 1743,4496 1788,4496 1833,4496 1878,4496 1922,4496 1967,4496 2012,4496 2045,4499 2076,4497"/>
+               <TextEquiv>
+                  <Unicode>\p\Wir bogen durch das Holzgatter zur Hochländer–</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_4" custom="readingOrder {index:3;}">
+               <Coords points="1155,4535 2051,4543 2019,4506 1155,4501"/>
+               <Baseline points="1161,4529 1206,4529 1251,4529 1295,4529 1340,4529 1385,4529 1430,4529 1474,4529 1519,4529 1564,4529 1609,4532 1654,4532 1698,4532 1743,4532 1788,4532 1833,4532 1878,4529 1922,4532 1967,4532 2012,4532 2054,4532"/>
+               <TextEquiv>
+                  <Unicode>Schule ein. Einer hinter dem andern betraten die</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_5" custom="readingOrder {index:4;}">
+               <Coords points="1133,4575 2073,4581 2057,4540 1133,4529"/>
+               <Baseline points="1139,4565 1158,4565 1203,4565 1248,4565 1292,4565 1337,4565 1382,4565 1427,4565 1471,4565 1516,4565 1561,4565 1606,4565 1651,4565 1695,4565 1740,4565 1785,4565 1830,4565 1875,4565 1919,4565 1964,4568 2009,4568 2054,4571 2060,4568 2076,4568"/>
+               <TextEquiv>
+                  <Unicode>Männer das Haus. Aus dem Wohnraum schlug uns</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_6" custom="readingOrder {index:5;}">
+               <Coords points="1133,4606 1264,4634 1341,4607 2006,4611 2006,4580 1133,4588"/>
+               <Baseline points="1139,4600 1155,4597 1200,4600 1245,4600 1289,4600 1334,4600 1379,4600 1424,4600 1468,4600 1513,4600 1558,4600 1603,4600 1648,4600 1692,4600 1737,4603 1782,4600 1827,4600 1872,4600 1916,4603 1961,4603 2006,4603 2009,4606"/>
+               <TextEquiv>
+                  <Unicode>die Wärme eines mächtigen Kaminfeuers entgegen.\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+      </Page>
+   </PcGts>
+</validation-wrapper>
