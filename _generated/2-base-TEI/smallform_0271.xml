@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0271" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0271#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0271</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0271"> 
+               <persName/>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0271_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211938_014%21zui-001_1938_014_0289.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l"/>Auslandschweizer vor Bauernhaus</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_516"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l_523"/>Einer von 330 000.</p>
+            <p> 
+               <lb xml:id="p001_l_530"/>Das ist Henry Stämpfli, Farmer in Grütli im Staate Tennessee in USA. Er stammt aus Aarberg, kam 1913 auf ein Zeitungs 
+               <lb xml:id="p001_l_537" break="no"/>inserat hin in die Vereinigten Staaten. In Grütli hat er sich zum wohlhabenden mittelgroßen Farmer emporgearbeitet, dem es 
+               <lb xml:id="p001_l_544"/>bis jetzt auf seinen rund 60 Jucharten Land gut gegangen ist in den Cumberlandbergen, in einer Gegend, wo tausend andere 
+               <lb xml:id="p001_l_551"/>durch die Krise ruiniert wurden. Warum blieb er verschont? Weil er sich besser aufs Bauern versteht und weil er genügsam, zäh 
+               <lb xml:id="p001_l_558"/>und ausdauernd ist. Stämpfli ist ein Schweizer, der seiner Schweizer Heimat im Ausland alle Ehre macht und mächtig zur 
+               <lb xml:id="p001_l_565"/>Mehrung des Ansehens seines Vaterlandes in Uebersee beiträgt. Er ist kein Ausnahmefall. Hunderttausende haben dasselbe getan 
+               <lb xml:id="p001_l_572"/>in USA, allein, seit der erste historische Amerikaschweizer, der Reisläufer Diebold von Erlach, im Jahre 1526 in Florida für die 
+               <lb xml:id="p001_l_579"/>spanischen Fahnen fiel. 113 000 Schweizer gibt es gegenwärtig in den Vereinigten Staaten, 330 000 Auslandschweizer überhaupt. 
+               <lb xml:id="p001_l_586"/>Sie tun alle ihre Pflicht auf dem Posten, wo das Schicksal sie hingestellt hat: der kleine Farmer in Kanada und der Kaffee 
+               <lb xml:id="p001_l_593" break="no"/>fazendeiro in Brasilien, gleich wie der Hotelconcierge an der Riviera und das Kinderfräulein in England und sind für die Ver 
+               <lb xml:id="p001_l_600" break="no"/>teidigung der guten Meinung über unser Land ebenso wertvoll wie die 25 000 Auslandschweizer, die bei der Mobilmachung im 
+               <lb xml:id="p001_l_607"/>Jahre 1914 aus allen Weltteilen zum Schutze der Grenzen in die Heimat zurückgekehrt sind.</p>
+            <p> 
+               <lb xml:id="p001_l_614"/>Un des 330,000. L' estime que l' on porte à un être, rejaillit presque toujours sur le pays dont il est citoyen. Partout, sous toutes 
+               <lb xml:id="p001_l_621"/>les latitudes, à tous les postes, les Suisses ont su se faire apprécieret par–là engendré l' estime des étrangers pour notre pays. Henry 
+               <lb xml:id="p001_l_628"/>Stämpfli, depuis 1913 fermier à Grütli dans le Tennessee (U.S. A.) est l' un des exemples de ces Suisses qui, par leur travail, leur 
+               <lb xml:id="p001_l_635"/>persévérance et leur énergie ont réussi à triompher des pires difficultés et porté au loin le bon renom de notre patrie. Des 
+               <lb xml:id="p001_l_642"/>centaines de mille Suisses sont venus s' établir aux Etats–Unis, depuis les temps lointains où Diebold d' Erlach, de Berne, prit 
+               <lb xml:id="p001_l_649"/>en 1526 possession de la Floride au nom du Roi d' Espagne. Actuellement, l' Amérique compte 113,000 de nos concitoyens. 
+               <lb xml:id="p001_l_656"/>Le total des Suisses à l' étranger s' élève à 330,000. Ceux–là ne se bornent point à penser et à évoquer leur patrie, ils sacrifient 
+               <lb xml:id="p001_l_663"/>souvent leurs intérêts pour la servir, témoins ces 25,000 hommes qui au début de 1914 sont spontanément accourus pour occuper 
+               <lb xml:id="p001_l_670"/>nos frontières.</p>
+</div>
+       </body>
+    </text>
+ </TEI>

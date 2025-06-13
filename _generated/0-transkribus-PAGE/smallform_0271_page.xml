@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<validation-wrapper>
+   <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+      <Metadata>
+         <Creator>prov=READ-COOP:name=TrHtr:version=2.23.1:model_id=51170:date=18_02_2025_10:24</Creator>
+         <Created>2025-02-18T10:10:50.690+01:00</Created>
+         <LastChange>2025-06-13T16:54:00.323+02:00</LastChange>
+         <TranskribusMetadata docId="6976536"
+                              pageId="91727137"
+                              pageNr="1"
+                              tsid="229658945"
+                              status="IN_PROGRESS"
+                              userId="295818"
+                              imgUrl="https://files.transkribus.eu/Get?id=KLSDZQNYQTPYSQUNNKKUBWZO&amp;fileType=view"
+                              xmlUrl="https://files.transkribus.eu/Get?id=ABZQMVPLZGSCLBJMZEYEZYGE"
+                              imageId="76539600"/>
+      </Metadata>
+      <Page imageFilename="smallform_0271_001.jpg"
+            imageWidth="9500"
+            imageHeight="6340">
+         <ReadingOrder>
+            <OrderedGroup id="ro_1749826440348" caption="Regions reading order">
+               <RegionRefIndexed index="0" regionRef="r"/>
+               <RegionRefIndexed index="1" regionRef="r_516"/>
+            </OrderedGroup>
+         </ReadingOrder>
+         <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="466,51 3148,51 3148,2631 466,2631"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+               <Coords points="625,154 1226,170 1460,120 1740,130 1740,97 1523,60 1436,97 1169,67 1022,107 858,63 625,80"/>
+               <Baseline points="643,134 1748,131"/>
+               <TextEquiv>
+                  <Unicode>\f\Auslandschweizer vor Bauernhaus\:f\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_516" custom="readingOrder {index:1;}">
+            <Coords points="350,2692 3203,2692 3203,3913 350,3913"/>
+            <TextLine id="l_523" custom="readingOrder {index:0;}">
+               <Coords points="464,2745 1132,2749 1132,2669 1065,2659 962,2679 788,2659 464,2672"/>
+               <Baseline points="483,2720 1141,2717"/>
+               <TextEquiv>
+                  <Unicode>Einer von 330 000.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_530" custom="readingOrder {index:1;}">
+               <Coords points="471,2809 3146,2809 2692,2715 471,2749"/>
+               <Baseline points="490,2788 3154,2791"/>
+               <TextEquiv>
+                  <Unicode>\p\Das ist Henry Stämpfli, Farmer in Grütli im Staate Tennessee in USA. Er stammt aus Aarberg, kam 1913 auf ein Zeitungs¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_537" custom="readingOrder {index:2;}">
+               <Coords points="478,2852 3146,2869 2849,2806 478,2809"/>
+               <Baseline points="495,2831 3151,2846"/>
+               <TextEquiv>
+                  <Unicode>inserat hin in die Vereinigten Staaten. In Grütli hat er sich zum wohlhabenden mittelgroßen Farmer emporgearbeitet, dem es</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_544" custom="readingOrder {index:3;}">
+               <Coords points="464,2922 3150,2912 2976,2852 464,2852"/>
+               <Baseline points="483,2876 3154,2894"/>
+               <TextEquiv>
+                  <Unicode>bis jetzt auf seinen rund 60 Jucharten Land gut gegangen ist in den Cumberlandbergen, in einer Gegend, wo tausend andere</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_551" custom="readingOrder {index:4;}">
+               <Coords points="478,2956 3136,2966 3136,2909 2809,2899 478,2912"/>
+               <Baseline points="495,2934 3146,2937"/>
+               <TextEquiv>
+                  <Unicode>durch die Krise ruiniert wurden. Warum blieb er verschont? Weil er sich besser aufs Bauern versteht und weil er genügsam, zäh</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_558" custom="readingOrder {index:5;}">
+               <Coords points="478,2996 3133,3013 2849,2939 478,2956"/>
+               <Baseline points="495,2987 3141,2982"/>
+               <TextEquiv>
+                  <Unicode>und ausdauernd ist. Stämpfli ist ein Schweizer, der seiner Schweizer Heimat im Ausland alle Ehre macht und mächtig zur</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_565" custom="readingOrder {index:6;}">
+               <Coords points="481,3049 3140,3059 2876,2999 481,2999"/>
+               <Baseline points="500,3028 3149,3043"/>
+               <TextEquiv>
+                  <Unicode>Mehrung des Ansehens seines Vaterlandes in Uebersee beiträgt. Er ist kein Ausnahmefall. Hunderttausende haben dasselbe getan</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_572" custom="readingOrder {index:7;}">
+               <Coords points="481,3103 3133,3106 3110,3049 481,3049"/>
+               <Baseline points="500,3081 3141,3083"/>
+               <TextEquiv>
+                  <Unicode>in USA, allein, seit der erste historische Amerikaschweizer, der Reisläufer Diebold von Erlach, im Jahre 1526 in Florida für die</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_579" custom="readingOrder {index:8;}">
+               <Coords points="481,3150 3150,3153 481,3100"/>
+               <Baseline points="498,3126 3154,3134"/>
+               <TextEquiv>
+                  <Unicode>spanischen Fahnen fiel. 113 000 Schweizer gibt es gegenwärtig in den Vereinigten Staaten, 330 000 Auslandschweizer überhaupt.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_586" custom="readingOrder {index:9;}">
+               <Coords points="484,3196 3123,3203 3073,3146 484,3150"/>
+               <Baseline points="503,3179 3131,3184"/>
+               <TextEquiv>
+                  <Unicode>Sie tun alle ihre Pflicht auf dem Posten, wo das Schicksal sie hingestellt hat: der kleine Farmer in Kanada und der Kaffee¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_593" custom="readingOrder {index:10;}">
+               <Coords points="478,3250 3133,3250 2986,3193 478,3193"/>
+               <Baseline points="495,3224 3141,3227"/>
+               <TextEquiv>
+                  <Unicode>fazendeiro in Brasilien, gleich wie der Hotelconcierge an der Riviera und das Kinderfräulein in England und sind für die Ver¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_600" custom="readingOrder {index:11;}">
+               <Coords points="481,3297 3133,3307 3096,3243 481,3250"/>
+               <Baseline points="498,3270 3141,3275"/>
+               <TextEquiv>
+                  <Unicode>teidigung der guten Meinung über unser Land ebenso wertvoll wie die 25 000 Auslandschweizer, die bei der Mobilmachung im</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_607" custom="readingOrder {index:12;}">
+               <Coords points="481,3350 2488,3353 2488,3297 2415,3293 481,3293"/>
+               <Baseline points="498,3315 2498,3323"/>
+               <TextEquiv>
+                  <Unicode>Jahre 1914 aus allen Weltteilen zum Schutze der Grenzen in die Heimat zurückgekehrt sind.\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_614" custom="readingOrder {index:13;}">
+               <Coords points="484,3410 3136,3424 3136,3347 484,3353"/>
+               <Baseline points="503,3388 3144,3399"/>
+               <TextEquiv>
+                  <Unicode>\p\Un des 330,000. L' estime que l' on porte à un être, rejaillit presque toujours sur le pays dont il est citoyen. Partout, sous toutes</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_621" custom="readingOrder {index:14;}">
+               <Coords points="474,3467 3136,3474 3039,3413 474,3420"/>
+               <Baseline points="493,3441 3144,3446"/>
+               <TextEquiv>
+                  <Unicode>les latitudes, à tous les postes, les Suisses ont su se faire apprécieret par–là engendré l' estime des étrangers pour notre pays. Henry</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_628" custom="readingOrder {index:15;}">
+               <Coords points="478,3507 3136,3520 3076,3464 478,3457"/>
+               <Baseline points="495,3487 3146,3497"/>
+               <TextEquiv>
+                  <Unicode>Stämpfli, depuis 1913 fermier à Grütli dans le Tennessee (U.S. A.) est l' un des exemples de ces Suisses qui, par leur travail, leur</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_635" custom="readingOrder {index:16;}">
+               <Coords points="484,3570 3136,3560 484,3514"/>
+               <Baseline points="503,3542 3144,3542"/>
+               <TextEquiv>
+                  <Unicode>persévérance et leur énergie ont réussi à triompher des pires difficultés et porté au loin le bon renom de notre patrie. Des</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_642" custom="readingOrder {index:17;}">
+               <Coords points="481,3614 3136,3617 3136,3560 481,3567"/>
+               <Baseline points="500,3590 3144,3588"/>
+               <TextEquiv>
+                  <Unicode>centaines de mille Suisses sont venus s' établir aux Etats–Unis, depuis les temps lointains où Diebold d' Erlach, de Berne, prit</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_649" custom="readingOrder {index:18;}">
+               <Coords points="488,3654 3140,3661 488,3607"/>
+               <Baseline points="505,3636 3149,3638"/>
+               <TextEquiv>
+                  <Unicode>en 1526 possession de la Floride au nom du Roi d' Espagne. Actuellement, l' Amérique compte 113,000 de nos concitoyens.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_656" custom="readingOrder {index:19;}">
+               <Coords points="484,3711 3136,3714 2872,3647 484,3657"/>
+               <Baseline points="503,3681 3141,3686"/>
+               <TextEquiv>
+                  <Unicode>Le total des Suisses à l' étranger s' élève à 330,000. Ceux–là ne se bornent point à penser et à évoquer leur patrie, ils sacrifient</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_663" custom="readingOrder {index:20;}">
+               <Coords points="488,3751 3140,3764 3110,3704 488,3707"/>
+               <Baseline points="505,3737 3149,3739"/>
+               <TextEquiv>
+                  <Unicode>souvent leurs intérêts pour la servir, témoins ces 25,000 hommes qui au début de 1914 sont spontanément accourus pour occuper</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_670" custom="readingOrder {index:21;}">
+               <Coords points="474,3794 551,3814 571,3801 591,3814 641,3804 675,3821 735,3801 788,3814 788,3754 748,3761 671,3751 655,3761 601,3747 474,3764"/>
+               <Baseline points="493,3787 798,3789"/>
+               <TextEquiv>
+                  <Unicode>nos frontières.\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+      </Page>
+   </PcGts>
+</validation-wrapper>
