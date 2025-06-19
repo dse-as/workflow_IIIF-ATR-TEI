@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0284" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0284#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0284</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0284"> 
+               <persName/>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0284_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211938_014%21zui-001_1938_014_0634.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l"/>Das Drama im amerikanischen Plantagen-Gürtel 
+               <lb xml:id="p001_l_162"/>Fünf Seiten Bildbericht von Annemarie Clark-Schwarzenbach</p>
+
+            <milestone unit="textregion" xml:id="p001_r_5"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_169"/>Hütte eines Baumwollpflückers in Georgia</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_6"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_6_tl_1"/>Die Hütte eines Sharecroppers (Baumwollpflücker) in Georgia, dessen Baumwollfeld nichts mehr trägt. Er ist Anwärter auf 
+               <lb xml:id="p001_r_6_tl_2"/>"Umsiedlung" durch die Resettlement Administration (Behörde für Umsiedelung) auf besseres Land.</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_6_tl_3"/><hi rendition="#i">Dans cette misérable cabane, au milieu de ce désert herbeux où poussait jadis le coton, le "sharecropper" (individu 
+                  <lb xml:id="p001_r_6_tl_4"/>qui cueille le coton) attend que le "Resettlement administration" lui donne une meilleure terre où "cultiver ses choux".</hi></p>
+
+            <pb xml:id="p002" facs="https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211938_014%21zui-001_1938_014_0635.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l"/>GLANZ, STURZ UND NEUES LEBEN ...</p>
+
+            <milestone unit="textregion" xml:id="p002_r_2"/>            <p> 
+               <lb xml:id="p002_r_2_tl_1"/>Die große Wirtschaftskrise hatte in den Vereinigten Staaten 
+               <lb xml:id="p002_r_2_tl_2"/>eine psychologische Wirkung, die seither von der Regierung 
+               <lb xml:id="p002_r_2_tl_3"/>Roosevelt durch eine klug geführte Aufklärungskampagne ver 
+               <lb xml:id="p002_r_2_tl_4" break="no"/>tieft und verbreitet wurde: man kann von einer "Wiederentdek 
+               <lb xml:id="p002_r_2_tl_5" break="no"/>kung Amerikas durch die Amerikaner" sprechen, – denn seit der 
+               <lb xml:id="p002_r_2_tl_6"/>Unabhängigkeitserklärung hatte sich die amerikanische Nation 
+               <lb xml:id="p002_r_2_tl_7"/>entwickelt und gefestigt im Glauben, der amerikanische Kontinent 
+               <lb xml:id="p002_r_2_tl_8"/>verfüge über unerschöpfliche Reserven an Land und natürlichen 
+               <lb xml:id="p002_r_2_tl_9"/>Reichtümern, die amerikanische Konstitution verbürge ein 
+               <lb xml:id="p002_r_2_tl_10"/>Höchstmaß an sozialer Gerechtigkeit und demokratischer Frei 
+               <lb xml:id="p002_r_2_tl_11" break="no"/>heit, – und Jahrzehnte raschen industriellen Fortschritts und 
+               <lb xml:id="p002_r_2_tl_12"/>wirtschaftlicher Prosperität schienen den optimistischen Glauben 
+               <lb xml:id="p002_r_2_tl_13"/>an die "unbegrenzten Möglichkeiten" zu rechtfertigen, die zu 
+               <lb xml:id="p002_r_2_tl_14"/>einem Schlagwort des Amerikanismus geworden sind. – Erst 
+               <lb xml:id="p002_r_2_tl_15"/>durch die Krise sind die Amerikaner aus diesem schönen Traum 
+               <lb xml:id="p002_r_2_tl_16"/>erwacht. Das Versagen der Weltmärkte, Börsenstürze, Ueber 
+               <lb xml:id="p002_r_2_tl_17" break="no"/>produktion, 15 Millionen Arbeitslose, – diese Ereignisse wurden 
+               <lb xml:id="p002_r_2_tl_18"/>fast symbolisch begleitet von Dürre, Sandstürmen, gigantischen 
+               <lb xml:id="p002_r_2_tl_19"/>Ueberschwemmungen – von Naturkatastrophen, welche minde 
+               <lb xml:id="p002_r_2_tl_20" break="no"/>stens teilweise die Folge waren von Mißwirtschaft, Raubbau, Ab 
+               <lb xml:id="p002_r_2_tl_21" break="no"/>holzung: die leichtfertige Ausbeutung des amerikanischen Bodens 
+               <lb xml:id="p002_r_2_tl_22"/>rächte sich, es war zu Ende mit den Landreserven im Westen, 
+               <lb xml:id="p002_r_2_tl_23"/>Felder verwandelten sich in Wüste, von Erosion zerstörtes Farm 
+               <lb xml:id="p002_r_2_tl_24" break="no"/>land wurde die Flüsse hinabgeschwemmt, zu den Arbeitslosen der 
+               <lb xml:id="p002_r_2_tl_25"/>Industrie gesellten sich die brotlosen Farmer, Pächter und Land 
+               <lb xml:id="p002_r_2_tl_26" break="no"/>arbeiter. In wenigen Jahren hat sich die junge Generation Ame 
+               <lb xml:id="p002_r_2_tl_27" break="no"/>rikas von einem leichtfertigen Optimismus zu einem aktiven Pes 
+               <lb xml:id="p002_r_2_tl_28" break="no"/>simismus bekehrt. Sie entdeckte die wirtschaftlichen und sozialen 
+               <lb xml:id="p002_r_2_tl_29"/>Gefahren, die der amerikanischen Demokratie drohen, - sie ent¬                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_r_2_tl_30" break="no"/>(Fortsetzung Seite 706)</p>
+
+            <milestone unit="textregion" xml:id="p002_r_3"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p002_l_13"/>Hafenarbeiter in Savannah</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p002_r_22"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_22_tl_1"/>Der Hafen von Savannah war früher der bedeutendste Hafen für Zucker, 
+               <lb xml:id="p002_r_22_tl_2"/>Baumwolle und – Sklaven. Heute ist es dort still geworden; schwarze 
+               <lb xml:id="p002_r_22_tl_3"/>Hafenarbeiter sitzen in der Sonne und warten auf die wenigen Dampfer, 
+               <lb xml:id="p002_r_22_tl_4"/>welche den Verkehr mit Florida, den westindischen Inseln und den 
+               <lb xml:id="p002_r_22_tl_5"/>Häfen der Ostküste besorgen. Der Baumwoll–Export nach Europa hat 
+               <lb xml:id="p002_r_22_tl_6"/>sich seit den Krisenjahren 1932/33 nicht mehr erholt.</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_22_tl_7"/><hi rendition="#i">Célèbre jadis pour la richesse que lui donnait le trafic du sucre, du coton 
+                  <lb xml:id="p002_r_22_tl_8"/>et ... des esclaves, Savannah n' est plus aujourd' hui qu' un modeste port de 
+                  <lb xml:id="p002_r_22_tl_9"/>la côte de Géorgie, où font escale les bateaux marchands à destination de 
+                  <lb xml:id="p002_r_22_tl_10"/>la Floride ou des Antilles. Assis au soleil, ces débardeurs noirs attenden</hi>t 
+               <lb xml:id="p002_r_22_tl_11"/><hi rendition="#i">une embauche problématique.</hi></p>
+
+            <milestone unit="textregion" xml:id="p002_r_48"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p002_l_7"/>Bauer mit Maultier</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p002_r_141"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_l_157"/>Ein Pächter und sein Maultier in Georgia. Er bearbeitet 16 Hektaren einer Zuckerrohr–Plantage. Baumwolle, Zucker, Tabak, die Plantagen–Produkte des 
+               <lb xml:id="p002_l_173"/>Südens sind nur für den Verkauf bestimmt. Dieses halbindustrielle System der "Profiternte" soll jetzt durch Ernten für den Eigenverbrauch ersetzt werden. 
+               <lb xml:id="p002_l_180"/>Davon werden beide, der Boden und die Landbevölkerung, profitieren.</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_l_196"/><hi rendition="#i">Dans les plantations de Géorgie. Le fermier – prendre ce terme a[?]ens propre: qui tient à ferme – que l' on voit s' enforcer sur la route, cultive 
+                  <lb xml:id="p002_l_212"/>16 hectares d' une plantation de sucre. La crise, les intempéries, etc. ont ruiné les planteurs des Etats du Sud. Le sucre, le coton, le tabac ne trouvent 
+                  <lb xml:id="p002_l_228"/>plus acheteurs. Aus système semi–industriel de produire pour vendre force a été supplanter celui de produire pour vivre. En maints endroits, la 
+                  <lb xml:id="p002_l_235"/>pomme de terre pousse où jadis fleurissait le coton.</hi></p>
+
+            <milestone unit="textregion" xml:id="p002_r_41"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p002_l_8"/>Eine Gruppe von Sträflingen</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p002_r_42"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_42_tl_1"/>Kettensträflinge im Gefängnis von Har 
+               <lb xml:id="p002_r_42_tl_2" break="no"/>ris County im Staate Georgia. Die Ge 
+               <lb xml:id="p002_r_42_tl_3" break="no"/>richtsbarkeit der Südstaaten ist äußerst 
+               <lb xml:id="p002_r_42_tl_4"/>rückständig. Besonders gegen Schwarze 
+               <lb xml:id="p002_r_42_tl_5"/>wird hart vorgegangen. Wegen kleiner 
+               <lb xml:id="p002_r_42_tl_6"/>Diebstähle, Ungehorsam gegen Plan 
+               <lb xml:id="p002_r_42_tl_7" break="no"/>tagenaufseher etc. werden sie als Ketten 
+               <lb xml:id="p002_r_42_tl_8" break="no"/>sträflinge zu Zwangsarbeit verurteilt. 
+               <lb xml:id="p002_r_42_tl_9"/>Aufstände der Sträflinge, die ihre wei 
+               <lb xml:id="p002_r_42_tl_10" break="no"/>ßen Quäler lynchen, sind nicht selten. 
+               <lb xml:id="p002_r_42_tl_11"/>Jetzt wird aber ein Gesetz vorbereitet, 
+               <lb xml:id="p002_r_42_tl_12"/>das in Georgia die "Chaingang"–Ge 
+               <lb xml:id="p002_r_42_tl_13" break="no"/>fängnisse beseitigen würde. Selbst im 
+               <lb xml:id="p002_r_42_tl_14"/>Gefängnis muß auf das Rassenurteil 
+               <lb xml:id="p002_r_42_tl_15"/>Rücksicht genommen werden: die wei 
+               <lb xml:id="p002_r_42_tl_16" break="no"/>ßen Sträflinge schlafen in getrennten 
+               <lb xml:id="p002_r_42_tl_17"/>Zellen und essen an getrennten Tischen.</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_42_tl_18"/><hi rendition="#i">Forçats nègres du bagne d' Harris Coun 
+                  <lb xml:id="p002_r_42_tl_19" break="no"/>ty. Le code pénal des Etats du Sud est 
+                  <lb xml:id="p002_r_42_tl_20"/>très rigoriste ... surtout pour les noirs. 
+                  <lb xml:id="p002_r_42_tl_21"/>Pour des délits moindres tels que de pe 
+                  <lb xml:id="p002_r_42_tl_22" break="no"/>tits larcins ou la désobéissance aux plan 
+                  <lb xml:id="p002_r_42_tl_23" break="no"/>teurs, le nègre est condamné aux tra 
+                  <lb xml:id="p002_r_42_tl_24" break="no"/>vaux forcés. Les mauvais traitements 
+                  <lb xml:id="p002_r_42_tl_25"/>dont il est l' objet durant sa détention le 
+                  <lb xml:id="p002_r_42_tl_26"/>pousse souvent à la révolte. Le cas de 
+                  <lb xml:id="p002_r_42_tl_27"/>gardiens lynchés par les prisonniers n' est 
+                  <lb xml:id="p002_r_42_tl_28"/>pas rare. Les condamnés de race blanche 
+                  <lb xml:id="p002_r_42_tl_29"/>ne mangent pas dans les mêmes réfec 
+                  <lb xml:id="p002_r_42_tl_30" break="no"/>toires et ne couchent pas dans les mêmes 
+                  <lb xml:id="p002_r_42_tl_31"/>cellules que les nègres.</hi></p>
+
+            <milestone unit="textregion" xml:id="p002_r_124"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p002_l_22"/>Landstreicher auf Friedhof</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p002_r_172"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_172_tl_1"/>Ein "Tramp" macht es sich auf dem Friedhof des still gewordenen Städt 
+               <lb xml:id="p002_r_172_tl_2" break="no"/>chens Charleston bequem. Es gibt viele Landstraßenbrüder in den Süd 
+               <lb xml:id="p002_r_172_tl_3" break="no"/>staaten: Pächter, die ihre Baumwollfelder verlassen mußten, Arbeiter, die 
+               <lb xml:id="p002_r_172_tl_4"/>durch die neue Krise des Herbstes 1937 ihre Stelle verlassen haben.</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_172_tl_5"/><hi rendition="#i">Un "tramp" se repose dans le cimetière de Charleston. Les "tramps" (errants, 
+                  <lb xml:id="p002_r_172_tl_6"/>vagabonds) sillonnent les route des Etats du Sud. Ce sont presque toujours 
+                  <lb xml:id="p002_r_172_tl_7"/>des fermiers ruinés par la chute du cours des cotons ou des ouvriers que la 
+                  <lb xml:id="p002_l_2"/>crise du début de 1937 a laissé sans emploi.</hi></p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l_3"/>Photo Barbera Wright</p>
+
+            <milestone unit="textregion" xml:id="p002_r_5"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_r_5_tl_1"/>Mort d' une féodalité – 
+               <lb xml:id="p002_r_5_tl_2"/>Naissance d' un ordre nouveau</p>
+            <p> 
+               <lb xml:id="p002_r_5_tl_3"/><hi rendition="#i">Aboli en principe voici 70 ans, l' esclavage subsistait de fait dans les Etats 
+                  <lb xml:id="p002_r_5_tl_4"/>du Sud des Etats–Unis. Honteusement exploités et brimés, les ouvriers indus 
+                  <lb xml:id="p002_r_5_tl_5" break="no"/>triels et agricoles connaîtront bientôt une meilleure condition humaine.</hi></p>
+            <p> 
+               <lb xml:id="p002_r_5_tl_6"/><hi rendition="#i">Il fut un temps où l' on parlait des "possibilités illimitées" des Etats–Unis et 
+                  <lb xml:id="p002_r_5_tl_7"/>puis ... Ce fut en quelques jours la chute verticale du cours des matières pre 
+                  <lb xml:id="p002_r_5_tl_8" break="no"/>mières, le krach de Wall–Street, d' immenses stock accumulés pendant la pé 
+                  <lb xml:id="p002_r_5_tl_9" break="no"/>riode de surproduction, invendus, invendables ... 15 millions de chômeurs sur 
+                  <lb xml:id="p002_r_5_tl_10"/>le pavé. A cette débâcle financière vint s' ajouter une série de catastrophes: 
+                  <lb xml:id="p002_r_5_tl_11"/>Tempête de sables transformant les champs en déserts, inondations recouvrant 
+                  <lb xml:id="p002_r_5_tl_12"/>des centaines de mille kilomètres carrés. Plus particulièrement éprouvés furent 
+                  <lb xml:id="p002_r_5_tl_13"/>les Etats du Sud, royaume du coton, de la canne à sucre, du tabac. Ruinés, les 
+                  <lb xml:id="p002_r_5_tl_14"/>grands propriétaires, qui laissent leurs plantations à l' abandon; ruinés, les fer 
+                  <lb xml:id="p002_r_5_tl_15" break="no"/>miers, les employés. Sur les route qui gagnent l' Ouest, une longue et lamen 
+                  <lb xml:id="p002_r_5_tl_16" break="no"/>table procession s' engage à la recherche d' une embauche problématique. Quel 
+                  <lb xml:id="p002_r_5_tl_17" break="no"/>ques–uns s' en vont grossir le prolétariat des cités industrielles. Ils retombent 
+                  <lb xml:id="p002_r_5_tl_18"/>d' un esclavage dans un autre. Esclavage de fait. Certes la guerre de Sécession 
+                  <lb xml:id="p002_r_5_tl_19"/>supprima le principe, mais la condition humaine de l' ouvrier des Etats du Sud 
+                  <lb xml:id="p002_r_5_tl_20"/>n' a point changé depuis 70 ans. Cet ouvrier industriel ou agricole est toujours 
+                  <lb xml:id="p002_r_5_tl_21"/>honteusement exploité et brimé. L' un des premiers effets de la grande crise 
+                  <lb xml:id="p002_r_5_tl_22"/>économique fut de révéler ce scandale social au gouvernement. Sa première 
+                  <lb xml:id="p002_r_5_tl_23"/>réaction fut de procurer un minimum de dignité humaine à cette population. 
+                  <lb xml:id="p002_r_5_tl_24"/>Il s' ingénia à lui donner des possibilités et de meilleures conditions de travail. 
+                  <lb xml:id="p002_r_5_tl_25"/>Les légendes qui accompagnent les photographies de ce reportage résument la 
+                  <lb xml:id="p002_r_5_tl_26"/>situation et expliquent les différents problèmes auxquels doit faire face le Pré 
+                  <lb xml:id="p002_r_5_tl_27" break="no"/>sident Roosevelt.</hi></p>
+
+            <milestone unit="textregion" xml:id="p002_r_6"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p002_l_19"/>Eingangstüre des Veteranenheims</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p002_r_7"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_7_tl_1"/>Die Eingangstüre eines 
+               <lb xml:id="p002_r_7_tl_2"/>" Veteranenheims". In den 
+               <lb xml:id="p002_r_7_tl_3"/>Südstaaten spricht man vom 
+               <lb xml:id="p002_r_7_tl_4"/>"Krieg" – gemeint ist der 
+               <lb xml:id="p002_r_7_tl_5"/>über 70 Jahre zurücklie 
+               <lb xml:id="p002_r_7_tl_6" break="no"/>gende amerikanische Bür 
+               <lb xml:id="p002_r_7_tl_7" break="no"/>gerkrieg – wie von einem 
+               <lb xml:id="p002_r_7_tl_8"/>gestrigen Ereignis. Die aus 
+               <lb xml:id="p002_r_7_tl_9"/>einem Veteranenbund her 
+               <lb xml:id="p002_r_7_tl_10" break="no"/>vorgegangene " American 
+               <lb xml:id="p002_r_7_tl_11"/>Legion" ist eine in ganz 
+               <lb xml:id="p002_r_7_tl_12"/>U. S. A. verbreitete, äußerst 
+               <lb xml:id="p002_r_7_tl_13"/>mächtige, reaktionäre Ver 
+               <lb xml:id="p002_r_7_tl_14" break="no"/>einigung geworden. Wie 
+               <lb xml:id="p002_r_7_tl_15"/>im berüchtigten Ku Klux 
+               <lb xml:id="p002_r_7_tl_16"/>Klan gehört auch in der 
+               <lb xml:id="p002_r_7_tl_17"/>"Legion" der Rassenkampf 
+               <lb xml:id="p002_r_7_tl_18"/>gegen die Schwarzen zu 
+               <lb xml:id="p002_r_7_tl_19"/>den wichtigsten Programm 
+               <lb xml:id="p002_r_7_tl_20" break="no"/>punkten!</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_7_tl_21"/><hi rendition="#i">La porte d' un home des vé 
+                  <lb xml:id="p002_r_7_tl_22" break="no"/>térans de la guerre. La 
+                  <lb xml:id="p002_r_7_tl_23"/>guerre dans les Etats du Sud 
+                  <lb xml:id="p002_r_7_tl_24"/>signifie toujours celle qui, 
+                  <lb xml:id="p002_r_7_tl_25"/>voici 70 ans, les opposa aux 
+                  <lb xml:id="p002_r_7_tl_26"/>Etats du Nord. L' Union des 
+                  <lb xml:id="p002_r_7_tl_27"/>Anciens combattants deve 
+                  <lb xml:id="p002_r_7_tl_28" break="no"/>nue par la suite sous le nom 
+                  <lb xml:id="p002_r_7_tl_29"/>d' " American Legion " une 
+                  <lb xml:id="p002_r_7_tl_30"/>immense organization pour 
+                  <lb xml:id="p002_r_7_tl_31" break="no"/>suit une violente politique 
+                  <lb xml:id="p002_r_7_tl_32"/>réactionnaire dont l' un de 
+                  <lb xml:id="p002_r_7_tl_33"/>points – pareil à celui du 
+                  <lb xml:id="p002_r_7_tl_34"/>Ku–Klux–Klan – est la lut 
+                  <lb xml:id="p002_r_7_tl_35" break="no"/>te raciale contre les nèges.</hi></p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_r_7_tl_36"/>Photo Barbera Wright</p>
+
+            <milestone unit="textregion" xml:id="p002_r_8"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p002_l_11"/>Plantagenhaus in Alabama</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p002_r_19"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_19_tl_1"/>An der Landstraße im Staate Alabama steht dieses "Plantagenhaus" mit schlichten Säulen aus Holz – einst das Herrenhaus 
+               <lb xml:id="p002_r_19_tl_2"/>eines Plantagenbesitzers, jetzt vernachlässigt und von einem halben Dutzend Negerfamilien bewohnt, welche die um 
+               <lb xml:id="p002_r_19_tl_3" break="no"/>liegenden Baumwollfelder bestellen. Sie sind Pächter. Die Plantage gehört einer Bank, die sie von den im Bürgerkrieg 
+               <lb xml:id="p002_r_19_tl_4"/>ruinierten Besitzern gekauft hat.</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_19_tl_5"/><hi rendition="#i">Type d' une maison patricienne de l' Etat d' Alabama. Ruiné par la guerre de Sécession, le puissant planteur qui 
+                  <lb xml:id="p002_r_19_tl_6"/>résidait céans vendit ses biens à une banque. Une demi–douzaine de familles nèges, employées aux plantations 
+                  <lb xml:id="p002_r_19_tl_7"/>avoisinantes habitent aujourd' hui cette noble demeure.</hi></p>
+
+            <pb xml:id="p003" facs="https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211938_014%21zui-001_1938_014_0636.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p003_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_l"/>... IN DEN SÜDSTAATEN VON U. S. A.</p>
+
+            <milestone unit="textregion" xml:id="p003_r_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_r_2_tl_1"/> </p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+            <p> 
+               <lb xml:id="p003_r_2_tl_1"/>deckte aber auch die Liebe zu Amerika, und Energie und 
+               <lb xml:id="p003_r_2_tl_2"/>Wille erwachten, die Uebel beim Namen zu nennen und sie 
+               <lb xml:id="p003_r_2_tl_3"/>zu bekämpfen.</p>
+            <p> 
+               <lb xml:id="p003_r_2_tl_4"/>Am meisten in Vergessenheit geraten waren die Süd 
+               <lb xml:id="p003_r_2_tl_5" break="no"/>staaten, die nach der schweren Niederlage im Bürgerkrieg 
+               <lb xml:id="p003_r_2_tl_6"/>oder "Sezessionskrieg" vom industriellen Norden überholt 
+               <lb xml:id="p003_r_2_tl_7"/>wurden und sich von den Folgen des Krieges nie ganz er 
+               <lb xml:id="p003_r_2_tl_8" break="no"/>holen konnten. 70 Jahre lang haben diese aristokratischen 
+               <lb xml:id="p003_r_2_tl_9"/>"Plantagenstaaten" in einem Zustand wirtschaftlicher und 
+               <lb xml:id="p003_r_2_tl_10"/>sozialer Stagnation verbracht. Trotz der Abschaffung der 
+               <lb xml:id="p003_r_2_tl_11"/>Sklaverei wurde die Plantage als Grundlage des wirtschaft 
+               <lb xml:id="p003_r_2_tl_12" break="no"/>lichen Lebens und der sozialen Ordnung beibehalten, – 
+               <lb xml:id="p003_r_2_tl_13"/>man ersetzte die Sklaven durch Pächter und Taglöhner, zu 
+               <lb xml:id="p003_r_2_tl_14"/>den Negern gesellte sich ein weißes "Baumwoll–Proleta 
+               <lb xml:id="p003_r_2_tl_15" break="no"/>riat", die Furcht vor der schwarzen Rasse brachte ein star 
+               <lb xml:id="p003_r_2_tl_16" break="no"/>res und undemokratisches Regierungssystem hervor, unter 
+               <lb xml:id="p003_r_2_tl_17"/>dessen demoralisierender Wirkung aber nicht nur die 
+               <lb xml:id="p003_r_2_tl_18"/>Neger, sondern auch die "Armen Weißen" zu leiden hatten. 
+               <lb xml:id="p003_r_2_tl_19"/>Erst die Krise hat dieses System ins Wanken gebracht. Die 
+               <lb xml:id="p003_r_2_tl_20"/>Baumwolle fand keinen Absatz mehr, – eine schwere 
+               <lb xml:id="p003_r_2_tl_21"/>Seuche, der "Boll weevil", suchte die Plantagen heim. Plan 
+               <lb xml:id="p003_r_2_tl_22" break="no"/>tagenbesitzer wurden ruiniert, die Pächter und Taglöhner 
+               <lb xml:id="p003_r_2_tl_23"/>wurden arbeitslos. Gleichzeitig setzte die Industrialisierung 
+               <lb xml:id="p003_r_2_tl_24"/>in den rückständigen, bisher fast ausschließlich agraren Süd 
+               <lb xml:id="p003_r_2_tl_25" break="no"/>staaten ein: angelockt von den niedrigen Löhnen und vom 
+               <lb xml:id="p003_r_2_tl_26"/>Fehlen einer organisierten Arbeiterbewegung begannen 
+               <lb xml:id="p003_r_2_tl_27"/>Unternehmer aus dem Norden, ihre Fabriken in den Süden, 
+               <lb xml:id="p003_r_2_tl_28"/>nach North Carolina, Georgia, Alabama, zu verlegen. 
+               <lb xml:id="p003_r_2_tl_29"/>Heute befinden sich die Südstaaten, die siebzig Jahre lang 
+               <lb xml:id="p003_r_2_tl_30"/>der langsamen Degeneration ihres Plantagensystems über 
+               <lb xml:id="p003_r_2_tl_31" break="no"/>lassen worden waren, im Prozeß einer zweifachen Umwäl 
+               <lb xml:id="p003_r_2_tl_32" break="no"/>zung: mit den Plantagen geht es zu Ende, übrig bleibt er 
+               <lb xml:id="p003_r_2_tl_33" break="no"/>schöpftes, von Erosion und Raubbau zerstörtes Land und 
+               <lb xml:id="p003_r_2_tl_34"/>eine an Abhängigkeit gewöhnte, unselbständige, unwissende 
+               <lb xml:id="p003_r_2_tl_35"/>durch schlechte Ernährung verseuchte Bevölkerung. In den 
+               <lb xml:id="p003_r_2_tl_36"/>neuen Industriezentren sammelt sich ein Proletariat, und 
+               <lb xml:id="p003_r_2_tl_37"/>hier vollzieht sich die zweite Umwälzung; denn mit dem 
+               <lb xml:id="p003_r_2_tl_38"/>Kapital aus dem Norden, welche in industriellen Unter 
+               <lb xml:id="p003_r_2_tl_39" break="no"/>nehmungen investiert wurde, kamen die Gewerkschafts– 
+               <lb xml:id="p003_r_2_tl_40"/>Organisatoren einer erfahrenen Arbeiterbewegung, und die 
+               <lb xml:id="p003_r_2_tl_41"/>neue Krise dieses Winters vollzog sich unter den Anzeichen 
+               <lb xml:id="p003_r_2_tl_42"/>des unvermeidlichen, plötzlich anhebenden Kampfes zwi
+               <milestone unit="textregion" xml:id="p003_r_3"/> 
+               <lb xml:id="p003_r_3_tl_1" break="no"/>schen dem bisher rücksichtslos ausgebeuteten, nun zum 
+               <lb xml:id="p003_r_3_tl_2"/>erstenmal von Gewerkschaften organisierten und unter 
+               <lb xml:id="p003_r_3_tl_3" break="no"/>stützten Proletariat und den Arbeitgebern, die, selbst 
+               <lb xml:id="p003_r_3_tl_4"/>von der Krise schwer betroffen, sich in der Hoffnung 
+               <lb xml:id="p003_r_3_tl_5"/>getäuscht sehen, in den rückständigen Südstaaten um die 
+               <lb xml:id="p003_r_3_tl_6"/>sozialen Forderungen der Arbeiterschaft herumzukom 
+               <lb xml:id="p003_r_3_tl_7" break="no"/>men. – Inzwischen versucht die amerikanische Regie 
+               <lb xml:id="p003_r_3_tl_8" break="no"/>rung, das besiegelte Ende der Plantage als Wirtschafts 
+               <lb xml:id="p003_r_3_tl_9" break="no"/>reform zu benützen, um das erschöpfte Land und seine 
+               <lb xml:id="p003_r_3_tl_10"/>verarmte Bevölkerung zu rehabilitieren: bisher lebte der 
+               <lb xml:id="p003_r_3_tl_11"/>Süden von der Baumwolle und war abhängig von der 
+               <lb xml:id="p003_r_3_tl_12"/>Ernte, vom Absatz, von den Preisen der Baumwollbörse. 
+               <lb xml:id="p003_r_3_tl_13"/>Jetzt versucht man, die Baumwolle durch Produkte für 
+               <lb xml:id="p003_r_3_tl_14"/>den eigenen Bedarf – Getreide, Kartoffeln, Obst, Ge
+               <milestone unit="textregion" xml:id="p003_r_4"/> 
+               <lb xml:id="p003_r_4_tl_1" break="no"/>müse – zu ersetzen. Einige Plantagen werden auf Fich 
+               <lb xml:id="p003_r_4_tl_2" break="no"/>tenholz, Peacan-Nüsse, Erdnüsse "umgestellt". Vor 
+               <lb xml:id="p003_r_4_tl_3"/>allem aber soll der "vergessene Mann des Südens", der 
+               <lb xml:id="p003_r_4_tl_4"/>Pächter, Sharecropper, Taglöhner der Baumwollfelder, 
+               <lb xml:id="p003_r_4_tl_5"/>als selbständiger Kleinbauer oder Mitglied bäuerlicher 
+               <lb xml:id="p003_r_4_tl_6"/>Kollektiv–Siedlungen jene Chance erhalten, die nach den 
+               <lb xml:id="p003_r_4_tl_7"/>Worten der Konstitution jedem amerikanischen Bürger 
+               <lb xml:id="p003_r_4_tl_8"/>zukommt: "Leben, Freiheit und das Streben nach Glück" 
+               <lb xml:id="p003_r_4_tl_9"/>(Life, Liberty and the Persue of Happiness). So soll aus 
+               <lb xml:id="p003_r_4_tl_10"/>dem Ende des feudalen Plantagensystems ein freier 
+               <lb xml:id="p003_r_4_tl_11"/>Bauernstand hervorgehen und in den so lange vernach 
+               <lb xml:id="p003_r_4_tl_12" break="no"/>lässigten, eben noch scheinbar unaufhaltsamer Degene 
+               <lb xml:id="p003_r_4_tl_13" break="no"/>ration preisgegebenen Südstaaten endlich ein demokra 
+               <lb xml:id="p003_r_4_tl_14" break="no"/>tisches, amerikanisches Ideal seinen Einzug halten.</p>
+
+            <milestone unit="textregion" xml:id="p003_r_5"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p003_l_7"/>Kinder einer Textilarbeiterin in North Carolina</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p003_r_6"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p003_r_6_tl_1"/>Kinder einer Textilarbeiterin in North Carolina. Das System des 
+               <lb xml:id="p003_r_6_tl_2"/>Fabrikdorfs gleicht aufs Haar dem Plantagensystem. Die Hütte, die 
+               <lb xml:id="p003_r_6_tl_3"/>von der Arbeiterin mit ihren 8 Kindern bewohnt wird, gehört dem 
+               <lb xml:id="p003_r_6_tl_4"/>Fabrikherrn. Ihm gehört auch der Laden, wo die Frau auf Kredit 
+               <lb xml:id="p003_r_6_tl_5"/>einkauft. Sie arbeitet seit 20 Jahren in der Baumwollspinnerei des 
+               <lb xml:id="p003_r_6_tl_6"/>Fabrikdorfs und verdient wöchentlich 5 ½ Dollar. Der Lohn wird 
+               <lb xml:id="p003_r_6_tl_7"/>ihr nicht bar ausbezahlt, sondern im Laden oder für die Abzahlung 
+               <lb xml:id="p003_r_6_tl_8"/>der Miete gutgeschrieben. Die Kinder gehen zur Schule – aber das 
+               <lb xml:id="p003_r_6_tl_9"/>älteste Mädchen, 14 Jahre alt, arbeitete bis zum Juli 1937 in 12stün 
+               <lb xml:id="p003_r_6_tl_10" break="no"/>diger Nachtschicht von 6 Uhr abends bis 6 Uhr morgens. Seither 
+               <lb xml:id="p003_r_6_tl_11"/>verbietet ein staatliches Arbeitsgesetz von North Carolina die Be 
+               <lb xml:id="p003_r_6_tl_12" break="no"/>schäftigung von Kindern unter 16 Jahren – als Resultat einer Ini 
+               <lb xml:id="p003_r_6_tl_13" break="no"/>tiative des "Comité für Industrie–Organisation" (C. J. O.), das in 
+               <lb xml:id="p003_r_6_tl_14"/>den Textilzentren des Südens die Gewerkschaften organisiert.</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p003_r_6_tl_15"/><hi rendition="#i">Quatre des huit enfants d' une ouvrière textile de la Caroline du Sud. 
+                  <lb xml:id="p003_r_6_tl_16"/>Le sort des ouvriers des villages industriels des Etats du Sud ne diffère 
+                  <lb xml:id="p003_r_6_tl_17"/>pas de celui des ouvriers agricoles. Comme eux, ils n' ont point possi 
+                  <lb xml:id="p003_r_6_tl_18" break="no"/>bilité de louer d' autres cabanes que celles qui appartiennent à l' entre 
+                  <lb xml:id="p003_r_6_tl_19" break="no"/>prise. Comme eux, ils sont obligés de s' approvisionner au magasin 
+                  <lb xml:id="p003_r_6_tl_20"/>tenu par le consortium des propriétaires. On leur fait crédit, mais le 
+                  <lb xml:id="p003_r_6_tl_21"/>montant de celui–ci est automatiquement rabattu de leur salaire. Sa 
+                  <lb xml:id="p003_r_6_tl_22" break="no"/>laire modique s' il en fut, la mère de ces enfants, employée depuis 20 
+                  <lb xml:id="p003_r_6_tl_23"/>ans dans une fabrique de textile ne touche que 5 ½ dollars par se 
+                  <lb xml:id="p003_r_6_tl_24" break="no"/>maine. Sa fille aînée, âgée de 14 ans, travaillait déjà ses 12 heures de 
+                  <lb xml:id="p003_r_6_tl_25"/>nuit quand le comité d' organisation de l' industrie (C. J. O.) obtint que 
+                  <lb xml:id="p003_r_6_tl_26"/>l' on engagea pas d' enfants au–dessous de 16 ans.</hi></p>
+
+            <milestone unit="textregion" xml:id="p003_r_18"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p003_l_28"/>Fabriksiedlung in Alabama</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p003_r_19"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p003_r_19_tl_1"/>So sieht eine neue Fabriksiedlung in Alabama aus! Nach Gadsden, 
+               <lb xml:id="p003_r_19_tl_2"/>Alabama, haben die "Goodyear"–Autoreifen–Werke ihre Fabriken 
+               <lb xml:id="p003_r_19_tl_3"/>verlegt. "Firestone" wollte dem Beispiel der Konkurrenzfirma fol 
+               <lb xml:id="p003_r_19_tl_4" break="no"/>gen, sah aber davon ab, nachdem 1937 die Arbeiter von Gadsden 
+               <lb xml:id="p003_r_19_tl_5"/>gegen die schlechten Existenzbedingungen protestierten und trotz 
+               <lb xml:id="p003_r_19_tl_6"/>gewaltiger Verfolgung durch die Privatpolizei (Company–police) der 
+               <lb xml:id="p003_r_19_tl_7"/>Fabrik sich der Textilarbeiter-Gewerkschaft des C. J. O. anschlossen.</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p003_r_19_tl_8"/><hi rendition="#i">Une cité ouvrière moderne!! Gadsden, dans l' Etat d' Alabama où sont 
+                  <lb xml:id="p003_r_19_tl_9"/>établies les usines des pneus "Good Year". Brimés, misérablement lo 
+                  <lb xml:id="p003_r_19_tl_10" break="no"/>gés, indignement–exploités, les ouvriers de ces usines ont protesté, il 
+                  <lb xml:id="p003_r_19_tl_11"/>sont entrés en conflits armés avec la police particulière de la fabrique. 
+                  <lb xml:id="p003_r_19_tl_12"/>Ils ont actuellement rallié le syndicat du C. J. O. pour obtenir de meil 
+                  <lb xml:id="p003_r_19_tl_13" break="no"/>leures conditions de vie et de travail.</hi></p>
+
+            <milestone unit="textregion" xml:id="p003_r_20"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p003_l_8"/>Schild in Feld</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p003_r_83"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p003_r_83_tl_1"/>Im Staate Georgia hat die Regierung Land angekauft, welches durch jahrhundertelange Bebauung mit Baumwolle erschöpft, und durch 
+               <lb xml:id="p003_r_83_tl_2"/>den Niedergang des Baumwollhandels entwertet war. Die ehemaligen Plantagenbesitzer hatten das Land großenteils brach liegen lassen. 
+               <lb xml:id="p003_r_83_tl_3"/>Die Regierung hat eine Anzahl brotloser "Sharecropper"–Familien hier angesiedelt und als "ländliches Kollektiv" organisiert. Nach 
+               <lb xml:id="p003_r_83_tl_4"/>nur zweijährigem Bestehen erhält sich heute die Siedlung selbst, ohne Zuschüsse vom Landwirtschafts–Departement, und erzeugt fast 
+               <lb xml:id="p003_r_83_tl_5"/>alle Produkte, die zum Leben notwendig sind: Mais, Kartoffeln, Obst, Gemüse, Milch, Eier etc.</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p003_r_83_tl_6"/><hi rendition="#i">Dans l' Etat de Géorgie, le gouvernement s' est rendu acquéreur des terrains laissés introductifs par les planteurs de cotons. Il 
+                  <lb xml:id="p003_r_83_tl_7"/>y a installé les "sharecropper" réduits au chômage et les a organisés en colonies agricoles. Deux ans plus tard – sans la moindre 
+                  <lb xml:id="p003_r_83_tl_8"/>subvention du Département de l' Agriculture – ces terrains produisent du mais, des pommes de terre, des fruits, et on y élève du 
+                  <lb xml:id="p003_r_83_tl_9"/>bétail et de la volaille.</hi></p>
+
+            <milestone unit="textregion" xml:id="p003_r_84"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p003_l_9"/>Mann vor Hühnerstall</head>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p003_r_85"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p003_r_85_tl_1"/>Wo es früher nur Baumwolle gab, und der Sharecropper 
+               <lb xml:id="p003_r_85_tl_2"/>seine dürftigen Nahrungsmittel im Laden des Plantagenherrn 
+               <lb xml:id="p003_r_85_tl_3"/>kaufen oder auf Kredit beziehen mußte, gibt es heute Felder, 
+               <lb xml:id="p003_r_85_tl_4"/>Gärten, Vieh, Hühner. Dieser Siedler der "Pine Mountain 
+               <lb xml:id="p003_r_85_tl_5"/>Valley Community" hat sich ganz der Hühnerzucht gewidmet.</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p003_r_85_tl_6"/>Où jadis poussait le coton, on trouve aujourd' hui des champs 
+               <lb xml:id="p003_r_85_tl_7"/>de pommes de terre, de maïs, on voit brouter du bétail. Le 
+               <lb xml:id="p003_r_85_tl_8"/>"sharecropper" esclave de fait s' il ne l' était plus en titre est 
+               <lb xml:id="p003_r_85_tl_9"/>actuellement un petit paysan, membre d' une des communautés 
+               <lb xml:id="p003_r_85_tl_10"/>agricoles organisées par le gouvernement. Il cultive ses champs, 
+               <lb xml:id="p003_r_85_tl_11"/>ses légumes ou ses fruits, il trait ses vaches ou comme celui que 
+               <lb xml:id="p003_r_85_tl_12"/>montre cette photo prise à "Pine Mountain Valley" se consacré 
+               <lb xml:id="p003_r_85_tl_13"/>à l' élevage des poules.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
