@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0613" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0613#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0613</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0613"> 
+               <persName/>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0613_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_010.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Der Rigi</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_2"/>Es gibt Leute, die den Rigi abtun und als veraltet 
+               <lb xml:id="p001_tr_1_tl_3"/>bezeichnen möchten, sie sind damit sehr im Irrtum, 
+               <lb xml:id="p001_tr_1_tl_4"/>seine Popularität nimmt wieder zu. Allerdings ist 
+               <lb xml:id="p001_tr_1_tl_5"/>das eine sehr alte, eine ehrwürdige Popularität, sie 
+               <lb xml:id="p001_tr_1_tl_6"/>hat historischen Charakter. Es wird behauptet, der 
+               <lb xml:id="p001_tr_1_tl_7"/>Rigi werde seit 500 Jahren als Sommerkurort auf- 
+               <lb xml:id="p001_tr_1_tl_8"/>gesucht, Tatsache ist, daß auf dem Kulm seit 1816 
+               <lb xml:id="p001_tr_1_tl_9"/>ein Gasthaus steht. Aber den Höhepunkt seiner Be 
+               <lb xml:id="p001_tr_1_tl_10" break="no"/>rühmtheit erreichte der Rigi erst, als um 1870 die 
+               <lb xml:id="p001_tr_1_tl_11"/>beiden Zahnradbahnen gebaut wurden. Er galt jetzt 
+               <lb xml:id="p001_tr_1_tl_12"/>einfach als der Inbegriff schweizerischer Natur 
+               <lb xml:id="p001_tr_1_tl_13" break="no"/>schönheit, wer möchte das entscheiden! – In den 
+               <lb xml:id="p001_tr_1_tl_14"/>letzten Jahren glaubten die Leute nicht mehr daran, 
+               <lb xml:id="p001_tr_1_tl_15"/>man bevorzugte höher gelegene Orte und wollte 
+               <lb xml:id="p001_tr_1_tl_16"/>Hochtouren machen. Es schien, als werde der Rigi 
+               <lb xml:id="p001_tr_1_tl_17"/>ein Aufenthalt für stille, unsportliche Leute gesetzten 
+               <lb xml:id="p001_tr_1_tl_18"/>Alters und daneben höchstens ein Kuriosum für 
+               <lb xml:id="p001_tr_1_tl_19"/>Sonntagsausflügler. Aber unseren Tagen blieb es 
+               <lb xml:id="p001_tr_1_tl_20"/>vorbehalten, die Moden unserer Großmütter und den 
+               <lb xml:id="p001_tr_1_tl_21"/>alten Reiz des Rigi wieder zu entdecken. Immerhin, 
+               <lb xml:id="p001_tr_1_tl_22"/>eine lohnende Entdeckung!</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_23"/>Man kann heute wieder pietätvoll auf den Kulm 
+               <lb xml:id="p001_tr_1_tl_24"/>zum Sonnenaufgang pilgern wie weiland Tartarin, 
+               <lb xml:id="p001_tr_1_tl_25"/>man darf wieder zum Känzeli promenieren, um die 
+               <lb xml:id="p001_tr_1_tl_26"/>schlechthin unvergleichliche Aussicht über Alpen</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_011.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p> 
+               <lb xml:id="p002_tr_1_tl_3"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+und Vierwaldstättersee zu genießen, aber das ist 
+               <lb xml:id="p002_tr_1_tl_4"/>nicht alles: auch das moderne Leben, auch der Sport 
+               <lb xml:id="p002_tr_1_tl_5"/>hat vom Rigi Besitz ergriffen. Tennisplätze fanden 
+               <lb xml:id="p002_tr_1_tl_6"/>sich schon lange, jetzt wird der Wintersport aller 
+               <lb xml:id="p002_tr_1_tl_7" break="no"/>orts betrieben. Immer mehr Hotels öffnen sich für 
+               <lb xml:id="p002_tr_1_tl_8"/>den Winterbetrieb, das Hotel Rigifirst hat aber die 
+               <lb xml:id="p002_tr_1_tl_9"/>Führung übernommen, es wurde 1929 umgebaut 
+               <lb xml:id="p002_tr_1_tl_10"/>und genügt den verwöhntesten Ansprüchen. Seine 
+               <lb xml:id="p002_tr_1_tl_11"/>Programme versprechen viel und halten es auch, das 
+               <lb xml:id="p002_tr_1_tl_12"/>Skigebiet des Rigi ist gut, nur für große Touren 
+               <lb xml:id="p002_tr_1_tl_13"/>bietet sich natürlich keine Gelegenheit. Eine Bob 
+               <lb xml:id="p002_tr_1_tl_14" break="no"/>bahn ist von Rigistaffel nach Kaltbad angelegt, auch 
+               <lb xml:id="p002_tr_1_tl_15"/>die Eisplätze sind genau, wie sie sein müssen.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_16"/>Man gelangt so leicht auf den Rigi, das ist einer 
+               <lb xml:id="p002_tr_1_tl_17"/>seiner Vorzüge. Wer von Zürich kommt, benutzt 
+               <lb xml:id="p002_tr_1_tl_18"/>die elektrische Zahnradbahn von Arth–Goldau nach 
+               <lb xml:id="p002_tr_1_tl_19"/>Rigi–Kulm, das ist auch gewissermaßen die tra 
+               <lb xml:id="p002_tr_1_tl_20" break="no"/>ditionellere Linie. Das Bähnlein, merkwürdig schief 
+               <lb xml:id="p002_tr_1_tl_21"/>gestellt und einem Spielzeug nicht unähnlich, rat 
+               <lb xml:id="p002_tr_1_tl_22" break="no"/>tert ernsthaft durch grüne Wiesen aufwärts, die 
+               <lb xml:id="p002_tr_1_tl_23"/>Aussicht auf Zugersee, Mythen und Roßberg und 
+               <lb xml:id="p002_tr_1_tl_24"/>Lowerzersee läßt man hinter sich, jetzt kommen röt 
+               <lb xml:id="p002_tr_1_tl_25" break="no"/>liche Nagelfluhwände, Schluchten, Bäche und kurz 
+               <lb xml:id="p002_tr_1_tl_26" break="no"/>grasig-rauhe Alpmatten. Bis zur Station Rigi-Klö 
+               <lb xml:id="p002_tr_1_tl_27" break="no"/>sterli fährt manchmal ein katholischer Geistlicher 
+               <lb xml:id="p002_tr_1_tl_28"/>oder ein Kapuzinermönch mit, die Bauern haben 
+               <lb xml:id="p002_tr_1_tl_29"/>schwarzlockige Haare und tragen Ohrringe, der 
+               <lb xml:id="p002_tr_1_tl_30"/>Typus des Touristen mit Rucksack und Nagel 
+               <lb xml:id="p002_tr_1_tl_31" break="no"/>schuhen (welche man leicht entbehren kann), ist</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_012.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p> 
+               <lb xml:id="p003_tr_1_tl_2"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+zahlreich vertreten. In der zweiten Klasse sitzen 
+               <lb xml:id="p003_tr_1_tl_3"/>einige ältere Damen mit Handköfferchen, sie wollen 
+               <lb xml:id="p003_tr_1_tl_4"/>für einige Wochen in die Sommerfrische und sind 
+               <lb xml:id="p003_tr_1_tl_5"/>gern ungestört. <hi rendition="#g">Klösterli</hi> trägt seinen Namen zu 
+               <lb xml:id="p003_tr_1_tl_6"/>Recht, denn in dieser windgeschützten Mulde stand 
+               <lb xml:id="p003_tr_1_tl_7"/>seit alters her ein Kapuzinerhospiz und seit 1689 die 
+               <lb xml:id="p003_tr_1_tl_8"/>Wallfahrtskapelle, in der Sonntags die Messe ge 
+               <lb xml:id="p003_tr_1_tl_9" break="no"/>lesen wird. Sie hängt voller Votivgaben dankbarer 
+               <lb xml:id="p003_tr_1_tl_10"/>Bittsteller und heißt hübscherweise "Maria zum 
+               <lb xml:id="p003_tr_1_tl_11"/>Schnee" . Die Gasthöfe und Hotels im Klösterli 
+               <lb xml:id="p003_tr_1_tl_12"/>(Sonne, Schwert, Krone und, ein wenig höher ge 
+               <lb xml:id="p003_tr_1_tl_13" break="no"/>legen, des Alpes) sind alle sehr angenehm und nicht 
+               <lb xml:id="p003_tr_1_tl_14"/>zu teuer, im "Schwert" hat Goethe auf seiner ersten 
+               <lb xml:id="p003_tr_1_tl_15"/>Schweizerreise im Juni 1775 zwei Tage lang logiert, 
+               <lb xml:id="p003_tr_1_tl_16"/>damals hieß es aber "Gasthof zum Ochsen".</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_17"/>In der Station Wölfertschen-First steigt aus, wer 
+               <lb xml:id="p003_tr_1_tl_18"/>nach Rigi-First gehen will. Auf Rigi-Staffel treffen 
+               <lb xml:id="p003_tr_1_tl_19"/>sich die beiden Bahnen und führen nebeneinander 
+               <lb xml:id="p003_tr_1_tl_20"/>bis zum Kulm.</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_21"/>Aussichtspunkte sind nicht jedermanns Sache, es 
+               <lb xml:id="p003_tr_1_tl_22"/>gibt Leute, die die ausgebreitete Größe der Welt 
+               <lb xml:id="p003_tr_1_tl_23"/>erschreckt. Hier steht man wirklich wie in ihrer 
+               <lb xml:id="p003_tr_1_tl_24"/>Mitte, auf der einen Seite öffnet sich der Blick über 
+               <lb xml:id="p003_tr_1_tl_25"/>das schweizerische Mittelland bis Jura, Vogesen und 
+               <lb xml:id="p003_tr_1_tl_26"/>Schwarzwald, auf der anderen Seite bis zu den be 
+               <lb xml:id="p003_tr_1_tl_27" break="no"/>rühmten Gipfeln der Berneralpen, die im Herbst 
+               <lb xml:id="p003_tr_1_tl_28"/>und bei klaren Wintertagen phantastisch aus dem 
+               <lb xml:id="p003_tr_1_tl_29"/>wogenden Nebelmeer auftauchen.</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_30"/>Die drei Hotels auf dem Kulm haben ein ehr¬</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_013.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p004_r"/>            <p> 
+               <lb xml:id="p004_l" break="no"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+würdig verwittertes Aussehen. Eines davon ist neu 
+               <lb xml:id="p004_l_1"/>und gut eingerichtet, die beiden anderen sind De 
+               <lb xml:id="p004_l_2" break="no"/>pendancen davon. Sie liegen ein wenig kahl, aber 
+               <lb xml:id="p004_l_3"/>geschützt, so recht in Bergeshöhen. Man ist hier 
+               <lb xml:id="p004_l_4"/>nur noch fünfzig Meter tiefer als in St. Moritz.</p>
+
+            <milestone unit="textregion" xml:id="p004_r_2"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p004_l_15"/>Zeichnung von einem Gitarrenspieler und Ausflüglern auf dem Rigi von Tomamichl</head>
+            </figure>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p004_l_16"/>Rigi</p>
+
+            <milestone unit="textregion" xml:id="p004_r_3"/>            <p> 
+               <lb xml:id="p004_l_17"/>Das Bähnchen von Vitznau her hat auch seine 
+               <lb xml:id="p004_l_18"/>Reize, es ist streckenweis sehr steil angelegt und hat 
+               <lb xml:id="p004_l_19"/>den Vorzug, die erste Zahnradbahn Europas zu 
+               <lb xml:id="p004_l_20"/>sein. Der fremdklingende Name der Station Ro 
+               <lb xml:id="p004_l_21" break="no"/>miti-Felsentor regt zu linguistischen Studien an und 
+               <lb xml:id="p004_l_22"/>spricht, wie etwa der des schwyzerischen Muota 
+               <lb xml:id="p004_l_23" break="no"/>tales, für die frühere Ausdehnung des rätischen</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p005" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_014.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p005_tr_1"/>            <p> 
+               <lb xml:id="p005_tr_1_tl_2"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+Sprachgebietes. In Kaltbad zweigt ein Bähnlein mit 
+               <lb xml:id="p005_tr_1_tl_3"/>altertümlicher Dampflokomotive nach Rigi-Schei 
+               <lb xml:id="p005_tr_1_tl_4" break="no"/>degg ab, die Hauptbahn fährt über Staffel zum 
+               <lb xml:id="p005_tr_1_tl_5"/>Kulm empor. Die Lokomotive des Scheideggbähn 
+               <lb xml:id="p005_tr_1_tl_6" break="no"/>chens fährt übrigens meistens rückwärts oder stößt 
+               <lb xml:id="p005_tr_1_tl_7"/>den Wagen in eigentümlicher Weise vor sich her, 
+               <lb xml:id="p005_tr_1_tl_8"/>was seinen Reiz und seine Zuverlässigkeit nicht be 
+               <lb xml:id="p005_tr_1_tl_9" break="no"/>einträchtigt.</p>
+            <p> 
+               <lb xml:id="p005_tr_1_tl_10"/>Aber genug von den Rigibahnen, noch vielseitiger, 
+               <lb xml:id="p005_tr_1_tl_11"/>gesünder und berühmter sind zweifellos die Spazier- 
+               <lb xml:id="p005_tr_1_tl_12"/>gänge. Jede Station des Rigi hat ihren klassischen 
+               <lb xml:id="p005_tr_1_tl_13"/>Spaziergang, der First etwa seinen Felsenweg, die 
+               <lb xml:id="p005_tr_1_tl_14"/>Scheidegg ihren Dossen. Wer im Kurhaus Schei 
+               <lb xml:id="p005_tr_1_tl_15" break="no"/>degg wohnt – was althergebracht und angenehm 
+               <lb xml:id="p005_tr_1_tl_16"/>ist –, kann auf dem Dossen Alpenrosen in präch- 
+               <lb xml:id="p005_tr_1_tl_17"/>tigsten Exemplaren pflücken.</p>
+            <p> 
+               <lb xml:id="p005_tr_1_tl_18"/>Die Spaziergänge auf dem Rigi sind unerschöpf 
+               <lb xml:id="p005_tr_1_tl_19" break="no"/>lich, es ist kaum möglich, sie alle aufzuzählen. Dabei 
+               <lb xml:id="p005_tr_1_tl_20"/>haben sie einen ganz besonderen Reiz, den Reiz des 
+               <lb xml:id="p005_tr_1_tl_21"/>Soliden, Beruhigenden und Begrenzten, man weiß 
+               <lb xml:id="p005_tr_1_tl_22"/>immer, daß der Rigi ein Massiv, ein selbständiger 
+               <lb xml:id="p005_tr_1_tl_23"/>Block ist, man kann sich nicht ins Grenzenlose ver 
+               <lb xml:id="p005_tr_1_tl_24" break="no"/>irren, man ist kein kleiner verlorener Punkt in 
+               <lb xml:id="p005_tr_1_tl_25" break="no"/>mitten einer allzu großen Landschaft. Immer ge 
+               <lb xml:id="p005_tr_1_tl_26" break="no"/>lingt es, sich ohne Mühe an den Seen und vertrauten 
+               <lb xml:id="p005_tr_1_tl_27"/>Gipfeln ringsum zu orientieren, die Wege sind säu 
+               <lb xml:id="p005_tr_1_tl_28" break="no"/>berlich bezeichnet, das Ganze ist sozusagen ein Ge 
+               <lb xml:id="p005_tr_1_tl_29" break="no"/>birgsgarten, in dem sich das Liebliche mit dem 
+               <lb xml:id="p005_tr_1_tl_30"/>Großartigen angenehm mischt. Einzig an der Rigi¬</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p006" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_015.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p006_tr_1"/>            <p> 
+               <lb xml:id="p006_tr_1_tl_3" break="no"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+<hi rendition="#g"> 
+                  <lb xml:id="p006_tr_1_tl_3" break="no"/>Hochfluh</hi> können sich zukünftige Alpinisten üben, 
+               <lb xml:id="p006_tr_1_tl_4"/>von der Scheidegg aus geht man auf schmalem 
+               <lb xml:id="p006_tr_1_tl_5"/>Kamm zum Scharteggli, und endlich steigt man auf 
+               <lb xml:id="p006_tr_1_tl_6"/>einer soliden Leiter 25 Meter hoch durch den Nord 
+               <lb xml:id="p006_tr_1_tl_7" break="no"/>kamin auf den Hochfluhgipfel hinauf ... Rotstock 
+               <lb xml:id="p006_tr_1_tl_8"/>und Schild sind dagegen wieder friedliche Spazier 
+               <lb xml:id="p006_tr_1_tl_9" break="no"/>gänge.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
