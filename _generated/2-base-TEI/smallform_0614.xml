@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0614" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0614#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0614</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0614"> 
+               <persName/>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0614_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_016.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Die Mythen und der Flecken Schwyz</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_2"/>Schwyz wird von Fremden nicht sehr besucht, es 
+               <lb xml:id="p001_tr_1_tl_3"/>würde doch mehr Aufmerksamkeit verdienen. Es 
+               <lb xml:id="p001_tr_1_tl_4"/>gab der alten Eidgenossenschaft seinen Namen und 
+               <lb xml:id="p001_tr_1_tl_5"/>einen großen Teil seines Ruhms, noch heute trägt 
+               <lb xml:id="p001_tr_1_tl_6"/>es das Kreuz der Reichsfreiheit in seinem Kantons 
+               <lb xml:id="p001_tr_1_tl_7" break="no"/>wappen. Weltabgelegen ist es durchaus nicht, die 
+               <lb xml:id="p001_tr_1_tl_8"/>Bahnstation <hi rendition="#g">Seewen</hi> liegt an der Gotthardlinie, 
+               <lb xml:id="p001_tr_1_tl_9"/>Autostraßen sind vorhanden, die eine über Arth– 
+               <lb xml:id="p001_tr_1_tl_10"/>Goldau, die andere, kleinere, landschaftlich sehr 
+               <lb xml:id="p001_tr_1_tl_11"/>reizvolle über Sattel.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_12"/>Die Gasthöfe – davon besonders das Rößli – 
+               <lb xml:id="p001_tr_1_tl_13"/>sind von guter alter Art, preiswert, behaglich und 
+               <lb xml:id="p001_tr_1_tl_14"/>solid geführt. Die Konditorei Haug, der Post schräg 
+               <lb xml:id="p001_tr_1_tl_15"/>gegenüber, sei besonders empfohlen, man trinkt dort 
+               <lb xml:id="p001_tr_1_tl_16"/>ausgezeichnete Schokolade.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_17"/>In Schwyz ist besonders für den Geschichtsfreudi 
+               <lb xml:id="p001_tr_1_tl_18" break="no"/>gen viel Bedeutsames zu sehen. Das Rathaus wurde 
+               <lb xml:id="p001_tr_1_tl_19"/>in den neunziger Jahren außen sehr bunt bemalt, 
+               <lb xml:id="p001_tr_1_tl_20"/>das soll niemanden abhalten hineinzugehen und die 
+               <lb xml:id="p001_tr_1_tl_21"/>Bildnisse der Schwyzer Landammänner im großen 
+               <lb xml:id="p001_tr_1_tl_22"/>Saal zu bewundern. Es sind verehrungswürdige Män 
+               <lb xml:id="p001_tr_1_tl_23" break="no"/>ner, Tüchtigkeit und Beständigkeit spricht aus ihren 
+               <lb xml:id="p001_tr_1_tl_24"/>Zügen. Der Name der Familie von Reding kehrt 
+               <lb xml:id="p001_tr_1_tl_25"/>so häufig wieder, daß man in der alten schweize 
+               <lb xml:id="p001_tr_1_tl_26" break="no"/>rischen Demokratie einen aristokratischen Einschlag</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_017.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p> 
+               <lb xml:id="p002_tr_1_tl_3"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+vermuten kann: sie trug tatsächlich nicht wenig von 
+               <lb xml:id="p002_tr_1_tl_4"/>aristokratischem Wesen in sich, schon bei ihrer 
+               <lb xml:id="p002_tr_1_tl_5"/>Entstehung haben die Urner Freiherren von Atting 
+               <lb xml:id="p002_tr_1_tl_6" break="no"/>husen eine beträchtliche Rolle gespielt, das ist durch 
+               <lb xml:id="p002_tr_1_tl_7"/>ernste Forschung erwiesen. Ja, diese Bundesgrün 
+               <lb xml:id="p002_tr_1_tl_8" break="no"/>dung des Jahres 1291! Mit ihr beginnt die Schwei 
+               <lb xml:id="p002_tr_1_tl_9" break="no"/>zerische Geschichte, ihr gilt das Nationalfest, an 
+               <lb xml:id="p002_tr_1_tl_10"/>den Jahrestag der Befreiung vom habsburgischen 
+               <lb xml:id="p002_tr_1_tl_11"/>Joch gemahnen die nächtlichen Höhenfeuer vom 
+               <lb xml:id="p002_tr_1_tl_12"/>1. August. Und, was hier das Wichtigste ist, der 
+               <lb xml:id="p002_tr_1_tl_13"/>Bundesbrief der Männer von Uri, Schwyz und Unter 
+               <lb xml:id="p002_tr_1_tl_14" break="no"/>walden, dieses ehrwürdige Dokument, in lateinischer 
+               <lb xml:id="p002_tr_1_tl_15"/>Sprache abgefaßt, befindet sich im Archiv des 
+               <lb xml:id="p002_tr_1_tl_16"/>Schwyzer Rathauses. Das ist keine bedeutungslose 
+               <lb xml:id="p002_tr_1_tl_17"/>Urkunde, kein einfaches Stück Pergament – sol 
+               <lb xml:id="p002_tr_1_tl_18" break="no"/>chen Gegenständen haftet mehr als Erinnerung an, 
+               <lb xml:id="p002_tr_1_tl_19"/>sie sind Zeugnisse höherer Art, sie haben beinahe 
+               <lb xml:id="p002_tr_1_tl_20"/>Symbolkraft erlangt.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_21"/>Aber es sind nicht alle Leute Historiker, und für 
+               <lb xml:id="p002_tr_1_tl_22"/>andere sei gleich etwas über die lohnende Umgebung 
+               <lb xml:id="p002_tr_1_tl_23"/>von Schwyz ausgesagt.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_24"/>Die <hi rendition="#g">Mythen</hi> drängen sich zuvorderst auf. Es 
+               <lb xml:id="p002_tr_1_tl_25"/>geht die Sage, daß Riesen sie einst mit gewaltiger 
+               <lb xml:id="p002_tr_1_tl_26"/>Faust ins Land geschleudert hätten, da liegen sie 
+               <lb xml:id="p002_tr_1_tl_27"/>nun, einsam und merkwürdig wie erratische Blöcke 
+               <lb xml:id="p002_tr_1_tl_28"/>und sind das Wahrzeichen der Gegend.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_29"/>Der Kleine Mythen ist zweihöckrig wie ein Kamel 
+               <lb xml:id="p002_tr_1_tl_30"/>und recht gefährlich, dafür ladet der Große Mythen 
+               <lb xml:id="p002_tr_1_tl_31"/>zu friedfertiger Besteigung ein. Man braucht dazu</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_018.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p003_tr_2"/>            <p> 
+               <lb xml:id="p003_tr_2_tl_2"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+gute vier Stunden, doch achte man auf den Spruch: 
+               <lb xml:id="p003_tr_2_tl_3"/>Hat der Mythen einen Hut [Verszeile] 
+               <lb xml:id="p003_tr_2_tl_4"/>dann wird das Wetter gut –[Verszeile] 
+               <lb xml:id="p003_tr_2_tl_5"/>und auf eine Schweizerfahne, die bei günstigen 
+               <lb xml:id="p003_tr_2_tl_6"/>Konditionen auf dem Gipfel weht. Die Besteigung 
+               <lb xml:id="p003_tr_2_tl_7"/>ist nicht zu mühsam, auf der Holzegg kann man 
+               <lb xml:id="p003_tr_2_tl_8"/>sich dazwischen erquicken. Die Endung Egg ist in 
+               <lb xml:id="p003_tr_2_tl_9"/>der Gegend häufig, es gibt eine Mostelegg und eine 
+               <lb xml:id="p003_tr_2_tl_10"/>Haggenegg, die wiederum wichtig ist. In einer win 
+               <lb xml:id="p003_tr_2_tl_11" break="no"/>zigen Kapelle stand nämlich seit langer Zeit eine 
+               <lb xml:id="p003_tr_2_tl_12"/>schwarze Holzmadonna, von der Eingeweihte und 
+               <lb xml:id="p003_tr_2_tl_13"/>Ortsansässige behaupten, daß sie die schwarze Mutter 
+               <lb xml:id="p003_tr_2_tl_14"/>Gottes von Einsiedeln sei, in Kriegsnot habe man sie 
+               <lb xml:id="p003_tr_2_tl_15"/>vor den Franzosen da hinauf geflüchtet. Die Ein 
+               <lb xml:id="p003_tr_2_tl_16" break="no"/>siedler glauben ohne Zweifel, die ihre wieder zu 
+               <lb xml:id="p003_tr_2_tl_17"/>haben. Andere aber meinen, daß vielmehr diejenige 
+               <lb xml:id="p003_tr_2_tl_18"/>auf dem Haggen die wahre und berühmte Mutter 
+               <lb xml:id="p003_tr_2_tl_19"/>Gottes sein müsse. Sei dem wie es wolle, sie ist 
+               <lb xml:id="p003_tr_2_tl_20"/>sicher wundertätig, unzählige Votivtäfelchen be 
+               <lb xml:id="p003_tr_2_tl_21" break="no"/>weisen es, und vor wenigen Jahren wurde ihr des 
+               <lb xml:id="p003_tr_2_tl_22" break="no"/>halb ein neues stattliches Kirchlein erstellt. Das 
+               <lb xml:id="p003_tr_2_tl_23"/>Wirtshaus Haggenegg ist besonders den Skifahrern 
+               <lb xml:id="p003_tr_2_tl_24"/>angenehm, im Winter herrscht Sonntags auf dem 
+               <lb xml:id="p003_tr_2_tl_25"/>nahen Hochstuckli chronische Übervölkerung, an 
+               <lb xml:id="p003_tr_2_tl_26"/>Werktagen kann es aber seine Vorzüge als Skigebiet 
+               <lb xml:id="p003_tr_2_tl_27"/>zeigen. Die Schwyzerberge sind natürlich besonders 
+               <lb xml:id="p003_tr_2_tl_28"/>von Weekendausflüglern Sommers und Winters be 
+               <lb xml:id="p003_tr_2_tl_29" break="no"/>vorzugt: Ober-Iberg am Roggenstock, das Skihaus 
+               <lb xml:id="p003_tr_2_tl_30"/>Ibergegg am Südhang des Bummelistocks, 1425</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_019.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>            <p> 
+               <lb xml:id="p004_tr_1_tl_2"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+Meter hoch, der Gottschalkenberg, von der Bahn 
+               <lb xml:id="p004_tr_1_tl_3" break="no"/>station Biberbrücke aus erreichbar, Hoch-Etzel und 
+               <lb xml:id="p004_tr_1_tl_4"/>Schönboden (von Einsiedeln und Schindellegi aus), 
+               <lb xml:id="p004_tr_1_tl_5"/>alle etwas über 1100 Meter hoch und vorzügliche Ski 
+               <lb xml:id="p004_tr_1_tl_6" break="no"/>gelände. Aber am berühmtesten, und das zu Recht, 
+               <lb xml:id="p004_tr_1_tl_7"/>bleibt doch das Hochstuckli. Auch im Sommer wird 
+               <lb xml:id="p004_tr_1_tl_8"/>es viel bestiegen, sei es von Sattel oder von Schwyz 
+               <lb xml:id="p004_tr_1_tl_9"/>aus. Bis Haggenegg gibt es eine ordentliche Straße, 
+               <lb xml:id="p004_tr_1_tl_10"/>für Automobile möglich, wenn auch nicht zu an 
+               <lb xml:id="p004_tr_1_tl_11" break="no"/>genehm.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
