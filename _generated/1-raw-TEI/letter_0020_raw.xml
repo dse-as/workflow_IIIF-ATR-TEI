@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0020"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0020</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0020_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0020_001"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587694-BCUL-PREVIEW-426372_0001.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0020_001_tr_1"/>
+            <lb xml:id="letter_0020_001_tr_1_tl_2"/>Schwesternhaus Rotes Kreuz
+<lb xml:id="letter_0020_001_tr_1_tl_3"/>2. Sept. 33.
+<lb xml:id="letter_0020_001_tr_1_tl_5"/>Mon petit Claude - 
+<lb xml:id="letter_0020_001_tr_1_tl_6"/>me voilà dans une de ces chambres où tu
+<lb xml:id="letter_0020_001_tr_1_tl_7"/>et venu me voir, il y a bien longtemps.
+<lb xml:id="letter_0020_001_tr_1_tl_8"/>Quelle diable opération, cette histoire de
+<lb xml:id="letter_0020_001_tr_1_tl_9"/>glandes! 50 minutes, beaucoup de sang
+<lb xml:id="letter_0020_001_tr_1_tl_12"/>[credie], beaucoup de douleurs, presque
+<lb xml:id="letter_0020_001_tr_1_tl_13"/>trop - encore fièvre, presque rien manger,
+<lb xml:id="letter_0020_001_tr_1_tl_14"/>faible - 
+<lb xml:id="letter_0020_001_tr_1_tl_15"/>J'étais fort contente qu' Erika était
+<lb xml:id="letter_0020_001_tr_1_tl_16"/>là. Tellement bien pour moi.<milestone unit="textregion" xml:id="letter_0020_001_tr_2"/>
+            <lb xml:id="letter_0020_001_tr_2_tl_1"/>Mais quand'même, quand même.
+<lb xml:id="letter_0020_001_tr_2_tl_2"/>J’avais, jusqu’ aujourd’hui, chaque nuit
+<lb xml:id="letter_0020_001_tr_2_tl_3"/>une injection. Pas ce soir, et me
+<lb xml:id="letter_0020_001_tr_2_tl_4"/>voilà à bout de courage.
+<lb xml:id="letter_0020_001_tr_2_tl_5"/>Mais il ne faut pas te dire cela.
+<lb xml:id="letter_0020_001_tr_2_tl_6"/>Et toi, mon cher petit - que fais-tu - 
+<lb xml:id="letter_0020_001_tr_2_tl_7"/>Comment va ta mère. Ecris-moi, je
+<lb xml:id="letter_0020_001_tr_2_tl_8"/>serai 8 jours à RONCO - ASCONA, chez
+<lb xml:id="letter_0020_001_tr_2_tl_9"/>Mme de Rechenberg. Si on me permet d' y
+<lb xml:id="letter_0020_001_tr_2_tl_10"/>aller. Mais c'est si près. Je t'embrasse,
+<lb xml:id="letter_0020_001_tr_2_tl_11"/>petit Claude. Annemarie<milestone unit="textregion" xml:id="letter_0020_001_r_174"/>
+            <lb xml:id="letter_0020_001_l"/>Je vois bien que je ne pourrais pas venir à L. G. 
+<lb xml:id="letter_0020_001_l_187"/>- trop peu de temps. Il faut encore Geld beschaffen, 
+<lb xml:id="letter_0020_001_l_194"/>Verträge schliessen, Impfen - Et tout le monde est 
+<lb xml:id="letter_0020_001_l_201"/>si lentement!<pb xml:id="letter_0020_002"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587694-BCUL-PREVIEW-426372_0002.jpg/info.json"/>
+            <pb xml:id="letter_0020_003"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587694-BCUL-PREVIEW-426372_0003.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0020_003_tr_1"/>
+            <lb xml:id="letter_0020_003_tr_1_tl_3"/>Monsieur Claude Bourdet
+<lb xml:id="letter_0020_003_tr_1_tl_4"/>La Graulet
+<lb xml:id="letter_0020_003_tr_1_tl_5"/>Bergerac
+<lb xml:id="letter_0020_003_tr_1_tl_6"/>Gascogne - Frankreich [Stempel Zürich 4.9.1933]<pb xml:id="letter_0020_004"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587694-BCUL-PREVIEW-426372_0004.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0020_004_tr_1"/>
+            <lb xml:id="letter_0020_004_tr_1_tl_1"/>1712ve
+<lb xml:id="letter_0020_004_tr_1_tl_2"/>1724
+<lb xml:id="letter_0020_004_tr_1_tl_3"/>sur lui se
+<lb xml:id="letter_0020_004_tr_1_tl_4"/>[Stempel: Bergerac 5.9.1933]<pb xml:id="letter_0020_005"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587694-BCUL-PREVIEW-426372_0005.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0020_005_tr_1"/>
+            <lb xml:id="letter_0020_005_tr_1_tl_1"/>0
+<lb xml:id="letter_0020_005_tr_1_tl_2"/>id
+<lb xml:id="letter_0020_005_tr_1_tl_3"/>4
+<lb xml:id="letter_0020_005_tr_1_tl_4"/>Schwesternhaus Roten Kreuz
+<lb xml:id="letter_0020_005_tr_1_tl_5"/>2. Sept. 33.
+<lb xml:id="letter_0020_005_tr_1_tl_6"/>til
+<lb xml:id="letter_0020_005_tr_1_tl_7"/>claude.
+<lb xml:id="letter_0020_005_tr_1_tl_8"/>la
+<lb xml:id="letter_0020_005_tr_1_tl_9"/>CLÄSSIC
+<lb xml:id="letter_0020_005_tr_1_tl_10"/>ambass où très
+<lb xml:id="letter_0020_005_tr_1_tl_11"/>des longtemps
+<lb xml:id="letter_0020_005_tr_1_tl_12"/>dial
+<lb xml:id="letter_0020_005_tr_1_tl_13"/>cedistoirs de
+<lb xml:id="letter_0020_005_tr_1_tl_14"/>1/3 -
+<lb xml:id="letter_0020_005_tr_1_tl_15"/>oup de sang
+<lb xml:id="letter_0020_005_tr_1_tl_16"/>leurs, presque
+<lb xml:id="letter_0020_005_tr_1_tl_17"/>rien manger
+<lb xml:id="letter_0020_005_tr_1_tl_18"/>encore
+<lb xml:id="letter_0020_005_tr_1_tl_19"/>En ha était
+<lb xml:id="letter_0020_005_tr_1_tl_20"/>Till
+<lb xml:id="letter_0020_005_tr_1_tl_21"/>r moi.
+<lb xml:id="letter_0020_005_tr_1_tl_22"/>même.
+<lb xml:id="letter_0020_005_tr_1_tl_23"/>qui
+<lb xml:id="letter_0020_005_tr_1_tl_24"/>, d est un vieil
+<lb xml:id="letter_0020_005_tr_1_tl_25"/>ein
+<lb xml:id="letter_0020_005_tr_1_tl_26"/>in j'y'e dit"
+<lb xml:id="letter_0020_005_tr_1_tl_27"/>et ux
+<lb xml:id="letter_0020_005_tr_1_tl_28"/>à à bout de courage.
+<lb xml:id="letter_0020_005_tr_1_tl_29"/>il ne faut pas te din cela.
+<lb xml:id="letter_0020_005_tr_1_tl_30"/>si, mon cher petit-que fois-tu
+<lb xml:id="letter_0020_005_tr_1_tl_31"/>nent va ta mère, devis-moi, f
+<lb xml:id="letter_0020_005_tr_1_tl_32"/>8 jours à RONCO-ASCONA, chez
+<lb xml:id="letter_0020_005_tr_1_tl_33"/>de Rechenberg. Si on me permet de
+<lb xml:id="letter_0020_005_tr_1_tl_34"/>21 4
+<lb xml:id="letter_0020_005_tr_1_tl_35"/>Mais c'est si près. Je t'embrasse
+<lb xml:id="letter_0020_005_tr_1_tl_36"/>11
+<lb xml:id="letter_0020_005_tr_1_tl_37"/>Claude: Annemaris</div>
+      </body>
+   </text>
+</TEI>
