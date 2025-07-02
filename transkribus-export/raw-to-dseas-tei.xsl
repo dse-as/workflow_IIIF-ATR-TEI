@@ -123,6 +123,9 @@
       <head resp="editor">
         <xsl:apply-templates select="node()"/>
       </head>
+      <bibl>
+        <persName/>
+      </bibl>
     </figure>
   </xsl:template>
   
