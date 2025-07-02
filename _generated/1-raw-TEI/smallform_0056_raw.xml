@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xml:id="smallform_0056"
      type="dseas-smallform">
@@ -18,14 +18,19 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <bibl>
+            <bibl corresp="smallform_0056">
                <persName/>
-               <bibl type="monogr">
+               <bibl>
                   <title level="j"/>
                   <date/>
                   <biblScope/>
                </bibl>
             </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
@@ -46,7 +51,10 @@
          </textClass>
       </profileDesc>
    </teiHeader>
-   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0056_facs.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0056_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
    <text>
       <body>
          <div type="smallform">
@@ -133,5 +141,5 @@
 <lb xml:id="smallform_0056_001_r_21_tl_4"/>sangs» ihrer Vollräder werden diese Karren «Nachtigallen» genannt.</CONV></div>
       </body>
    </text>
-   <!--Generated on 2025-03-27T10:48:34.179998Z by https://github.dev/dse-as/workflow_IIIF-ATR-TEI using SAXON HE 12.5 from Saxonica.-->
+   <!--Generated on 2025-07-02T21:38:32.400072Z by https://github.dev/dse-as/workflow_IIIF-ATR-TEI using SAXON HE 12.7 from Saxonica.-->
 </TEI>
