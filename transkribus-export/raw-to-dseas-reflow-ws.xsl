@@ -115,7 +115,7 @@
         *:langUsage |
         *:list |
         *:listBibl |
-        *:bibl[parent::*:sourceDesc or parent::*:bibl] |
+        *:bibl[parent::*:sourceDesc or parent::*:bibl or parent::*:figure] |
         *:text | 
         *:body | 
         *:figure |
