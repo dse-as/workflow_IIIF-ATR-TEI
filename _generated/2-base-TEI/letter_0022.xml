@@ -21,6 +21,11 @@
                    <idno/>
                 </msIdentifier>
              </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
           </sourceDesc>
        </fileDesc>
        <profileDesc> 
@@ -52,7 +57,11 @@
           </textClass>
        </profileDesc>
     </teiHeader>
- <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0022_facs.xml"/>    <text> 
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0022_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
       <body> 
          <div type="letter">
             <pb xml:id="p001" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587696-BCUL-PREVIEW-426374_0001.jpg/info.json"/>
@@ -92,8 +101,7 @@
                <lb xml:id="p003_l_1"/>près Bergerac [andere Hand] 
                <lb xml:id="p003_tr_1_tl_8"/>Dordogne [andere Hand] [Stempel: 4.10.33]</p>
 
-            <pb xml:id="p004" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587696-BCUL-PREVIEW-426374_0004.jpg/info.json"/>
-            <pb xml:id="p005" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587696-BCUL-PREVIEW-426374_0005.jpg/info.json"/></div>
+            <pb xml:id="p004" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587696-BCUL-PREVIEW-426374_0004.jpg/info.json"/></div>
        </body>
     </text>
  </TEI>

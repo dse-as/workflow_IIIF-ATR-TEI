@@ -25,6 +25,11 @@
                   <idno/>
                </msIdentifier>
             </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
@@ -56,7 +61,10 @@
          </textClass>
       </profileDesc>
    </teiHeader>
-   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0022_facs.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0022_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
    <text>
       <body>
          <div type="letter">
@@ -98,8 +106,6 @@
 <lb xml:id="letter_0022_003_l_1"/>près Bergerac [andere Hand]
 <lb xml:id="letter_0022_003_tr_1_tl_8"/>Dordogne [andere Hand] [Stempel: 4.10.33]<pb xml:id="letter_0022_004"
                 facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587696-BCUL-PREVIEW-426374_0004.jpg/info.json"/>
-            <pb xml:id="letter_0022_005"
-                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587696-BCUL-PREVIEW-426374_0005.jpg/info.json"/>
          </div>
       </body>
    </text>
