@@ -57,7 +57,11 @@
           </textClass>
        </profileDesc>
     </teiHeader>
- <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0023_facs.xml"> <xi:fallback/> <!--Inclusion path will be adjusted later.--> </xi:include>    <text> 
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0023_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
       <body> 
          <div type="letter">
             <pb xml:id="p001" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587697-BCUL-PREVIEW-426375_0001.jpg/info.json"/>
@@ -153,8 +157,7 @@
                <lb xml:id="p005_tr_1_tl_3"/><hi rendition="#u">Paris 
                   <lb xml:id="p005_tr_1_tl_4"/>France</hi> [Stempel: 5.11.1933]</p>
 
-            <pb xml:id="p006" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587697-BCUL-PREVIEW-426375_0006.jpg/info.json"/>
-            <pb xml:id="p007" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587697-BCUL-PREVIEW-426375_0007.jpg/info.json"/></div>
+            <pb xml:id="p006" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587697-BCUL-PREVIEW-426375_0006.jpg/info.json"/></div>
        </body>
     </text>
- <!--Generated on 2025-05-03T20:59:06.246146Z by https://github.dev/dse-as/workflow_IIIF-ATR-TEI using SAXON HE 12.6 from Saxonica.--> </TEI>
+ </TEI>
