@@ -124,7 +124,7 @@
         <xsl:apply-templates select="node()"/>
       </head>
       <bibl>
-        <persName/>
+        <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
       </bibl>
     </figure>
   </xsl:template>

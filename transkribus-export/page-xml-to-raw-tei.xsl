@@ -142,8 +142,8 @@
               </msDesc>
             </xsl:when>
             <xsl:when test="$fileType = 'smallform'">
-              <bibl corresp="{$fileName}">
-                <persName/>
+              <bibl corresp="smallform_FML">
+                <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
                 <bibl>
                   <title level="j"/>
                   <date/>
