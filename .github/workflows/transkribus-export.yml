@@ -120,7 +120,7 @@ jobs:
       if: steps.schematron-result.outputs.schematron_is_valid == 'True'
     - name: PAGE XML to raw TEI (XSLT)
       if: steps.schematron-result.outputs.schematron_is_valid == 'True'
-      uses: pdaengeli/use-saxon-he-j@12.7
+      uses: pdaengeli/use-saxon-he-j@12.8.fix
       with:
         args: -s:validation_input.xml -xsl:transkribus-export/page-xml-to-raw-tei.xsl debug=${{ steps.debug_param.outputs.debug_param }}
     - run: ls -l
@@ -136,7 +136,7 @@ jobs:
     # next we can convert this to dseas-tei (using the -o flag or creating an xsl:result-document)
     - name: raw TEI to dseas TEI (XSLT)
       if: steps.schematron-result.outputs.schematron_is_valid == 'True'
-      uses: pdaengeli/use-saxon-he-j@12.7
+      uses: pdaengeli/use-saxon-he-j@12.8.fix
       with:
         args: -s:data/1-raw-TEI -xsl:transkribus-export/raw-to-dseas-tei.xsl -o:data/2-base-TEI
     - run: for f in data/2-base-TEI/*_raw.xml; do mv -i -- "$f" "${f//_raw/}"; done
