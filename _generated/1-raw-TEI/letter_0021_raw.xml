@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0021"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0021</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0021_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0021_001"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587695-BCUL-PREVIEW-426373_0001.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0021_001_tr_1"/>
+            <lb xml:id="letter_0021_001_tr_1_tl_3"/>VILLA FAVORITA
+<lb xml:id="letter_0021_001_tr_1_tl_4"/>CASTAGNOLA
+<lb xml:id="letter_0021_001_tr_1_tl_5"/>SCHWEIZ (TESSIN)
+<lb xml:id="letter_0021_001_tr_1_tl_6"/>22. Sept. 33
+<lb xml:id="letter_0021_001_tr_1_tl_7"/>Mon cher ami Claude - 
+<lb xml:id="letter_0021_001_tr_1_tl_8"/>Ta lettre était bonne et charmante,
+<lb xml:id="letter_0021_001_tr_1_tl_9"/>c'est le soleil qui m'a empêché
+<lb xml:id="letter_0021_001_tr_1_tl_10"/><PAGE tag="strikethrough">de ts</PAGE> <PAGE tag="length"></PAGE> t'écrire plus vite, et te
+<lb xml:id="letter_0021_001_tr_1_tl_11"/>remercier, tu comprends mon
+<lb xml:id="letter_0021_001_tr_1_tl_12"/>vieux d'avoir accepté avec
+<lb xml:id="letter_0021_001_tr_1_tl_13"/>tant de gentillesse que je ne
+<lb xml:id="letter_0021_001_tr_1_tl_14"/>pouvais pas venir à La Graulet.
+<lb xml:id="letter_0021_001_tr_1_tl_15"/>Mein Liebster ich werde es
+<lb xml:id="letter_0021_001_tr_1_tl_16"/>nachholen wenn ich von der Reise
+<lb xml:id="letter_0021_001_tr_1_tl_17"/>zurück bin wir werden sehr viel
+<lb xml:id="letter_0021_001_tr_1_tl_18"/>Zeit zusammen haben u. uns
+<lb xml:id="letter_0021_001_l"/>wunderbar verstehen. Wir haben,
+<lb xml:id="letter_0021_001_tr_1_tl_21"/>Du u. ich, soviel Pessimistisches, 
+<lb xml:id="letter_0021_001_tr_1_tl_22"/>fast das letzte unserer Gedanken<pb xml:id="letter_0021_002"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587695-BCUL-PREVIEW-426373_0004.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0021_002_tr_1"/>
+            <lb xml:id="letter_0021_002_tr_1_tl_1"/>über unser bedrohte Existenz
+<lb xml:id="letter_0021_002_tr_1_tl_2"/>uns geschrieben, aber Claude
+<lb xml:id="letter_0021_002_tr_1_tl_3"/>wir müssen doch Mut
+<lb xml:id="letter_0021_002_tr_1_tl_4"/>fassen, oder: uns beruhigen.
+<lb xml:id="letter_0021_002_tr_1_tl_5"/>Je sens quelquefois une nouvelle
+<lb xml:id="letter_0021_002_tr_1_tl_6"/>patience, presque confiance,
+<lb xml:id="letter_0021_002_tr_1_tl_7"/>envers tout ce qui nous arrive.
+<lb xml:id="letter_0021_002_tr_1_tl_8"/>Tu sais que j'ai vu Remarque
+<lb xml:id="letter_0021_002_tr_1_tl_9"/>à Ascona, c'est un homme
+<lb xml:id="letter_0021_002_tr_1_tl_10"/>excellent et humain. Ich denke
+<lb xml:id="letter_0021_002_tr_1_tl_11"/>eben daran, Dir von ihm zu
+<lb xml:id="letter_0021_002_tr_1_tl_12"/>sprechen, weil er, einige Jahre
+<lb xml:id="letter_0021_002_tr_1_tl_13"/>älter als wir, das Problem des
+<lb xml:id="letter_0021_002_tr_1_tl_14"/>Da-Seins so schön, menschlich
+<lb xml:id="letter_0021_002_tr_1_tl_15"/>u. gelassen für sich gelöst hat
+<lb xml:id="letter_0021_002_tr_1_tl_16"/>obwohl ich überzeugt bin
+<lb xml:id="letter_0021_002_tr_1_tl_17"/>dass er einer jener Leute ist<pb xml:id="letter_0021_003"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587695-BCUL-PREVIEW-426373_0003.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0021_003_tr_1"/>
+            <lb xml:id="letter_0021_003_tr_1_tl_2"/>die letztlich keine Lösung
+<lb xml:id="letter_0021_003_tr_1_tl_3"/>ken[n]en. Du, Claude chéri, bist
+<lb xml:id="letter_0021_003_tr_1_tl_4"/>Romane - vielleicht ergeht
+<lb xml:id="letter_0021_003_tr_1_tl_5"/>es Dir anders. Ihr Lateiner
+<lb xml:id="letter_0021_003_l"/>findet ja Formen die beinahe
+<lb xml:id="letter_0021_003_tr_1_tl_8"/>einen harmonischen Inhalt
+<lb xml:id="letter_0021_003_tr_1_tl_9"/>vortäuschen. Mais aujourd'hui
+<lb xml:id="letter_0021_003_tr_1_tl_10"/>c'est, peut-être, devenu impossible.
+<lb xml:id="letter_0021_003_tr_1_tl_11"/>Et quelquefois je me sens très
+<lb xml:id="letter_0021_003_tr_1_tl_12"/>près de toi, vieux Claude - tu
+<lb xml:id="letter_0021_003_tr_1_tl_13"/>le sais du reste
+<lb xml:id="letter_0021_003_tr_1_tl_14"/>Ich habe 14 herrliche Tage
+<lb xml:id="letter_0021_003_tr_1_tl_15"/>zugebracht. Ich liebe dieses
+<lb xml:id="letter_0021_003_tr_1_tl_16"/>"zugleich südliche u. herbe" Land. 
+<lb xml:id="letter_0021_003_tr_1_tl_17"/>Ich bin sehr gesund u. fahre
+<lb xml:id="letter_0021_003_tr_1_tl_18"/>heute nach Zürich. Ich bin
+<lb xml:id="letter_0021_003_tr_1_tl_19"/>froh zu Erika zu kom[m]en.<pb xml:id="letter_0021_004"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587695-BCUL-PREVIEW-426373_0002.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0021_004_r"/>
+            <lb xml:id="letter_0021_004_l"/>Ich habe manchmal das alte ...
+<lb xml:id="letter_0021_004_l_75"/>u. aktuelle Gefühl: keine Zeit
+<lb xml:id="letter_0021_004_l_82"/>verlieren – bei meinen Freunden
+<lb xml:id="letter_0021_004_l_90"/>sein – das letzte ist notwendig,
+<lb xml:id="letter_0021_004_l_97"/>das erste nicht.
+<lb xml:id="letter_0021_004_l_104"/>Claude: es wäre für mich sehr
+<lb xml:id="letter_0021_004_l_111"/>sehr schwierig von Zürich weg
+<lb xml:id="letter_0021_004_l_118"/>- d. h.  nach Genf zu fahren.
+<lb xml:id="letter_0021_004_l_125"/>Aber Du bist doch frei - nimm
+<lb xml:id="letter_0021_004_l_132"/>1 Tag dazu für Zürich - u. mich.
+<lb xml:id="letter_0021_004_l_139"/>Je retourne au travail. Ah, je le répète :
+<lb xml:id="letter_0021_004_l_146"/>j'ai beaucoup de courage.
+<lb xml:id="letter_0021_004_l_153"/>Tendresse pour Claude - 
+<lb xml:id="letter_0021_004_l_7"/>A.<pb xml:id="letter_0021_005"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587695-BCUL-PREVIEW-426373_0005.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0021_005_tr_1"/>
+            <lb xml:id="letter_0021_005_tr_1_tl_3"/>Francia
+<lb xml:id="letter_0021_005_tr_1_tl_4"/>Monsieur
+<lb xml:id="letter_0021_005_tr_1_tl_5"/>Claude Bourdet
+<lb xml:id="letter_0021_005_tr_1_tl_6"/>"La Graulet"
+<lb xml:id="letter_0021_005_l_1"/>par <PAGE tag="underlined">Bergerac</PAGE>
+<lb xml:id="letter_0021_005_tr_1_tl_10"/>Dordogne [Stempel: 22.9.1933]<pb xml:id="letter_0021_006"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587695-BCUL-PREVIEW-426373_0006.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0021_006_tr_4"/>
+            <lb xml:id="letter_0021_006_l"/>[Stempel: 24.9.33]</div>
+      </body>
+   </text>
+</TEI>
