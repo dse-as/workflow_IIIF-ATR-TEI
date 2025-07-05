@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xml:id="smallform_0300"
      type="dseas-smallform">
@@ -18,12 +18,32 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <p/>
+            <bibl corresp="smallform_0300">
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
          <textClass>
             <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
                <list>
                   <item/>
                </list>
@@ -31,13 +51,17 @@
          </textClass>
       </profileDesc>
    </teiHeader>
-   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0300_facs.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0300_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
    <text>
-      <body><!--IIIF Image or Presentation URL?-->
-         <pb xml:id="smallform_0300_001"
-             facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0300_001.tif/info.json"/>
-         <milestone unit="textregion" xml:id="smallform_0300_001_r_1"/>
-         <lb xml:id="smallform_0300_001_r_1_tl_1"/>Ella Maillart<milestone unit="textregion" xml:id="smallform_0300_001_r_3"/><CONV tag="p">
+      <body>
+         <div type="smallform">
+            <pb xml:id="smallform_0300_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0300_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0300_001_r_1"/>
+            <lb xml:id="smallform_0300_001_r_1_tl_1"/>Ella Maillart<milestone unit="textregion" xml:id="smallform_0300_001_r_3"/><CONV tag="p">
 <lb xml:id="smallform_0300_001_r_3_tl_1"/>Im Dezember war die offizielle Equipe der
 <lb xml:id="smallform_0300_001_r_3_tl_2"/>Schweizer Skiläuferinnen zu einem Trainingskurs in
 <lb xml:id="smallform_0300_001_r_3_tl_3"/>der Skihütte Schwendi ob Klosters versammelt. Ihre
@@ -100,7 +124,7 @@
 <lb xml:id="smallform_0300_001_r_3_tl_60"/>sagen unter dem Leitmotiv des Aufbruchs, geschrie¬
 <lb xml:id="smallform_0300_001_r_3_tl_61"/>ben, der für Ella Maillart Befreiung schlechthin be¬
 <lb xml:id="smallform_0300_001_r_3_tl_62"/>deutet — der einzige Weg, der uns geblieben ist, um<milestone unit="textregion" xml:id="smallform_0300_001_r"/>
-         <lb xml:id="smallform_0300_001_r_tl_1"/>uns den ursprünglichen Quellen, den wahren Energien,
+            <lb xml:id="smallform_0300_001_r_tl_1"/>uns den ursprünglichen Quellen, den wahren Energien,
 <lb xml:id="smallform_0300_001_r_tl_2"/>den fundamentalen Gesetzen des Lebens zu nähern.
 <lb xml:id="smallform_0300_001_r_tl_3"/>Welche Faszination des Reisen, welche Magie der Na¬
 <lb xml:id="smallform_0300_001_r_tl_4"/>men, welche Eroberung aller Fernen! — Ella Mail¬
@@ -162,7 +186,7 @@
 <lb xml:id="smallform_0300_001_r_tl_60"/>nommen, um diesen Drang zu befriedigen, und hat
 <lb xml:id="smallform_0300_001_r_tl_61"/>grosse Beweise erbracht; sie muss grosse Antriebe
 <lb xml:id="smallform_0300_001_r_tl_62"/>kennen.</CONV><CONV tag="p">
-<lb xml:id="smallform_0300_001_r_tl_63"/>Annemarie [Clark[gesperrt]</CONV></body>
+<lb xml:id="smallform_0300_001_r_tl_63"/>Annemarie [Clark[gesperrt]</CONV></div>
+      </body>
    </text>
-   <!--Generated on 2025-01-23T15:39:47.986907Z by https://github.dev/dse-as/workflow_IIIF-ATR-TEI using SAXON HE 12.5 from Saxonica.-->
 </TEI>

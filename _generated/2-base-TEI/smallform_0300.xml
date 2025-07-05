@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0300" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0300#"> 
    <teiHeader> 
       <fileDesc> 
@@ -14,12 +14,32 @@
              </note>
           </notesStmt>
           <sourceDesc> 
-            <p/>
+            <bibl corresp="smallform_0300"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
           </sourceDesc>
        </fileDesc>
        <profileDesc> 
-         <textClass> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
             <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
                <list> 
                   <item/>
                 </list>
@@ -27,143 +47,148 @@
           </textClass>
        </profileDesc>
     </teiHeader>
- <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0300_facs.xml"/>    <text> 
-      <body>
-         <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"><!--IIIF Image or Presentation URL?--> 
-            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0300_001.tif/info.json"/> 
-            <milestone unit="textregion" xml:id="p001_r_1"/> 
-            <lb xml:id="p001_r_1_tl_1"/>Ella Maillart
-            <milestone unit="textregion" xml:id="p001_r_3"/></p>
-         <p> 
-            <lb xml:id="p001_r_3_tl_1"/>Im Dezember war die offizielle Equipe der 
-            <lb xml:id="p001_r_3_tl_2"/>Schweizer Skiläuferinnen zu einem Trainingskurs in 
-            <lb xml:id="p001_r_3_tl_3"/>der Skihütte Schwendi ob Klosters versammelt. Ihre 
-            <lb xml:id="p001_r_3_tl_4"/>Trainerin war Ella Maillart. Es sollte überflüssig sein, 
-            <lb xml:id="p001_r_3_tl_5"/>sie unseren Lesern vorzustellen: Vor zehn Jahren 
-            <lb xml:id="p001_r_3_tl_6"/>schon erregte Ella Maillart Aufsehen, als sie mit drei 
-            <lb xml:id="p001_r_3_tl_7"/>jungen Genferinnen auf der kleinen 15-Tonnen-Yacht 
-            <lb xml:id="p001_r_3_tl_8"/>"Bonita" nach Griechenland segelte. Es war der An 
-            <lb xml:id="p001_r_3_tl_9" break="no"/>fang einer unabhängigen und kühnen Laufbahn, die 
-            <lb xml:id="p001_r_3_tl_10"/>äusserlich alle Merkmale des Abenteuerlichen ver 
-            <lb xml:id="p001_r_3_tl_11" break="no"/>eint, deren tiefe und echte Impulse wir ahnen kön 
-            <lb xml:id="p001_r_3_tl_12" break="no"/>nen, wenn wir Ella Maillarts Bücher mit denen profes 
-            <lb xml:id="p001_r_3_tl_13" break="no"/>sioneller Vagabunden, Sensationsjäger und rasender 
-            <lb xml:id="p001_r_3_tl_14"/>Reporter [Kommmentar: impliziter Verweis auf Egon Erwin Kisch und sein gleichnamiges Reportagebuch von 1924] vergleichen. Die junge Seglerin, Hockeyspie 
-            <lb xml:id="p001_r_3_tl_15" break="no"/>lerin, Skiläuferin ist, ohne es beabsichtigt zu haben, 
-            <lb xml:id="p001_r_3_tl_16"/>berühmt geworden — in den Kreisen englischer und 
-            <lb xml:id="p001_r_3_tl_17"/>amerikanischer Forscher, Alpinisten, Journalisten 
-            <lb xml:id="p001_r_3_tl_18"/>kennt jeder ihren Namen. Sie selbst versichert, sie 
-            <lb xml:id="p001_r_3_tl_19"/>hätte ohne materiellen Zwang nie angefangen, zu 
-            <lb xml:id="p001_r_3_tl_20"/>schreiben. In Moskau versuchte sie, sich ihren Unter 
-            <lb xml:id="p001_r_3_tl_21" break="no"/>halt als Sportlehrerin zu verdienen, sie blieb gleich 
-            <lb xml:id="p001_r_3_tl_22"/>sechs Monate, und durchstreifte mit russischen Kame 
-            <lb xml:id="p001_r_3_tl_23" break="no"/>raden, selbst schon geläufig russisch sprechend, die 
-            <lb xml:id="p001_r_3_tl_24"/>kaukasischen Gebirgsländer. Diese Absichtslosigkeit 
-            <lb xml:id="p001_r_3_tl_25"/>der werdenden Schriftstellerin gibt Ella Maillarts er 
-            <lb xml:id="p001_r_3_tl_26" break="no"/>stem, 1932 erschienen Buch "Parmi La Jeunesse 
-            <lb xml:id="p001_r_3_tl_27"/>Russe" nicht nur den Charme unbefangener und leb 
-            <lb xml:id="p001_r_3_tl_28" break="no"/>hafter Beobachtung, sondern auch seinen einzigartigen 
-            <lb xml:id="p001_r_3_tl_29"/>dokumentarischen Wert. Man ist in der Schweiz ge 
-            <lb xml:id="p001_r_3_tl_30" break="no"/>neigt, schon das Interesse für das Phänomen "Sowjet 
-            <lb xml:id="p001_r_3_tl_31" break="no"/>union", als tendenziös und gefährlich zu verurteilen. 
-            <lb xml:id="p001_r_3_tl_32"/>Ella Maillart, die man keiner politischen Tendenz ver 
-            <lb xml:id="p001_r_3_tl_33" break="no"/>dächtigen kann, die keine vorgefasste Meinung kennt, 
-            <lb xml:id="p001_r_3_tl_34"/>und über Geschehenes und Erlebtes kaum ein Ur 
-            <lb xml:id="p001_r_3_tl_35" break="no"/>teil fällt — diese junge Schweizerin, bürgerlicher Her 
-            <lb xml:id="p001_r_3_tl_36" break="no"/>kunft, hat es verstanden, sich vom ungeheuren Bal 
-            <lb xml:id="p001_r_3_tl_37" break="no"/>last unserer Anschauungen, Institutionen, Gewohnhei 
-            <lb xml:id="p001_r_3_tl_38" break="no"/>ten zu befreien, und den jungen Russen auf einem Bo 
-            <lb xml:id="p001_r_3_tl_39" break="no"/>den zu begegnen, wo nur das Wesentliche zählt — der 
-            <lb xml:id="p001_r_3_tl_40"/>Gehalt des Menschlichen. Das Resultat dieser Be 
-            <lb xml:id="p001_r_3_tl_41" break="no"/>gegnung: Die Jugend Sowjetrusslands ist frei von 
-            <lb xml:id="p001_r_3_tl_42"/>Bindungen, die sie nicht selbst durchbrochen hat, un 
-            <lb xml:id="p001_r_3_tl_43" break="no"/>beschwert von einer Vergangenheit, gegen die sie sich 
-            <lb xml:id="p001_r_3_tl_44"/>nicht einmal auflehnen musste, denn sie hat sie nie 
-            <lb xml:id="p001_r_3_tl_45"/>gekannt. Diese erstaunliche Unbeschwertheit erlaubt 
-            <lb xml:id="p001_r_3_tl_46"/>es, alle Energien der neuen, im Aufbau begriffenen 
-            <lb xml:id="p001_r_3_tl_47"/>Welt zuzuführen, von der diese glückliche Generation 
-            <lb xml:id="p001_r_3_tl_48"/>ein Teil ist. Ella Maillart folgert: Auch bei uns gibt 
-            <lb xml:id="p001_r_3_tl_49"/>es junge Menschen, die sich befreien und bis zum 
-            <lb xml:id="p001_r_3_tl_50"/>Sinn des wirklichen, direkten Lebens durchringen — 
-            <lb xml:id="p001_r_3_tl_51"/>aber um ihn nicht wieder zu verlieren, suchen sie 
-            <lb xml:id="p001_r_3_tl_52"/>fremde Ozeane, neue Länder auf. Sollte es möglich 
-            <lb xml:id="p001_r_3_tl_53"/>sein, auch ohne solchen Aufbruch in Uebereinstim 
-            <lb xml:id="p001_r_3_tl_54" break="no"/>mung mit den Gesetzen des Lebens zu sein? ... Da 
-            <lb xml:id="p001_r_3_tl_55"/>rührt sie schon an die grossen Fragen, die sie immer 
-            <lb xml:id="p001_r_3_tl_56"/>beschäftigen, an die tiefsten Impulse, die ihr schwie 
-            <lb xml:id="p001_r_3_tl_57" break="no"/>riges und abenteuerliches Leben leiten werden. Ihre 
-            <lb xml:id="p001_r_3_tl_58"/>beiden Bücher "Des Monts Célestes Aux Sables Rou 
-            <lb xml:id="p001_r_3_tl_59" break="no"/>ges" (1934) und «Oasis Interdites» (1937) sind sozu 
-            <lb xml:id="p001_r_3_tl_60" break="no"/>sagen unter dem Leitmotiv des Aufbruchs, geschrie 
-            <lb xml:id="p001_r_3_tl_61" break="no"/>ben, der für Ella Maillart Befreiung schlechthin be 
-            <lb xml:id="p001_r_3_tl_62" break="no"/>deutet — der einzige Weg, der uns geblieben ist, um
-            <milestone unit="textregion" xml:id="p001_r"/> 
-            <lb xml:id="p001_r_tl_1"/>uns den ursprünglichen Quellen, den wahren Energien, 
-            <lb xml:id="p001_r_tl_2"/>den fundamentalen Gesetzen des Lebens zu nähern. 
-            <lb xml:id="p001_r_tl_3"/>Welche Faszination des Reisen, welche Magie der Na 
-            <lb xml:id="p001_r_tl_4" break="no"/>men, welche Eroberung aller Fernen! — Ella Mail 
-            <lb xml:id="p001_r_tl_5" break="no"/>lart ist nach Russland zurückgekehrt, ihre Sehnsucht 
-            <lb xml:id="p001_r_tl_6"/>galt Asien, ihr zweites Buch berichtet, wie sie nach 
-            <lb xml:id="p001_r_tl_7"/>Kasakistan und Kirgisistan vordrang, bis zu den rie 
-            <lb xml:id="p001_r_tl_8" break="no"/>sigen Gletschern des Himmelsgebirges (wo einige 
-            <lb xml:id="p001_r_tl_9"/>Jahre später ihr Landsmann Lorenz Saladin den Tod 
-            <lb xml:id="p001_r_tl_10"/>finden sollte), bis an die Grenze Chinas. Monate lang 
-            <lb xml:id="p001_r_tl_11"/>vagabundierte sie allein durch die Länder der Turk- 
-            <lb xml:id="p001_r_tl_12"/>menen, der Usbeken, sah die von grossen Erinnerun 
-            <lb xml:id="p001_r_tl_13" break="no"/>gen der Völkerschicksale umwetterten Städte Samar 
-            <lb xml:id="p001_r_tl_14" break="no"/>kand, Buchara, Khiwa, erlebte die neue Begegnung von 
-            <lb xml:id="p001_r_tl_15"/>Orient und Okzident, Fünfjahresplan in den Steppen 
-            <lb xml:id="p001_r_tl_16"/>Chingis Khans und Timurs, Kolchosen und Fabriken 
-            <lb xml:id="p001_r_tl_17"/>am Rand uralter Karawanenspuren und der Weide 
-            <lb xml:id="p001_r_tl_18" break="no"/>plätze der Nomaden — sie schiffte den Amu Daria 
-            <lb xml:id="p001_r_tl_19"/>hinab und über den Aral-See, knapp bevor das Eis 
-            <lb xml:id="p001_r_tl_20"/>die Schiffahrtswege sperrte, und legte schliesslich mit 
-            <lb xml:id="p001_r_tl_21" break="no"/>ten im Winter fünfhundert Kilometer Wüste mit einer 
-            <lb xml:id="p001_r_tl_22"/>Kamelkarawane zurück. Aber das erstaunlichste 
-            <lb xml:id="p001_r_tl_23"/>Abenteuer ist das der "Verbotenen Reisen" (so lautet 
-            <lb xml:id="p001_r_tl_24"/>der Titel der kürzlich erschienen Uebersetzung von 
-            <lb xml:id="p001_r_tl_25"/>"Oasis Interdites"): Zusammen mit dem begabten jun 
-            <lb xml:id="p001_r_tl_26" break="no"/>gen "Times"-Korrespondenten, Peter Fleming, brach 
-            <lb xml:id="p001_r_tl_27"/>Ella Maillart von Peking auf, durchquerte auf kaum 
-            <lb xml:id="p001_r_tl_28"/>begangenen Spuren die Mongolei, Pässe und Hochebe 
-            <lb xml:id="p001_r_tl_29" break="no"/>nen, die Wüste Taklamakan, gelangte in die verbo 
-            <lb xml:id="p001_r_tl_30" break="no"/>tene Provinz Sinkiang, das von Kriegen und rätsel 
-            <lb xml:id="p001_r_tl_31" break="no"/>haften politischen Intriguen heimgesuchte Chinesisch 
-            <lb xml:id="p001_r_tl_32"/>Turkestan, wandte sich von der Stadt Kaschgar aus 
-            <lb xml:id="p001_r_tl_33"/>nach Süden, überstieg die gigantische Barriere des 
-            <lb xml:id="p001_r_tl_34"/>Himalaya, und erreichte so, nach sechs Monaten, ihr 
-            <lb xml:id="p001_r_tl_35"/>Ziel: Indien. — Was diese Reise an Strapazen, Ent 
-            <lb xml:id="p001_r_tl_36" break="no"/>behrungen, Gefahren bedeutete, welchen Mut und 
-            <lb xml:id="p001_r_tl_37"/>welche Ausdauer sie in sich schliesst — es lässt sich 
-            <lb xml:id="p001_r_tl_38"/>mit allen Mitteln der Phantasie nur ahnen ... Ella 
-            <lb xml:id="p001_r_tl_39"/>Maillart selbst tut nichts, um ihre Leistung und die 
-            <lb xml:id="p001_r_tl_40"/>ihres Gefährten zu heroisieren, in ein sensationelles 
-            <lb xml:id="p001_r_tl_41"/>Licht zu rücken. Sie schreibt einfach, unmittelbar, per 
-            <lb xml:id="p001_r_tl_42" break="no"/>sönlich und sachlich zugleich. Und es gelingt ihr, das 
-            <lb xml:id="p001_r_tl_43"/>Wesentliche zum Ausdruck zu bringen, das ihr von 
-            <lb xml:id="p001_r_tl_44"/>allem am Herzen liegt: die Begegnung des aller über 
-            <lb xml:id="p001_r_tl_45" break="no"/>nommenen Bindungen ledigen, von allen ihres Gehalts 
-            <lb xml:id="p001_r_tl_46"/>entleerten Formen befreiten Individuums mit dem 
-            <lb xml:id="p001_r_tl_47"/>[wirklichen[gesperrt] Dasein.  — Unter den grossen Him 
-            <lb xml:id="p001_r_tl_48" break="no"/>meln Asiens wird die Beziehung wieder hergestellt 
-            <lb xml:id="p001_r_tl_49"/>zwischen Ich und All — Quelle aller Lebenskräfte, 
-            <lb xml:id="p001_r_tl_50"/>die uns im emsigen Getriebe westlichen Fortschritts 
-            <lb xml:id="p001_r_tl_51"/>verloren zu gehen droht[Kommentar: Maillarts Existenzphilosophie, auch in ihren Briefen].</p>
-         <p> 
-            <lb xml:id="p001_r_tl_52"/>Scheint es abwegig, die Reiseberichte einer unge 
-            <lb xml:id="p001_r_tl_53" break="no"/>wöhnlich begabten und ungewöhnlich mutigen Schwei 
-            <lb xml:id="p001_r_tl_54" break="no"/>zerin so interpretieren zu wollen? — Die Stellen in 
-            <lb xml:id="p001_r_tl_55"/>Ella Maillarts Büchern sind selten, die solche Inter 
-            <lb xml:id="p001_r_tl_56" break="no"/>pretationen erlauben, aber man kann sie nicht über 
-            <lb xml:id="p001_r_tl_57" break="no"/>gehen, noch missdeuten: «... dieses Verlangen nach 
-            <lb xml:id="p001_r_tl_58"/>Ewigkeit" ...</p>
-         <p> 
-            <lb xml:id="p001_r_tl_59"/>Ella Maillart hat unendliche Wagnisse auf sich ge 
-            <lb xml:id="p001_r_tl_60" break="no"/>nommen, um diesen Drang zu befriedigen, und hat 
-            <lb xml:id="p001_r_tl_61"/>grosse Beweise erbracht; sie muss grosse Antriebe 
-            <lb xml:id="p001_r_tl_62"/>kennen.</p>
-         <p> 
-            <lb xml:id="p001_r_tl_63"/>Annemarie [Clark[gesperrt]</p>
-      </body>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0300_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0300_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_1_tl_1"/>Ella Maillart</p>
+
+            <milestone unit="textregion" xml:id="p001_r_3"/>            <p> 
+               <lb xml:id="p001_r_3_tl_1"/>Im Dezember war die offizielle Equipe der 
+               <lb xml:id="p001_r_3_tl_2"/>Schweizer Skiläuferinnen zu einem Trainingskurs in 
+               <lb xml:id="p001_r_3_tl_3"/>der Skihütte Schwendi ob Klosters versammelt. Ihre 
+               <lb xml:id="p001_r_3_tl_4"/>Trainerin war Ella Maillart. Es sollte überflüssig sein, 
+               <lb xml:id="p001_r_3_tl_5"/>sie unseren Lesern vorzustellen: Vor zehn Jahren 
+               <lb xml:id="p001_r_3_tl_6"/>schon erregte Ella Maillart Aufsehen, als sie mit drei 
+               <lb xml:id="p001_r_3_tl_7"/>jungen Genferinnen auf der kleinen 15-Tonnen-Yacht 
+               <lb xml:id="p001_r_3_tl_8"/>"Bonita" nach Griechenland segelte. Es war der An 
+               <lb xml:id="p001_r_3_tl_9" break="no"/>fang einer unabhängigen und kühnen Laufbahn, die 
+               <lb xml:id="p001_r_3_tl_10"/>äusserlich alle Merkmale des Abenteuerlichen ver 
+               <lb xml:id="p001_r_3_tl_11" break="no"/>eint, deren tiefe und echte Impulse wir ahnen kön 
+               <lb xml:id="p001_r_3_tl_12" break="no"/>nen, wenn wir Ella Maillarts Bücher mit denen profes 
+               <lb xml:id="p001_r_3_tl_13" break="no"/>sioneller Vagabunden, Sensationsjäger und rasender 
+               <lb xml:id="p001_r_3_tl_14"/>Reporter [Kommmentar: impliziter Verweis auf Egon Erwin Kisch und sein gleichnamiges Reportagebuch von 1924] vergleichen. Die junge Seglerin, Hockeyspie 
+               <lb xml:id="p001_r_3_tl_15" break="no"/>lerin, Skiläuferin ist, ohne es beabsichtigt zu haben, 
+               <lb xml:id="p001_r_3_tl_16"/>berühmt geworden – in den Kreisen englischer und 
+               <lb xml:id="p001_r_3_tl_17"/>amerikanischer Forscher, Alpinisten, Journalisten 
+               <lb xml:id="p001_r_3_tl_18"/>kennt jeder ihren Namen. Sie selbst versichert, sie 
+               <lb xml:id="p001_r_3_tl_19"/>hätte ohne materiellen Zwang nie angefangen, zu 
+               <lb xml:id="p001_r_3_tl_20"/>schreiben. In Moskau versuchte sie, sich ihren Unter 
+               <lb xml:id="p001_r_3_tl_21" break="no"/>halt als Sportlehrerin zu verdienen, sie blieb gleich 
+               <lb xml:id="p001_r_3_tl_22"/>sechs Monate, und durchstreifte mit russischen Kame 
+               <lb xml:id="p001_r_3_tl_23" break="no"/>raden, selbst schon geläufig russisch sprechend, die 
+               <lb xml:id="p001_r_3_tl_24"/>kaukasischen Gebirgsländer. Diese Absichtslosigkeit 
+               <lb xml:id="p001_r_3_tl_25"/>der werdenden Schriftstellerin gibt Ella Maillarts er 
+               <lb xml:id="p001_r_3_tl_26" break="no"/>stem, 1932 erschienen Buch "Parmi La Jeunesse 
+               <lb xml:id="p001_r_3_tl_27"/>Russe" nicht nur den Charme unbefangener und leb 
+               <lb xml:id="p001_r_3_tl_28" break="no"/>hafter Beobachtung, sondern auch seinen einzigartigen 
+               <lb xml:id="p001_r_3_tl_29"/>dokumentarischen Wert. Man ist in der Schweiz ge 
+               <lb xml:id="p001_r_3_tl_30" break="no"/>neigt, schon das Interesse für das Phänomen "Sowjet 
+               <lb xml:id="p001_r_3_tl_31" break="no"/>union", als tendenziös und gefährlich zu verurteilen. 
+               <lb xml:id="p001_r_3_tl_32"/>Ella Maillart, die man keiner politischen Tendenz ver 
+               <lb xml:id="p001_r_3_tl_33" break="no"/>dächtigen kann, die keine vorgefasste Meinung kennt, 
+               <lb xml:id="p001_r_3_tl_34"/>und über Geschehenes und Erlebtes kaum ein Ur 
+               <lb xml:id="p001_r_3_tl_35" break="no"/>teil fällt – diese junge Schweizerin, bürgerlicher Her 
+               <lb xml:id="p001_r_3_tl_36" break="no"/>kunft, hat es verstanden, sich vom ungeheuren Bal 
+               <lb xml:id="p001_r_3_tl_37" break="no"/>last unserer Anschauungen, Institutionen, Gewohnhei 
+               <lb xml:id="p001_r_3_tl_38" break="no"/>ten zu befreien, und den jungen Russen auf einem Bo 
+               <lb xml:id="p001_r_3_tl_39" break="no"/>den zu begegnen, wo nur das Wesentliche zählt – der 
+               <lb xml:id="p001_r_3_tl_40"/>Gehalt des Menschlichen. Das Resultat dieser Be 
+               <lb xml:id="p001_r_3_tl_41" break="no"/>gegnung: Die Jugend Sowjetrusslands ist frei von 
+               <lb xml:id="p001_r_3_tl_42"/>Bindungen, die sie nicht selbst durchbrochen hat, un 
+               <lb xml:id="p001_r_3_tl_43" break="no"/>beschwert von einer Vergangenheit, gegen die sie sich 
+               <lb xml:id="p001_r_3_tl_44"/>nicht einmal auflehnen musste, denn sie hat sie nie 
+               <lb xml:id="p001_r_3_tl_45"/>gekannt. Diese erstaunliche Unbeschwertheit erlaubt 
+               <lb xml:id="p001_r_3_tl_46"/>es, alle Energien der neuen, im Aufbau begriffenen 
+               <lb xml:id="p001_r_3_tl_47"/>Welt zuzuführen, von der diese glückliche Generation 
+               <lb xml:id="p001_r_3_tl_48"/>ein Teil ist. Ella Maillart folgert: Auch bei uns gibt 
+               <lb xml:id="p001_r_3_tl_49"/>es junge Menschen, die sich befreien und bis zum 
+               <lb xml:id="p001_r_3_tl_50"/>Sinn des wirklichen, direkten Lebens durchringen – 
+               <lb xml:id="p001_r_3_tl_51"/>aber um ihn nicht wieder zu verlieren, suchen sie 
+               <lb xml:id="p001_r_3_tl_52"/>fremde Ozeane, neue Länder auf. Sollte es möglich 
+               <lb xml:id="p001_r_3_tl_53"/>sein, auch ohne solchen Aufbruch in Uebereinstim 
+               <lb xml:id="p001_r_3_tl_54" break="no"/>mung mit den Gesetzen des Lebens zu sein? ... Da 
+               <lb xml:id="p001_r_3_tl_55"/>rührt sie schon an die grossen Fragen, die sie immer 
+               <lb xml:id="p001_r_3_tl_56"/>beschäftigen, an die tiefsten Impulse, die ihr schwie 
+               <lb xml:id="p001_r_3_tl_57" break="no"/>riges und abenteuerliches Leben leiten werden. Ihre 
+               <lb xml:id="p001_r_3_tl_58"/>beiden Bücher "Des Monts Célestes Aux Sables Rou 
+               <lb xml:id="p001_r_3_tl_59" break="no"/>ges" (1934) und "Oasis Interdites" (1937) sind sozu 
+               <lb xml:id="p001_r_3_tl_60" break="no"/>sagen unter dem Leitmotiv des Aufbruchs, geschrie 
+               <lb xml:id="p001_r_3_tl_61" break="no"/>ben, der für Ella Maillart Befreiung schlechthin be 
+               <lb xml:id="p001_r_3_tl_62" break="no"/>deutet – der einzige Weg, der uns geblieben ist, um
+               <milestone unit="textregion" xml:id="p001_r"/> 
+               <lb xml:id="p001_r_tl_1"/>uns den ursprünglichen Quellen, den wahren Energien, 
+               <lb xml:id="p001_r_tl_2"/>den fundamentalen Gesetzen des Lebens zu nähern. 
+               <lb xml:id="p001_r_tl_3"/>Welche Faszination des Reisen, welche Magie der Na 
+               <lb xml:id="p001_r_tl_4" break="no"/>men, welche Eroberung aller Fernen! – Ella Mail 
+               <lb xml:id="p001_r_tl_5" break="no"/>lart ist nach Russland zurückgekehrt, ihre Sehnsucht 
+               <lb xml:id="p001_r_tl_6"/>galt Asien, ihr zweites Buch berichtet, wie sie nach 
+               <lb xml:id="p001_r_tl_7"/>Kasakistan und Kirgisistan vordrang, bis zu den rie 
+               <lb xml:id="p001_r_tl_8" break="no"/>sigen Gletschern des Himmelsgebirges (wo einige 
+               <lb xml:id="p001_r_tl_9"/>Jahre später ihr Landsmann Lorenz Saladin den Tod 
+               <lb xml:id="p001_r_tl_10"/>finden sollte), bis an die Grenze Chinas. Monate lang 
+               <lb xml:id="p001_r_tl_11"/>vagabundierte sie allein durch die Länder der Turk- 
+               <lb xml:id="p001_r_tl_12"/>menen, der Usbeken, sah die von grossen Erinnerun 
+               <lb xml:id="p001_r_tl_13" break="no"/>gen der Völkerschicksale umwetterten Städte Samar 
+               <lb xml:id="p001_r_tl_14" break="no"/>kand, Buchara, Khiwa, erlebte die neue Begegnung von 
+               <lb xml:id="p001_r_tl_15"/>Orient und Okzident, Fünfjahresplan in den Steppen 
+               <lb xml:id="p001_r_tl_16"/>Chingis Khans und Timurs, Kolchosen und Fabriken 
+               <lb xml:id="p001_r_tl_17"/>am Rand uralter Karawanenspuren und der Weide 
+               <lb xml:id="p001_r_tl_18" break="no"/>plätze der Nomaden – sie schiffte den Amu Daria 
+               <lb xml:id="p001_r_tl_19"/>hinab und über den Aral-See, knapp bevor das Eis 
+               <lb xml:id="p001_r_tl_20"/>die Schiffahrtswege sperrte, und legte schliesslich mit 
+               <lb xml:id="p001_r_tl_21" break="no"/>ten im Winter fünfhundert Kilometer Wüste mit einer 
+               <lb xml:id="p001_r_tl_22"/>Kamelkarawane zurück. Aber das erstaunlichste 
+               <lb xml:id="p001_r_tl_23"/>Abenteuer ist das der "Verbotenen Reisen" (so lautet 
+               <lb xml:id="p001_r_tl_24"/>der Titel der kürzlich erschienen Uebersetzung von 
+               <lb xml:id="p001_r_tl_25"/>"Oasis Interdites"): Zusammen mit dem begabten jun 
+               <lb xml:id="p001_r_tl_26" break="no"/>gen "Times"-Korrespondenten, Peter Fleming, brach 
+               <lb xml:id="p001_r_tl_27"/>Ella Maillart von Peking auf, durchquerte auf kaum 
+               <lb xml:id="p001_r_tl_28"/>begangenen Spuren die Mongolei, Pässe und Hochebe 
+               <lb xml:id="p001_r_tl_29" break="no"/>nen, die Wüste Taklamakan, gelangte in die verbo 
+               <lb xml:id="p001_r_tl_30" break="no"/>tene Provinz Sinkiang, das von Kriegen und rätsel 
+               <lb xml:id="p001_r_tl_31" break="no"/>haften politischen Intriguen heimgesuchte Chinesisch 
+               <lb xml:id="p001_r_tl_32"/>Turkestan, wandte sich von der Stadt Kaschgar aus 
+               <lb xml:id="p001_r_tl_33"/>nach Süden, überstieg die gigantische Barriere des 
+               <lb xml:id="p001_r_tl_34"/>Himalaya, und erreichte so, nach sechs Monaten, ihr 
+               <lb xml:id="p001_r_tl_35"/>Ziel: Indien. – Was diese Reise an Strapazen, Ent 
+               <lb xml:id="p001_r_tl_36" break="no"/>behrungen, Gefahren bedeutete, welchen Mut und 
+               <lb xml:id="p001_r_tl_37"/>welche Ausdauer sie in sich schliesst – es lässt sich 
+               <lb xml:id="p001_r_tl_38"/>mit allen Mitteln der Phantasie nur ahnen ... Ella 
+               <lb xml:id="p001_r_tl_39"/>Maillart selbst tut nichts, um ihre Leistung und die 
+               <lb xml:id="p001_r_tl_40"/>ihres Gefährten zu heroisieren, in ein sensationelles 
+               <lb xml:id="p001_r_tl_41"/>Licht zu rücken. Sie schreibt einfach, unmittelbar, per 
+               <lb xml:id="p001_r_tl_42" break="no"/>sönlich und sachlich zugleich. Und es gelingt ihr, das 
+               <lb xml:id="p001_r_tl_43"/>Wesentliche zum Ausdruck zu bringen, das ihr von 
+               <lb xml:id="p001_r_tl_44"/>allem am Herzen liegt: die Begegnung des aller über 
+               <lb xml:id="p001_r_tl_45" break="no"/>nommenen Bindungen ledigen, von allen ihres Gehalts 
+               <lb xml:id="p001_r_tl_46"/>entleerten Formen befreiten Individuums mit dem 
+               <lb xml:id="p001_r_tl_47"/>[wirklichen[gesperrt] Dasein.  – Unter den grossen Him 
+               <lb xml:id="p001_r_tl_48" break="no"/>meln Asiens wird die Beziehung wieder hergestellt 
+               <lb xml:id="p001_r_tl_49"/>zwischen Ich und All – Quelle aller Lebenskräfte, 
+               <lb xml:id="p001_r_tl_50"/>die uns im emsigen Getriebe westlichen Fortschritts 
+               <lb xml:id="p001_r_tl_51"/>verloren zu gehen droht[Kommentar: Maillarts Existenzphilosophie, auch in ihren Briefen].</p>
+            <p> 
+               <lb xml:id="p001_r_tl_52"/>Scheint es abwegig, die Reiseberichte einer unge 
+               <lb xml:id="p001_r_tl_53" break="no"/>wöhnlich begabten und ungewöhnlich mutigen Schwei 
+               <lb xml:id="p001_r_tl_54" break="no"/>zerin so interpretieren zu wollen? – Die Stellen in 
+               <lb xml:id="p001_r_tl_55"/>Ella Maillarts Büchern sind selten, die solche Inter 
+               <lb xml:id="p001_r_tl_56" break="no"/>pretationen erlauben, aber man kann sie nicht über 
+               <lb xml:id="p001_r_tl_57" break="no"/>gehen, noch missdeuten: "... dieses Verlangen nach 
+               <lb xml:id="p001_r_tl_58"/>Ewigkeit" ...</p>
+            <p> 
+               <lb xml:id="p001_r_tl_59"/>Ella Maillart hat unendliche Wagnisse auf sich ge 
+               <lb xml:id="p001_r_tl_60" break="no"/>nommen, um diesen Drang zu befriedigen, und hat 
+               <lb xml:id="p001_r_tl_61"/>grosse Beweise erbracht; sie muss grosse Antriebe 
+               <lb xml:id="p001_r_tl_62"/>kennen.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_63"/>Annemarie [Clark[gesperrt]</p>
+</div>
+       </body>
     </text>
- <!--Generated on 2025-01-23T15:39:47.986907Z by https://github.dev/dse-as/workflow_IIIF-ATR-TEI using SAXON HE 12.5 from Saxonica.--> </TEI>
+ </TEI>
