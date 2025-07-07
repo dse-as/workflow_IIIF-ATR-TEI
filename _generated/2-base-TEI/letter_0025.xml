@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0025" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0025#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0025</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0025_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587700-BCUL-PREVIEW-426378_0001.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_2"/>Beyroute 
+               <lb xml:id="p001_tr_1_tl_3"/>To Service des Antiquités 
+               <lb xml:id="p001_tr_1_tl_4"/>Claude, 
+               <lb xml:id="p001_tr_1_tl_5"/>man ami chéri, 
+               <lb xml:id="p001_tr_1_tl_6"/>Je crois que je commence cès aimer 
+               <lb xml:id="p001_tr_1_tl_7"/>les Français. Je suis ici protégé 
+               <lb xml:id="p001_tr_1_tl_8"/>par votre Haut Commissair, par 
+               <lb xml:id="p001_tr_1_tl_9"/>votre admiral, <del rend="overstrike">par</del> et - très 
+               <lb xml:id="p001_tr_1_tl_10"/>amicalement par M. (et Mme) 
+               <lb xml:id="p001_tr_2_tl_1"/>Scyric, directeur des antiquités 
+               <lb xml:id="p001_tr_2_tl_2"/>et le jeune Schlumberger. 
+               <lb xml:id="p001_tr_2_tl_3"/>Je travaille. Je suis découragée 
+               <lb xml:id="p001_tr_2_tl_4"/>me sentant <hi rendition="#u">trop</hi> dilittant. 
+               <lb xml:id="p001_tr_2_tl_5"/>Je pars pour Damas pour voir 
+               <lb xml:id="p001_tr_2_tl_6"/>les Dérwisch Tournants.<hi rendition="#u"> Je 
+                  <lb xml:id="p001_tr_2_tl_7"/>t'enverrai Textes et Photos, 
+                  <lb xml:id="p001_tr_2_tl_8"/>sur Baalbek, etc.</hi> 
+               <lb xml:id="p001_tr_2_tl_9"/>Comment vas-tus -  
+               <lb xml:id="p001_tr_2_tl_10"/>J'ai été déçue et triste chez</p>
+
+            <pb xml:id="p002" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587700-BCUL-PREVIEW-426378_0002.jpg/info.json"/>
+            <pb xml:id="p003" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587700-BCUL-PREVIEW-426378_0003.jpg/info.json"/>
+            <pb xml:id="p004" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587700-BCUL-PREVIEW-426378_0004.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p004_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_2_tl_1"/>les Américains à Rihami? qui, 
+               <lb xml:id="p004_tr_2_tl_2"/>tout en étant charmants, 
+               <lb xml:id="p004_tr_2_tl_3"/>ne som[m]es pas de notre cœur. 
+               <lb xml:id="p004_tr_2_tl_4"/>Et toi -  
+               <lb xml:id="p004_tr_2_tl_5"/>Non, Claude, je ne pourrai te 
+               <lb xml:id="p004_tr_2_tl_6"/>rejoindre en Alger. Encore, 
+               <lb xml:id="p004_tr_2_tl_7"/>je préfère te voir non - soldat. 
+               <lb xml:id="p004_tr_2_tl_8"/>Oh Claude - </p>
+
+            <milestone unit="textregion" xml:id="p004_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_1_tl_1"/>Mais j'espère (en ce ne soit 
+               <lb xml:id="p004_tr_1_tl_2"/>pas trop dure et long pour toi. 
+               <lb xml:id="p004_tr_1_tl_3"/>Frid est parti pour Berlin. 
+               <lb xml:id="p004_tr_1_tl_4"/>Je reste seule, courageux pendant 
+               <lb xml:id="p004_tr_1_tl_5"/>la journée. Etranges soirs ... 
+               <lb xml:id="p004_tr_1_tl_6"/>Au revoir. 
+               <lb xml:id="p004_tr_1_tl_7"/>Tu auras les articles en 2-3 
+               <lb xml:id="p004_tr_1_tl_8"/>semaines. A toi. 
+               <lb xml:id="p004_tr_1_tl_9"/>A.</p>
+
+            <pb xml:id="p005" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587700-BCUL-PREVIEW-426378_0005.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p005_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p005_tr_1_tl_1"/>M. Claude Bourdet 
+               <lb xml:id="p005_tr_1_tl_2"/><del rend="overstrike">47 Av. de Jéna 
+                  <lb xml:id="p005_tr_1_tl_4"/>Paris 
+                  <lb xml:id="p005_tr_1_tl_8"/>France</del> 
+               <lb xml:id="p005_tr_1_tl_3"/>[Fremde Hand] S. O. R. 
+               <lb xml:id="p005_tr_1_tl_5"/>Ecole militaire 
+               <lb xml:id="p005_l"/>artillerie Informerie? 
+               <lb xml:id="p005_l_1"/>Poitiers (Vienne) [Stempel: 11 I 34]</p>
+
+            <pb xml:id="p006" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587700-BCUL-PREVIEW-426378_0006.jpg/info.json"/></div>
+       </body>
+    </text>
+ </TEI>
