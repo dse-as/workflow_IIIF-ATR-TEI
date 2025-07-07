@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0026" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0026#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0026</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0026_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587701-BCUL-PREVIEW-426379_0001.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_2"/>Bagdad 8 II 34 
+               <lb xml:id="p001_tr_1_tl_3"/>Maude Hotel 
+               <lb xml:id="p001_tr_1_tl_4"/>Mon cher petit, 
+               <lb xml:id="p001_tr_1_tl_5"/>ich bin gar nicht glücklich, 
+               <lb xml:id="p001_tr_1_tl_6"/>dass Du wieder krank bist 
+               <lb xml:id="p001_tr_1_tl_7"/>obwohl Dein Lazarett-Brief 
+               <lb xml:id="p001_tr_1_tl_8"/>sehr reizend u. voll sanfter 
+               <lb xml:id="p001_tr_1_tl_9"/>Phantasie war. Hat man Dich 
+               <lb xml:id="p001_tr_1_tl_10"/>ordentlich gepflegt? Strengst</p>
+
+            <milestone unit="textregion" xml:id="p001_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_2_tl_1"/>Du Dich nicht zuviel an? 
+               <lb xml:id="p001_tr_2_tl_2"/>Denkst Du noch daran, nach 
+               <lb xml:id="p001_tr_2_tl_3"/>Afrika versetzt zu werden? 
+               <lb xml:id="p001_tr_2_tl_4"/>Wie lange dauert diese 
+               <lb xml:id="p001_tr_2_tl_5"/>ärgerliche uniformierte 
+               <lb xml:id="p001_tr_2_tl_6"/>Verkleidung meines Freundes 
+               <lb xml:id="p001_tr_2_tl_7"/>noch an? Je n'y tiens pas ...</p>
+
+            <pb xml:id="p002" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587701-BCUL-PREVIEW-426379_0004.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p002_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_2_tl_1"/>Dein Gedicht ist hübsch u. 
+               <lb xml:id="p002_tr_2_tl_2"/>klingt, wie ein bemühtes Lied 
+               <lb xml:id="p002_tr_2_tl_3"/>Eines, der aus Liebe grübelt 
+               <lb xml:id="p002_tr_2_tl_4"/>u. stam[m]elt u. plötzlich ein 
+               <lb xml:id="p002_tr_2_tl_5"/>goldenes Wort sagt.</p>
+
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>Je travaille, moi, à m' exprimer. 
+               <lb xml:id="p002_tr_1_tl_2"/>À trouver la sûreté de style 
+               <lb xml:id="p002_tr_1_tl_3"/>pour le "Tagebuch" et pour 
+               <lb xml:id="p002_tr_1_tl_4"/>les articles. A être nette, 
+               <lb xml:id="p002_tr_1_tl_5"/>claire, objective. 
+               <lb xml:id="p002_tr_1_tl_6"/>Ich war in den Riesentaupeln 
+               <lb xml:id="p002_tr_1_tl_7"/>von Warka - Urule, u. habe 
+               <lb xml:id="p002_tr_1_tl_8"/>gesehen wie junge Deutsche 
+               <lb xml:id="p002_tr_1_tl_9"/>arbeiten. Welches Volk, Claude! 
+               <lb xml:id="p002_tr_1_tl_10"/>Und welche Möglichkeiten 
+               <lb xml:id="p002_tr_1_tl_11"/>zwischen Schiller u. Hitler ...</p>
+
+            <pb xml:id="p003" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587701-BCUL-PREVIEW-426379_0003.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_1"/>Ich warte darauf, nach Persien 
+               <lb xml:id="p003_tr_1_tl_2"/>fahren zu kön[n]en. In der 
+               <lb xml:id="p003_tr_1_tl_3"/>Zwischenzeit lerne ich 
+               <lb xml:id="p003_tr_1_tl_4"/>Arabisch. 
+               <lb xml:id="p003_tr_1_tl_5"/>Ich hätte es nötig wieder 
+               <lb xml:id="p003_tr_1_tl_6"/>einmal einen Freund zu 
+               <lb xml:id="p003_tr_1_tl_7"/>sehen 
+               <lb xml:id="p003_tr_1_tl_8"/>Mais voilà ...</p>
+
+            <milestone unit="textregion" xml:id="p003_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_2_tl_1"/>Soigne-toi 
+               <lb xml:id="p003_tr_2_tl_2"/>Je pense à toi mon 
+               <lb xml:id="p003_tr_2_tl_3"/>Claude. 
+               <lb xml:id="p003_tr_2_tl_4"/>A</p>
+
+            <pb xml:id="p004" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587701-BCUL-PREVIEW-426379_0002.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_1_tl_1"/>Bis 15. März: 
+               <lb xml:id="p004_tr_1_tl_2"/><hi rendition="#u">Teheran</hi> 
+               <lb xml:id="p004_tr_1_tl_3"/>c/o Deutsche Gesandtschaft</p>
+
+            <pb xml:id="p005" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587701-BCUL-PREVIEW-426379_0005.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p005_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p005_l"/>By imperial Airway 
+               <lb xml:id="p005_l_13"/>Monsieur Claude Bourdet 
+               <lb xml:id="p005_l_20"/><hi rendition="#u">Poitiers</hi> 
+               <lb xml:id="p005_l_27"/>Ecole Militaire d' Artillerie 
+               <lb xml:id="p005_l_34"/>14ème Brigade 
+               <lb xml:id="p005_l_41"/><hi rendition="#u">France</hi> [Stempel: unleserlich]</p>
+
+            <pb xml:id="p006" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587701-BCUL-PREVIEW-426379_0006.jpg/info.json"/></div>
+       </body>
+    </text>
+ </TEI>
