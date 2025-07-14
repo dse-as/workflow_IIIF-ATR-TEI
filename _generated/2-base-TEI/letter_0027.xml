@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0027" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0027#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0027</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0027_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587702-BCUL-PREVIEW-426380_0001.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_2_tl_2"/>Teheran - 4 Avril 
+               <lb xml:id="p001_tr_2_tl_3"/>Légation Allemande 
+               <lb xml:id="p001_tr_2_tl_4"/>Mon ami, ta lettre est arrivée presque immédiatement 
+               <lb xml:id="p001_tr_2_tl_5"/>après que la mienne était partie - Je suis, dans 
+               <lb xml:id="p001_tr_2_tl_6"/>cet étrange et grand pays, trop loin pour une 
+               <lb xml:id="p001_tr_2_tl_7"/>bonne <del rend="overstrike">et</del> conversation! Mais, avant de quitter Teheran 
+               <lb xml:id="p001_tr_2_tl_8"/>pour aller à Persepolis et chez le Professeur Herzfeld, 
+               <lb xml:id="p001_tr_1_tl_1"/>je veux te rappeler ...</p>
+
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_2"/>Lieber Claude, ich bin ziemlich froh dass Du wahr 
+               <lb xml:id="p001_tr_1_tl_3" break="no"/>scheinlich nicht nach Afrika gehst. Es soll schön 
+               <lb xml:id="p001_tr_1_tl_4"/>dort sein, ein Abenteuer. Aber ich fürchte im[m]er, 
+               <lb xml:id="p001_tr_1_tl_5"/>Deine Gesundheit hält nicht soviel aus. Und 
+               <lb xml:id="p001_tr_1_tl_6"/>die Lupe des Militärdienst ist ja nicht das, 
+               <lb xml:id="p001_tr_1_tl_7"/>was wir uns wünschen. -  
+               <lb xml:id="p001_tr_1_tl_8"/>Ich war hier zuerst sehr müde, <del rend="overstrike">ich kan[n]</del> es ist fast 
+               <lb xml:id="p001_tr_1_tl_9"/>zuviel: 6 Monate, im[m]er <hi rendition="#u">rasche</hi> u. neue Eindrücke! 
+               <lb xml:id="p001_tr_1_tl_10"/>Ich wohne aber bei Herr u. Frau von Blücher, 
+               <lb xml:id="p001_tr_1_tl_11"/>et me voilà très heureux, très soignée, très 
+               <lb xml:id="p001_tr_1_tl_12"/>verwöhnt dans une atmosphère cultivée - 
+               <lb xml:id="p001_tr_1_tl_13"/>et avec Madame von Blücher qui est plus 
+               <lb xml:id="p001_tr_1_tl_14"/>que diamante. Je l'aime beaucoup.</p>
+
+            <pb xml:id="p002" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587702-BCUL-PREVIEW-426380_0002.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>Da mich nichts in Europa sehr anzieht, u. 
+               <lb xml:id="p002_tr_1_tl_3"/>keine Arbeit mich dort erwartet u. 
+               <lb xml:id="p002_tr_1_tl_6"/>von der schrecklichen aktuellen Auseinandersetzung 
+               <lb xml:id="p002_tr_1_tl_7"/>schützt - denke ich, dass ich nur den 
+               <lb xml:id="p002_tr_1_tl_8"/>Som[m]er zurück komm will, wegen zu Hause, 
+               <lb xml:id="p002_tr_1_tl_9"/>u. Klaus u. Erika, (ja, Dich will ich auch u. 
+               <lb xml:id="p002_tr_1_tl_10"/>bald u. unbedingt sehen, mon vieux!) 
+               <lb xml:id="p002_tr_1_tl_11"/>Nachher aber hierher zurück hebben u. 
+               <lb xml:id="p002_tr_1_tl_12"/>- Bei der Ausgrabung von Dr. Erich Schmidt 
+               <lb xml:id="p002_tr_1_tl_13"/>in <hi rendition="#u">Rage</hi> [Rey or Ray (; , Šahr-e Rey, "City of Ray"), also known as Rhages] (welches die Mongolen zerstört 
+               <lb xml:id="p002_tr_1_tl_14"/>haben) arbeiten – une sorte de "stage" pratique.</p>
+
+            <milestone unit="textregion" xml:id="p002_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_2_tl_1"/>Ich werde Ende April zu Hause 
+               <lb xml:id="p002_tr_2_tl_2"/>sein, Bocken bei Horgen. Ecrits-moi un peu, 
+               <lb xml:id="p002_tr_2_tl_3"/>quand tu seras libre. Ich bin so froh, dass ein 
+               <lb xml:id="p002_tr_2_tl_4"/>grosser Teil Deines Jahres vorbei ist. It is 
+               <lb xml:id="p002_tr_2_tl_5"/>still long enough - 
+               <lb xml:id="p002_tr_2_tl_6"/>Je t'embrasse 
+               <lb xml:id="p002_tr_2_tl_7"/>Annemarie</p>
+
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l_47"/>J' étais 5 jours au bord de 
+               <lb xml:id="p002_l_54"/>la mer caspienne. J' ai  
+               <lb xml:id="p002_l"/>beaucoup aimé!</p>
+
+            <pb xml:id="p003" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587702-BCUL-PREVIEW-426380_0003.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_2"/><hi rendition="#u">Via U.d.S.S.R. 
+                  <lb xml:id="p003_tr_1_tl_3"/>France</hi> 
+               <lb xml:id="p003_tr_1_tl_4"/>Herrn Claude Bourdet 
+               <lb xml:id="p003_tr_1_tl_5"/>47, Av. de Jéna 
+               <lb xml:id="p003_tr_1_tl_6"/>Paris [Stempel: 4. IV. 34]</p>
+
+            <pb xml:id="p004" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587702-BCUL-PREVIEW-426380_0004.jpg/info.json"/></div>
+       </body>
+    </text>
+ </TEI>
