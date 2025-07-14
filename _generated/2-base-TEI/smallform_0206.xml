@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0206" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0206#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0206</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0206"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0206_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0206_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_tl_1"/>"Die Reise nach Pittsburgh" 
+               <lb xml:id="p001_r_tl_2"/>Von <hi rendition="#g">Annemarie Clark</hi></p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_tl_3"/>(Schluß.)</p>
+            <p> 
+               <lb xml:id="p001_r_tl_4"/>Vierundzwanzig Stunden später erreichen wir die 
+               <lb xml:id="p001_r_tl_5"/>Stadt <hi rendition="#g">Pittsburgh</hi>, die Festung von Stahl und 
+               <lb xml:id="p001_r_tl_6"/>Eisen, die Hochburg der Millionenvermögen von Mel 
+               <lb xml:id="p001_r_tl_7" break="no"/>lon und Carnegie, die Stätte der Fabrikhallen, Hoch 
+               <lb xml:id="p001_r_tl_8" break="no"/>öfen und Schmelzen, von denen das Schicksal von 
+               <lb xml:id="p001_r_tl_9"/>Tausenden und aber Tausenden von Arbeitern abhängt, 
+               <lb xml:id="p001_r_tl_10"/>und wo sich der größte Kampf des heutigen Amerikas, 
+               <lb xml:id="p001_r_tl_11"/>der Kampf zwischen "Kapital" und "Arbeit" drama 
+               <lb xml:id="p001_r_tl_12" break="no"/>tisch zuspitzt und entscheiden wird.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_13"/>Ich hatte mich auf die Enttäuschung vorbereitet, 
+               <lb xml:id="p001_r_tl_14"/>eine der üblichen, großen, öden, amerikanischen Städte 
+               <lb xml:id="p001_r_tl_15"/>zu finden, deren Gesicht sich dem Fremden verschließt 
+               <lb xml:id="p001_r_tl_16"/>und jede Interpretation schwierig macht. Ich hatte 
+               <lb xml:id="p001_r_tl_17"/>erwartet, die Geschichte von Pittsburgh in Büchern 
+               <lb xml:id="p001_r_tl_18"/>lesen und sehr wenig über seine Gegenwart in Bu 
+               <lb xml:id="p001_r_tl_19" break="no"/>reaux erfahren zu müssen. Aber der Anblick dieser 
+               <lb xml:id="p001_r_tl_20"/>Stadt ist von der monumentalen Deutlichkeit eines 
+               <lb xml:id="p001_r_tl_21"/>archaischen Felsreliefs, von gewaltiger Hand für alle 
+               <lb xml:id="p001_r_tl_22"/>Zeiten gezeichnet.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_23"/>Wir fuhren im rieselnden Regen des frühen 
+               <lb xml:id="p001_r_tl_24"/>Januarabends die "fünfte Avenue" hinunter, und be 
+               <lb xml:id="p001_r_tl_25" break="no"/>gegneten zuerst, auf der Kuppe des Stadthügels, dem 
+               <lb xml:id="p001_r_tl_26"/>Sitz des Reichtums: Carnegie–Museum und Mellon 
+               <lb xml:id="p001_r_tl_27" break="no"/>Bibliothek, in der Form eines griechischen Tempels 
+               <lb xml:id="p001_r_tl_28"/>aus Stein und Marmor errichtet. In der billig ge 
+               <lb xml:id="p001_r_tl_29" break="no"/>schmückten Oede des Hotels "Webster Hall" mischten 
+               <lb xml:id="p001_r_tl_30"/>sich die gellenden Klänge von mehreren Tanzkapellen, 
+               <lb xml:id="p001_r_tl_31"/>bedienten Neger in der überfüllten Bar, trafen sich 
+               <lb xml:id="p001_r_tl_32"/>Handelsreisende, die Söhne der Reichen, Studenten, 
+               <lb xml:id="p001_r_tl_33"/>und Frauen in protzigen Abendkleidern mit künstlichen 
+               <lb xml:id="p001_r_tl_34"/>Blumen und künstlichem Schmuck überladen. Dicht 
+               <lb xml:id="p001_r_tl_35"/>benachbart dieser lauten und drastisch–rohen Stätte er 
+               <lb xml:id="p001_r_tl_36" break="no"/>hebt sich die "Kathedrale des Lernens", ein Wolken 
+               <lb xml:id="p001_r_tl_37" break="no"/>kratzer–Dom aus dunklem Stein, der sich mit gotisch 
+               <lb xml:id="p001_r_tl_38" break="no"/>strebenden Pfeilern im Nachthimmel verliert. Die 
+               <lb xml:id="p001_r_tl_39"/>Avenue senkt sich zur Stadt hinab, – und schon be 
+               <lb xml:id="p001_r_tl_40" break="no"/>findet man sich im bunten Wirbel von Geschäfts
+               <milestone unit="textregion" xml:id="p001_r_6"/> 
+               <lb xml:id="p001_r_6_tl_1" break="no"/>straßen, und in der Enge von Arbeitergassen ohne 
+               <lb xml:id="p001_r_6_tl_2"/>Pflaster und Beleuchtung. Hoch über dem Fluß zieht 
+               <lb xml:id="p001_r_6_tl_3"/>sich ein Boulevard hin, dem wir langsam entlang 
+               <lb xml:id="p001_r_6_tl_4" break="no"/>fahren: der Fluß ist dunkel und still, aus dem Nebel 
+               <lb xml:id="p001_r_6_tl_5"/>erheben sich schattenhaft ein Wald von Fabrikschloten, 
+               <lb xml:id="p001_r_6_tl_6"/>sie säumen das jenseitige Ufer, und werden erleuchtet 
+               <lb xml:id="p001_r_6_tl_7"/>von den roten Flammen, die in regelmäßigen Zeit 
+               <lb xml:id="p001_r_6_tl_8" break="no"/>räumen aus den Türmen der Hochöfen emporschlagen.</p>
+            <p> 
+               <lb xml:id="p001_r_6_tl_9"/>Ein kostbarer Empfehlungsbrief tat am folgenden 
+               <lb xml:id="p001_r_6_tl_10"/>Tag seinen Dienst: eine Packard–Limousine brachte 
+               <lb xml:id="p001_r_6_tl_11"/>uns dreißig Meilen durch die Vorstädte Pittsburghs 
+               <lb xml:id="p001_r_6_tl_12"/>nach Aliquippa hinaus, wo Jones &amp; Laughlin, die 
+               <lb xml:id="p001_r_6_tl_13"/>viertgrößte Stahl–Gesellschaft der U. S. A., elftausend 
+               <lb xml:id="p001_r_6_tl_14"/>Arbeiter in einem einzigen Stahlwerk beschäftigt. Es 
+               <lb xml:id="p001_r_6_tl_15"/>bedurfte einer Reihe von Formalitäten, bis wir das 
+               <lb xml:id="p001_r_6_tl_16"/>über vier Meilen ausgedehnte Fabrikareal betreten 
+               <lb xml:id="p001_r_6_tl_17"/>durften, – die Herren in ihren Bureaux flüsterten 
+               <lb xml:id="p001_r_6_tl_18"/>und telephonierten, zwei junge Ingenieure wurden 
+               <lb xml:id="p001_r_6_tl_19"/>als Führer bestellt, Privatpolizisten der Gesellschaft, 
+               <lb xml:id="p001_r_6_tl_20"/>– mit Revolvern und Gummiknüppeln ausgerüstet –, 
+               <lb xml:id="p001_r_6_tl_21"/>verlangten Ausweise, man teilte uns mit, daß wir 
+               <lb xml:id="p001_r_6_tl_22"/>nicht photographieren dürften, und daß wir seit zwei 
+               <lb xml:id="p001_r_6_tl_23"/>Jahren die ersten Besucher weiblichen Geschlechts 
+               <lb xml:id="p001_r_6_tl_24"/>seien. – Dann wurden wir eingeweiht in das Ge 
+               <lb xml:id="p001_r_6_tl_25" break="no"/>heimnis des schmelzenden Elements. Der Anblick 
+               <lb xml:id="p001_r_6_tl_26"/>war atemraubend: trotz aller perfekten technischen Er 
+               <lb xml:id="p001_r_6_tl_27" break="no"/>findung und Routine schien es uns noch so elemen 
+               <lb xml:id="p001_r_6_tl_28" break="no"/>tar zuzugehen wie in Wielands Schmiede. Koks, 
+               <lb xml:id="p001_r_6_tl_29"/>Limbstone und Roheisen kochen in offenen Oefen, ge 
+               <lb xml:id="p001_r_6_tl_30" break="no"/>preßte Luft reinigt die Mischung in Atemstößen, 
+               <lb xml:id="p001_r_6_tl_31"/>welche gewaltige Funkengarben durch die Halle zer 
+               <lb xml:id="p001_r_6_tl_32" break="no"/>streuen. Dann neigt sich der Ofen, und der flüssige 
+               <lb xml:id="p001_r_6_tl_33"/>Stahl schießt in einem wasserhellen Strahl in einen 
+               <lb xml:id="p001_r_6_tl_34"/>riesigen Kessel. Wir beobachteten von einer Brüstung 
+               <lb xml:id="p001_r_6_tl_35"/>aus, wie die Männer neben uns, in Asbestmänteln, 
+               <lb xml:id="p001_r_6_tl_36"/>die Augen mit blauen Gläsern geschützt, vorstürzten 
+               <lb xml:id="p001_r_6_tl_37"/>und Manganerz in die unheimlich kochende Mischung 
+               <lb xml:id="p001_r_6_tl_38"/>schaufelten. Ein Kran bewegte sich heran, hob den 
+               <lb xml:id="p001_r_6_tl_39"/>Kessel zu den wartenden Formen und füllte sie mit 
+               <lb xml:id="p001_r_6_tl_40"/>dem brodelnden Metall, das, in Blöcke gepreßt, noch 
+               <lb xml:id="p001_r_6_tl_41"/>glühend, in Bäder getaucht und dann in Schienen ge 
+               <lb xml:id="p001_r_6_tl_42" break="no"/>schleudert wurde: durch endlose Hallen schoß der rote 
+               <lb xml:id="p001_r_6_tl_43"/>Block, wurde von Backen erfaßt, schmaler gepreßt,
+               <milestone unit="textregion" xml:id="p001_r_7"/> 
+               <lb xml:id="p001_r_7_tl_1"/>schoß weiter, eine glühende Schlange, bis die Männer 
+               <lb xml:id="p001_r_7_tl_2"/>am Ende der Schiene sie auffingen und in Stahl 
+               <lb xml:id="p001_r_7_tl_3" break="no"/>bänder von handlicher Länge zerschnitten.</p>
+            <p> 
+               <lb xml:id="p001_r_7_tl_4"/>Vier Stunden dauerte der Gang durch das Werk, 
+               <lb xml:id="p001_r_7_tl_5"/>glühende Hitze wechselte mit eisigem Januarwind in 
+               <lb xml:id="p001_r_7_tl_6"/>offenen Hallen, das weißblendende Feuer der Schmelz 
+               <lb xml:id="p001_r_7_tl_7" break="no"/>öfen mit dem violetten Licht in der Zinn–Abteilung, 
+               <lb xml:id="p001_r_7_tl_8"/>das ohrenbetäubende Zischen der Flammen mit dem 
+               <lb xml:id="p001_r_7_tl_9"/>nervenzerrüttend gleichmäßigen Geräusch der Spezial 
+               <lb xml:id="p001_r_7_tl_10" break="no"/>maschinen in den Maschinensälen, der Geruch von 
+               <lb xml:id="p001_r_7_tl_11"/>Kohle und Schwefel mit dem von chemischen Bädern, 
+               <lb xml:id="p001_r_7_tl_12"/>wo Draht gereinigt und amalgamiert wurde.</p>
+            <p> 
+               <lb xml:id="p001_r_7_tl_13"/>Mit uns verließen in der Abenddämmerung Scha 
+               <lb xml:id="p001_r_7_tl_14" break="no"/>ren von Arbeitern das Werk, neue fluteten herein, um 
+               <lb xml:id="p001_r_7_tl_15"/>die Nachtschicht zu übernehmen. Die bewaffneten Poli 
+               <lb xml:id="p001_r_7_tl_16" break="no"/>zisten kontrollierten ihre Ausweise ...</p>
+            <p> 
+               <lb xml:id="p001_r_7_tl_17"/>Wir versuchten, während der Rückfahrt, die Mei 
+               <lb xml:id="p001_r_7_tl_18" break="no"/>nung unseres Begleiters über die von Lewis unter 
+               <lb xml:id="p001_r_7_tl_19" break="no"/>nommene Kampagne zur Organisierung der Stahl 
+               <lb xml:id="p001_r_7_tl_20" break="no"/>arbeiter in einer einzigen sogenannten "Industriellen 
+               <lb xml:id="p001_r_7_tl_21"/>Gewerkschaft" zu erfahren. Er antwortete ungern, und 
+               <lb xml:id="p001_r_7_tl_22"/>ausweichend. "Unsere Leute", behauptete er, "wollen 
+               <lb xml:id="p001_r_7_tl_23"/>keine Einmischung von außen. Wir haben mit Lewis 
+               <lb xml:id="p001_r_7_tl_24"/>nichts zu schaffen." – Es klang unwahrscheinlich. 
+               <lb xml:id="p001_r_7_tl_25"/>Aber unser Begleiter – als Vertreter eines der grös 
+               <lb xml:id="p001_r_7_tl_26" break="no"/>ten Stahlwerke der U. S. A. – zog es vor, schwei 
+               <lb xml:id="p001_r_7_tl_27" break="no"/>gend über die wichtigste Auseinandersetzung zwischen 
+               <lb xml:id="p001_r_7_tl_28"/>Arbeitgebern und Arbeitnehmern hinwegzugehen, – 
+               <lb xml:id="p001_r_7_tl_29"/>einer Auseinandersetzung, die seit dem von Lewis ge 
+               <lb xml:id="p001_r_7_tl_30" break="no"/>leiteten "General–motors"–Streik in prinzipielle Bah 
+               <lb xml:id="p001_r_7_tl_31" break="no"/>nen geleitet ist und eine der größten Fragen der 
+               <lb xml:id="p001_r_7_tl_32"/>amerikanischen Zukunft beantworten wird ...</p>
+            <p> 
+               <lb xml:id="p001_r_7_tl_34"/>Am nächsten Vormittag trafen wir in den Bureaux 
+               <lb xml:id="p001_r_7_tl_33"/>des "Comités zur Organisierung der Stahlarbeiter" 
+               <lb xml:id="p001_r_7_tl_35"/>einen jungen Mann, der, früher Collegestudent, end 
+               <lb xml:id="p001_r_7_tl_36" break="no"/>lich als einfacher Arbeiter im Stahlwerk von Ali 
+               <lb xml:id="p001_r_7_tl_37" break="no"/>quippa untergekommen ist. Von ihm erfuhren wir, 
+               <lb xml:id="p001_r_7_tl_38"/>daß von den 11,000 Leuten von Jones &amp; Laughlin 
+               <lb xml:id="p001_r_7_tl_39"/>bereits viertausend von der Organisation von John 
+               <lb xml:id="p001_r_7_tl_40"/>L. Lewis erfaßt sind, – und daß die Gesellschaft im 
+               <lb xml:id="p001_r_7_tl_41"/>Zeitraum von sechs Monaten nicht weniger als achtzig 
+               <lb xml:id="p001_r_7_tl_42"/>Leute wegen organisatorischer Tätigkeit, wenn auch 
+               <lb xml:id="p001_r_7_tl_43"/>unter anderen Vorwänden, entlassen hat.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_13"/>            <p> 
+               <lb xml:id="p001_r_13_tl_2"/>Die intelligenten, sachlich geschulten und zielbe 
+               <lb xml:id="p001_r_13_tl_1" break="no"/>wußten Mitglieder des "Comités" machten einen 
+               <lb xml:id="p001_r_13_tl_3"/>ausgezeichneten, – und optimistischen – Eindruck. 
+               <lb xml:id="p001_r_13_tl_4"/>Sie schienen ihrer Sache sicher. Die Organisation der 
+               <lb xml:id="p001_r_13_tl_5"/>Stahlarbeiter, sagten sie, würde ebenso gelingen wie 
+               <lb xml:id="p001_r_13_tl_6"/>einige Jahre zuvor die in einer glänzenden Kam 
+               <lb xml:id="p001_r_13_tl_7" break="no"/>pagne durchgeführte Organisation der "Vereinigten 
+               <lb xml:id="p001_r_13_tl_8"/>Bergarbeiter Amerikas", die heute die größte und 
+               <lb xml:id="p001_r_13_tl_9"/>bestgeführte Gewerkschaft der amerikanischen Groß 
+               <lb xml:id="p001_r_13_tl_10" break="no"/>industrie ist. Die Richtigkeit und Notwendigkelt der 
+               <lb xml:id="p001_r_13_tl_11"/>von Lewis verfochtenen Prinzipien sei unleugbar: 
+               <lb xml:id="p001_r_13_tl_12"/>Amerika habe bisher weder soziales Verantwortungs 
+               <lb xml:id="p001_r_13_tl_13" break="no"/>bewußtsein noch eine andere Gesetzgebung als die der 
+               <lb xml:id="p001_r_13_tl_14"/>Besitzrechte gekannt, – eine Tatsache, die sich heute 
+               <lb xml:id="p001_r_13_tl_15"/>katastrophal, im Sinne nackten Gewaltkampfes, aus 
+               <lb xml:id="p001_r_13_tl_16" break="no"/>wirken müsse – weil den "human rights", den 
+               <lb xml:id="p001_r_13_tl_17"/>menschlichen Ansprüchen der etwa vierzig Millionen 
+               <lb xml:id="p001_r_13_tl_18"/>zählenden Arbeiterschaft kein legaler Anspruch, nicht 
+               <lb xml:id="p001_r_13_tl_19"/>einmal eine legale Basis der Auseinandersetzung ge 
+               <lb xml:id="p001_r_13_tl_20" break="no"/>geben sei. "Der Plan einer alle Arbeiter einer Indu 
+               <lb xml:id="p001_r_13_tl_21" break="no"/>strie umfassenden Organisation, die als einzige In 
+               <lb xml:id="p001_r_13_tl_22" break="no"/>stanz ihrer Interessenvertretung gelten und das Recht 
+               <lb xml:id="p001_r_13_tl_23"/>haben soll, mit den Arbeitgebern kollektiv zu verhan 
+               <lb xml:id="p001_r_13_tl_24" break="no"/>deln, ist keineswegs revolutionär, und ist auch vom 
+               <lb xml:id="p001_r_13_tl_25"/>Standpunkt der Unternehmer und des Kapitals aus 
+               <lb xml:id="p001_r_13_tl_26"/>nur vernünftig", schloß der Mann, der uns in einem 
+               <lb xml:id="p001_r_13_tl_27"/>mehrstündigen Gespräch ein lebendiges Bild von den 
+               <lb xml:id="p001_r_13_tl_28"/>Kämpfen der letzten Jahre gegeben hatte. Es ist eine 
+               <lb xml:id="p001_r_13_tl_29"/>dramatische Geschichte, die Geschichte brutalen Macht 
+               <lb xml:id="p001_r_13_tl_30" break="no"/>kampfs und heroischer Verteidigung, die sich erst ge 
+               <lb xml:id="p001_r_13_tl_31" break="no"/>stern auf dem rohen Boden des gesetzlosen jungen 
+               <lb xml:id="p001_r_13_tl_32"/>Amerika abgespielt hat und sich erst morgen entschei 
+               <lb xml:id="p001_r_13_tl_33" break="no"/>den wird.</p>
+            <p> 
+               <lb xml:id="p001_r_13_tl_34"/>Wir wurden mit Briefen ausgestattet, packten un 
+               <lb xml:id="p001_r_13_tl_35" break="no"/>sere Handtaschen, füllten unseren Benzintank, und 
+               <lb xml:id="p001_r_13_tl_36"/>verließen Pittsburgh am gleichen Abend. Während 
+               <lb xml:id="p001_r_13_tl_37"/>der folgenden Tage sahen wir "die andere Seite" der 
+               <lb xml:id="p001_r_13_tl_38"/>Geschichte: die kleine Stadt Uniontown, umgeben von 
+               <lb xml:id="p001_r_13_tl_39"/>einem Kranz Tag und Nacht brennender Koksöfen, 
+               <lb xml:id="p001_r_13_tl_41"/>– eine Stadt, wo noch 1932 jeder Arbeiter entlassen 
+               <lb xml:id="p001_r_13_tl_40"/>und ausgewiesen wurde, wenn er im Verdacht stand, 
+               <lb xml:id="p001_r_13_tl_42"/>einer "Union" oder Gewerkschaft anzugehören, und 
+               <lb xml:id="p001_r_13_tl_43"/>wo heute viel gearbeitet, viel verdient wird, weil die               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0206_002.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_r_tl_1"/> </p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+            <p> 
+               <lb xml:id="p002_r_tl_1"/>Besitzer der Kohlengruben damit zufrieden sind, mit 
+               <lb xml:id="p002_r_tl_2"/>ihren Angestellten durch eine fähige und loyale Union 
+               <lb xml:id="p002_r_tl_3"/>zu verhandeln – die Union von John L. Lewis. 
+               <lb xml:id="p002_r_tl_4"/>"Isabella Mine", eine einsam gelegene Grube, wo 
+               <lb xml:id="p002_r_tl_5"/>die Arbeiter ihr erstes Versammlungslokal einweihten, 
+               <lb xml:id="p002_r_tl_6"/>ohne, wie früher, von bewaffneter Polizei bedroht zu 
+               <lb xml:id="p002_r_tl_7"/>werden. Scottsrun, – Ort des Elends, ein "Kriegs 
+               <lb xml:id="p002_r_tl_8" break="no"/>kind", dessen schlechte Gruben kürzlich geschlossen wur 
+               <lb xml:id="p002_r_tl_9" break="no"/>den. Die Männer, Neger, Krüppel, Greise, und viele 
+               <lb xml:id="p002_r_tl_10"/>junge Leute mit brutalen, enttäuschten Gesichtern, 
+               <lb xml:id="p002_r_tl_11"/>saßen und standen an die Wand des geschlossenen und 
+               <lb xml:id="p002_r_tl_12"/>verbarrikadierten "Company–stores" gelehnt, gaben 
+               <lb xml:id="p002_r_tl_13"/>ungern Antwort auf unsere Fragen, und sagten, daß 
+               <lb xml:id="p002_r_tl_14"/>mein Apparat "leicht zerbrechen könnte, wenn ich ver 
+               <lb xml:id="p002_r_tl_15" break="no"/>suchen würde, sie zu photographieren". Nach gerau 
+               <lb xml:id="p002_r_tl_16" break="no"/>mer Zeit wurde unsere Beziehung freundlicher, – 
+               <lb xml:id="p002_r_tl_17"/>aber alles, was ich zu hören bekam, war: daß es sich 
+               <lb xml:id="p002_r_tl_18"/>nicht lohne, sich gegen das Elend zu wehren, denn 
+               <lb xml:id="p002_r_tl_19"/>wer einmal arm ist, bleibt arm... auch im Land 
+               <lb xml:id="p002_r_tl_20"/>der unbegrenzten Möglichkeiten.</p>
+            <p> 
+               <lb xml:id="p002_r_tl_21"/>Der Schatten von Pittsburgh lag auf diesem Land. 
+               <lb xml:id="p002_r_tl_22"/>Und wo der starke, mutige und hoffnungsvolle Geist 
+               <lb xml:id="p002_r_tl_23"/>der Männer von Lewis noch nicht hingelangt war, 
+               <lb xml:id="p002_r_tl_24"/>blieb es der Schatten eines langen Abends mensch 
+               <lb xml:id="p002_r_tl_25" break="no"/>licher Trostlosigkeit und Erniedrigung.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
