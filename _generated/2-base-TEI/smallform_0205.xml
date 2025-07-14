@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0205" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0205#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0205</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0205"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0205_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0205_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_tl_1"/>"Die Reise nach Pittsburgh" 
+               <lb xml:id="p001_r_tl_2"/>Von <hi rendition="#g">Annemarie Clark</hi></p>
+            <p> 
+               <lb xml:id="p001_r_tl_3"/>Nach Pittsburgh fährt kein vernünftiger Mensch 
+               <lb xml:id="p001_r_tl_4"/>freiwillig und zu seinem Vergnügen. Amerika ist groß, 
+               <lb xml:id="p001_r_tl_5"/>in New York herrscht laues, ungesundes Winterwetter, 
+               <lb xml:id="p001_r_tl_6"/>die jungen Leute warten auf Schnee, um mit Sports 
+               <lb xml:id="p001_r_tl_7" break="no"/>zügen in die weitentfernten Berge zu fahren, reiche 
+               <lb xml:id="p001_r_tl_8"/>Menschen reisen mit Schrankkoffern, Golfschlägern und 
+               <lb xml:id="p001_r_tl_9"/>Schwimmanzügen nach Miami, Havannah oder Nas 
+               <lb xml:id="p001_r_tl_10" break="no"/>sau, in Kalifornien blühen Blumen und Sträucher, 
+               <lb xml:id="p001_r_tl_11"/>das Meer ist sanft und blau an den Küsten der In 
+               <lb xml:id="p001_r_tl_12" break="no"/>seln von Bermuda, in New Orleans singen die 
+               <lb xml:id="p001_r_tl_13"/>Kreolenmädchen zur Laute, in Charleston tanzen die 
+               <lb xml:id="p001_r_tl_14"/>Neger, weil die Baumwollfelder brach liegen. In 
+               <lb xml:id="p001_r_tl_15"/>New York setze ich mich dem Ruf eines Sonderlings 
+               <lb xml:id="p001_r_tl_16"/>aus, weil ich darauf bestehe, die Reise nach Pittsburgh 
+               <lb xml:id="p001_r_tl_17"/>zu machen, in Washington begegne ich einigem Inter 
+               <lb xml:id="p001_r_tl_18" break="no"/>esse und einigem Mißtrauen. Was will ein Fremder 
+               <lb xml:id="p001_r_tl_19"/>in Pittsburgh, was will ein Mädchen in der "Eiser 
+               <lb xml:id="p001_r_tl_20" break="no"/>nen Stadt"? Das Wasser des Ohio steigt, das Rote 
+               <lb xml:id="p001_r_tl_21"/>Kreuz sammelt für fünfhunderttausend Obdachlose in 
+               <lb xml:id="p001_r_tl_22"/>Cincinnati, Louisville, Paducah, in Detroit und 
+               <lb xml:id="p001_r_tl_23"/>Flint sitzen die streikenden Arbeiter immer noch in den 
+               <lb xml:id="p001_r_tl_24"/>Fabrikhallen von General Motors, – der Ohio aber 
+               <lb xml:id="p001_r_tl_25"/>wird in Pittsburgh geboren und getauft, und dort, 
+               <lb xml:id="p001_r_tl_26"/>im "goldenen Dreieck", wo die beiden Ströme zu 
+               <lb xml:id="p001_r_tl_27" break="no"/>sammenfließen, sitzt der Generalstab des großen 
+               <lb xml:id="p001_r_tl_28"/>Streiks, die Organisatoren des Arbeiterführers John 
+               <lb xml:id="p001_r_tl_29"/>L. Lewis, in den Bureaux im dreißigsten Stockwerk 
+               <lb xml:id="p001_r_tl_30"/>eines Wolkenkratzers. Der Weg nach Pittsburgh führt 
+               <lb xml:id="p001_r_tl_31"/>über die Ketten der Alleghanies und durch das 
+               <lb xml:id="p001_r_tl_32"/>Kohlenbecken Pennsylvaniens. Die Straßen sind über 
+               <lb xml:id="p001_r_tl_33" break="no"/>schwemmt, es herrscht Typhusgefahr, ich werde Ketten 
+               <lb xml:id="p001_r_tl_34"/>für mein Fordauto anschaffen müssen, es ist eine 
+               <lb xml:id="p001_r_tl_35"/>schlechte und gefährliche Jahreszeit.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_36"/>– Aber Eingeweihte und Freunde sagen mir: in 
+               <lb xml:id="p001_r_tl_37"/>Pittsburgh gelten keine Jahreszeiten, in den Hallen 
+               <lb xml:id="p001_r_tl_38"/>der Stahlwerke ist im Winter die Hitze der Hochöfen 
+               <lb xml:id="p001_r_tl_39"/>sengend wie im Sommer, und die schwarze Erde des 
+               <lb xml:id="p001_r_tl_40"/>Kohlengürtels bleibt auch im Frühling schwarz. – 
+               <lb xml:id="p001_r_tl_41"/>Und wir treten die Reise an. – Wir folgen der alten
+               <milestone unit="textregion" xml:id="p001_r_6"/> 
+               <lb xml:id="p001_r_6_tl_1"/>Straße der Planwagen, die vor hundert und noch vor 
+               <lb xml:id="p001_r_6_tl_2"/>fünfzig Jahren über das Gebirge fuhren, um im We 
+               <lb xml:id="p001_r_6_tl_3" break="no"/>sten neues Land zu finden. Wir kommen durch das 
+               <lb xml:id="p001_r_6_tl_4"/>weit ausgebreitete Schlachtfeld von Gettysburgh, 
+               <lb xml:id="p001_r_6_tl_5"/>einem riesigen Friedhof, wo Grabsteine, Denkmäler, 
+               <lb xml:id="p001_r_6_tl_6"/>Farmhäuser und Kanonen über Wiesen und Aecker 
+               <lb xml:id="p001_r_6_tl_7"/>verstreut sind. Abends machen wir Halt in der kleinen 
+               <lb xml:id="p001_r_6_tl_8"/>Stadt Me Connelsburgh, sitzen am Kaminfeuer in 
+               <lb xml:id="p001_r_6_tl_9"/>der Halle des alten "Fultonhouse", die Besitzerin er 
+               <lb xml:id="p001_r_6_tl_10" break="no"/>zählt uns Geschichten aus der gar nicht so fernen Zeit, 
+               <lb xml:id="p001_r_6_tl_11"/>als die Susquehanna–Indianer die Planwagen über 
+               <lb xml:id="p001_r_6_tl_12" break="no"/>fielen, und die Siedlungen der Einwanderer mit 
+               <lb xml:id="p001_r_6_tl_13"/>Pallisaden und Gräben umgeben waren, – der Schul 
+               <lb xml:id="p001_r_6_tl_14" break="no"/>lehrer berichtet über das reiche Farmland Pennsyl 
+               <lb xml:id="p001_r_6_tl_15" break="no"/>vaniens, wo die großen Scheunen Formeln und Zei 
+               <lb xml:id="p001_r_6_tl_16" break="no"/>chen gegen Viehseuchen und Hexenzauber tragen. Der 
+               <lb xml:id="p001_r_6_tl_17"/>Lehrer ist ein blonder junger Mensch, sein Name ist 
+               <lb xml:id="p001_r_6_tl_18"/>Pennypacker, aber seine Vorfahren hießen Panne 
+               <lb xml:id="p001_r_6_tl_19" break="no"/>becker, sie sind "Pennsylvania Dutch", Deutsche aus der 
+               <lb xml:id="p001_r_6_tl_20"/>Rheinpfalz, und kamen vor mehr als zweihundert 
+               <lb xml:id="p001_r_6_tl_21"/>Jahren in dieses Land, wo es jetzt die bestbestellten 
+               <lb xml:id="p001_r_6_tl_22"/>Tabakfelder, das schönste Vieh, die größten Scheunen 
+               <lb xml:id="p001_r_6_tl_23"/>und die sonderbarste Auswahl von religiösen Sekten 
+               <lb xml:id="p001_l"/>gibt.</p>
+            <p> 
+               <lb xml:id="p001_r_6_tl_24"/>Ob wir seine Eltern besuchen wollen, fragt der 
+               <lb xml:id="p001_r_6_tl_25"/>junge Mann, – sie haben eine schöne Farm in Lan 
+               <lb xml:id="p001_r_6_tl_26" break="no"/>caster County, nicht weit von hier. "Fahren Sie nicht 
+               <lb xml:id="p001_r_6_tl_27"/>nach Pittsburgh, wenn Sie auf mich hören wollen", 
+               <lb xml:id="p001_r_6_tl_28"/>sagt er, – "das ist ein trostloser Weg: nichts als 
+               <lb xml:id="p001_r_6_tl_29"/>Kohle, verlassene Gruben und Bootleggers."</p>
+            <p> 
+               <lb xml:id="p001_r_6_tl_30"/>Wir erfahren am nächsten Tag, was es mit diesen 
+               <lb xml:id="p001_r_6_tl_31"/>"Bootleggern" auf sich hat. Sie sind keine Alkohol 
+               <lb xml:id="p001_r_6_tl_32" break="no"/>schmuggler, – der Whisky ist zwar teuer, aber man 
+               <lb xml:id="p001_r_6_tl_33"/>kann ihn überall bekommen, – und die Leute, die 
+               <lb xml:id="p001_r_6_tl_34"/>nach alter Art heimlich schlechten Gin brennen, um 
+               <lb xml:id="p001_r_6_tl_35"/>der staatlichen Steuer zu entgehen, halten sich in den 
+               <lb xml:id="p001_r_6_tl_36"/>Bergen versteckt, treiben ihr Gewerbe nachts, und 
+               <lb xml:id="p001_r_6_tl_37"/>heißen deshalb "Mondscheiner". Die "Bootlegger" sind 
+               <lb xml:id="p001_r_6_tl_38"/>arbeitslose Bergleute und bootleggen Kohle: hier in 
+               <lb xml:id="p001_r_6_tl_39"/>Pennsylvanien, drüben in Westvirginien, im Anthra 
+               <lb xml:id="p001_r_6_tl_40" break="no"/>zitgebiet von Shenandoah, und in vielen ähnlichen 
+               <lb xml:id="p001_r_6_tl_41"/>Plätzen, wo die ertragreichen Gruben einst eine ganze 
+               <lb xml:id="p001_r_6_tl_42"/>Einwanderungswelle von Schotten und Iren, Ita
+               <milestone unit="textregion" xml:id="p001_r_7"/> 
+               <lb xml:id="p001_r_7_tl_1" break="no"/>lienern, Polen und Slowaken nach sich zogen, – um 
+               <lb xml:id="p001_r_7_tl_2"/>dann während der Krisenjahre von den Grubengesell 
+               <lb xml:id="p001_r_7_tl_3" break="no"/>schaften geschlossen zu werden. Was wird aus den 
+               <lb xml:id="p001_r_7_tl_4"/>Menschen, die in den Gruben gearbeitet haben, in 
+               <lb xml:id="p001_r_7_tl_5"/>elenden Baracken wohnten, heirateten und Kinder 
+               <lb xml:id="p001_r_7_tl_6"/>haben und beim besten Willen keine Ersparnisse 
+               <lb xml:id="p001_r_7_tl_7"/>machen konnten? Kein Gesetz schützt sie, kein Gesetz 
+               <lb xml:id="p001_r_7_tl_8"/>verbietet einer Gesellschaft, eine Grube zu schließen, 
+               <lb xml:id="p001_r_7_tl_9"/>wenn sich die Ausbeutung nicht mehr lohnt, – und 
+               <lb xml:id="p001_r_7_tl_10"/>manche Gruben in jüngster Zeit wurden aufgegeben, 
+               <lb xml:id="p001_r_7_tl_11"/>weil Organisatoren der Arbeitergewerkschaften in die 
+               <lb xml:id="p001_r_7_tl_12"/>Grubenstädte kamen, um die unter elenden Lebens 
+               <lb xml:id="p001_r_7_tl_13" break="no"/>bedingungen abgestumpften und hoffnungslosen Män 
+               <lb xml:id="p001_r_7_tl_14" break="no"/>ner aufzurütteln, aufzuklären, in einer "Union" zu 
+               <lb xml:id="p001_r_7_tl_15"/>vereinen. Diese "Kampfansage" wurde mit Gewalt 
+               <lb xml:id="p001_r_7_tl_16"/>beantwortet, die Gesellschaft ließ die Grube "auf 
+               <lb xml:id="p001_r_7_tl_17" break="no"/>fliegen", – und heute begegnet man den trostlosen 
+               <lb xml:id="p001_r_7_tl_18"/>Siedlungen, die man "verlassene Grubenstädte" (De 
+               <lb xml:id="p001_r_7_tl_19" break="no"/>serted Miningtowns) nennt, und wo die Männer 
+               <lb xml:id="p001_r_7_tl_20"/>widerrechtlich das Gewerbe von Kohle–Bootleggern 
+               <lb xml:id="p001_r_7_tl_21"/>ausüben. In den meisten Fällen hindert man sie nicht 
+               <lb xml:id="p001_r_7_tl_22"/>daran, – für die Gesellschaften, denen die Kohle ge 
+               <lb xml:id="p001_r_7_tl_23" break="no"/>hört, lohnt es sich nicht, und die Polizei drückt ein 
+               <lb xml:id="p001_r_7_tl_24"/>Auge zu. "Schließlich kann man die Leute nicht ver 
+               <lb xml:id="p001_r_7_tl_25" break="no"/>hungern lassen", sagte uns ein Polizist, der an einer 
+               <lb xml:id="p001_r_7_tl_26"/>Tankstelle den Benzinbehälter seines Motorrades auf 
+               <lb xml:id="p001_r_7_tl_27" break="no"/>füllte und den wir über die "Bootleggers" befrag 
+               <lb xml:id="p001_r_7_tl_28" break="no"/>ten... Wir hatten einen ersten Hügelzug hinter dem 
+               <lb xml:id="p001_r_7_tl_29"/>friedlichen Städtchen Mc Connelsburgh durchquert, als 
+               <lb xml:id="p001_r_7_tl_30"/>der "Kohlengürtel" schon begann, sich bemerkbar zu 
+               <lb xml:id="p001_r_7_tl_31"/>machen. Die Abhänge der Landstraße sind schwarz, 
+               <lb xml:id="p001_r_7_tl_32"/>die Kohle bricht förmlich aus dem Boden hervor, und 
+               <lb xml:id="p001_r_7_tl_33"/>verdrängt die fette rötliche Erde, verdrängt die 
+               <lb xml:id="p001_r_7_tl_34"/>Felder, färbt die spärlich bewachsenen Wiesen, häuft 
+               <lb xml:id="p001_r_7_tl_35"/>sich an den Hügeln, wo primitive Gruben kaum ein 
+               <lb xml:id="p001_r_7_tl_36"/>paar Meter tief angelegt sind. An der Straße tauchen 
+               <lb xml:id="p001_r_7_tl_37"/>von Hand ungeschickt beschriebene Schilder auf: "Ver 
+               <lb xml:id="p001_r_7_tl_38" break="no"/>sucht es mit unserer Hauskohle. Eine halbe Meile 
+               <lb xml:id="p001_r_7_tl_39"/>nach links", und kleine Lastwagen, Bauernwagen mit 
+               <lb xml:id="p001_r_7_tl_40"/>zwei Pferden bespannt, oder Handwägelchen rollen 
+               <lb xml:id="p001_r_7_tl_41"/>vorbei, alle beladen mit den schwarzen, glänzenden 
+               <lb xml:id="p001_r_7_tl_42"/>Kohleblöcken. Ein Mann, der ein Stück Land besitzt, 
+               <lb xml:id="p001_r_7_tl_43"/>stellt drei oder vier Leute an, kauft Sprengstoff, und
+               <milestone unit="textregion" xml:id="p001_r_8"/> 
+               <lb xml:id="p001_r_8_tl_1"/>gräbt Kohle, ohne viel Vorsichtsmaßregeln. Der 
+               <lb xml:id="p001_r_8_tl_2"/>Mann, der kein Land besitz, gräbt Kohle, wo er sie 
+               <lb xml:id="p001_r_8_tl_3"/>findet, füllt seinen Sack, und bringt ihn auf den Markt 
+               <lb xml:id="p001_r_8_tl_4"/>der nächsten Ortschaft. Das spielt sich im Gebirge ab, 
+               <lb xml:id="p001_r_8_tl_5"/>und im Kleinen, – das Bild ändert sich, als wir in 
+               <lb xml:id="p001_r_8_tl_6"/>die Ebene hinabfahren: da ist es nicht mehr der 
+               <lb xml:id="p001_r_8_tl_7"/>Mensch, der der Kohle nachgeht, da beherrscht die Kohle 
+               <lb xml:id="p001_r_8_tl_8"/>den Menschen und das Land. Schlackenhügel beherr 
+               <lb xml:id="p001_r_8_tl_9" break="no"/>schen den flachen Horizont, der Wind ist beladen mit 
+               <lb xml:id="p001_r_8_tl_10"/>dem Geruch von Kohle und Schwefel, und der Him 
+               <lb xml:id="p001_r_8_tl_11" break="no"/>mel trägt einen Schleier von Kohlenstaub. Eben 
+               <lb xml:id="p001_r_8_tl_12"/>noch waren die Häuser verstreut und versteckt, die 
+               <lb xml:id="p001_r_8_tl_13"/>Siedlungen klein, – jetzt beginnt das sich gleichmäßig 
+               <lb xml:id="p001_r_8_tl_14"/>wiederholende Bild von Grubenorten, die nichts ge 
+               <lb xml:id="p001_r_8_tl_15" break="no"/>mein haben mit den gewohnten Formen menschlicher 
+               <lb xml:id="p001_r_8_tl_16"/>Wohnstätten, Dörfern, Höfen, oder kleinen Städten, 
+               <lb xml:id="p001_r_8_tl_18"/>– sie sind, so scheint es, nicht um der Menschen willen 
+               <lb xml:id="p001_r_8_tl_17"/>da, sondern um der Kohle willen. Man erblickt zuerst 
+               <lb xml:id="p001_r_8_tl_19"/>den schwarzen Schlackenberg, daneben die Kohlen 
+               <lb xml:id="p001_r_8_tl_20" break="no"/>hütte und den ragenden Kran. Dahinter, mitten durch 
+               <lb xml:id="p001_r_8_tl_21"/>das schwärzliche Feld, wo kein Gras wächst und kein 
+               <lb xml:id="p001_r_8_tl_22"/>Baum gedeiht, zieht sich eine Straße, zwischen zwei 
+               <lb xml:id="p001_r_8_tl_23"/>Reihen von würfelförmigen, aus geschwärzten Bret 
+               <lb xml:id="p001_r_8_tl_24" break="no"/>tern errichteten Häusern mit halbblinden Fenstern, 
+               <lb xml:id="p001_r_8_tl_25"/>einem schmutzigen Hinterhof, einer Wäscheleine. Es 
+               <lb xml:id="p001_r_8_tl_26"/>sind "Company-houses", Häuser, Baracken, welche die 
+               <lb xml:id="p001_r_8_tl_27"/>Gesellschaft errichtete, als die Grube eröffnet wurde 
+               <lb xml:id="p001_r_8_tl_28"/>und menschliche Arbeitskräfte nötig waren. Die Häuser 
+               <lb xml:id="p001_r_8_tl_29"/>gehören der Gesellschaft, die sie an die Arbeiter ver 
+               <lb xml:id="p001_r_8_tl_30" break="no"/>mietet. Der einzige Laden der Siedlung, ein Drug 
+               <lb xml:id="p001_r_8_tl_31" break="no"/>store, wo man alles kaufen und auch Kaffee und Bier 
+               <lb xml:id="p001_r_8_tl_32"/>trinken, auch Sandwiches essen kann, gehört ebenfalls 
+               <lb xml:id="p001_r_8_tl_33"/>der Gesellschaft. Und der "Boß", der Aufseher und 
+               <lb xml:id="p001_r_8_tl_34"/>eigentliche Herr der Siedlung, ist natürlich ein Ange 
+               <lb xml:id="p001_r_8_tl_35" break="no"/>stellter der Gesellschaft. Wir fahren durch mehrere 
+               <lb xml:id="p001_r_8_tl_36"/>solche Siedlungen. – in der Dunkelheit scheint darin 
+               <lb xml:id="p001_r_8_tl_37"/>alles Leben dumpf, trostlos, erstorben, – und die 
+               <lb xml:id="p001_r_8_tl_38"/>armseligen Friedhöfe, stille Nachbarn, sind dafür ein 
+               <lb xml:id="p001_r_8_tl_39"/>bedrückendes Symbol.</p>
+            <p> 
+               <lb xml:id="p001_r_8_tl_40"/>Die kleine Stadt, die wir spät abends erreichen 
+               <lb xml:id="p001_r_8_tl_41"/>heißt – ironisch genug – "Mount Pleasant" – die 
+               <lb xml:id="p001_r_8_tl_42"/>Inschrift auf dem Schild an der Hauptstraße setzt er 
+               <lb xml:id="p001_r_8_tl_43" break="no"/>klärend hinzu: "Dieser Name bedeutet: ein angenehmer               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0205_002.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_r_tl_1"/> </p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+            <p> 
+               <lb xml:id="p002_r_tl_1"/>Ort". Die Einwohner dieses angenehmen Orts ar 
+               <lb xml:id="p002_r_tl_2" break="no"/>beiten teils in einer Glasfabrik, zum größern Teil in 
+               <lb xml:id="p002_r_tl_3"/>den Kohlenfeldern von Frick, einem der größten 
+               <lb xml:id="p002_r_tl_4"/>Kohlenmagnaten Amerikas. Wir finden hier kein alt 
+               <lb xml:id="p002_r_tl_5" break="no"/>modisch–idyllisches "Fultonhouse", kein Kaminfeuer, 
+               <lb xml:id="p002_r_tl_6"/>und niemanden, der uns Indianergeschichten erzählt. 
+               <lb xml:id="p002_r_tl_7"/>Das Hotel ist dürftig, das "laufende Wasser" läuft 
+               <lb xml:id="p002_r_tl_8"/>spärlich, das einzige Kino spielt einen alten Holly 
+               <lb xml:id="p002_r_tl_9" break="no"/>wood–Film und ist überfüllt. In der Bar schimpfen 
+               <lb xml:id="p002_r_tl_10"/>zwei Schotten über die "Hunkys", die Ungarn und 
+               <lb xml:id="p002_r_tl_11"/>Slowaken, die als billige Konkurrenz auf dem Arbeits 
+               <lb xml:id="p002_r_tl_12" break="no"/>markt erschienen sind ...</p>
+            <p> 
+               <lb xml:id="p002_r_tl_13"/>Mount Pleasant liegt mitten in dem reichen 
+               <lb xml:id="p002_r_tl_14"/>Kohlengebiet Westmoreland – einer Gegend, die be 
+               <lb xml:id="p002_r_tl_15" break="no"/>sonders heftig von der Krise heimgesucht wurde. Der 
+               <lb xml:id="p002_r_tl_16"/>größere Teil der dortigen Gruben gehört der Frick 
+               <lb xml:id="p002_r_tl_17"/>Coal Company, dem Lieferanten von "U. S. Steel" 
+               <lb xml:id="p002_r_tl_18"/>dem größten Stahl–Konzern der Vereinigten Staaten. 
+               <lb xml:id="p002_r_tl_19"/>Als 1932 ein Teil der Gruben geschlossen werden 
+               <lb xml:id="p002_r_tl_20"/>mußte, beließ man die Arbeiter zunächst in ihren Woh 
+               <lb xml:id="p002_r_tl_21" break="no"/>nungen, und gewährte ihnen Kredit in den "Com 
+               <lb xml:id="p002_r_tl_22" break="no"/>pany–store", – dies, solange die Hoffnung bestand, 
+               <lb xml:id="p002_r_tl_23"/>die Gruben in absehbarer Zeit wieder zu eröffnen. 
+               <lb xml:id="p002_r_tl_24"/>Seither ist die Krise, besonders in der Stahl– und 
+               <lb xml:id="p002_r_tl_25"/>damit auch in der Kohlenindustrie, überwunden – 
+               <lb xml:id="p002_r_tl_26"/>aber die Frick–Company ist nach Südwesten abge 
+               <lb xml:id="p002_r_tl_27" break="no"/>wandert, wo neue, leichter und billiger auszubeutende 
+               <lb xml:id="p002_r_tl_28"/>Gruben eröffnet wurden. Ein kleiner Teil der Ar 
+               <lb xml:id="p002_r_tl_29" break="no"/>beiter wurde von der Company nach den neuen Ar 
+               <lb xml:id="p002_r_tl_30" break="no"/>beitsstätten verpflanzt – ein größerer Teil blieb 
+               <lb xml:id="p002_r_tl_31"/>zurück. Das furchtbare Los dieser "verlassenen Berg 
+               <lb xml:id="p002_r_tl_32" break="no"/>leute" hat in den letzten Jahren die Behörden in 
+               <lb xml:id="p002_r_tl_33"/>Washington beschäftigt. Und nur wenige Meilen von 
+               <lb xml:id="p002_r_tl_34"/>Mount Pleasant entfernt, in einer fruchtbaren, von 
+               <lb xml:id="p002_r_tl_35"/>Hügeln durchzogenen Mulde, befindet sich eines der 
+               <lb xml:id="p002_r_tl_36"/>größten und offenbar glücklichsten Projekte der von 
+               <lb xml:id="p002_r_tl_37"/>Roosevelt ins Leben gerufenen "Behörde für Umsied 
+               <lb xml:id="p002_r_tl_38" break="no"/>lung" – die Westmoreland Heimstätten. Am frühen 
+               <lb xml:id="p002_r_tl_39"/>Morgen überblickten wir die Siedlung von einer nahen 
+               <lb xml:id="p002_r_tl_40"/>Anhöhe – bis zu den erstorbenen Schlackenbergen am 
+               <lb xml:id="p002_r_tl_41"/>grauen Horizont war das Land übersät von weißen 
+               <lb xml:id="p002_r_tl_42"/>Häuschen, durch Gartenland und Wiesen voneinander 
+               <lb xml:id="p002_r_tl_43"/>getrennt, aber alle von der asphaltierten Hauptstraße 
+               <lb xml:id="p002_r_tl_44"/>aus auf Pfaden leicht erreichbar. Die saubere und 
+               <lb xml:id="p002_r_tl_45"/>einfache Architektur, das leuchtende Weiß im frischen 
+               <lb xml:id="p002_r_tl_46"/>Grün, die rauchenden Kamine, die großen Scheunen 
+               <lb xml:id="p002_r_tl_47"/>der "landwirtschaftlichen Kooperative", die flachen Ge 
+               <lb xml:id="p002_r_tl_48" break="no"/>bäude der Hühnerfarmen – dies alles bot einen länd
+               <milestone unit="textregion" xml:id="p002_r_2"/> 
+               <lb xml:id="p002_r_2_tl_1" break="no"/>lich–friedlichen, fast heiteren Anblick und einen traum 
+               <lb xml:id="p002_r_2_tl_2" break="no"/>haften Kontrast zu den elenden und trostlosen Com 
+               <lb xml:id="p002_r_2_tl_3" break="no"/>pany–Siedlungen, die uns am Vorabend so bitter be 
+               <lb xml:id="p002_r_2_tl_4" break="no"/>drückt hatten. Und doch war dies äußerst praktische 
+               <lb xml:id="p002_r_2_tl_5"/>Wirklichkeit ...</p>
+            <p> 
+               <lb xml:id="p002_r_2_tl_6"/>Wir fanden den Manager im Verwaltungsgebäude 
+               <lb xml:id="p002_r_2_tl_7"/>der Siedlung, einem alten Farmhaus, dessen Stuben 
+               <lb xml:id="p002_r_2_tl_8"/>in Bureaux und Lehrzimmer verwandelt worden sind. 
+               <lb xml:id="p002_r_2_tl_9"/>Er ist erst seit ein paar Monaten in Westmoreland 
+               <lb xml:id="p002_r_2_tl_10"/>sein Vorgänger war ein Quäker, ein idealistischer 
+               <lb xml:id="p002_r_2_tl_11"/>junger Mann, der den Siedlern Vorlesungen über 
+               <lb xml:id="p002_r_2_tl_12"/>griechische Philosophie gehalten, und dafür wenig Ver 
+               <lb xml:id="p002_r_2_tl_13" break="no"/>ständnis gefunden hatte. Der neue Manager ist ein 
+               <lb xml:id="p002_r_2_tl_14"/>energischer, etwa vierzigjähriger Mann, dem Tatkraft, 
+               <lb xml:id="p002_r_2_tl_15"/>Intelligenz, und lebhafte Warmherzigkeit aus den 
+               <lb xml:id="p002_r_2_tl_16"/>Augen leuchten. Für rund fünfzehnhundert Menschen 
+               <lb xml:id="p002_r_2_tl_17"/>ist er verantwortlich – und er hat es mit ihnen nicht 
+               <lb xml:id="p002_r_2_tl_18"/>leicht. Sie sind Amerikaner, Slowaken, Schotten – 
+               <lb xml:id="p002_r_2_tl_19"/>viele von ihnen können nicht lesen, viele verstehen 
+               <lb xml:id="p002_r_2_tl_20"/>kaum englisch – alle sind arbeitslose Bergleute, und 
+               <lb xml:id="p002_r_2_tl_21"/>haben Jahre bitterster Not hinter sich. Man bietet 
+               <lb xml:id="p002_r_2_tl_22"/>ihnen ein Haus, ein Stück Gartenland, und beschäftigt 
+               <lb xml:id="p002_r_2_tl_23"/>sie als Notstandsarbeiter teils auf der kooperativen 
+               <lb xml:id="p002_r_2_tl_24"/>Farm, teils bei den Neubauten. Einige von ihnen 
+               <lb xml:id="p002_r_2_tl_25"/>fahren Traktoren, andere züchten Hühner, andere wer 
+               <lb xml:id="p002_r_2_tl_26" break="no"/>den tüchtige Landarbeiter. Sie müssen sich umstellen 
+               <lb xml:id="p002_r_2_tl_27"/>– nicht nur auf eine neue Art von Arbeit, sondern 
+               <lb xml:id="p002_r_2_tl_28"/>vor allem auf ein gänzlich neues Leben. "Man muß 
+               <lb xml:id="p002_r_2_tl_29"/>sie lehren, für sich selbst zu denken" wiederholt der 
+               <lb xml:id="p002_r_2_tl_30"/>Manager immer wieder, und erklärt uns seinen Lieb 
+               <lb xml:id="p002_r_2_tl_31" break="no"/>lingsgedanken, der aus Westmoreland nicht eine<hi rendition="#g"> 
+                  <lb xml:id="p002_r_2_tl_32"/>Wohlfahrtssiedlung</hi>, sondern eine neue und 
+               <lb xml:id="p002_r_2_tl_33"/>lebendige <hi rendition="#g">Gemeinde</hi> machen soll. Und während 
+               <lb xml:id="p002_r_2_tl_34"/>wir Hühnerfarm und Kleinkinderschule, den Theater 
+               <lb xml:id="p002_r_2_tl_35" break="no"/>saal, den neuen, im Bau befindlichen Kuhstall und 
+               <lb xml:id="p002_r_2_tl_36"/>das zukünftige Clubhaus besuchen, sehen wir das Ex 
+               <lb xml:id="p002_r_2_tl_37" break="no"/>periment des "Kollektivs" so deutlich wie in einem 
+               <lb xml:id="p002_r_2_tl_38"/>Laboratorium: Der Siedler von Westmoreland kommt 
+               <lb xml:id="p002_r_2_tl_39"/>aus jenen Grubenorten, welche die niedrigste Form 
+               <lb xml:id="p002_r_2_tl_40"/>menschlichen Zusammenlebens sind – wo der Aufseher 
+               <lb xml:id="p002_r_2_tl_41"/>für alle denkt, allen befiehlt, und wo der einzelne 
+               <lb xml:id="p002_r_2_tl_42"/>Arbeiter nur nach seiner Arbeitskraft bemessen wurde. 
+               <lb xml:id="p002_r_2_tl_43"/>Unselbständig, ausgeliefert dem Unglück der "Krise", 
+               <lb xml:id="p002_r_2_tl_44"/>die über ihn hereinbrach, unfähig, sich zu wehren, 
+               <lb xml:id="p002_r_2_tl_45"/>kommt er eines Tages als Siedler in die Westmore 
+               <lb xml:id="p002_r_2_tl_46" break="no"/>land–Heimstätten, wo das höchste Maß von kollektivem 
+               <lb xml:id="p002_r_2_tl_47"/>Verantwortungsbewußtsein, von loyaler Zusammen 
+               <lb xml:id="p002_r_2_tl_48" break="no"/>arbeit, und persönlichem Handeln von ihm verlangt
+               <milestone unit="textregion" xml:id="p002_r_7"/> 
+               <lb xml:id="p002_r_7_tl_1"/>wird. Viele können sich nicht anpassen, und verlassen 
+               <lb xml:id="p002_r_7_tl_2"/>die Siedlung nach einigen Monaten Probezeit. Andere 
+               <lb xml:id="p002_r_7_tl_3"/>begreifen die Gelegenheit, die ihnen geboten wird, 
+               <lb xml:id="p002_r_7_tl_4"/>kommen bald mit eigenen Vorschlägen, übernehmen 
+               <lb xml:id="p002_r_7_tl_5"/>ein Amt oder eine selbständige Arbeit.</p>
+            <p> 
+               <lb xml:id="p002_r_7_tl_6"/>"Aber wie werden Sie die Leute beschäftigen" frage 
+               <lb xml:id="p002_r_7_tl_7"/>ich, "wenn die Bauten beendigt sind?" – Die Farm 
+               <lb xml:id="p002_r_7_tl_8"/>beansprucht nicht mehr als achtzig Männer, die Hühner 
+               <lb xml:id="p002_r_7_tl_9" break="no"/>zucht etwa ebensoviele. Man wird jemanden für ein 
+               <lb xml:id="p002_r_7_tl_10"/>Fabrikprojekt interessieren müssen. Westmoreland wäre 
+               <lb xml:id="p002_r_7_tl_11"/>geeignet für eine Schokoladenfabrik, wo die Milch 
+               <lb xml:id="p002_r_7_tl_12"/>von der Farm verwendet würde ... Das ist ein an 
+               <lb xml:id="p002_r_7_tl_13" break="no"/>deres Ziel der Regierungsprojekte: Die Menschen 
+               <lb xml:id="p002_r_7_tl_14"/>sollen nicht mehr blindlings den Industrien, Kohlen 
+               <lb xml:id="p002_r_7_tl_15" break="no"/>feldern, Oelquellen folgen, um diesen Mächten schließ 
+               <lb xml:id="p002_r_7_tl_16" break="no"/>lich ausgeliefert zu sein, sondern ein vernünftiger 
+               <lb xml:id="p002_r_7_tl_17"/>Produktionsplan soll den Bedürfnissen der Menschen 
+               <lb xml:id="p002_l_2"/>dienen.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l_1"/>(Schluß folgt.)</p>
+</div>
+       </body>
+    </text>
+ </TEI>
