@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0210" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0210#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0210</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0210"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0210_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0210_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r_124"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l_148"/>"Amerika wird erwachsen."</p>
+            <p> 
+               <lb xml:id="p001_l_155"/>Die bekannte Schweizer Schriftstellerin Dr. Annemarie 
+               <lb xml:id="p001_l_162"/>Clarc-Schwarzenbach, die mit wachen Augen die Welt 
+               <lb xml:id="p001_l_169"/>bereist, spricht am Donnerstagabend über die amerika 
+               <lb xml:id="p001_l_176" break="no"/>nische Form der Demokratie.</p>
+            <p> 
+               <lb xml:id="p001_l_183"/>Als ich im Februar, nach einem halbjährigen Aufenthalt, aus 
+               <lb xml:id="p001_l_190"/>den Vereinigten Staaten zurückreiste, traf ich auf dem Dampfer 
+               <lb xml:id="p001_l_197"/>die englische Laburabgeordnete Helen Wilkinson, die, wie ich, 
+               <lb xml:id="p001_l_204"/>in den Industriegebieten und Kohlengruben gewesen war und 
+               <lb xml:id="p001_l_211"/>den Kampf der Arbeiter, den Kampf der von John L. Lewis ge 
+               <lb xml:id="p001_l_218" break="no"/>führten Gewerkschaften um bessere und legal anerkannte Or 
+               <lb xml:id="p001_l_225" break="no"/>ganisation verfolgt hatte. Wir unterhielten uns, natürlich, über 
+               <lb xml:id="p001_l_232"/>Amerika. Ich erzählte ihr von New York, der Ueberstadt und 
+               <lb xml:id="p001_l_239"/>Zukunftsstadt, die von vielen Besuchern mit Amerika verwech 
+               <lb xml:id="p001_l_246" break="no"/>selt wird, und die mir, mit Wallstreet und Parkavenue, mit ihren 
+               <lb xml:id="p001_l_253"/>Riesen-Warenhäusern, Riesen–Kinos, Riesen–Versammlungen, 
+               <lb xml:id="p001_l_271"/>mit ihrem grausigen Gegensatz zwischen Arm und Reich, zwi 
+               <lb xml:id="p001_l_278" break="no"/>schen verspielt–anspruchsvollem Luxus und stumpfem Elend 
+               <lb xml:id="p001_l_285"/>eigentlich gar nicht so "amerikanisch" vorgekommen war.</p>
+            <p> 
+               <lb xml:id="p001_l_292"/>"New York ist nicht die Zukunftsstadt", antwortete mir Miss 
+               <lb xml:id="p001_l_299"/>Wilkinson. "Sie wissen doch, daß die jungen Amerikaner New 
+               <lb xml:id="p001_l_306"/>York gar nicht mögen, daß es in Washington, dem Zentrum 
+               <lb xml:id="p001_l_313"/>des von Roosevelt geschaffenen New Deal eine Tendenz gegen 
+               <lb xml:id="p001_l_320"/>die Großstadt gibt, daß die fortschrittlichen, sozial geschulten 
+               <lb xml:id="p001_l_327"/>Architekten Pläne für Gartenstädte, Greenbelt–towns, und für 
+               <lb xml:id="p001_l_334"/>die Dezentralisierung der großen Industrieorte machen. Sie 
+               <lb xml:id="p001_l_341"/>wissen, daß Mainstreet gegen Wallstreet, die Hauptstraße der 
+               <lb xml:id="p001_l_348"/>Provinz gegen die weltberühmte Bank– und Börsenstraße New 
+               <lb xml:id="p001_l_355"/>Yorks kämpft." Und sie fügte hinzu: "Wenn morgen das ganze 
+               <lb xml:id="p001_l_362"/>Eiland von New York abbricht und im Meer versinkt, wird das 
+               <lb xml:id="p001_l_369"/>in dem Amerika, dem die Zukunft und unser Interesse gehört, 
+               <lb xml:id="p001_l_376"/>nichts Wichtiges ändern." –</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0210_002.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p002_r_7"/>            <p> 
+               <lb xml:id="p002_l"/>Ich war von diesem Gedanken sehr beeindruckt, weil er viele 
+               <lb xml:id="p002_l_46"/>meiner Beobachtungen bestätigte. Amerika hat immer, seitdem 
+               <lb xml:id="p002_l_53"/>es von Europäern in Besitz genommen wurde, die Aufmerksam 
+               <lb xml:id="p002_l_60" break="no"/>keit der Welt auf sich gezogen, zuerst als reiche, auszubeutende 
+               <lb xml:id="p002_l_67"/>Kolonie, dann als Land der Pioniere, Abenteurer und Glück 
+               <lb xml:id="p002_l_74" break="no"/>sucher, dann als das Reich phantastischen Fortschritts, wo man 
+               <lb xml:id="p002_l_81"/>Wolkenkratzer baut, Millionen verdient, die Massenproduktion 
+               <lb xml:id="p002_l_88"/>und das laufende Band erfindet – endlich, vor einigen Jahren, 
+               <lb xml:id="p002_l_95"/>weil die Krise dort drüben gigantische Formen annahm, die 
+               <lb xml:id="p002_l_102"/>alles bisher Geschaffene und Erworbene wie ein Erdbeben zu 
+               <lb xml:id="p002_l_109"/>verschlingen drohte.</p>
+            <p> 
+               <lb xml:id="p002_l_116"/>Damals, im Jahre 1932, als Roosevelt zum erstenmal zum Prä 
+               <lb xml:id="p002_l_123" break="no"/>sidenten gewählt wurde, ist Amerika aus einem lang gehegten 
+               <lb xml:id="p002_l_130"/>Traum des Reichtums, des Ueberflusses, der Sicherheit, erwacht, 
+               <lb xml:id="p002_l_137"/>damals wurde Amerika erwachsen, würde sich seiner Schwierig 
+               <lb xml:id="p002_l_144" break="no"/>keiten und seiner äußerst gefährdeten Lage bewußt. Bisher 
+               <lb xml:id="p002_l_151"/>waren die Vereinigten Staaten eine liberale Demokratie ge 
+               <lb xml:id="p002_l_158" break="no"/>wesen, Staat und Behörden hatten den Dingen – vielmehr der 
+               <lb xml:id="p002_l_165"/>Initiative, Eroberung, Konkurrenz der Individuen möglichst 
+               <lb xml:id="p002_l_172"/>freien Lauf gelassen, man war dort <hi rendition="#g">frei</hi> wie sonst nirgends, 
+               <lb xml:id="p002_l_179"/>selbst Gesellschafts–Hierarchie und Klassengegensätze fehlten, 
+               <lb xml:id="p002_l_186"/>weil sich die soziale Schichtung durch die Wellen der Einwan 
+               <lb xml:id="p002_l_193" break="no"/>derung in unaufhörlicher Bewegung befand.</p>
+            <p> 
+               <lb xml:id="p002_l_200"/>Seit 1932 hat sich das gründlich verändert. Die liberale, die 
+               <lb xml:id="p002_l_207"/>"passive" Demokratie ist bedroht, wenn es über 5 Millionen 
+               <lb xml:id="p002_l_214"/>Arbeitslose, wenn es Hunderttausende von ruinierten Klein- 
+               <lb xml:id="p002_l_221"/>Farmern, Baumwollpflückern, Taglöhnern gibt, wenn der freie 
+               <lb xml:id="p002_l_228"/>Konkurrenzkampf sich in die grausame Willkür, in das simple 
+               <lb xml:id="p002_l_235"/>"Recht des wirtschaftlich Stärkeren" verwandelt. Die Forde 
+               <lb xml:id="p002_l_242" break="no"/>rung erhob sich, der Staat möge eingreifen, die Funktion der 
+               <lb xml:id="p002_l_249"/>Kontrolle und des Ausgleichs ausüben, die Stärkeren in Schach 
+               <lb xml:id="p002_l_256"/>halten, den Schwächeren bessere Existenzmöglichkeiten bieten. 
+               <lb xml:id="p002_l_263"/>Es ist in erster Linie die amerikanische Jugend, welche diese 
+               <lb xml:id="p002_l_270"/>Notwendigkeit erkannt hat: die Demokratie aktiv zu schützen 
+               <lb xml:id="p002_l_277"/>und zu erhalten. Daß dies innerhalb der demokratischen Staats 
+               <lb xml:id="p002_l_284" break="no"/>form möglich sei, daran wird nicht gezweifelt, denn die Ame 
+               <lb xml:id="p002_l_291" break="no"/>rikaner, gewöhnt an das Nebeneinander von Rassen, Farben 
+               <lb xml:id="p002_l_298"/>und Religionen, an die Duldung Neueingewanderter, an die 
+               <lb xml:id="p002_l_321"/>Forderung, daß jeder ein Anrecht auf Existenz und Aufstieg 
+               <lb xml:id="p002_l_328"/>habe, die Amerikaner sind auf natürliche 
+               <lb xml:id="p002_l_335"/>Weise zu echten Demokraten erzogen. Und 
+               <lb xml:id="p002_l_342"/>der Aufbruch, die freudige Aktivität des 
+               <lb xml:id="p002_l_349"/>besseren Teiles der amerikanischen Nation 
+               <lb xml:id="p002_l_356"/>scheinen uns zu verbürgen, daß ein fried 
+               <lb xml:id="p002_l_363" break="no"/>licher Weg in die Zukunft gefunden werde.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l_370"/>A. S.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
