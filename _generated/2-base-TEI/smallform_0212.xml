@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0212" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0212#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0212</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0212"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0212_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0212_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_tl_1"/>New York ist nicht Amerika.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_2"/>Wer den Neuen Erdteil noch nicht kennt, und das Zauber 
+               <lb xml:id="p001_r_tl_3" break="no"/>wort "Amerika" vernimmt, denkt zuerst an die Wolken 
+               <lb xml:id="p001_r_tl_4" break="no"/>kratzer, an jene fabelhaften Gebäude mit Schnellzugs–Lift 
+               <lb xml:id="p001_r_tl_5"/>und hundert Stockwerken, deren oberste im Winde schwan 
+               <lb xml:id="p001_r_tl_6" break="no"/>ken und sich mit der Bewegung der Erdkugel nach Osten 
+               <lb xml:id="p001_r_tl_7"/>neigen. Und wer dann, eines Tages, wirklich über den 
+               <lb xml:id="p001_r_tl_8"/>Ozean fährt, der erblickt tatsächlich zuerst nicht die waldige 
+               <lb xml:id="p001_r_tl_9"/>Küste, nicht Ebene und Gebirge des großen Kontinents, 
+               <lb xml:id="p001_r_tl_10"/>sondern die Stadt <hi rendition="#g">New York</hi>, die in seinen Vorstellungen 
+               <lb xml:id="p001_r_tl_11"/>Symbol und Ausgeburt des Wunderlandes der technischen 
+               <lb xml:id="p001_r_tl_12"/>Vollkommenheit, des rasenden Fortschrittes ist, wo Zeit 
+               <lb xml:id="p001_r_tl_13"/>Geld bedeutet, und Geld den eigentlichen Inhalt des 
+               <lb xml:id="p001_r_tl_14"/>Lebens. Und es ist nicht zu leugnen: wie die Stadt New 
+               <lb xml:id="p001_r_tl_15"/>York aus dem Meer autaucht, wie sich majestätisch und phan 
+               <lb xml:id="p001_r_tl_16" break="no"/>tastisch die steinernen Türme aus blauem Abenddunst 
+               <lb xml:id="p001_r_tl_17"/>und grauen Wogen erheben, wie die gewaltige Burg, ein 
+               <lb xml:id="p001_r_tl_18"/>modernes Babylon, langsam näher rückt, Gestalt annimmt, 
+               <lb xml:id="p001_r_tl_19"/>und doch an unsichtbaren Ketten aufgehängt in über 
+               <lb xml:id="p001_r_tl_20" break="no"/>irdischen, übermenschlichen Bereichen schwebt – das ist 
+               <lb xml:id="p001_r_tl_21"/>unvergeßlich und dieser Anblick prägt sich ein und bleibt 
+               <lb xml:id="p001_r_tl_22"/>einer der großen Eindrücke, die Amerika zu bieten hat.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_23"/>Hinter der schier unendlichen Reihe der Docks, die den 
+               <lb xml:id="p001_r_tl_24"/>Meeresarm und Hudsonfluß, den Hafen, säumen, tut sich 
+               <lb xml:id="p001_r_tl_25"/>dann das Innere der Stadt auf wie ein alles verschlin 
+               <lb xml:id="p001_r_tl_26" break="no"/>gender Schlund, und erst nach Tagen gewöhnt sich der 
+               <lb xml:id="p001_r_tl_27"/>Fremdling an die Tiefe der Straßenschluchten, an die 
+               <lb xml:id="p001_r_tl_28"/>tödliche, farblose Gleichform jener nur mit Zahlen be 
+               <lb xml:id="p001_r_tl_29" break="no"/>nannten Längs– und Querstraßen, an die schwindelnde 
+               <lb xml:id="p001_r_tl_30"/>und doch erschreckend monotone Gewalt des Verkehrs 
+               <lb xml:id="p001_r_tl_31" break="no"/>stroms, in der man, einmal gefangen, den eigenen Willen 
+               <lb xml:id="p001_r_tl_32"/>aufgeben, der langsam fortrollenden Schlange sich ein 
+               <lb xml:id="p001_r_tl_33" break="no"/>reihen, dem Gesetz der roten und grünen Lampen und 
+               <lb xml:id="p001_r_tl_34"/>gellenden Pfiffe aus Polizeimund sich ergeben muß, auf 
+               <lb xml:id="p001_r_tl_35"/>Gnade und Ungnade. Das ist Amerika! Das sind die 
+               <lb xml:id="p001_r_tl_36"/>Brücken, die sich von Ufer zu Ufer, und über ganze Stadt
+               <milestone unit="textregion" xml:id="p001_r_11"/> 
+               <lb xml:id="p001_r_11_tl_1" break="no"/>teile schwingen, die unten im Nebel brodeln, als gäbe es 
+               <lb xml:id="p001_r_11_tl_2"/>nicht Tag und Nacht, Morgen und Abend, Sonne und 
+               <lb xml:id="p001_r_11_tl_3"/>Sterne, Winde und Jahreszeiten. Das sind die Wohnungen 
+               <lb xml:id="p001_r_11_tl_4"/>von Millionen, Amerikanern und Chinesen, Negern und 
+               <lb xml:id="p001_r_11_tl_5"/>Namenlosen. Das sind die größten Kinos, die modernsten 
+               <lb xml:id="p001_r_11_tl_6"/>Spitäler, die schlimmsten Elendsquartiere, die prächtigsten 
+               <lb xml:id="p001_r_11_tl_7"/>Hotels der Welt. Das ist, noch einmal, Amerika!</p>
+            <p> 
+               <lb xml:id="p001_r_11_tl_8"/>Aber <hi rendition="#g">hinter</hi> dieser Stadt, dem Monstrum, der Ueber 
+               <lb xml:id="p001_r_11_tl_9" break="no"/>und Zukunftsstadt, hinter New York, das nur ein winziger 
+               <lb xml:id="p001_r_11_tl_10"/>Vorposten, eine Halbinsel und Flußmündung ist, erweitert 
+               <lb xml:id="p001_r_11_tl_11"/>sich Amerika, dehnen sich Ebenen hinter Ebenen aus, 
+               <lb xml:id="p001_r_11_tl_12"/>breitet sich der riesige, unerschöpfte Kontinent. Und nur 
+               <lb xml:id="p001_r_11_tl_13"/>wenige Stunden, nachdem man New York hinter sich 
+               <lb xml:id="p001_r_11_tl_14"/>gelassen hat, seinen Vororten und Rauchschwaden entron 
+               <lb xml:id="p001_r_11_tl_15" break="no"/>nen ist, beginnt die <hi rendition="#g">Herrschaft der Landstraße</hi>, dieses 
+               <lb xml:id="p001_r_11_tl_16"/>wahren Symbols des andern Amerika. "Highroad" 
+               <lb xml:id="p001_r_11_tl_17"/>heißt sie, und windet sich nicht, wie in den alten Ländern 
+               <lb xml:id="p001_r_11_tl_18"/>Europas, von Dorf zu Dorf, von Hof zu Hof, sondern 
+               <lb xml:id="p001_r_11_tl_19"/>durchschneidet wie ein Pfeil die Hügel und Gebirge, und 
+               <lb xml:id="p001_r_11_tl_20"/>trägt die gleiche Nummer von der Grenze Kanadas bis 
+               <lb xml:id="p001_r_11_tl_21"/>zu den Tabakfeldern Virginiens und den schwülen Fluß 
+               <lb xml:id="p001_r_11_tl_22" break="no"/>häfen des Südens, wo spanisch oder französisch gesprochen 
+               <lb xml:id="p001_r_11_tl_23"/>wird, und wo Neger und Weiße auf den Baumwoll 
+               <lb xml:id="p001_r_11_tl_24" break="no"/>plantagen ihre melancholischen Lieder singen. Auf der 
+               <lb xml:id="p001_r_11_tl_25"/>Landstraße fährt man über die Alleghanies, auf der Route 
+               <lb xml:id="p001_r_11_tl_26"/>der alten Pioniere, die mit ihren Planwagen, mit Frau 
+               <lb xml:id="p001_r_11_tl_27"/>und Kind und Hausgerät, den Weg nach Westen und das 
+               <lb xml:id="p001_r_11_tl_28"/>Glück in den neuen Ebenen suchten, und auf der Land 
+               <lb xml:id="p001_r_11_tl_29" break="no"/>straße fährt man durch den Kohlengürtel, wo die Erde 
+               <lb xml:id="p001_r_11_tl_30"/>schwarz ist oder durch die fruchtbaren Hügel Pennsyl 
+               <lb xml:id="p001_r_11_tl_31" break="no"/>vaniens, auf ihr erreicht man die ragenden Hochöfen 
+               <lb xml:id="p001_r_11_tl_32"/>Pittsburghs und die gewaltigen Maschinenhallen von 
+               <lb xml:id="p001_r_11_tl_33"/>Detroit. Und <hi rendition="#g">dies</hi> alles ist Amerika!</p>
+            <p> 
+               <lb xml:id="p001_r_11_tl_34"/>In New York ist Wall Street, die Straße der Weltbanken, 
+               <lb xml:id="p001_r_11_tl_35"/>der Riesengewinne und Börsenstürze. Draußen, in den 
+               <lb xml:id="p001_r_11_tl_36"/>flachen Städten der "Provinz", ist Mainstreet, gesäumt von 
+               <lb xml:id="p001_r_11_tl_37"/>Warenhaus, Drugstore und Tankstelle, da wird verdient 
+               <lb xml:id="p001_r_11_tl_38"/>und gespart, getrunken und dem Alltag gelebt. In New
+               <milestone unit="textregion" xml:id="p001_r_12"/> 
+               <lb xml:id="p001_r_12_tl_1"/>York ist Broadway, mit dem Wirbelsturm sausender Licht 
+               <lb xml:id="p001_r_12_tl_2" break="no"/>reklamen, den Fassaden der Kinohäuser, die die Nacht in 
+               <lb xml:id="p001_r_12_tl_3"/>blendenden Tag verwandeln – draußen im Land führen 
+               <lb xml:id="p001_r_12_tl_4"/>die dunklen Lehmwege zu den einsamen Häusern der 
+               <lb xml:id="p001_r_12_tl_5"/>Farmer, die weder elektrisches Licht noch fließendes 
+               <lb xml:id="p001_r_12_tl_6"/>Wasser kennen, und zu den kleinen Siedlungen, wo sich 
+               <lb xml:id="p001_r_12_tl_7"/>abends die Männer im Drugstore um einen gut geheizten 
+               <lb xml:id="p001_r_12_tl_8"/>Ofen versammeln, Tabak und Kaugummi spucken, Bier 
+               <lb xml:id="p001_r_12_tl_9"/>trinken, und ein unverständliches Englisch und entstelltes, 
+               <lb xml:id="p001_r_12_tl_10"/>fremdartiges Deutsch oder Französisch sprechen. In New 
+               <lb xml:id="p001_r_12_tl_11"/>York gehen die Flimmerfilms von Hollywood über die 
+               <lb xml:id="p001_r_12_tl_12"/>Leinwand und Stars tanzen gleichgültig über prächtige 
+               <lb xml:id="p001_r_12_tl_13"/>Bühnen und Riesensummen fließen ihrer Schönheit zu. 
+               <lb xml:id="p001_r_12_tl_14"/>Draußen, in den Großstädten der Industrie, sitzen Arbeiter 
+               <lb xml:id="p001_r_12_tl_15"/>in Massenversammlungen, wird gestreikt und gehungert; 
+               <lb xml:id="p001_r_12_tl_16"/>da laufen die Fordautos am laufenden Band aus den 
+               <lb xml:id="p001_r_12_tl_17"/>Fabriken. In New York ist Harlem; da sitzen die Weißen 
+               <lb xml:id="p001_r_12_tl_18"/>mit prickelnd–erregter Sensationslust in den stickigen Bars 
+               <lb xml:id="p001_r_12_tl_19"/>der dunklen Landsleute und lassen sich hinreißen vom Rhyth 
+               <lb xml:id="p001_r_12_tl_20" break="no"/>mus des "Afro–Americain". Unten aber, in den armen 
+               <lb xml:id="p001_r_12_tl_21"/>Staaten des "Alten Südens", verteidigen weiße Tag 
+               <lb xml:id="p001_r_12_tl_22" break="no"/>löhner ihre elende Existenz gegen die Konkurrenz der 
+               <lb xml:id="p001_r_12_tl_23"/>Schwarzen, werden Neger gelyncht, herrscht das Gesetz 
+               <lb xml:id="p001_r_12_tl_24"/>der Pionierzeit, der rohen Gewalt. – – </p>
+            <p> 
+               <lb xml:id="p001_r_12_tl_25"/>Früher ging man nach Amerika, um sein Glück zu machen, 
+               <lb xml:id="p001_r_12_tl_26"/>und wurde Geschirrwäscher in irgendeinem Restaurant 
+               <lb xml:id="p001_r_12_tl_27"/>der Millionenstadt New York. Heute, seit dem großen 
+               <lb xml:id="p001_r_12_tl_28"/>Schrecken der Krise, sind die jungen Amerikaner nachdenk 
+               <lb xml:id="p001_r_12_tl_29" break="no"/>lich geworden, ihre Sehnsucht gilt nicht mehr New York, 
+               <lb xml:id="p001_r_12_tl_30"/>ihre Arbeit nicht mehr nur der Dollarjagd. Sie beginnen, 
+               <lb xml:id="p001_r_12_tl_31"/>New York zu meiden, es den Fremden zu überlassen. Sie 
+               <lb xml:id="p001_r_12_tl_32"/>wollen das große, unendlich große und mißbrauchte Hin 
+               <lb xml:id="p001_r_12_tl_33" break="no"/>terland, den reichen Kontinent, nicht mehr ausgebeutet 
+               <lb xml:id="p001_r_12_tl_34"/>wissen wie eine Kolonie für Abenteurer. Sie wollen, die 
+               <lb xml:id="p001_r_12_tl_35"/>Farmer, die Studenten, die Neger, die Industriearbeiter, 
+               <lb xml:id="p001_r_12_tl_36"/>die Architekten, die Aerzte, – und das Heer der fünf Mil 
+               <lb xml:id="p001_r_12_tl_37" break="no"/>lionen noch immer Arbeitslosen, – sie wollen Amerika 
+               <lb xml:id="p001_r_12_tl_38"/>neu erobern, es neu besiedeln, es pflegen und bebauen!
+               <milestone unit="textregion" xml:id="p001_r_13"/> 
+               <lb xml:id="p001_r_13_tl_1"/>New York mag, als ein Wunder und Phänomen, aber 
+               <lb xml:id="p001_r_13_tl_2"/>auch als Warnung und tiefer Schrecken, bestehen bleiben 
+               <lb xml:id="p001_r_13_tl_3"/>und den Ankömmling empfangen an der Schwelle zwischen 
+               <lb xml:id="p001_r_13_tl_4"/>Ozean und Neuer Welt. Aber es soll nicht mehr Amerika 
+               <lb xml:id="p001_r_13_tl_5"/>sein, nicht mehr Amerika beherrschen mit seiner Börse 
+               <lb xml:id="p001_r_13_tl_6"/>und seinen Stars, seinem Lärm, seiner Oede, seinem 
+               <lb xml:id="p001_r_13_tl_7"/>grausigen Spiel zwischen ganz arm und schwindelnd 
+               <lb xml:id="p001_r_13_tl_8"/>reich. Die Vorposten Amerikas sind, wie schon einmal in 
+               <lb xml:id="p001_r_13_tl_9"/>der Pionierzeit, draußen in den Grenzen der Grasebenen 
+               <lb xml:id="p001_r_13_tl_10"/>und großen Wälder, in den namenlosen Siedlungen und 
+               <lb xml:id="p001_r_13_tl_11"/>den Städten, die bisher nur eine Industrie, eine Auto 
+               <lb xml:id="p001_r_13_tl_12" break="no"/>marke, ein Eisenerz bezeichneten und daneben keine eigenes 
+               <lb xml:id="p001_r_13_tl_13"/>Leben führten, keine Zukunft und schönere, menschenwür 
+               <lb xml:id="p001_r_13_tl_14" break="no"/>digere Existenz boten.</p>
+            <p> 
+               <lb xml:id="p001_r_13_tl_15"/>Amerika glaubt, immer noch, an den Fortschritt. Aber 
+               <lb xml:id="p001_r_13_tl_16"/>er wird nicht mehr an der Zahl der Stockwerke und der 
+               <lb xml:id="p001_r_13_tl_17"/>Länge der Brücken gemessen. Er drückt sich nicht mehr 
+               <lb xml:id="p001_r_13_tl_18"/>in den Ziffern der New Yorker Börsenkurse aus. New 
+               <lb xml:id="p001_r_13_tl_19"/>York hat den Thron an die großen Landschaften der ameri 
+               <lb xml:id="p001_r_13_tl_20" break="no"/>kanischen Zukunft verloren...</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"><hi rendition="#g"> 
+                  <lb xml:id="p001_r_13_tl_21"/>Dr. Annemarie Clark.</hi></p>
+</div>
+       </body>
+    </text>
+    <!--Generated on 2025-07-19T13:03:57.993098Z by https://github.dev/dse-as/workflow_IIIF-ATR-TEI using SAXON HE 12.8 from Saxonica.-->
+ </TEI>
