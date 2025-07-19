@@ -41,7 +41,7 @@
             every $token in (//PAGE:Unicode/text() => string-join(' ') 
             => tokenize('\\fp\\'))[position() gt 1] satisfies
             tokenize($token,'\\:fp\\') => count() = 2
-            ">**Paragraphs must contain a starting and ending symbol**&#xA;  <value-of select="
+            ">**Figure paragraphs must contain a starting and ending symbol**&#xA;  <value-of select="
             for $token in (//PAGE:Unicode/text() => string-join(' ') 
             => tokenize('\\fp\\'))[position() gt 1] 
             return let $counterpart := tokenize($token,'\\:fp\\') 
@@ -53,13 +53,25 @@
             every $token in (//PAGE:Unicode/text() => string-join(' ') 
             => tokenize('\\f\\'))[position() gt 1] satisfies
             tokenize($token,'\\:f\\') => count() = 2
-            ">**Paragraphs must contain a starting and ending symbol**&#xA;  <value-of select="
+            ">**Figures must contain a starting and ending symbol**&#xA;  <value-of select="
             for $token in (//PAGE:Unicode/text() => string-join(' ') 
             => tokenize('\\f\\'))[position() gt 1] 
             return let $counterpart := tokenize($token,'\\:f\\') 
             => count() return $counterpart[not(.=2)]
             !('*Not 2 tokens but '||.||' tokens at:* &quot;'||$token => replace('(\\:?f\\)','`$1`')||'&quot;.')"/></assert>
-      
+
+        <!-- marker `\g\`, `\:g\` -->
+        <assert test="
+            every $token in (//PAGE:Unicode/text() => string-join(' ') 
+            => tokenize('\\g\\'))[position() gt 1] satisfies
+            tokenize($token,'\\:g\\') => count() = 2
+            ">**Spaced renditions must contain a starting and ending symbol**&#xA;  <value-of select="
+            for $token in (//PAGE:Unicode/text() => string-join(' ') 
+            => tokenize('\\g\\'))[position() gt 1] 
+            return let $counterpart := tokenize($token,'\\:g\\') 
+            => count() return $counterpart[not(.=2)]
+            !('*Not 2 tokens but '||.||' tokens at:* &quot;'||$token => replace('(\\:?g\\)','`$1`')||'&quot;.')"/></assert>
+            
       </rule>
     </pattern>
             
