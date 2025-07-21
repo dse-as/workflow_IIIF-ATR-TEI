@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0030"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0030</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0030_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0030_001"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587705-BCUL-PREVIEW-426719_0001.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0030_001_tr_1"/>
+            <lb xml:id="letter_0030_001_tr_1_tl_2"/>Bocken
+<lb xml:id="letter_0030_001_tr_1_tl_3"/>Tel. Zürich 924 - 169
+<lb xml:id="letter_0030_001_tr_1_tl_4"/>8. Mai
+<lb xml:id="letter_0030_001_tr_1_tl_5"/>Mon cher Claude
+<lb xml:id="letter_0030_001_tr_1_tl_6"/>je voudrais bien te voir.
+<lb xml:id="letter_0030_001_tr_1_tl_7"/>Je pourrais accompagner Maman am
+<lb xml:id="letter_0030_001_tr_1_tl_8"/>"Himmelfahrtstag". C'est bien le 11 Mai?
+<lb xml:id="letter_0030_001_tr_1_tl_9"/>à <PAGE tag="underlined">Nyon près Genève</PAGE> – "Le Saclex" – c'est la
+<lb xml:id="letter_0030_001_tr_1_tl_10"/>maison de Mme Dunant, Maman est la marraine
+<lb xml:id="letter_0030_001_tr_1_tl_11"/>d’une des petites filles Dunant, et elle passera
+<lb xml:id="letter_0030_001_tr_1_tl_12"/>toute la journée - c’est à dire, de Midi jusqu’ 5h<milestone unit="textregion" xml:id="letter_0030_001_tr_2"/>
+            <lb xml:id="letter_0030_001_tr_2_tl_1"/>de l’après-midi, là-bas.
+<lb xml:id="letter_0030_001_tr_2_tl_2"/>S’il y a la possibilité – que tu sois libre -
+<lb xml:id="letter_0030_001_tr_2_tl_3"/>tu viendras me rencontrer à Nyon, n’est-ce pas?
+<lb xml:id="letter_0030_001_tr_2_tl_4"/>Si non -
+<lb xml:id="letter_0030_001_tr_2_tl_5"/>il faudra voir. Je ne sais pas quand je pourrais
+<lb xml:id="letter_0030_001_tr_2_tl_6"/>repartir pour Genève ou Grenoble.
+<lb xml:id="letter_0030_001_tr_2_tl_7"/>Je voudrais aller <PAGE tag="strikethrough">de</PAGE> le 28 Mai à Berlin –
+<lb xml:id="letter_0030_001_tr_2_tl_8"/>avant, une semaine à Lugano - et puis :
+<lb xml:id="letter_0030_001_tr_2_tl_9"/>la Hollande, Erika.<pb xml:id="letter_0030_002"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587705-BCUL-PREVIEW-426719_0002.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0030_002_tr_2"/>
+            <lb xml:id="letter_0030_002_tr_2_tl_1"/>Oui, à la fin de l'été - je repartirai
+<lb xml:id="letter_0030_002_tr_2_tl_2"/>pour Teheran.
+<lb xml:id="letter_0030_002_tr_2_tl_3"/>C’est tout ce que je sais faire. Maintenant,
+<lb xml:id="letter_0030_002_l"/>je prépare mon livre.
+<lb xml:id="letter_0030_002_tr_2_tl_6"/>Toi aussi - 
+<lb xml:id="letter_0030_002_tr_2_tl_7"/><PAGE tag="underlined">ton livre</PAGE>: qu’ est-ce que c'est?
+<lb xml:id="letter_0030_002_tr_2_tl_8"/>Mon vieux Claude - <milestone unit="textregion" xml:id="letter_0030_002_tr_1"/>
+            <lb xml:id="letter_0030_002_tr_1_tl_1"/>Envoi-moi un mot ou un télégramme.
+<lb xml:id="letter_0030_002_tr_1_tl_2"/>Viens si toujours possible -
+<lb xml:id="letter_0030_002_tr_1_tl_3"/>je t’embrasse, mon petit -
+<lb xml:id="letter_0030_002_tr_1_tl_4"/>An[n]emarie
+<lb xml:id="letter_0030_002_tr_1_tl_5"/>Hansi était très chic à Nice –
+<lb xml:id="letter_0030_002_tr_1_tl_6"/>je suis contente que tu l’aies vu!<pb xml:id="letter_0030_003"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587705-BCUL-PREVIEW-426719_0003.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0030_003_tr_1"/>
+            <lb xml:id="letter_0030_003_tr_1_tl_2"/>Lieutnant Bourdet
+<lb xml:id="letter_0030_003_tr_1_tl_3"/>12, Place St. Claire
+<lb xml:id="letter_0030_003_tr_1_tl_4"/><PAGE tag="underlined">Grenoble</PAGE>
+<lb xml:id="letter_0030_003_tr_1_tl_5"/>Frankreich<milestone unit="textregion" xml:id="letter_0030_003_r"/>
+            <lb xml:id="letter_0030_003_l"/>4.V.34<milestone unit="textregion" xml:id="letter_0030_003_r_23"/>
+            <lb xml:id="letter_0030_003_l_22"/>Zürich<pb xml:id="letter_0030_004"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587705-BCUL-PREVIEW-426719_0004.jpg/info.json"/>
+         </div>
+      </body>
+   </text>
+</TEI>
