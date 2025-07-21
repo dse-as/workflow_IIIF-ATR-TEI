@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0616" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0616#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0616</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0616"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0616_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_046.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Lugano</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_2"/>Ein Name von unbesieglichem Zauber: <hi rendition="#g">Lugano</hi>, 
+               <lb xml:id="p001_tr_1_tl_3"/>kleine Stadt am Seeufer, die an Eleganz und An 
+               <lb xml:id="p001_tr_1_tl_4" break="no"/>nehmlichkeit mit größeren und berühmteren Plätzen 
+               <lb xml:id="p001_tr_1_tl_5"/>unschwer konkurrieren kann. An Lebendigkeit und 
+               <lb xml:id="p001_tr_1_tl_6"/>Modernität übertrifft sie sicherlich viele Orte der 
+               <lb xml:id="p001_tr_1_tl_7"/>französischen und italienischen Riviera, die glän- 
+               <lb xml:id="p001_tr_1_tl_8"/>zende Reihe der Hotels am Kai, ihre Gärten und 
+               <lb xml:id="p001_tr_1_tl_9"/>Tennisplätze sind durchaus einladend und frei von 
+               <lb xml:id="p001_tr_1_tl_10"/>dem leicht muffigen Zauber jener Küstenstädte, frei 
+               <lb xml:id="p001_tr_1_tl_11"/>von weißgestrichenem Lift, hohen Fenstern, die nie 
+               <lb xml:id="p001_tr_1_tl_12"/>schließen, roten Läufern und prunkvoll überzierten 
+               <lb xml:id="p001_tr_1_tl_13"/>Repräsentationsräumen. Ältere Damen und Herren, 
+               <lb xml:id="p001_tr_1_tl_14"/>Rentner, Zurückgezogene lieben Lugano und wohnen 
+               <lb xml:id="p001_tr_1_tl_15"/>in kleinen Villen am Berghang. Aber sie beherr 
+               <lb xml:id="p001_tr_1_tl_16" break="no"/>schen die Atmosphäre nicht (–denn es <hi rendition="#g">gibt</hi> Rent 
+               <lb xml:id="p001_tr_1_tl_17" break="no"/>nerstädtchen! –), weder sie noch die fraglos zahl 
+               <lb xml:id="p001_tr_1_tl_18" break="no"/>reichen Hochzeitsreisenden. Lugano ist, unverständ 
+               <lb xml:id="p001_tr_1_tl_19" break="no"/>licher- und merkwürdigerweise, ein Ort der jungen 
+               <lb xml:id="p001_tr_1_tl_20"/>Männer, wer weiß, was sie hier zu suchen haben, 
+               <lb xml:id="p001_tr_1_tl_21"/>Golf, Tennis, Lido und Autofahrten könnten sie 
+               <lb xml:id="p001_tr_1_tl_22"/>auch anderswo finden.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_23"/>Aber die jungen Männer herrschen in Lugano 
+               <lb xml:id="p001_tr_1_tl_24"/>vor, in weißem Dreß, grauer Flanellhose, blauem 
+               <lb xml:id="p001_tr_1_tl_25"/>Pullower und offenem Kragen, vielfach in eleganten, 
+               <lb xml:id="p001_tr_1_tl_26"/>auffallend glanzvoll lackierten Wagen, mehr oder</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_047.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p> 
+               <lb xml:id="p002_tr_1_tl_2"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+weniger tüchtig, mehr oder weniger versnobt, die 
+               <lb xml:id="p002_tr_1_tl_3"/>einen still für sich, arbeitsam, interessiert, fähig zu 
+               <lb xml:id="p002_tr_1_tl_4"/>so reinen Genüssen wie den <hi rendition="#g">Fresken von Ber 
+                  <lb xml:id="p002_tr_1_tl_5" break="no"/>nardino Luini</hi> in der Klosterkirche Santa Maria 
+               <lb xml:id="p002_tr_1_tl_6"/>degli Angioli, andere wohnen unbekümmert im ehe 
+               <lb xml:id="p002_tr_1_tl_7" break="no"/>maligen Kloster nebenan, dem heutigen Palacehotel. 
+               <lb xml:id="p002_tr_1_tl_8"/>Am späteren Vormittag sitzen sie in lauter Gesell- 
+               <lb xml:id="p002_tr_1_tl_9"/>schaft, munter und gewandt, in der <hi rendition="#g">Bar Argen- 
+                  <lb xml:id="p002_tr_1_tl_10"/>tino</hi> und trinken "Americano bianco" [ein Vermuth-Cocktail], indessen 
+               <lb xml:id="p002_tr_1_tl_11"/>strömen am Kai die Menschen auf und nieder, das 
+               <lb xml:id="p002_tr_1_tl_12"/>Konzert in den Anlagen ist aus, die Zuhörer ver 
+               <lb xml:id="p002_tr_1_tl_13" break="no"/>teilen sich, gehen bis zum Caffè della Città oder 
+               <lb xml:id="p002_tr_1_tl_14"/>werden durch den entzückend lächelnden Neger 
+               <lb xml:id="p002_tr_1_tl_15" break="no"/>knaben vor dem "Gambrinus" verführt, sich in die 
+               <lb xml:id="p002_tr_1_tl_16" break="no"/>sem sonst recht reizlos-bürgerlichen Bierlokal nie 
+               <lb xml:id="p002_tr_1_tl_17" break="no"/>derzulassen. Natürlich sitzt man ungern im Innern 
+               <lb xml:id="p002_tr_1_tl_18"/>dunkler Lokale, Stühle und Tischchen stehen 
+               <lb xml:id="p002_tr_1_tl_19"/>draußen und sind von buntstreifigen Storen über 
+               <lb xml:id="p002_tr_1_tl_20" break="no"/>dacht. Das Leben spielt sich auf der Straße ab.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_21"/>Am Kai werden Ausflugslüsterne von geschickten 
+               <lb xml:id="p002_tr_1_tl_22"/>Agenten aufgehalten, die gleichen weißen Tafeln 
+               <lb xml:id="p002_tr_1_tl_23"/>stehen vor jedem der zahlreichen Reisebüros, mit 
+               <lb xml:id="p002_tr_1_tl_24"/>der Konkurrenz gleicher Preise, gleicher Routen, 
+               <lb xml:id="p002_tr_1_tl_25"/>gleicher Abfahrtszeiten: Täglich: Como-Villa D'Este, 
+               <lb xml:id="p002_tr_1_tl_26"/>10 Francs, Abfahrt 2 Uhr. Heute: Locarno, Besuch 
+               <lb xml:id="p002_tr_1_tl_27"/>des Konferenzsaals, Madonna del Sasso. Morgen 
+               <lb xml:id="p002_tr_1_tl_28"/>(To Morrow): Abfahrt 8 Uhr! St. Moritz via Ma 
+               <lb xml:id="p002_tr_1_tl_29" break="no"/>loja, 45 Francs. Einfache Fahrt 40 Francs. In 
+               <lb xml:id="p002_tr_1_tl_30"/>dreieinhalb Stunden!</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_048.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p> 
+               <lb xml:id="p003_tr_1_tl_2"/>Diese Tafeln sind für Lugano etwa so typisch 
+               <lb xml:id="p003_tr_1_tl_3"/>wie für Salzburg die Photographien von Alexander 
+               <lb xml:id="p003_tr_1_tl_4"/>Moissi als Jedermann.</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_5"/>Aber während der Kai glänzend und vornehm, 
+               <lb xml:id="p003_tr_1_tl_6"/>asphaltiert und rasenbegrenzt dem Publikum offen 
+               <lb xml:id="p003_tr_1_tl_7" break="no"/>steht, beginnt hinten das andere Lugano, das laute 
+               <lb xml:id="p003_tr_1_tl_8"/>farbige italienische Treiben, ein Schritt genügt, um 
+               <lb xml:id="p003_tr_1_tl_9"/>in die schattige Dämmerung der alten Gassen unter 
+               <lb xml:id="p003_tr_1_tl_10" break="no"/>zutauchen. Diese Stadtteile sind immer ein wenig 
+               <lb xml:id="p003_tr_1_tl_11"/>abseits, wie aus Schamhaftigkeit ziehen sie sich 
+               <lb xml:id="p003_tr_1_tl_12"/>zurück, bergen sich am Fuße der Felshänge und 
+               <lb xml:id="p003_tr_1_tl_13"/>rücken eng ineinander. Erst die neuen und sorgen 
+               <lb xml:id="p003_tr_1_tl_14" break="no"/>freien Quartiere breiten sich hemmungslos, allen 
+               <lb xml:id="p003_tr_1_tl_15"/>Blicken offen, an breiten Straßen und am See 
+               <lb xml:id="p003_tr_1_tl_16" break="no"/>ufer aus.</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_17"/>In der Via Francesco Suave ("il celebre didattico", 
+               <lb xml:id="p003_tr_1_tl_18"/>geboren 1743) gibt es auf zahlreichen schlanken 
+               <lb xml:id="p003_tr_1_tl_19"/>Säulen breite Loggien, in den Bogengängen darunter 
+               <lb xml:id="p003_tr_1_tl_20"/>breiten sich die Kaufläden in orientalischer Buntheit 
+               <lb xml:id="p003_tr_1_tl_21"/>aus: Seidenstoffe, strohgeflochtene Hüte und Ta 
+               <lb xml:id="p003_tr_1_tl_22" break="no"/>schen, Würste, Schinken, Gemüse und Berge von 
+               <lb xml:id="p003_tr_1_tl_23"/>frischen, betäubenden, saftig gärenden Früchten. An 
+               <lb xml:id="p003_tr_1_tl_24"/>der Ecke der Straße findet sich, besonders reich an 
+               <lb xml:id="p003_tr_1_tl_25"/>prächtigen Exemplaren, die Firma der "Figli di 
+               <lb xml:id="p003_tr_1_tl_26"/>Ruffilo Giorzi", einer kleinen Dynastie von Obst 
+               <lb xml:id="p003_tr_1_tl_27" break="no"/>händlern.</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_28"/>Die <hi rendition="#g">Piazza Funicolare</hi>, noch näher am Berg 
+               <lb xml:id="p003_tr_1_tl_29" break="no"/>hang, ist nicht so modern wie ihr Name. Alte 
+               <lb xml:id="p003_tr_1_tl_30"/>Häuser umgrenzen sie, eine breite verwitterte Haus¬</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_049.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>            <p> 
+               <lb xml:id="p004_tr_1_tl_2" break="no"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+fassade vor allem, deren Fenster mit zart geformten, 
+               <lb xml:id="p004_tr_1_tl_3"/>schmiedeeisern umgitterten Muschelbalkönchen klein 
+               <lb xml:id="p004_tr_1_tl_4" break="no"/>sten Formats geziert sind.</p>
+            <p> 
+               <lb xml:id="p004_tr_1_tl_5"/>Eine Treppenstraße führt zum <hi rendition="#g">Dom San Lo- 
+                  <lb xml:id="p004_tr_1_tl_6"/>renzo</hi> hinauf, Kinder balgen sich vor offenen 
+               <lb xml:id="p004_tr_1_tl_7"/>Ladentüren, Postkarten, Perlenketten, Pfirsiche, Tes 
+               <lb xml:id="p004_tr_1_tl_8" break="no"/>sinerpuppen und handgestickte Taschentücher liegen 
+               <lb xml:id="p004_tr_1_tl_9"/>in den Schaufenstern, Frauen sitzen am Eingang, 
+               <lb xml:id="p004_tr_1_tl_10"/>weiße Katzen hocken, still und sinnend, auf den 
+               <lb xml:id="p004_tr_1_tl_11"/>flachen Stufen.</p>
+            <p> 
+               <lb xml:id="p004_tr_1_tl_12"/>Der Dom ragt beherrschend über seine Umgebung 
+               <lb xml:id="p004_tr_1_tl_13"/>empor, ein Beispiel oberitalienischer Frührenais 
+               <lb xml:id="p004_tr_1_tl_14" break="no"/>sance, Vorstufe zur Certosa von Pavia. Im Innern 
+               <lb xml:id="p004_tr_1_tl_15"/>sind die Säulen mit verblichenen Malereien bedeckt, 
+               <lb xml:id="p004_tr_1_tl_16"/>man erkennt noch die farbigen Mäntel, Heiligen 
+               <lb xml:id="p004_tr_1_tl_17" break="no"/>scheine, eine segnend erhobene Hand.</p>
+            <p> 
+               <lb xml:id="p004_tr_1_tl_18"/>Abends wird in Lugano viel Musik gemacht, aus 
+               <lb xml:id="p004_tr_1_tl_19"/>den Bars tönen durchdringende Grammophons, in 
+               <lb xml:id="p004_tr_1_tl_20"/>den Restaurants an den großen Plätzen spielen Ka 
+               <lb xml:id="p004_tr_1_tl_21" break="no"/>pellen, Geiger, italienisch-feurig hingerissen. Die 
+               <lb xml:id="p004_tr_1_tl_22"/>Lichter der Bahnen vom San Salvatore und Monte 
+               <lb xml:id="p004_tr_1_tl_23"/>Brè steigen, zwei flimmernde Reihen, als unver 
+               <lb xml:id="p004_tr_1_tl_24" break="no"/>kennbare Signale in den nächtlichen Himmel. Am 
+               <lb xml:id="p004_tr_1_tl_25"/>Kai warten die Motorboote, um die Gäste nach <hi rendition="#g">Ca- 
+                  <lb xml:id="p004_tr_1_tl_26"/>prino</hi> überzusetzen. Während des Krieges fuhr 
+               <lb xml:id="p004_tr_1_tl_27"/>man unerlaubt nach Campione, der italienischen En 
+               <lb xml:id="p004_tr_1_tl_28" break="no"/>klave, ohne andere Absicht, als um dort der Spiel 
+               <lb xml:id="p004_tr_1_tl_29" break="no"/>leidenschaft zu frönen. In Caprino hingegen gab es 
+               <lb xml:id="p004_tr_1_tl_30"/>früher nur ein paar Zementtürme, Arbeiter kamen</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p005" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_050.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p005_tr_1"/>            <p> 
+               <lb xml:id="p005_tr_1_tl_2"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+hin und tranken Wein, den man in natürlichen 
+               <lb xml:id="p005_tr_1_tl_3"/>Grotten aufbewahrte.</p>
+            <p> 
+               <lb xml:id="p005_tr_1_tl_4"/>Das reizte die Fremden. Jetzt gibt es auf dem 
+               <lb xml:id="p005_tr_1_tl_5"/>engen Fleck ein Restaurant Caprino, "Grand Dan 
+               <lb xml:id="p005_tr_1_tl_6" break="no"/>cing", und ein Restaurant Felsenkeller, welches sich 
+               <lb xml:id="p005_tr_1_tl_7"/>der ältesten Weingrotten rühmt. Hierher also fährt 
+               <lb xml:id="p005_tr_1_tl_8"/>man am Abend, Tessiner Mädchen servieren Asti 
+               <lb xml:id="p005_tr_1_tl_9"/>spumante und tanzen in ihren bunten Trachten.</p>
+            <p> 
+               <lb xml:id="p005_tr_1_tl_10"/><hi rendition="#g">Golfspieler</hi> fahren von Lugano nach <hi rendition="#g">Ma 
+                  <lb xml:id="p005_tr_1_tl_11" break="no"/>gliaso</hi>, es ist eine hübsche und unbeträchtliche 
+               <lb xml:id="p005_tr_1_tl_12"/>Strecke, sowohl im Auto (etwa 7 Kilometer) wie in 
+               <lb xml:id="p005_tr_1_tl_13"/>der Kleinbahn Lugano–Ponte Tresa mühelos zu 
+               <lb xml:id="p005_tr_1_tl_14" break="no"/>rückzulegen.</p>
+            <p> 
+               <lb xml:id="p005_tr_1_tl_15"/>Die erste Station Sorengo liegt an dem schilf 
+               <lb xml:id="p005_tr_1_tl_16" break="no"/>bewachsenen Lago di <hi rendition="#g">Muzzano</hi>, eine kleine Häu 
+               <lb xml:id="p005_tr_1_tl_17" break="no"/>serkolonie gruppiert sich am Abhang, gegenüber 
+               <lb xml:id="p005_tr_1_tl_18"/>ragt aus dunklen Baumwipfeln ein weißer Kirch 
+               <lb xml:id="p005_tr_1_tl_19" break="no"/>turm. Nahe von Cappella, dem Statiönchen im Grü 
+               <lb xml:id="p005_tr_1_tl_20" break="no"/>nen, liegt das Strandbad Agnuzzo, dann senkt sich 
+               <lb xml:id="p005_tr_1_tl_21"/>die glatte Straße nach Bioggio: kleine Ebene mit 
+               <lb xml:id="p005_tr_1_tl_22"/>Maisfeldern und Kürbissen, die gelb und rund wie 
+               <lb xml:id="p005_tr_1_tl_23"/>holländische Käse im Feld liegen – das Dörfchen 
+               <lb xml:id="p005_tr_1_tl_24"/>Agno, friedlich gebettet, und, hoch thronend, von 
+               <lb xml:id="p005_tr_1_tl_25"/>Bioggio mit der Autopost erreichbar, <hi rendition="#g">Cademario</hi> 
+               <lb xml:id="p005_tr_1_tl_26"/>mit seinem großen Hotel.</p>
+            <p> 
+               <lb xml:id="p005_tr_1_tl_27"/>In Agno ist man wieder an einem Arm des Lu 
+               <lb xml:id="p005_tr_1_tl_28" break="no"/>ganersees, ein Friedhof liegt quadratisch ummauert 
+               <lb xml:id="p005_tr_1_tl_29"/>mitten in fruchtbaren Wiesen und grenzt beinahe an 
+               <lb xml:id="p005_tr_1_tl_30"/>den <hi rendition="#g">Golfplatz von Magliaso</hi>. Dort stehen Bu¬</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p006" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_051.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p006_tr_1"/>            <p> 
+               <lb xml:id="p006_tr_1_tl_2" break="no"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+ben hordenweise am Bahnhof und möchten als 
+               <lb xml:id="p006_tr_1_tl_3"/>Caddies gemietet werden. Dem Golfplatz ist ein 
+               <lb xml:id="p006_tr_1_tl_4"/>"Midget Golf" vorgelagert, mit Brückchen und Hü 
+               <lb xml:id="p006_tr_1_tl_5" break="no"/>gelchen, einem Kinderspielplatz zum Verwechseln 
+               <lb xml:id="p006_tr_1_tl_6"/>ähnlich. Der Golfplatz dehnt sich dann, mit Greens, 
+               <lb xml:id="p006_tr_1_tl_7"/>weißen Tafeln (Out of bounds) und vortrefflich 
+               <lb xml:id="p006_tr_1_tl_8"/>gepflegten Flächen respektabel aus. Dies ist der ein 
+               <lb xml:id="p006_tr_1_tl_9" break="no"/>zige Golfplatz der näheren und weiteren Umgebung, 
+               <lb xml:id="p006_tr_1_tl_10"/>auf dem das ganze Jahr über gespielt werden kann, 
+               <lb xml:id="p006_tr_1_tl_11"/>das sichert ihm ein berechtigtes Ansehen.</p>
+            <p> 
+               <lb xml:id="p006_tr_1_tl_12"/>Nahe vom See und am Rande der Rasenflächen 
+               <lb xml:id="p006_tr_1_tl_13"/>steht gelb und nieder das <hi rendition="#g">Landhaus "La Ma 
+                  <lb xml:id="p006_tr_1_tl_14" break="no"/>gliasina"</hi>, von Breuhaus entworfen, mit schönen 
+               <lb xml:id="p006_tr_1_tl_15"/>Räumen, erstaunlicher Bibliothek, stilvoll eingerich 
+               <lb xml:id="p006_tr_1_tl_16" break="no"/>tet und großzügig geführt, allen wohlempfohlenen 
+               <lb xml:id="p006_tr_1_tl_17"/>Gästen offenstehend. Badestrand, Bridgezimmer, 
+               <lb xml:id="p006_tr_1_tl_18"/>eine in altem Gemäuer eingerichtete Bar sorgen für 
+               <lb xml:id="p006_tr_1_tl_19"/>die Unterhaltung, Nichtgolfer machen Spaziergänge 
+               <lb xml:id="p006_tr_1_tl_20"/>in das Malcantone, Golf bleibt natürlich die wich- 
+               <lb xml:id="p006_tr_1_tl_21"/>tigste Beschäftigung.</p>
+            <p> 
+               <lb xml:id="p006_tr_1_tl_22"/>Über Lugano steigt, berechtigterweise so an 
+               <lb xml:id="p006_tr_1_tl_23" break="no"/>spruchsvoll benannt, die <hi rendition="#g">Collina d'Oro</hi> an. Eine 
+               <lb xml:id="p006_tr_1_tl_24"/>schmale Straße führt zwischen Mauern und Nuß 
+               <lb xml:id="p006_tr_1_tl_25" break="no"/>bäumen hinauf, Wagen können sich keinesfalls 
+               <lb xml:id="p006_tr_1_tl_26"/>überholen, Postautomobile befördern Patienten, die 
+               <lb xml:id="p006_tr_1_tl_27"/>sich im Deutschen Sanatorium für Lungenkranke in<hi rendition="#g"> 
+                  <lb xml:id="p006_tr_1_tl_28"/>Agra</hi> erholen sollen. Am Sonntag fahren schwarz 
+               <lb xml:id="p006_tr_1_tl_29" break="no"/>gekleidete Bäuerinnen mit, sie falten ihre Hände im 
+               <lb xml:id="p006_tr_1_tl_30"/>Schoß, als hielten sie einen Rosenkranz. Viele kleine</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p007" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_052.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p007_tr_1"/>            <p> 
+               <lb xml:id="p007_tr_1_tl_2"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+Kinder, kleine Mädchen besonders, sitzen erregt 
+               <lb xml:id="p007_tr_1_tl_3"/>zwitschernd neben ihren ernsten Müttern. Die Straße 
+               <lb xml:id="p007_tr_1_tl_4"/>windet sich eng um die Kurven, Reben bedecken die 
+               <lb xml:id="p007_tr_1_tl_5"/>Abhänge, die Trauben hängen schwer und blau 
+               <lb xml:id="p007_tr_1_tl_6" break="no"/>samten in den niederen Holzgestellen.</p>
+            <p> 
+               <lb xml:id="p007_tr_1_tl_7"/>Von <hi rendition="#g">Montagnola</hi> aus geht man zu Fuß ein 
+               <lb xml:id="p007_tr_1_tl_8"/>Stückchen aufwärts, nicht sehr weit, dann öffnet sich 
+               <lb xml:id="p007_tr_1_tl_9"/>der gleiche Blick auf beide Arme des Sees, der von 
+               <lb xml:id="p007_tr_1_tl_10"/>Agra aus so berühmt ist. Bei klarem Wetter taucht 
+               <lb xml:id="p007_tr_1_tl_11"/>im Norden das Gotthardmassiv auf und zeichnet sich 
+               <lb xml:id="p007_tr_1_tl_12"/>düster wie eine Zitadelle in den südlichen Himmel.</p>
+            <p> 
+               <lb xml:id="p007_tr_1_tl_13"/>Ein kleiner Weg zweigt bei dem großen gelbroten 
+               <lb xml:id="p007_tr_1_tl_14"/>Haus am Ausgang des Ortes von der Straße ab: es 
+               <lb xml:id="p007_tr_1_tl_15"/>ist ein versteckter und einsamer Weg, man geht 
+               <lb xml:id="p007_tr_1_tl_16"/>hoch über dem See, im Schatten einer Mauer, die 
+               <lb xml:id="p007_tr_1_tl_17"/>einen Garten klösterlich abschließt. Es riecht nach 
+               <lb xml:id="p007_tr_1_tl_18"/>Feuchtigkeit, nach Nüssen, gefallenem Laub und 
+               <lb xml:id="p007_tr_1_tl_19"/>Farnkraut. Eine Halde am Waldrand ist voller 
+               <lb xml:id="p007_tr_1_tl_20"/>Herbstsonne, die Steine strahlen Wärme aus, Ei 
+               <lb xml:id="p007_tr_1_tl_21" break="no"/>dechsen huschen über das graue Gemäuer, trockenes 
+               <lb xml:id="p007_tr_1_tl_22"/>Gras raschelt von kleinem Getier. Eine Bauernfrau 
+               <lb xml:id="p007_tr_1_tl_23"/>kommt vom Wald herab, sie hat Holz gesammelt 
+               <lb xml:id="p007_tr_1_tl_24"/>und trägt es auf ihrem Rücken, Buben, braun und 
+               <lb xml:id="p007_tr_1_tl_25"/>nacktfüßig, jagen sich auf dem Weg.</p>
+            <p> 
+               <lb xml:id="p007_tr_1_tl_26"/>Zu Fuß nach Lugano zurückkehrend, kommt 
+               <lb xml:id="p007_tr_1_tl_27"/>man, wenn man es beabsichtigt, am Palazzo Ca 
+               <lb xml:id="p007_tr_1_tl_28" break="no"/>muzzi vorbei, wo früher Hermann <hi rendition="#g">Hesse</hi> wohnte.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
