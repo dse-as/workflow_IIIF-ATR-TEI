@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0031" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0031#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0031</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0031_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587706-BCUL-PREVIEW-426384_0001.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_2"/>Mais, cher Claude, ce serait de <hi rendition="#u">10 Mai</hi>! 
+               <lb xml:id="p001_tr_1_tl_3"/>Annemann</p>
+
+            <milestone unit="textregion" xml:id="p001_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_2_tl_1"/>On pourrait se rencontrer à Midi à Nyon, 
+               <lb xml:id="p001_tr_2_tl_2"/>"Hotel der Lac" oder so ähnlich, es ist ein 
+               <lb xml:id="p001_tr_2_tl_3"/>hübscher kleiner Platz mit Schiffen davor. 
+               <lb xml:id="p001_tr_2_tl_4"/>Um 5 Uhr circa müsste ich wieder wegfahren.</p>
+
+            <pb xml:id="p002" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587706-BCUL-PREVIEW-426384_0002.jpg/info.json"/>
+            <pb xml:id="p003" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587706-BCUL-PREVIEW-426384_0003.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_5"/>Lieutenant Bourdet 
+               <lb xml:id="p003_tr_1_tl_6"/>12. Place St. Claire 
+               <lb xml:id="p003_l"/>Grenoble 
+               <lb xml:id="p003_tr_1_tl_7"/>Isère 
+               <lb xml:id="p003_tr_1_tl_9"/>Frankreich 
+               <lb xml:id="p003_tr_1_tl_2"/>4.V.34.18 m 
+               <lb xml:id="p003_tr_1_tl_3"/>VIII</p>
+
+            <pb xml:id="p004" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587706-BCUL-PREVIEW-426384_0004.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>
+            <pb xml:id="p005" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587706-BCUL-PREVIEW-426384_0005.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p005_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p005_tr_1_tl_1"/>.xx 
+               <lb xml:id="p005_tr_1_tl_2"/>IS 5502132 
+               <lb xml:id="p005_tr_1_tl_3"/>Ao 10 Maii 
+               <lb xml:id="p005_tr_1_tl_4"/>Abends 
+               <lb xml:id="p005_tr_1_tl_5"/>Ew. Eheweib 
+               <lb xml:id="p005_tr_1_tl_6"/>bei</p>
+
+            <milestone unit="textregion" xml:id="p005_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p005_tr_2_tl_1"/>ci à Nyom, 
+               <lb xml:id="p005_tr_2_tl_2"/>H. Euer 
+               <lb xml:id="p005_tr_2_tl_3"/>Trennenstraße 
+               <lb xml:id="p005_tr_2_tl_4"/>Ana 
+               <lb xml:id="p005_tr_2_tl_5"/>Kleiner Platz mit Schiffen davor. 
+               <lb xml:id="p005_tr_2_tl_6"/>wirklicher Wegfahren. 
+               <lb xml:id="p005_tr_2_tl_7"/>Elise 13.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
