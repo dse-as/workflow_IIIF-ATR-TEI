@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0617" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0617#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0617</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0617"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0617_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_053.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Fahrt an den Comersee</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_2"/>Der Ponte Diga, ein natürlicher Damm, der aus 
+               <lb xml:id="p001_tr_1_tl_3"/>der Eiszeit zurückgeblieben ist, verbindet die Dörfer 
+               <lb xml:id="p001_tr_1_tl_4"/>Melide und Bissone, West- und Ostufer des Lu 
+               <lb xml:id="p001_tr_1_tl_5" break="no"/>ganersees, und gestattet es, Gotthardbahn und Auto 
+               <lb xml:id="p001_tr_1_tl_6" break="no"/>straße ohne Umschweife von Lugano nach Como 
+               <lb xml:id="p001_tr_1_tl_7"/>und Mailand zu führen.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_8"/>In <hi rendition="#g">Maroggia</hi> hängen Schweinsfüße reihen 
+               <lb xml:id="p001_tr_1_tl_9" break="no"/>weise vor den Fenstern und sollen, wie in Graubün 
+               <lb xml:id="p001_tr_1_tl_10" break="no"/>den das berühmte Bindenfleisch, an der Luft ge 
+               <lb xml:id="p001_tr_1_tl_11" break="no"/>trocknet werden.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_12"/><hi rendition="#g">Capolago</hi> liegt am Fuß des Riesen Monte Ge 
+               <lb xml:id="p001_tr_1_tl_13" break="no"/>neroso, von hier fährt die Bahn hinauf, Weinkeller, 
+               <lb xml:id="p001_tr_1_tl_14"/>tiefe kühle Grotten sind in den Felsen verborgen. 
+               <lb xml:id="p001_tr_1_tl_15"/>Im "Antico Grotto Calchiero" wird wie in Campione 
+               <lb xml:id="p001_tr_1_tl_16"/>Asti ausgeschenkt.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_17"/><hi rendition="#g">Mendrisio</hi> ist der Hauptort des "Mendrisiotto" 
+               <lb xml:id="p001_tr_1_tl_18"/>genannten Gebietes. Man findet hier ansehnliche 
+               <lb xml:id="p001_tr_1_tl_19"/>Gebäude von städtischer Charakterlosigkeit und einen 
+               <lb xml:id="p001_tr_1_tl_20"/>griechischen Tempelbau, das "Ospizio della Beata 
+               <lb xml:id="p001_tr_1_tl_21"/>Virgine". Aber am Gründonnerstag und Karfreitag 
+               <lb xml:id="p001_tr_1_tl_22"/>findet eine berühmte Passionsfeier statt, dazu kom 
+               <lb xml:id="p001_tr_1_tl_23" break="no"/>men die Leute von weither angereist, sowohl die 
+               <lb xml:id="p001_tr_1_tl_24"/>neugierigen Fremden wie die frommen Bauern von 
+               <lb xml:id="p001_tr_1_tl_25"/>den Abhängen des Monte Generoso. An den Wänden 
+               <lb xml:id="p001_tr_1_tl_26"/>der Häuser hängen hellgebleichte Tabakblätter, und 
+               <lb xml:id="p001_tr_1_tl_27"/>in Balerna, dem letzten schweizerischen Dorf vor</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_054.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p> 
+               <lb xml:id="p002_tr_1_tl_3"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+Chiasso, steht die dazu gehörige Fabrik. Auf den Fel 
+               <lb xml:id="p002_tr_1_tl_4" break="no"/>dern vor den Ortschaften kann man die großen, durch 
+               <lb xml:id="p002_tr_1_tl_5" break="no"/>sichtig grünen Blätter der Tabakpflanzen sehen.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_6"/><hi rendition="#g">Chiasso</hi> ist ein reizloser Ort, Paßkontrolle und 
+               <lb xml:id="p002_tr_1_tl_7"/>Zollschranken machen den Reisenden auf den Ernst 
+               <lb xml:id="p002_tr_1_tl_8"/>der Landesgrenze aufmerksam und sind dazu an 
+               <lb xml:id="p002_tr_1_tl_9" break="no"/>getan, ihn seiner leichtfertigen Gemütsart zu be 
+               <lb xml:id="p002_tr_1_tl_10" break="no"/>rauben. Mitten im Dorf, dem Bahnhof gegenüber, 
+               <lb xml:id="p002_tr_1_tl_11"/>sperrt ein Gitter mit Steinpfeilern und merkwürdig 
+               <lb xml:id="p002_tr_1_tl_12"/>erhöhten Laternen die Straßen ab und trennt die 
+               <lb xml:id="p002_tr_1_tl_13"/>beiden Länder. Zuoberst auf einer dunkelgestriche 
+               <lb xml:id="p002_tr_1_tl_14" break="no"/>nen Eisenstange ragt ein Fascio [Zeichen des Faschismus in Italien, Hinweis auf die faschistische Diktatur unter Mussolini, dergegenüber Schwarzenbach sehr kritisch eingestellt ist] in den heiteren Himmel.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_15"/>Drüben sitzen die Leute harmlos auf knallgrün 
+               <lb xml:id="p002_tr_1_tl_16" break="no"/>gelben Stühlchen im "Ristorante Bar Nazionale" 
+               <lb xml:id="p002_tr_1_tl_17"/>und trinken auf italienischem Boden ihren Caffè 
+               <lb xml:id="p002_tr_1_tl_18"/>nero, als ob das nichts wäre. Indessen warten ver 
+               <lb xml:id="p002_tr_1_tl_19" break="no"/>ärgert die Schweizer Touristen vor dem Gitter auf 
+               <lb xml:id="p002_tr_1_tl_20"/>ihre Pässe, die man ihnen, weiß Gott, einer harm 
+               <lb xml:id="p002_tr_1_tl_21" break="no"/>losen Spritztour nach Como wegen abgefordert hat. 
+               <lb xml:id="p002_tr_1_tl_22"/>Schweizer Uniformierte zeigen sich kaum, wohl aber 
+               <lb xml:id="p002_tr_1_tl_23"/>Alpini [italienische Gebirgsjäger, Infanteriegattung des italienischen Militärs zur Verteidigung der Alpengrenzen] in großer Zahl, mit Adlerfedern, verwegenen 
+               <lb xml:id="p002_tr_1_tl_24"/>Blickes ...</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_25"/>(Zwei Stunden später, auf der Rückfahrt, wie- 
+               <lb xml:id="p002_tr_1_tl_26"/>derholt sich derselbe Vorgang peinlich genau.)</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_27"/>Über Como ragt, von weitem sichtbar, ein Turm 
+               <lb xml:id="p002_tr_1_tl_28"/>des Kaisers Friedrich, den die Italiener Barbarossa 
+               <lb xml:id="p002_tr_1_tl_29"/>nannten, empor. Viel Mittelalterliches birgt auch 
+               <lb xml:id="p002_tr_1_tl_30"/>die Stadt, an den weißen Fassaden des Doms wurde 
+               <lb xml:id="p002_tr_1_tl_31"/>seit dem 14. Jahrhundert gebaut.</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_055.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p> 
+               <lb xml:id="p003_tr_1_tl_2"/>Der Marmor stammt aus Varenna bei Bellagio, 
+               <lb xml:id="p003_tr_1_tl_3"/>auch die Mauern des Stadthauses sind aus weißem, 
+               <lb xml:id="p003_tr_1_tl_4"/>rotem und schwarzem Marmor errichtet. Die Co 
+               <lb xml:id="p003_tr_1_tl_5" break="no"/>masker, sonst als Schildbürger Italiens bekannt, 
+               <lb xml:id="p003_tr_1_tl_6"/>haben hier und an dem kunstreich und eindrucks 
+               <lb xml:id="p003_tr_1_tl_7" break="no"/>voll gebauten Dom den Ruhm ihrer Steinmetz 
+               <lb xml:id="p003_tr_1_tl_8" break="no"/>schule gerechtfertigt.</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_9"/>Bei kirchlichen Feiern werden im Innern der 
+               <lb xml:id="p003_tr_1_tl_10"/>Kirche prächtige Gobelins in gedämpften Farben 
+               <lb xml:id="p003_tr_1_tl_11"/>aufgehängt, unter Glas steht das Bild des heiligen 
+               <lb xml:id="p003_tr_1_tl_12"/>Abbondio, der als Schutzpatron der Stadt Como 
+               <lb xml:id="p003_tr_1_tl_13"/>einen großen Lapislazuli auf der Brust trägt. Am 
+               <lb xml:id="p003_tr_1_tl_14"/>linken Seitenaltar glänzen Kronen und Heiligen 
+               <lb xml:id="p003_tr_1_tl_15" break="no"/>scheine aus einem sonderbar dunklen Madonnenbild.</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_16"/>Man könnte den Comersee einen <hi rendition="#g">See der Vil 
+                  <lb xml:id="p003_tr_1_tl_17" break="no"/>len</hi> nennen, weil die Vornehmen und Reichen ihn 
+               <lb xml:id="p003_tr_1_tl_18"/>zu allen Zeiten für ihre Sommersitze bevorzugt 
+               <lb xml:id="p003_tr_1_tl_19"/>haben, die alten Römer genau so wie die großen 
+               <lb xml:id="p003_tr_1_tl_20"/>italienischen Familien der Renaissance und die Ma 
+               <lb xml:id="p003_tr_1_tl_21" break="no"/>gnaten von gestern und heute. Plinius und Vergil 
+               <lb xml:id="p003_tr_1_tl_22"/>haben seine Landschaft und seine aussichtsreichen 
+               <lb xml:id="p003_tr_1_tl_23"/>Punkte gelobt, das Vorgebirge bei <hi rendition="#g">Bellagio</hi> etwa, 
+               <lb xml:id="p003_tr_1_tl_24"/>wo die Villa Serbelloni das berühmteste Ziel ist. 
+               <lb xml:id="p003_tr_1_tl_25"/>Der Park ist von unerreichtem Reiz, die Villa selbst 
+               <lb xml:id="p003_tr_1_tl_26"/>war bis vor kurzem eines der bevorzugtesten Hotels 
+               <lb xml:id="p003_tr_1_tl_27"/>in Europa. Jetzt wurde sie von einer Dame gekauft, 
+               <lb xml:id="p003_tr_1_tl_28"/>die wieder einen Privatsitz von altem Glanz und 
+               <lb xml:id="p003_tr_1_tl_29"/>Ansehen daraus machen soll.</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_30"/>Der Eingang zu der Villa Giulia liegt an der</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_056.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>            <p> 
+               <lb xml:id="p004_tr_1_tl_3"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+Straße nach Civenna, ihren Garten darf man nur 
+               <lb xml:id="p004_tr_1_tl_4"/>an Festtagen betreten. Von Bellagio fährt man an 
+               <lb xml:id="p004_tr_1_tl_5"/>das westliche Ufer hinüber, nach <hi rendition="#g">Menaggio</hi>, des 
+               <lb xml:id="p004_tr_1_tl_6" break="no"/>sen schöner Golfplatz bei Grandola liegt (mit der 
+               <lb xml:id="p004_tr_1_tl_7"/>Kleinbahn kann man von Menaggio nach Porlezza 
+               <lb xml:id="p004_tr_1_tl_8"/>am Luganersee gelangen) oder gleich nach <hi rendition="#g">Cade 
+                  <lb xml:id="p004_tr_1_tl_9" break="no"/>nabbia</hi>, um die Villa Carlotta zu sehen. Sie wurde 
+               <lb xml:id="p004_tr_1_tl_10"/>erst im 18. Jahrhundert gebaut und gehörte früher 
+               <lb xml:id="p004_tr_1_tl_11"/>dem Herzog von Meiningen, der ihr den Namen 
+               <lb xml:id="p004_tr_1_tl_12"/>seiner Mutter, der Herzogin Charlotte, gab. Diese 
+               <lb xml:id="p004_tr_1_tl_13"/>Villa ist ebenso berühmt wie die Serbelloni, aber ihre 
+               <lb xml:id="p004_tr_1_tl_14"/>Lage ist weniger prunkvoll, weniger exponiert, da 
+               <lb xml:id="p004_tr_1_tl_15" break="no"/>durch erhält sie einen mehr privaten Charakter. 
+               <lb xml:id="p004_tr_1_tl_16"/>Das Gebäude selbst ist allerdings kühl und offiziell, 
+               <lb xml:id="p004_tr_1_tl_17"/>man denkt an kleine Hofempfänge, an Uniformen, 
+               <lb xml:id="p004_tr_1_tl_18"/>Zeremoniell und an Napoleon. Thorwaldsen und 
+               <lb xml:id="p004_tr_1_tl_19"/>Canova sind vertreten mit mehr oder minder höfi 
+               <lb xml:id="p004_tr_1_tl_20" break="no"/>schen Kunstwerken, das Relief des Alexanderzugs, 
+               <lb xml:id="p004_tr_1_tl_21"/>zu Napoleons Ehren modelliert, trägt zu der Stim 
+               <lb xml:id="p004_tr_1_tl_22" break="no"/>mung des Ortes bei. Aber der Garten ist intim, 
+               <lb xml:id="p004_tr_1_tl_23"/>geschützt, blühend und reich an großen Früchte 
+               <lb xml:id="p004_tr_1_tl_24" break="no"/>spalieren, Kamelien und Rhododendronbüschen.</p>
+            <p> 
+               <lb xml:id="p004_tr_1_tl_25"/>Ganz nahe bei der Villa Carlotta liegt auf der 
+               <lb xml:id="p004_tr_1_tl_26"/>Halbinsel Punta di Balbianello (auch Punta d'Avedo) 
+               <lb xml:id="p004_tr_1_tl_27"/>die Villa Arconati, in Bostoner Privatbesitz, eine 
+               <lb xml:id="p004_tr_1_tl_28"/>barock gewundene Steintreppe führt an den kleinen 
+               <lb xml:id="p004_tr_1_tl_29"/>Hafen hinunter. Die Insel Comacina mit ihrer klei 
+               <lb xml:id="p004_tr_1_tl_30" break="no"/>nen Kirche ist einer jener winzigen Punkte in der 
+               <lb xml:id="p004_tr_1_tl_31"/>Landschaft, auf denen sich stimmungsreiche und</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p005" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_057.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p005_tr_1"/>            <p> 
+               <lb xml:id="p005_tr_1_tl_2"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+romantische Schönheiten in merkwürdiger Konzen 
+               <lb xml:id="p005_tr_1_tl_3" break="no"/>tration zusammenfinden.</p>
+            <p> 
+               <lb xml:id="p005_tr_1_tl_4"/>Die <hi rendition="#g">Villa d'Este</hi> in Cernobbio vereint die Vor 
+               <lb xml:id="p005_tr_1_tl_5" break="no"/>züge eines Privatsitzes großen Stils mit denen eines 
+               <lb xml:id="p005_tr_1_tl_6"/>anspruchsvollen und einzigartig gelegenen Hotels. 
+               <lb xml:id="p005_tr_1_tl_7"/>Ihr Name ist berühmt, er gehört zu den berühm 
+               <lb xml:id="p005_tr_1_tl_8" break="no"/>testen und populärsten Italiens, und demgemäß ist 
+               <lb xml:id="p005_tr_1_tl_9"/>auch die Villa d'Este einer jener verbreiteten Orte, 
+               <lb xml:id="p005_tr_1_tl_10"/>die man gesehen haben muß, und zugleich die 
+               <lb xml:id="p005_tr_1_tl_11"/>Sehnsucht aller Hochzeitspaare. Seitdem die Villa 
+               <lb xml:id="p005_tr_1_tl_12"/>Serbelloni ausgeschieden ist, steht die Villa d'Este 
+               <lb xml:id="p005_tr_1_tl_13"/>noch glanzvoller und konkurrenzloser da, Tennis, 
+               <lb xml:id="p005_tr_1_tl_14"/>Schönheitskonkurrenzen für Automobile (Coupe 
+               <lb xml:id="p005_tr_1_tl_15"/>d'Or Villa d'Este), Golf- and Countryclub, Reit 
+               <lb xml:id="p005_tr_1_tl_16" break="no"/>turnier im Frühjahr und Herbst (vor dem Concours 
+               <lb xml:id="p005_l"/>international von Stresa) – Ereignisse dieser Art 
+               <lb xml:id="p005_tr_1_tl_19"/>drängen sich und machen das Schloß des Tolemeo 
+               <lb xml:id="p005_tr_1_tl_20"/>Gallio zu einem Mittelpunkt des sportlich-eleganten 
+               <lb xml:id="p005_tr_1_tl_21"/>Publikums. Jener Kardinal, dessen Denkmal im 
+               <lb xml:id="p005_tr_1_tl_22"/>Dom von Como steht, hat nicht nur die Villa d'Este 
+               <lb xml:id="p005_tr_1_tl_23"/>gebaut, sondern außerdem ein Landhaus bei Bel- 
+               <lb xml:id="p005_tr_1_tl_24"/>lagio, welches jetzt zerfallen ist.</p>
+            <p> 
+               <lb xml:id="p005_tr_1_tl_25"/>Dafür wurde die fürstlich angelegte Villa d'Este 
+               <lb xml:id="p005_tr_1_tl_26"/>von der Königin Karolina, Gemahlin Georgs IV., 
+               <lb xml:id="p005_tr_1_tl_27"/>sorgfältig eingerichtet und gebührend erhalten. Ein 
+               <lb xml:id="p005_tr_1_tl_28"/>Teil dieser Einrichtung ist heute noch vorhanden: 
+               <lb xml:id="p005_tr_1_tl_29"/>ein kleines Schreibzimmer mit geradlinigem Kamin, 
+               <lb xml:id="p005_tr_1_tl_30"/>goldgerahmten Türen und Tapeten, weißen Empire 
+               <lb xml:id="p005_tr_1_tl_31" break="no"/>tischen, gelbbespannten Stühlen – die gewölbte</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p006" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_058.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p006_r"/>            <p> 
+               <lb xml:id="p006_l_2"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+Decke mit gerafften Vorhängen, Blumengirlanden 
+               <lb xml:id="p006_l_3"/>und einem schwebend sich umarmendes Götterpaar 
+               <lb xml:id="p006_l"/>kulissenhaft bemalt. Eindrucksvoller, ungestörter 
+               <lb xml:id="p006_l_6"/>und überraschender ist aber der Garten, die Grotten,
+               <milestone unit="textregion" xml:id="p006_r_88"/>               <figure>
+                  <head resp="editor"> 
+                     <lb xml:id="p006_l_56"/>Zeichnung eines Garten im Tessin mit Villa von Tomamichl</head>
+                  <bibl>
+                     <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+                  </bibl>
+               </figure>
+                <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+                  <lb xml:id="p006_l_7"/>Tessin</p>
+
+               <milestone unit="textregion" xml:id="p006_r_4"/> 
+               <lb xml:id="p006_l_8"/>die Alleen, der Felsenweg, seltene Pflanzen und 
+               <lb xml:id="p006_l_9"/>Bäume, Bananensträucher und Papiri, wohlgepflegte 
+               <lb xml:id="p006_l_10"/>Beete, Gebüsche und Kieswege. Der steil empor 
+               <lb xml:id="p006_l_11" break="no"/>steigende Berghang ist phantasiereich und spielerisch 
+               <lb xml:id="p006_l_12"/>mit Mauern, Türmen, kleinen Toren verbaut; die 
+               <lb xml:id="p006_l_13"/>Frau des Generals Pinna hat diesen kriegerischen 
+               <lb xml:id="p006_l_14"/>Anblick ihrem Gatten als Überraschung zugedacht, 
+               <lb xml:id="p006_l_15"/>als er aus der Schlacht von Saragossa heimkehrte.</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p007" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_059.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p007_tr_2"/>            <p> 
+               <lb xml:id="p007_tr_2_tl_2"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+Mitten durch den Park, die Straße überwölbend, 
+               <lb xml:id="p007_tr_2_tl_3"/>steigen zwei Reihen grauer Steinstufen an und enden 
+               <lb xml:id="p007_tr_2_tl_4"/>hoch oben bei einer barocken Göttergruppe. Man 
+               <lb xml:id="p007_tr_2_tl_5"/>geht den Stufen entlang hinauf, Pinien, kerzengerade 
+               <lb xml:id="p007_tr_2_tl_6"/>und schlank, bilden eine dunkle Allee. Im Garten 
+               <lb xml:id="p007_tr_2_tl_7"/>liegen die Tennisplätze (viel weiter, an der Straße 
+               <lb xml:id="p007_tr_2_tl_8"/>Como–Camerlata, dehnen sich die Golflinks aus). 
+               <lb xml:id="p007_tr_2_tl_9"/>Auf dem Spielplatz sitzen häkelnde Kinderfrauen 
+               <lb xml:id="p007_tr_2_tl_10"/>und bewachen ihre Schützlinge, nacktbeinige, sorg 
+               <lb xml:id="p007_tr_2_tl_11" break="no"/>fältig gekämmte Buben, in gelber und rosa Seide 
+               <lb xml:id="p007_tr_2_tl_12"/>die kleinen Mädchen, mit Bällen, Fahrrädern und 
+               <lb xml:id="p007_tr_2_tl_13"/>zierlichem Golfgerät emsig beschäftigt.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
