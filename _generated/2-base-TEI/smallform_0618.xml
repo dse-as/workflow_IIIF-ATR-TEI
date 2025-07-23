@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0618" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0618#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0618</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0618"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0618_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_060.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Locarno und Ascona</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_2"/><hi rendition="#g">Locarno</hi>, neueren Datums wie das schon lange 
+               <lb xml:id="p001_tr_1_tl_3"/>als Fremdenort berühmte Lugano, durch besonders 
+               <lb xml:id="p001_tr_1_tl_4"/>mildes Klima ausgezeichnet und reich an landschaft 
+               <lb xml:id="p001_tr_1_tl_5" break="no"/>lichen Vorzügen, leidet doch unter der Mißgunst der 
+               <lb xml:id="p001_tr_1_tl_6"/>Verkehrsverhältnisse: Lugano ist Station der Gott 
+               <lb xml:id="p001_tr_1_tl_7" break="no"/>hardbahn, man wird fast notwendig hingeführt und 
+               <lb xml:id="p001_tr_1_tl_8"/>darauf aufmerksam gemacht, dagegen liegt Locarno 
+               <lb xml:id="p001_tr_1_tl_9"/>in bescheiden abseitiger Ecke. Wer dorthin reisen 
+               <lb xml:id="p001_tr_1_tl_10"/>will, muß in Bellinzona meist umsteigen. Direkte 
+               <lb xml:id="p001_tr_1_tl_11"/>Wagen gibt es nur in geringer Zahl.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_12"/>Sehenswürdigkeiten, landschaftliche Reize, klima 
+               <lb xml:id="p001_tr_1_tl_13" break="no"/>tische Vorzüge fehlen Locarno in keiner Weise. 
+               <lb xml:id="p001_tr_1_tl_14"/>Aber sie genügen nicht, sie sind nicht das Entschei 
+               <lb xml:id="p001_tr_1_tl_15" break="no"/>dende, um einen Ort lebendig zu erhalten. Der Kai 
+               <lb xml:id="p001_tr_1_tl_16"/>von Locarno, seine Kaffees, seine Tennisplätze – 
+               <lb xml:id="p001_tr_1_tl_17"/>sogar seine Tennisplätze – sind ein wenig öde, ein 
+               <lb xml:id="p001_tr_1_tl_18"/>wenig unlustig: Eine Anregung fehlt, eine innere 
+               <lb xml:id="p001_tr_1_tl_19"/>und äußere Lebendigkeit ... Locarno könnte ein 
+               <lb xml:id="p001_tr_1_tl_20"/>stiller Ort werden, anstatt, wie mit Kamelienfest und 
+               <lb xml:id="p001_tr_1_tl_21"/>Propaganda angestrebt, ein mondänes Publikum an 
+               <lb xml:id="p001_tr_1_tl_22" break="no"/>zulocken. Eine Reihe von alteingesessenen Familien 
+               <lb xml:id="p001_tr_1_tl_23"/>lebt hier noch, zahlreicher und selbstsicherer als in 
+               <lb xml:id="p001_tr_1_tl_24"/>Lugano (dort haben die Fremden entschieden die 
+               <lb xml:id="p001_tr_1_tl_25"/>Oberhand gewonnen).</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_26"/>Aber dieser private Teil Locarnos ist den Fremden 
+               <lb xml:id="p001_tr_1_tl_27"/>nicht zugänglich und nicht wichtig. Etwas anderes</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_061.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p> 
+               <lb xml:id="p002_tr_1_tl_2"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+wäre geeigneter, für den Ort propagandierend zu 
+               <lb xml:id="p002_tr_1_tl_3"/>wirken: Es gibt schon heute Menschen, die gerade 
+               <lb xml:id="p002_tr_1_tl_4"/>das stillere Locarno lieben, Ascona ist deshalb nicht 
+               <lb xml:id="p002_tr_1_tl_5"/>nur Konkurrenz, sondern Gegensatz und Anreiz. Es 
+               <lb xml:id="p002_tr_1_tl_6"/>erschließt gewissermaßen die Gegend. Wer nach 
+               <lb xml:id="p002_tr_1_tl_7"/>Ascona fährt, lernt Locarno kennen, ob er es be 
+               <lb xml:id="p002_tr_1_tl_8" break="no"/>absichtigt oder nicht. Alle Bedingungen sind vor 
+               <lb xml:id="p002_tr_1_tl_9" break="no"/>handen: Eines Tages wird Locarno auf diesem 
+               <lb xml:id="p002_tr_1_tl_10"/>Wege seinerseits der große Modeort sein.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_11"/>Nach <hi rendition="#g">Ascona</hi> kommen die Neugierigen und er 
+               <lb xml:id="p002_tr_1_tl_12" break="no"/>warten, Männer mit langen Bärten und Frauen in 
+               <lb xml:id="p002_tr_1_tl_13"/>Büßerhemden anzutreffen, sie haben einmal etwas 
+               <lb xml:id="p002_tr_1_tl_14"/>vom Monte Verità gehört, abenteuerliche Gerüchte, 
+               <lb xml:id="p002_tr_1_tl_15"/>vielleicht den Namen jenes Belgiers Oedenkoven, der 
+               <lb xml:id="p002_tr_1_tl_16"/>vor mehr als 30 Jahren dem Berg seinen Namen 
+               <lb xml:id="p002_tr_1_tl_17"/>gab und – Vegetarier, Naturmensch, Weltverbes 
+               <lb xml:id="p002_tr_1_tl_18" break="no"/>serer – in rätselhafter und immerhin achtunggebie- 
+               <lb xml:id="p002_tr_1_tl_19"/>tender Ausdauer Enttäuschungen, Lächerlichkeit und 
+               <lb xml:id="p002_tr_1_tl_20"/>Ausartungen über sich ergehen ließ. Er gründete 
+               <lb xml:id="p002_tr_1_tl_21"/>1905 die "Vegetabilische Gesellschaft des Monte 
+               <lb xml:id="p002_tr_1_tl_22"/>Verità", das war einer der zahlreichen und aus 
+               <lb xml:id="p002_tr_1_tl_23" break="no"/>nahmslos gescheiterten Versuche, der in verhängnis 
+               <lb xml:id="p002_tr_1_tl_24" break="no"/>vollen Irrtümern lebenden Menschheit den Weg zum 
+               <lb xml:id="p002_tr_1_tl_25"/>Heil, zur natürlichen Besserung zu weisen. Lenin, 
+               <lb xml:id="p002_tr_1_tl_26"/>Klabund, Mary Wigman, Emil Ludwig, Erich Müh 
+               <lb xml:id="p002_tr_1_tl_27" break="no"/>sam und die Gräfin Reventlow haben den Berg be 
+               <lb xml:id="p002_tr_1_tl_28" break="no"/>sucht, dann kamen Spiritisten, Theosophen, Anarchi 
+               <lb xml:id="p002_tr_1_tl_29" break="no"/>sten, Schwindler, Besessene und gescheiterte Exi- 
+               <lb xml:id="p002_tr_1_tl_30"/>stenzen.</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_062.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p003_r"/>            <p> 
+               <lb xml:id="p003_l"/>("Man geniert sich etwas, in Ascona zu sein" – 
+               <lb xml:id="p003_l_1"/>"Als ob ich aus dem Narrenhaus entkommen wäre"
+               <milestone unit="textregion" xml:id="p003_r_2"/>               <figure>
+                  <head resp="editor"> 
+                     <lb xml:id="p003_l_9"/>Zeichnung einer Kaffeeszene am Quai von Ascona von Tomamichl</head>
+                  <bibl>
+                     <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+                  </bibl>
+               </figure>
+                <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+                  <lb xml:id="p003_l_10"/>Ascona</p>
+
+               <milestone unit="textregion" xml:id="p003_r_3"/> 
+               <lb xml:id="p003_l_11"/>"Es ist ein Paradies ..." – Aussprüche der 
+               <lb xml:id="p003_l_15"/>Gräfin Reventlow, die acht Jahre in Ascona ge 
+               <lb xml:id="p003_l_12" break="no"/>blieben ist.)</p>
+            <p> 
+               <lb xml:id="p003_l_13"/>Das Paradies und Narrenhaus war nicht lebens¬</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_063.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>            <p> 
+               <lb xml:id="p004_tr_1_tl_2" break="no"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+fähig, und Oedenkoven mußte – tragisches Schick 
+               <lb xml:id="p004_tr_1_tl_3" break="no"/>sal – nach zwanzig Jahren sein Werk aufgeben und 
+               <lb xml:id="p004_tr_1_tl_4"/>Ascona verlassen.</p>
+            <p> 
+               <lb xml:id="p004_tr_1_tl_5"/>Das Unternehmen schien einige Jahre gründlich 
+               <lb xml:id="p004_tr_1_tl_6"/>zu Ende und der Vergessenheit anheim zu fallen. 
+               <lb xml:id="p004_tr_1_tl_7"/>Aber Ascona war nun einmal entdeckt, das ließ sich 
+               <lb xml:id="p004_tr_1_tl_8"/>nicht rückgängig machen, in irgendeiner Form 
+               <lb xml:id="p004_tr_1_tl_9"/>mußte es wachsen und einen Stil bekommen: Das 
+               <lb xml:id="p004_tr_1_tl_10"/>"Gesinnungsdorf" Ascona, Maler, Künstler, Tänzer 
+               <lb xml:id="p004_tr_1_tl_11"/>und freie Geister – die Bohème Europas sammelte 
+               <lb xml:id="p004_tr_1_tl_12"/>sich hier. Nicht mehr Naturmenschen, noch weniger 
+               <lb xml:id="p004_tr_1_tl_13"/>Vegetarier und Abstinenten, vielmehr jene Gesell 
+               <lb xml:id="p004_tr_1_tl_14" break="no"/>schaft aus den Kaffeehäusern der Großstadt von 
+               <lb xml:id="p004_tr_1_tl_15"/>intellektuell-revolutionärer Gesinnungsart. Worps 
+               <lb xml:id="p004_tr_1_tl_16" break="no"/>wede ist verwandter Boden, wenn auch gemäßigter, 
+               <lb xml:id="p004_tr_1_tl_17"/>abgelegener, vielleicht exklusiver.</p>
+            <p> 
+               <lb xml:id="p004_tr_1_tl_18"/>Eine neue Epoche: jetzt war das Restaurant ex 
+               <lb xml:id="p004_tr_1_tl_19" break="no"/>pressionistisch ausgemalt. ("Monte Verità – Hotel – 
+               <lb xml:id="p004_tr_1_tl_20"/>Kurhaus – Restaurant – bunt wie Tessiner Gloc 
+               <lb xml:id="p004_tr_1_tl_21" break="no"/>kengeläut ist der Weltruf von Monte Verità – Monte 
+               <lb xml:id="p004_tr_1_tl_22"/>Verità ist Synthese von Natursanatorium und Einzel 
+               <lb xml:id="p004_tr_1_tl_23" break="no"/>leben. Die Basis hierzu: Zwanglosigkeit. Lago 
+               <lb xml:id="p004_tr_1_tl_24"/>Maggiore zauberlacht Unlust in blaue Heiterkeit. – 
+               <lb xml:id="p004_tr_1_tl_25"/>Hier ist Ruhepol und Angel der Welt – –")</p>
+            <p> 
+               <lb xml:id="p004_tr_1_tl_26"/>Die Direktoren taten ihr Bestes, den ins Wanken 
+               <lb xml:id="p004_tr_1_tl_27"/>geratenen Ruf des Wahrheitsberges zu befestigen. 
+               <lb xml:id="p004_tr_1_tl_28"/>Die Maler von Ascona trugen das ihrige dazu bei, 
+               <lb xml:id="p004_tr_1_tl_29"/>es war die Zeit der Künstlerfeste, die man mit un 
+               <lb xml:id="p004_tr_1_tl_30" break="no"/>geahntem Glanz arrangierte.</p>
+
+            <pb xml:id="p005" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_064.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p005_tr_1"/>            <p> 
+               <lb xml:id="p005_tr_1_tl_2"/>Erst der Freiherr von der Heydt hat aus dem 
+               <lb xml:id="p005_tr_1_tl_3"/>Monte Verità ein gangbares, anspruchsvolles und 
+               <lb xml:id="p005_tr_1_tl_4"/>von allen Absonderlichkeiten geheiltes Hotel ge 
+               <lb xml:id="p005_tr_1_tl_5" break="no"/>macht. In Ascona wohnen unbekümmert immer 
+               <lb xml:id="p005_tr_1_tl_6"/>noch Künstler, Philosophen und freie Geister. Frau 
+               <lb xml:id="p005_tr_1_tl_7"/>Froebe hält in ihrem Haus Kurse für "Spiritual 
+               <lb xml:id="p005_tr_1_tl_8"/>Research" ab, Unternehmungen von durchaus ernst 
+               <lb xml:id="p005_tr_1_tl_9" break="no"/>haftem geistigem Rang, die auch der Besitzer des 
+               <lb xml:id="p005_tr_1_tl_10"/>Monte Verità besucht. Wer von den Asconesen 
+               <lb xml:id="p005_tr_1_tl_11"/>würde aber seinerseits einen Aufenthalt im neuen Kur 
+               <lb xml:id="p005_tr_1_tl_12" break="no"/>haus erschwingen können? Die Wege trennen sich –</p>
+            <p> 
+               <lb xml:id="p005_tr_1_tl_13"/>"Der Monte Verità, der solange reifen, irren, 
+               <lb xml:id="p005_tr_1_tl_14"/>wachsen mußte, hat nun endlich seine Fehler, Er 
+               <lb xml:id="p005_tr_1_tl_15" break="no"/>lebnisse, Launen und Exzesse überwunden und ist 
+               <lb xml:id="p005_tr_1_tl_16"/>zur Vollkommenheit gelangt ... Um auch den ver 
+               <lb xml:id="p005_tr_1_tl_17" break="no"/>wöhntesten Gästen das Naturleben schmackhaft zu 
+               <lb xml:id="p005_tr_1_tl_18"/>machen, hat Baron von der Heydt einen neuen 
+               <lb xml:id="p005_tr_1_tl_19"/>Hotelbau nach den modernsten Grundsätzen er 
+               <lb xml:id="p005_tr_1_tl_20" break="no"/>richten lassen." Man rollt zum Beispiel in lauen 
+               <lb xml:id="p005_tr_1_tl_21"/>Sommernächten sein Bett eigenhändig und mühelos 
+               <lb xml:id="p005_tr_1_tl_22"/>auf den Balkon hinaus.</p>
+            <p> 
+               <lb xml:id="p005_tr_1_tl_23"/>Inzwischen hat sich Emil Ludwig bei Ascona ein 
+               <lb xml:id="p005_tr_1_tl_24"/>Haus gebaut, Edmund Stinnes besitzt ein großes 
+               <lb xml:id="p005_tr_1_tl_25"/>Gelände, Herr Dr. Emden die Inseln von Brissago, 
+               <lb xml:id="p005_tr_1_tl_26"/>der frühere Boxer Herr Antognini, Großgrund 
+               <lb xml:id="p005_tr_1_tl_27" break="no"/>besitzer und Inhaber des Kasinos, machte aus diesem 
+               <lb xml:id="p005_tr_1_tl_28"/>eine bevorzugte Vergnügungsstätte – ein neues 
+               <lb xml:id="p005_tr_1_tl_29"/>Hotel soll gebaut werden, näher am Lido als der 
+               <lb xml:id="p005_tr_1_tl_30"/>Monte Verità – es wird sich sicher bezahlt machen.</p>
+
+            <pb xml:id="p006" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_065.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p006_tr_2"/>            <p> 
+               <lb xml:id="p006_tr_2_tl_2"/>Aber der Park ist unverfälscht geblieben mit 
+               <lb xml:id="p006_tr_2_tl_3"/>Sonnenbad, Walkürenfelsen und kleinen Häuschen, 
+               <lb xml:id="p006_tr_2_tl_4"/>welche Frauennamen tragen, oder "Solitude" und 
+               <lb xml:id="p006_tr_2_tl_5"/>"Chateau d'Amour" heißen. (Das Letztgenannte ist, 
+               <lb xml:id="p006_tr_2_tl_6"/>seinen Namen zu ehren, von ausgesuchter Winzig 
+               <lb xml:id="p006_tr_2_tl_7" break="no"/>keit und durchaus für einen Einzelgänger berech 
+               <lb xml:id="p006_tr_2_tl_8" break="no"/>net.) – Man kann sich diese Häuschen mieten, sie 
+               <lb xml:id="p006_tr_2_tl_9"/>liegen verstreut im Park, der noch immer einer 
+               <lb xml:id="p006_tr_2_tl_10"/>Wildnis ähnlich sieht, mit Felsen, unberührten We 
+               <lb xml:id="p006_tr_2_tl_11" break="no"/>gen, waldbedeckten Hügeln und plötzlichen Aus 
+               <lb xml:id="p006_tr_2_tl_12" break="no"/>blicken in die Täler und Gebirge, die hier von ro 
+               <lb xml:id="p006_tr_2_tl_13" break="no"/>mantischer Großartigkeit sind.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
