@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0210"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0210</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0210_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0210_001"
+                facs="https://www.monacensia-digital.de/i3f/v20/415641/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0210_001_tr_1"/>
+            <lb xml:id="letter_0210_001_tr_1_tl_1"/>Donnerstag<CONV tag="p">
+<lb xml:id="letter_0210_001_tr_1_tl_2"/>E.– Deinen Brief holte ich gestern, nachdem
+<lb xml:id="letter_0210_001_tr_1_tl_3"/>wir — Klaus u. ich, mit Hanna u. mehreren
+<lb xml:id="letter_0210_001_tr_1_tl_4"/>Jünglingen, den aufs Neue unwahr¬
+<lb xml:id="letter_0210_001_tr_1_tl_5"/>scheinlich eindrucksvollen Potemkin
+<lb xml:id="letter_0210_001_tr_1_tl_6"/>gesehen, u. einen anderen mir neuen,
+<lb xml:id="letter_0210_001_tr_1_tl_7"/>"Turksib", Bau der grossen Eisenbahn
+<lb xml:id="letter_0210_001_tr_1_tl_8"/>durch Asien, unserem Interesse nicht
+<lb xml:id="letter_0210_001_tr_1_tl_9"/>ganz zugänglich, aber doch Beweis
+<lb xml:id="letter_0210_001_tr_1_tl_10"/>der Möglichkeit, Kulturfilme faszi¬
+<lb xml:id="letter_0210_001_tr_1_tl_11"/>nierend herzustellen, u. mit ganz
+<lb xml:id="letter_0210_001_tr_1_tl_12"/>herrlichen u. ausserordentlichen
+<lb xml:id="letter_0210_001_tr_1_tl_13"/>Landschaftsbildern.</CONV><CONV tag="p">
+<lb xml:id="letter_0210_001_tr_1_tl_14"/>Das bietet Berlin. Auch meine Wohnung
+<lb xml:id="letter_0210_001_tr_1_tl_15"/>ist hübsch, u. Hannas Schilfgestade.
+<lb xml:id="letter_0210_001_tr_1_tl_16"/>Heute beginne ich, die asiatischen Museums¬
+<lb xml:id="letter_0210_001_tr_1_tl_17"/>schätze zu durchforschen.</CONV><CONV tag="p">
+<lb xml:id="letter_0210_001_tr_1_tl_18"/>Aber – – –</CONV> <CONV tag="p">
+<lb xml:id="letter_0210_001_tr_1_tl_19"/>Und, E. – das Aber wuchs <PAGE tag="strikethrough">w</PAGE> riesengross
+<lb xml:id="letter_0210_001_tr_1_tl_20"/>mit der Entfernung von Dinkelsbühl
+<lb xml:id="letter_0210_001_tr_1_tl_21"/>u. vom hellblauen Ford, und von
+<lb xml:id="letter_0210_001_tr_1_tl_22"/>den südlichen, bayrischen, schweizerischen
+<lb xml:id="letter_0210_001_tr_1_tl_23"/>Wiesen.</CONV><pb xml:id="letter_0210_002"
+                facs="https://www.monacensia-digital.de/i3f/v20/415642/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0210_002_tr_1"/><CONV tag="p">
+<lb xml:id="letter_0210_002_tr_1_tl_1"/>Die Reise hierher war mühsam wegen
+<lb xml:id="letter_0210_002_tr_1_tl_2"/>Regen u. schlechten Strassen u. lockerer
+<lb xml:id="letter_0210_002_tr_1_tl_3"/>Steuerung am Victory. Vor Leipzig
+<lb xml:id="letter_0210_002_tr_1_tl_4"/>hatten wir eine Panne, u. als wir in
+<lb xml:id="letter_0210_002_l"/>Leipzig flicken liessen, dauerte es 2
+<lb xml:id="letter_0210_002_tr_1_tl_7"/>Stunden u. als wir in Berlin eintrafen
+<lb xml:id="letter_0210_002_tr_1_tl_8"/>(gegen Mitternacht) war der Reifen schlecht
+<lb xml:id="letter_0210_002_tr_1_tl_9"/>geflickt u. wieder leer, so dass wir also,
+<lb xml:id="letter_0210_002_tr_1_tl_10"/>wie der Reiter über den Bodensee, in trügerischem
+<lb xml:id="letter_0210_002_tr_1_tl_11"/>Sicherheitsgefühl gefahren waren –</CONV><CONV tag="p">
+<lb xml:id="letter_0210_002_tr_1_tl_12"/>Maria wiederum war die ganze Nacht zum
+<lb xml:id="letter_0210_002_tr_1_tl_13"/>Operieren im Krankenhaus (so bieten es
+<lb xml:id="letter_0210_002_tr_1_tl_14"/>uns die Ärzte ...) u. ich fand in ihrer
+<lb xml:id="letter_0210_002_tr_1_tl_15"/>Wohnung nur eine prächtige Bastian [ev. Name der Katze?] Katze
+<lb xml:id="letter_0210_002_tr_1_tl_16"/>vor –</CONV><CONV tag="p">
+<lb xml:id="letter_0210_002_tr_1_tl_17"/>Dass Du aber ohne Freddo hausen u. Whisky
+<lb xml:id="letter_0210_002_tr_1_tl_18"/>allein trinken musst, ist ein friedlicher
+<lb xml:id="letter_0210_002_tr_1_tl_19"/>Ärger verglichen mit dem abgrundtiefen
+<lb xml:id="letter_0210_002_tr_1_tl_20"/>von Klaus über Sternheims geisteskranken
+<lb xml:id="letter_0210_002_tr_1_tl_21"/>Brief. Gibt es den[n] auch gar keine Grenze für
+<lb xml:id="letter_0210_002_tr_1_tl_22"/>die Druckerschwärze?</CONV><CONV tag="p">
+<lb xml:id="letter_0210_002_tr_1_tl_23"/>Ich habe Frau Bermann besucht, u. wir
+<lb xml:id="letter_0210_002_tr_1_tl_24"/>wollen alle Inge v. Königswald von ihrer
+<lb xml:id="letter_0210_002_tr_1_tl_25"/>Aufgabe überzeugen, den jungen Schrift¬
+<lb xml:id="letter_0210_002_tr_1_tl_26"/>stellern einen Hafen u. Hort in diesen
+<lb xml:id="letter_0210_002_l_1"/>üblen Zeiten zu bieten ... Ob sie es glaubt
+<lb xml:id="letter_0210_002_tr_1_tl_29"/>u. vermag?</CONV>
+<lb xml:id="letter_0210_002_tr_1_tl_30"/>Was schreibt Zürich? Was denkst Du
+<lb xml:id="letter_0210_002_tr_1_tl_31"/>vom Norden? Was wird in Salzburg?<pb xml:id="letter_0210_003"
+                facs="https://www.monacensia-digital.de/i3f/v20/415643/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0210_003_tr_2"/><CONV tag="p">
+<lb xml:id="letter_0210_003_tr_2_tl_1"/>Mir scheint jede Beschäftigung recht, die
+<lb xml:id="letter_0210_003_tr_2_tl_2"/>weit genug von allem entfernt ist, was
+<lb xml:id="letter_0210_003_tr_2_tl_3"/>heute "Aktualität" darstellt u. unserem
+<lb xml:id="letter_0210_003_tr_2_tl_4"/>Gefühl auf jeden Fall unverständlich u.
+<lb xml:id="letter_0210_003_tr_2_tl_5"/>zuwider ist –</CONV><CONV tag="p">
+<lb xml:id="letter_0210_003_tr_2_tl_6"/>Oder soll man gar nicht mehr glauben,
+<lb xml:id="letter_0210_003_tr_2_tl_7"/>dass selbst in der Not von heute gewisse
+<lb xml:id="letter_0210_003_tr_2_tl_8"/>Dinge ihren Wert darüber hinaus behalten?
+<lb xml:id="letter_0210_003_tr_2_tl_9"/>(So dass man sich ihnen
+<lb xml:id="letter_0210_003_tr_2_tl_10"/>mit gutem Gewissen zuwenden,
+<lb xml:id="letter_0210_003_tr_2_tl_11"/>dürfte?)</CONV> [vertical space]<CONV tag="p">
+<lb xml:id="letter_0210_003_tr_2_tl_12"/>Ach E. – ich weiss jetzt ganz genau, was Du an
+<lb xml:id="letter_0210_003_tr_2_tl_13"/>Berlin verabscheust, u. dass die Leute hier
+<lb xml:id="letter_0210_003_tr_2_tl_14"/>blind werden. Und weil ich es, ein wenig schon,
+<lb xml:id="letter_0210_003_tr_2_tl_15"/>ahnte, wollte ich so ungern mich von Dir
+<lb xml:id="letter_0210_003_tr_2_tl_16"/>trennen.</CONV><CONV tag="p">
+<lb xml:id="letter_0210_003_tr_2_tl_17"/>Und so bleibt es.</CONV> [vertical space] <CONV tag="p">
+<lb xml:id="letter_0210_003_tr_2_tl_18"/>Hanna fährt Son[n]tag nach Holland, will aber bald
+<lb xml:id="letter_0210_003_l"/>zurückkom[m]en. Es geht ihr tatsächlich gut u.
+<lb xml:id="letter_0210_003_l_1"/>zuversichtlicher. Auf dem Schreibtisch von Klaus
+<lb xml:id="letter_0210_003_tr_2_tl_23"/>lagen mehrere ihrer Novellen ...</CONV>
+<lb xml:id="letter_0210_003_tr_2_tl_24"/>Adieu, Liebling E.–, berichte was
+<lb xml:id="letter_0210_003_tr_2_tl_25"/>Du tust, ob Freddo ohne oder
+<lb xml:id="letter_0210_003_tr_2_tl_26"/>mit Lutz ankam –
+<lb xml:id="letter_0210_003_tr_2_tl_27"/>und sei sehr erinnert an
+<lb xml:id="letter_0210_003_l_3"/>A.
+<lb xml:id="letter_0210_003_l_2"/>Königin Elisabethstr. 40</div>
+      </body>
+   </text>
+</TEI>
