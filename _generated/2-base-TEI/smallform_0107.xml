@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0107" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0107#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0107</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0107"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0107_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0107_001.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_tl_1"/>THOMAS WOLFE, SCHAU HEIM- 
+               <lb xml:id="p001_r_tl_2"/>WÄRTS, ENGEL 
+               <lb xml:id="p001_r_tl_3"/>(Deutsch bei Ernst Rowohlt 1932)</p>
+            <p> 
+               <lb xml:id="p001_r_tl_4"/>Eine Geschichte vom begrabenen Leben 
+               <lb xml:id="p001_r_tl_5"/>nennt Thomas Wolfe sein Buch, und 
+               <lb xml:id="p001_r_tl_6"/>nimmt damit Vieles vorweg was wir 
+               <lb xml:id="p001_r_tl_7"/>nachher deutlich erfahren: es ist das 
+               <lb xml:id="p001_r_tl_8"/>Buch eines Mannes der lange geschwie 
+               <lb xml:id="p001_r_tl_9" break="no"/>gen hat, und der nun in die Tiefe zu 
+               <lb xml:id="p001_r_tl_10" break="no"/>rückgreift, in dunkle Schächte halb 
+               <lb xml:id="p001_r_tl_11"/>verschütteten Bewusstseins – und was 
+               <lb xml:id="p001_r_tl_12"/>er erzählt wird eine Gesamtschau, eine 
+               <lb xml:id="p001_r_tl_13"/>Welt an Gesichten, Eindrücken, Erleb 
+               <lb xml:id="p001_r_tl_14" break="no"/>nissen, Schmerzen. An Verbundenhei 
+               <lb xml:id="p001_r_tl_15" break="no"/>ten grosser und kleiner, immer tragi 
+               <lb xml:id="p001_r_tl_16" break="no"/>scher Art. An Leidenschaften. Denn es 
+               <lb xml:id="p001_r_tl_17"/>ist eine Geschichte unheilvoller Leiden 
+               <lb xml:id="p001_r_tl_18" break="no"/>schaften, einer von ihnen tragisch ver 
+               <lb xml:id="p001_r_tl_19" break="no"/>folgten und zusammengeschmiedeten 
+               <lb xml:id="p001_r_tl_20"/>Familie. Wir erfahren es nicht wie man 
+               <lb xml:id="p001_r_tl_21"/>sonst eine Geschichte erzählt bekommt 
+               <lb xml:id="p001_r_tl_22"/>– nein, wir werden gezwungen, teilzu 
+               <lb xml:id="p001_r_tl_23" break="no"/>nehmen, werden mitten hinein gestellt.</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0107_002.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p002_r_2"/>            <p> 
+               <lb xml:id="p002_r_2_tl_1"/>Wir hassen Steve den Aeltesten, weil er 
+               <lb xml:id="p002_r_2_tl_2"/>lasterhaft, frech und widerwärtig ist, 
+               <lb xml:id="p002_r_2_tl_3"/>aber wir verstehen dass er irgendwie 
+               <lb xml:id="p002_r_2_tl_4"/>doch mitgenommen wird, weil er der 
+               <lb xml:id="p002_r_2_tl_5"/>Bruder ist, dazu gehört – und ebenso 
+               <lb xml:id="p002_r_2_tl_6"/>wenig lehnen wir uns auf gegen Gant, 
+               <lb xml:id="p002_r_2_tl_7"/>den Vater, den notorischen Säufer mit 
+               <lb xml:id="p002_r_2_tl_8"/>den pathetischen Gebärden des Genia- 
+               <lb xml:id="p002_r_2_tl_9"/>len und Ungenügenden, wir nehmen teil 
+               <lb xml:id="p002_r_2_tl_10"/>an seiner Ruhelosigkeit die ihn treibt 
+               <lb xml:id="p002_r_2_tl_11"/>plötzlich monatelang zu verschwinden 
+               <lb xml:id="p002_r_2_tl_12"/>aus der kleinen amerikanischen Stadt, 
+               <lb xml:id="p002_r_2_tl_13"/>dann wieder aufzutauchen, triumphie 
+               <lb xml:id="p002_r_2_tl_14" break="no"/>rend und rasend erfüllt von den Namen 
+               <lb xml:id="p002_r_2_tl_15"/>der grossen Welt die er durchstürmt hat 
+               <lb xml:id="p002_r_2_tl_16"/>– Arizona Colorado Kalifornien – 550 
+               <lb xml:id="p002_r_2_tl_17"/>Seiten lang ertragen wir sein Jammern 
+               <lb xml:id="p002_r_2_tl_18"/>um das verlorene Leben, seine seichten 
+               <lb xml:id="p002_r_2_tl_19"/>anklägerischen Lügen, seine Bosheit, 
+               <lb xml:id="p002_r_2_tl_20"/>sein Gezank mit Eliza – 550 Seiten lang 
+               <lb xml:id="p002_r_2_tl_21"/>sehen wir sie am Herd stehen, mit ris 
+               <lb xml:id="p002_r_2_tl_22" break="no"/>sigen roten Händen, keifender Stimme, 
+               <lb xml:id="p002_r_2_tl_23"/>auch sie jammernd, drohend, mit Bo 
+               <lb xml:id="p002_r_2_tl_24" break="no"/>denspekulationen beschäftigt, – wie 
+               <lb xml:id="p002_r_2_tl_25" break="no"/>viel Rührendes in dieser Figur, wieviel 
+               <lb xml:id="p002_r_2_tl_26"/>Armseligkeit, Gier, Härte neben scham 
+               <lb xml:id="p002_r_2_tl_27" break="no"/>haft zurückgehaltener, zuweilen aber 
+               <lb xml:id="p002_r_2_tl_28"/>echt und grossartig hervor brechender 
+               <lb xml:id="p002_r_2_tl_29"/>Zärtlichkeit für die Söhne – Lukas, den 
+               <lb xml:id="p002_r_2_tl_30"/>Grossherzigen, den Stotterer mit dem 
+               <lb xml:id="p002_r_2_tl_31"/>idiotischen Lachen, den Geschäftigen, 
+               <lb xml:id="p002_r_2_tl_32"/>der als Seemann endet – Eugen, den 
+               <lb xml:id="p002_r_2_tl_33"/>Zarten, Jüngsten, das Füllen das sich 
+               <lb xml:id="p002_r_2_tl_34"/>ungelenk auswächst, Schulen besucht, 
+               <lb xml:id="p002_r_2_tl_35"/>zur Universität geht, der Stolz der Fa- 
+               <lb xml:id="p002_r_2_tl_36"/>milie wird – immer unwirsch, halb auf 
+               <lb xml:id="p002_r_2_tl_37"/>der Flucht, einsam auch er, verloren 
+               <lb xml:id="p002_r_2_tl_38"/>auch er, und den Anderen dunkel 
+               <lb xml:id="p002_r_2_tl_39" break="no"/>schmerzlich zugesellt – Helene, das 
+               <lb xml:id="p002_r_2_tl_40"/>knöcherne, amerikanische Mädchen, die 
+               <lb xml:id="p002_r_2_tl_41"/>es schon als Kind versteht den betrun 
+               <lb xml:id="p002_r_2_tl_42" break="no"/>ken tobenden Vater zu bändigen und 
+               <lb xml:id="p002_r_2_tl_43"/>einzuschüchtern und darob in eifersüch 
+               <lb xml:id="p002_r_2_tl_44" break="no"/>tigen Zwist mit der Mutter gerät – 
+               <lb xml:id="p002_r_2_tl_45"/>und endlich Ben, den "Stillen" nennen 
+               <lb xml:id="p002_r_2_tl_46"/>sie ihn, er ist die sonderbarste und er 
+               <lb xml:id="p002_r_2_tl_47" break="no"/>greifendste Figur des Buches, fast steht 
+               <lb xml:id="p002_r_2_tl_48"/>er uns näher als der eigentliche Held, 
+               <lb xml:id="p002_r_2_tl_49"/>Eugen, – oder ist unser Verhältnis zu 
+               <lb xml:id="p002_r_2_tl_50"/>ihm nur durch die besondere Trauer so 
+               <lb xml:id="p002_r_2_tl_51"/>innig die ihn begleitet – die spöttisch
+               <milestone unit="textregion" xml:id="p002_r_1"/> 
+               <lb xml:id="p002_r_1_tl_1"/>ertragene Krankheit, seine leidenschaft- 
+               <lb xml:id="p002_r_1_tl_2"/>lichen Versuche, als Soldat in den Krieg 
+               <lb xml:id="p002_r_1_tl_3"/>zu gehen, die ingrimmige Kränkung als 
+               <lb xml:id="p002_r_1_tl_4"/>der Arzt es ihm verbietet – und dann 
+               <lb xml:id="p002_r_1_tl_5"/>seine intimen und wegwerfenden resi 
+               <lb xml:id="p002_r_1_tl_6" break="no"/>nierten Gespräche mit seinem Engel – 
+               <lb xml:id="p002_r_1_tl_7"/>"Ach du lieber Gott" sagt er zu ihm, 
+               <lb xml:id="p002_r_1_tl_8"/>"nun hör dir das bitte an" – wie ein 
+               <lb xml:id="p002_r_1_tl_9"/>Anderer mit den Achseln zuckt oder 
+               <lb xml:id="p002_r_1_tl_10"/>enerviert – überlegen den Mund ver 
+               <lb xml:id="p002_r_1_tl_11" break="no"/>zieht..... [corr: ...] es ist uns nachher durchaus 
+               <lb xml:id="p002_r_1_tl_12"/>verständlich, es kann nicht anders sein 
+               <lb xml:id="p002_r_1_tl_13"/>als dass gerade Ben sterben muss – und 
+               <lb xml:id="p002_r_1_tl_14"/>doch ist uns sein Tod entsetzlich und 
+               <lb xml:id="p002_r_1_tl_15"/>erfüllt uns mit bestürzter Trauer. Und 
+               <lb xml:id="p002_r_1_tl_16"/>dieser Abschnitt des Buches ist vielleicht 
+               <lb xml:id="p002_r_1_tl_17"/>der beste und erschütterndste. Kein Zy 
+               <lb xml:id="p002_r_1_tl_18" break="no"/>nismus im Benehmen der Brüder Eugen 
+               <lb xml:id="p002_r_1_tl_19"/>und Lukas, die gegen Morgen in der 
+               <lb xml:id="p002_r_1_tl_20"/>Kneipe in unbeherrschtes wieherndes 
+               <lb xml:id="p002_r_1_tl_21"/>Gelächter ausbrechen und blödsinnige 
+               <lb xml:id="p002_r_1_tl_22"/>Witze austauschen – und beim Lei 
+               <lb xml:id="p002_r_1_tl_23" break="no"/>chenbestatter wiederholt es sich, da hat 
+               <lb xml:id="p002_r_1_tl_24"/>ihre Lustigkeit schon etwas Grausiges. 
+               <lb xml:id="p002_r_1_tl_25"/>– Aber nein, kein Zynismus, dieses 
+               <lb xml:id="p002_r_1_tl_26"/>Buch ist erstaunlich unzynisch dafür 
+               <lb xml:id="p002_r_1_tl_27"/>dass es so durchaus amerikanisch, un 
+               <lb xml:id="p002_r_1_tl_28" break="no"/>geschminkt, erbarmungslos ist – Wor 
+               <lb xml:id="p002_r_1_tl_29" break="no"/>an liegt das? Gewiss doch daran dass 
+               <lb xml:id="p002_r_1_tl_30"/>Thomas Wolfe nicht von aussen her er 
+               <lb xml:id="p002_r_1_tl_31" break="no"/>zählt, nichts aufdecken will, keinen 
+               <lb xml:id="p002_r_1_tl_32"/>Rahmen, keine kritische Warte sucht – 
+               <lb xml:id="p002_r_1_tl_33"/>er hat erlebt, und stösst es jetzt von 
+               <lb xml:id="p002_r_1_tl_34"/>sich, als könne er die Erinnerungen 
+               <lb xml:id="p002_r_1_tl_35"/>nicht mehr länger tragen, sie brechen 
+               <lb xml:id="p002_r_1_tl_36"/>hervor, das Buch ist von innen heraus 
+               <lb xml:id="p002_r_1_tl_37"/>geschrieben unmittelbar angeschaut. 
+               <lb xml:id="p002_r_1_tl_38"/>Wir haben in der neueren Literatur vie 
+               <lb xml:id="p002_r_1_tl_39" break="no"/>le grosse Familienromane – von den 
+               <lb xml:id="p002_r_1_tl_40"/>Buddenbrooks bis zur Forsytesage – 
+               <lb xml:id="p002_r_1_tl_41"/>aber noch nie ist die Familie an sich 
+               <lb xml:id="p002_r_1_tl_42"/>mit so erbarmungsloser und fesselnder 
+               <lb xml:id="p002_r_1_tl_43"/>Einseitigkeit in den Mittelpunkt gerückt 
+               <lb xml:id="p002_r_1_tl_44"/>worden. Thomas Wolfe ist es nicht dar 
+               <lb xml:id="p002_r_1_tl_45" break="no"/>um zu tun, etwas Typisches zu schil 
+               <lb xml:id="p002_r_1_tl_46" break="no"/>dern, ein Generationen – ein Verfalls 
+               <lb xml:id="p002_r_1_tl_47" break="no"/>problem. Er behauptet nicht, dass auch 
+               <lb xml:id="p002_r_1_tl_48"/>nur eine zweite Familie in der amerika 
+               <lb xml:id="p002_r_1_tl_49" break="no"/>nischen Provinz so leben oder so zu 
+               <lb xml:id="p002_r_1_tl_50"/>Grunde gehen müsse, er fordert keine 
+               <lb xml:id="p002_r_1_tl_51"/>sozialen Misstände, keine Um- und Zu-               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0107_003.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p003_r"/>            <p> 
+               <lb xml:id="p003_r_tl_1"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+stände in die Schranken. Auf all das 
+               <lb xml:id="p003_r_tl_2"/>verzichtet er, ihm genügt die Familie 
+               <lb xml:id="p003_r_tl_3"/>Gant, und so erhebt er die Familie selbst 
+               <lb xml:id="p003_r_tl_4"/>zum tragischen Thema.</p>
+            <p> 
+               <lb xml:id="p003_r_tl_5"/>Die Frage der Technik erübrigt sich 
+               <lb xml:id="p003_r_tl_6"/>– denn auch formal verzichtet der Au 
+               <lb xml:id="p003_r_tl_7" break="no"/>tor auf eine festere Struktur, nicht ein 
+               <lb xml:id="p003_r_tl_8" break="no"/>mal Anfang und Ende, Aufstieg und 
+               <lb xml:id="p003_r_tl_9"/>Niedergang, was er gibt ist eine chaoti 
+               <lb xml:id="p003_r_tl_10" break="no"/>sche Flut, die uns mitführt und beinahe 
+               <lb xml:id="p003_r_tl_11"/>erdrückt, eine Flut zusammengesetzt aus 
+               <lb xml:id="p003_r_tl_12"/>lauter Wirklichkeiten, die eindringlich 
+               <lb xml:id="p003_r_tl_13"/>wie Visionen sind.</p>
+            <p> 
+               <lb xml:id="p003_r_tl_14"/>Fast wird es zu viel, fast erschöpft es 
+               <lb xml:id="p003_r_tl_15"/>sich gegen Ende des Buches – aber da 
+               <lb xml:id="p003_r_tl_16"/>folgt noch einmal eine schöne, und nun 
+               <lb xml:id="p003_r_tl_17"/>fast beschwichtigende Szene: Eugen, 
+               <lb xml:id="p003_r_tl_18"/>beim Abschiednehmen, begegnet nicht 
+               <lb xml:id="p003_r_tl_19"/>seinem Engel, nicht dem verlorenen, 
+               <lb xml:id="p003_r_tl_20"/>vom Wind gekränkten Gespenst, son- 
+               <lb xml:id="p003_r_tl_21"/>dern dem toten Ben, – und wie er im 
+               <lb xml:id="p003_r_tl_22"/>Mondschein auf der Strasse steht, sich 
+               <lb xml:id="p003_r_tl_23"/>an eine Mauer lehnt, zu sprechen be 
+               <lb xml:id="p003_r_tl_24" break="no"/>ginnt – das ist wieder von höchst son 
+               <lb xml:id="p003_r_tl_25" break="no"/>derbarer und glaubwürdiger Traurig 
+               <lb xml:id="p003_r_tl_26" break="no"/>keit mit jenem Tropfen überkluger Iro 
+               <lb xml:id="p003_r_tl_27" break="no"/>nie, die den von sich selbst besessenen, 
+               <lb xml:id="p003_r_tl_28"/>und doch ihrem Engel zugewandten 
+               <lb xml:id="p003_r_tl_29"/>Gants eigen ist.</p>
+            <p> 
+               <lb xml:id="p003_r_tl_30"/>ANNEMARIE SCHWARZENBACH</p>
+</div>
+       </body>
+    </text>
+ </TEI>
