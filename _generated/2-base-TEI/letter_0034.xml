@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0034" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0034#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0034</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0034_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587709-BCUL-PREVIEW-426387_0001.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_3"/>VILLA FAVORITA 
+               <lb xml:id="p001_tr_1_tl_4"/>CASTAGNOLA (TESSIN) 
+               <lb xml:id="p001_tr_1_tl_5"/>TEL. 27 90 
+               <lb xml:id="p001_tr_1_tl_7"/>Lieber Claude, mon ami chéri! Du musst einen sehr 
+               <lb xml:id="p001_tr_1_tl_8"/><hi rendition="#u">schlechten</hi> Eindruck von mir haben: wüsstest Du 
+               <lb xml:id="p001_tr_1_tl_9"/>wie ungern ich selbst meine Pläne beständig 
+               <lb xml:id="p001_tr_1_tl_10"/>wechsle, wie ich mich nach nichts als Ruhe sehne, 
+               <lb xml:id="p001_tr_1_tl_11"/>Du würdest es verzeihen! – – Noch sind wir 
+               <lb xml:id="p001_tr_1_tl_12"/>nicht so weit ruhig an einen Ort bleiben, 
+               <lb xml:id="p001_tr_1_tl_13"/>unsere Kräfte und Talente konzentrieren zu 
+               <lb xml:id="p001_tr_1_tl_14"/>dürfen... 
+               <lb xml:id="p001_tr_1_tl_15"/>Ich telephonierte gestern Nacht mit Erika:</p>
+
+            <pb xml:id="p002" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587709-BCUL-PREVIEW-426387_0002.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>Wolfgang Hellmert, einer unserer liebsten und 
+               <lb xml:id="p002_tr_1_tl_2"/>begabtesten jungen Freunde ist plötzlich gestorben. 
+               <lb xml:id="p002_tr_1_tl_3"/>Klaus ist sehr unglücklich – ich glaube, es ist 
+               <lb xml:id="p002_tr_1_tl_4"/>richtig u. nötig, wen] ich jetzt ihn u. Erika sehe, 
+               <lb xml:id="p002_tr_1_tl_5"/>u. fahr deshalb nach Amsterdam: und sofort, 
+               <lb xml:id="p002_tr_1_tl_6"/>den] am 11. halte ich in Zürich im Lyzeum - Club 
+               <lb xml:id="p002_tr_1_tl_7"/>eine Vorlesung. 
+               <lb xml:id="p002_tr_1_tl_8"/>- Nachher, circa 15. Juni, will ich dan] irgendwo weg 
+               <lb xml:id="p002_tr_1_tl_9"/>fahren, wahrscheinlich wieder zu Erika oder 
+               <lb xml:id="p002_tr_1_tl_10"/>nach Gastein, u. <hi rendition="#u">Schreiben</hi>. Claude: ich ahne nicht 
+               <lb xml:id="p002_tr_1_tl_11"/>ob u. wie leicht Du Urlaub bekom]en, einmal - (etwa 
+               <lb xml:id="p002_tr_1_tl_12"/>zwischen 11. u. 15.?) nach Zürich kom]en könntest -  
+               <lb xml:id="p002_tr_1_tl_13"/>bitte schreibe mir einmal genau wie es mit Dir ist! 
+               <lb xml:id="p002_tr_1_tl_14"/>(nach Bocken) - Amour et amitié - An]emarie</p>
+
+            <pb xml:id="p003" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587709-BCUL-PREVIEW-426387_0003.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_l"/># Lieutnant Bourdet 
+               <lb xml:id="p003_tr_1_tl_7"/><del rend="overstrike">12, Place St. Claire</del> 
+               <lb xml:id="p003_tr_1_tl_8"/>S. R. A. 
+               <lb xml:id="p003_tr_1_tl_9"/><del rend="overstrike">Grenoble</del> 
+               <lb xml:id="p003_tr_1_tl_10"/>Camp de Mailly 
+               <lb xml:id="p003_tr_1_tl_11"/>France 
+               <lb xml:id="p003_tr_1_tl_12"/>(Aube) [29.V.34 Castagno]</p>
+
+            <pb xml:id="p004" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587709-BCUL-PREVIEW-426387_0004.jpg/info.json"/></div>
+       </body>
+    </text>
+ </TEI>
