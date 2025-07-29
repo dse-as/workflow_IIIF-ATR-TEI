@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0057" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0057#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0057</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0057_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587732-BCUL-PREVIEW-426410_0001.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_2_tl_1"/>"La Noë–Nive" 
+               <lb xml:id="p001_tr_2_tl_2"/>Basse Goulaine 
+               <lb xml:id="p001_tr_2_tl_3"/>Loire Jnf. 
+               <lb xml:id="p001_tr_2_tl_4"/>9 Août 
+               <lb xml:id="p001_tr_2_tl_5"/>Cher vieux Claude –</p>
+            <p> 
+               <lb xml:id="p001_tr_2_tl_6"/>je voudrais bien te revoir. Et comme je serai 
+               <lb xml:id="p001_tr_2_tl_7"/>à Paris probablement le prochain weekend, 
+               <lb xml:id="p001_tr_2_tl_8"/>veux–tu me faire savoir si tu seras chez 
+               <lb xml:id="p001_tr_2_tl_9"/>toi, Place Jéna, ou Samedi ou Dimanche, 
+               <lb xml:id="p001_tr_2_tl_10"/>le 14 et 15 Août?</p>
+            <p> 
+               <lb xml:id="p001_tr_2_tl_11"/>J'ai rencontré Claude à Marseille il y a 
+               <lb xml:id="p001_tr_2_tl_12"/>une semaine. Son père est mort accidentelle 
+               <lb xml:id="p001_tr_2_tl_13" break="no"/>ment quelques jours avant son arrivée. Nous 
+               <lb xml:id="p001_tr_2_tl_14"/>sommes <del rend="overstrike">dans</del> avec sa mère en ce moment, 
+               <lb xml:id="p001_tr_2_tl_15"/>et irons en Suisse, à Bockent et Sils, 
+               <lb xml:id="p001_tr_2_tl_16"/>fin du mois.</p>
+            <p> 
+               <lb xml:id="p001_tr_2_tl_17"/>Com[m]ent vas–tu. Et Ida et le petit? 
+               <lb xml:id="p001_tr_2_tl_18"/>Il y aurait beaucoup de choses à 
+               <lb xml:id="p001_tr_2_tl_19"/>ce dire – j'espère donc que tu seras là!</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_2_tl_20"/>à toi. 
+               <lb xml:id="p001_tr_2_tl_21"/>Annemarie</p>
+
+            <pb xml:id="p002" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587732-BCUL-PREVIEW-426410_0002.jpg/info.json"/>
+            <pb xml:id="p003" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587732-BCUL-PREVIEW-426410_0003.jpg/info.json"/></div>
+       </body>
+    </text>
+ </TEI>
