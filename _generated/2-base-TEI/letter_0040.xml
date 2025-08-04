@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0040" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0040#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0040</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0040_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587715-BCUL-PREVIEW-426393_0001.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_3"/>ANNEMARIE SCHWARZENBACH 
+               <lb xml:id="p001_tr_1_tl_4"/>DR. PHIL. 
+               <lb xml:id="p001_tr_1_tl_2"/>Moscou, 31 Aout 
+               <lb xml:id="p001_tr_1_tl_5"/>Mon cher ami, ich sehne mich sehr darnach, von Dir Nachricht zu 
+               <lb xml:id="p001_l"/>bekommen, aber gerade bin ich im Begriff, nach Baku abzureisen -  
+               <lb xml:id="p001_l_1"/>welche Strecken durch das grosse Russland! -  und es bleibt mir 
+               <lb xml:id="p001_tr_1_tl_6"/>nichts übrig, als Dir zu sagen, dass ich vermutlich in 2-3 Wochen 
+               <lb xml:id="p001_tr_1_tl_7"/>in Teheran[gesp], sein werde - Adresse: Amerikanisches Konsulat- 
+               <lb xml:id="p001_tr_1_tl_8"/>denn ich werde leider nicht auf der deutschen Gesandtschaft 
+               <lb xml:id="p001_tr_1_tl_9"/>wohnen, und ich hasse die Nazis ein wenig mehr dafür. Auch ein 
+               <lb xml:id="p001_tr_1_tl_10"/>Telegramm werde ich Dir heute schicken, damit Du wenigstens von 
+               <lb xml:id="p001_tr_1_tl_11"/>meiner Existenz erfährst - man ist hier weit fort. Klaus ist über 
+               <lb xml:id="p001_tr_1_tl_12"/>Finnland bereits nach Amsterdam unterwegs - ich habe ihn bis 
+               <lb xml:id="p001_tr_1_tl_13"/>Leningrad begleitet. Eine enorme Stadt, und überaus schön: 
+               <lb xml:id="p001_tr_1_tl_14"/>grosse Paläste ziehen sich Front an Front der Neva entlang, 
+               <lb xml:id="p001_tr_1_tl_15"/>unter nördlich hellem Licht, doch nach ihren Ausmassen und ih 
+               <lb xml:id="p001_tr_1_tl_16" break="no"/>rer despotischen Einsamkeit schon asiatisch - "so dass man dahin 
+               <lb xml:id="p001_tr_1_tl_17" break="no"/>ter nichts als die Steppe vermutet", wie Malraux mir sagte.</p>
+
+            <milestone unit="textregion" xml:id="p001_tr_3"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_3_tl_1"/>Jch fuhr allein nach Moskau zurück- und bin allein hier, wenn auch 
+               <lb xml:id="p001_tr_3_tl_2"/>von einer Menge netter und freundlicher Menschen umgeben. Ich 
+               <lb xml:id="p001_tr_3_tl_3"/>liebe unter ihnen Deine Landsmänner, vor allem Jean-Richard 
+               <lb xml:id="p001_tr_3_tl_4"/>Bloch mit dem ich gestern ein kleines, sehr ermunterndes Gespräch 
+               <lb xml:id="p001_tr_3_tl_5"/>geführt habe. Auch ein junger Metteur en scène ist da, aus der 
+               <lb xml:id="p001_tr_3_tl_6"/>Franche-Comte - es ist sonderbar, dass jetzt und hier nicht nur 
+               <lb xml:id="p001_tr_3_tl_7"/>die nahe Verwandtschaft von Franzosen und anderen "Europäern" 
+               <lb xml:id="p001_tr_3_tl_8"/>(wie mir selbst) zu Tage tritt, sondern dass ich mich diesen 
+               <lb xml:id="p001_tr_3_tl_9"/>auf eine so angenehme Art zivilisierten, un-doktrinären, und 
+               <lb xml:id="p001_tr_3_tl_10"/>geistigen Menschen viel näher fühle als den Deutschen, obwohl 
+               <lb xml:id="p001_tr_3_tl_11"/>(oder weil?) nur politische Emigranten hier sind. Aragon er<del rend="overstrike">n</del>in 
+               <lb xml:id="p001_tr_3_tl_12" break="no"/>nert mich zuweilen auf eine vague Art an Dich. Jch möchte, dass 
+               <lb xml:id="p001_tr_3_tl_13"/>Du hier wärst, und ich mochte dass Du bald Gelegenheit haben</p>
+
+            <milestone unit="textregion" xml:id="p001_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_2_tl_1"/>wirst, Gustav Regler kennen zu lernen. Jch habe Dir schon von ihm 
+               <lb xml:id="p001_tr_2_tl_2"/>geschrieben - Jch bin jetzt viel mit ihm und seiner Frau zusammen 
+               <lb xml:id="p001_tr_2_tl_3"/>- sie ist eine blonde, zart-bäuerliche Norddeutsche, und leidet 
+               <lb xml:id="p001_tr_2_tl_4"/>noch mehr als ich unter den Umständen die sie hierher und in 
+               <lb xml:id="p001_tr_2_tl_5"/>diesen Zustand gebracht haben. Sie hat Heimweh. Jch brauche - ir 
+               <lb xml:id="p001_tr_2_tl_6"/>nicht zu sagen, dass ich auch ein wenig daran leide - und manchmal 
+               <lb xml:id="p001_tr_2_tl_7"/>frage ich mich, welcher Teufel mich dazu zwingen mag, mich diesen 
+               <lb xml:id="p001_tr_2_tl_8"/>seltsamen Selbst-Prüfungen zu unterziehen - Jch bin doch so 
+               <lb xml:id="p001_tr_2_tl_9"/>ungern[gesp] allein. Aber - Russland ist etwas anderes als der aben 
+               <lb xml:id="p001_tr_2_tl_10" break="no"/>teuernde Winter des letzten Jahres. Jch bin überzeugt dass man 
+               <lb xml:id="p001_tr_2_tl_11"/>sich heute mit der UdSSR befassen muss, um überhaupt übere unsere 
+               <lb xml:id="p001_tr_2_tl_12"/>Zukunft ein Urteil zu bekommen. Dass wir uns trotz allem Positi 
+               <lb xml:id="p001_tr_2_tl_13" break="no"/>ven hier nicht glücklich fühlen, liegt an anderen Dingen - Klaus 
+               <lb xml:id="p001_tr_2_tl_14"/>und ich waren uns darüber ganz einig. 
+               <lb xml:id="p001_tr_2_tl_15"/>Je ne suis pas encore libre. C'est grotesque,mais C'est vrai 
+               <lb xml:id="p001_tr_2_tl_16"/>quandmême. 
+               <lb xml:id="p001_tr_2_tl_17"/>Lieber Claude, was hast Du eigentlich vor, nach Deinem Service 
+               <lb xml:id="p001_tr_2_tl_18"/>zu tun? Falls Du in das Saargebiet fährst, würdest Du dort von 
+               <lb xml:id="p001_tr_2_tl_19"/>Oktober bis Januar Regler treffen können. Es wäre eine Parallele 
+               <lb xml:id="p001_tr_2_tl_20"/>zu Oesterreich. Falls Du Zeit und Lust hast, könnten wir uns 
+               <lb xml:id="p001_tr_2_tl_21"/>auf meiner Heimreise irgendwo treffen - ich nehme an, dass ich doch 
+               <lb xml:id="p001_tr_2_tl_22"/>über Baghdad-Syrien reisen werde, da ich in Baghdad einen Freund 
+               <lb xml:id="p001_tr_2_tl_23"/>sehen will, u</p>
+
+            <pb xml:id="p002" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587715-BCUL-PREVIEW-426393_0002.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>und vielleicht auch dessen Wagen in Persien habe und zurück 
+               <lb xml:id="p002_tr_1_tl_2" break="no"/>bringen muss. Jn diesem Fall hätten wir die Möglichkeit, uns 
+               <lb xml:id="p002_tr_1_tl_3"/>in Syrien (Beyrouth) oder erst in Jstanbul zu treffen. Syrien 
+               <lb xml:id="p002_tr_1_tl_4"/>wäre aber für Dich sehr viel lohnender. Falls ich über Russland 
+               <lb xml:id="p002_tr_1_tl_5"/>zurückreise (ich glaube es aber nicht) - könnten wir uns immer 
+               <lb xml:id="p002_tr_1_tl_6"/>vor Weihnachten in Ascona oder in Paris sehen. Schreibe mir nach 
+               <lb xml:id="p002_tr_1_tl_7"/>Teheran. Jch weiss wirklich gar nichts von Dir - und bald ist 
+               <lb xml:id="p002_tr_1_tl_8"/>ein Jahr vergangen seit dem wir uns gesehen haben. 
+               <lb xml:id="p002_tr_1_tl_9"/>Jch war hier ein bischen krank, aber es ist wieder vorbei - 
+               <lb xml:id="p002_tr_1_tl_10"/>Heute abend lese ich im Radio etwas vor - Morgen ist hier der 
+               <lb xml:id="p002_tr_1_tl_11"/>grosse internationale Jugendtag gegen Krieg und Faschismus. 
+               <lb xml:id="p002_tr_1_tl_12"/>Adieu, lieber Claude - es ist ein zerfetztes Briefchen geworden, 
+               <lb xml:id="p002_tr_1_tl_13"/>aber ich bin heute nicht so recht auf der Höhe - und was soll 
+               <lb xml:id="p002_tr_1_tl_14"/>man dagegen tun! Je suis d'une faiblesse incroyable. 
+               <lb xml:id="p002_tr_1_tl_15"/>Très tendrement à toi 
+               <lb xml:id="p002_tr_1_tl_16"/>A.</p>
+
+            <pb xml:id="p003" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587715-BCUL-PREVIEW-426393_0003.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_1"/>BOZA.Y.L.IIHAR 
+               <lb xml:id="p003_tr_1_tl_2"/>NOMTA 
+               <lb xml:id="p003_tr_1_tl_3"/>Hotel Astoria 
+               <lb xml:id="p003_tr_1_tl_4"/>Par avion 
+               <lb xml:id="p003_tr_1_tl_5"/>Leningrad 
+               <lb xml:id="p003_tr_1_tl_6"/>Gertzen str., 39 
+               <lb xml:id="p003_tr_1_tl_7"/>Airmail 
+               <lb xml:id="p003_tr_1_tl_8"/>Lieutnant Claude Bourd 
+               <lb xml:id="p003_tr_1_tl_9"/>47 Av. de Jéna 
+               <lb xml:id="p003_tr_1_tl_10"/>France 
+               <lb xml:id="p003_tr_1_tl_11"/>nopusie.</p>
+
+            <pb xml:id="p004" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587715-BCUL-PREVIEW-426393_0004.jpg/info.json"/>
+            <pb xml:id="p005" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587715-BCUL-PREVIEW-426393_0005.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p005_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p005_tr_1_tl_1"/>0 
+               <lb xml:id="p005_tr_1_tl_2"/>Moscou, 31 Aout 
+               <lb xml:id="p005_tr_1_tl_3"/>NBACH 
+               <lb xml:id="p005_tr_1_tl_4"/>10 
+               <lb xml:id="p005_tr_1_tl_5"/>1 
+               <lb xml:id="p005_tr_1_tl_6"/>er ami, ich sehne mich sehr darnach, von Dir Nachricht zu 
+               <lb xml:id="p005_tr_1_tl_7"/>A, aber gerade bin ich im Begriff, nach Baku abzureisen- 
+               <lb xml:id="p005_tr_1_tl_8"/>Strecken durch das grosse Russland!- und es bleibt mir 
+               <lb xml:id="p005_tr_1_tl_9"/>übrig, als Dir zu sagen, dass ich vermutlich in 2-3 Wochen 
+               <lb xml:id="p005_tr_1_tl_10"/>heran, sein werde-Adresse:Amerikanisches Konsulat- 
+               <lb xml:id="p005_tr_1_tl_11"/>h werde leider nicht auf der deutschen Gesandtschaft 
+               <lb xml:id="p005_tr_1_tl_12"/>und ich nasse die Nazis ein wenig mehr dafür.Auch ein 
+               <lb xml:id="p005_tr_1_tl_13"/>mm werde ich Dir heute schicken, damit Du wenigstens von 
+               <lb xml:id="p005_tr_1_tl_14"/>Existenz erfährst-man ist hier weit fort. Klaus ist über 
+               <lb xml:id="p005_tr_1_tl_15"/>d bereits nach Amsterdam unterwegs-ich habe ihn bis 
+               <lb xml:id="p005_tr_1_tl_16"/>enorme stadt und überaus schön: 
+               <lb xml:id="p005_tr_1_tl_17"/>ad begleitet 
+               <lb xml:id="p005_tr_1_tl_18"/>int der Neva entlang, 
+               <lb xml:id="p005_tr_1_tl_19"/>Paläste 
+               <lb xml:id="p005_tr_1_tl_20"/>necker ICLASSIC, 
+               <lb xml:id="p005_tr_1_tl_21"/>ihren Ausmassen und ih 
+               <lb xml:id="p005_tr_1_tl_22" break="no"/>ördlich 
+               <lb xml:id="p005_tr_1_tl_23"/>isch-"so dass man dahin 
+               <lb xml:id="p005_tr_1_tl_24" break="no"/>potisch, 
+               <lb xml:id="p005_tr_1_tl_25"/>Malraux mir sagte. 
+               <lb xml:id="p005_tr_1_tl_26"/>hts als 
+               <lb xml:id="p005_tr_1_tl_27"/>allei 
+               <lb xml:id="p005_tr_1_tl_28"/>bin allein hier, wenn auch 
+               <lb xml:id="p005_tr_1_tl_29"/>Menschen umgeben. Jch 
+               <lb xml:id="p005_tr_1_tl_30"/>er Meng 
+               <lb xml:id="p005_tr_1_tl_31"/>inter ih 
+               <lb xml:id="p005_tr_1_tl_32"/>allem Jean-Richard, 
+               <lb xml:id="p005_tr_1_tl_33"/>it dem. 
+               <lb xml:id="p005_tr_1_tl_34"/>ehr ermunterndes Gespräch, 
+               <lb xml:id="p005_tr_1_tl_35"/>habe. 
+               <lb xml:id="p005_tr_1_tl_36"/>scene ist da, aus der 
+               <lb xml:id="p005_tr_1_tl_37"/>ist und hier nicht nur 
+               <lb xml:id="p005_tr_1_tl_38"/>Verwa 
+               <lb xml:id="p005_tr_1_tl_39" break="no"/>nd anderen "Europäern 
+               <lb xml:id="p005_tr_1_tl_40"/>der selbst 
+               <lb xml:id="p005_tr_1_tl_41"/>dass ich mich diesen 
+               <lb xml:id="p005_tr_1_tl_42"/>ie so an 
+               <lb xml:id="p005_tr_1_tl_43"/>un-doktrinären, und 
+               <lb xml:id="p005_tr_1_tl_44"/>en Mens 
+               <lb xml:id="p005_tr_1_tl_45"/>den Deutschen, obwohl 
+               <lb xml:id="p005_tr_1_tl_46"/>hier sind.Aragon erhin 
+               <lb xml:id="p005_tr_1_tl_47" break="no"/>veil?) n 
+               <lb xml:id="p005_tr_1_tl_48"/>ch zuwe 
+               <lb xml:id="p005_tr_1_tl_49"/>n Dich. Jch möchte, dass 
+               <lb xml:id="p005_tr_1_tl_50"/>ld Gelegenheit haben. 
+               <lb xml:id="p005_tr_1_tl_51"/>wärst. 
+               <lb xml:id="p005_tr_1_tl_52"/>Gustav K 
+               <lb xml:id="p005_tr_1_tl_53"/>h habe Dir schon von ihm 
+               <lb xml:id="p005_tr_1_tl_54"/>eben-Jc 
+               <lb xml:id="p005_tr_1_tl_55"/>und seiner Frau zusammen 
+               <lb xml:id="p005_tr_1_tl_56"/>t eine 
+               <lb xml:id="p005_tr_1_tl_57"/>rddeutsche, und leidet 
+               <lb xml:id="p005_tr_1_tl_58"/>ie sie hierher und in 
+               <lb xml:id="p005_tr_1_tl_59"/>ehr als 
+               <lb xml:id="p005_tr_1_tl_60"/>Zustand 
+               <lb xml:id="p005_tr_1_tl_61"/>einweh.Jch brauche -ir. 
+               <lb xml:id="p005_tr_1_tl_62"/>u sagen 
+               <lb xml:id="p005_tr_1_tl_63"/>daran leide-und manchmal 
+               <lb xml:id="p005_tr_1_tl_64"/>ch mich 
+               <lb xml:id="p005_tr_1_tl_65"/>zwingen mag, mich diesen 
+               <lb xml:id="p005_tr_1_tl_66"/>=ien Selb hundenehmnehmung und 
+               <lb xml:id="p005_tr_1_tl_67"/>en-Jch bin doch so 
+               <lb xml:id="p005_tr_1_tl_68"/>r n allein. Aber-Russland ist etwas anderes als der aben- 
+               <lb xml:id="p005_tr_1_tl_69"/>le Winter des letzten Jahres. Jch bin überzeugt dass man 
+               <lb xml:id="p005_tr_1_tl_70"/>eute mit der UdSSR befassen muss, um überhaupt übere unsere 
+               <lb xml:id="p005_tr_1_tl_71"/>ein Urteil zu bekommen. Dass wir uns trotz allem Positi 
+               <lb xml:id="p005_tr_1_tl_72" break="no"/>er nicht glücklich fühlen, liegt an anderen Dingen-Klaus 
+               <lb xml:id="p005_tr_1_tl_73"/>waren uns darüber ganz einig. 
+               <lb xml:id="p005_tr_1_tl_74"/>suis pas encore libre. C'est grotesque, mais c'est vrai 
+               <lb xml:id="p005_tr_1_tl_75"/>eme. 
+               <lb xml:id="p005_tr_1_tl_76"/>Claude, was hast Du eigentlich vor, nach Deinem Service 
+               <lb xml:id="p005_tr_1_tl_77"/>– "Falls Du in das Saargebiet fährst, würdest Du dort von 
+               <lb xml:id="p005_tr_1_tl_78"/>bis Januar Regler treffen können. Es wäre eine Parallele 
+               <lb xml:id="p005_tr_1_tl_79"/>erreich. Falls Du Zeit und Lust hast, könnten wir uns 
+               <lb xml:id="p005_tr_1_tl_80"/>ner Heimreise irgendwo treffen-ich nehme an, dass ich doch 
+               <lb xml:id="p005_tr_1_tl_81"/>aghdad-Syrien reisen werde, da ich in Baghdad einen Freund 
+               <lb xml:id="p005_tr_1_tl_82"/>vill, u</p>
+</div>
+       </body>
+    </text>
+ </TEI>
