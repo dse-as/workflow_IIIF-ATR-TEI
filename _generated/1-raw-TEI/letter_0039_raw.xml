@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0039"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0039</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0039_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0039_001"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587714-BCUL-PREVIEW-426392_0001.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0039_001_tr_2"/>
+            <lb xml:id="letter_0039_001_tr_2_tl_1"/>[Keine Leerschlag nach Satzzeichen, gewisse Tremma von von Hand eingesetzt] Moskau, Hotel Metropole, Zimmer 582 -
+<lb xml:id="letter_0039_001_tr_2_tl_2"/>le 19 Aout
+<lb xml:id="letter_0039_001_tr_2_tl_3"/>Mon cher Claude - je me trouve donc a Moscou - cette ville
+<lb xml:id="letter_0039_001_tr_2_tl_4"/>miraculeuse qui a toujours été un objets de ma plus
+<lb xml:id="letter_0039_001_tr_2_tl_5"/>profonde curiosité - Je suis arrivé avec Klaus, pour un congrès
+<lb xml:id="letter_0039_001_tr_2_tl_6"/>d'écrivains - qui,en effet, n'est pas la partie la plus interes¬
+<lb xml:id="letter_0039_001_tr_2_tl_7"/>sante de notre sejour - comme nous ne comprenons pas le Russe -
+<lb xml:id="letter_0039_001_tr_2_tl_8"/>Mais, voilà le premier fait émouvant: l'intérêt fervent de toute
+<lb xml:id="letter_0039_001_tr_2_tl_9"/>la population envers les questions litteraires. Es ist eine Sache
+<lb xml:id="letter_0039_001_tr_2_tl_10"/>die jedermann angeht und jedermann interessiert. Während es in
+<lb xml:id="letter_0039_001_tr_2_tl_11"/>Europa kaum mehr Leser gibt, und der Schriftsteller nicht
+<lb xml:id="letter_0039_001_tr_2_tl_12"/>geehrt [von Hand eingefügter Leerschlag mit einem senkrechten Strich] wird, sondern froh sein muss wenn er einen schlecht
+<lb xml:id="letter_0039_001_tr_2_tl_13"/>zahlenden Verleger findet - steht hier ein Mann wie Gorki neben
+<lb xml:id="letter_0039_001_tr_2_tl_14"/>Stalin [leerschlag mit Handstrich] im Mittelpunkt des breitesten Jnteresses, er ist ein
+<lb xml:id="letter_0039_001_tr_2_tl_15"/>wahrer Nationalheld - und um das Schirfttum bemüht sich einfach
+<lb xml:id="letter_0039_001_tr_2_tl_16"/>jedermann.
+<lb xml:id="letter_0039_001_tr_2_tl_17"/>Je suis au lit - avec un peu de fièvre, je n'ai pas de thermo¬
+<lb xml:id="letter_0039_001_tr_2_tl_18"/>mètre, mais je pense que je serai remise en très peu de temps.
+<lb xml:id="letter_0039_001_tr_2_tl_19"/>C'est mon collègue tres admiré Gustav Regler qui me soigne
+<lb xml:id="letter_0039_001_tr_2_tl_20"/>un peu - Je ne sais pas si tu connais son roman: Der verlorene
+<lb xml:id="letter_0039_001_tr_2_tl_21"/>Sohn. C'est un peu le mérite de Klaus de l'avoir découver t-
+<lb xml:id="letter_0039_001_tr_2_tl_22"/>il etait élève jesuite - un catholique fervent - et ils est
+<lb xml:id="letter_0039_001_tr_2_tl_23"/>transformé <PAGE tag="strikethrough">da</PAGE>en<PAGE tag="strikethrough">s</PAGE> un ennemi<PAGE tag="strikethrough">e</PAGE> aussi fervent de léglise. Jl est
+<lb xml:id="letter_0039_001_tr_2_tl_24"/>meilleur et le plus intéressant des jeunes communistes qui
+<lb xml:id="letter_0039_001_tr_2_tl_25"/>sont réunis a Moscou en ce moment.
+<lb xml:id="letter_0039_001_tr_2_tl_26"/>Mon ami - je regrette tellement d'entreprendre tout cela sans
+<lb xml:id="letter_0039_001_tr_2_tl_27"/>toi. Je voulais que tu connaisse Klaus - je voulais surtout te
+<lb xml:id="letter_0039_001_tr_2_tl_28"/>revoir. Me voila de nouveau très loin de toi -
+<lb xml:id="letter_0039_001_tr_2_tl_29"/>De tes compatriotes il y a Malraux - tres herveux d'ailleurs,
+<lb xml:id="letter_0039_001_tr_2_tl_30"/>tres épris de l'UdSSR - et Jean-Richard Bloch qui me semble
+<lb xml:id="letter_0039_001_tr_2_tl_31"/>tres simpathique. Es ist unmöglich dass ich Dir über alles mit
+<lb xml:id="letter_0039_001_tr_2_tl_32"/>dem wir uns hier beschäftigen, berichte - doch werde ich ein gutes
+<lb xml:id="letter_0039_001_tr_2_tl_33"/>Tagebuch führen, und es wird uns als Diskussionsbasis dienen,
+<lb xml:id="letter_0039_001_tr_2_tl_34"/>wenn wir uns wiedersehen. Aif [sic] jeden Fall kann heute, angesichts
+<lb xml:id="letter_0039_001_tr_2_tl_35"/>des europäischen Désastre - niemand hochmütig an der Sowjetre¬
+<lb xml:id="letter_0039_001_tr_2_tl_36"/>publik vorübergehen. Was hier geschieht, ist voll von Zukunft.
+<lb xml:id="letter_0039_001_tr_2_tl_37"/>Au revoir, mon chéri - ecrits-moi ici - Klaus va quitter Moscou en
+<lb xml:id="letter_0039_001_tr_2_tl_38"/>peu de jours - moi, je compte rester encore deux semaines,
+<lb xml:id="letter_0039_001_tr_2_tl_39"/>tu sais que je suis toujours trop curieuse pour <PAGE tag="strikethrough">de</PAGE> etre
+<lb xml:id="letter_0039_001_tr_2_tl_40"/>satisfaite par une simple visite. Je pense continuer alors
+<lb xml:id="letter_0039_001_tr_2_tl_41"/>vers Baku et la mer Caspienne, ou je rencontre (je l'espere) un
+<lb xml:id="letter_0039_001_tr_2_tl_42"/>Jeune architecte, Krefter, de Persepolis.
+<lb xml:id="letter_0039_001_tr_2_tl_43"/>Ecrits-moi ce que tu faits. Jl y a tant de choses que je voudrai
+<lb xml:id="letter_0039_001_tr_2_tl_44"/>te demander.
+<lb xml:id="letter_0039_001_tr_2_tl_45"/>Tendrement à toi, mon vieux -
+<lb xml:id="letter_0039_001_tr_2_tl_46"/>Annemarie<pb xml:id="letter_0039_002"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587714-BCUL-PREVIEW-426392_0002.jpg/info.json"/>
+         </div>
+      </body>
+   </text>
+</TEI>
