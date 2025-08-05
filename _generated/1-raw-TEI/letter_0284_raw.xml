@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0284"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0284</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0284_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0284_001"
+                facs="https://www.monacensia-digital.de/i3f/v20/415342/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0284_001_tr_1"/>
+            <lb xml:id="letter_0284_001_tr_1_tl_1"/>The Bedford
+<lb xml:id="letter_0284_001_tr_1_tl_2"/>118 EAST 40<PAGE tag="superscript">TH</PAGE> STREET
+<lb xml:id="letter_0284_001_tr_1_tl_3"/>New York
+<lb xml:id="letter_0284_001_tr_1_tl_4"/>Liebster Klaus,<CONV tag="p">
+<lb xml:id="letter_0284_001_tr_1_tl_5"/>es waren 60 Personen, davon 30
+<lb xml:id="letter_0284_001_tr_1_tl_6"/>Kritiker u. 16 welche bezahlt
+<lb xml:id="letter_0284_001_tr_1_tl_7"/>haben sollen ... durchaus reizende
+<lb xml:id="letter_0284_001_tr_1_tl_8"/>Stim[m]ung u. demonstrativer Beifall –
+<lb xml:id="letter_0284_001_l"/>vermutlich begin[n]t kurzum
+<lb xml:id="letter_0284_001_tr_1_tl_11"/>eine Zeitungshetze, u. es ist nicht
+<lb xml:id="letter_0284_001_tr_1_tl_12"/>ausgeschlossen dass daraus eine
+<lb xml:id="letter_0284_001_tr_1_tl_13"/>Chance wird –
+<lb xml:id="letter_0284_001_tr_1_tl_14"/>Stim[m]ung der Mitglieder auch gebessert,
+<lb xml:id="letter_0284_001_tr_1_tl_15"/>Goslar bekam Blumenkorb vom
+<lb xml:id="letter_0284_001_tr_1_tl_16"/>Auweh,
+<lb xml:id="letter_0284_001_tr_1_tl_17"/>Eri ist ganz munter –</CONV>
+<lb xml:id="letter_0284_001_l_225"/>À toi
+<lb xml:id="letter_0284_001_tr_1_tl_19"/>Miro</div>
+      </body>
+   </text>
+</TEI>
