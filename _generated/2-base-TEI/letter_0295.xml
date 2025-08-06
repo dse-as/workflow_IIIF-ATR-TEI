@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0295" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0295#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0295</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0295_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415393/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Sils–Baselgia, 
+               <lb xml:id="p001_tr_1_tl_2"/>Sonntag 
+               <lb xml:id="p001_tr_1_tl_3"/>Klaus, mein Lieber –</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_4"/>die Gieski u. ich haben, obwohl Sie doch gerne 
+               <lb xml:id="p001_tr_1_tl_5"/>vernünftig das Geld verwaltet, – nur noch 
+               <lb xml:id="p001_tr_1_tl_6"/>50 frs. im Hause, u. ich <hi rendition="#u">kan[n]</hi> einfach vor 
+               <lb xml:id="p001_tr_1_tl_7"/>längerer Zeit nichts bekom[m]en. Es ist ebenso 
+               <lb xml:id="p001_tr_2_tl_1"/>unbegreiflich wie schändlich, – u. ich frage 
+               <lb xml:id="p001_tr_2_tl_2"/>mich bloss, wie arg es für Dich ist, dass 
+               <lb xml:id="p001_tr_2_tl_3"/>der Hunderter diesen Monat ausbleibt? 
+               <lb xml:id="p001_tr_2_tl_4"/>Schreib mir, wie es damit steht, irgendwie 
+               <lb xml:id="p001_tr_2_tl_5"/>(wen[n] Du dringlich damit gerechnet hast) 
+               <lb xml:id="p001_tr_2_tl_6"/>würde ich ja doch mindesteurs 50 frs. 
+               <lb xml:id="p001_tr_2_tl_7"/>beschaffen u. Dir schicken können, wen[n] auch 
+               <lb xml:id="p001_tr_2_tl_8"/>keinesfalls vor dem 15. –</p>
+            <p> 
+               <lb xml:id="p001_tr_2_tl_9"/>Ach, lieber Klaus, ich habe mich ja sehr gefreut 
+               <lb xml:id="p001_tr_3_tl_1"/>Deine Stim[m]e zu hören, kürzlich: ich befinde 
+               <lb xml:id="p001_tr_3_tl_2"/>mich in einer fest heillosen Verwirrung 
+               <lb xml:id="p001_tr_3_tl_3"/>u. kan[n] auch Eri, die in Salzburg ganz 
+               <lb xml:id="p001_tr_3_tl_4"/>ihrer eigenen Sorgen hat, gar nicht um 
+               <lb xml:id="p001_tr_3_tl_5"/>Rat fragen. Mir scheint, ich fahre allein 
+               <lb xml:id="p001_tr_3_tl_6"/>in 14 Tagen nach Amerika, – den[n] bei 
+               <lb xml:id="p001_tr_3_tl_7"/>gewissenhafter Prüfung stellt sich heraus,               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415392/info.json"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_3_tl_1"/> </p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+            <p> 
+               <lb xml:id="p002_tr_3_tl_1"/>dass ich, gesund u. erwachsen, NICHT nach 
+               <lb xml:id="p002_tr_3_tl_2"/>Ameriken wollte nur um an Eris Rockschössen 
+               <lb xml:id="p002_tr_3_tl_3"/>zu hängen, – dass also Barbaras  seriöses u. 
+               <lb xml:id="p002_tr_3_tl_4"/>herzliches Angebot genau das ist, was ich mir 
+               <lb xml:id="p002_tr_3_tl_5"/>gewünscht habe: ich wäre dan[n] Ende September 
+               <lb xml:id="p002_tr_3_tl_6"/>frei, um Eri zu treffen u. hätte dan[n] eine 
+               <lb xml:id="p002_tr_3_tl_7"/>Menge offenbar wirklich lohnendes journalis 
+               <lb xml:id="p002_tr_2_tl_1" break="no"/>tisches Material aus sozial interessanten u. 
+               <lb xml:id="p002_tr_2_tl_2"/>wenig bekannten amerikanischen Gebieten zu 
+               <lb xml:id="p002_tr_2_tl_3"/>verarbeiten. Hier aber hält mich nur eine 
+               <lb xml:id="p002_tr_2_tl_4"/>verzeihliche Trägheit, u. die Tatsache, dass 
+               <lb xml:id="p002_tr_2_tl_5"/>Auweh samt einem überirdisch schönen u. 
+               <lb xml:id="p002_tr_2_tl_6"/>milden Kind soeben eingetroffen ist. Aber 
+               <lb xml:id="p002_tr_2_tl_7"/>ich ken[n]e doch ihre freundliche Unzugäng 
+               <lb xml:id="p002_tr_2_tl_8" break="no"/>lichkeit, – u. weiss auch, wie trostlos dan[n] 
+               <lb xml:id="p002_tr_2_tl_9"/>Sils werden kan[n]. Also –</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space]</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_1"/>ich habe Barbara telegraphiert, dass ich 
+               <lb xml:id="p002_tr_1_tl_2"/>rechtzeitig eintreffen werde. Ich werde alles 
+               <lb xml:id="p002_tr_1_tl_3"/>tun, um über Amsterdam fahren zu 
+               <lb xml:id="p002_tr_1_tl_4"/>können, falls Du nicht mehr hierher 
+               <lb xml:id="p002_tr_1_tl_5"/>kom[m]st, was doch sehr fraglich scheint! 
+               <lb xml:id="p002_tr_1_tl_6"/>Was macht den[n] der tschechische Heimat 
+               <lb xml:id="p002_l" break="no"/>schein? Einige Monate in Prag zuzu¬               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <pb xml:id="p003" facs="https://www.monacensia-digital.de/i3f/v20/415391/info.json"/>
+            <milestone unit="textregion" xml:id="p003_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_2_tl_1" break="no"/> </p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+            <p> 
+               <lb xml:id="p003_tr_2_tl_1" break="no"/>bringen, ist doch wohl durchaus denkbar, – 
+               <lb xml:id="p003_tr_2_tl_2"/>wen[n] Count Bubi noch keine blendenden 
+               <lb xml:id="p003_tr_2_tl_3"/>Vorträge für Amerika ausgearbeitet hat!!! 
+               <lb xml:id="p003_tr_2_tl_4"/>Ernsthaft: ohne feste Absicht u. Möglichkeit 
+               <lb xml:id="p003_tr_2_tl_5"/>lohnt es sich vielleicht nicht, hinüber 
+               <lb xml:id="p003_tr_2_tl_6" break="no"/>zufahren. Tust Du es doch, so kom[m] doch 
+               <lb xml:id="p003_tr_2_tl_7"/>mit mir oder triff mich, wen[n] ich Ende 
+               <lb xml:id="p003_tr_2_tl_8"/>September mit Barbara von der grossen 
+               <lb xml:id="p003_tr_2_tl_9"/>Fahrt zurückkom[m]e –, ich bin sicher, dass 
+               <lb xml:id="p003_tr_3_tl_1"/>ich dan[n] dies u. jenes vorhaben werde, 
+               <lb xml:id="p003_tr_3_tl_2"/>auch gescheite u. wichtige Leute ken[n]en, – 
+               <lb xml:id="p003_tr_3_tl_3"/>wen[n] Du in der Zwischenzeit einen Vortrag oder 
+               <lb xml:id="p003_tr_3_tl_4"/>Artikel etwa über die Situation der 
+               <lb xml:id="p003_tr_3_tl_5"/>deutschen emigrierten Jugend, über die 
+               <lb xml:id="p003_tr_3_tl_6"/>unnatürliche Lage der in zwei Lager geteilten, 
+               <lb xml:id="p003_tr_3_tl_7"/>deutschen Literatur (eine noch nie dagewesene 
+               <lb xml:id="p003_tr_1_tl_1"/>Tatsache!) etc vorbereitet hast, könnten 
+               <lb xml:id="p003_tr_1_tl_2"/>wir sicher etwas machen, – mindestens aber 
+               <lb xml:id="p003_tr_1_tl_3"/>kan[n] man sich auf Barbara verlassen, die 
+               <lb xml:id="p003_tr_1_tl_4"/>uns bei Freunden unterbringen wird, u. 
+               <lb xml:id="p003_tr_1_tl_5"/>bei Leuten einführen, die sich ernstlich               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <pb xml:id="p004" facs="https://www.monacensia-digital.de/i3f/v20/415390/info.json"/>
+            <milestone unit="textregion" xml:id="p004_r_129"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_3_tl_1"/> </p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+            <p> 
+               <lb xml:id="p004_tr_3_tl_1"/>für das interessieren, was ein junger 
+               <lb xml:id="p004_tr_3_tl_2"/>deutscher Emigrant Deines Namens 
+               <lb xml:id="p004_tr_3_tl_3"/>zu sagen hat. –</p>
+            <p> 
+               <lb xml:id="p004_tr_3_tl_4"/>Was wusste den[n] Peter Mendelssohn?</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space] </p>
+            <p> 
+               <lb xml:id="p004_tr_1_tl_1"/>Die Giehse ist innerlich in verdüsterter 
+               <lb xml:id="p004_tr_1_tl_2"/>Laune, fürchte ich. Der Gedanke, in Leopoldskron, 
+               <lb xml:id="p004_tr_1_tl_3"/>aufzutreten, quält Sie, – mit Recht, scheint 
+               <lb xml:id="p004_tr_1_tl_4"/>mir: man müsste, für solchen Zweck, nur 
+               <lb xml:id="p004_tr_1_tl_5"/>einige wirklich schlagende Num[m]ern, d.h. 
+               <lb xml:id="p004_tr_1_tl_6"/>nur ein paar Sachen von Eri u. Theres, 
+               <lb xml:id="p004_tr_1_tl_7"/>bringen – Die Pfeffermühle darf nicht 
+               <lb xml:id="p004_tr_1_tl_8"/>"dilettantisch", wirken, – u. diese Gefahr liegt 
+               <lb xml:id="p004_tr_1_tl_9"/>bei einer improvisierten Aufführung nahe!</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space]</p>
+            <p> 
+               <lb xml:id="p004_tr_2_tl_1"/>Lieber Klaus, – ich wünschte, Du 
+               <lb xml:id="p004_tr_2_tl_2"/>kön[n]test doch noch herkom[m]en. (Ich 
+               <lb xml:id="p004_tr_2_tl_3"/>würde Dir natürlich die Fahrt 
+               <lb xml:id="p004_tr_2_tl_4"/>bezahlen.) ich fühle mich auf eine 
+               <lb xml:id="p004_tr_2_tl_5"/>durchaus ungerechtfertigte Weise 
+               <lb xml:id="p004_l"/>allein ..</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> Grüsse alle, Golo, Medy, 
+               <lb xml:id="p004_tr_2_tl_8"/>die verehrten Zauberers – 
+               <lb xml:id="p004_tr_2_tl_9"/>Deine Miro</p>
+</div>
+       </body>
+    </text>
+ </TEI>
