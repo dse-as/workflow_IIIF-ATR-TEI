@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0037" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0037#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0037</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0037_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587712-BCUL-PREVIEW-426390_0001.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_3"/>1. Juli 
+               <lb xml:id="p001_tr_1_tl_4"/>HOTEL ASTORIA 
+               <lb xml:id="p001_tr_1_tl_5"/>BADGASTEIN 
+               <lb xml:id="p001_tr_1_tl_6"/>TEL: INT. 250 &amp; 251 
+               <lb xml:id="p001_tr_1_tl_7"/>Vieux Claude, je commence à être 
+               <lb xml:id="p001_tr_1_tl_8"/>verveuse à propos de toi. C'est 
+               <lb xml:id="p001_tr_1_tl_9"/>pourquoi j'ai envoyé le télégramme. 
+               <lb xml:id="p001_tr_1_tl_10"/>Je suis à Gastein avec Maud Thyssen 
+               <lb xml:id="p001_tr_1_tl_11"/>que j'aime beaucoup. Erika arrivé 
+               <lb xml:id="p001_tr_1_tl_12"/>en Tyrol en 14 jours. Je ne peux 
+               <lb xml:id="p001_tr_1_tl_13"/>pas trop bouger, parceque je travaille 
+               <lb xml:id="p001_tr_1_tl_14"/>et parce qu' <hi rendition="#u">il faut</hi> que je finisse 
+               <lb xml:id="p001_tr_1_tl_15"/>tout ce qui concerne mon livre de 
+               <lb xml:id="p001_tr_1_tl_16"/>voyage avant mon départ pour 
+               <lb xml:id="p001_tr_1_tl_17"/>Teheran. Et voilà, il me reste 
+               <lb xml:id="p001_tr_1_tl_18"/>qu' un mois! Tu comprends aussi 
+               <lb xml:id="p001_tr_1_tl_19"/>que je suis terriblement <hi rendition="#u">reisemüde</hi>, 
+               <lb xml:id="p001_tr_1_tl_20"/>et il me faut quelques semaines 
+               <lb xml:id="p001_tr_1_tl_21"/>de travail. J'ai eu des</p>
+
+            <pb xml:id="p002" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587712-BCUL-PREVIEW-426390_0004.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>affaires fort desagréable à Berlin 
+               <lb xml:id="p002_tr_1_tl_2"/>et puis, à Bocken. Je t'en parlerai 
+               <lb xml:id="p002_tr_1_tl_3"/>la première semaine d'Août, j'ai 
+               <lb xml:id="p002_tr_1_tl_4"/>à faire en Engadine et Tessin 
+               <lb xml:id="p002_tr_1_tl_5"/>et puis-il faut rentrer à 
+               <lb xml:id="p002_tr_1_tl_6"/>Bocken, et quitter l'Europe. 
+               <lb xml:id="p002_tr_1_tl_7"/>vers le 15. 
+               <lb xml:id="p002_tr_1_tl_8"/>Je serais plus que malheureuse 
+               <lb xml:id="p002_tr_1_tl_9"/>si je ne pourrai te voir. Et 
+               <lb xml:id="p002_tr_1_tl_10"/>Surtout il faudrait que je te 
+               <lb xml:id="p002_tr_1_tl_11"/>parle <hi rendition="#u">avant</hi> que j'aille en 
+               <lb xml:id="p002_tr_1_tl_12"/>Engardine et Tessin, weil ich 
+               <lb xml:id="p002_tr_1_tl_13"/>dort unter anderem ein Haus 
+               <lb xml:id="p002_tr_1_tl_14"/>für mich suche. 
+               <lb xml:id="p002_tr_1_tl_15"/>Aber, selbst wenn ich nach Grenoble 
+               <lb xml:id="p002_tr_1_tl_16"/>kome, wäre es nicht das Gleiche. 
+               <lb xml:id="p002_tr_1_tl_17"/>Ich möchte sehr, dass Du auch 
+               <lb xml:id="p002_tr_1_tl_18"/>Maud Thyssen siehst.</p>
+
+            <pb xml:id="p003" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587712-BCUL-PREVIEW-426390_0003.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_1"/>Je me demande si tu ne peux pas 
+               <lb xml:id="p003_tr_1_tl_2"/>avoir un congé spécial de 4 jours. 
+               <lb xml:id="p003_tr_1_tl_3"/>Si ce <del rend="overstrike">serait</del> serait quelquechose 
+               <lb xml:id="p003_tr_1_tl_4"/>de <hi rendition="#u">très urgent</hi>, tu l'obtiendrai 
+               <lb xml:id="p003_tr_1_tl_5"/>sans doute! Tu peux prendre 
+               <lb xml:id="p003_tr_1_tl_6"/>l'avion de Genève à Salzburg, et 
+               <lb xml:id="p003_tr_1_tl_7"/>Maud et moi nous viendrons 
+               <lb xml:id="p003_tr_1_tl_8"/>te rencontrer avec l'auto, o<del rend="overstrike">ù</del>u 
+               <lb xml:id="p003_tr_1_tl_9"/>le chaffeur te cherchera là-bas 
+               <lb xml:id="p003_tr_1_tl_10"/>et t'amènera à Gastein, c'est 
+               <lb xml:id="p003_tr_1_tl_11"/>tout près. 
+               <lb xml:id="p003_tr_1_tl_12"/>Dits à ton major, que c'est 
+               <lb xml:id="p003_tr_1_tl_13"/>important. Persien ist so weit 
+               <lb xml:id="p003_tr_1_tl_14"/>nachher. Faits ton possible. 
+               <lb xml:id="p003_tr_1_tl_15"/>Télégraphie ton arrivée à Salzburg 
+               <lb xml:id="p003_tr_1_tl_16"/>ou ici. 
+               <lb xml:id="p003_tr_1_tl_17"/>A toi, cher Claude. 
+               <lb xml:id="p003_tr_1_tl_18"/>je t'attends, séreusement. A.</p>
+
+            <pb xml:id="p004" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587712-BCUL-PREVIEW-426390_0002.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p004_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_l"/>Was sagst Du zu Deutschland?!</p>
+
+            <pb xml:id="p005" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587712-BCUL-PREVIEW-426390_0005.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p005_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p005_tr_2_tl_1"/>ExPR 
+               <lb xml:id="p005_tr_2_tl_4"/>Leutnant Bourdet 
+               <lb xml:id="p005_tr_2_tl_5"/><del rend="overstrike">12, Place St. Claire</del> 
+               <lb xml:id="p005_tr_2_tl_6"/>Camp des Rochilles 
+               <lb xml:id="p005_tr_2_tl_7"/><del rend="overstrike">Grenoble</del> 
+               <lb xml:id="p005_tr_2_tl_8"/>par <hi rendition="#u">St Michel de Maurienne</hi> 
+               <lb xml:id="p005_tr_2_tl_9"/>Frankreich 
+               <lb xml:id="p005_tr_2_tl_10"/>Hte 
+               <lb xml:id="p005_tr_2_tl_11"/>Savoïe</p>
+
+            <pb xml:id="p006" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587712-BCUL-PREVIEW-426390_0006.jpg/info.json"/></div>
+       </body>
+    </text>
+ </TEI>
