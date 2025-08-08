@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0043" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0043#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0043</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0043_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587718-BCUL-PREVIEW-426396_0001.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_2"/>THE JOINT EXPEDITION 
+               <lb xml:id="p001_tr_1_tl_3"/>TO PERSIA 
+               <lb xml:id="p001_tr_1_tl_4"/>ERICH F. SCHMIDT, FIELD DIRECTOR 
+               <lb xml:id="p001_tr_1_tl_5"/>THE MRS. WILLIAM BOYCE THOMPSON FOUNDATION 
+               <lb xml:id="p001_tr_1_tl_8"/>THE UNIVESITY MUSEUM, PHILADELPHIA 
+               <lb xml:id="p001_tr_1_tl_6"/>THE MUSEUM OF FINE ARTS 
+               <lb xml:id="p001_tr_1_tl_7"/>BOSTON, MASSACHUSETTS 
+               <lb xml:id="p001_tr_1_tl_9"/>22 novembre 
+               <lb xml:id="p001_tr_1_tl_10"/>Mon cher vieux Claunde – 
+               <lb xml:id="p001_tr_1_tl_11"/>tu sais que tu m' as un peu abandonné 
+               <lb xml:id="p001_tr_1_tl_12"/>ces derniers temps? J' ai vécu, dans notre 
+               <lb xml:id="p001_tr_1_tl_13"/>camp d'excuvations, très isolée du monde 
+               <lb xml:id="p001_tr_1_tl_14"/>de mes amis – et en voilà le résultat : 
+               <lb xml:id="p001_tr_1_tl_15"/>je me suis fiancée avec le seul garçon 
+               <lb xml:id="p001_tr_1_tl_16"/>qui était, entre ce monde que 
+               <lb xml:id="p001_tr_1_tl_17"/>j'aime, et mon nouveau entouragé 
+               <lb xml:id="p001_tr_1_tl_18"/>d' Orient. C'est Claude-Achille Clarac, 
+               <lb xml:id="p001_tr_1_tl_19"/>Chargé d' Affaires de France – et ton oncle 
+               <lb xml:id="p001_tr_1_tl_20"/>Pozzi sera donc notre chef à Teheran! 
+               <lb xml:id="p001_tr_1_tl_21"/>Mon petit, je ne sais pas si cette décision te 
+               <lb xml:id="p001_tr_1_tl_22"/>frappera beaucoup – cela ne changera donc 
+               <lb xml:id="p001_tr_1_tl_23"/>rien en moi! Mais, comme toutes les relations 
+               <lb xml:id="p001_tr_1_tl_24"/>me manquent, j' aime autant <del rend="overstrike">d</del> ne rien 
+               <lb xml:id="p001_tr_1_tl_25"/>t' écrire. Je suis en train de rentrer en Suisse. 
+               <lb xml:id="p001_tr_1_tl_26"/>Je <del rend="overstrike">sont</del> serai à Sils à partir de Janvier</p>
+
+            <pb xml:id="p002" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587718-BCUL-PREVIEW-426396_0002.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>et j' espère que tu viendras me voir là-bas. 
+               <lb xml:id="p002_tr_1_tl_2"/>Ecrits-moi en mot à Bocken, quand ce 
+               <lb xml:id="p002_tr_1_tl_3"/>sera possible que tu vienne. 
+               <lb xml:id="p002_tr_1_tl_4"/>Tendresse 
+               <lb xml:id="p002_tr_1_tl_5"/>de 
+               <lb xml:id="p002_tr_1_tl_6"/>Annemarie</p>
+
+            <pb xml:id="p003" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587718-BCUL-PREVIEW-426396_0003.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_5"/>via u.R.S.S 
+               <lb xml:id="p003_tr_1_tl_7"/>Monsieur Claude Bourdet 
+               <lb xml:id="p003_tr_1_tl_8"/>47 Av. de Jena 
+               <lb xml:id="p003_tr_1_tl_9"/><hi rendition="#u">Paris</hi> 
+               <lb xml:id="p003_tr_1_tl_10"/>France [Teheran, 24.XI.34</p>
+
+            <pb xml:id="p004" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587718-BCUL-PREVIEW-426396_0004.jpg/info.json"/></div>
+       </body>
+    </text>
+ </TEI>
