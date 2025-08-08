@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0042"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0042</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0042_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0042_001"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587717-BCUL-PREVIEW-426395_0001.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0042_001_tr_1"/>
+            <lb xml:id="letter_0042_001_tr_1_tl_2"/>THE JOINT EXPEDITION
+<lb xml:id="letter_0042_001_tr_1_tl_3"/>TO PERSIA
+<lb xml:id="letter_0042_001_tr_1_tl_4"/>ERICH F. SCHMIDT, FIELD DIRECTOR
+<lb xml:id="letter_0042_001_tr_1_tl_6"/>THE MRS. WILLIAM BOYCE THOMPSON FOUNDATION
+<lb xml:id="letter_0042_001_tr_1_tl_8"/>THE UNIVERSITY MUSEUM OF PHILADELPHIA
+<lb xml:id="letter_0042_001_tr_1_tl_5"/>THE MUSEUM OF FINE ARTS
+<lb xml:id="letter_0042_001_tr_1_tl_7"/>BOSTON, MASSACHUSETTS
+<lb xml:id="letter_0042_001_tr_1_tl_9"/>Adr. Joint Expedition
+<lb xml:id="letter_0042_001_tr_1_tl_11"/>c/o American Consulate General
+<lb xml:id="letter_0042_001_tr_1_tl_12"/>Teheran
+<lb xml:id="letter_0042_001_tr_1_tl_10"/>Sept. 24<PAGE tag="superscript">th</PAGE>
+<lb xml:id="letter_0042_001_tr_1_tl_13"/>Mon cher Claude! il faut bien que tu m’ écrives,
+<lb xml:id="letter_0042_001_tr_1_tl_14"/>mon grand gosse, comme il n' y a pas d'autres moyens
+<lb xml:id="letter_0042_001_l"/>ne
+<lb xml:id="letter_0042_001_tr_1_tl_15"/>pour que tu [ne m’ oublies pas pendant que je suis en
+<lb xml:id="letter_0042_001_tr_1_tl_16"/>Perse – presque familier – et toi encore au Service.
+<lb xml:id="letter_0042_001_tr_1_tl_17"/>Quelle longue année! <PAGE tag="strikethrough">Ton</PAGE> Je l’ai commencé en
+<lb xml:id="letter_0042_001_tr_1_tl_18"/>Syrie, il y a Baghdad – cette grande notion de rêve,
+<lb xml:id="letter_0042_001_tr_1_tl_19"/>de Tigris, et de chasse à cheval – il y a la Perse et
+<lb xml:id="letter_0042_001_tr_1_tl_20"/>la maison de Mme von Blücher – il y a le retour
+<lb xml:id="letter_0042_001_tr_1_tl_21"/>en Suisse, l'Autriche, ma Mère, et Erika – il y a
+<lb xml:id="letter_0042_001_tr_1_tl_22"/>Lugano et Gastein. Ensuite <PAGE tag="underlined">Moscou</PAGE> – quelques jours
+<lb xml:id="letter_0042_001_tr_1_tl_23"/>sur les grandes routes du Caucase – et encore
+<lb xml:id="letter_0042_001_tr_1_tl_24"/>la Perse.
+<lb xml:id="letter_0042_001_tr_1_tl_25"/>Me voilà bien seule. Je n' habite pas chez les Blücher
+<lb xml:id="letter_0042_001_tr_1_tl_26"/>comme tu sais que j'ai des difficultés avec les
+<lb xml:id="letter_0042_001_tr_1_tl_27"/>autorités allemandes. Je suis devenu volontaire
+<lb xml:id="letter_0042_001_tr_1_tl_28"/>d'une expédition archéologique, j'apprends la vie
+<lb xml:id="letter_0042_001_tr_1_tl_29"/>seule avec des camarades de travail, des journées
+<lb xml:id="letter_0042_001_tr_1_tl_30"/>qui com[m]encent à 5h avant le lever du soleil.
+<lb xml:id="letter_0042_001_tr_1_tl_31"/>et qui consistent d’ occupation assez fatiguante
+<lb xml:id="letter_0042_001_tr_1_tl_32"/>jusqu' au tombé de la nuit. Un court repos,
+<lb xml:id="letter_0042_001_tr_1_tl_33"/>et un nouveau jour<PAGE tag="strikethrough">s</PAGE>. Voilà tout. Je trouve cela
+<lb xml:id="letter_0042_001_tr_1_tl_34"/>étrange, dur et consolant. C’ est assez près
+<lb xml:id="letter_0042_001_tr_1_tl_35"/>– je m’imagine – de la vie.<pb xml:id="letter_0042_002"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587717-BCUL-PREVIEW-426395_0002.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0042_002_tr_1"/>
+            <lb xml:id="letter_0042_002_tr_1_tl_1"/>Je n’ écrit pas. Je pense que je recommencerai
+<lb xml:id="letter_0042_002_tr_1_tl_2"/>en hiver, en Suisse. J'aurai dés le 1 Janvier
+<lb xml:id="letter_0042_002_tr_1_tl_3"/>une maison à Sils en Engadine – Mais voilà
+<lb xml:id="letter_0042_002_tr_1_tl_4"/>que j’ai peur du retour. Je ne crois à rien et
+<lb xml:id="letter_0042_002_tr_1_tl_5"/>un peu à personne comme <PAGE tag="underlined">je doute de ma vie</PAGE> –
+<lb xml:id="letter_0042_002_tr_1_tl_6"/>C’est pourquoi je me sens tenter de rester ici, loin
+<lb xml:id="letter_0042_002_tr_1_tl_7"/>du monde,
+<lb xml:id="letter_0042_002_tr_1_tl_8"/>Serai
+<lb xml:id="letter_0042_002_tr_1_tl_9"/>Je <PAGE tag="strikethrough">suis</PAGE> ici jusqu’au 15 novembre, quand notre
+<lb xml:id="letter_0042_002_tr_1_tl_10"/>travail sera fini. Je compte un peu sur toi
+<lb xml:id="letter_0042_002_tr_1_tl_11"/>peut-être que tu viendras à Sils en Janvier.
+<lb xml:id="letter_0042_002_tr_1_tl_12"/>J’ y serai seule probablement. On fera du Skie.
+<lb xml:id="letter_0042_002_tr_1_tl_13"/>Ecrits-moi.
+<lb xml:id="letter_0042_002_tr_1_tl_14"/>Bien à toi, toujours
+<lb xml:id="letter_0042_002_tr_1_tl_15"/>Annemarie<pb xml:id="letter_0042_003"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587717-BCUL-PREVIEW-426395_0003.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0042_003_tr_1"/>
+            <lb xml:id="letter_0042_003_tr_1_tl_1"/>The suivre s.v.p.
+<lb xml:id="letter_0042_003_tr_1_tl_2"/>55021 43
+<lb xml:id="letter_0042_003_tr_1_tl_3"/>THE UNIVESITY MUSEUM
+<lb xml:id="letter_0042_003_tr_1_tl_4"/>PHILADELPHIA
+<lb xml:id="letter_0042_003_tr_1_tl_5"/>Par l’URSS
+<lb xml:id="letter_0042_003_tr_1_tl_6"/>Le 2/2, 1)
+<lb xml:id="letter_0042_003_tr_1_tl_7"/>Monsieur Claude Bourdet
+<lb xml:id="letter_0042_003_tr_1_tl_8"/>47, Av. de Jéna
+<lb xml:id="letter_0042_003_tr_1_tl_9"/><PAGE tag="underlined">Paris</PAGE>
+<lb xml:id="letter_0042_003_tr_1_tl_10"/>FRANCE<pb xml:id="letter_0042_004"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587717-BCUL-PREVIEW-426395_0004.jpg/info.json"/>
+         </div>
+      </body>
+   </text>
+</TEI>
