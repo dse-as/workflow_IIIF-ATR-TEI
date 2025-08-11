@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0044" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0044#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0044</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0044_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587719-BCUL-PREVIEW-426397_0001.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_2"/>ANNEMARIE SCHWARZENBACH 
+               <lb xml:id="p001_tr_1_tl_3"/>DR. PHIL. 
+               <lb xml:id="p001_tr_1_tl_4"/>16 Décembre 
+               <lb xml:id="p001_tr_1_tl_5"/>Mon Claude, mon aimé cheri – 
+               <lb xml:id="p001_tr_1_tl_6"/>en rentrant ce soir (j'ai passé en venant de 
+               <lb xml:id="p001_tr_1_tl_7"/>la Perse 10 jours à Berlin et 2 avec Erika) 
+               <lb xml:id="p001_tr_1_tl_8"/>j'ai trouvé tes lettres. Mon pauvre amour 
+               <lb xml:id="p001_tr_1_tl_9"/>mon petit garçon, tu ne sais pas à quel point 
+               <lb xml:id="p001_tr_1_tl_10"/>je suis abattue et triste et près de toi avec 
+               <lb xml:id="p001_tr_1_tl_11"/>toute ma tendresse et ma force d'affection 
+               <lb xml:id="p001_tr_1_tl_12"/>de pensée, de désir de savoir te soulager. 
+               <lb xml:id="p001_tr_1_tl_13"/>Il ne faut pas que cette lettre soit longue. 
+               <lb xml:id="p001_tr_1_tl_14"/>Claude, <hi rendition="#u">je sais tout</hi>. Et je sais, en ce moment, 
+               <lb xml:id="p001_tr_1_tl_15"/>que je suis à toi. Il ne faut pas cette 
+               <lb xml:id="p001_tr_1_tl_16"/>petite phrase dans ta derniers lettres – que,  
+               <lb xml:id="p001_tr_1_tl_17"/>pour toi, ce ne sera plus la même chose – – – 
+               <lb xml:id="p001_tr_1_tl_18"/>Non, non, nous, Claude : tu te trompes. Que 
+               <lb xml:id="p001_tr_1_tl_19"/>sais-tu donc de mon mariage, des raisons, 
+               <lb xml:id="p001_tr_1_tl_20"/>des sentiments? Je t'expliquerai un jour. 
+               <lb xml:id="p001_tr_1_tl_21"/>Aujourd' hui, mon garçon, il faut seulement 
+               <lb xml:id="p001_tr_1_tl_22"/>que <hi rendition="#u">tu te reposes en moi</hi>, 
+               <lb xml:id="p001_tr_1_tl_23"/>parce que je sais tu en as besoin.</p>
+
+            <pb xml:id="p002" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587719-BCUL-PREVIEW-426397_0003.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_2"/>ANNEMARIE SCHWARZENBACH 
+               <lb xml:id="p002_tr_1_tl_3"/>DR. PHIL. 
+               <lb xml:id="p002_l"/>– 2 – 
+               <lb xml:id="p002_tr_1_tl_4"/>Et voilà que je te parles de moi. Ce n'est donc pas 
+               <lb xml:id="p002_tr_1_tl_5"/>de l'égoïsme, c'est la seule chose à t'en parler, 
+               <lb xml:id="p002_tr_1_tl_6"/>comme tu as perdu ta mère aimée et je n'ose 
+               <lb xml:id="p002_tr_1_tl_7"/>pas y toucher –, et tu crois perdre moi et 
+               <lb xml:id="p002_tr_1_tl_8"/>je ne veux pas te perdre. Chéri, nous avons devant 
+               <lb xml:id="p002_tr_1_tl_9"/>nous un avenir, pénible évidemment, mais qui 
+               <lb xml:id="p002_tr_1_tl_10"/>vaudra la peine. 
+               <lb xml:id="p002_tr_1_tl_11"/>Alors – Il faut que tu viennes à Sils, 
+               <lb xml:id="p002_tr_1_tl_12"/>aussi vite que possible, en Janvier. 
+               <lb xml:id="p002_tr_1_tl_13"/>Hörst Du: ich bestehe darauf, ich bitte Dich 
+               <lb xml:id="p002_tr_1_tl_14"/>darum. On sera seuls (quelques amies à moi 
+               <lb xml:id="p002_tr_1_tl_15"/>à Sils ou St. Moritz, mais pas dans la maison) 
+               <lb xml:id="p002_tr_1_tl_16"/>– Comme Erika ne vient pas, ni Klaus. 
+               <lb xml:id="p002_tr_1_tl_17"/>Tu comprends: Sie komt nicht. Ich habe das 
+               <lb xml:id="p002_tr_1_tl_18"/>Haus für sie gemacht. Sie komt nicht, u. ich 
+               <lb xml:id="p002_tr_1_tl_19"/>werde sie nicht sehen. Voilà ce qui est arrivé: 
+               <lb xml:id="p002_tr_1_tl_20"/>Il y a eu des scandals nationalistes, provoqués 
+               <lb xml:id="p002_tr_1_tl_21"/>par des amis, des cousins, des cliques de 
+               <lb xml:id="p002_tr_1_tl_22"/>Zürich – provoqué par la haine de ma famille 
+               <lb xml:id="p002_tr_1_tl_23"/>contre Erika, cela a pris des formes affreuses, 
+               <lb xml:id="p002_tr_1_tl_24"/>très désagréables pour ma famille sans 
+               <lb xml:id="p002_tr_1_tl_25"/>doute, mais ruineuses pour l'existence de 
+               <lb xml:id="p002_tr_1_tl_26"/>Erika et ses jeunes artistes.</p>
+
+            <pb xml:id="p003" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587719-BCUL-PREVIEW-426397_0002.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_1"/>– Quant à moi – j'étais en Perse. Auf der 
+               <lb xml:id="p003_tr_1_tl_2"/>Flucht. Je voulais éviter, et je n'ai rien 
+               <lb xml:id="p003_tr_1_tl_3"/>évité – 
+               <lb xml:id="p003_tr_1_tl_4"/>Erika m'a donc posé la question. Et 
+               <lb xml:id="p003_tr_1_tl_5"/>toutes mes faiblesses, toutes peur, toute 
+               <lb xml:id="p003_tr_1_tl_6"/>hésitation, se vengent en ce moment, 
+               <lb xml:id="p003_tr_1_tl_7"/>aussi cruellement que possible. 
+               <lb xml:id="p003_tr_1_tl_8"/>Je tâcherai quand'même de vivre. Peut-être 
+               <lb xml:id="p003_tr_1_tl_9"/>de marier Claude, m'aidera. Mais, en ce 
+               <lb xml:id="p003_tr_1_tl_10"/>moment je te répète ce que tu viens de 
+               <lb xml:id="p003_tr_1_tl_11"/>m'écrire: <hi rendition="#u">ne m'abandonne pas</hi> 
+               <lb xml:id="p003_tr_1_tl_12"/>Télégraphie-moi ton arrivée, à Sils-Baselgia, 
+               <lb xml:id="p003_tr_1_tl_13"/>Engadine. J'i serai à partir du 4 Janvier. 
+               <lb xml:id="p003_tr_1_tl_14"/>Je viendrai te prendre à la gare de 
+               <lb xml:id="p003_tr_1_tl_15"/><hi rendition="#u">St. Moritz</hi>. Il faut que tu ais confiance 
+               <lb xml:id="p003_tr_1_tl_16"/>en moi, même si maintenant tu pense 
+               <lb xml:id="p003_tr_1_tl_17"/>que ce soit une faute de venir à Sils. 
+               <lb xml:id="p003_tr_1_tl_18"/>Tu verras que j'ai raison. <del rend="overstrike">Fais</del> Viens pour 
+               <lb xml:id="p003_tr_1_tl_19"/>moi, pour toi. Je t'attends 
+               <lb xml:id="p003_tr_1_tl_20"/>Anemarie</p>
+
+            <pb xml:id="p004" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587719-BCUL-PREVIEW-426397_0004.jpg/info.json"/></div>
+       </body>
+    </text>
+ </TEI>
