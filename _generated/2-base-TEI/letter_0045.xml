@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0045" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0045#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0045</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0045_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587720-BCUL-PREVIEW-426398_0001.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_2_tl_1"/>Lieber Claude, ich bin sehr sich dass 
+               <lb xml:id="p001_tr_2_tl_2"/>ich Dich wiedersehen werde. Ich habe 
+               <lb xml:id="p001_tr_2_tl_3"/>eine furchtbar schwere Zeit, u. wir 
+               <lb xml:id="p001_tr_2_tl_4"/>werden uns gegenseitig helfen. 
+               <lb xml:id="p001_tr_2_tl_5"/>Il se peut que je n'aurai pas de chambre 
+               <lb xml:id="p001_tr_2_tl_6"/>dans ma maison, mais ce sera simple 
+               <lb xml:id="p001_tr_2_tl_7"/>pour toi de trouver une simple chambre, 
+               <lb xml:id="p001_tr_2_tl_8"/>et tu passeras ton jour chez moi. Repose-toi 
+               <lb xml:id="p001_tr_2_tl_9"/>au Valais – je ne viendrai pas, com[e 
+               <lb xml:id="p001_tr_2_tl_10"/>je veux aller à Sils le 5 – 
+               <lb xml:id="p001_tr_2_tl_11"/>je t'y attendrai. 
+               <lb xml:id="p001_tr_2_tl_12"/>Au revoir, chéri – 
+               <lb xml:id="p001_tr_2_tl_13"/>Anemarie 
+               <lb xml:id="p001_tr_2_tl_14"/>Sils-Engadine 
+               <lb xml:id="p001_tr_2_tl_15"/>Maison Salis</p>
+
+            <pb xml:id="p002" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587720-BCUL-PREVIEW-426398_0002.jpg/info.json"/>
+            <pb xml:id="p003" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587720-BCUL-PREVIEW-426398_0003.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_4"/>Monsieur Claude Bourdet 
+               <lb xml:id="p003_tr_1_tl_5"/>chez Dr. Fauconnet 
+               <lb xml:id="p003_tr_1_tl_6"/>4, rue St. Ours 
+               <lb xml:id="p003_tr_1_tl_7"/>Genève 
+               <lb xml:id="p003_tr_1_tl_2"/>26.XII.34 
+               <lb xml:id="p003_tr_1_tl_3"/>VIII</p>
+
+            <pb xml:id="p004" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587720-BCUL-PREVIEW-426398_0004.jpg/info.json"/>
+            <pb xml:id="p005" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587720-BCUL-PREVIEW-426398_0005.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p005_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p005_tr_1_tl_1"/>8:-</p>
+
+            <milestone unit="textregion" xml:id="p005_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p005_tr_2_tl_1"/>aude 
+               <lb xml:id="p005_tr_2_tl_2"/>wie 
+               <lb xml:id="p005_tr_2_tl_3"/>" derf. 
+               <lb xml:id="p005_tr_2_tl_4"/>En 
+               <lb xml:id="p005_tr_2_tl_5"/>assé 
+               <lb xml:id="p005_tr_2_tl_6"/>us 
+               <lb xml:id="p005_tr_2_tl_7"/>als 
+               <lb xml:id="p005_tr_2_tl_8"/>cette 
+               <lb xml:id="p005_tr_2_tl_9"/>1 
+               <lb xml:id="p005_tr_2_tl_10"/>Au revoir, chéri. 
+               <lb xml:id="p005_tr_2_tl_11"/>Auemann</p>
+
+            <milestone unit="textregion" xml:id="p005_tr_4"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p005_tr_4_tl_1"/>chambre 
+               <lb xml:id="p005_tr_4_tl_2"/>simpli 
+               <lb xml:id="p005_tr_4_tl_3"/>chambres, 
+               <lb xml:id="p005_tr_4_tl_4"/>vi. Repos - ter 
+               <lb xml:id="p005_tr_4_tl_5"/>caine</p>
+
+            <milestone unit="textregion" xml:id="p005_tr_3"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p005_tr_3_tl_1"/>IIII LÄU</p>
+</div>
+       </body>
+    </text>
+ </TEI>
