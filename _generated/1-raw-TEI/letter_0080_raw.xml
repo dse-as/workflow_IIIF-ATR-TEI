@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0080"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0080</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0080_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0080_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0080_003.tif/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0080_001_tr_1"/>
+            <lb xml:id="letter_0080_001_tr_1_tl_1"/>BOCKEN
+<lb xml:id="letter_0080_001_tr_1_tl_2"/>OB HORGEN. ZÜRICHSEE
+<lb xml:id="letter_0080_001_tr_1_tl_3"/>25. August<CONV tag="p">
+<lb xml:id="letter_0080_001_tr_1_tl_4"/>Marianne, Liebste, –  ich musste gestern
+<lb xml:id="letter_0080_001_tr_1_tl_5"/>in ganz grosser Eile Haus u. Hof
+<lb xml:id="letter_0080_001_tr_1_tl_6"/>u. das sonnenbeglänzte Sils verlassen,
+<lb xml:id="letter_0080_001_tr_1_tl_7"/>meinen Hund unter den Arm
+<lb xml:id="letter_0080_001_tr_1_tl_8"/>nehmen, u. das gelbe Auto über
+<lb xml:id="letter_0080_001_tr_1_tl_9"/>den Julier steuern, – Freitag schwim[m]e
+<lb xml:id="letter_0080_001_tr_1_tl_10"/>ich bereits allein auf dem Meer,
+<lb xml:id="letter_0080_001_tr_1_tl_11"/>auf dem Dampfer "Paris", u.
+<lb xml:id="letter_0080_001_tr_1_tl_12"/>in Amerika muss ich unverzüglich
+<lb xml:id="letter_0080_001_tr_1_tl_13"/>im Fordauto westwärts bis Texas
+<lb xml:id="letter_0080_001_tr_1_tl_14"/>fahren, photographieren u. Artikel
+<lb xml:id="letter_0080_001_tr_1_tl_15"/>schreiben. Mit Barbara, glücklicher¬
+<lb xml:id="letter_0080_001_tr_1_tl_16"/>weise, den[n] sie ist in jeder Beziehung
+<lb xml:id="letter_0080_001_tr_1_tl_17"/>die richtige.</CONV><CONV tag="p">
+<lb xml:id="letter_0080_001_tr_1_tl_18"/>Aber was geschieht inzwischen hier?
+<lb xml:id="letter_0080_001_tr_1_tl_19"/>Wirst Du allein "Schweizer Bilder"
+<lb xml:id="letter_0080_001_tr_1_tl_20"/>machen? Wird Europa sich
+<lb xml:id="letter_0080_001_tr_1_tl_21"/>schnellstens, selbst ruinieren? Es<!--FML: this needs attention (was tagged as "fml" in Transkribus)--></CONV><pb xml:id="letter_0080_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0080_004.tif/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0080_002_tr_1"/>
+            <lb xml:id="letter_0080_002_tr_1_tl_1"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)--><CONV tag="p">
+<lb xml:id="letter_0080_002_tr_1_tl_1"/>ist zum Wegfahren der richtigste, aber
+<lb xml:id="letter_0080_002_tr_1_tl_2"/>auch der unheimlichste Augenblick ...</CONV> [space]<CONV tag="p">
+<lb xml:id="letter_0080_002_tr_1_tl_3"/>Schickst Du mir Bilder sobald als
+<lb xml:id="letter_0080_002_tr_1_tl_4"/>möglich? (<PAGE tag="underlined">To French Legation</PAGE>,
+<lb xml:id="letter_0080_002_tr_1_tl_5"/><PAGE tag="underlined">Washington, D. C.</PAGE>)</CONV> [space]<CONV tag="p">
+<lb xml:id="letter_0080_002_tr_1_tl_6"/>Möge es Dir so gut gehen wie bisher,
+<lb xml:id="letter_0080_002_tr_1_tl_7"/>l<PAGE tag="underlined">iebs</PAGE>te Marianne – u. dan[n] sehen
+<lb xml:id="letter_0080_002_tr_1_tl_8"/>wir uns ja auch wieder, vielleicht
+<lb xml:id="letter_0080_002_l"/>einfach im Winter in Sils?</CONV>
+<lb xml:id="letter_0080_002_l_1"/>Tausend Grüsse an F., tausend
+<lb xml:id="letter_0080_002_tr_1_tl_13"/>in[n]ige Küsse für Dich –
+<lb xml:id="letter_0080_002_tr_1_tl_14"/> Deine
+<lb xml:id="letter_0080_002_tr_1_tl_15"/>An[n]emarie<pb xml:id="letter_0080_003"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0080_005.tif/info.json"/>
+            <pb xml:id="letter_0080_004"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0080_006.tif/info.json"/>
+            <pb xml:id="letter_0080_005"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0080_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0080_005_tr_1"/>
+            <lb xml:id="letter_0080_005_tr_1_tl_1"/>Faire suivre s. v. p.
+<lb xml:id="letter_0080_005_tr_1_tl_3"/>23 ad No 22
+<lb xml:id="letter_0080_005_tr_1_tl_5"/>Frau Marianne Breslauer – Feilchenfeld
+<lb xml:id="letter_0080_005_tr_1_tl_7"/><PAGE tag="strikethrough">Hôtel Latitude</PAGE>
+<lb xml:id="letter_0080_005_l"/><PAGE tag="strikethrough">St. Tropez</PAGE>
+<lb xml:id="letter_0080_005_tr_1_tl_10"/><PAGE tag="strikethrough">var</PAGE>
+<lb xml:id="letter_0080_005_tr_1_tl_12"/><PAGE tag="strikethrough">Frankreich</PAGE>
+<lb xml:id="letter_0080_005_l_1"/>Hotel St. Peter
+<lb xml:id="letter_0080_005_tr_1_tl_9"/><PAGE tag="underlined">Zürich</PAGE>
+<lb xml:id="letter_0080_005_tr_1_tl_11"/>(Suisse)<pb xml:id="letter_0080_006"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0080_002.tif/info.json"/>
+         </div>
+      </body>
+   </text>
+</TEI>
