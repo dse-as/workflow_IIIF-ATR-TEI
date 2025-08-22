@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0048" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0048#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0048</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0048_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587723-BCUL-PREVIEW-426401_0001.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_2"/>PALACE HOTEL 
+               <lb xml:id="p001_tr_1_tl_3"/>HANS BADRUTT 
+               <lb xml:id="p001_tr_1_tl_6"/>S<hi rendition="#sup">T</hi>. MORITZ 
+               <lb xml:id="p001_tr_1_tl_7"/>Samedi 
+               <lb xml:id="p001_tr_1_tl_8"/>La Télephone : Sils 43 – 50. 
+               <lb xml:id="p001_tr_1_tl_9"/>J'étais bien contente, mon chéri, d'avoir 
+               <lb xml:id="p001_tr_1_tl_10"/>ta bon]e lettre. Also, die Arbeit geht u. 
+               <lb xml:id="p001_tr_1_tl_11"/>das ist die Hauptsache! Ich war einige 
+               <lb xml:id="p001_tr_1_tl_12"/>Tage ohne Margot, sehr allein –  
+               <lb xml:id="p001_tr_1_tl_13"/>u. habe dabei auch endlich mit 
+               <lb xml:id="p001_tr_1_tl_14"/><hi rendition="#u">Schreiben</hi> angefangen. <hi rendition="#u">Très lo lentement</hi>. 
+               <lb xml:id="p001_tr_1_tl_15"/>Pour le reste, ça va. 
+               <lb xml:id="p001_tr_1_tl_16"/>– Margot a promis de revenir 
+               <lb xml:id="p001_tr_1_tl_17"/>début Mars. Alors, on viendra 
+               <lb xml:id="p001_tr_1_tl_18"/>ensemble à Paris. Ich werde 
+               <lb xml:id="p001_tr_1_tl_19"/>Dich also sicher sehen, Lieber, 
+               <lb xml:id="p001_tr_1_tl_20"/>bevor ich (im April) reise. Ich 
+               <lb xml:id="p001_tr_1_tl_21"/>gewöhne mich wieder an den</p>
+
+            <pb xml:id="p002" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587723-BCUL-PREVIEW-426401_0002.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>Gedanken u. glaube, dass es 
+               <lb xml:id="p002_tr_1_tl_2"/>doch, after all, richtig ist. 
+               <lb xml:id="p002_tr_1_tl_3"/>Es ist so schwer, zu wissen was 
+               <lb xml:id="p002_tr_1_tl_4"/>getan sein muss, u. was nur 
+               <lb xml:id="p002_tr_1_tl_5"/>Zufall ist. Je voudrais écouter 
+               <lb xml:id="p002_tr_1_tl_6"/>le hasard de ma vie. Ou, au 
+               <lb xml:id="p002_tr_1_tl_7"/>moins, de ce que je travaille. 
+               <lb xml:id="p002_tr_1_tl_8"/>Mon Claude, il faudra souvent 
+               <lb xml:id="p002_tr_1_tl_9"/>que tu m'aides. 
+               <lb xml:id="p002_tr_1_tl_10"/>An]emarie</p>
+</div>
+       </body>
+    </text>
+ </TEI>
