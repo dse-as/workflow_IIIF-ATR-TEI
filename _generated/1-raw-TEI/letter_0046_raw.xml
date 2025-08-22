@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0046"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0046</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0046_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0046_001"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587721-BCUL-PREVIEW-426399_0001.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0046_001_tr_1"/>
+            <lb xml:id="letter_0046_001_tr_1_tl_2"/>1er Janvier 35
+<lb xml:id="letter_0046_001_tr_1_tl_3"/>Mon cher ami, je serai à Sils-Baselgia,
+<lb xml:id="letter_0046_001_tr_1_tl_4"/>probablement à partir du 8 Janvier.
+<lb xml:id="letter_0046_001_tr_1_tl_5"/>Je n’aurai pas de chambre dans la
+<lb xml:id="letter_0046_001_tr_1_tl_6"/>maison, écrits-moi donc un mot
+<lb xml:id="letter_0046_001_tr_1_tl_7"/>avant que tu viens – je te louerai alors
+<lb xml:id="letter_0046_001_tr_1_tl_8"/>une chambre bon marchée et près de
+<lb xml:id="letter_0046_001_tr_1_tl_9"/>ma maison. J'espère que tu vas bien,
+<lb xml:id="letter_0046_001_tr_1_tl_10"/>mon Claude – et que je te verrai
+<lb xml:id="letter_0046_001_tr_1_tl_11"/>bientôt.
+<lb xml:id="letter_0046_001_tr_1_tl_12"/>Annemarie<pb xml:id="letter_0046_002"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587721-BCUL-PREVIEW-426399_0002.jpg/info.json"/>
+            <pb xml:id="letter_0046_003"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587721-BCUL-PREVIEW-426399_0003.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0046_003_tr_1"/>
+            <lb xml:id="letter_0046_003_tr_1_tl_6"/>Zürich
+<lb xml:id="letter_0046_003_tr_1_tl_7"/>18–19
+<lb xml:id="letter_0046_003_tr_1_tl_8"/>1935
+<lb xml:id="letter_0046_003_l"/>Monsieur Claude Bourdet
+<lb xml:id="letter_0046_003_tr_1_tl_11"/>Chez Dr. Faucounet
+<lb xml:id="letter_0046_003_tr_1_tl_12"/>4 rue St. Ours
+<lb xml:id="letter_0046_003_tr_1_tl_13"/><PAGE tag="underlined">Genève</PAGE><pb xml:id="letter_0046_004"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587721-BCUL-PREVIEW-426399_0004.jpg/info.json"/>
+         </div>
+      </body>
+   </text>
+</TEI>
