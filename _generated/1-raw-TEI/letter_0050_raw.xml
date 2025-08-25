@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0050"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0050</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0050_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0050_001"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587725-BCUL-PREVIEW-426403_0001.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0050_001_tr_1"/>
+            <lb xml:id="letter_0050_001_tr_1_tl_1"/>N.V.<milestone unit="textregion" xml:id="letter_0050_001_tr_2"/>
+            <lb xml:id="letter_0050_001_tr_2_tl_2"/>Hotel-Central
+<lb xml:id="letter_0050_001_tr_2_tl_3"/>Kruiskade 32 – Rotterdam
+<lb xml:id="letter_0050_001_tr_2_tl_6"/>120 Kamers – Stroomend water
+<lb xml:id="letter_0050_001_tr_2_tl_7"/>Centrale verwarming – Badkamers
+<lb xml:id="letter_0050_001_tr_2_tl_8"/>Garage 200 Auto's
+<lb xml:id="letter_0050_001_tr_2_tl_9"/>Telefoon 26350 (3 lijnen)
+<lb xml:id="letter_0050_001_tr_2_tl_10"/>H. PHILIPSEN
+<lb xml:id="letter_0050_001_l"/>Rotterdam, ...193
+<lb xml:id="letter_0050_001_tr_2_tl_11"/>28 – 3 –35
+<lb xml:id="letter_0050_001_tr_2_tl_12"/>Mon cher Claude –
+<lb xml:id="letter_0050_001_tr_2_tl_13"/>j’arriverai, aulien Dimanche,
+<lb xml:id="letter_0050_001_tr_2_tl_14"/>que <PAGE tag="underlined">Mardi soir</PAGE> (le 2 Avril)
+<lb xml:id="letter_0050_001_tr_2_tl_15"/>et je resterai jusqu'à Mercredi soir.
+<lb xml:id="letter_0050_001_tr_2_tl_16"/>Il semble que ni ma mère
+<lb xml:id="letter_0050_001_tr_2_tl_17"/>ni Margot m’accompagnent à
+<lb xml:id="letter_0050_001_tr_2_tl_18"/>Beyrouth et en Perse.
+<lb xml:id="letter_0050_001_tr_2_tl_19"/>Il faut s'y habituer. En vérité, 
+<lb xml:id="letter_0050_001_tr_2_tl_20"/>je suis affolée.
+<lb xml:id="letter_0050_001_tr_2_tl_21"/>A.<pb xml:id="letter_0050_002"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587725-BCUL-PREVIEW-426403_0002.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0050_002_r"/>
+            <lb xml:id="letter_0050_002_l"/>P.S. Est-ce  demandes, 
+<lb xml:id="letter_0050_002_l_1"/>que tu téléphone à Vera Bocca 
+<lb xml:id="letter_0050_002_l_2"/>Rue Saint-Honoré, que je viendrai
+<lb xml:id="letter_0050_002_l_3"/>pour l'essayage que Mercredi matin 10<PAGE tag="superscript">h</PAGE>
+<lb xml:id="letter_0050_002_l_4"/>et Kuize 111/2 ? Merci –<pb xml:id="letter_0050_003"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587725-BCUL-PREVIEW-426403_0003.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0050_003_tr_1"/>
+            <lb xml:id="letter_0050_003_tr_1_tl_12"/>Monsieur Claude Bourdet
+<lb xml:id="letter_0050_003_tr_1_tl_13"/>47 Av. d' Iena
+<lb xml:id="letter_0050_003_tr_1_tl_14"/>Paris
+<lb xml:id="letter_0050_003_tr_1_tl_15"/>France.<milestone unit="textregion" xml:id="letter_0050_003_tr_2"/>
+            <pb xml:id="letter_0050_004"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587725-BCUL-PREVIEW-426403_0004.jpg/info.json"/>
+         </div>
+      </body>
+   </text>
+</TEI>
