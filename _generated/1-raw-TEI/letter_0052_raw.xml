@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0052"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0052</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0052_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0052_001"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587727-BCUL-PREVIEW-426405_0001.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0052_001_r"/>
+            <lb xml:id="letter_0052_001_tr_1_tl_2"/>Bocken, 14 Avril
+<lb xml:id="letter_0052_001_tr_1_tl_3"/>Mon cher Claude
+<lb xml:id="letter_0052_001_tr_1_tl_4"/>en réfléchissant à ce que tu me dis sur
+<lb xml:id="letter_0052_001_tr_1_tl_5"/><PAGE tag="underlined">l’ascétisme</PAGE> en rapport à ce que tu appelles
+<lb xml:id="letter_0052_001_tr_1_tl_6"/>"Spirit" :
+<lb xml:id="letter_0052_001_tr_1_tl_7"/>1) La faculté propre à "spérit", son rôle principal,
+<lb xml:id="letter_0052_001_tr_1_tl_8"/>presque l’essentiel de “<PAGE tag="underlined">e</PAGE>spirit” et sa condition
+<lb xml:id="letter_0052_001_tr_1_tl_9"/>consiste justement à cette volonté de commettre
+<lb xml:id="letter_0052_001_tr_1_tl_10"/>un <PAGE tag="underlined">acte</PAGE>, donc à vaincre la matière, donc
+<lb xml:id="letter_0052_001_tr_1_tl_11"/><PAGE tag="underlined">dans l’ascétisme.</PAGE>
+<lb xml:id="letter_0052_001_tr_1_tl_12"/>2) Dans ce cas-la, les personnages, qui mettent leur
+<lb xml:id="letter_0052_001_tr_2_tl_1"/>foi dans un mouvement fasciste (par exemple) –
+<lb xml:id="letter_0052_001_tr_2_tl_2"/>se servant de ce même ascétisme – se serve donc
+<lb xml:id="letter_0052_001_tr_2_tl_3"/>de la force essentielle de "spirit" – pour aboutir
+<lb xml:id="letter_0052_001_tr_2_tl_4"/>à un but essentiellement "anti-spirit". 
+<lb xml:id="letter_0052_001_tr_2_tl_5"/>Comment est-ce possible?
+<lb xml:id="letter_0052_001_tr_2_tl_6"/>3) Oder ist "Spirit" nicht eine <PAGE tag="underlined">Kraft</PAGE>, (force motrice)
+<lb xml:id="letter_0052_001_tr_2_tl_7"/>nicht gleichbedeutend mit Askese – sondern
+<lb xml:id="letter_0052_001_tr_2_tl_8"/>ein <PAGE tag="underlined">Ziel,</PAGE> wie das anti-geistige Ziel des Faschismus?<pb xml:id="letter_0052_002"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587727-BCUL-PREVIEW-426405_0002.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0052_002_tr_2"/>
+            <lb xml:id="letter_0052_002_tr_2_tl_1"/><PAGE tag="strikethrough">Du schreibst aber, im Widerspruch dazu:</PAGE>
+<lb xml:id="letter_0052_002_tr_2_tl_2"/><PAGE tag="strikethrough">wir (les clercs) bedienen [untrestrichen]uns des "spirit'</PAGE>
+<lb xml:id="letter_0052_002_tr_2_tl_3"/>4) Jedenfalls: Asketismus, die Kraft, gegen die
+<lb xml:id="letter_0052_002_tr_2_tl_4"/>Trägheit der Materie anzugehen, ist nicht
+<lb xml:id="letter_0052_002_tr_2_tl_5"/>Selbstzweck – sondern soll uns fähig machen,
+<lb xml:id="letter_0052_002_tr_2_tl_6"/>für die Ziele des "spirit."<milestone unit="textregion" xml:id="letter_0052_002_tr_1"/>
+            <lb xml:id="letter_0052_002_tr_1_tl_1"/>Aber: ist "spirit" Selbstzweck? "Il faudrait une
+<lb xml:id="letter_0052_002_tr_1_tl_2"/>armée de Saints pour vaincre le "Hitlerisme"
+<lb xml:id="letter_0052_002_tr_1_tl_3"/>Veux-tu croire, que le Hitlérisme est essentielle¬
+<lb xml:id="letter_0052_002_tr_1_tl_4"/>ment "matérialisme"? Alors, ce serait logique,
+<lb xml:id="letter_0052_002_tr_1_tl_5"/>que par "spirit" on aurait la possibilité de le
+<lb xml:id="letter_0052_002_tr_1_tl_6"/>combattre.
+<lb xml:id="letter_0052_002_tr_1_tl_7"/>et meilleurs
+<lb xml:id="letter_0052_002_tr_1_tl_8"/>Mais, ce qui anime, en grande [et meilleurs] partie, le Hitlérisme,
+<lb xml:id="letter_0052_002_tr_1_tl_9"/>c'est un mysticisme inaccessible.
+<lb xml:id="letter_0052_002_tr_1_tl_10"/>Je comprends, d’une façon générale, et très
+<lb xml:id="letter_0052_002_tr_1_tl_11"/>spécialement en ce moment pour moi,
+<lb xml:id="letter_0052_002_tr_1_tl_12"/>la nécessité de <PAGE tag="underlined">l'acte</PAGE> : la volonté, propre à
+<lb xml:id="letter_0052_002_tr_1_tl_13"/>l'homme, à toi, à moi, – de vaincre la
+<lb xml:id="letter_0052_002_tr_1_tl_14"/>matière. So nehme ich mich jetzt zusamen, gegen
+<lb xml:id="letter_0052_002_tr_1_tl_15"/>eine allgemeine Depression, u. Negation –<pb xml:id="letter_0052_003"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587727-BCUL-PREVIEW-426405_0003.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0052_003_tr_2"/>
+            <lb xml:id="letter_0052_003_tr_2_tl_2"/>– 2 –
+<lb xml:id="letter_0052_003_tr_2_tl_3"/>ohne dafür mehr als die "Notwendigkeit an sich"
+<lb xml:id="letter_0052_003_tr_2_tl_4"/>einzusehen.
+<lb xml:id="letter_0052_003_tr_2_tl_5"/>C’est du <PAGE tag="underlined">courage pur</PAGE> – qui, du reste, me
+<lb xml:id="letter_0052_003_tr_2_tl_6"/>manque souvent. Mais je sais que, en
+<lb xml:id="letter_0052_003_tr_2_tl_7"/>s’efforçant d'être courageux, le
+<lb xml:id="letter_0052_003_tr_2_tl_8"/>courage augmente.<milestone unit="textregion" xml:id="letter_0052_003_tr_1"/>
+            <lb xml:id="letter_0052_003_tr_1_tl_1"/>Je vais bien. J'ai trop peu de nouvelles de
+<lb xml:id="letter_0052_003_tr_1_tl_2"/>Margot, j'en souffre. Je partirai Mardi,
+<lb xml:id="letter_0052_003_tr_1_tl_3"/><PAGE tag="strikethrough">Et toi</PAGE> Maman m’accompagnera jusqu à Trieste.
+<lb xml:id="letter_0052_003_tr_1_tl_4"/>23 Avril: Beyrouth, Hôtel St. Georges.
+<lb xml:id="letter_0052_003_tr_1_tl_5"/>Et toi –
+<lb xml:id="letter_0052_003_tr_1_tl_6"/>Mille bons voeux, mon Claude. Mille choses
+<lb xml:id="letter_0052_003_tr_1_tl_7"/>pour salce.
+<lb xml:id="letter_0052_003_tr_1_tl_8"/>Anemarie<pb xml:id="letter_0052_004"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587727-BCUL-PREVIEW-426405_0004.jpg/info.json"/>
+            <pb xml:id="letter_0052_005"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587727-BCUL-PREVIEW-426405_0005.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0052_005_tr_1"/>
+            <lb xml:id="letter_0052_005_tr_1_tl_4"/>15.IV.35 15
+<lb xml:id="letter_0052_005_tr_1_tl_7"/>Monsieur Claude Bourdet
+<lb xml:id="letter_0052_005_tr_1_tl_8"/>47 Av. d'Iena
+<lb xml:id="letter_0052_005_tr_1_tl_9"/><PAGE tag="underlined">Paris</PAGE>
+<lb xml:id="letter_0052_005_tr_1_tl_10"/>France<pb xml:id="letter_0052_006"
+                facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587727-BCUL-PREVIEW-426405_0006.jpg/info.json"/>
+         </div>
+      </body>
+   </text>
+</TEI>
