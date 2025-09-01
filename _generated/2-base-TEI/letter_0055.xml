@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0055" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0055#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0055</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0055_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587730-BCUL-PREVIEW-426408_0001.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_2_tl_2"/>Bocken, 7 Nov. 35 
+               <lb xml:id="p001_tr_2_tl_3"/>Mon cher vieux Claude – 
+               <lb xml:id="p001_tr_2_tl_4"/>Je viens d'arriver. Et, une fois en Europe, je t'aurai 
+               <lb xml:id="p001_tr_2_tl_5"/>écrit, en tout cas, et bientôt. À Teheran les 
+               <lb xml:id="p001_tr_2_tl_6"/>derniers mois étaient trop pénibles, et j'avais 
+               <lb xml:id="p001_tr_2_tl_7"/>peur de fixer une situation, surtout de la 
+               <lb xml:id="p001_tr_2_tl_8"/>juger, d'une façon trop importante et trop peu 
+               <lb xml:id="p001_tr_2_tl_9"/>provisoire. Tout là-bas était provisoire excepté 
+               <lb xml:id="p001_tr_2_tl_10"/>la personne – même de Claude. Et le provi 
+               <lb xml:id="p001_tr_2_tl_11" break="no"/>soire, pendant que c'était en même temps 
+               <lb xml:id="p001_tr_1_tl_1"/>aventure, (voyage, expédition, vie d'archéologue) 
+               <lb xml:id="p001_tr_1_tl_2"/>était supportable – mais mélangé au milieu 
+               <lb xml:id="p001_tr_1_tl_3"/>diplomatique je le détestais. Je détestais 
+               <lb xml:id="p001_tr_1_tl_4"/>surtout de passer mon temps avec des gens 
+               <lb xml:id="p001_tr_1_tl_5"/>que je n'avais pas choisis et que je ne voulais 
+               <lb xml:id="p001_tr_1_tl_6"/>pas du tout voir. Je voulais, que Claude 
+               <lb xml:id="p001_tr_1_tl_7"/>aussi reserve le mieux en nous à une 
+               <lb xml:id="p001_tr_1_tl_8"/>vu ou un but "absolu" qui n'existe pas pour 
+               <lb xml:id="p001_tr_1_tl_9"/>lui. 
+               <lb xml:id="p001_tr_1_tl_10"/>Je vois qu'il faudra faire des concessions 
+               <lb xml:id="p001_tr_1_tl_11"/>pour gagner un camarade, – mais qu'il 
+               <lb xml:id="p001_tr_1_tl_12"/>faudra aussi "make up my mind " à ce 
+               <lb xml:id="p001_tr_1_tl_13"/>qui concerne ma propre vie avec ses</p>
+
+            <pb xml:id="p002" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587730-BCUL-PREVIEW-426408_0002.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p002_r_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l"/>Je ne voudrais pas personellement, 
+               <lb xml:id="p002_l_1"/>redemander l'argent à Maud –</p>
+
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>nécessites – 
+               <lb xml:id="p002_tr_1_tl_2"/>Pourquoi veux-tu faire un stage comme 
+               <lb xml:id="p002_tr_1_tl_3"/>simple ouvrier? C'est quelle carrière 
+               <lb xml:id="p002_tr_1_tl_4"/>que tu commence ainsi? Est-ce-que tu 
+               <lb xml:id="p002_tr_1_tl_5"/>pourras rester à Paris, Av. d'Iena, avec 
+               <lb xml:id="p002_tr_1_tl_6"/>Ida? Concernés-tu le travail intellectuel 
+               <lb xml:id="p002_tr_1_tl_7"/>comme "vacances", comme luxe personnel? 
+               <lb xml:id="p002_tr_1_tl_8"/>C'est là – l'idée de contentement personnel – 
+               <lb xml:id="p002_tr_1_tl_9"/>ce que Claude en fait. Pour moi, c'est 
+               <lb xml:id="p002_tr_1_tl_10"/>toujours plus essentiel – et mon état [actuel], très 
+               <lb xml:id="p002_tr_1_tl_11"/>maladif actuel me semble grave, parceque 
+               <lb xml:id="p002_tr_1_tl_12"/>je n'ai plus mes meilleures forces à 
+               <lb xml:id="p002_tr_1_tl_13"/>ma disposition. 
+               <lb xml:id="p002_tr_1_tl_14"/>Mais je vais me guérir. Je passerai les 3 add semaines 
+               <lb xml:id="p002_tr_1_tl_15"/>prochaines au "Neumünster-Kranhenhaus 
+               <lb xml:id="p002_tr_2_tl_1"/>à Zürich. 
+               <lb xml:id="p002_tr_2_tl_2"/>À propos des 300 frs. suisses: 
+               <lb xml:id="p002_tr_2_tl_3"/>Je t'en prie, écrits tout-de-suite un mot à 
+               <lb xml:id="p002_tr_2_tl_6"/>Maud Thyssen, Halmstrasse 10, <hi rendition="#u">Berlin-Charlottenburg</hi> 
+               <lb xml:id="p002_tr_2_tl_7"/>pour qu'elle renouvelle le check – et essaye 
+               <lb xml:id="p002_tr_2_tl_8"/>d'obtenir l'argent aussi vite que possible. 
+               <lb xml:id="p002_tr_2_tl_9"/>Ich habe nämlich das Geld dem 
+               <lb xml:id="p002_tr_2_tl_11"/>Empfänger geliehen. brauche es selbst aber 
+               <lb xml:id="p002_tr_2_tl_12"/>ziemlich nötig – Schicke es also bitte 
+               <lb xml:id="p002_tr_2_tl_13"/>an mich.</p>
+
+            <pb xml:id="p003" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587730-BCUL-PREVIEW-426408_0003.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_2"/>– 2 – 
+               <lb xml:id="p003_tr_1_tl_3"/>Ich bin nach Berlin gefahren, um mich 
+               <lb xml:id="p003_tr_1_tl_4"/>eben um Maud T. zu küm]ern – es war 
+               <lb xml:id="p003_tr_1_tl_5"/>sehr notwendig, obwohl es ihr – körperlich – 
+               <lb xml:id="p003_tr_1_tl_6"/>sehr viel besser geht als man erwarten 
+               <lb xml:id="p003_tr_1_tl_7"/>durfte. 
+               <lb xml:id="p003_tr_1_tl_8"/>Je cherche un éditeur pour mon livre. 
+               <lb xml:id="p003_tr_1_tl_9"/>Noël, je me décide si je veux le donner 
+               <lb xml:id="p003_tr_1_tl_10"/>à Querido. 
+               <lb xml:id="p003_tr_1_tl_11"/>Bien des choses à Ida. À toi, mon 
+               <lb xml:id="p003_tr_1_tl_12"/>chéri. Il ne faut jamais penser 
+               <lb xml:id="p003_tr_1_tl_13"/>que je t'en veux de quoi que ce 
+               <lb xml:id="p003_tr_1_tl_14"/>soit, où que je t'éloigne de 
+               <lb xml:id="p003_tr_1_tl_15"/>ma conscience. Je t'aime beaucoup –</p>
+
+            <milestone unit="textregion" xml:id="p003_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_2_tl_1"/>An[emarie 
+               <lb xml:id="p003_tr_2_tl_2"/>P.S. Claude viendra, si ton oncle le permet, 
+               <lb xml:id="p003_tr_2_tl_3"/>en Mars pour son congé. Tout le reste 
+               <lb xml:id="p003_tr_2_tl_4"/>est encore dans le noir.</p>
+
+            <pb xml:id="p004" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587730-BCUL-PREVIEW-426408_0004.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_l"/>Je serais heureuse de 
+               <lb xml:id="p004_tr_1_tl_3"/>lire les poèmes de 
+               <lb xml:id="p004_tr_1_tl_4"/>ta mère. –</p>
+
+            <pb xml:id="p005" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587730-BCUL-PREVIEW-426408_0005.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p005_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p005_tr_1_tl_2"/>Monsieur Claude Bourdet 
+               <lb xml:id="p005_tr_1_tl_3"/>47, Av. d' Iéna 
+               <lb xml:id="p005_tr_1_tl_4"/><hi rendition="#u">Paris</hi></p>
+
+            <pb xml:id="p006" facs="https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587730-BCUL-PREVIEW-426408_0006.jpg/info.json"/></div>
+       </body>
+    </text>
+ </TEI>
