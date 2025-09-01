@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0123" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0123#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0123</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0123"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0123_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0123_001.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_tl_1"/>SILONE: FONTAMARA 
+               <lb xml:id="p001_r_tl_2"/>(Verlag Oprecht &amp; Helbling, Zürich)</p>
+            <p> 
+               <lb xml:id="p001_r_tl_3"/><hi rendition="#g">Was sollen wir tun?</hi> – so 
+               <lb xml:id="p001_r_tl_4"/>endet die Geschichte von Fontamara, 
+               <lb xml:id="p001_r_tl_5"/>und wer die ungezogene Gewohnheit 
+               <lb xml:id="p001_r_tl_6"/>hat, sich aus den letzten Sätzen eines 
+               <lb xml:id="p001_r_tl_7"/>Buches eine flüchtige Lösung und Be- 
+               <lb xml:id="p001_r_tl_8"/>ruhigung vorwegzunehmen, der erfährt 
+               <lb xml:id="p001_r_tl_9"/>hier, ganz im Gegenteil, die aufrühre 
+               <lb xml:id="p001_r_tl_10" break="no"/>rische Anklage, die wortarme, bittere 
+               <lb xml:id="p001_r_tl_11"/>und hilflose Formel der Leute aus 
+               <lb xml:id="p001_r_tl_12"/>Fontamara: Was sollen wir tun?</p>
+            <p> 
+               <lb xml:id="p001_r_tl_13"/>Wer sind sie, fragen wir uns, wer ist 
+               <lb xml:id="p001_r_tl_14"/>der Autor, wo liegt Fontamara? Der 
+               <lb xml:id="p001_r_tl_15"/>Autor antwortet uns, macht sich zum 
+               <lb xml:id="p001_r_tl_16"/>Fürsprecher seiner Leute, deren Armut 
+               <lb xml:id="p001_l"/>er zwanzig Jahre lang gekannt hat. Er 
+               <lb xml:id="p001_r_tl_19"/>könnte anklagen, wohldurchdachte The 
+               <lb xml:id="p001_r_tl_20" break="no"/>sen aufstellen, herausfordern, entlar 
+               <lb xml:id="p001_r_tl_21" break="no"/>ven – statt dessen schenkt er uns ein 
+               <lb xml:id="p001_r_tl_22"/>Kunstwerk, schlichte Erzählung: seine 
+               <lb xml:id="p001_r_tl_23"/>eigene, die eines armen Mannes, seiner 
+               <lb xml:id="p001_r_tl_24"/>Frau, seines Sohnes. Sie sind Cafoni 
+               <lb xml:id="p001_r_tl_25"/>– die ärmsten unter den Landarbei- 
+               <lb xml:id="p001_r_tl_26"/>tern – sie leben in Fontamara, einem 
+               <lb xml:id="p001_r_tl_27"/>Dorf unter tausend gleichen Dörfern 
+               <lb xml:id="p001_r_tl_28"/>irgendwo im südlichen Italien. Bauern, 
+               <lb xml:id="p001_r_tl_29"/>jahrein im Kampf mit den Elementen, 
+               <lb xml:id="p001_r_tl_30"/>ihr Leben so einfach, so elementar sei 
+               <lb xml:id="p001_r_tl_31" break="no"/>ne Forderungen, seine Leiden, seine 
+               <lb xml:id="p001_r_tl_32"/>Notwendigkeiten, dass daraus ein Epos 
+               <lb xml:id="p001_r_tl_33"/>wird. Nichts ist dazu notwendig als 
+               <lb xml:id="p001_r_tl_34"/>"das Wort, welches Fleisch geworden 
+               <lb xml:id="p001_r_tl_35"/>ist"– das Wort eines Dichters, <hi rendition="#g">Silone</hi>. 
+               <lb xml:id="p001_r_tl_36"/>Aber aus diesem Epos von allgemeiner 
+               <lb xml:id="p001_r_tl_37"/>Gültigkeit wird ein menschliches Do 
+               <lb xml:id="p001_r_tl_38" break="no"/>kument von besonderer, heute und 
+               <lb xml:id="p001_r_tl_39"/>morgen gültiger Tragweite.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_40"/>Vieles können die Fontamareser nicht 
+               <lb xml:id="p001_r_tl_41"/>verstehen – dass man ihre Felder, ihre 
+               <lb xml:id="p001_r_tl_42"/>Reben, ihre Ölbäume zu Grunde rich- 
+               <lb xml:id="p001_r_tl_43"/>ten darf durch die hohe Temperatur 
+               <lb xml:id="p001_r_tl_44"/>die seit der Austrocknung des Sees 
+               <lb xml:id="p001_r_tl_45"/>herrscht, die Produkte vom reichen Bo 
+               <lb xml:id="p001_r_tl_46" break="no"/>den des Fucio aber gehen in die Stadt 
+               <lb xml:id="p001_r_tl_47"/>und ihr Gewinn gehört dem Prinzen
+               <milestone unit="textregion" xml:id="p001_r_2"/> 
+               <lb xml:id="p001_r_2_tl_1"/>Tolonia, nicht den Cafoni; dass die 
+               <lb xml:id="p001_r_2_tl_2"/>Obrigkeit es gut mit ihnen meinen soll 
+               <lb xml:id="p001_r_2_tl_3"/>und doch das Wasser von ihren Äckern 
+               <lb xml:id="p001_r_2_tl_4"/>auf die Felder des Impresario leitet; 
+               <lb xml:id="p001_r_2_tl_5"/>dass es Gerechtigkeit heisst, wenn man 
+               <lb xml:id="p001_r_2_tl_6"/>ihre Klagen von Instanz zu Instanz 
+               <lb xml:id="p001_r_2_tl_7"/>schiebt und schliesslich als abgewiesen 
+               <lb xml:id="p001_r_2_tl_8"/>erklärt, dass man, um zu arbeiten, 
+               <lb xml:id="p001_r_2_tl_9"/>einen Ausweis braucht und dafür be 
+               <lb xml:id="p001_r_2_tl_10" break="no"/>zahlen muss; dass der Bote der Obri 
+               <lb xml:id="p001_r_2_tl_11" break="no"/>keit ihnen fortwährend mit Gesetzen, 
+               <lb xml:id="p001_r_2_tl_12"/>Steuern und Strafen droht. (Wir dach- 
+               <lb xml:id="p001_r_2_tl_13"/>ten: rede nur, rede, schliesslich wirst 
+               <lb xml:id="p001_r_2_tl_14"/>Du schon aufhören, einmal musst Du 
+               <lb xml:id="p001_r_2_tl_15"/>ja aufhören. Aber er redete weiter. Er 
+               <lb xml:id="p001_r_2_tl_16"/>hörte nicht auf). Dies alles verstehen 
+               <lb xml:id="p001_r_2_tl_17"/>die armen Leute aus Fontamara nicht, 
+               <lb xml:id="p001_r_2_tl_18"/>aber sie verstehen dass sie immer är 
+               <lb xml:id="p001_r_2_tl_19" break="no"/>mer werden, und dass man nichts da 
+               <lb xml:id="p001_r_2_tl_20" break="no"/>gegen tun kann, weil die Gewalt der 
+               <lb xml:id="p001_r_2_tl_22"/>fascistischen Miliz grösser ist als die 
+               <lb xml:id="p001_r_2_tl_23"/>Macht und Gerechtigkeit Gottes.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_24"/>Wir aber erfahren–und zum ersten Mal 
+               <lb xml:id="p001_r_2_tl_25"/>in dieser Eindringlichkeit – dass es in 
+               <lb xml:id="p001_r_2_tl_26"/>Italien noch andere Dinge gibt als Rom, 
+               <lb xml:id="p001_r_2_tl_27"/>Ballila[faschistische Jugendorganisation - Körperschaft], Ozeanflug – wir tun einen Blick 
+               <lb xml:id="p001_r_2_tl_28"/>hinter die Spiegel des Erfolgs, hinter 
+               <lb xml:id="p001_r_2_tl_29"/>die glänzenden Wände des fascistischen 
+               <lb xml:id="p001_r_2_tl_30"/>Regimes, zu den Armen und Gedrück 
+               <lb xml:id="p001_r_2_tl_31" break="no"/>ten, die auch heute arm und gedrückt 
+               <lb xml:id="p001_r_2_tl_32"/>sind, zu den Rechtlosen die auch heute 
+               <lb xml:id="p001_r_2_tl_33"/>entrechtet und hilflos sind – ja, gera 
+               <lb xml:id="p001_r_2_tl_34" break="no"/>de heute: denn als sie sich zu erheben 
+               <lb xml:id="p001_l_2"/>versuchen (gegen wen? gegen die 
+               <lb xml:id="p001_r_2_tl_39"/>"Obrigkeit"? oder gegen ihr unver 
+               <lb xml:id="p001_r_2_tl_40" break="no"/>schuldetes Elend?) – als sie, Urtrieben 
+               <lb xml:id="p001_r_2_tl_41"/>und einfacher Vernunft gehorchend, 
+               <lb xml:id="p001_r_2_tl_42"/>sich aus ihrer Not befreien wollen, da 
+               <lb xml:id="p001_r_2_tl_43"/>kommt über sie der Krieg.... [corr: ...] Krieg, fra 
+               <lb xml:id="p001_l_1" break="no"/>gen sie, warum Krieg ? – Niemand ant 
+               <lb xml:id="p001_r_2_tl_46" break="no"/>wortet ihnen, aber viele unter ihnen 
+               <lb xml:id="p001_r_2_tl_47"/>werden erschossen, alle werden zer 
+               <lb xml:id="p001_r_2_tl_48" break="no"/>streut, sind verbannt, verfolgt, preis 
+               <lb xml:id="p001_r_2_tl_50" break="no"/>gegeben, verloren. Nun gilt ihre bange 
+               <lb xml:id="p001_r_2_tl_51"/>Frage nicht mehr Einzelnen – dem 
+               <lb xml:id="p001_r_2_tl_52"/>Priester, dem Prinzen Tolonia, dem Bo- 
+               <lb xml:id="p001_r_2_tl_53"/>ten der Obrigkeit, dem Mitbürger – 
+               <lb xml:id="p001_r_2_tl_54"/>"<hi rendition="#g">Was sollen wir tun</hi>?" fra 
+               <lb xml:id="p001_r_2_tl_55" break="no"/>gen die armen Leute von Fontamara[.] 
+               <lb xml:id="p001_r_2_tl_56"/>Wann wird das Gewissen der Welt 
+               <lb xml:id="p001_r_2_tl_57"/>ihnen antworten?</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_58"/>ANNEMARIE SCHWARZENBACH</p>
+</div>
+       </body>
+    </text>
+ </TEI>
