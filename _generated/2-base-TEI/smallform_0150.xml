@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0150" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0150#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0150</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0150"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0150_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211935_011%21zui-001_1935_011_0555.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l"/>Gelernte und ungelernte Schatzgräber</p>
+
+            <milestone unit="textregion" xml:id="p001_r_3"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_3_tl_1"/>Aufnahmen von einer archäologischen Grabungs 
+               <lb xml:id="p001_r_3_tl_2" break="no"/>stelle in Iran von Dr. Annemarie Schwarzenbach</p>
+
+            <milestone unit="textregion" xml:id="p001_r_68"/>            <p> 
+               <lb xml:id="p001_r_68_tl_1"/>Mit Goldsuchen und 
+               <lb xml:id="p001_r_68_tl_2"/>Schatzgräberei hat 
+               <lb xml:id="p001_r_68_tl_3"/>die moderne ar 
+               <lb xml:id="p001_r_68_tl_4" break="no"/>chäologische Tätigkeit des 
+               <lb xml:id="p001_r_68_tl_5"/>Ausgrabens noch vieles ge 
+               <lb xml:id="p001_r_68_tl_6" break="no"/>meinsam. Der strenge Wis 
+               <lb xml:id="p001_r_68_tl_7" break="no"/>senschaftler allerdings stellt 
+               <lb xml:id="p001_r_68_tl_8"/>das in Abrede: nicht der 
+               <lb xml:id="p001_r_68_tl_9"/>Funde wegen gräbt er, nicht 
+               <lb xml:id="p001_r_68_tl_10"/>des Goldes der Königsgräber 
+               <lb xml:id="p001_r_68_tl_11"/>von Ur, nicht der köstlichen 
+               <lb xml:id="p001_r_68_tl_12"/>Fayencen von Samarra we 
+               <lb xml:id="p001_r_68_tl_13" break="no"/>gen – sondern um der Re 
+               <lb xml:id="p001_r_68_tl_14" break="no"/>sultate, der Kulturgeschichte, 
+               <lb xml:id="p001_r_68_tl_15"/>der reinen Forschung willen. 
+               <lb xml:id="p001_r_68_tl_16"/>Damit tröstet sich wohl auch 
+               <lb xml:id="p001_r_68_tl_17"/>mancher Expeditionsleiter, 
+               <lb xml:id="p001_r_68_tl_18"/>der nach mühevoller Gra 
+               <lb xml:id="p001_r_68_tl_19" break="no"/>bungskampagne in Wüsten 
+               <lb xml:id="p001_r_68_tl_20" break="no"/>staub oder öder Hochebe 
+               <lb xml:id="p001_r_68_tl_21" break="no"/>nenlandschaft die Hälfte seiner Funde der Regierung von 
+               <lb xml:id="p001_r_68_tl_22"/>Syrien, Irak oder Persien überlassen muß und nur Photo 
+               <lb xml:id="p001_r_68_tl_23" break="no"/>graphien, Pläne und wissenschaftliche Berichte davon 
+               <lb xml:id="p001_r_68_tl_24"/>nach Hause bringt.</p>
+            <p> 
+               <lb xml:id="p001_r_68_tl_25"/>Er <hi rendition="#g">tröstet</hi> sich damit; denn in Wirklichkeit – mag 
+               <lb xml:id="p001_r_68_tl_26"/>es auch einige reine Idealisten unter ihnen geben – sind 
+               <lb xml:id="p001_r_68_tl_27"/>doch die Ausgräber eine Gilde mit viel Abenteurer- und 
+               <lb xml:id="p001_r_68_tl_28"/>Schatzgräber-Blut! Und nicht nur die Ausgräber, son 
+               <lb xml:id="p001_r_68_tl_29" break="no"/>dern auch die Daheimgebliebenen, die eine Expedition 
+               <lb xml:id="p001_r_68_tl_30"/>ins Leben rufen und finanzieren, sind, das versteht sich, 
+               <lb xml:id="p001_r_68_tl_31"/>nicht ganz uninteressiert: Denn, so fragen wir uns, <hi rendition="#g">wer</hi> 
+               <lb xml:id="p001_r_68_tl_32"/>zahlt solche archäologische Expeditionen, die doch 
+               <lb xml:id="p001_r_68_tl_33"/>enorme Summen verschlingen, und zu welchem Zweck 
+               <lb xml:id="p001_r_68_tl_34"/>tut er es?</p>
+            <p> 
+               <lb xml:id="p001_r_68_tl_35"/>Eine Ausgrabung wird fast immer von einem Museum 
+               <lb xml:id="p001_r_68_tl_36"/>oder einem archäologischen Universitäts-Institut bezahlt. 
+               <lb xml:id="p001_r_68_tl_37"/>Im ersteren Falle kommt es natürlich vor allem auf die 
+               <lb xml:id="p001_r_68_tl_38"/>Funde an, die das Museum bereichern und das angelegte 
+               <lb xml:id="p001_r_68_tl_39"/>Kapital gewissermaßen verzinsen sollen. Gleichzeitig 
+               <lb xml:id="p001_r_68_tl_40"/>wird dem Leiter der Ausgrabung Gelegenheit geboten 
+               <lb xml:id="p001_r_68_tl_41"/>einen Bericht zu publizieren und sich einen wissenchaft 
+               <lb xml:id="p001_r_68_tl_42" break="no"/>lichen Namen zu machen. Ist es ein wissenschaftliches 
+               <lb xml:id="p001_r_68_tl_43"/>Institut, welches die Expedition ausschickt, so dienen so 
+               <lb xml:id="p001_r_68_tl_44"/>wohl die Fundgegenstände wie die gewonnenen wissen 
+               <lb xml:id="p001_r_68_tl_45" break="no"/>schaftlichen Informationen zum Ruhm und Ansehen 
+               <lb xml:id="p001_r_68_tl_46"/>dieses Institutes. Früher hat man mit verhältnismäßig 
+               <lb xml:id="p001_r_68_tl_47"/>geringen Geldmitteln Ausgrabungen gemacht, die For 
+               <lb xml:id="p001_r_68_tl_48" break="no"/>scher lebten oft unter großen Entbehrungen, und außer
+               <milestone unit="textregion" xml:id="p001_r_2"/> 
+               <lb xml:id="p001_r_2_tl_1"/>einem engen Kreis der Fachwissenschaft interessiert sich 
+               <lb xml:id="p001_r_2_tl_2"/>die Welt wenig für die Resultate. <hi rendition="#g">Amerika</hi>, mit 
+               <lb xml:id="p001_r_2_tl_3"/>seinem Sinn für Propaganda und "Publicity" hat hierin 
+               <lb xml:id="p001_r_2_tl_4"/>eine Wendung herbeigeführt. Bei der Konkurrenz der 
+               <lb xml:id="p001_r_2_tl_5"/>Universitäten, Museen und Institute kommt es ebenso 
+               <lb xml:id="p001_r_2_tl_6"/>sehr wie auf glänzende Professoren von internationa 
+               <lb xml:id="p001_r_2_tl_7" break="no"/>lem Ruf auch auf Reichtum, glänzende äußere Auf 
+               <lb xml:id="p001_r_2_tl_8" break="no"/>machung, sichtbare Resultate an. Riesige Summen 
+               <lb xml:id="p001_r_2_tl_9"/>wurden aufgebracht, um Expeditionen auszurüsten,
+               <milestone unit="textregion" xml:id="p001_r_1"/> 
+               <lb xml:id="p001_r_1_tl_1"/>und diese Expeditionen, so hoffte man, sollten riesige 
+               <lb xml:id="p001_r_1_tl_2"/>Tempel, Paläste, goldenen Schmuck und Königsstatuen 
+               <lb xml:id="p001_r_1_tl_3"/>finden: das Grab Tut-ench-Amons, die Königsgräber 
+               <lb xml:id="p001_r_1_tl_4"/>von Ur, und die Paläste von Persepolis machten die 
+               <lb xml:id="p001_r_1_tl_5"/>Archäologie populär, heute ist in Amerika dafür ein 
+               <lb xml:id="p001_r_1_tl_6"/>ähnliches Interesse vorhanden wie für Fußball und 
+               <lb xml:id="p001_r_1_tl_7"/>Ozeanflüge. Es ist Mode geworden, daß Industriekönige 
+               <lb xml:id="p001_r_1_tl_8"/>und deren Witwen wissenschaftlichen Instituten große 
+               <lb xml:id="p001_r_1_tl_9"/>Summen schenken, um dann als Gönner das Patronat
+               <milestone unit="textregion" xml:id="p001_r_181"/> 
+               <lb xml:id="p001_r_181_tl_1"/>einer Expedition zu übernehmen. In Extraflugzeugen besuchen sie 
+               <lb xml:id="p001_r_181_tl_2"/>die Ausgrabungen, und in den Museen, wo die Funde untergebracht 
+               <lb xml:id="p001_r_181_tl_3"/>werden, kleben ihre Namen an den Glaskästen.</p>
+            <p> 
+               <lb xml:id="p001_r_181_tl_4"/>Es gibt Archäologen, die sich über diesen modischen Unfug be 
+               <lb xml:id="p001_r_181_tl_5" break="no"/>klagen, und mit einigem Recht: manche Institute publizieren Jahres 
+               <lb xml:id="p001_r_181_tl_6" break="no"/>berichte, worin die Abbildungen der modern ausgestatteten Expedi 
+               <lb xml:id="p001_r_181_tl_7" break="no"/>tionshäuser mehr Raum einnehmen als der eigentliche wissenschaft 
+               <lb xml:id="p001_r_181_tl_8" break="no"/>liche Bericht. Aber man muß auch bedenken: dieser Kompromiß
+               <milestone unit="textregion" xml:id="p001_r_12"/> 
+               <lb xml:id="p001_r_12_tl_1"/>zwischen materiellem und wissenschaftlichem Interesse 
+               <lb xml:id="p001_r_12_tl_2"/>ist notwendig auf einem Gebiet, welches ohne mate 
+               <lb xml:id="p001_r_12_tl_3" break="no"/>rielle Unterstützung zum Tode verurteilt wäre. Selbst 
+               <lb xml:id="p001_r_12_tl_4"/>der beste Forscher kann nichts erreichen, wenn er kein 
+               <lb xml:id="p001_r_12_tl_5"/>Geld hat, um Arbeiter, Instrumente und das Material 
+               <lb xml:id="p001_r_12_tl_6"/>von Schaufeln und Pickeln bis zu Kisten und Papier 
+               <lb xml:id="p001_r_12_tl_7" break="no"/>säcken zu bezahlen – dazu die Konzession, die vom 
+               <lb xml:id="p001_r_12_tl_8"/>Staat bezogen wird, das Land, das den Eigentümern ab 
+               <lb xml:id="p001_r_12_tl_9" break="no"/>gekauft werden muß: ein kleines Vermögen steckt in 
+               <lb xml:id="p001_r_12_tl_10"/>einer solchen Ausgrabung!</p>
+            <p> 
+               <lb xml:id="p001_r_12_tl_11"/>Und das "Camp" ist wie ein eigenes Staatswesen or 
+               <lb xml:id="p001_r_12_tl_12" break="no"/>ganisiert: der Expeditionsleiter und die Assistenten bil 
+               <lb xml:id="p001_r_12_tl_13" break="no"/>den die Regierung, eigene Handwerker, Schreiner, Bau 
+               <lb xml:id="p001_r_12_tl_14" break="no"/>meister, Koch, Nachtwächter, Chauffeure sind vorhan 
+               <lb xml:id="p001_r_12_tl_15" break="no"/>den, dazu die Masse der Arbeiter, deren Zahl je nach 
+               <lb xml:id="p001_r_12_tl_16"/>Größe und Reichtum der Grabung von 25 bis 400 va 
+               <lb xml:id="p001_r_12_tl_17" break="no"/>riiert. Unter ihnen gibt es wieder Abstufungen, die 
+               <lb xml:id="p001_r_12_tl_18"/>sich im Lohn ausdrücken: Gelernte und Ungelernte, 
+               <lb xml:id="p001_r_12_tl_19"/>Spezialisten und gewöhnliche "Korbträger", alte, er 
+               <lb xml:id="p001_r_12_tl_20" break="no"/>fahrene Leute, die schon manche Grabungskampagne 
+               <lb xml:id="p001_r_12_tl_21"/>mitgemacht haben, und Neulinge, die eine zerfallene 
+               <lb xml:id="p001_r_12_tl_22"/>Lehmmauer nicht von gewöhnlichem Lehmboden un 
+               <lb xml:id="p001_r_12_tl_23" break="no"/>terscheiden können. Sie alle zusammen bilden eben die 
+               <lb xml:id="p001_r_12_tl_24"/>typische "Expedition", deren Leben, obwohl es nicht 
+               <lb xml:id="p001_r_12_tl_25"/>immer so romantisch ist wie der Laie sich das vorstellt, 
+               <lb xml:id="p001_r_12_tl_26"/>doch eine eigenartige Anziehungskraft ausübt: Wer 
+               <lb xml:id="p001_r_12_tl_27"/>einmal "draußen" war, wird trotz Entbehrung und 
+               <lb xml:id="p001_r_12_tl_28"/>Einsamkeit immer wieder in den Bereich der Ausgräber 
+               <lb xml:id="p001_r_12_tl_29"/>zurückkehren.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_13"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_41"/>Schaufelarbeiter mit europäicher Kleidung</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_18"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_18_tl_1"/>Ein tüchtiger Schaufelarbeiter. Er trägt, wie die 
+               <lb xml:id="p001_r_18_tl_2"/>persische Regierung es vorschreibt, europäische 
+               <lb xml:id="p001_r_18_tl_3"/>Kleidung, aber er krempelt die Hose hoch – 
+               <lb xml:id="p001_r_18_tl_4"/>immer nur e in Hosenbein übrigens –, um bei 
+               <lb xml:id="p001_r_18_tl_5"/>den wuchtigen Bewegungen des Schaufelns nicht 
+               <lb xml:id="p001_r_18_tl_6"/>behindert zu sein.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_24"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_46"/>Junger Arbeiter aus dem Süden</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_30"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_30_tl_1"/>Dieser junge Arbeiter stammt aus dem Süden, seine 
+               <lb xml:id="p001_r_30_tl_2"/>dunklere Hautfarbe verrät es. Das Gesicht hat fast 
+               <lb xml:id="p001_r_30_tl_3"/>negroide Züge. Er ist einer unserer Sänger. Im 
+               <lb xml:id="p001_r_30_tl_4"/>Rhythmus der Arbeit singt er gerne einen eintöni 
+               <lb xml:id="p001_r_30_tl_5" break="no"/> gen Vers, den die anderen Arbeiter im Chor erwidern[Die Beschreibung verknüpft weitverbreitete Stereotype über Afrikaner:innen und projiziert sie auf den jungen, vermutlich iranischen Arbeiter].</p>
+
+            <milestone unit="textregion" xml:id="p001_r_108"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_20"/>Ungelernter Arbeiter</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_6"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_6_tl_1"/>Ein ungelernter Arbeiter: er hat 
+               <lb xml:id="p001_r_6_tl_2"/>nichts zu tun, als aus einer ver 
+               <lb xml:id="p001_r_6_tl_3" break="no"/>schütteten Abfallgrube, die sein 
+               <lb xml:id="p001_r_6_tl_4"/>Kollege aushebt, den Korb voll 
+               <lb xml:id="p001_r_6_tl_5"/>Erde emporzuhissen. Er benützt 
+               <lb xml:id="p001_r_6_tl_6"/>dazu das primitive Instrument, 
+               <lb xml:id="p001_r_6_tl_7"/>das die persischen Bauern zum 
+               <lb xml:id="p001_r_6_tl_8"/>Ausheben ihrer Kanallöcher seit 
+               <lb xml:id="p001_r_6_tl_9"/>Jahrhunderten verwendet haben.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_159"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_28"/>Totalansicht der Grabung</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_164"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_164_tl_1"/>So sieht eine Grabung aus: die weißen Seile dienen zur Einteilung in Felder von beispielsweise 
+               <lb xml:id="p001_r_164_tl_2"/>je zehn Quadratmeter, die im Plan mit Buchstaben oder Zahlen bezeichnet werden. Im Hinter 
+               <lb xml:id="p001_r_164_tl_3" break="no"/>grund sieht man ein Stück einer alten Lehmmauer. Die Grabung ist aber bereits bei einem 
+               <lb xml:id="p001_r_164_tl_4"/>tieferen Niveau, d. h. bei einer älteren "Schicht" angelangt, die Mauergrundrisse der Gebäude, 
+               <lb xml:id="p001_r_164_tl_5"/>die man jetzt freilegt, liegen unter dem heutigen Erdboden wie Kellerräume. Ueber ihnen lag 
+               <lb xml:id="p001_r_164_tl_6"/>der Schutt jüngerer Gebäude, der Staub der Jahrhunderte. – Links steht ein Vermessungs 
+               <lb xml:id="p001_r_164_tl_7" break="no"/>instrument. Das Zelt im Hintergrund dient den Ausgräbern nicht etwa als Wohnung, sondern 
+               <lb xml:id="p001_r_164_tl_8"/>man bewahrt dort die Instrumente und Pläne auf, frühstückt im Schatten, – nachts hausen die 
+               <lb xml:id="p001_r_164_tl_9"/>Wächter dort, die auf jeder Grabung wegen der "wilden Gräber", der Diebe, unentbehrlich sind. 
+               <lb xml:id="p001_r_164_tl_10"/>Für die Assistenten ist die mühsamste Aufgabe: jedes Fundstück zu registrieren und festzu 
+               <lb xml:id="p001_r_164_tl_11" break="no"/>stellen, an welcher Stelle und in welcher Tiefe es gefunden wurde; das ist wichtig zur Bestim 
+               <lb xml:id="p001_r_164_tl_12" break="no"/>mung seines Alters und der Kulturschicht, der es, je nach den Fundumständen, angehört. Dazu 
+               <lb xml:id="p001_r_164_tl_13"/>muß auch notiert werden, welcher Arbeiter das betreffende Stück gefunden hat, denn er be 
+               <lb xml:id="p001_r_164_tl_14" break="no"/>kommt dafür ein "Bakschisch", eine angemessene Belohnung – so verhindert man ihn daran, 
+               <lb xml:id="p001_r_164_tl_15"/>es zu unterschlagen und später heimlich im Bazar zu verkaufen.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_186"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_4"/>Topograph mit Vermessungsinstrument</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_4"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_4_tl_1"/>Täglich stellt der Topograph mit dem Vermes 
+               <lb xml:id="p001_r_4_tl_2" break="no"/>sungsinstrument den Stand der Ausgrabung fest.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_5"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_8"/>Knabe Wasserträger</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_7"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_7_tl_1"/>Auch ein wichtiger Mensch auf dem Ausgrabungs 
+               <lb xml:id="p001_r_7_tl_2" break="no"/>feld: der Knabe Wasserträger, der in einer alten 
+               <lb xml:id="p001_r_7_tl_3"/>Benzinkanne den Arbeitern während den heißen 
+               <lb xml:id="p001_r_7_tl_4"/>Tagesstunden Trinkwasser bringt. Er ist nicht über 
+               <lb xml:id="p001_r_7_tl_5"/>vierzehn Jahre alt und mächtig stolz auf sein klei 
+               <lb xml:id="p001_r_7_tl_6" break="no"/>nes Gehalt, das ihm alle 14 Tage ausbezahlt wird.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
