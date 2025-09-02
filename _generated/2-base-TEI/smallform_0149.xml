@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0149" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0149#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0149</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0149"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0149_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0149_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_2_tl_1"/>Besuch im Orient [Umkehrung der Blickrichtungen - sie werden im Orient besucht, statt dass sie den Orient besuchen, schauen zurück nach Europa, statt von Eurpoa aus: leicht ironisches Spiel mit den Topoi der Reiseliteratur. Die Vorstufe im SLA urteilt klar im Titel: "Verklärtes Europa", spielt also nicht dasselbe Spiel mit der Erwartungshaltung, die das Medium des Reisefeuilletons mit sich bringt. Medienwechsel] 
+               <lb xml:id="p001_r_2_tl_2"/>Von Annemarie <hi rendition="#g">Schwarzenbach</hi></p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_3"/>Coco kam eines Abends unerwartet an, und brachte 
+               <lb xml:id="p001_r_2_tl_4"/>die Beiden mit. Sie waren irgendwo unten am Ufer 
+               <lb xml:id="p001_r_2_tl_5"/>des <hi rendition="#g">Orontes</hi> gewesen und bis zu den Seen gegan 
+               <lb xml:id="p001_r_2_tl_6" break="no"/>gen, immer auf der Suche nach Enten. Sie hatten 
+               <lb xml:id="p001_r_2_tl_7"/>einen schlechten Tag gehabt.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_8"/>Die Frau war ziemlich müde, als sie ankamen. Ihr 
+               <lb xml:id="p001_r_2_tl_9"/>Mann hingegen war angeregt und lustig, und fing 
+               <lb xml:id="p001_r_2_tl_10"/>gleich an, von der Jagd zu erzählen, die ihm großen 
+               <lb xml:id="p001_r_2_tl_11"/>Spaß gemacht hatte. Sie waren Italiener und kamen 
+               <lb xml:id="p001_r_2_tl_12"/>gerade aus Europa. Coco hatte sie von Beyrouth aus 
+               <lb xml:id="p001_r_2_tl_13"/>mitgenommen, weil sie etwas vom Land sehen wollten. 
+               <lb xml:id="p001_r_2_tl_14"/>Sie sagten, daß sie keine Lust hätten, die üblicher 
+               <lb xml:id="p001_r_2_tl_15"/>Touristenwege zu machen, so wie man es in den Reise 
+               <lb xml:id="p001_r_2_tl_16" break="no"/>bureaus vorschlug. Sie waren früher einmal in Aegyp 
+               <lb xml:id="p001_r_2_tl_17" break="no"/>ten gewesen, wahrscheinlich auf ihrer Hochzeitsreise, 
+               <lb xml:id="p001_r_2_tl_18"/>und hatten sich sehr gelangweilt.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_19"/>Jetzt kamen sie direkt aus Europa, und wir freuten 
+               <lb xml:id="p001_r_2_tl_20"/>uns, daß Coco sie hierhergebracht hatte. Es war schon 
+               <lb xml:id="p001_r_2_tl_21"/>nach Neujahr, und es wurde uns oft so zu Mute, als 
+               <lb xml:id="p001_r_2_tl_22"/>seien wir zu weit weg von Europa – oder, als sei es 
+               <lb xml:id="p001_r_2_tl_23"/>die reine Einbildung, daß man eines Tages dorthin 
+               <lb xml:id="p001_r_2_tl_24"/>zurückkehren könne. Aber diese beiden Italiener waren 
+               <lb xml:id="p001_r_2_tl_25"/>vor zwei Wochen noch dort gewesen, und alles bekam 
+               <lb xml:id="p001_r_2_tl_26"/>gleich ein ganz anderes Gesicht, wenn man sie erzählen 
+               <lb xml:id="p001_r_2_tl_27"/>hörte.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_28"/>Es war schon ziemlich spät. William und Tobby 
+               <lb xml:id="p001_r_2_tl_29"/>waren im Wohnzimmer gesessen und hatten es gehört, 
+               <lb xml:id="p001_r_2_tl_30"/>wie der Wagen den Hügel herauf kam. Kade und ich 
+               <lb xml:id="p001_r_2_tl_31"/>waren mit Rubinson drüben im Laboratorium und 
+               <lb xml:id="p001_r_2_tl_32"/>halfen ihm eine Kiste mit Kleinfunden ordnen. Wir 
+               <lb xml:id="p001_r_2_tl_33"/>hörten das Hoftor aufkrachen und den Wagen in den 
+               <lb xml:id="p001_r_2_tl_34"/>Hof fahren, gleich darauf kam Tobby und holte uns 
+               <lb xml:id="p001_r_2_tl_35"/>herüber. Der Italiener stand an den Kamin gelehnt, 
+               <lb xml:id="p001_r_2_tl_36"/>als wir eintraten, er hielt eine Pfeife in der Hand und 
+               <lb xml:id="p001_r_2_tl_37"/>erzählte sehr lebhaft, unterbrach sich, um uns zu begrü 
+               <lb xml:id="p001_r_2_tl_38" break="no"/>ßen, u. erzählte dann gleich weiter. Er war ein außer 
+               <lb xml:id="p001_r_2_tl_39" break="no"/>ordentlich hübscher Mensch, mit dunklem, weichen Haar 
+               <lb xml:id="p001_r_2_tl_40"/>und dunkler Haut, und sehr blauen, fröhlich strahlenden 
+               <lb xml:id="p001_r_2_tl_41"/>Augen. Er sprach rasch, in fließendem Englisch. Seine
+               <milestone unit="textregion" xml:id="p001_r_3"/> 
+               <lb xml:id="p001_r_3_tl_1"/>Frau sah sehr jung aus. Sie saß vor dem Feuer und 
+               <lb xml:id="p001_r_3_tl_2"/>schien zu frieren. Ihre Stiefel waren durchweicht von 
+               <lb xml:id="p001_r_3_tl_3"/>Nässe, und auch die Aermel und Schultern ihrer 
+               <lb xml:id="p001_r_3_tl_4"/>Lederweste hatten dunkle, nasse Flecke. Ich nahm sie 
+               <lb xml:id="p001_r_3_tl_5"/>gleich in mein Zimmer, um ihr trockene Sachen zu 
+               <lb xml:id="p001_r_3_tl_6"/>geben. Sie rückte den Stuhl neben den Oelofen und 
+               <lb xml:id="p001_r_3_tl_7"/>zog langsam ihre Schuhe und Strümpfe aus. "Es hat 
+               <lb xml:id="p001_r_3_tl_8"/>Sie wohl sehr angestrengt?" fragte ich. Aber sie ant 
+               <lb xml:id="p001_r_3_tl_9" break="no"/>wortete, es sei trotzdem ein großer Spaß gewesen. 
+               <lb xml:id="p001_r_3_tl_10"/>"Mein Mann braucht so etwas", sagte sie. "In Europa 
+               <lb xml:id="p001_r_3_tl_11"/>geht alles zu glatt, das langweilt ihn."</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_12"/>Als wir wieder in das Wohnzimmer kamen, redeten 
+               <lb xml:id="p001_r_3_tl_13"/>sie nicht mehr von der Jagd. Coco lag schläfrig in 
+               <lb xml:id="p001_r_3_tl_14"/>seinem Sessel, William und Tobby lehnten am Kamin 
+               <lb xml:id="p001_r_3_tl_15"/>und hörten zu, wie Rubinson, Kade und der Italie 
+               <lb xml:id="p001_r_3_tl_16" break="no"/>ner sich über Europa unterhielten. Worte fielen, die 
+               <lb xml:id="p001_r_3_tl_17"/>wir schon lange nicht mehr gehört hatten. Jeder brachte 
+               <lb xml:id="p001_r_3_tl_18"/>das Gespräch auf Dinge, denen er heimlich nachhing, 
+               <lb xml:id="p001_r_3_tl_19"/>und der Italiener antwortete nett und unbefangen, 
+               <lb xml:id="p001_r_3_tl_20"/>genau wie er vorher von den Enten und von allem 
+               <lb xml:id="p001_r_3_tl_21"/>erzählte hatte, was ihm den Tag über Spaß gemacht 
+               <lb xml:id="p001_r_3_tl_22"/>hatte.</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_23"/>"Bianca" sagte er zu seiner Frau. "Dieser Herr 
+               <lb xml:id="p001_r_3_tl_24"/>ist Architekt. Er hat Häuser in Berlin gebaut. Du er 
+               <lb xml:id="p001_r_3_tl_25" break="no"/>innerst Dich doch an Berlin?" – Sie sah sogleich auf 
+               <lb xml:id="p001_r_3_tl_26" break="no"/>merksam Rubinson an, und sagte: "Das ist ein schöner 
+               <lb xml:id="p001_r_3_tl_27"/>Beruf." Sie sprach Englisch mit einem leichten, italie 
+               <lb xml:id="p001_r_3_tl_28" break="no"/>nischen Akzent, und sprach es nicht so fließend wie ihr 
+               <lb xml:id="p001_r_3_tl_29"/>Mann. "Ich habe auch in der italienischen Schweiz 
+               <lb xml:id="p001_r_3_tl_30"/>gebaut", sagte Rubinson, der einmal einen Auftrag 
+               <lb xml:id="p001_r_3_tl_31"/>für ein Landhaus in Ascona gehabt hatte und sehr 
+               <lb xml:id="p001_r_3_tl_32"/>davon schwärmte. Sie kannten beide Ascona, sie 
+               <lb xml:id="p001_r_3_tl_33"/>waren mit dem Auto mehrmals dort gewesen und hat 
+               <lb xml:id="p001_r_3_tl_34" break="no"/>ten sich wunderbar amüsiert. "Aber man darf nicht 
+               <lb xml:id="p001_r_3_tl_35"/>zu lange dort bleiben", sagten sie, "man kennt bald 
+               <lb xml:id="p001_r_3_tl_36"/>alle Leute, und es wird dann leicht lästig."</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_37"/>Wir dachten an das Café Verbano, wo man leich 
+               <lb xml:id="p001_r_3_tl_38" break="no"/>ten, hellroten Chianti trank und wo Fede bediente und 
+               <lb xml:id="p001_r_3_tl_39"/>jeden Gast beim Namen nannte, mit uns aber ganz 
+               <lb xml:id="p001_r_3_tl_40"/>besonders befreundet war. Man saß auf der Dorf 
+               <lb xml:id="p001_r_3_tl_41" break="no"/>straße, einer besonders engen Dorfstraße, wo außer 
+               <lb xml:id="p001_r_3_tl_42" break="no"/>dem alle Autos hindurch fahren mußten und mit den 
+               <lb xml:id="p001_r_3_tl_43"/>Kotflügeln die Tische streiften. Man saß da gegen 
+               <lb xml:id="p001_r_3_tl_44"/>Abend, zwischen sechs und sieben Uhr, und zu dieser
+               <milestone unit="textregion" xml:id="p001_r_4"/> 
+               <lb xml:id="p001_r_4_tl_1"/>Zeit saßen einfach alle Leute im Verbano[https://lanostrastoria.ch/entries/56DXYNlOn1N] oder im 
+               <lb xml:id="p001_r_4_tl_2"/>Café schräg gegenüber, so daß kein leerer Stuhl mehr 
+               <lb xml:id="p001_r_4_tl_3"/>zu finden war.</p>
+            <p> 
+               <lb xml:id="p001_r_4_tl_4"/>"Wir haben einen Lancia", sagte der Italiener, 
+               <lb xml:id="p001_r_4_tl_5"/>und wie er von dem Wagen sprach, und wie gut er 
+               <lb xml:id="p001_r_4_tl_6"/>auf der Autostrada von Mailand nach Stresa lag, 
+               <lb xml:id="p001_r_4_tl_7"/>wurde er ganz jungenhaft und seine Augen strahlten 
+               <lb xml:id="p001_r_4_tl_8"/>vor Vergnügen. Der Lancia stand jetzt in der Garage 
+               <lb xml:id="p001_r_4_tl_9"/>in Mailand. "Ich habe sehr bedauert, ihn zurückzu 
+               <lb xml:id="p001_r_4_tl_10" break="no"/>lassen", sagte der Junge. "Es war fast das Einzige 
+               <lb xml:id="p001_r_4_tl_11"/>wovon der Abschied mir schwer fiel."</p>
+            <p> 
+               <lb xml:id="p001_r_4_tl_12"/>Sie hatten offenbar viel Geld. Es machte ihnen 
+               <lb xml:id="p001_r_4_tl_13"/>nichts aus, ein Haus in Mailand zu haben und den 
+               <lb xml:id="p001_r_4_tl_14"/>Winter zwischen Paris und St. Moritz zuzubringen, 
+               <lb xml:id="p001_r_4_tl_15"/>den Sommer zwischen Lido, Salzburg und den Dolo 
+               <lb xml:id="p001_r_4_tl_16" break="no"/>miten.</p>
+            <p> 
+               <lb xml:id="p001_r_4_tl_17"/>Als sie von Salzburg sprachen, sahen Kade und ich 
+               <lb xml:id="p001_r_4_tl_18"/>uns mehrmals an. Es gab dort Konzerte im Dom, 
+               <lb xml:id="p001_r_4_tl_19"/>Konzerte von Walter [Bruno Walter, befreundet mit Klaus und Erika Mann] dirigiert, es gab brütende Som 
+               <lb xml:id="p001_r_4_tl_20" break="no"/>merhitze im Mirabellgarten, und einen leuchtenden 
+               <lb xml:id="p001_r_4_tl_21"/>Himmel über dem Domplatz und den gebäumten 
+               <lb xml:id="p001_r_4_tl_22"/>Pferdeleibern der großen, steinernen Brunnen, einen 
+               <lb xml:id="p001_r_4_tl_23"/>italienischen Gebirgshimmel, kühle Gebirgsseen, rau 
+               <lb xml:id="p001_r_4_tl_24" break="no"/>schenden Wind durch hochstehende Wiesen, und lange, 
+               <lb xml:id="p001_r_4_tl_25"/>laue Abende im Wirtsgarten von Tommaselli. Es 
+               <lb xml:id="p001_r_4_tl_26"/>gab die große, steinerne Brücke über die Salzach, es 
+               <lb xml:id="p001_r_4_tl_27"/>gab die schönen Ufer und die Felsenkeller, die Reiter 
+               <lb xml:id="p001_r_4_tl_28" break="no"/>gestalten und die Heiligen auf hohen Brunnensäulen.</p>
+            <p> 
+               <lb xml:id="p001_r_4_tl_29"/>"Es hat meistens geregnet", sagte der italienisch 
+               <lb xml:id="p001_r_4_tl_30"/>Junge. "Während des 'Jedermann' ging ein Gewit 
+               <lb xml:id="p001_r_4_tl_31" break="no"/>ter los. Die Amerikanerinnen haben sich sehr darüber 
+               <lb xml:id="p001_r_4_tl_32"/>geärgert, aber sonst war es eine lustige Zeit."</p>
+            <p> 
+               <lb xml:id="p001_r_4_tl_33"/>Er erzählte noch dies und jenes von den Festspie 
+               <lb xml:id="p001_r_4_tl_34" break="no"/>len, von den Motorbootrennen in Venedig, von einer 
+               <lb xml:id="p001_r_4_tl_35"/>Lautrec-Ausstellung in Paris. Manchmal sagte er: 
+               <lb xml:id="p001_r_4_tl_36"/>"Nicht wahr, Bianca?" und sie nickte ihm zu und 
+               <lb xml:id="p001_r_4_tl_37"/>schlug die schönen, länglichen, langbewimperten Augen 
+               <lb xml:id="p001_r_4_tl_38"/>zu ihm auf. Wir aber fühlten uns ganz sonderbar, 
+               <lb xml:id="p001_r_4_tl_39"/>teils voneinander entfernt, und dann wieder, wenn wir 
+               <lb xml:id="p001_r_4_tl_40"/>uns ansahen, gemeinsam nachdenklich und verwundert 
+               <lb xml:id="p001_r_4_tl_41" break="no"/>hingerissen.</p>
+            <p> 
+               <lb xml:id="p001_r_4_tl_42"/>"So guten Kaffee trinkt man in Salzburg", sagte 
+               <lb xml:id="p001_r_4_tl_43"/>Kade, und wir schmeckten ihn auf der Zunge, rahmig,
+               <milestone unit="textregion" xml:id="p001_r_1"/> 
+               <lb xml:id="p001_r_1_tl_1"/>stark, ein wenig bitter. Wir sahn glatte Autostraßen, 
+               <lb xml:id="p001_r_1_tl_2"/>belebte Hotelhallen, Strandbäder, sauberen, rieselnden 
+               <lb xml:id="p001_r_1_tl_3"/>Sand, das sonnenbeglänzte Meer. Wir sahen Schau 
+               <lb xml:id="p001_r_1_tl_4" break="no"/>fenster, spiegelndes Parkett, in Gärten Steinfiguren, 
+               <lb xml:id="p001_r_1_tl_5"/>an deren barocken Leibern sich Blumen, Heckenrosen 
+               <lb xml:id="p001_r_1_tl_6"/>emporwanden. Wir sahen kleine Städte am Abend, 
+               <lb xml:id="p001_r_1_tl_7"/>bunte Gasthofschilder, Parkplätze.</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_8"/>"Es ist dort immer wieder das Gleiche", sagte der 
+               <lb xml:id="p001_r_1_tl_9"/>Junge. "Die gleichen Hotels in allen Städten, die 
+               <lb xml:id="p001_r_1_tl_10"/>gleichen Leute in St. Moritz und am Lido."</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_11"/>Wir hörten, wie in Konzertsälen Instrumente ge 
+               <lb xml:id="p001_r_1_tl_12" break="no"/>stimmt wurden, wie ein Rauschen durch die Reihen 
+               <lb xml:id="p001_r_1_tl_13"/>ging, wenn der Dirigent durch die Seitentüre auf 
+               <lb xml:id="p001_r_1_tl_14"/>das Podium trat.</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_15"/>Eine Seilbahn führte uns, die wir unsere zusam 
+               <lb xml:id="p001_r_1_tl_16" break="no"/>mengebundenen Skier festhielten, aus dunklem Tunnel 
+               <lb xml:id="p001_r_1_tl_17"/>ins Freie, zwischen gleißenden Schneefeldern, unter 
+               <lb xml:id="p001_r_1_tl_18"/>blaujubelndem Himmel schwebten wir aufwärts.</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_19"/>Bianca, offenbar zu müde, um der Unterhaltung 
+               <lb xml:id="p001_r_1_tl_20"/>noch zu folgen, ließ ihren sanften, ruhigen Mädchen 
+               <lb xml:id="p001_r_1_tl_21" break="no"/>blick von einem zum anderen gleiten. "Hier ist es 
+               <lb xml:id="p001_r_1_tl_22"/>hübsch und friedlich", sagte sie.</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_23"/>Ihr Mann, das dunkle Haar zurückwerfend: "Wenn 
+               <lb xml:id="p001_r_1_tl_24"/>ich denke, daß wie noch vor einem Monat in St. Moritz 
+               <lb xml:id="p001_r_1_tl_25"/>waren – Du wolltest nicht fort, Bianca!"</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_27"/>William ging zum Tisch, um die Rakiflasche zu 
+               <lb xml:id="p001_r_1_tl_26"/>holen. "Vertragen Sie den Raki schon?", fragte er. 
+               <lb xml:id="p001_r_1_tl_28"/>"Es ist das erste, was man hier lernen muß."</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_29"/>Er trank sein Glas mit dem Eis und dem milchigen 
+               <lb xml:id="p001_r_1_tl_30"/>Raki in einem Schluck aus. Das Mädchen hielt das 
+               <lb xml:id="p001_r_1_tl_31"/>ihre unschlüssig in der Hand.</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_32"/>"Versuchen Sie es doch", sagte Kade.</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_33"/>Sie sagte: "Ja, es ist wahr. Ich wollte nicht von 
+               <lb xml:id="p001_r_1_tl_34"/>Europa fort. Ich war dort gat nicht glücklich, aber 
+               <lb xml:id="p001_r_1_tl_35"/>ich habe mich zu sehr vor diesem Land gefürchtet."</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_36"/>Neno lachte. Er sah uns an und schüttelte den 
+               <lb xml:id="p001_r_1_tl_37"/>Kopf. "Aber ich," sagte er, "ich habe mich dort so ge 
+               <lb xml:id="p001_r_1_tl_38" break="no"/>langweilt, weil es immer wieder dasselbe ist. Man 
+               <lb xml:id="p001_r_1_tl_39"/>hat es zu leicht dort. Alles ist zu gut organisiert, und 
+               <lb xml:id="p001_r_1_tl_40"/>man lebt nur halb."</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_41"/>"Und hier?", fragte Coco. "Hier meinen Sie? ..."</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_42"/>"Hier ist es großartig", erklärte Neno. "Wir haben 
+               <lb xml:id="p001_r_1_tl_43"/>wirklich nasse Füße bekommen, wie es zu einer richti 
+               <lb xml:id="p001_r_1_tl_44" break="no"/>gen Entenjagd gehört!"</p>
+</div>
+       </body>
+    </text>
+ </TEI>
