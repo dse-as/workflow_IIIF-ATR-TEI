@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0146" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0146#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0146</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0146"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0146_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211935_011%21zui-001_1935_011_0009.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l"/>DAS RÖSSLITRAM IN DER WÜSTE 
+               <lb xml:id="p001_r_4_tl_9"/>Von Kufah nach der Begräbnisstadt Nejaf in Irak 
+               <lb xml:id="p001_r_4_tl_8"/>Bildbericht von Annemarie Schwarzenbach</p>
+
+            <milestone unit="textregion" xml:id="p001_r_8"/>            <p> 
+               <lb xml:id="p001_r_8_tl_1"/>Unter den heiligen Städten der Schiiten ist die un 
+               <lb xml:id="p001_r_8_tl_2" break="no"/>zugänglichste und unbekannteste Nejaf in Irak, 
+               <lb xml:id="p001_r_8_tl_3"/>am Rand der syrischen Wüste gelegen. Sie verbindet 
+               <lb xml:id="p001_r_8_tl_4"/>das Ansehen eines Wallfahrtsortes mit dem düsterer 
+               <lb xml:id="p001_r_8_tl_5"/>Ruhm einer heiligen Begräbnisstätte: denn die Schiiten, 
+               <lb xml:id="p001_r_8_tl_6"/>die den erschlagenen Propheten Ali als einzigen recht 
+               <lb xml:id="p001_r_8_tl_7" break="no"/>mäßigen Nachfolger Mohammeds anerkennen, ver 
+               <lb xml:id="p001_r_8_tl_8" break="no"/>ehren in Nejaf Alis Grab – und ein frommer Schiit 
+               <lb xml:id="p001_r_8_tl_9"/>soll nur in der Nähe Alis begraben liegen. Daher fin 
+               <lb xml:id="p001_r_8_tl_10" break="no"/>det jahraus, jahrein ein ununterbrochener Zug von
+               <milestone unit="textregion" xml:id="p001_r_1"/> 
+               <lb xml:id="p001_r_1_tl_1"/>Toten nach Nejaf statt.– Rings um die Stadt, die weiß 
+               <lb xml:id="p001_r_1_tl_2"/>in der weißen Sandwüste liegt, breitet sich ein Gürtel 
+               <lb xml:id="p001_r_1_tl_3"/>von Gräbern aus und wächst immer weiter in die 
+               <lb xml:id="p001_r_1_tl_4"/>Wüste hinein. Auf den Dächern haben Sargfabrikan 
+               <lb xml:id="p001_r_1_tl_5" break="no"/>ten, Leichentuchwäscher, Grabstein-Künstler ihr ein 
+               <lb xml:id="p001_r_1_tl_6" break="no"/>trägliches Geschäft. Und in Nejaf selbst, einem Ort 
+               <lb xml:id="p001_r_1_tl_7"/>voll religiöser und weltlicher Leidenschaften, voll 
+               <lb xml:id="p001_r_1_tl_8"/>halb- und ganzverdächtiger Existenzen, halten Poli 
+               <lb xml:id="p001_r_1_tl_9" break="no"/>zisten von der berühmten Wüsten-Reiterei die Ord 
+               <lb xml:id="p001_r_1_tl_10" break="no"/>nung aufrecht.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_4"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_237"/>Rößlitram in der Wüste</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_5"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_5_tl_1"/>Ein Rößlitram vermittelt den Verkehr vom Flußstädchen Kufah nach der sechs Meilen entfernten heiligen Gräberstadt in der Wüste.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_6"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_289"/>Rößlitram, Nahaufnahme[Fotografie ohne Bildunterschrift]</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_9"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_r_9_tl_1"/>Sargwerkstatt auf einem Dach in Nejaf</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_17"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_17_tl_1"/>Auf den Dächern der Häuser werden Särge fabriziert und Leichen 
+               <lb xml:id="p001_r_17_tl_2" break="no"/>tücher getrocknet. Die goldene Kuppel der Moschee ist das Wahr 
+               <lb xml:id="p001_r_17_tl_3" break="no"/>zeichen von Nejaf. Sie leuchtet über die Stadt wie ein feuriger Ball. 
+               <lb xml:id="p001_r_17_tl_4"/>Wenn man aus der Wüste kommt, ist sie schon auf große Distanz 
+               <lb xml:id="p001_r_17_tl_5"/>sichtbar, sie sammelt die Sonnenstrahlen wie eine Krone um sich.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_7"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_r_7_tl_8"/>Gräber um Nejaf</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_18"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_18_tl_1"/>Nejaf. Rings um die Stadt zieht sich ein stets wachsender Gürtel von Gräbern. Die 
+               <lb xml:id="p001_r_18_tl_2"/>Leichen der Gläubigen werden von weither auf Kamelkarawanen oder in Automo 
+               <lb xml:id="p001_r_18_tl_3" break="no"/>bilen hierher befördert, um in der heiligen Nähe der Propheten Ali zu ruhen. Die 
+               <lb xml:id="p001_r_18_tl_4"/>Stadt Nejaf besitzt große Reichtümer, einen kostbaren Schrein, und beständig fließen 
+               <lb xml:id="p001_r_18_tl_5"/>ihr neue Stiftungen von Gläubigen und die hohen Kaufpreise der Begräbnisplätze zu.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
