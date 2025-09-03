@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xml:id="smallform_0152"
      type="dseas-smallform">
@@ -18,12 +18,32 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <p/>
+            <bibl corresp="smallform_0152">
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
          <textClass>
             <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
                <list>
                   <item/>
                </list>
@@ -31,13 +51,17 @@
          </textClass>
       </profileDesc>
    </teiHeader>
-   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0152_facs.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0152_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
    <text>
-      <body><!--IIIF Image or Presentation URL?-->
-         <pb xml:id="smallform_0152_001"
-             facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0152_001.tif/info.json"/>
-         <milestone unit="textregion" xml:id="smallform_0152_001_r_2"/>
-         <lb xml:id="smallform_0152_001_r_2_tl_1"/>Kurdistan
+      <body>
+         <div type="smallform">
+            <pb xml:id="smallform_0152_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0152_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0152_001_r_2"/>
+            <lb xml:id="smallform_0152_001_r_2_tl_1"/>Kurdistan
 <lb xml:id="smallform_0152_001_r_2_tl_2"/>Von Annemarie <CONV tag="g">Clarac-Schwarzenbach</CONV><CONV tag="p">
 <lb xml:id="smallform_0152_001_r_2_tl_3"/>Einer der sechzig Bände von Karl May nannte sich
 <lb xml:id="smallform_0152_001_r_2_tl_4"/>„Durchs wilde Kurdistan“. Der Autor hatte jenes
@@ -78,7 +102,7 @@
 <lb xml:id="smallform_0152_001_r_2_tl_39"/>und unter lautem Geschrei, die Hemden bis zum Gür¬
 <lb xml:id="smallform_0152_001_r_2_tl_40"/>tel hochgerollt, springen sie in den Fluß, zu zehn oder
 <lb xml:id="smallform_0152_001_r_2_tl_41"/>mehr, um sich der blockierten Wagen zu bemächtigen.<milestone unit="textregion" xml:id="smallform_0152_001_r_3"/>
-         <lb xml:id="smallform_0152_001_r_3_tl_1"/>Aber trotz ihrer Zahl, trotz ihrer Umsicht und Er¬
+            <lb xml:id="smallform_0152_001_r_3_tl_1"/>Aber trotz ihrer Zahl, trotz ihrer Umsicht und Er¬
 <lb xml:id="smallform_0152_001_r_3_tl_2"/>fahrung, haben wir drei volle Stunden damit zuge¬
 <lb xml:id="smallform_0152_001_r_3_tl_3"/>bracht, zwei Wagen ans andere Ufer zu schaffen! Die
 <lb xml:id="smallform_0152_001_r_3_tl_4"/>Bevölkerung der nächsten Ortschaften spricht bereits
@@ -161,7 +185,7 @@
 <lb xml:id="smallform_0152_001_r_4_tl_39"/>stolze und anmutige Haltung auf, die sie selbst als
 <lb xml:id="smallform_0152_001_r_4_tl_40"/>bettelnde Zigeuner noch bewahren. „Zigeuner“ sind
 <lb xml:id="smallform_0152_001_r_4_tl_41"/>sie in der Türkei, wo man sie, in den anatolischen<milestone unit="textregion" xml:id="smallform_0152_001_r_1"/>
-         <lb xml:id="smallform_0152_001_r_1_tl_1"/>Steppen, als arme Nomaden findet, auch in den
+            <lb xml:id="smallform_0152_001_r_1_tl_1"/>Steppen, als arme Nomaden findet, auch in den
 <lb xml:id="smallform_0152_001_r_1_tl_2"/>Außenquartieren und auf den Burghügeln von An¬
 <lb xml:id="smallform_0152_001_r_1_tl_3"/>kara. In Baghdad sind die Kurden meistens „Ha¬
 <lb xml:id="smallform_0152_001_r_1_tl_4"/>mals“, Lastträger, die man unter unmäßige Lasten,
@@ -202,6 +226,7 @@
 <lb xml:id="smallform_0152_001_r_1_tl_39"/>brauchbar ist und wo keine Mandatmacht die Noma¬
 <lb xml:id="smallform_0152_001_r_1_tl_40"/>den zur Seßhaftigkeit zwingt — hier züchtet man
 <lb xml:id="smallform_0152_001_r_1_tl_41"/>immer noch die gleichen, schönen, zähen Pferde und
-<lb xml:id="smallform_0152_001_r_1_tl_42"/>verwendet sie nach alter wilder Art ...</CONV></body>
+<lb xml:id="smallform_0152_001_r_1_tl_42"/>verwendet sie nach alter wilder Art ...</CONV></div>
+      </body>
    </text>
 </TEI>
