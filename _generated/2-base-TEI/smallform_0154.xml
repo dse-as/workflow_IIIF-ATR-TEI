@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0154" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0154#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0154</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0154"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0154_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211935_011%21zui-001_1935_011_1017.jpg/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l"/>Die 
+               <lb xml:id="p001_r_tl_3"/>Obelisken 
+               <lb xml:id="p001_r_tl_4"/>von 
+               <lb xml:id="p001_r_tl_5"/>Istanbul</p>
+
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <p> 
+               <lb xml:id="p001_r_2_tl_1"/>Zwischen den beiden herrlichen Moscheen Sultan Ahmed und 
+               <lb xml:id="p001_r_2_tl_2"/>St. Sophie liegt einer der schönsten Plätze des alten Stambul, der 
+               <lb xml:id="p001_r_2_tl_3"/>des Hypodroms. Hier stand vor über 2000 Jahren der von Septimus 
+               <lb xml:id="p001_r_2_tl_4"/>Severus begonnene, von Konstantin vollendete Riesenbau, in dem 
+               <lb xml:id="p001_r_2_tl_5"/>reiche Kunstschätze aufgestellt wurden. Kriege und Eroberungszüge 
+               <lb xml:id="p001_r_2_tl_6"/>zerstörten und zerstreuten sie. Erhalten sind die beiden aus Aegypten 
+               <lb xml:id="p001_r_2_tl_7"/>importierten Obelisken. – Der Obelisk des Theodosius, der künst 
+               <lb xml:id="p001_r_2_tl_8" break="no"/>lerisch wertvollere, ist zugleich das älteste und am besten konservierte 
+               <lb xml:id="p001_r_2_tl_9"/>Denkmal Konstantinopels. Aus seinen Hieroglyphen geht hervor, daß 
+               <lb xml:id="p001_r_2_tl_10"/>der Pharao Thumosis III. vor fast 3500 Jahren diesen Obelisk in Helio 
+               <lb xml:id="p001_r_2_tl_11" break="no"/>polis errichtete. Nahezu 1900 Jahre später beschloß Julian Apostata, 
+               <lb xml:id="p001_r_2_tl_12"/>ihn nach Bysanz zu überführen, aber erst nach seinem Tode konnte 
+               <lb xml:id="p001_r_2_tl_13"/>Theodosius der Große 390 n. Chr. den Plan zur Ausführung bringen, 
+               <lb xml:id="p001_r_2_tl_14"/>der den Bau einer eigenen Straße vom Meer nach dem heutigen Stand- 
+               <lb xml:id="p001_r_2_tl_15"/>ort nötig machte. – Der ungeheure Granitblock, mit dem Sockel über 
+               <lb xml:id="p001_r_2_tl_16"/>24 Meter hoch, ist mit wohlerhaltenen Hieroglyphen und Darstellun 
+               <lb xml:id="p001_r_2_tl_17" break="no"/>gen geschmückt, die unter anderem künden: "Dieser Fürst, der die 
+               <lb xml:id="p001_r_2_tl_18"/>ganze Erde besiegte und Aegyptens Grenzen über den Naharin (Eu 
+               <lb xml:id="p001_r_2_tl_19" break="no"/>phrat) ausdehnte, war ein Pflegling der Sonne. Sein Königreich ist so 
+               <lb xml:id="p001_r_2_tl_20"/>fest begründet wie das der Gottheit im Himmel." – Die späteren la
+               <milestone unit="textregion" xml:id="p001_r_3"/> 
+               <lb xml:id="p001_r_3_tl_1" break="no"/>teinischen und griechischen In 
+               <lb xml:id="p001_r_3_tl_2" break="no"/>schriften und die prächtigen 
+               <lb xml:id="p001_r_3_tl_3"/>Skulpturen auf dem Sockel ge¬l 
+               <lb xml:id="p001_r_3_tl_4"/>ten dem Ruhm des Kaisers 
+               <lb xml:id="p001_r_3_tl_5"/>Theodosius des Großen. – Der 
+               <lb xml:id="p001_r_3_tl_6"/>32 Meter hohe sogenannte Ge 
+               <lb xml:id="p001_r_3_tl_7" break="no"/>mauerte Obelisk ist jüngeren 
+               <lb xml:id="p001_r_3_tl_8"/>Datums. Konstantin VII. (911 
+               <lb xml:id="p001_r_3_tl_9"/>bis 959) hat, wie die Inschrift 
+               <lb xml:id="p001_r_3_tl_10"/>besagt, "diese herrliche Pyra 
+               <lb xml:id="p001_r_3_tl_11" break="no"/>mide, aus Rhodos stammend 
+               <lb xml:id="p001_r_3_tl_12"/>und von der Zeit zerstört, weit 
+               <lb xml:id="p001_r_3_tl_13"/>schöner als sie jemals gewesen, 
+               <lb xml:id="p001_r_3_tl_14"/>wiederhergestellt". – Der Ge 
+               <lb xml:id="p001_r_3_tl_15" break="no"/>mauerte Obelisk soll, nach An 
+               <lb xml:id="p001_r_3_tl_16"/>sicht von Sachkennern, einst 
+               <lb xml:id="p001_r_3_tl_17"/>auch als Brunnen gedient und 
+               <lb xml:id="p001_r_3_tl_18"/>vier Wasserspeier getragen ha 
+               <lb xml:id="p001_r_3_tl_19" break="no"/>ben. Er war mit reichen Bronze 
+               <lb xml:id="p001_r_3_tl_20" break="no"/>reliefs geschmückt, die in den 
+               <lb xml:id="p001_r_3_tl_21"/>Kreuzzügen vernichtet wurden. 
+               <lb xml:id="p001_r_3_tl_22"/>Die Vertiefungen, aus denen sie 
+               <lb xml:id="p001_r_3_tl_23"/>herausgerissen wurden, sind 
+               <lb xml:id="p001_r_3_tl_24"/>noch deutlich erkennbar.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_7"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_46"/>Sockel des Theodosiusobelisks</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_12"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_12_tl_1"/>Der Sockel des Theodosiusobelisks mit den prächtigen römischen Skulpturen und Inschriften.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_17"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_50"/>Hypodromplatz von Istanbul</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_93"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_93_tl_1"/>Der Hypodromplatz 
+               <lb xml:id="p001_r_93_tl_2"/>von Istanbul mit dem 
+               <lb xml:id="p001_r_93_tl_3"/>Theodosiusobelisk 
+               <lb xml:id="p001_r_93_tl_4"/>(links) und dem so 
+               <lb xml:id="p001_r_93_tl_5" break="no"/>genannten Gemauer 
+               <lb xml:id="p001_r_93_tl_6" break="no"/>ten Obelisk (Mitte). 
+               <lb xml:id="p001_r_93_tl_7"/>Rechts im Hintergrund 
+               <lb xml:id="p001_r_93_tl_8"/>die Aja Sophia, die 
+               <lb xml:id="p001_r_93_tl_9"/>ehemals größte und 
+               <lb xml:id="p001_r_93_tl_10"/>berühmteste Moschee 
+               <lb xml:id="p001_r_93_tl_11"/>von Konstantinopel, 
+               <lb xml:id="p001_r_93_tl_12"/>die jetzt in ein Muse 
+               <lb xml:id="p001_r_93_tl_13" break="no"/>um umgewandelt ist.</p>
+</div>
+       </body>
+    </text>
+ </TEI>

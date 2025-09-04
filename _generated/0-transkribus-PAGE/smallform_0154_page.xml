@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<validation-wrapper>
+   <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+      <Metadata>
+         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.23.0:model_id=39995:lm=none:date=20_02_2025_14:47</Creator>
+         <Created>2025-02-20T14:13:18.548+01:00</Created>
+         <LastChange>2025-02-20T17:35:46.454+01:00</LastChange>
+         <TranskribusMetadata docId="7017091"
+                              pageId="91936428"
+                              pageNr="1"
+                              tsid="230363278"
+                              status="IN_PROGRESS"
+                              userId="194245"
+                              imgUrl="https://files.transkribus.eu/Get?id=SYNETRAHTCWAHRCJEBSRDEMP&amp;fileType=view"
+                              xmlUrl="https://files.transkribus.eu/Get?id=DIZNIWMZNLWIXKQHQEVPPLXS"
+                              imageId="76731688"/>
+      </Metadata>
+      <Page imageFilename="smallform_0154_001.jpg"
+            imageWidth="4800"
+            imageHeight="6340">
+         <ReadingOrder>
+            <OrderedGroup id="ro_1740069346454" caption="Regions reading order">
+               <RegionRefIndexed index="0" regionRef="r"/>
+               <RegionRefIndexed index="1" regionRef="r_2"/>
+               <RegionRefIndexed index="2" regionRef="r_3"/>
+               <RegionRefIndexed index="3" regionRef="r_7"/>
+               <RegionRefIndexed index="4" regionRef="r_12"/>
+               <RegionRefIndexed index="5" regionRef="r_17"/>
+               <RegionRefIndexed index="6" regionRef="r_93"/>
+            </OrderedGroup>
+         </ReadingOrder>
+         <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="3622,324 4638,324 4638,2025 3622,2025"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+               <Coords points="3624,754 3626,651 3664,629 3988,624 4022,631 4015,738 3915,758 3699,763 3635,756"/>
+               <Baseline points="3635,722 3650,722 3695,719 3740,719 3907,719 3931,719 3975,716 4020,713"/>
+               <TextEquiv>
+                  <Unicode>Die</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_3" custom="readingOrder {index:1;}">
+               <Coords points="3673,1225 4384,1207 4621,1250 4623,1121 4594,1107 4277,1105 4186,1146 4131,1105 3624,1062"/>
+               <Baseline points="3664,1193 4017,1202 4062,1202 4107,1199 4116,1199 4137,1202 4181,1202 4226,1202 4271,1202 4316,1202 4360,1199 4405,1199 4450,1199 4495,1199 4540,1196 4584,1199 4629,1196"/>
+               <TextEquiv>
+                  <Unicode>Obelisken</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_4" custom="readingOrder {index:2;}">
+               <Coords points="3644,1471 3678,1464 3765,1489 3835,1467 3860,1483 3929,1474 3926,1351 3876,1362 3854,1348 3833,1360 3787,1351 3753,1364 3733,1353 3710,1369 3678,1355 3642,1357"/>
+               <Baseline points="3656,1447 3701,1441 3746,1441 3790,1447 3835,1447 3880,1450 3925,1447 3934,1447"/>
+               <TextEquiv>
+                  <Unicode>von</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_5" custom="readingOrder {index:3;}">
+               <Coords points="3635,1968 3781,1938 3906,1963 4040,1936 4304,1954 4304,1847 3865,1842 3801,1870 3724,1840 3671,1893 3635,1886"/>
+               <Baseline points="3647,1937 3680,1934 3725,1931 3769,1934 3814,1934 3859,1931 3904,1934 3949,1931 3993,1934 4038,1931 4083,1931 4128,1934 4172,1934 4217,1931 4262,1931 4307,1931"/>
+               <TextEquiv>
+                  <Unicode>Istanbul</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="228,4690 1914,4690 1914,5971 228,5971"/>
+            <TextLine id="r_2_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="285,4828 556,4778 676,4810 1838,4796 1861,4708 1651,4739 1476,4696 1396,4733 1027,4705 970,4746 686,4719 578,4751 287,4701"/>
+               <Baseline points="298,4784 343,4784 388,4778 432,4778 477,4778 522,4778 567,4778 611,4778 656,4778 701,4778 746,4778 791,4775 835,4775 880,4778 925,4775 970,4775 1014,4775 1059,4775 1104,4775 1149,4775 1193,4775 1238,4775 1283,4775 1328,4775 1373,4775 1417,4775 1462,4775 1507,4772 1552,4775 1596,4772 1641,4772 1686,4772 1731,4772 1776,4772 1820,4772 1865,4778"/>
+               <TextEquiv>
+                  <Unicode>\p\Zwischen den beiden herrlichen Moscheen Sultan Ahmed und</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="255,4856 1854,4869 1856,4794 1761,4780 342,4819 257,4785"/>
+               <Baseline points="268,4841 292,4841 337,4838 382,4838 426,4838 471,4838 516,4838 561,4838 605,4838 650,4838 695,4838 740,4838 785,4838 829,4835 874,4838 919,4835 964,4835 1008,4835 1053,4835 1098,4835 1143,4835 1188,4835 1232,4835 1277,4835 1322,4835 1367,4835 1411,4835 1456,4835 1501,4832 1546,4835 1590,4832 1635,4832 1680,4832 1725,4832 1770,4835 1814,4832 1859,4835"/>
+               <TextEquiv>
+                  <Unicode>St. Sophie liegt einer der schönsten Plätze des alten Stambul, der</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_3" custom="readingOrder {index:2;}">
+               <Coords points="255,4913 1847,4913 1847,4860 1763,4851 255,4853"/>
+               <Baseline points="268,4898 286,4898 331,4898 376,4898 420,4898 465,4898 510,4898 555,4898 599,4898 644,4898 689,4898 734,4898 779,4898 823,4895 868,4895 913,4895 958,4895 1002,4895 1047,4895 1092,4895 1137,4895 1182,4895 1226,4895 1271,4898 1316,4895 1361,4895 1405,4895 1450,4895 1495,4895 1540,4895 1585,4892 1629,4895 1674,4895 1719,4892 1764,4892 1808,4892 1853,4895"/>
+               <TextEquiv>
+                  <Unicode>des Hypodroms. Hier stand vor über 2000 Jahren der von Septimus</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_4" custom="readingOrder {index:3;}">
+               <Coords points="244,4976 1854,4981 1854,4903 244,4917"/>
+               <Baseline points="256,4960 292,4957 337,4957 382,4957 426,4957 471,4957 516,4957 561,4957 605,4957 650,4957 695,4957 740,4957 785,4957 829,4954 874,4954 919,4954 964,4954 1008,4954 1053,4954 1098,4954 1143,4954 1188,4954 1232,4954 1277,4954 1322,4954 1367,4954 1411,4954 1456,4954 1501,4952 1546,4952 1590,4952 1635,4954 1680,4954 1725,4952 1770,4952 1814,4952 1859,4957"/>
+               <TextEquiv>
+                  <Unicode>Severus begonnene, von Konstantin vollendete Riesenbau, in dem</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_5" custom="readingOrder {index:4;}">
+               <Coords points="251,5033 1847,5045 1838,4967 253,4981"/>
+               <Baseline points="265,5020 289,5017 334,5017 379,5017 423,5017 468,5017 513,5017 558,5017 602,5017 647,5017 692,5017 737,5017 782,5017 826,5017 871,5014 916,5014 961,5017 1005,5017 1050,5014 1095,5014 1140,5014 1185,5017 1229,5014 1274,5014 1319,5014 1364,5014 1408,5014 1453,5014 1498,5014 1543,5011 1587,5011 1632,5011 1677,5011 1722,5014 1767,5011 1811,5011 1856,5014"/>
+               <TextEquiv>
+                  <Unicode>reiche Kunstschätze aufgestellt wurden. Kriege und Eroberungszüge</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_6" custom="readingOrder {index:5;}">
+               <Coords points="251,5092 1854,5086 1831,5040 1667,5022 251,5051"/>
+               <Baseline points="262,5077 307,5077 352,5077 396,5077 441,5077 486,5077 531,5077 576,5077 620,5077 665,5077 710,5077 755,5077 799,5077 844,5077 889,5077 934,5077 979,5077 1023,5074 1068,5074 1113,5074 1158,5074 1202,5074 1247,5074 1292,5074 1337,5074 1382,5074 1426,5074 1471,5074 1516,5074 1561,5074 1605,5074 1650,5071 1695,5074 1740,5077 1784,5071 1829,5074 1859,5077"/>
+               <TextEquiv>
+                  <Unicode>zerstörten und zerstreuten sie. Erhalten sind die beiden aus Aegypten</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_7" custom="readingOrder {index:6;}">
+               <Coords points="251,5159 1838,5154 1813,5090 251,5090"/>
+               <Baseline points="262,5140 277,5140 322,5137 367,5137 411,5137 456,5137 501,5137 546,5137 591,5137 635,5137 680,5137 725,5137 770,5137 814,5137 859,5137 904,5137 949,5134 993,5137 1038,5137 1083,5137 1128,5137 1173,5134 1217,5137 1262,5134 1307,5137 1352,5134 1396,5134 1441,5134 1486,5134 1531,5131 1576,5134 1620,5131 1665,5131 1710,5131 1755,5131 1799,5131 1844,5134"/>
+               <TextEquiv>
+                  <Unicode>importierten Obelisken. — Der Obelisk des Theodosius, der künst¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_8" custom="readingOrder {index:7;}">
+               <Coords points="251,5215 1847,5213 1847,5156 1772,5145 251,5159"/>
+               <Baseline points="262,5196 286,5196 331,5196 376,5196 420,5196 465,5196 510,5196 555,5196 599,5196 644,5196 689,5196 734,5196 779,5196 823,5196 868,5196 913,5196 958,5196 1002,5196 1047,5196 1092,5196 1137,5196 1182,5196 1226,5196 1271,5193 1316,5193 1361,5193 1405,5193 1450,5193 1495,5190 1540,5190 1585,5190 1629,5190 1674,5190 1719,5190 1764,5190 1808,5190 1853,5193"/>
+               <TextEquiv>
+                  <Unicode>lerisch wertvollere, ist zugleich das älteste und am besten konservierte</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_9" custom="readingOrder {index:8;}">
+               <Coords points="251,5282 1858,5266 1858,5206 251,5213"/>
+               <Baseline points="262,5259 298,5256 343,5256 388,5256 432,5256 477,5256 522,5256 567,5256 611,5256 656,5256 701,5256 746,5256 791,5256 835,5256 880,5256 925,5256 970,5256 1014,5256 1059,5256 1104,5256 1149,5256 1193,5253 1238,5253 1283,5256 1328,5256 1373,5253 1417,5253 1462,5253 1507,5253 1552,5253 1596,5250 1641,5250 1686,5250 1731,5250 1776,5253 1820,5250 1865,5253"/>
+               <TextEquiv>
+                  <Unicode>Denkmal Konstantinopels. Aus seinen Hieroglyphen geht hervor, daß</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_10" custom="readingOrder {index:9;}">
+               <Coords points="251,5334 1836,5327 1811,5263 253,5284"/>
+               <Baseline points="262,5319 274,5319 319,5319 364,5316 408,5316 453,5316 498,5316 543,5316 588,5316 632,5316 677,5316 722,5316 767,5316 811,5316 856,5316 901,5316 946,5316 990,5316 1035,5316 1080,5316 1125,5316 1170,5316 1214,5313 1259,5313 1304,5313 1349,5313 1393,5313 1438,5313 1483,5310 1528,5310 1573,5310 1617,5310 1662,5310 1707,5310 1752,5310 1796,5310 1841,5310"/>
+               <TextEquiv>
+                  <Unicode>der Pharao Thumosis III. vor fast 3500 Jahren diesen Obelisk in Helio¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_11" custom="readingOrder {index:10;}">
+               <Coords points="251,5407 1849,5398 1849,5341 1701,5323 251,5334"/>
+               <Baseline points="262,5381 289,5378 334,5378 379,5378 423,5378 468,5375 513,5375 558,5375 602,5375 647,5375 692,5375 737,5375 782,5375 826,5375 871,5375 916,5375 961,5378 1005,5375 1050,5375 1095,5375 1140,5375 1185,5375 1229,5375 1274,5375 1319,5372 1364,5372 1408,5372 1453,5372 1498,5369 1543,5369 1587,5369 1632,5369 1677,5369 1722,5369 1767,5369 1811,5372 1856,5378"/>
+               <TextEquiv>
+                  <Unicode>polis errichtete. Nahezu 1900 Jahre später beschloß Julian Apostata,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_12" custom="readingOrder {index:11;}">
+               <Coords points="251,5457 1858,5443 1858,5395 1738,5384 251,5402"/>
+               <Baseline points="262,5441 298,5438 343,5438 388,5438 432,5438 477,5438 522,5435 567,5435 611,5435 656,5435 701,5435 746,5435 791,5435 835,5435 880,5435 925,5435 970,5435 1014,5435 1059,5435 1104,5435 1149,5435 1193,5432 1238,5435 1283,5432 1328,5432 1373,5432 1417,5432 1462,5429 1507,5429 1552,5429 1596,5429 1641,5429 1686,5429 1731,5429 1776,5429 1820,5429 1865,5432"/>
+               <TextEquiv>
+                  <Unicode>ihn nach Bysanz zu überführen, aber erst nach seinem Tode konnte</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_13" custom="readingOrder {index:12;}">
+               <Coords points="255,5514 1849,5505 1849,5450 1681,5439 255,5452"/>
+               <Baseline points="268,5501 289,5498 334,5495 379,5495 423,5495 468,5498 513,5495 558,5495 602,5495 647,5495 692,5495 737,5495 782,5498 826,5495 871,5495 916,5495 961,5495 1005,5495 1050,5495 1095,5495 1140,5495 1185,5492 1229,5492 1274,5492 1319,5492 1364,5492 1408,5489 1453,5489 1498,5489 1543,5489 1587,5489 1632,5492 1677,5489 1722,5489 1767,5489 1811,5492 1856,5495"/>
+               <TextEquiv>
+                  <Unicode>Theodosius der Große 390 n. Chr. den Plan zur Ausführung bringen,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_14" custom="readingOrder {index:13;}">
+               <Coords points="251,5573 1847,5578 1847,5505 1742,5500 251,5514"/>
+               <Baseline points="262,5557 286,5554 331,5557 376,5557 420,5554 465,5557 510,5554 555,5557 599,5554 644,5554 689,5554 734,5554 779,5554 823,5554 868,5554 913,5554 958,5554 1002,5554 1047,5554 1092,5554 1137,5554 1182,5551 1226,5551 1271,5551 1316,5551 1361,5548 1405,5548 1450,5548 1495,5548 1540,5548 1585,5548 1629,5548 1674,5548 1719,5548 1764,5548 1808,5546 1853,5551"/>
+               <TextEquiv>
+                  <Unicode>der den Bau einer eigenen Straße vom Meer nach dem heutigen Stand-</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_15" custom="readingOrder {index:14;}">
+               <Coords points="253,5625 1856,5630 1856,5578 1765,5562 253,5584"/>
+               <Baseline points="265,5617 292,5617 337,5617 382,5617 426,5617 471,5617 516,5617 561,5614 605,5614 650,5617 695,5620 740,5614 785,5614 829,5617 874,5614 919,5614 964,5614 1008,5614 1053,5614 1098,5614 1143,5611 1188,5611 1232,5611 1277,5611 1322,5611 1367,5611 1411,5611 1456,5608 1501,5608 1546,5608 1590,5608 1635,5608 1680,5608 1725,5608 1770,5608 1814,5608 1859,5611"/>
+               <TextEquiv>
+                  <Unicode>ort nötig machte. — Der ungeheure Granitblock, mit dem Sockel über</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_16" custom="readingOrder {index:15;}">
+               <Coords points="251,5698 1847,5682 1847,5625 1751,5619 251,5644"/>
+               <Baseline points="262,5677 286,5677 331,5677 376,5677 420,5677 465,5677 510,5677 555,5674 599,5677 644,5677 689,5677 734,5674 779,5677 823,5674 868,5674 913,5674 958,5674 1002,5674 1047,5674 1092,5674 1137,5674 1182,5671 1226,5671 1271,5671 1316,5674 1361,5671 1405,5671 1450,5668 1495,5668 1540,5668 1585,5668 1629,5668 1674,5668 1719,5668 1764,5668 1808,5668 1853,5671"/>
+               <TextEquiv>
+                  <Unicode>24 Meter hoch, ist mit wohlerhaltenen Hieroglyphen und Darstellun¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_17" custom="readingOrder {index:16;}">
+               <Coords points="251,5767 1685,5728 1854,5758 1856,5685 1817,5678 253,5694"/>
+               <Baseline points="262,5745 292,5740 337,5740 382,5740 426,5737 471,5737 516,5737 561,5737 605,5737 650,5737 695,5737 740,5737 785,5737 829,5734 874,5737 919,5734 964,5734 1008,5734 1053,5734 1098,5734 1143,5731 1188,5731 1232,5731 1277,5731 1322,5731 1367,5728 1411,5728 1456,5728 1501,5728 1546,5728 1590,5728 1635,5728 1680,5728 1725,5728 1770,5728 1814,5728 1859,5734"/>
+               <TextEquiv>
+                  <Unicode>gen geschmückt, die unter anderem künden: «Dieser Fürst, der die</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_18" custom="readingOrder {index:17;}">
+               <Coords points="251,5826 1836,5812 1836,5748 1779,5732 251,5767"/>
+               <Baseline points="262,5805 274,5805 319,5799 364,5796 408,5796 453,5796 498,5796 543,5796 588,5796 632,5796 677,5796 722,5796 767,5796 811,5793 856,5796 901,5796 946,5796 990,5793 1035,5793 1080,5793 1125,5790 1170,5790 1214,5790 1259,5790 1304,5790 1349,5787 1393,5787 1438,5787 1483,5787 1528,5787 1573,5787 1617,5787 1662,5787 1707,5787 1752,5787 1796,5787 1841,5787"/>
+               <TextEquiv>
+                  <Unicode>ganze Erde besiegte und Aegyptens Grenzen über den Naharin (Eu¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_19" custom="readingOrder {index:18;}">
+               <Coords points="253,5881 1849,5860 1849,5805 1681,5796 253,5826"/>
+               <Baseline points="265,5859 289,5859 334,5859 379,5859 423,5859 468,5856 513,5856 558,5856 602,5856 647,5856 692,5856 737,5853 782,5856 826,5853 871,5856 916,5853 961,5853 1005,5853 1050,5853 1095,5853 1140,5853 1185,5853 1229,5850 1274,5850 1319,5850 1364,5850 1408,5847 1453,5847 1498,5847 1543,5847 1587,5847 1632,5847 1677,5847 1722,5847 1767,5847 1811,5847 1856,5847"/>
+               <TextEquiv>
+                  <Unicode>phrat) ausdehnte, war ein Pflegling der Sonne. Sein Königreich ist so</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_20" custom="readingOrder {index:19;}">
+               <Coords points="251,5928 415,5960 519,5928 1378,5942 1412,5910 1838,5940 1802,5862 251,5883"/>
+               <Baseline points="262,5919 277,5916 322,5916 367,5916 411,5919 456,5916 501,5916 546,5916 591,5916 635,5916 680,5916 725,5916 770,5916 814,5913 859,5916 904,5913 949,5913 993,5913 1038,5913 1083,5913 1128,5913 1173,5913 1217,5910 1262,5910 1307,5910 1352,5910 1396,5907 1441,5913 1486,5910 1531,5907 1576,5910 1620,5907 1665,5907 1710,5907 1755,5907 1799,5907 1844,5907"/>
+               <TextEquiv>
+                  <Unicode>fest begründet wie das der Gottheit im Himmel.» — Die späteren la¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="3740,2481 4491,2481 4491,3968 3740,3968"/>
+            <TextLine id="r_3_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="3733,2564 4008,2580 4079,2553 4184,2583 4284,2555 4441,2578 4443,2487 4024,2517 3931,2482 3733,2505"/>
+               <Baseline points="3746,2549 3775,2549 3820,2549 3865,2546 3910,2546 3955,2549 3999,2546 4044,2546 4089,2549 4134,2549 4178,2546 4223,2546 4268,2546 4313,2546 4358,2546 4402,2546 4447,2546"/>
+               <TextEquiv>
+                  <Unicode>teinischen und griechischen In¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="3737,2619 3885,2640 3954,2617 4013,2644 4077,2608 4150,2631 4457,2621 4457,2578 4371,2558 4222,2580 4047,2562 3965,2587 3737,2567"/>
+               <Baseline points="3749,2608 3793,2605 3838,2605 3883,2608 3928,2608 3972,2608 4017,2605 4062,2605 4107,2608 4152,2605 4196,2608 4241,2605 4286,2605 4331,2605 4375,2608 4420,2608 4462,2608"/>
+               <TextEquiv>
+                  <Unicode>schriften und die prächtigen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_3" custom="readingOrder {index:2;}">
+               <Coords points="3731,2685 3826,2701 3892,2676 4211,2674 4434,2697 4434,2621 4241,2633 4077,2608 3999,2644 3731,2619"/>
+               <Baseline points="3743,2668 3769,2665 3814,2665 3859,2668 3904,2665 3949,2665 3993,2668 4038,2665 4083,2668 4128,2665 4172,2665 4217,2668 4262,2665 4307,2665 4352,2668 4396,2665 4441,2665"/>
+               <TextEquiv>
+                  <Unicode>Skulpturen auf dem Sockel ge¬l</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_4" custom="readingOrder {index:3;}">
+               <Coords points="3731,2738 4457,2758 4457,2694 4359,2676 4270,2699 4118,2699 4095,2676 3731,2697"/>
+               <Baseline points="3743,2728 3787,2728 3832,2728 3877,2728 3922,2728 3966,2728 4011,2728 4056,2725 4101,2725 4146,2728 4190,2725 4235,2728 4280,2728 4325,2725 4369,2725 4414,2725 4459,2728 4462,2728"/>
+               <TextEquiv>
+                  <Unicode>ten dem Ruhm des Kaisers</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_5" custom="readingOrder {index:4;}">
+               <Coords points="3740,2797 4448,2799 4448,2758 4384,2738 4330,2765 4204,2738 3999,2760 3740,2742"/>
+               <Baseline points="3752,2787 3781,2784 3826,2784 3871,2784 3916,2784 3961,2784 4005,2784 4050,2784 4095,2787 4140,2784 4184,2784 4229,2784 4274,2784 4319,2790 4363,2787 4408,2784 4453,2784"/>
+               <TextEquiv>
+                  <Unicode>Theodosius des Großen. — Der</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_6" custom="readingOrder {index:5;}">
+               <Coords points="3731,2863 4439,2865 4441,2801 4220,2822 4120,2801 4090,2829 3999,2794 3922,2822 3733,2794"/>
+               <Baseline points="3743,2847 3787,2847 3832,2847 3877,2844 3922,2847 3966,2847 4011,2844 4056,2844 4101,2847 4146,2847 4190,2847 4235,2844 4280,2844 4325,2844 4369,2844 4414,2844 4444,2850"/>
+               <TextEquiv>
+                  <Unicode>32 Meter hohe sogenannte Ge¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_7" custom="readingOrder {index:6;}">
+               <Coords points="3731,2927 4453,2922 4437,2861 3731,2861"/>
+               <Baseline points="3743,2907 3787,2904 3832,2904 3877,2904 3922,2904 3966,2904 4011,2904 4056,2904 4101,2904 4146,2907 4190,2904 4235,2907 4280,2904 4325,2904 4369,2907 4414,2907 4459,2907"/>
+               <TextEquiv>
+                  <Unicode>mauerte Obelisk ist jüngeren</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_8" custom="readingOrder {index:7;}">
+               <Coords points="3731,2981 4074,2995 4207,2974 4243,2999 4345,2970 4448,2979 4448,2922 3731,2924"/>
+               <Baseline points="3743,2967 3781,2964 3826,2964 3871,2964 3916,2967 3961,2967 4005,2964 4050,2964 4095,2964 4140,2964 4184,2964 4229,2967 4274,2964 4319,2964 4363,2964 4408,2964 4453,2964"/>
+               <TextEquiv>
+                  <Unicode>Datums. Konstantin VII. (911</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_9" custom="readingOrder {index:8;}">
+               <Coords points="3731,3029 3897,3063 4004,3034 4398,3054 4453,3034 4453,2974 4432,2972 4377,2997 4348,2972 4304,2997 3731,2981"/>
+               <Baseline points="3743,3023 3787,3023 3832,3026 3877,3026 3922,3026 3966,3023 4011,3026 4056,3026 4101,3023 4146,3026 4190,3023 4235,3023 4280,3023 4325,3023 4369,3023 4414,3023 4459,3026"/>
+               <TextEquiv>
+                  <Unicode>bis 959) hat, wie die Inschrift</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_10" custom="readingOrder {index:9;}">
+               <Coords points="3731,3109 4150,3095 4175,3118 4216,3097 4293,3118 4343,3093 4441,3113 4441,3047 4334,3031 4304,3052 4072,3038 4052,3059 3972,3038 3908,3068 3872,3040 3778,3061 3731,3043"/>
+               <Baseline points="3743,3086 3775,3083 3820,3086 3865,3086 3910,3089 3955,3086 3999,3083 4044,3086 4089,3086 4134,3083 4178,3083 4223,3083 4268,3083 4313,3083 4358,3086 4402,3083 4447,3080"/>
+               <TextEquiv>
+                  <Unicode>besagt, «diese herrliche Pyra¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_11" custom="readingOrder {index:10;}">
+               <Coords points="3731,3157 4453,3163 4439,3097 4204,3129 4122,3097 3731,3109"/>
+               <Baseline points="3743,3146 3787,3143 3832,3143 3877,3146 3922,3143 3966,3143 4011,3143 4056,3143 4101,3143 4146,3143 4190,3143 4235,3143 4280,3143 4325,3143 4369,3143 4414,3143 4459,3143"/>
+               <TextEquiv>
+                  <Unicode>mide, aus Rhodos stammend</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_12" custom="readingOrder {index:11;}">
+               <Coords points="3731,3216 4453,3232 4453,3170 4425,3157 3731,3163"/>
+               <Baseline points="3743,3205 3787,3202 3832,3202 3877,3205 3922,3202 3966,3202 4011,3205 4056,3202 4101,3202 4146,3205 4190,3202 4235,3202 4280,3202 4325,3202 4369,3202 4414,3202 4459,3205"/>
+               <TextEquiv>
+                  <Unicode>und von der Zeit zerstört, weit</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_13" custom="readingOrder {index:12;}">
+               <Coords points="3731,3291 4448,3275 4448,3232 4412,3216 4309,3236 4038,3218 4004,3243 3965,3218 3926,3239 3806,3214 3731,3236"/>
+               <Baseline points="3743,3265 3787,3262 3832,3262 3877,3262 3922,3265 3966,3262 4011,3265 4056,3265 4101,3262 4146,3262 4190,3262 4235,3262 4280,3262 4325,3262 4369,3262 4414,3262 4453,3265"/>
+               <TextEquiv>
+                  <Unicode>schöner als sie jemals gewesen,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_14" custom="readingOrder {index:13;}">
+               <Coords points="3742,3350 4184,3325 4284,3352 4368,3323 4439,3339 4439,3289 4391,3277 4175,3302 4134,3275 3967,3298 3831,3273 3742,3296"/>
+               <Baseline points="3755,3325 3772,3322 3817,3322 3862,3322 3907,3325 3952,3322 3996,3322 4041,3322 4086,3322 4131,3322 4175,3325 4220,3325 4265,3322 4310,3322 4355,3322 4399,3322 4444,3322"/>
+               <TextEquiv>
+                  <Unicode>wiederhergestellt». — Der Ge¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_15" custom="readingOrder {index:14;}">
+               <Coords points="3731,3393 3867,3414 4318,3398 4341,3419 4439,3400 4439,3348 4364,3337 3731,3352"/>
+               <Baseline points="3743,3384 3787,3384 3832,3381 3877,3381 3922,3381 3966,3381 4011,3381 4056,3381 4101,3381 4146,3381 4190,3384 4235,3384 4280,3381 4325,3381 4369,3381 4414,3381 4444,3384"/>
+               <TextEquiv>
+                  <Unicode>mauerte Obelisk soll, nach An</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_16" custom="readingOrder {index:15;}">
+               <Coords points="3731,3460 4457,3462 4457,3398 4345,3419 4122,3391 3977,3393 3945,3419 3731,3398"/>
+               <Baseline points="3743,3447 3746,3447 3790,3444 3835,3444 3880,3444 3925,3441 3969,3444 4014,3444 4059,3441 4104,3441 4149,3444 4193,3441 4238,3441 4283,3444 4328,3444 4372,3444 4417,3444 4462,3444"/>
+               <TextEquiv>
+                  <Unicode>sicht von Sachkennern, einst</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_17" custom="readingOrder {index:16;}">
+               <Coords points="3731,3521 4156,3516 4188,3539 4453,3516 4453,3460 4377,3453 4159,3480 3847,3453 3731,3478"/>
+               <Baseline points="3743,3507 3787,3504 3832,3504 3877,3504 3922,3504 3966,3504 4011,3504 4056,3504 4101,3504 4146,3504 4190,3504 4235,3504 4280,3501 4325,3501 4369,3501 4414,3501 4459,3504"/>
+               <TextEquiv>
+                  <Unicode>auch als Brunnen gedient und</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_18" custom="readingOrder {index:17;}">
+               <Coords points="3740,3580 4341,3592 4434,3573 4434,3530 4389,3516 4166,3542 4111,3516 4054,3539 3869,3510 3740,3528"/>
+               <Baseline points="3752,3566 3769,3564 3814,3564 3859,3564 3904,3564 3949,3564 3993,3564 4038,3564 4083,3564 4128,3564 4172,3564 4217,3564 4262,3564 4307,3564 4352,3564 4396,3564 4441,3564"/>
+               <TextEquiv>
+                  <Unicode>vier Wasserspeier getragen ha¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_19" custom="readingOrder {index:18;}">
+               <Coords points="3733,3635 4439,3651 4439,3580 3956,3598 3733,3578"/>
+               <Baseline points="3746,3623 3790,3623 3835,3623 3880,3623 3925,3623 3969,3623 4014,3623 4059,3623 4104,3623 4149,3623 4193,3623 4238,3620 4283,3620 4328,3620 4372,3620 4417,3620 4444,3626"/>
+               <TextEquiv>
+                  <Unicode>ben. Er war mit reichen Bronze¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_20" custom="readingOrder {index:19;}">
+               <Coords points="3731,3701 4446,3696 4446,3649 4396,3639 4348,3658 4225,3637 4184,3669 4090,3635 4036,3658 3986,3637 3954,3660 3860,3635 3731,3649"/>
+               <Baseline points="3743,3686 3787,3683 3832,3683 3877,3683 3922,3683 3966,3683 4011,3683 4056,3683 4101,3683 4146,3683 4190,3683 4235,3683 4280,3683 4325,3683 4369,3683 4414,3683 4450,3686"/>
+               <TextEquiv>
+                  <Unicode>reliefs geschmückt, die in den</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_21" custom="readingOrder {index:20;}">
+               <Coords points="3731,3767 4172,3774 4261,3744 4343,3778 4450,3762 4450,3719 4366,3694 4106,3719 3731,3703"/>
+               <Baseline points="3743,3746 3787,3743 3832,3743 3877,3743 3922,3743 3966,3743 4011,3743 4056,3743 4101,3743 4146,3743 4190,3743 4235,3743 4280,3743 4325,3743 4369,3740 4414,3743 4456,3746"/>
+               <TextEquiv>
+                  <Unicode>Kreuzzügen vernichtet wurden.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_22" custom="readingOrder {index:21;}">
+               <Coords points="3731,3815 4090,3844 4191,3813 4450,3819 4450,3762 4418,3758 4350,3778 4273,3751 4232,3776 4081,3778 4033,3756 3731,3758"/>
+               <Baseline points="3743,3805 3787,3802 3832,3802 3877,3802 3922,3802 3966,3802 4011,3802 4056,3802 4101,3802 4146,3802 4190,3802 4235,3802 4280,3802 4325,3802 4369,3802 4414,3802 4456,3805"/>
+               <TextEquiv>
+                  <Unicode>Die Vertiefungen, aus denen sie</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_23" custom="readingOrder {index:22;}">
+               <Coords points="3731,3888 4088,3869 4448,3899 4434,3817 4309,3849 4227,3817 4088,3844 3731,3815"/>
+               <Baseline points="3743,3865 3787,3862 3832,3862 3877,3862 3922,3862 3966,3862 4011,3862 4056,3862 4101,3862 4146,3862 4190,3862 4235,3862 4280,3862 4325,3865 4369,3862 4414,3862 4453,3865"/>
+               <TextEquiv>
+                  <Unicode>herausgerissen wurden, sind</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_24" custom="readingOrder {index:23;}">
+               <Coords points="3728,3947 3765,3961 3897,3936 3979,3972 4081,3947 4188,3965 4289,3936 4289,3888 4263,3897 4238,3876 4161,3895 4088,3869 4038,3897 3967,3874 3728,3890"/>
+               <Baseline points="3740,3925 3784,3922 3829,3922 3874,3922 3919,3922 3963,3922 4008,3922 4053,3922 4098,3922 4143,3922 4187,3922 4232,3922 4277,3922 4295,3928"/>
+               <TextEquiv>
+                  <Unicode>noch deutlich erkennbar.\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_7" custom="readingOrder {index:3;}">
+            <Coords points="15,118 3578,118 3578,4395 15,4395"/>
+            <TextLine id="l_46" custom="readingOrder {index:0;}">
+               <Coords points="802,4028 1419,4044 1419,4014 803,3998"/>
+               <Baseline points="802,4028 1419,4044"/>
+               <TextEquiv>
+                  <Unicode>\f\Sockel des Theodosiusobelisks\:f\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_12" custom="readingOrder {index:4;}">
+            <Coords points="471,4417 2312,4417 2312,4521 471,4521"/>
+            <TextLine id="r_12_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="458,4466 2289,4487 2289,4416 2164,4398 2109,4430 458,4412"/>
+               <Baseline points="471,4462 501,4459 546,4459 591,4459 635,4456 680,4456 725,4456 770,4456 814,4456 859,4456 904,4456 949,4456 993,4456 1038,4456 1083,4456 1128,4456 1173,4456 1217,4456 1262,4456 1307,4456 1352,4456 1396,4456 1441,4456 1486,4456 1531,4456 1576,4456 1620,4456 1665,4453 1710,4453 1755,4453 1799,4453 1844,4453 1889,4456 1934,4456 1979,4456 2023,4456 2068,4456 2113,4456 2158,4456 2202,4456 2247,4456 2292,4456"/>
+               <TextEquiv>
+                  <Unicode>\fp\Der Sockel des Theodosiusobelisks mit den prächtigen römischen Skulpturen und Inschriften.\:fp\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_17" custom="readingOrder {index:5;}">
+            <Coords points="2551,4408 3581,4397 3582,4167 4619,4160 4624,5905 2547,5902"/>
+            <TextLine id="l_50" custom="readingOrder {index:0;}">
+               <Coords points="2845,5527 3303,5514 3303,5484 2844,5497"/>
+               <Baseline points="2845,5527 3303,5514"/>
+               <TextEquiv>
+                  <Unicode>\f\Hypodromplatz von Istanbul\:f\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_93" custom="readingOrder {index:6;}">
+            <Coords points="2054,5290 2503,5290 2503,5938 2054,5938"/>
+            <TextLine id="r_93_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="2050,5352 2471,5348 2471,5270 2446,5256 2389,5288 2307,5266 2205,5302 2132,5277 2095,5295 2050,5288"/>
+               <Baseline points="2062,5334 2107,5331 2152,5334 2196,5334 2241,5334 2286,5331 2331,5331 2376,5331 2420,5331 2465,5337 2477,5334"/>
+               <TextEquiv>
+                  <Unicode>\fp\Der Hypodromplatz</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_93_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="2050,5389 2211,5405 2309,5391 2348,5402 2385,5386 2469,5395 2467,5352 2047,5350"/>
+               <Baseline points="2059,5381 2104,5378 2149,5378 2193,5381 2238,5378 2283,5378 2328,5378 2373,5381 2417,5381 2462,5381 2474,5384"/>
+               <TextEquiv>
+                  <Unicode>von Istanbul mit dem</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_93_tl_3" custom="readingOrder {index:2;}">
+               <Coords points="2057,5441 2180,5441 2202,5457 2223,5439 2243,5448 2334,5436 2346,5448 2359,5439 2426,5452 2426,5391 2344,5402 2325,5391 2225,5391 2211,5402 2198,5391 2057,5391"/>
+               <Baseline points="2068,5429 2113,5429 2158,5426 2202,5426 2247,5426 2292,5426 2337,5426 2381,5426 2426,5429 2432,5429"/>
+               <TextEquiv>
+                  <Unicode>Theodosiusobelisk</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_93_tl_4" custom="readingOrder {index:3;}">
+               <Coords points="2047,5500 2136,5486 2170,5498 2200,5482 2275,5498 2300,5482 2366,5502 2412,5484 2460,5491 2460,5436 2387,5452 2230,5441 2205,5455 2182,5439 2109,5450 2047,5436"/>
+               <Baseline points="2059,5480 2062,5480 2107,5477 2152,5477 2196,5477 2241,5477 2286,5477 2331,5477 2376,5474 2420,5477 2465,5477"/>
+               <TextEquiv>
+                  <Unicode>(links) und dem so¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_93_tl_5" custom="readingOrder {index:4;}">
+               <Coords points="2050,5546 2275,5530 2312,5548 2332,5534 2410,5548 2457,5534 2457,5493 2346,5500 2300,5484 2050,5505"/>
+               <Baseline points="2062,5531 2104,5525 2149,5525 2193,5525 2238,5525 2283,5525 2328,5525 2373,5525 2417,5522 2462,5525"/>
+               <TextEquiv>
+                  <Unicode>genannten Gemauer¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_93_tl_6" custom="readingOrder {index:5;}">
+               <Coords points="2041,5578 2100,5598 2129,5575 2207,5594 2230,5582 2330,5598 2348,5584 2462,5591 2462,5534 2432,5548 2391,5534 2312,5548 2278,5530 2041,5546"/>
+               <Baseline points="2054,5575 2098,5572 2143,5572 2187,5572 2232,5572 2277,5572 2322,5572 2367,5572 2411,5572 2456,5572 2468,5575"/>
+               <TextEquiv>
+                  <Unicode>ten Obelisk (Mitte).</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_93_tl_7" custom="readingOrder {index:6;}">
+               <Coords points="2043,5650 2079,5630 2120,5646 2180,5628 2344,5630 2366,5646 2473,5637 2473,5582 2152,5596 2127,5578 2098,5598 2043,5578"/>
+               <Baseline points="2056,5623 2077,5620 2122,5620 2167,5620 2211,5620 2256,5620 2301,5620 2346,5620 2390,5620 2435,5620 2480,5620"/>
+               <TextEquiv>
+                  <Unicode>Rechts im Hintergrund</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_93_tl_8" custom="readingOrder {index:7;}">
+               <Coords points="2052,5685 2164,5694 2234,5671 2257,5691 2316,5678 2378,5689 2398,5673 2462,5689 2462,5630 2428,5630 2403,5650 2344,5630 2296,5646 2262,5632 2052,5639"/>
+               <Baseline points="2065,5668 2110,5668 2155,5668 2199,5668 2244,5668 2289,5668 2334,5668 2378,5668 2423,5665 2468,5671"/>
+               <TextEquiv>
+                  <Unicode>die Aja Sophia, die</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_93_tl_9" custom="readingOrder {index:8;}">
+               <Coords points="2050,5726 2193,5739 2227,5723 2264,5739 2416,5723 2469,5735 2469,5678 2339,5691 2318,5678 2232,5698 2198,5680 2161,5694 2050,5685"/>
+               <Baseline points="2062,5716 2107,5716 2152,5716 2196,5716 2241,5716 2286,5716 2331,5716 2376,5716 2420,5716 2465,5719 2474,5719"/>
+               <TextEquiv>
+                  <Unicode>ehemals größte und</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_93_tl_10" custom="readingOrder {index:9;}">
+               <Coords points="2052,5773 2125,5789 2159,5773 2278,5773 2296,5789 2369,5776 2396,5789 2464,5771 2464,5730 2446,5726 2252,5739 2052,5726"/>
+               <Baseline points="2065,5763 2110,5763 2155,5763 2199,5763 2244,5763 2289,5763 2334,5763 2378,5763 2423,5760 2468,5766 2471,5763"/>
+               <TextEquiv>
+                  <Unicode>berühmteste Moschee</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_93_tl_11" custom="readingOrder {index:10;}">
+               <Coords points="2047,5828 2469,5828 2469,5773 2455,5771 2430,5787 2346,5773 2303,5787 2186,5773 2047,5785"/>
+               <Baseline points="2059,5814 2104,5811 2149,5811 2193,5811 2238,5811 2283,5811 2328,5811 2373,5811 2417,5811 2462,5814 2474,5817"/>
+               <TextEquiv>
+                  <Unicode>von Konstantinopel,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_93_tl_12" custom="readingOrder {index:11;}">
+               <Coords points="2050,5878 2214,5881 2232,5869 2325,5883 2346,5867 2364,5878 2421,5867 2464,5881 2464,5833 2441,5826 2050,5828"/>
+               <Baseline points="2062,5862 2107,5859 2152,5859 2196,5859 2241,5859 2286,5859 2331,5859 2376,5859 2420,5859 2465,5862 2468,5865"/>
+               <TextEquiv>
+                  <Unicode>die jetzt in ein Muse¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_93_tl_13" custom="readingOrder {index:12;}">
+               <Coords points="2047,5937 2088,5919 2191,5926 2207,5942 2246,5928 2307,5940 2325,5924 2414,5917 2469,5942 2469,5881 2426,5869 2346,5869 2328,5883 2234,5869 2139,5885 2102,5869 2047,5878"/>
+               <Baseline points="2059,5907 2104,5907 2149,5907 2193,5910 2238,5910 2283,5907 2328,5907 2373,5907 2417,5907 2462,5910 2474,5910"/>
+               <TextEquiv>
+                  <Unicode>um umgewandelt ist.\:fp\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+      </Page>
+   </PcGts>
+</validation-wrapper>
