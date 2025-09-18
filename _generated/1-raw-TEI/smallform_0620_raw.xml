@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="smallform_0620"
+     type="dseas-smallform">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>smallform_0620</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl corresp="smallform_0620">
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0620_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="smallform">
+            <pb xml:id="smallform_0620_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_015.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0620_001_r_1"/>
+            <lb xml:id="smallform_0620_001_l_13"/>Wallis im Automobil<CONV tag="p">
+<lb xml:id="smallform_0620_001_l_14"/>Das Wallis ist eine Landschaft, die erobert sein
+<lb xml:id="smallform_0620_001_l_15"/>will: so ausschließlich wird es von seinen Bergen be¬
+<lb xml:id="smallform_0620_001_l_16"/>herrscht, und so abweisend umschließen sie als
+<lb xml:id="smallform_0620_001_l_17"/>starre Grenzwälle das Talsystem. Bis vor kurzer
+<lb xml:id="smallform_0620_001_l_18"/>Zeit versuchte niemand, im Wallis ein Gebiet für
+<lb xml:id="smallform_0620_001_l_19"/>den Wintersport zu entdecken: die Talsohle liegt tief
+<lb xml:id="smallform_0620_001_l_20"/>und ist viel zu flach, die Hänge wiederum sind zu</CONV><!--FML: this needs attention (was tagged as "fml" in Transkribus)--><pb xml:id="smallform_0620_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_016.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0620_002_tr_1"/><CONV tag="p">
+<lb xml:id="smallform_0620_002_tr_1_tl_2"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->steil. Heute revidiert man diese Ansicht: Mindestens
+<lb xml:id="smallform_0620_002_tr_1_tl_3"/>schwärmen gute Skiläufer von den ungeheuren Ab¬
+<lb xml:id="smallform_0620_002_tr_1_tl_4"/>fahrten von Zermatt, wo vor zwei Jahren bereits
+<lb xml:id="smallform_0620_002_tr_1_tl_5"/>Frühlingsskirennen stattgefunden haben. Montana-
+<lb xml:id="smallform_0620_002_tr_1_tl_6"/>Vermala macht Propaganda für die Wintersaison.
+<lb xml:id="smallform_0620_002_tr_1_tl_7"/>In Crans gründete kein geringerer als Furrer eine
+<lb xml:id="smallform_0620_002_tr_1_tl_8"/>Skischule nach Arlberger Muster.</CONV><CONV tag="p">
+<lb xml:id="smallform_0620_002_tr_1_tl_9"/>Mit dem Automobilismus verhält es sich ähnlich:
+<lb xml:id="smallform_0620_002_tr_1_tl_10"/>wer die Karten des Automobilführers aufschlägt,
+<lb xml:id="smallform_0620_002_tr_1_tl_11"/>läßt sich leicht abschrecken, weil in die großen
+<lb xml:id="smallform_0620_002_tr_1_tl_12"/>grauen Flächen der Gebirge kaum da und dort ein
+<lb xml:id="smallform_0620_002_tr_1_tl_13"/>vereinzeltes, kurz abbrechendes rotes Sträßchen ein¬
+<lb xml:id="smallform_0620_002_tr_1_tl_14"/>gezeichnet ist. Und man kennt nur die üblichsten
+<lb xml:id="smallform_0620_002_tr_1_tl_15"/>Strecken: Grimsel, Furka, Simplon- und die breite
+<lb xml:id="smallform_0620_002_tr_1_tl_16"/>Talstraße mit ihren Pappelalleen. Wie gesagt, auch
+<lb xml:id="smallform_0620_002_tr_1_tl_17"/>diese Ansichten müssen revidiert werden. Das Wallis
+<lb xml:id="smallform_0620_002_tr_1_tl_18"/>ist ein noch unerschlossenes Land für den Automo¬
+<lb xml:id="smallform_0620_002_tr_1_tl_19"/>bilfahrer, aber es hat schon heute ausgezeichnete
+<lb xml:id="smallform_0620_002_tr_1_tl_20"/>Möglichkeiten und einzigartige Routen. Es ist ver¬
+<lb xml:id="smallform_0620_002_tr_1_tl_21"/>nünftig, sich vorher über einige Verkehrsregeln zu
+<lb xml:id="smallform_0620_002_tr_1_tl_22"/>orientieren, die für die Pässe und Bergstraßen, ins¬
+<lb xml:id="smallform_0620_002_tr_1_tl_23"/>besondere <CONV tag="g">Bergpost</CONV>straßen gelten. Einmal: Auf
+<lb xml:id="smallform_0620_002_tr_1_tl_24"/>der Strecke Grimselhospiz—Gletsch—Furka—Realp
+<lb xml:id="smallform_0620_002_tr_1_tl_25"/>und auf den Bergstraßen von Orsières bis Cham¬
+<lb xml:id="smallform_0620_002_tr_1_tl_26"/>pex, von Sion (Sitten) nach Les Haudères, und
+<lb xml:id="smallform_0620_002_tr_1_tl_27"/>Siders (Sierre) nach Ayer (Val d’Anniviers) weichen
+<lb xml:id="smallform_0620_002_tr_1_tl_28"/>die Schweizerischen Postautomobile immer berg¬
+<lb xml:id="smallform_0620_002_tr_1_tl_29"/>wärts aus. Das oberste Stück des Großen St. Bern¬
+<lb xml:id="smallform_0620_002_tr_1_tl_30"/>hard — zwischen Cantine de Proz und Hospiz –</CONV><!--FML: this needs attention (was tagged as "fml" in Transkribus)--><pb xml:id="smallform_0620_003"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_017.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0620_003_tr_1"/><CONV tag="p">
+<lb xml:id="smallform_0620_003_tr_1_tl_2"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->darf von 11.45 bis 12.30 nur aufwärts befahren
+<lb xml:id="smallform_0620_003_tr_1_tl_3"/>werden, von 15.00 bis 15.45 nur abwärts. Außer¬
+<lb xml:id="smallform_0620_003_tr_1_tl_4"/>dem ist die Straße von Les Valettes bis Champex
+<lb xml:id="smallform_0620_003_tr_1_tl_5"/>Einbahnstraße. Die Fahrzeiten wechseln, man er¬
+<lb xml:id="smallform_0620_003_tr_1_tl_6"/>fährt sie durch Tafeln, die an der Straße angebracht
+<lb xml:id="smallform_0620_003_tr_1_tl_7"/>sind. Wer seinen Wagen durch den Simplon
+<lb xml:id="smallform_0620_003_tr_1_tl_8"/>oder Lötschberg verladen will, sollte Sonntage ver¬
+<lb xml:id="smallform_0620_003_tr_1_tl_9"/>meiden: Werktags nämlich bezahlt man die ge¬
+<lb xml:id="smallform_0620_003_tr_1_tl_10"/>wöhnliche Frachtguttaxe, an Sonn- und Feier¬
+<lb xml:id="smallform_0620_003_tr_1_tl_11"/>tagen hingegen kostet es durch den Lötschberg die
+<lb xml:id="smallform_0620_003_tr_1_tl_12"/>erheblich teurere Eilguttaxe, durch den Simplon
+<lb xml:id="smallform_0620_003_tr_1_tl_13"/>werden Automobile an diesen Tagen nur als „Ex¬
+<lb xml:id="smallform_0620_003_tr_1_tl_14"/>preßgut“ befördert.</CONV><CONV tag="p">
+<lb xml:id="smallform_0620_003_tr_1_tl_15"/>Der meist befahrene Paß nach Italien ist wahr¬
+<lb xml:id="smallform_0620_003_tr_1_tl_16"/>scheinlich der <CONV tag="g">Simplon</CONV>. Die Straße vom <CONV tag="g">Gro¬
+<lb xml:id="smallform_0620_003_tr_1_tl_17"/>ßen St. Bernhard</CONV> ist weniger gut und viel länger,
+<lb xml:id="smallform_0620_003_tr_1_tl_18"/>aber Postautomobile und Car Alpins von erheblichen
+<lb xml:id="smallform_0620_003_tr_1_tl_19"/>Ausmaßen können sie immerhin ohne Schwierig¬
+<lb xml:id="smallform_0620_003_tr_1_tl_20"/>keiten befahren. Von Martigny aus gibt es jetzt
+<lb xml:id="smallform_0620_003_tr_1_tl_21"/>eine Straße von großem landschaftlichem Reiz: Sie
+<lb xml:id="smallform_0620_003_tr_1_tl_22"/>zweigt in Les Valettes von der Paßstraße des Gro¬
+<lb xml:id="smallform_0620_003_tr_1_tl_23"/>ßen St. Bernhard ab und führt in äußerst steilen
+<lb xml:id="smallform_0620_003_tr_1_tl_24"/>und engen Kehren nach dem neuerdings frequen¬
+<lb xml:id="smallform_0620_003_tr_1_tl_25"/>tierten <CONV tag="g">Lac Champex</CONV>. Ebenso steil ist die andere
+<lb xml:id="smallform_0620_003_tr_1_tl_26"/>Seite, nach Orsières hinunter. Aber die Anstrengung
+<lb xml:id="smallform_0620_003_tr_1_tl_27"/>lohnt sich. Man hat den schönsten Blick auf die
+<lb xml:id="smallform_0620_003_tr_1_tl_28"/>ausgebreiteten Hänge und Täler von d’Entremont
+<lb xml:id="smallform_0620_003_tr_1_tl_29"/>und Ferret und weit hinten auf die weißen Spitzen
+<lb xml:id="smallform_0620_003_tr_1_tl_30"/>am Großen St. Bernhard.</CONV><pb xml:id="smallform_0620_004"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_018.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0620_004_tr_1"/><CONV tag="p">
+<lb xml:id="smallform_0620_004_tr_1_tl_2"/>Endlich ist Martigny Ausgangspunkt der Straße
+<lb xml:id="smallform_0620_004_tr_1_tl_3"/>nach <CONV tag="g">Chamonix</CONV> — und für die berühmte Fahrt,
+<lb xml:id="smallform_0620_004_tr_1_tl_4"/>die man „Tour du Mont Blanc nennt. Man fährt
+<lb xml:id="smallform_0620_004_tr_1_tl_5"/>über Chamonix und den Kleinen St. Bernhard nach
+<lb xml:id="smallform_0620_004_tr_1_tl_6"/>Aosta und von dort über den Großen St. Bernhard
+<lb xml:id="smallform_0620_004_tr_1_tl_7"/>nach Martigny zurück. Wer 360 Kilometer lang
+<lb xml:id="smallform_0620_004_tr_1_tl_8"/>großartige Landschaften und die wechselreiche Fülle
+<lb xml:id="smallform_0620_004_tr_1_tl_9"/>der Ausblicke auf Eismeere und Drei- und Vier¬
+<lb xml:id="smallform_0620_004_tr_1_tl_10"/>tausender erträgt, der kommt dabei auf seine Kosten.</CONV>
+<lb xml:id="smallform_0620_004_tr_1_tl_11"/>[head]Der Simplon und der Große St. Bernhard<CONV tag="p">
+<lb xml:id="smallform_0620_004_tr_1_tl_12"/>Paßfahrten gehören zu den schönsten unter den
+<lb xml:id="smallform_0620_004_tr_1_tl_13"/>unzähligen romantischen Möglichkeiten des Auto¬
+<lb xml:id="smallform_0620_004_tr_1_tl_14"/>mobils. Paßwanderungen sind von gewissen Ge¬
+<lb xml:id="smallform_0620_004_tr_1_tl_15"/>sichtspunkten aus noch romantischer, vermitteln in¬
+<lb xml:id="smallform_0620_004_tr_1_tl_16"/>timere Kenntnisse und — sagen wir — realistischere
+<lb xml:id="smallform_0620_004_tr_1_tl_17"/>Eindrücke. Sie kosten weniger Geld und sehr viel
+<lb xml:id="smallform_0620_004_tr_1_tl_18"/>mehr Zeit. Die Paßfahrt im Auto ist ein Eindruck
+<lb xml:id="smallform_0620_004_tr_1_tl_19"/>im großen, von wunderbarer Totalität und daher
+<lb xml:id="smallform_0620_004_tr_1_tl_20"/>ungemein befriedigend. Die Pässe gehören zu den
+<lb xml:id="smallform_0620_004_tr_1_tl_21"/>sprechenden Zeugen der Menschheitsgeschichte, und
+<lb xml:id="smallform_0620_004_tr_1_tl_22"/>zu ihren sichtbar zweckbewußten, und dabei immer
+<lb xml:id="smallform_0620_004_tr_1_tl_23"/>von schicksalhaftem Schauer berührten Werken.
+<lb xml:id="smallform_0620_004_tr_1_tl_24"/>Denn immer ist es ein Wagnis und ein großartig
+<lb xml:id="smallform_0620_004_tr_1_tl_25"/>ungewisses Unternehmen, Schranken zu durchbre¬
+<lb xml:id="smallform_0620_004_tr_1_tl_26"/>chen, welche die Natur zwischen Länder und Men¬
+<lb xml:id="smallform_0620_004_tr_1_tl_27"/>schen gelegt hat, und immer ist es ein leichtes und
+<lb xml:id="smallform_0620_004_tr_1_tl_28"/>berechtigtes Siegergefühl, einen Paß zu überschrei¬</CONV><!--FML: this needs attention (was tagged as "fml" in Transkribus)--><pb xml:id="smallform_0620_005"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_019.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0620_005_tr_1"/><CONV tag="p">
+<lb xml:id="smallform_0620_005_tr_1_tl_2"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->ten und von der Höhe hinab das „gelobte Land“ zu
+<lb xml:id="smallform_0620_005_tr_1_tl_3"/>erblicken.</CONV><CONV tag="p">
+<lb xml:id="smallform_0620_005_tr_1_tl_4"/>Jeder Paß hat seine eigene Landschaft, aber jenen
+<lb xml:id="smallform_0620_005_tr_1_tl_5"/>„schicksalhaften Schauer“ besitzen am meisten die
+<lb xml:id="smallform_0620_005_tr_1_tl_6"/>großen Straßen des Simplon und des Großen
+<lb xml:id="smallform_0620_005_tr_1_tl_7"/>St. Bernhard. Der <CONV tag="g">Simplon</CONV> beginnt in Brig, in der
+<lb xml:id="smallform_0620_005_tr_1_tl_8"/>Ebene — denn im Wallis ist die milde, bewohnte
+<lb xml:id="smallform_0620_005_tr_1_tl_9"/>Talsohle eine Art von Tiefland. Man steigt durch
+<lb xml:id="smallform_0620_005_tr_1_tl_10"/>die enge Gasse empor, vorbei an der festungsähn¬
+<lb xml:id="smallform_0620_005_tr_1_tl_11"/>lichen Front des Stockalperpalastes und an den hel¬
+<lb xml:id="smallform_0620_005_tr_1_tl_12"/>len getünchten Gebäuden des Klosterhofs, zwischen
+<lb xml:id="smallform_0620_005_tr_1_tl_13"/>Wiesen und niederen Steinmäuerchen. Das ist der
+<lb xml:id="smallform_0620_005_tr_1_tl_14"/>Anfang, dann kommt der Wald, und nach den er¬
+<lb xml:id="smallform_0620_005_tr_1_tl_15"/>sten großen Kehren der frische Hauch aus den Ber¬
+<lb xml:id="smallform_0620_005_tr_1_tl_16"/>gen. Und nun beginnt der Anstieg den großen
+<lb xml:id="smallform_0620_005_tr_1_tl_17"/>Hängen entlang, wobei sich das Panorama immer
+<lb xml:id="smallform_0620_005_tr_1_tl_18"/>staunenswerter eröffnet: Kulisse hinter Kulisse,
+<lb xml:id="smallform_0620_005_tr_1_tl_19"/>graue Silhouetten unzähliger Gipfel. Die Napo¬
+<lb xml:id="smallform_0620_005_tr_1_tl_20"/>leonsbrücke führt auf die andere Seite der breiten
+<lb xml:id="smallform_0620_005_tr_1_tl_21"/>Schlucht, und nun sieht man auf die lange Straße
+<lb xml:id="smallform_0620_005_tr_1_tl_22"/>zurück, die als weiße Linie in geduldigem allmähli¬
+<lb xml:id="smallform_0620_005_tr_1_tl_23"/>chem Ansteigen den Hang durchschneidet — die un¬
+<lb xml:id="smallform_0620_005_tr_1_tl_24"/>aufhaltsam emporsteigt bis zu den kargeren Regio¬
+<lb xml:id="smallform_0620_005_tr_1_tl_25"/>nen, wo Schneefelder den Blick begrenzen und
+<lb xml:id="smallform_0620_005_tr_1_tl_26"/>mächtige Geröllhalden bis zu unseren Füßen vor¬
+<lb xml:id="smallform_0620_005_tr_1_tl_27"/>dringen wie Zungen von Giganten. Der Simplon hat
+<lb xml:id="smallform_0620_005_tr_1_tl_28"/>seine visionärste Stunde am Abend: und es braucht
+<lb xml:id="smallform_0620_005_tr_1_tl_29"/>schon ein Maß von Unempfindlichkeit und Un¬
+<lb xml:id="smallform_0620_005_tr_1_tl_30"/>erschrockenheit, um dem eisigen Anhauch oben zu</CONV><!--FML: this needs attention (was tagged as "fml" in Transkribus)--><pb xml:id="smallform_0620_006"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_020.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0620_006_tr_1"/><CONV tag="p">
+<lb xml:id="smallform_0620_006_tr_1_tl_2"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->begegnen, und dem plötzlichen Ergrauen aller Far¬
+<lb xml:id="smallform_0620_006_tr_1_tl_3"/>ben, wenn die Sonne verschwindet. Der Wind, zwi¬
+<lb xml:id="smallform_0620_006_tr_1_tl_4"/>schen den dunklen Häuptern geboren, fährt kni¬
+<lb xml:id="smallform_0620_006_tr_1_tl_5"/>sternd durch die trockenen Erikasträucher, Nebel
+<lb xml:id="smallform_0620_006_tr_1_tl_6"/>kriechen wie weiße Scharen aus der jenseitigen
+<lb xml:id="smallform_0620_006_tr_1_tl_7"/>Tiefe, verhüllen das Hospiz und überfliegen unheim¬
+<lb xml:id="smallform_0620_006_tr_1_tl_8"/>lich lautlos und geschwind die obersten Kuppen.
+<lb xml:id="smallform_0620_006_tr_1_tl_9"/>Und dann kommt sehr rasch die Dunkelheit und
+<lb xml:id="smallform_0620_006_tr_1_tl_10"/>rückt die Landschaft in noch unbemessenere Ab¬
+<lb xml:id="smallform_0620_006_tr_1_tl_11"/>geschiedenheit. Man sieht den Fuß der Berge nicht
+<lb xml:id="smallform_0620_006_tr_1_tl_12"/>mehr: dadurch wird ihre Größe unvorstellbar –
+<lb xml:id="smallform_0620_006_tr_1_tl_13"/>und unter ihnen liegt eine ebenso unvorstellbare
+<lb xml:id="smallform_0620_006_tr_1_tl_14"/>Tiefe. Die Lichtkegel des Wagens gleiten langsam
+<lb xml:id="smallform_0620_006_tr_1_tl_15"/>voran, während man sich, verloren auf der großen
+<lb xml:id="smallform_0620_006_tr_1_tl_16"/>Heerstraße, dieser Tiefe nähert. Dann erscheinen
+<lb xml:id="smallform_0620_006_tr_1_tl_17"/>die Lichter von Brig, die Straße senkt sich rascher,
+<lb xml:id="smallform_0620_006_tr_1_tl_18"/>und die mildere Luft des Tales legt sich um uns
+<lb xml:id="smallform_0620_006_tr_1_tl_19"/>wie eine Decke.</CONV><CONV tag="p">
+<lb xml:id="smallform_0620_006_tr_1_tl_20"/>Man ist übereingekommen, den Simplon eine der
+<lb xml:id="smallform_0620_006_l"/>großartigsten Paßstraßen zu nennen und die
+<lb xml:id="smallform_0620_006_tr_1_tl_23"/>Simplonbahn mit ihren Schnellzügen zwischen Ita¬
+<lb xml:id="smallform_0620_006_tr_1_tl_24"/>lien und Paris würde schon allein genügen, um sei¬
+<lb xml:id="smallform_0620_006_tr_1_tl_25"/>nen alten Rang zu erhalten und neuen Ruhm hinzu¬
+<lb xml:id="smallform_0620_006_tr_1_tl_26"/>zufügen. Wichtiger ist es, für den <CONV tag="g">Großen
+<lb xml:id="smallform_0620_006_tr_1_tl_27"/>St. Bernhard</CONV> einzutreten, der — aus undefinier¬
+<lb xml:id="smallform_0620_006_tr_1_tl_28"/>baren Gründen — als langweilig, unschön, nicht loh¬
+<lb xml:id="smallform_0620_006_tr_1_tl_29"/>nend verschrien ist. Als ob es überhaupt langweilige
+<lb xml:id="smallform_0620_006_tr_1_tl_30"/>Landschaften im objektiven Sinne gäbe, und vollends
+<lb xml:id="smallform_0620_006_tr_1_tl_31"/>in den Alpen!</CONV><pb xml:id="smallform_0620_007"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_021.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0620_007_tr_1"/><CONV tag="p">
+<lb xml:id="smallform_0620_007_tr_1_tl_2"/>Nein, der Große St. Bernhard ist lediglich ein
+<lb xml:id="smallform_0620_007_tr_1_tl_3"/>Opfer der Mode, deren Gesetze bekanntlich nicht
+<lb xml:id="smallform_0620_007_tr_1_tl_4"/>einsichtig sind, und die man deshalb auch keines¬
+<lb xml:id="smallform_0620_007_tr_1_tl_5"/>falls befolgen sollte. Im frühen Mittelalter war die¬
+<lb xml:id="smallform_0620_007_tr_1_tl_6"/>ser Paß überhaupt der wichtigste Übergang zwischen
+<lb xml:id="smallform_0620_007_tr_1_tl_7"/>Deutschland und Italien — neben Septimer und
+<lb xml:id="smallform_0620_007_tr_1_tl_8"/>Brenner. 80 Kilometer sind es von Martigny bis
+<lb xml:id="smallform_0620_007_tr_1_tl_9"/>Aosta — 46 von Martigny bis zum Hospiz. Ge¬
+<lb xml:id="smallform_0620_007_tr_1_tl_10"/>waltige Strecken. Harmlos der Anfang: durch die
+<lb xml:id="smallform_0620_007_tr_1_tl_11"/>Reben und bewaldeten Hügel des Entremonttales,
+<lb xml:id="smallform_0620_007_tr_1_tl_12"/>Übermaß von Grün im Sommer, goldene Färbung
+<lb xml:id="smallform_0620_007_tr_1_tl_13"/>im Herbst. Schluchten, wie die Romantiker sie mal¬
+<lb xml:id="smallform_0620_007_tr_1_tl_14"/>ten, mit der rauschenden Drance in der Tiefe. Or¬
+<lb xml:id="smallform_0620_007_tr_1_tl_15"/>sières ist das erste größere Dorf am Endpunkt der
+<lb xml:id="smallform_0620_007_l"/>Bahn von Martigny — die einmal hätte sollen
+<lb xml:id="smallform_0620_007_tr_1_tl_18"/>St. Bernhardbahn werden, und nun dem kleinen Lo¬
+<lb xml:id="smallform_0620_007_tr_1_tl_19"/>kalverkehr dient und die Reisenden den Postautos
+<lb xml:id="smallform_0620_007_tr_1_tl_20"/>abgibt. Nach Orsières führen auch die vielen
+<lb xml:id="smallform_0620_007_tr_1_tl_21"/>Straßen, die als helle Schlangenlinien über die stei¬
+<lb xml:id="smallform_0620_007_tr_1_tl_22"/>len grünen Hänge laufen und die schwarzen Dörfer
+<lb xml:id="smallform_0620_007_tr_1_tl_23"/>erreichen: Reppaz und Comeire und Champdonne.</CONV><CONV tag="p">
+<lb xml:id="smallform_0620_007_tr_1_tl_24"/>Orsières ist alt, seine steinernen Häuser haben die
+<lb xml:id="smallform_0620_007_tr_1_tl_25"/>Farbe der Felsen, sein Kirchturm ist einer der älte¬
+<lb xml:id="smallform_0620_007_tr_1_tl_26"/>sten des Landes. Und hier stoßen wir schon auf
+<lb xml:id="smallform_0620_007_tr_1_tl_27"/>die Spuren der Sarazenen — denn dieser Turm war
+<lb xml:id="smallform_0620_007_tr_1_tl_28"/>zugleich Festungsturm und diente zur Verteidigung
+<lb xml:id="smallform_0620_007_tr_1_tl_29"/>gegen die wilden Eindringlinge.</CONV><CONV tag="p">
+<lb xml:id="smallform_0620_007_tr_1_tl_30"/>Hinter Orsières beginnen die Alpweiden, die Ka¬
+<lb xml:id="smallform_0620_007_tr_1_tl_31"/>pellen von St. Laurent und St. Etienne stehen fromm</CONV><!--FML: this needs attention (was tagged as "fml" in Transkribus)--><pb xml:id="smallform_0620_008"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_022.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0620_008_r"/><CONV tag="p">
+<lb xml:id="smallform_0620_008_l"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->an der Straße, zwischen ihnen das Dorf Liddes,
+<lb xml:id="smallform_0620_008_l_1"/>steile Dorfstraße, fast zu eng für die großen Auto¬<milestone unit="textregion" xml:id="smallform_0620_008_r_3"/>
+            <lb xml:id="smallform_0620_008_l_18"/>mobile — eine uralte Kirche ein wenig abseits. Der
+<lb xml:id="smallform_0620_008_l_19"/>Pfarrer von Liddes besitzt eine Sammlung von rö¬
+<lb xml:id="smallform_0620_008_l_20"/>mischen und keltischen Münzen, um die man ihn
+<lb xml:id="smallform_0620_008_l_21"/>beneiden könnte. Die Schulkinder finden die sel¬</CONV><!--FML: this needs attention (was tagged as "fml" in Transkribus)--><milestone unit="textregion" xml:id="smallform_0620_008_r_2"/><CONV tag="f">
+<lb xml:id="smallform_0620_008_l_37"/>Zeichnung der Dorfkirche von Liddes von Tomamichl</CONV><pb xml:id="smallform_0620_009"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_023.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0620_009_tr_1"/><CONV tag="p">
+<lb xml:id="smallform_0620_009_tr_1_tl_2"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->tenen und kostbaren Stücke auf den Feldern und
+<lb xml:id="smallform_0620_009_tr_1_tl_3"/>tragen sie ihm ins Haus. <CONV tag="g">Bourg-St.-Pierre</CONV> ist
+<lb xml:id="smallform_0620_009_tr_1_tl_4"/>ein historischer Ort. Man weiß, daß Napoleon dort
+<lb xml:id="smallform_0620_009_tr_1_tl_5"/>gefrühstückt hat, ein muffiges Stübchen im ersten
+<lb xml:id="smallform_0620_009_tr_1_tl_6"/>Stock des kleinen Hotels „du déjeuner de Napo-
+<lb xml:id="smallform_0620_009_tr_1_tl_7"/>léon I<PAGE tag="superscript">er</PAGE>“ bewahrt pietätvoll sein Andenken. Und
+<lb xml:id="smallform_0620_009_tr_1_tl_8"/>die Besucher tragen sich in ein großes Buch ein,
+<lb xml:id="smallform_0620_009_tr_1_tl_9"/>nachdem sie Tisch und Stuhl bewundert haben und
+<lb xml:id="smallform_0620_009_tr_1_tl_10"/>den Stich an der Wand, der den Herrscher auf
+<lb xml:id="smallform_0620_009_tr_1_tl_11"/>einem Schlachtroß im Galopp zwischen unwahr¬
+<lb xml:id="smallform_0620_009_tr_1_tl_12"/>scheinlichen Bergen zeigt. Das Original wurde frag¬
+<lb xml:id="smallform_0620_009_tr_1_tl_13"/>los in Paris gemalt, und der Künstler dürfte den
+<lb xml:id="smallform_0620_009_tr_1_tl_14"/>St. Bernhard nie gesehen haben.</CONV><CONV tag="p">
+<lb xml:id="smallform_0620_009_tr_1_tl_15"/>Die durchreisenden Fremden, die das historische
+<lb xml:id="smallform_0620_009_tr_1_tl_16"/>Frühstückszimmer besichtigen, wissen meistens nicht,
+<lb xml:id="smallform_0620_009_tr_1_tl_17"/>daß Bourg-St.-Pierre noch andere historische Reich¬
+<lb xml:id="smallform_0620_009_tr_1_tl_18"/>tümer von seltenerem dokumentarischem Wert be¬
+<lb xml:id="smallform_0620_009_tr_1_tl_19"/>sitzt. Ob allerdings die kleine alte Drancebrücke
+<lb xml:id="smallform_0620_009_tr_1_tl_20"/>wirklich von Karl dem Großen gebaut wurde, ist
+<lb xml:id="smallform_0620_009_tr_1_tl_21"/>fraglich — aber der römische Meilenstein in der
+<lb xml:id="smallform_0620_009_tr_1_tl_22"/>Kirchhofmauer ist echt, und ebenso die steinerne
+<lb xml:id="smallform_0620_009_tr_1_tl_23"/>Kirchenschwelle, die eine schwer leserliche Inschrift
+<lb xml:id="smallform_0620_009_tr_1_tl_24"/>über das Erscheinen der Sarazenen in den Alpen ent-
+<lb xml:id="smallform_0620_009_tr_1_tl_25"/>hält — und das ist ein kostbares Zeugnis.</CONV><CONV tag="p">
+<lb xml:id="smallform_0620_009_tr_1_tl_26"/>Hinter Bourg-St.-Pierre beginnt endlich die wahre
+<lb xml:id="smallform_0620_009_tr_1_tl_27"/>Paßlandschaft, großartig und öde. Zwischen den
+<lb xml:id="smallform_0620_009_tr_1_tl_28"/>gelben Felsen weiden die kleinen schwarzen Wa¬
+<lb xml:id="smallform_0620_009_tr_1_tl_29"/>liser Kühe, am Abend treibt man sie im Tal zu¬
+<lb xml:id="smallform_0620_009_tr_1_tl_30"/>sammen, bei der Cantine de Proz, bei den letzten,</CONV><!--FML: this needs attention (was tagged as "fml" in Transkribus)--><pb xml:id="smallform_0620_010"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_024.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0620_010_tr_1"/><CONV tag="p">
+<lb xml:id="smallform_0620_010_tr_1_tl_2"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->furchtbar einsamen Sennhütten. Dann ist das Tal
+<lb xml:id="smallform_0620_010_tr_1_tl_3"/>zu Ende, und der Weg scheint mitten in das Herz
+<lb xml:id="smallform_0620_010_tr_1_tl_4"/>der Berge zu führen und sich darin zu verlieren. Es
+<lb xml:id="smallform_0620_010_tr_1_tl_5"/>geht steil bergan, man liest auf einem nach links
+<lb xml:id="smallform_0620_010_tr_1_tl_6"/>weisenden Täfelchen den Namen „Combe des Morts“,
+<lb xml:id="smallform_0620_010_tr_1_tl_7"/>und nun erinnert man sich an die alten Geschichten
+<lb xml:id="smallform_0620_010_tr_1_tl_8"/>von den verirrten Reisenden, die in der schauerlichen
+<lb xml:id="smallform_0620_010_tr_1_tl_9"/>Einöde umkamen oder noch in letzter Minute von
+<lb xml:id="smallform_0620_010_tr_1_tl_10"/>den Mönchen vom St. Bernhard und ihren Hunden
+<lb xml:id="smallform_0620_010_tr_1_tl_11"/>aufgefunden wurden. — Die steilen Gipfel weichen
+<lb xml:id="smallform_0620_010_tr_1_tl_12"/>ein wenig zurück, auf der höchsten Stelle des Pas¬
+<lb xml:id="smallform_0620_010_tr_1_tl_13"/>ses liegt, grau zwischen grauem Gestein, das ehr-
+<lb xml:id="smallform_0620_010_tr_1_tl_14"/>würdige Hospiz. Man erkennt sein Alter: Die
+<lb xml:id="smallform_0620_010_tr_1_tl_15"/>Hospizgebäude stammen aus dem sechzehnten Jahr¬
+<lb xml:id="smallform_0620_010_tr_1_tl_16"/>hundert, aber das erste Hospiz wurde schon im
+<lb xml:id="smallform_0620_010_tr_1_tl_17"/>elften Jahrhundert von dem frommen savoyischen
+<lb xml:id="smallform_0620_010_tr_1_tl_18"/>Edelmann Bernhard von Menthon gegründet. Päpste
+<lb xml:id="smallform_0620_010_tr_1_tl_19"/>und Kaiser und viele Fürsten haben es seither reich
+<lb xml:id="smallform_0620_010_tr_1_tl_20"/>beschenkt, und Peter von Savoyen, der mit dem
+<lb xml:id="smallform_0620_010_tr_1_tl_21"/>Bischof von Sitten sein Leben lang in Streit lag,
+<lb xml:id="smallform_0620_010_tr_1_tl_22"/>hat in seinem Testament den Mönchen vom St. Bern¬
+<lb xml:id="smallform_0620_010_tr_1_tl_23"/>hard ein Haus in London vermacht. Und die
+<lb xml:id="smallform_0620_010_tr_1_tl_24"/>Mönche hausen nun seit fast 2000 [eigentlich 1000, wie in der Ausgabe handschriftlich von unbekannt vermerkt] Jahren in der
+<lb xml:id="smallform_0620_010_tr_1_tl_25"/>unwirtlichen Einsamkeit. Es sind Augustiner, und
+<lb xml:id="smallform_0620_010_tr_1_tl_26"/>ihr Mutterkloster steht in Martigny.</CONV><CONV tag="p">
+<lb xml:id="smallform_0620_010_tr_1_tl_27"/>Man wirft dem St. Bernhard seinen übertriebe¬
+<lb xml:id="smallform_0620_010_tr_1_tl_28"/>nen, wild-pathetischen Ruf vor — das Stilfser Joch
+<lb xml:id="smallform_0620_010_tr_1_tl_29"/>ist höher, seine Kurven für den Autofahrer gefähr¬
+<lb xml:id="smallform_0620_010_l"/>licher — und im Winter kann der Fußgänger</CONV><!--FML: this needs attention (was tagged as "fml" in Transkribus)--><pb xml:id="smallform_0620_011"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_025.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0620_011_tr_1"/><CONV tag="p">
+<lb xml:id="smallform_0620_011_tr_1_tl_2"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->schließlich auf jedem Paß im Schnee erfrieren.
+<lb xml:id="smallform_0620_011_tr_1_tl_3"/>Sind es nur die Mönche und die Bernhardiner¬
+<lb xml:id="smallform_0620_011_tr_1_tl_4"/>hunde mit dem Weinfäßchen am Halsband, denen
+<lb xml:id="smallform_0620_011_tr_1_tl_5"/>die Paßlegende zu verdanken ist? Aber man ver¬
+<lb xml:id="smallform_0620_011_tr_1_tl_6"/>gißt, daß das Hospiz immerhin auf einer Höhe von
+<lb xml:id="smallform_0620_011_tr_1_tl_7"/>beinahe 2500 Metern liegt, und man weiß nicht, daß
+<lb xml:id="smallform_0620_011_tr_1_tl_8"/>das Klima am Großen St. Bernhard ganz besonders
+<lb xml:id="smallform_0620_011_tr_1_tl_9"/>rauh ist, selbst für seine Höhenlage: denn die mitt¬
+<lb xml:id="smallform_0620_011_tr_1_tl_10"/>lere Julitemperatur beträgt hier etwa 6 Grad, und
+<lb xml:id="smallform_0620_011_tr_1_tl_11"/>während des ganzen Jahres zählt man nur zehn
+<lb xml:id="smallform_0620_011_tr_1_tl_12"/>einwandfrei helle Tage. Dazu kommt die schon
+<lb xml:id="smallform_0620_011_tr_1_tl_13"/>erwähnte Länge der Straße — welche Strecken für
+<lb xml:id="smallform_0620_011_tr_1_tl_14"/>den Fußgänger, den armen Pilger, den Wander¬
+<lb xml:id="smallform_0620_011_tr_1_tl_15"/>burschen, den italienischen Arbeiter! Die Mönche
+<lb xml:id="smallform_0620_011_tr_1_tl_16"/>haben 60 Gastbetten und einen großen Speisesaal,
+<lb xml:id="smallform_0620_011_tr_1_tl_17"/>wo man nach alter Tradition Reis und Pflaumen
+<lb xml:id="smallform_0620_011_tr_1_tl_18"/>zu essen bekommt. Ein gedeckter Gang führt in
+<lb xml:id="smallform_0620_011_tr_1_tl_19"/>das Hotel hinüber. Seitdem es dieses Hotel gibt,
+<lb xml:id="smallform_0620_011_tr_1_tl_20"/>nehmen die Mönche im Sommer nur die bedürftigen
+<lb xml:id="smallform_0620_011_tr_1_tl_21"/>Wanderer auf. Im Winter ist das Hotel geschlos¬
+<lb xml:id="smallform_0620_011_tr_1_tl_22"/>sen — und wie in alten Zeiten genießt jeder die
+<lb xml:id="smallform_0620_011_tr_1_tl_23"/>Gastfreundschaft der Mönche. Auch die Hunde
+<lb xml:id="smallform_0620_011_tr_1_tl_24"/>sind noch da: kurzhaarig, braungefleckt, mit stäm¬
+<lb xml:id="smallform_0620_011_tr_1_tl_25"/>migen Beinen. Sie sehen aus wie große unbehol¬
+<lb xml:id="smallform_0620_011_tr_1_tl_26"/>fene Spielzeuge, stehen geduldig, gelangweilt, treuen
+<lb xml:id="smallform_0620_011_tr_1_tl_27"/>Blicks hinter ihrer hohen Umzäunung. Im sieb¬
+<lb xml:id="smallform_0620_011_tr_1_tl_28"/>zehnten Jahrhundert hat man sie hier herauf ge¬
+<lb xml:id="smallform_0620_011_tr_1_tl_29"/>bracht — unbekannte Rasse, die man auf der ita¬
+<lb xml:id="smallform_0620_011_tr_1_tl_30"/>lienischen Seite des Passes, in der Gegend von</CONV><!--FML: this needs attention (was tagged as "fml" in Transkribus)--><pb xml:id="smallform_0620_012"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_026.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0620_012_r"/><CONV tag="p">
+<lb xml:id="smallform_0620_012_l"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->Aosta fand. Vielleicht sind sie römischer Abkunft.
+<lb xml:id="smallform_0620_012_l_1"/>Jahrhundertelange Erziehung hat sie zu der vor¬
+<lb xml:id="smallform_0620_012_l_2"/>trefflichen Rasse ausgebildet, die alle für ihren
+<lb xml:id="smallform_0620_012_l_3"/>schweren Beruf erforderlichen Qualitäten besaß:
+<lb xml:id="smallform_0620_012_l_4"/>einen vorzüglichen Ortssinn, ein fast unglaubliches
+<lb xml:id="smallform_0620_012_l_5"/>Witterungsvermögen, Selbständigkeit und Ausdauer.
+<lb xml:id="smallform_0620_012_l_6"/>Der berühmteste unter den Bernhardinern ist jener
+<lb xml:id="smallform_0620_012_l_7"/>Barry, der von 1800 bis 1814 gelebt und nicht
+<lb xml:id="smallform_0620_012_l_8"/>weniger als vierzig Menschen gerettet hat. Sein
+<lb xml:id="smallform_0620_012_l_9"/>Andenken steht in hohen Ehren. Heute haben die
+<lb xml:id="smallform_0620_012_l_10"/>Hunde nicht mehr soviel zu tun, und die Mönche
+<lb xml:id="smallform_0620_012_l_11"/>haben Skilaufen gelernt. Sie haben so wenig zu
+<lb xml:id="smallform_0620_012_l_12"/>tun, daß eine Gruppe von ihnen nach dem Tibet
+<lb xml:id="smallform_0620_012_l_13"/>ausgewandert ist, um ein ähnliches Hospiz zu er¬
+<lb xml:id="smallform_0620_012_l_14"/>richten, wie es der Große St. Bernhard hat.</CONV></div>
+      </body>
+   </text>
+</TEI>
