@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0081" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0081#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0081</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0081_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0081_003.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l"/>ich brauche <hi rendition="#u">Bilder</hi>! für meinen hiesigen 
+               <lb xml:id="p001_tr_1_tl_3"/>Agenten: bitte – – – [Pfeil] 
+               <lb xml:id="p001_tr_1_tl_5"/>11. Januar [handschriftliche Ergänzung] 
+               <lb xml:id="p001_tr_1_tl_4"/>ANNEMARIE CLARAC 
+               <lb xml:id="p001_tr_1_tl_6"/>118 EAST 40<hi rendition="#sub">TH</hi> 
+               <lb xml:id="p001_tr_1_tl_7"/>NEW YORK</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_8"/>Mariannchen, Liebste–es ist <hi rendition="#g">gar</hi> nicht richtig, 
+               <lb xml:id="p001_tr_1_tl_9"/>und bedeutet <hi rendition="#g">gar</hi> nichts, dass ich Dir nicht 
+               <lb xml:id="p001_tr_1_tl_10"/>geschrieben habe, denn ich liebe Dich trotzdem. 
+               <lb xml:id="p001_tr_1_tl_11"/>Aber ich habe ja so viel oedes böses Pech gehabt, 
+               <lb xml:id="p001_tr_1_tl_12"/>Erika musste überhaupt direkt vom Schiff aus an 
+               <lb xml:id="p001_tr_1_tl_13"/>mein Krankenbett in Washington eilen, wo Barbara 
+               <lb xml:id="p001_tr_1_tl_14"/>mich schon sterbend glaubte. Fieber, Blutvergiftung, 
+               <lb xml:id="p001_tr_1_tl_15"/>Operation, – nach einem Rückfall liess mich Eri 
+               <lb xml:id="p001_tr_1_tl_16"/>hierher kommen, wo ich weitere sechs Wochen mit 
+               <lb xml:id="p001_tr_1_tl_17"/>offenen Schnitten am operierten Bein zu tun hatte 
+               <lb xml:id="p001_tr_1_tl_18"/>– jetzt ist es heil, aber Fieber hatte ich auch an 
+               <lb xml:id="p001_tr_1_tl_19"/>Weihnachten wieder – und es ist ein heftiger, zuwei 
+               <lb xml:id="p001_tr_2_tl_1" break="no"/>len auch sturer Kampf, trotzdem zu arbeiten. Aber 
+               <lb xml:id="p001_tr_2_tl_2"/>Amerika, die Zukunft, der Laborstreit, die tragische 
+               <lb xml:id="p001_tr_2_tl_3"/>Geschichte der Baumwollstaaten, der Kampf gegen 
+               <lb xml:id="p001_tr_2_tl_4"/>die Sandstürme, – und nicht zuletzt der Kampf um 
+               <lb xml:id="p001_tr_2_tl_5"/>die Pfeffermühle (die vorläufig von den Kritiken 
+               <lb xml:id="p001_tr_2_tl_6"/>missverstanden, von den Publikumsleuten heftigst 
+               <lb xml:id="p001_tr_2_tl_7"/>diskutiert wird) – das alles ist interessant genug, 
+               <lb xml:id="p001_tr_2_tl_8"/>um auch mich schwache Pflanze am Leben zu erhalten. 
+               <lb xml:id="p001_tr_2_tl_9"/>Vielleicht siehst Du den Klaus in Amsterdam, er 
+               <lb xml:id="p001_tr_2_tl_10"/>ist unterwegs. Vielleicht kommst Du im Sommer mal 
+               <lb xml:id="p001_tr_2_tl_11"/>nach Sils, oder vorher – Mai – nach Schweden und fäs[h]rst 
+               <lb xml:id="p001_tr_2_tl_12"/>dort mit mir zum photographieren umher. Vielleicht 
+               <lb xml:id="p001_tr_2_tl_13"/>kommst Du im Herbst dann mit mir hierher – ich 
+               <lb xml:id="p001_tr_2_tl_14"/>bereite alles fein vor, um hier als braver und 
+               <lb xml:id="p001_tr_2_tl_15"/>tüchtiger Journalist zu gelten – und kann mich 
+               <lb xml:id="p001_tr_2_tl_16"/>bisher auch gar nicht beklagen.</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0081_004.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p> 
+               <lb xml:id="p002_tr_1_tl_1"/>Schreib rasch wegen Schweden – ich fahre wohl 
+               <lb xml:id="p002_tr_1_tl_2"/>im April direkt von hier aus zu meiner Schwester, 
+               <lb xml:id="p002_tr_1_tl_3"/>vielleicht können wir was zusammen aufstellen?</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_4"/>Adieu, grüsse F. – lass es Dir immer gut gehen – 
+               <lb xml:id="p002_tr_1_tl_5"/>zärtlichst wie immer Deine 
+               <lb xml:id="p002_tr_1_tl_6"/>An[n]emarie [handschriftlich]</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0081_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_7"/>Mrs. Marianne Breslauer–Feilchenfeld 
+               <lb xml:id="p003_l"/><del rend="overstrike">Keizersgracht 109 
+                  <lb xml:id="p003_tr_1_tl_11"/>Amsterdam</del> 
+               <lb xml:id="p003_tr_1_tl_12"/>– – – – – – – – – – – – 
+               <lb xml:id="p003_tr_1_tl_13"/><del rend="overstrike">Holland</del> 
+               <lb xml:id="p003_tr_1_tl_10"/>Hotel Paris‐Einard [handschriftlich ergänzt] 
+               <lb xml:id="p003_tr_1_tl_14"/>29 Rue Lassette 
+               <lb xml:id="p003_tr_1_tl_15"/><hi rendition="#u">Paris (6e).</hi> 
+               <lb xml:id="p003_tr_1_tl_16"/>Frankrijk.</p>
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0081_002.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_1_tl_1"/>The Bedford 
+               <lb xml:id="p004_tr_1_tl_2"/>118 EAST 40<hi rendition="#sup">TH</hi> STREET 
+               <lb xml:id="p004_tr_1_tl_3"/>NEW YORK</p>
+</div>
+       </body>
+    </text>
+ </TEI>
