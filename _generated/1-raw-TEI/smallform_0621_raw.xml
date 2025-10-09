@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="smallform_0621"
+     type="dseas-smallform">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>smallform_0621</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl corresp="smallform_0621">
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0621_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="smallform">
+            <pb xml:id="smallform_0621_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_026.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0621_001_r_1"/>
+            <lb xml:id="smallform_0621_001_l_17"/>Städte im Wallis<CONV tag="p">
+<lb xml:id="smallform_0621_001_l_18"/>Sie liegen alle im breiten Tal der Rhone, da wo
+<lb xml:id="smallform_0621_001_l_19"/>die Täler einmünden oder wo die Pässe abgehen und
+<lb xml:id="smallform_0621_001_l_20"/>nach Italien oder nach den nördlichen Kantonen
+<lb xml:id="smallform_0621_001_l_21"/>hinüberführen. Zuoberst <CONV tag="g">Brig</CONV>, festes Städtchen
+<lb xml:id="smallform_0621_001_l_22"/>am Fuße des Simplon, seine Türme sind von wei¬
+<lb xml:id="smallform_0621_001_l_23"/>tem sichtbar wie Campanile und Signoria einer ita¬
+<lb xml:id="smallform_0621_001_l_24"/>lienischen Stadt. Unten, am Fluß, der breit und
+<lb xml:id="smallform_0621_001_l_25"/>milchig dahinfließt, münden die neuen und alten
+<lb xml:id="smallform_0621_001_l_26"/>Straßen, die Werkstätten und farblosen Häuser
+<lb xml:id="smallform_0621_001_l_27"/>stehen da, drei eiserne Brücken laufen merkwürdig</CONV><!--FML: this needs attention (was tagged as "fml" in Transkribus)--><pb xml:id="smallform_0621_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_027.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0621_002_tr_1"/><CONV tag="p">
+<lb xml:id="smallform_0621_002_tr_1_tl_2"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->richtungslos über den Fluß, als wollten sie sich
+<lb xml:id="smallform_0621_002_tr_1_tl_3"/>überholen. Am ausgedehnten Bahnhof stehen Wa¬
+<lb xml:id="smallform_0621_002_tr_1_tl_4"/>gen der Oberalp-Furkabahn, rote Speisewagen mit
+<lb xml:id="smallform_0621_002_tr_1_tl_5"/>der Aufschrift Milano—Paris, die Wagenreihen der
+<lb xml:id="smallform_0621_002_tr_1_tl_6"/>Lötschbergbahn.</CONV><CONV tag="p">
+<lb xml:id="smallform_0621_002_tr_1_tl_7"/>Das alte Brig liegt weiter oben, wo bald die Fel¬
+<lb xml:id="smallform_0621_002_tr_1_tl_8"/>sen beginnen, die Häuser sind zusammengedrängt
+<lb xml:id="smallform_0621_002_tr_1_tl_9"/>im Schutz steiler Hänge. Ein kleiner Platz mit der
+<lb xml:id="smallform_0621_002_tr_1_tl_10"/>Sebastianskapelle und der grün belaubten Fassade
+<lb xml:id="smallform_0621_002_tr_1_tl_11"/>des Hotels Couronne et Poste, wo die ausländischen
+<lb xml:id="smallform_0621_002_tr_1_tl_12"/>Wagen stehen, bestaubt und mit hochbepackten
+<lb xml:id="smallform_0621_002_tr_1_tl_13"/>Koffergestellen.</CONV><CONV tag="p">
+<lb xml:id="smallform_0621_002_tr_1_tl_14"/>Gleich hinter dem Hotel de la Couronne beginnen
+<lb xml:id="smallform_0621_002_tr_1_tl_15"/>die kleinen Gäßchen, die alten verblichenen Gast¬
+<lb xml:id="smallform_0621_002_tr_1_tl_16"/>hausschilder („Honni soit qui mal y pense" stand
+<lb xml:id="smallform_0621_002_tr_1_tl_17"/>auf einem zu lesen) — steile Treppchen führen zur
+<lb xml:id="smallform_0621_002_tr_1_tl_18"/>alten Jesuitenkirche mit dem Kollegiumsgebäude
+<lb xml:id="smallform_0621_002_tr_1_tl_19"/>hinauf, und an der steilsten der Gassen, die zugleich
+<lb xml:id="smallform_0621_002_tr_1_tl_20"/>die Hauptgasse ist, erhebt sich, höchst überraschend,
+<lb xml:id="smallform_0621_002_tr_1_tl_21"/>die imposante Fassade des Stockalperpalasts. Ein
+<lb xml:id="smallform_0621_002_tr_1_tl_22"/>Mitglied der großen Kaufmannsfamilie der Stock¬
+<lb xml:id="smallform_0621_002_tr_1_tl_23"/>alper, die als Salzhändler reich geworden sind, hat
+<lb xml:id="smallform_0621_002_tr_1_tl_24"/>ihn um 1650 erbaut. Es muß ein weitblickender
+<lb xml:id="smallform_0621_002_tr_1_tl_25"/>Ehrgeiz und ein tiefwurzelndes Selbstbewußtsein
+<lb xml:id="smallform_0621_002_tr_1_tl_26"/>dazu gehören, um in die kleine Stadt Brig dieses
+<lb xml:id="smallform_0621_002_tr_1_tl_27"/>italienisch-fürstliche Bauwerk zu stellen — halb Pa¬
+<lb xml:id="smallform_0621_002_tr_1_tl_28"/>lazzo, halb Festung, Kontor und Familiensitz, mit
+<lb xml:id="smallform_0621_002_tr_1_tl_29"/>drei Türmen, deren zwei einen großen viereckigen
+<lb xml:id="smallform_0621_002_tr_1_tl_30"/>Hof flankieren mit Arkaden, durch deren schlanke</CONV><!--FML: this needs attention (was tagged as "fml" in Transkribus)--><pb xml:id="smallform_0621_003"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_028.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0621_003_tr_1"/><CONV tag="p">
+<lb xml:id="smallform_0621_003_tr_1_tl_3"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->Bögen man die Berge sieht. Die Türme haben wie
+<lb xml:id="smallform_0621_003_tr_1_tl_4"/>manche Oberwalliser Kirchtürme vergoldete Kup¬
+<lb xml:id="smallform_0621_003_tr_1_tl_5"/>peln, der Hof erinnert an die arabischen Karawanen¬
+<lb xml:id="smallform_0621_003_tr_1_tl_6"/>höfe.</CONV><CONV tag="p">
+<lb xml:id="smallform_0621_003_tr_1_tl_7"/>Brig ist der große Stapelplatz, eine Festung ist die
+<lb xml:id="smallform_0621_003_tr_1_tl_8"/>zweite Stadt im Wallis, <CONV tag="g">Visp</CONV>. Es liegt wie eine Tal¬
+<lb xml:id="smallform_0621_003_tr_1_tl_9"/>sperre über dem Fluß, der aus seinem engen Tal in
+<lb xml:id="smallform_0621_003_tr_1_tl_10"/>das breite, offene der Rhone hinaustritt, um sich
+<lb xml:id="smallform_0621_003_tr_1_tl_11"/>mit ihr zu vereinigen. Visp beherbergt den stolzesten
+<lb xml:id="smallform_0621_003_tr_1_tl_12"/>Adel, der sich eine eigene Kirche erbaute. Darum
+<lb xml:id="smallform_0621_003_tr_1_tl_13"/>hat das kleine Visp zwei große Kirchen, die wie
+<lb xml:id="smallform_0621_003_tr_1_tl_14"/>Burgen auf den Hügeln thronen. Zur obern Kirche
+<lb xml:id="smallform_0621_003_tr_1_tl_15"/>führt ein Portal von besonderer Schönheit, mit fei¬
+<lb xml:id="smallform_0621_003_tr_1_tl_16"/>nem Schmiedewerk über den steinernen Pfeilern.
+<lb xml:id="smallform_0621_003_tr_1_tl_17"/>In einer Öffnung der Kirchenmauer findet man
+<lb xml:id="smallform_0621_003_tr_1_tl_18"/>Schädel, die in unheimlicher Manier reihenweise
+<lb xml:id="smallform_0621_003_tr_1_tl_19"/>übereinandergeschichtet und wie zu einer Mauer ge¬
+<lb xml:id="smallform_0621_003_tr_1_tl_20"/>fügt wurden. Aber die Kirchentüre führt auf eine
+<lb xml:id="smallform_0621_003_tr_1_tl_21"/>Galerie, die luftig und kriegerisch wie eine Bastion
+<lb xml:id="smallform_0621_003_tr_1_tl_22"/>über dem Tal hängt.</CONV><CONV tag="p">
+<lb xml:id="smallform_0621_003_tr_1_tl_23"/><CONV tag="g">Leuk</CONV> steht am Anfang des Pfyn-Waldes. Ein
+<lb xml:id="smallform_0621_003_tr_1_tl_24"/>wehrhafter Ort, mittelalterlich eng an die rechte
+<lb xml:id="smallform_0621_003_tr_1_tl_25"/>Talseite gebaut. Die Namen der Adligen von Leuk
+<lb xml:id="smallform_0621_003_tr_1_tl_26"/>klingen wie Losungswort und Schlachtruf: De Werra,
+<lb xml:id="smallform_0621_003_tr_1_tl_27"/>De Willa, Zen Ruffinen — die Stadt selbst ist einem
+<lb xml:id="smallform_0621_003_tr_1_tl_28"/>Felsennest in den Abruzzen vergleichbar. Visp ist
+<lb xml:id="smallform_0621_003_tr_1_tl_29"/>verwöhnter und anspruchsvoller. Leuk ist ein Ort,
+<lb xml:id="smallform_0621_003_tr_1_tl_30"/>der sich verteidigen muß: Seine historische Rolle –
+<lb xml:id="smallform_0621_003_tr_1_tl_31"/>eine Sust oder Warenniederlage an der Gemmi –</CONV><!--FML: this needs attention (was tagged as "fml" in Transkribus)--><pb xml:id="smallform_0621_004"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_029.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0621_004_tr_1"/><CONV tag="p">
+<lb xml:id="smallform_0621_004_tr_1_tl_2"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->mag diesen befestigten Charakter verursacht haben.
+<lb xml:id="smallform_0621_004_tr_1_tl_3"/>Denn jetzt beginnt der große Wald von Pfyn. Er
+<lb xml:id="smallform_0621_004_tr_1_tl_4"/>ist berühmt, berüchtigt, reich an Legenden. Er
+<lb xml:id="smallform_0621_004_tr_1_tl_5"/>trennt zwei Landschaften und zwei Sprachen. Leuk
+<lb xml:id="smallform_0621_004_tr_1_tl_6"/>ist deutsch, Sierre französisch. Zwischen Ober- und
+<lb xml:id="smallform_0621_004_tr_1_tl_7"/>Unterwallis, zwischen germanischem und lateini¬
+<lb xml:id="smallform_0621_004_tr_1_tl_8"/>schem Wesen ist hier eine breite Grenzmark er¬
+<lb xml:id="smallform_0621_004_tr_1_tl_9"/>richtet.</CONV><CONV tag="p">
+<lb xml:id="smallform_0621_004_tr_1_tl_10"/>Schuttkegel aus dem Illgraben, dem Drachenloch,
+<lb xml:id="smallform_0621_004_tr_1_tl_11"/>dem gewaltigen Erosionsloch hinter Sierre, haben
+<lb xml:id="smallform_0621_004_tr_1_tl_12"/>sich quer über das breite Tal geschoben, flache
+<lb xml:id="smallform_0621_004_tr_1_tl_13"/>Sandhügel dehnen sich wie Dünen aus, dazwischen
+<lb xml:id="smallform_0621_004_tr_1_tl_14"/>Felsen, kiesiger Grund, Schutt, Wildnis und Öde.
+<lb xml:id="smallform_0621_004_tr_1_tl_15"/>Auf diesem Boden wachsen die Föhren mit ihren
+<lb xml:id="smallform_0621_004_tr_1_tl_16"/>zerspaltenen rötlichen Stämmen, mit dürrem Geäst,
+<lb xml:id="smallform_0621_004_tr_1_tl_17"/>fallenden Nadeln, verschlungenen Wurzeln. Grau-
+<lb xml:id="smallform_0621_004_tr_1_tl_18"/>braun und graugrün, fast bläulich sind die Farben
+<lb xml:id="smallform_0621_004_tr_1_tl_19"/>des wilden Waldes von Pfyn. Es riecht darin nach
+<lb xml:id="smallform_0621_004_tr_1_tl_20"/>Harz, nach Moos und nach Rauch. Elche und Bären
+<lb xml:id="smallform_0621_004_tr_1_tl_21"/>haben hier gehaust, Räuber lauerten auf die Rei-
+<lb xml:id="smallform_0621_004_tr_1_tl_22"/>senden.</CONV><CONV tag="p">
+<lb xml:id="smallform_0621_004_tr_1_tl_23"/>Nachts nisten die Nebel unter den Bäumen, oben
+<lb xml:id="smallform_0621_004_tr_1_tl_24"/>verdecken die Wipfel die Sterne. Der Talwind
+<lb xml:id="smallform_0621_004_tr_1_tl_25"/>streicht knisternd hindurch. Man geht in der Dun¬
+<lb xml:id="smallform_0621_004_tr_1_tl_26"/>kelheit, ohne einen Menschen anzutreffen. Man ist
+<lb xml:id="smallform_0621_004_tr_1_tl_27"/>weit weg von menschlichen Wohnstätten, von den
+<lb xml:id="smallform_0621_004_tr_1_tl_28"/>friedlichen Bauernhöfen, von den schützenden
+<lb xml:id="smallform_0621_004_tr_1_tl_29"/>Mauern von Leuk.</CONV><CONV tag="p">
+<lb xml:id="smallform_0621_004_tr_1_tl_30"/>Endlich lichtet sich der Wald. Eine Brücke führt</CONV><!--FML: this needs attention (was tagged as "fml" in Transkribus)--><pb xml:id="smallform_0621_005"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_030.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0621_005_tr_1"/><CONV tag="p">
+<lb xml:id="smallform_0621_005_tr_1_tl_3"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->auf die rechte Talseite hinüber. Und man erblickt
+<lb xml:id="smallform_0621_005_tr_1_tl_4"/>die tröstenden Lichter von Sierre.</CONV><CONV tag="p">
+<lb xml:id="smallform_0621_005_tr_1_tl_5"/><CONV tag="g">Sierre</CONV>, zu deutsch Siders, scheint mir der an¬
+<lb xml:id="smallform_0621_005_tr_1_tl_6"/>genehmste Flecken der großen Talschaft zu sein.
+<lb xml:id="smallform_0621_005_tr_1_tl_7"/>Sein Stadtwappen zeigt eine gelbe Sonne auf blauem
+<lb xml:id="smallform_0621_005_tr_1_tl_8"/>Grund, und sein Wein heißt „Soleil de Sierre".
+<lb xml:id="smallform_0621_005_tr_1_tl_9"/>Sierre ist kein Stapelplatz wie Brig, sondern ein
+<lb xml:id="smallform_0621_005_tr_1_tl_10"/>Städtchen zwischen Rebbergen, — keine Burg wie
+<lb xml:id="smallform_0621_005_tr_1_tl_11"/>Visp, sondern ein friedlicher „Bourg“, — kein Fel¬
+<lb xml:id="smallform_0621_005_tr_1_tl_12"/>sennest wie Leuk, sondern sanft in das breite Tal
+<lb xml:id="smallform_0621_005_l"/>gebettet. „Siderum amoenum — das sanfte, lieb¬
+<lb xml:id="smallform_0621_005_tr_1_tl_15"/>liche Siders. Es ist vom Klima begünstigt, dreißig trübe
+<lb xml:id="smallform_0621_005_tr_1_tl_16"/>Tage zählt man während eines langen Winters vom
+<lb xml:id="smallform_0621_005_tr_1_tl_17"/>1. Oktober bis zum 31. März — selbst das milde
+<lb xml:id="smallform_0621_005_tr_1_tl_18"/>Lugano muß davor zurücktreten. Im Sommer ist
+<lb xml:id="smallform_0621_005_tr_1_tl_19"/>Sierre heiß und drückend, aber im Herbst, wenn
+<lb xml:id="smallform_0621_005_tr_1_tl_20"/>in anderen Gegenden die Nebel einsetzen und die
+<lb xml:id="smallform_0621_005_tr_1_tl_21"/>langen Regenwochen, dann beginnt die schöne Zeit
+<lb xml:id="smallform_0621_005_tr_1_tl_22"/>von Sierre. Engländer pflegen hier zu wohnen, in
+<lb xml:id="smallform_0621_005_tr_1_tl_23"/>Crans oben Golf zu spielen, im Val d’Anniviers Aus¬
+<lb xml:id="smallform_0621_005_tr_1_tl_24"/>flüge zu machen. Das alte Schloß der de Courten
+<lb xml:id="smallform_0621_005_tr_1_tl_25"/>ist in das Schloßhotel Bellevue umgewandelt wor¬
+<lb xml:id="smallform_0621_005_tr_1_tl_26"/>den, man wohnt dort in alten Zimmern, ißt in
+<lb xml:id="smallform_0621_005_tr_1_tl_27"/>einem immensen Saal, frühstückt unter alten Bäu¬
+<lb xml:id="smallform_0621_005_tr_1_tl_28"/>men auf einer kühlen Terrasse, und man betritt die
+<lb xml:id="smallform_0621_005_tr_1_tl_29"/>Halle durch ein hohes schmiedeeisernes Tor.</CONV><CONV tag="p">
+<lb xml:id="smallform_0621_005_tr_1_tl_30"/>Von Sierre nach der Hauptstadt <CONV tag="g">Sitten</CONV> hinab
+<lb xml:id="smallform_0621_005_tr_1_tl_31"/>führt wieder die breite Talstraße mit den hohen,
+<lb xml:id="smallform_0621_005_tr_1_tl_32"/>geraden Pappelalleen. Die Landschaft verändert</CONV><!--FML: this needs attention (was tagged as "fml" in Transkribus)--><pb xml:id="smallform_0621_006"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_031.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0621_006_tr_1"/><CONV tag="p">
+<lb xml:id="smallform_0621_006_tr_1_tl_2"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->sich: die sonderbaren Rundhügel werden immer
+<lb xml:id="smallform_0621_006_tr_1_tl_3"/>zahlreicher und schieben sich von allen Seiten wie
+<lb xml:id="smallform_0621_006_tr_1_tl_4"/>Kulissen in die niedere Talsohle vor. Kegel an
+<lb xml:id="smallform_0621_006_tr_1_tl_5"/>Kegel türmen sie sich auf, natürliche Befestigungen.
+<lb xml:id="smallform_0621_006_tr_1_tl_6"/>Auf einem ansteigenden Hügelrücken erblickt man,
+<lb xml:id="smallform_0621_006_tr_1_tl_7"/>Silhouette im Abendhimmel, eine große Ruine und
+<lb xml:id="smallform_0621_006_tr_1_tl_8"/>lange Befestigungsmauern: Tourbillon. Daneben, auf
+<lb xml:id="smallform_0621_006_tr_1_tl_9"/>einem zweiten Hügel, Valeria, Kirche oder Burg,
+<lb xml:id="smallform_0621_006_tr_1_tl_10"/>das gewaltige Wahrzeichen der Stadt.</CONV><CONV tag="p">
+<lb xml:id="smallform_0621_006_tr_1_tl_11"/>Sitten liegt zwischen den seltsam geformten Hü¬
+<lb xml:id="smallform_0621_006_tr_1_tl_12"/>geln wie eine Talsperre, mitten im Kampfgebiet,
+<lb xml:id="smallform_0621_006_tr_1_tl_13"/>herausfordernd und gut zu verteidigen. Heute ist
+<lb xml:id="smallform_0621_006_tr_1_tl_14"/>es eine Stadt mit doppeltem Gesicht. Man kann
+<lb xml:id="smallform_0621_006_tr_1_tl_15"/>Sitten langweilig und nüchtern finden, wenn man,
+<lb xml:id="smallform_0621_006_tr_1_tl_16"/>vom Bahnhof kommend, die üblichen breiten Straßen
+<lb xml:id="smallform_0621_006_tr_1_tl_17"/>hinabgeht, der große Platz mit dem hübschen Na¬
+<lb xml:id="smallform_0621_006_tr_1_tl_18"/>men „Planta" ist ebenso städtisch kahl wie Post
+<lb xml:id="smallform_0621_006_tr_1_tl_19"/>und Banken und Geschäftshäuser, und die Unzahl
+<lb xml:id="smallform_0621_006_tr_1_tl_20"/>von laut dröhnenden, ratternden, hupenden Last¬
+<lb xml:id="smallform_0621_006_tr_1_tl_21"/>automobilen tragen das ihre zum Unbehagen bei.
+<lb xml:id="smallform_0621_006_l"/>Reizlose, ein wenig traurige Kleinstadt – und
+<lb xml:id="smallform_0621_006_tr_1_tl_24"/>gleich daneben, zu Füßen der Festungshügel, das
+<lb xml:id="smallform_0621_006_tr_1_tl_25"/>alte Sitten, wo die Häuser sich steil und schutz¬
+<lb xml:id="smallform_0621_006_tr_1_tl_26"/>bedürftig den felsigen Abhang hinauf drängen, und
+<lb xml:id="smallform_0621_006_tr_1_tl_27"/>wo am Abend das Geläute der Kirchen vielstimmig
+<lb xml:id="smallform_0621_006_tr_1_tl_28"/>durch die Straßen getragen wird. Irgendwo, in der
+<lb xml:id="smallform_0621_006_tr_1_tl_29"/>Nähe der Kathedrale und der Theodulkirche, steht
+<lb xml:id="smallform_0621_006_tr_1_tl_30"/>als einsamer Zeuge der Hexenturm, mitten in der
+<lb xml:id="smallform_0621_006_tr_1_tl_31"/>Stadt ist aber eine durchaus mittelalterlich an¬</CONV><!--FML: this needs attention (was tagged as "fml" in Transkribus)--><pb xml:id="smallform_0621_007"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_032.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0621_007_r"/><CONV tag="f">
+<lb xml:id="smallform_0621_007_l"/>Zeichnung von Sitten von Tomamichl</CONV> <CONV tag="fp">
+<lb xml:id="smallform_0621_007_l_1"/>Sitten</CONV><milestone unit="textregion" xml:id="smallform_0621_007_r_1"/><CONV tag="p">
+<lb xml:id="smallform_0621_007_l_2"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->mutende Straße zu finden, welche „Grand Pont“
+<lb xml:id="smallform_0621_007_l_3"/>heißt. Neben Rathaus und Glockenturm werden in
+<lb xml:id="smallform_0621_007_l_4"/>der kleinen, sehr französischen „Brasserie du Grand¬</CONV><!--FML: this needs attention (was tagged as "fml" in Transkribus)--><pb xml:id="smallform_0621_008"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_033.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0621_008_tr_1"/><CONV tag="p">
+<lb xml:id="smallform_0621_008_tr_1_tl_2"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->Pont“ die Landweine offen ausgeschenkt: die „Clos
+<lb xml:id="smallform_0621_008_tr_1_tl_3"/>du Valais" und „Glaciers", Fendant, Dôle und Jo¬
+<lb xml:id="smallform_0621_008_tr_1_tl_4"/>hannisberger. Deutsch ist die Straße, die halb zum
+<lb xml:id="smallform_0621_008_tr_1_tl_5"/>Platz sich weitet, mit dem Brunnen in der Mitte
+<lb xml:id="smallform_0621_008_tr_1_tl_6"/>– italienisch der Saal im Haus der Supersaxo,
+<lb xml:id="smallform_0621_008_tr_1_tl_7"/>und die Gäßchen, die mit einem Gewirr zer¬
+<lb xml:id="smallform_0621_008_tr_1_tl_8"/>fallender Häuser, kleiner Balkone und runder Tor¬
+<lb xml:id="smallform_0621_008_tr_1_tl_9"/>eingänge den ansteigenden Hügel der Valeria be¬
+<lb xml:id="smallform_0621_008_tr_1_tl_10"/>decken.</CONV><CONV tag="p">
+<lb xml:id="smallform_0621_008_tr_1_tl_11"/>Wenn man abends in dieses Quartier eindringt,
+<lb xml:id="smallform_0621_008_tr_1_tl_12"/>glaubt man sich in ein altes Städtchen an der italie¬
+<lb xml:id="smallform_0621_008_tr_1_tl_13"/>nischen Küste versetzt: die Gerüche sind die
+<lb xml:id="smallform_0621_008_tr_1_tl_14"/>gleichen, der Rauch aus den Waschküchen, die wie
+<lb xml:id="smallform_0621_008_tr_1_tl_15"/>Keller aussehen, der trübe Lichtschein aus tiefen
+<lb xml:id="smallform_0621_008_tr_1_tl_16"/>Höfen, die Scharen schmutziger Kinder, die sich mit
+<lb xml:id="smallform_0621_008_tr_1_tl_17"/>Katzen und Hunden in den Straßen herumtreiben,
+<lb xml:id="smallform_0621_008_tr_1_tl_18"/>das unebene Pflaster, Wäsche von Fenster zu Fen¬
+<lb xml:id="smallform_0621_008_tr_1_tl_19"/>ster aufgehängt, Vogelkäfige und Blumen auf den
+<lb xml:id="smallform_0621_008_tr_1_tl_20"/>brüchigen Balkonen, und die Musik ... Gellendes
+<lb xml:id="smallform_0621_008_tr_1_tl_21"/>Grammophon hinter gelben verstaubten Vorhängen,
+<lb xml:id="smallform_0621_008_tr_1_tl_22"/>kleine Lieder auf den Treppen gesungen ... Aber
+<lb xml:id="smallform_0621_008_tr_1_tl_23"/>wichtiger und imposanter als Kantonshauptstadt
+<lb xml:id="smallform_0621_008_tr_1_tl_24"/>und Altstadt ist die eherne, wilde und herbe Tra¬
+<lb xml:id="smallform_0621_008_tr_1_tl_25"/>dition jener Hügel, die ihr Wahrzeichen und kost¬
+<lb xml:id="smallform_0621_008_tr_1_tl_26"/>bares Erbe sind.</CONV><CONV tag="p">
+<lb xml:id="smallform_0621_008_tr_1_tl_27"/>Die Säle von Majoria sind bei einem Stadtbrand
+<lb xml:id="smallform_0621_008_tr_1_tl_28"/>1788 zugrunde gegangen, man hat jetzt eine Ka¬
+<lb xml:id="smallform_0621_008_tr_1_tl_29"/>serne daraus gemacht. Ich tat mein Bestes, um
+<lb xml:id="smallform_0621_008_tr_1_tl_30"/>trotzdem in die alten Mauern zu gelangen und der</CONV><!--FML: this needs attention (was tagged as "fml" in Transkribus)--><pb xml:id="smallform_0621_009"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_034.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0621_009_tr_1"/><CONV tag="p">
+<lb xml:id="smallform_0621_009_tr_1_tl_3"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->alten bischöflichen Herrlichkeit auf die Spur zu
+<lb xml:id="smallform_0621_009_tr_1_tl_4"/>kommen. Aber ein Wachtposten, der mich fahr¬
+<lb xml:id="smallform_0621_009_tr_1_tl_5"/>lässig übersehen hatte, holte mich oben auf der
+<lb xml:id="smallform_0621_009_tr_1_tl_6"/>Bastion atemlos ein und wollte mir auch durchaus
+<lb xml:id="smallform_0621_009_tr_1_tl_7"/>nicht erlauben, auf dem kleinen Pfad dem Hügel¬
+<lb xml:id="smallform_0621_009_tr_1_tl_8"/>rücken entlang nach Tourbillon zu gehen. Ich sah
+<lb xml:id="smallform_0621_009_tr_1_tl_9"/>es ein und bestieg statt dessen den steilen Hügel
+<lb xml:id="smallform_0621_009_tr_1_tl_10"/>von Valeria. Hier residierte das „Collégiale", das
+<lb xml:id="smallform_0621_009_tr_1_tl_11"/>Domkapitel von Sitten. Seine Kirche steht auf den
+<lb xml:id="smallform_0621_009_tr_1_tl_12"/>Überresten eines heidnischen Tempels, da und dort
+<lb xml:id="smallform_0621_009_tr_1_tl_13"/>im ummauerten Garten findet man eine abge¬
+<lb xml:id="smallform_0621_009_tr_1_tl_14"/>brochene Säule, eine Inschrift auf einem weißen
+<lb xml:id="smallform_0621_009_tr_1_tl_15"/>Block.</CONV><CONV tag="p">
+<lb xml:id="smallform_0621_009_tr_1_tl_16"/>Im Kapitelsaal stehen uralte und seltene hoch¬
+<lb xml:id="smallform_0621_009_tr_1_tl_17"/>beinige romanische Truhen, ein Flügelaltar aus dem
+<lb xml:id="smallform_0621_009_tr_1_tl_18"/>Oberwallis, darstellend das Martyrium der heiligen
+<lb xml:id="smallform_0621_009_tr_1_tl_19"/>Katharina: eine Flut von Köpfen, die in das zähe
+<lb xml:id="smallform_0621_009_tr_1_tl_20"/>Material des Holzes gebannte Erregung einer from¬
+<lb xml:id="smallform_0621_009_tr_1_tl_21"/>men Engelschar.</CONV><CONV tag="p">
+<lb xml:id="smallform_0621_009_tr_1_tl_22"/>Der Adel hat andere Zeugnisse hinterlassen: der
+<lb xml:id="smallform_0621_009_tr_1_tl_23"/>blaue Schild mit dem Adler der Herren von Raron,
+<lb xml:id="smallform_0621_009_tr_1_tl_24"/>ihre geschmiedeten Waffen neben den berühmten
+<lb xml:id="smallform_0621_009_tr_1_tl_25"/>Schleudermaschinen der Kirche — und endlich die
+<lb xml:id="smallform_0621_009_tr_1_tl_26"/>roten Röcke Ludwigs XVI. und Ludwigs XVIII.,
+<lb xml:id="smallform_0621_009_tr_1_tl_27"/>die einem Riedmatten oder De Courten gehörten,
+<lb xml:id="smallform_0621_009_tr_1_tl_28"/>und — eine Merkwürdigkeit — jene Liste „Etat
+<lb xml:id="smallform_0621_009_tr_1_tl_29"/>général des troupes de S. M. le Roi de Sardaigne"
+<lb xml:id="smallform_0621_009_tr_1_tl_30"/>– weiße Standarte mit den aufgezeichneten Regi¬
+<lb xml:id="smallform_0621_009_tr_1_tl_31"/>mentern, unter denen der Walliser Name Kalber¬</CONV><!--FML: this needs attention (was tagged as "fml" in Transkribus)--><pb xml:id="smallform_0621_010"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_035.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0621_010_tr_1"/><CONV tag="p">
+<lb xml:id="smallform_0621_010_tr_1_tl_2"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->matten neben dem bernischen Tscharner zu lesen ist.</CONV><CONV tag="p">
+<lb xml:id="smallform_0621_010_tr_1_tl_3"/>Noch merkwürdiger als dieses Museum ist fraglos¬
+<lb xml:id="smallform_0621_010_tr_1_tl_4"/>die Kirche selbst, Valeria, Festung und Gotteshaus,
+<lb xml:id="smallform_0621_010_tr_1_tl_5"/>der Weg zur Kanzel gleicht dem Zugang zu einer
+<lb xml:id="smallform_0621_010_tr_1_tl_6"/>Schießscharte, hinter dem Schiff ist ein Raum an¬
+<lb xml:id="smallform_0621_010_tr_1_tl_7"/>gebaut, wo noch die alte handgetriebene Mühle zu
+<lb xml:id="smallform_0621_010_tr_1_tl_8"/>sehen ist — einige Chorteile der Kirche sind uralt,
+<lb xml:id="smallform_0621_010_tr_1_tl_9"/>und die Säulen tragen die sehr berühmten roma¬
+<lb xml:id="smallform_0621_010_tr_1_tl_10"/>nischen Kapitelle mit sonderbar phantastischen Tier¬
+<lb xml:id="smallform_0621_010_tr_1_tl_11"/>fratzen, verblichene Fresken an den Wänden, ein
+<lb xml:id="smallform_0621_010_tr_1_tl_12"/>reich geschnitztes barockes Chorgestühl, und ein
+<lb xml:id="smallform_0621_010_tr_1_tl_13"/>einfacheres, aus dem fünfzehnten Jahrhundert stam¬
+<lb xml:id="smallform_0621_010_tr_1_tl_14"/>mend, vom Kloster Géronde bei Sierre hierher ver¬
+<lb xml:id="smallform_0621_010_tr_1_tl_15"/>setzt: mit den rührenden Apostelfiguren, den ein¬
+<lb xml:id="smallform_0621_010_tr_1_tl_16"/>fachen und breitgesichtigen — und mit der schönen
+<lb xml:id="smallform_0621_010_tr_1_tl_17"/>und sanften Verkündigung, dem sanftesten christ¬
+<lb xml:id="smallform_0621_010_tr_1_tl_18"/>lichen Motiv.</CONV><CONV tag="p">
+<lb xml:id="smallform_0621_010_tr_1_tl_19"/>In <CONV tag="g">Martigny</CONV>, so vernimmt man, wurden die
+<lb xml:id="smallform_0621_010_tr_1_tl_20"/>zahlreichsten römischen Funde gemacht, denn hier
+<lb xml:id="smallform_0621_010_tr_1_tl_21"/>stand eine römische Legion, um das Tal und den
+<lb xml:id="smallform_0621_010_tr_1_tl_22"/>Aufgang zum St. Bernhard zu bewachen. Am Fuß
+<lb xml:id="smallform_0621_010_tr_1_tl_23"/>der Burg „La Bâtiaz" führt eine schöne, ehrwür¬
+<lb xml:id="smallform_0621_010_tr_1_tl_24"/>dige, gedeckte Holzbrücke über die Drance, und
+<lb xml:id="smallform_0621_010_tr_1_tl_25"/>ein paar alte Häuser liegen zwischen Felshang und
+<lb xml:id="smallform_0621_010_tr_1_tl_26"/>Ufer. Endlich gibt es, etwa zwanzig Minuten von
+<lb xml:id="smallform_0621_010_tr_1_tl_27"/>Martigny-Ville, das fast vergessene und sehr stille<CONV tag="g">
+<lb xml:id="smallform_0621_010_tr_1_tl_28"/>Martigny-Bourg</CONV>, wo das Hotel Trois Cou¬
+<lb xml:id="smallform_0621_010_tr_1_tl_29"/>ronnes schon seit dreihundert Jahren an der Ecke
+<lb xml:id="smallform_0621_010_tr_1_tl_30"/>des Hauptplatzes steht.</CONV><pb xml:id="smallform_0621_011"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_036.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0621_011_tr_1"/><CONV tag="p">
+<lb xml:id="smallform_0621_011_tr_1_tl_3"/>Und Martigny selbst — poesielos beim ersten An¬
+<lb xml:id="smallform_0621_011_tr_1_tl_4"/>blick — erweist sich als ein freundlicher Aufenthalt.
+<lb xml:id="smallform_0621_011_tr_1_tl_5"/>Man wohnt etwa im Hotel Kluser et Montblanc.
+<lb xml:id="smallform_0621_011_tr_1_tl_6"/>(Warum haben hier alle Hotels verwirrenderweise
+<lb xml:id="smallform_0621_011_tr_1_tl_7"/>zwei Namen statt eines einzigen?) Der Wirt küm¬
+<lb xml:id="smallform_0621_011_tr_1_tl_8"/>mert sich höchst persönlich um das Wohlbefinden
+<lb xml:id="smallform_0621_011_tr_1_tl_9"/>seiner Gäste und zeigte mir — obwohl es erst Sep¬
+<lb xml:id="smallform_0621_011_l"/>tember war – die eingebauten Raclette-Öfen in
+<lb xml:id="smallform_0621_011_tr_1_tl_12"/>seinen Stuben, vor denen die Gäste im Winter ver¬
+<lb xml:id="smallform_0621_011_tr_1_tl_13"/>sammelt sitzen und das Braten der Käsestücke beob¬
+<lb xml:id="smallform_0621_011_tr_1_tl_14"/>achten. Im kleinen „Café de la Messagerie" spielen
+<lb xml:id="smallform_0621_011_tr_1_tl_15"/>die jungen Arbeiter abends Billard, und die
+<lb xml:id="smallform_0621_011_tr_1_tl_16"/>Wirtin bereitet in wenigen Minuten die fetten
+<lb xml:id="smallform_0621_011_tr_1_tl_17"/>Tranches de Fondue, die ein Nationalgericht sind.</CONV><CONV tag="p">
+<lb xml:id="smallform_0621_011_tr_1_tl_18"/>Zwischen Martigny und St-Maurice schieben sich
+<lb xml:id="smallform_0621_011_tr_1_tl_19"/>die Berge zusammen und türmen sich auf, bedroh¬
+<lb xml:id="smallform_0621_011_tr_1_tl_20"/>lich, als gelte es, Unbefugten den Durchgang zu
+<lb xml:id="smallform_0621_011_tr_1_tl_21"/>versperren. Eine beinahe theatralische Landschaft,
+<lb xml:id="smallform_0621_011_tr_1_tl_22"/>von Riesen im Streit so zurückgelassen, trennt
+<lb xml:id="smallform_0621_011_tr_1_tl_23"/>uns schroff von dem offenen und gewinnenden
+<lb xml:id="smallform_0621_011_tr_1_tl_24"/>Rhonetal.</CONV><CONV tag="p">
+<lb xml:id="smallform_0621_011_tr_1_tl_25"/><CONV tag="g">St-Maurice</CONV> hat seinen Namen von einem Mär¬
+<lb xml:id="smallform_0621_011_tr_1_tl_26"/>tyrer, jenem Mauritius der thebaischen Legion, der
+<lb xml:id="smallform_0621_011_tr_1_tl_27"/>mit vielen ebenso standhaften Gefährten den Tod
+<lb xml:id="smallform_0621_011_tr_1_tl_28"/>für seinen Glauben erlitt. Das war um das Jahr 300
+<lb xml:id="smallform_0621_011_tr_1_tl_29"/>zur Zeit der Völkerwanderung und des sinkenden
+<lb xml:id="smallform_0621_011_tr_1_tl_30"/>römischen Reichs. Frühchristlich, romanisch ist
+<lb xml:id="smallform_0621_011_tr_1_tl_31"/>St-Maurice bis heute geblieben. Man trifft die
+<lb xml:id="smallform_0621_011_tr_1_tl_32"/>Augustinermönche der alten Abtei in den Straßen</CONV><!--FML: this needs attention (was tagged as "fml" in Transkribus)--><pb xml:id="smallform_0621_012"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_037.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0621_012_r"/><CONV tag="p">
+<lb xml:id="smallform_0621_012_l_1"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->des winzigen Ortes. Winzig: denn er ist zwischen
+<lb xml:id="smallform_0621_012_l_2"/>Fluß und steiler Felswand eingeklemmt und hat
+<lb xml:id="smallform_0621_012_l_3"/>kaum Platz zum Atmen. Die Hauptstraße ist ent¬
+<lb xml:id="smallform_0621_012_l_4"/>sprechend eng, aber dahinter tauchen die Dächer
+<lb xml:id="smallform_0621_012_l_5"/>der Gotteshäuser auf: die Pfarrkirche, wo der Hei¬
+<lb xml:id="smallform_0621_012_l_6"/>lige König Sigismund von Burgund begraben liegt,
+<lb xml:id="smallform_0621_012_l_7"/>und die Kirche der Augustinerabtei — die älter als
+<lb xml:id="smallform_0621_012_l_8"/>selbst die Abtei von Disentis und überhaupt das
+<lb xml:id="smallform_0621_012_l_9"/>älteste und ehrwürdigste Kloster der Schweiz ist.</CONV><CONV tag="p">
+<lb xml:id="smallform_0621_012_l_10"/>Man findet in der Felswand hinter dem Kloster
+<lb xml:id="smallform_0621_012_l_11"/>Katakomben und Steinplatten mit roten römischen
+<lb xml:id="smallform_0621_012_l_12"/>Inschriften. Und wenn man die Glocken von
+<lb xml:id="smallform_0621_012_l_13"/>St-Maurice hört, wird die wilde Zeit lebendig, als
+<lb xml:id="smallform_0621_012_l_14"/>die Christen mitten im Kampf zwischen den Bar¬
+<lb xml:id="smallform_0621_012_l_15"/>baren und dem agonisierenden Römerreich die
+<lb xml:id="smallform_0621_012_l_16"/>Grundsteine einer neuen Kultur legten.</CONV></div>
+      </body>
+   </text>
+</TEI>
