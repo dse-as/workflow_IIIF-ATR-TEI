@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="smallform_0622"
+     type="dseas-smallform">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>smallform_0622</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl corresp="smallform_0622">
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0622_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="smallform">
+            <pb xml:id="smallform_0622_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_037.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0622_001_r_1"/>
+            <lb xml:id="smallform_0622_001_l_17"/>Montana-Vermala und Crans<CONV tag="p">
+<lb xml:id="smallform_0622_001_l_18"/>Nach <CONV tag="g">Montana-Vermala</CONV> kann man von Si¬
+<lb xml:id="smallform_0622_001_l_19"/>ders aus mit der Zahnradbahn fahren. Man kommt
+<lb xml:id="smallform_0622_001_l_20"/>dann auf dem üblichen kleinen Bahnhof an und
+<lb xml:id="smallform_0622_001_l_21"/>wird von Hotelportiers in Empfang genommen.</CONV><CONV tag="p">
+<lb xml:id="smallform_0622_001_l_22"/>Aber man kann auch ganz anders in Montana an¬
+<lb xml:id="smallform_0622_001_l_23"/>kommen. Zu Fuß ist es allerdings ein langer und
+<lb xml:id="smallform_0622_001_l_24"/>heißer Weg von Sierre hinauf, und an einem Som¬
+<lb xml:id="smallform_0622_001_l_25"/>mertag fangen auch die meisten Automobile zu
+<lb xml:id="smallform_0622_001_l_26"/>kochen an, wenn die engen Kurven und steilen An¬</CONV><!--FML: this needs attention (was tagged as "fml" in Transkribus)--><pb xml:id="smallform_0622_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_038.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0622_002_tr_1"/><CONV tag="p">
+<lb xml:id="smallform_0622_002_tr_1_tl_3"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->stiege kein Ende nehmen. Aber die Gegend ist wun¬
+<lb xml:id="smallform_0622_002_tr_1_tl_4"/>derschön, und die Mühe lohnt sich.</CONV><CONV tag="p">
+<lb xml:id="smallform_0622_002_tr_1_tl_5"/><CONV tag="g">Montana</CONV> liegt 1500 Meter hoch, seine Terrasse
+<lb xml:id="smallform_0622_002_tr_1_tl_6"/>scheint für die Kranken erbaut zu sein: offen und
+<lb xml:id="smallform_0622_002_tr_1_tl_7"/>geschützt, von morgens bis abends der Sonne aus¬
+<lb xml:id="smallform_0622_002_tr_1_tl_8"/>gesetzt, ein einziger großer Liegebalkon. Am im¬
+<lb xml:id="smallform_0622_002_tr_1_tl_9"/>posantesten ist die neue Front des British Sana¬
+<lb xml:id="smallform_0622_002_tr_1_tl_10"/>torium — ein moderner, sehr gelungener, zugleich
+<lb xml:id="smallform_0622_002_tr_1_tl_11"/>zweckmäßiger und harmonisch wirkender Bau. Dann
+<lb xml:id="smallform_0622_002_tr_1_tl_12"/>folgt die lange Reihe der Sanatorien, Chalets und
+<lb xml:id="smallform_0622_002_tr_1_tl_13"/>Hotels — fast alle älteren Datums — und der Kur¬
+<lb xml:id="smallform_0622_002_tr_1_tl_14"/>ort selbst, der, ganz anders als Zermatt, das Berg¬
+<lb xml:id="smallform_0622_002_tr_1_tl_15"/>steigerdorf, auf langen Aufenthalt der Gäste ein¬
+<lb xml:id="smallform_0622_002_tr_1_tl_16"/>gerichtet ist. Man kann sich das alles so gut
+<lb xml:id="smallform_0622_002_tr_1_tl_17"/>vorstellen: wie man hier gegen Abend seine Be¬
+<lb xml:id="smallform_0622_002_tr_1_tl_18"/>sorgungen macht, seine Photos bei Deprez ent¬
+<lb xml:id="smallform_0622_002_tr_1_tl_19"/>wickeln läßt, im Regina Tea Room hausgemachte
+<lb xml:id="smallform_0622_002_tr_1_tl_20"/>Pralinés kauft und manchmal im Casino einen Film
+<lb xml:id="smallform_0622_002_tr_1_tl_21"/>von Chaplin sieht — und wie man die Spaziergänge
+<lb xml:id="smallform_0622_002_tr_1_tl_22"/>genau kennt, und ihre Dauer.</CONV><CONV tag="p">
+<lb xml:id="smallform_0622_002_tr_1_tl_23"/>Viel abgeschiedener und privater wohnt man oben
+<lb xml:id="smallform_0622_002_tr_1_tl_24"/>in <CONV tag="g">Vermala</CONV>, die Straße führt durch den Wald
+<lb xml:id="smallform_0622_002_tr_1_tl_25"/>noch einmal etwa zweihundert Meter bergan. Dort
+<lb xml:id="smallform_0622_002_tr_1_tl_26"/>oben gibt es nichts als ein paar Alphütten, einen
+<lb xml:id="smallform_0622_002_tr_1_tl_27"/>einzigen Tennisplatz, und, auf bewaldeter Terrasse,
+<lb xml:id="smallform_0622_002_tr_1_tl_28"/>das Forest Hotel. „Belvédère heißt die Warte, die
+<lb xml:id="smallform_0622_002_tr_1_tl_29"/>wie ein Vogelnest über dem Tal hängt und von wo
+<lb xml:id="smallform_0622_002_tr_1_tl_30"/>der Blick von fast schwindelerregender Großartig¬
+<lb xml:id="smallform_0622_002_tr_1_tl_31"/>keit ist. Das Forest Hotel selbst ist ein Erholungs¬</CONV><!--FML: this needs attention (was tagged as "fml" in Transkribus)--><pb xml:id="smallform_0622_003"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_039.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0622_003_r"/><CONV tag="p">
+<lb xml:id="smallform_0622_003_l_1"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->aufenthalt mit dem seltenen Vorzug absoluter Stille.
+<lb xml:id="smallform_0622_003_l_2"/>Auch daß es auf 1680 Meter Höhe schattige Wald¬
+<lb xml:id="smallform_0622_003_l_3"/>spaziergänge gibt, ist nicht zu unterschätzen.</CONV><CONV tag="p">
+<lb xml:id="smallform_0622_003_l_4"/>Nach <CONV tag="g">Crans</CONV> führen von Montana und von Ver-
+<lb xml:id="smallform_0622_003_l_5"/>mala breite, neue, glatte Autostraßen. Und Crans,
+<lb xml:id="smallform_0622_003_l_6"/>so scheint es, wird die beiden älteren Kurorte in
+<lb xml:id="smallform_0622_003_l_7"/>kürzester Zeit überflügeln. Die Landschaft: ein
+<lb xml:id="smallform_0622_003_l_8"/>Hochplateau von weiten Ausmaßen, duftende Alp¬
+<lb xml:id="smallform_0622_003_l_9"/>wiesen, darüber ansteigend die rötlichen Felsen und
+<lb xml:id="smallform_0622_003_l_10"/>der Wald — breite Halden senken sich in das Tal
+<lb xml:id="smallform_0622_003_l_11"/>hinunter, man überblickt die Weiden, die weißen
+<lb xml:id="smallform_0622_003_l_12"/>Dörfer, die Türme und die gelben Reben in der
+<lb xml:id="smallform_0622_003_l_13"/>Tiefe. Crans hat ein Schwimmbad, den sogenann¬
+<lb xml:id="smallform_0622_003_l_14"/>ten „Golfsee", und dahinter einen sehr gut gepfleg¬
+<lb xml:id="smallform_0622_003_l_15"/>ten Golfplatz in geradezu unübertrefflicher Lage.
+<lb xml:id="smallform_0622_003_l_16"/>Dieser Golfplatz macht Samaden und St. Moritz
+<lb xml:id="smallform_0622_003_l_17"/>Konkurrenz, besonders im Frühjahr und im Herbst,</CONV><!--FML: this needs attention (was tagged as "fml" in Transkribus)--><milestone unit="textregion" xml:id="smallform_0622_003_r_1"/><CONV tag="f">
+<lb xml:id="smallform_0622_003_l"/>Zeichnung des Golfplatzes von Crans von Tomamichl</CONV> <CONV tag="fp">
+<lb xml:id="smallform_0622_003_l_26"/>Crans</CONV><pb xml:id="smallform_0622_004"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_040.tif/info.json"/>
+            <milestone unit="textregion" xml:id="smallform_0622_004_r"/><CONV tag="p">
+<lb xml:id="smallform_0622_004_l_2"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->wo die Vorzüge des milden Klimas ins Gewicht
+<lb xml:id="smallform_0622_004_l_3"/>fallen.</CONV><CONV tag="p">
+<lb xml:id="smallform_0622_004_l_4"/>Es gibt Leute, die im Herbst unten in Sierre woh¬
+<lb xml:id="smallform_0622_004_l_5"/>nen und jeden Tag nach Crans hinauffahren, um
+<lb xml:id="smallform_0622_004_l_6"/>hier Golf zu spielen. Aber Crans selbst hat eine
+<lb xml:id="smallform_0622_004_l_7"/>Reihe neuer Hotels, die alle sehr angenehm sind
+<lb xml:id="smallform_0622_004_l_8"/>und mit ihrer unbeschwerten Architektur äußerst
+<lb xml:id="smallform_0622_004_l_9"/>einladend in der farbenreichen Landschaft stehen.
+<lb xml:id="smallform_0622_004_l_10"/>Das „Hôtel du Golf et des Sports" nimmt den
+<lb xml:id="smallform_0622_004_l_11"/>ersten Rang ein, dort ist auch das Schwimmbad, und
+<lb xml:id="smallform_0622_004_l_12"/>der Golfplatz endet gerade am Hoteleingang.</CONV></div>
+      </body>
+   </text>
+</TEI>
