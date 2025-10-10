@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0623" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0623#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0623</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0623"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0623_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_040.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l_13"/>Fahrt nach Zermatt</p>
+            <p> 
+               <lb xml:id="p001_l_14"/>Bis zum Dörfchen Stalden fahren wir mit dem 
+               <lb xml:id="p001_l_15"/>Auto. Dann ist es zu Ende, und eilfertige Hotel 
+               <lb xml:id="p001_l_16" break="no"/>boys führen uns zu ihren Garagen. Sie stellen sich 
+               <lb xml:id="p001_l_17"/>auf das Trittbrett des Wagens und dirigieren mit 
+               <lb xml:id="p001_l_18"/>Kommandostimme durch die enge Dorfstraße, wo 
+               <lb xml:id="p001_l_19"/>zum Überfluß dunkelbraune Maultiere vor uns her 
+               <lb xml:id="p001_l_20"/>trotten und kleine Kühe vor den Brunnen stehen, 
+               <lb xml:id="p001_l_21"/>ohne auf unser Tuten zu achten. Stalden hängt 
+               <lb xml:id="p001_l_22"/>hoch über dem Tal, das sich hier in zwei Arme 
+               <lb xml:id="p001_l_23"/>teilt. Beide sind eng wie Schluchten, von brausen 
+               <lb xml:id="p001_l_24" break="no"/>dem Wasser erfüllt. Nach Saas-Fee führt nur ein 
+               <lb xml:id="p001_l_25"/>Saumpfad. Auf den trottenden Maultieren werden 
+               <lb xml:id="p001_l_26"/>alle Lebensmittel und zuweilen auch die Fremden 
+               <lb xml:id="p001_l_27"/>befördert. Wir begegnen dem Zug der hübschen</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_041.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p> 
+               <lb xml:id="p002_tr_1_tl_4"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+geduldigen Tiere, die – mit hölzernen Tragsätteln 
+               <lb xml:id="p002_tr_1_tl_5"/>beladen – klug ihren gewohnten Weg gehen. Die 
+               <lb xml:id="p002_tr_1_tl_6" break="no"/>ser Weg beginnt so malerisch wie nur denkbar: 
+               <lb xml:id="p002_tr_1_tl_7"/>zwischen Obstgärten, ein Wald weißer Blüten im 
+               <lb xml:id="p002_tr_1_tl_8"/>Frühjahr, schwere Last violetter und sammetblauer 
+               <lb xml:id="p002_tr_1_tl_9"/>Pflaumen im Herbst. Die Pflaumen sind klein und 
+               <lb xml:id="p002_tr_1_tl_10"/>hart wie alles, was in den Bergen beheimatet ist. 
+               <lb xml:id="p002_tr_1_tl_11"/>Sie tragen eine Schicht von zartem, mattfarbigem 
+               <lb xml:id="p002_tr_1_tl_12"/>Staub; wenn man sie mit der Hand abreibt, kommt 
+               <lb xml:id="p002_tr_1_tl_13"/>die glatte, schillernde Fruchthaut zum Vorschein. 
+               <lb xml:id="p002_tr_1_tl_14"/>Sie sind süß und stark im Geschmack. Frauen und 
+               <lb xml:id="p002_tr_1_tl_15"/>Kinder sammeln sie ein und tragen sie in hohen 
+               <lb xml:id="p002_tr_1_tl_16"/>"Chratten" in das Dorf. Die Obstgärten senken 
+               <lb xml:id="p002_tr_1_tl_17"/>sich steil zu der tiefen Schlucht der Saaser Visp. 
+               <lb xml:id="p002_tr_1_tl_18"/>Die alte Kienbrücke führt darüber: eine Brücke, die 
+               <lb xml:id="p002_tr_1_tl_19"/>in Entzücken versetzt. Sie ist wie aus dem Felsen 
+               <lb xml:id="p002_tr_1_tl_20"/>herausgewachsen, aus Steinplatten scheinbar achtlos 
+               <lb xml:id="p002_tr_1_tl_21"/>und doch unerschütterlich gefügt, sie ist lang und 
+               <lb xml:id="p002_tr_1_tl_22"/>hoch und senkt sich ein wenig über den tragenden 
+               <lb xml:id="p002_tr_1_tl_23"/>Pfeilern, so daß eine zarte natürliche Schwingung 
+               <lb xml:id="p002_tr_1_tl_24"/>entsteht.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_25"/>Die Bauern nennen ihre Scheunen "Kammern" – 
+               <lb xml:id="p002_tr_1_tl_26"/>sie sind auch klein genug dafür und stehen wie 
+               <lb xml:id="p002_tr_1_tl_27"/>Pfahlbauten auf Pflöcken, damit Wiesel, Ratten und 
+               <lb xml:id="p002_tr_1_tl_28"/>Mäuse den kostbaren Roggen nicht fressen können. 
+               <lb xml:id="p002_tr_1_tl_29"/>Im Saasertal heißen die Häusergruppen "Im Bo 
+               <lb xml:id="p002_tr_1_tl_30" break="no"/>den, "Zen Schmieden", "Unter dem Berg, und 
+               <lb xml:id="p002_tr_1_tl_31"/>die Namen sind immer schon ein Stück Lokal 
+               <lb xml:id="p002_tr_1_tl_32" break="no"/>geschichte. Das erste Pfarrdorf heißt Saas-Grund,</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_042.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p> 
+               <lb xml:id="p003_tr_1_tl_3"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+das zweite, berühmtere Saas-Fee, am Ende des 
+               <lb xml:id="p003_tr_1_tl_4"/>Tales, am Fuße des weißen Feegletschers und der 
+               <lb xml:id="p003_tr_1_tl_5"/>Mischabelgruppe, Zentrum der Bergsteiger wie im 
+               <lb xml:id="p003_tr_1_tl_6"/>Nachbartal Zermatt, und wie dort gibt es Dynastien 
+               <lb xml:id="p003_tr_1_tl_7"/>von Bergführern, deren Namen ebenso gut klingen 
+               <lb xml:id="p003_tr_1_tl_8"/>wie die der Häuser und Flecken: Andenmatten, Kal 
+               <lb xml:id="p003_tr_1_tl_9" break="no"/>bermatten, Supersaxo, Zurbriggen.</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_10"/>Nach <hi rendition="#g">Zermatt</hi> braucht man nicht auf Maul 
+               <lb xml:id="p003_tr_1_tl_11" break="no"/>tieren zu reiten, man fährt mit der Zahnradbahn 
+               <lb xml:id="p003_tr_1_tl_12"/>von Stalden aus durch das <hi rendition="#g">Nikolaital</hi>, wo die Matter 
+               <lb xml:id="p003_tr_1_tl_13"/>Visp, vorsichtig eingedämmt, mit Wasserfällen und 
+               <lb xml:id="p003_tr_1_tl_14"/>tosenden Wirbeln ihren Weg erkämpft. Es ist eine 
+               <lb xml:id="p003_tr_1_tl_15"/>sehr kühne und sehr drückende Landschaft, man 
+               <lb xml:id="p003_tr_1_tl_16"/>muß sich an die Nähe und Übergewalt der jäh 
+               <lb xml:id="p003_tr_1_tl_17" break="no"/>ansteigenden Berge gewöhnen. Eine <hi rendition="#g">unwahr- 
+                  <lb xml:id="p003_tr_1_tl_18"/>scheinliche</hi> Landschaft, schwelgend in Gegen 
+               <lb xml:id="p003_tr_1_tl_19" break="no"/>sätzen. Man hört oft, das Wallis sei südlich, klas 
+               <lb xml:id="p003_tr_1_tl_20" break="no"/>sisch, sogar italienisch. Die Rebengelände im Tal, 
+               <lb xml:id="p003_tr_1_tl_21"/>die kleinen Städte, besonntes Gemäuer und male 
+               <lb xml:id="p003_tr_1_tl_22" break="no"/>rische Fassaden mögen zu dieser Ansicht führen 
+               <lb xml:id="p003_tr_1_tl_23"/>hier oben ist mindestens der Ausdruck "klassisch" 
+               <lb xml:id="p003_tr_1_tl_24"/>schlechthin unangebracht. Denn klassisch ist das 
+               <lb xml:id="p003_tr_1_tl_25"/>Maß, und das Wallis ist von erschreckender Maß- 
+               <lb xml:id="p003_tr_1_tl_26"/>losigkeit.</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_27"/><hi rendition="#g">Zermatt</hi>: Einer der weltberühmten Orte; man 
+               <lb xml:id="p003_tr_1_tl_28"/>riet mir ab, darüber zu schreiben oder gar über das 
+               <lb xml:id="p003_tr_1_tl_29"/>Matterhorn, weil man es auf tausend Postkarten, 
+               <lb xml:id="p003_tr_1_tl_30"/>Souvenirs, Warenzeichen, Medaillen und bestickten 
+               <lb xml:id="p003_tr_1_tl_31"/>Taschentüchern gesehen habe, so daß jedes Wort</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_043.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>            <p> 
+               <lb xml:id="p004_tr_1_tl_3"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+den Überdruß nur vermehren könne. Aber es gibt 
+               <lb xml:id="p004_tr_1_tl_4"/>Eindrücke, die man nicht profanieren kann, und 
+               <lb xml:id="p004_tr_1_tl_5"/>dazu gehört sicher dieses Dorf der Bergsteiger am 
+               <lb xml:id="p004_tr_1_tl_6"/>Ende eines armen Tales, an der Grenze der Über 
+               <lb xml:id="p004_tr_1_tl_7" break="no"/>welt, und seine Existenz im Schatten des Giganten.</p>
+            <p> 
+               <lb xml:id="p004_tr_1_tl_8"/>Mitten hinein in diese Überwelt führt die <hi rendition="#g">Gor 
+                  <lb xml:id="p004_tr_1_tl_9" break="no"/>nergratbahn</hi>. Ihr Ruhm ist berechtigt, sie führt 
+               <lb xml:id="p004_tr_1_tl_10"/>wunderbar mühelos hinauf in jene Regionen, die 
+               <lb xml:id="p004_tr_1_tl_11"/>man von unten in ihrer Herrlichkeit nur ahnt, und 
+               <lb xml:id="p004_tr_1_tl_12"/>die bis vor kurzem den Passionierten der Bergwelt 
+               <lb xml:id="p004_tr_1_tl_13"/>vorbehalten blieben. Heute stehen alte Damen mit 
+               <lb xml:id="p004_tr_1_tl_14"/>Sonnenschirmen auf der besonnten Terrasse und 
+               <lb xml:id="p004_tr_1_tl_15"/>verfolgen durch enorme Fernrohre die Bergsteiger, 
+               <lb xml:id="p004_tr_1_tl_16"/>die irgendwo an einer der gleißenden Wände als 
+               <lb xml:id="p004_tr_1_tl_17"/>winzige Punkte hängen – man kommt in Ver 
+               <lb xml:id="p004_tr_1_tl_18" break="no"/>suchung, das gefährliche und leidenschaftweckende 
+               <lb xml:id="p004_tr_1_tl_19"/>Handwerk der Hochtouristik als ein "Puppenspiel" 
+               <lb xml:id="p004_tr_1_tl_20"/>im wahren Sinne des Wortes zu betrachten. Aber 
+               <lb xml:id="p004_tr_1_tl_21"/>die Größe des Schauplatzes bewahrt uns davor: der 
+               <lb xml:id="p004_tr_1_tl_22"/>kahle Grat, nur noch Felsen, Geröll, feuchtglitzern 
+               <lb xml:id="p004_tr_1_tl_23" break="no"/>des Gestein – man fühlt sich etwa wie ein kleines 
+               <lb xml:id="p004_tr_1_tl_24"/>Kind, das von einer starken Hand plötzlich in die 
+               <lb xml:id="p004_tr_1_tl_25"/>Höhe, zu den Köpfen der Erwachsenen gehoben 
+               <lb xml:id="p004_tr_1_tl_26"/>wird. Tatsächlich ist man in eine Gesellschaft von 
+               <lb xml:id="p004_tr_1_tl_27"/>Giganten geraten, deren Namen man legendenhaft 
+               <lb xml:id="p004_tr_1_tl_28"/>kennt wie die Hannibals, Alexanders, Cäsars und 
+               <lb xml:id="p004_tr_1_tl_29"/>Napoleons: Matterhorn, Monte Rosa, Dent-Blanche, 
+               <lb xml:id="p004_tr_1_tl_30"/>Gabelhorn, Zwillinge – und zu ihren Füßen brei 
+               <lb xml:id="p004_tr_1_tl_31" break="no"/>ten sich die Gletscher aus, urzeitliche Ströme, Gor¬</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p005" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_044.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p005_tr_1"/>            <p> 
+               <lb xml:id="p005_tr_1_tl_3" break="no"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+nergletscher, Theodulgletscher, Schwärzegletscher, 
+               <lb xml:id="p005_tr_1_tl_4"/>Breithorngletscher, scheinbar erstarrte Straßen, die 
+               <lb xml:id="p005_tr_1_tl_5"/>auf allen Seiten die Täler zwischen den riesigen 
+               <lb xml:id="p005_tr_1_tl_6"/>Häuptern füllen.</p>
+            <p> 
+               <lb xml:id="p005_tr_1_tl_7"/>Auf dem Gornergrat gibt es Scharen von bläu 
+               <lb xml:id="p005_tr_1_tl_8" break="no"/>lichen Bergdohlen mit gelben Schnäbeln. Sie über 
+               <lb xml:id="p005_tr_1_tl_9" break="no"/>fliegen langsam steuernd die kahlen Schuttflächen 
+               <lb xml:id="p005_tr_1_tl_10"/>und lassen sich in der Nähe des Hotels nieder. Man 
+               <lb xml:id="p005_tr_1_tl_11"/>kann sie mit Brot füttern: sie sind beinahe zahm. 
+               <lb xml:id="p005_tr_1_tl_12"/>Es ist, als fühle sich hier oben alles Lebendige ver 
+               <lb xml:id="p005_tr_1_tl_13" break="no"/>bündet.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p005_tr_1_tl_14"/>[head]Etwas über Hochtouren</p>
+            <p> 
+               <lb xml:id="p005_tr_1_tl_15"/>Am Riffelhorn, schwarz zerklüfteter Felsblock, 
+               <lb xml:id="p005_tr_1_tl_16"/>übt der Laie die ersten Griffe. Es gibt dort ein 
+               <lb xml:id="p005_tr_1_tl_17"/>langes und gar nicht einfaches "Matterhornkamin", 
+               <lb xml:id="p005_tr_1_tl_18"/>und unser Führer versicherte mir, daß er jeden 
+               <lb xml:id="p005_tr_1_tl_19"/>Schüler auf das Matterhorn mitnehme, der diese 
+               <lb xml:id="p005_tr_1_tl_20"/>Probe ernster Kletterkunst bestanden habe. Für 
+               <lb xml:id="p005_tr_1_tl_21"/>viele Touren braucht man nicht klettern zu können, 
+               <lb xml:id="p005_tr_1_tl_22"/>sondern lediglich steigen und atmen. Denn von 
+               <lb xml:id="p005_tr_1_tl_23"/>3000 Meter aufwärts wird die Luft dünn und der 
+               <lb xml:id="p005_tr_1_tl_24"/>Atem kurz.</p>
+            <p> 
+               <lb xml:id="p005_tr_1_tl_25"/>Der Unbefangene fühlt sich in Zermatt ein wenig 
+               <lb xml:id="p005_tr_1_tl_26"/>wie in St. Anton unter den Skifahrern. Nach weni 
+               <lb xml:id="p005_tr_1_tl_27" break="no"/>gen Tagen schlägt sein Gewissen beim Anblick der 
+               <lb xml:id="p005_tr_1_tl_28"/>Führer und der alten Alpinisten, die, rotverbrannt, 
+               <lb xml:id="p005_tr_1_tl_29"/>mit Seil, Rucksack und Pickel gegen Mittag wiegen 
+               <lb xml:id="p005_tr_1_tl_30" break="no"/>den Schrittes durch die Dorfstraße kommen. Gegen 
+               <lb xml:id="p005_tr_1_tl_31"/>Mittag: dann haben sie schon sechs oder neun Stun¬</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p006" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_045.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p006_tr_1"/>            <p> 
+               <lb xml:id="p006_tr_1_tl_3" break="no"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+den hinter sich, denn Bergsteigen ist ein matinaler 
+               <lb xml:id="p006_tr_1_tl_4"/>Sport. Wenn man zu spät aufbricht, kann der Ab 
+               <lb xml:id="p006_tr_1_tl_5" break="no"/>stieg sehr viel anstrengender werden, weil der 
+               <lb xml:id="p006_tr_1_tl_6"/>Schnee weich wird.</p>
+            <p> 
+               <lb xml:id="p006_tr_1_tl_7"/>Und die Photographenläden von Zermatt! Die 
+               <lb xml:id="p006_tr_1_tl_8"/>Suggestion ist unabweisbar: Porträts von Bergfüh 
+               <lb xml:id="p006_tr_1_tl_9" break="no"/>rern, von tapferen Studenten aus München, die eine 
+               <lb xml:id="p006_tr_1_tl_10"/>Erstbesteigung ausgeführt, eine Nordwand bezwun 
+               <lb xml:id="p006_tr_1_tl_11" break="no"/>gen haben [in Berichten über Saladin macht sich Schwarzenbach über solche 'Hobbybergsteiger' im Vergleich mit dem Risiko Saladins später lustig]– englische Ladies, die irgendeinen 
+               <lb xml:id="p006_tr_1_tl_12"/>Schnelligkeitsrekord im geschürzten Rock aufwei 
+               <lb xml:id="p006_tr_1_tl_13" break="no"/>sen, und andere, denen eine Traversierung zum 
+               <lb xml:id="p006_tr_1_tl_14"/>x-ten Male gelungen ist.</p>
+            <p> 
+               <lb xml:id="p006_tr_1_tl_15"/>Neben den Namen vieler Führer steht ein kleines 
+               <lb xml:id="p006_tr_1_tl_16"/>Kreuz und eine Ortsbezeichnung. Das wirkt so er 
+               <lb xml:id="p006_tr_1_tl_17" break="no"/>greifend wie der kleine Friedhof des Ortes mit den 
+               <lb xml:id="p006_tr_1_tl_18"/>vielen Inschriften "Mort au Cervin" – und ebenso 
+               <lb xml:id="p006_tr_1_tl_19" break="no"/>wenig abschreckend. Bergsteigen ist nicht nur ein 
+               <lb xml:id="p006_tr_1_tl_20"/>Sport – es ist eine durchaus ernste und männliche 
+               <lb xml:id="p006_tr_1_tl_21"/>Passion.</p>
+            <p> 
+               <lb xml:id="p006_tr_1_tl_22"/>Entsprechend ernst und schwierig ist der Beruf 
+               <lb xml:id="p006_tr_1_tl_23"/>des Bergführers. Unser Führer war als Siebzehn 
+               <lb xml:id="p006_tr_1_tl_24" break="no"/>jähriger zum erstenmal auf dem Matterhorn, als 
+               <lb xml:id="p006_tr_1_tl_25"/>Träger natürlich, denn das Führerexamen darf man 
+               <lb xml:id="p006_tr_1_tl_26"/>erst mit dreiundzwanzig Jahren machen. Seither, 
+               <lb xml:id="p006_tr_1_tl_27"/>erzählte er uns, war er dreiundachtzigmal oben 
+               <lb xml:id="p006_tr_1_tl_28"/>und er lächelte dazu, weil uns der schwarze Riese 
+               <lb xml:id="p006_tr_1_tl_29"/>mehr Eindruck machte als die anderen, noch schwie 
+               <lb xml:id="p006_tr_1_tl_30" break="no"/>rigeren Gipfel, die er uns durch sein Glas zeigte. 
+               <lb xml:id="p006_tr_1_tl_31"/>Die beiden Deutschen, die Brüder Franz und Toni</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p007" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_046.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p007_tr_1"/>            <p> 
+               <lb xml:id="p007_tr_1_tl_4"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+Schmid, bezwangen in drei Tagen, vom 31. Juli 
+               <lb xml:id="p007_tr_1_tl_5"/>bis 2. August 1931, die ungeheuerliche Nordwand.</p>
+            <p> 
+               <lb xml:id="p007_tr_1_tl_6"/>Unser Führer war noch jung. Er erzählte uns in 
+               <lb xml:id="p007_tr_1_tl_7"/>der Hütte viele Geschichten: von einem Kollegen, 
+               <lb xml:id="p007_tr_1_tl_8"/>der beim Schmuggel zwischen Italien und Saas-Fee 
+               <lb xml:id="p007_tr_1_tl_9"/>erwischt wurde, und dem man sein Führerpatent da 
+               <lb xml:id="p007_tr_1_tl_10" break="no"/>für entzog, so daß er seither als Träger gehen muß 
+               <lb xml:id="p007_tr_1_tl_11"/>– was ihn nicht nur zu einem armen Manne ge 
+               <lb xml:id="p007_tr_1_tl_12" break="no"/>macht hat, sondern beinahe zu einem ehrlosen [ein ähnliches Schicksal ist dasjenige des fiktionalen Antagonisten in "Flucht nach oben"].</p>
+            <p> 
+               <lb xml:id="p007_tr_1_tl_13"/>Die alten Führer wissen noch mehr Geschichten 
+               <lb xml:id="p007_tr_1_tl_14"/>als die jungen, aber sie sind schwerer zum Sprechen 
+               <lb xml:id="p007_tr_1_tl_15"/>zu bringen. Die Jungen geben Ratschläge, teilen 
+               <lb xml:id="p007_tr_1_tl_16"/>ihre Erfahrungen mit und loben den Anfänger, das 
+               <lb xml:id="p007_tr_1_tl_17"/>ist notwendig und ermutigend. Die Ausländer ver 
+               <lb xml:id="p007_tr_1_tl_18" break="no"/>stehen einen Walliser meistens überhaupt nicht, die 
+               <lb xml:id="p007_tr_1_tl_19"/>Ostschweizer nur mit Mühe. Wenn zwei Führer 
+               <lb xml:id="p007_tr_1_tl_20"/>sich zusammen unterhalten, hört man die vielen ü's 
+               <lb xml:id="p007_tr_1_tl_21"/>("Büebe" heißt es für Buben) wie im Berner Ober 
+               <lb xml:id="p007_tr_1_tl_22" break="no"/>land. In der Hütte sorgt der Führer wie eine Mut 
+               <lb xml:id="p007_tr_1_tl_23" break="no"/>ter für seine Schutzbefohlenen, rät ihnen, "Socken" 
+               <lb xml:id="p007_l"/>anzuziehen – gemeint sind weiche Hausschuhe, 
+               <lb xml:id="p007_tr_1_tl_26"/>und was man essen soll, und um neun Uhr wird man 
+               <lb xml:id="p007_tr_1_tl_27"/>unweigerlich schlafen geschickt. Mit dem Schlafen 
+               <lb xml:id="p007_tr_1_tl_28"/>hat es allerdings seine Schwierigkeiten, denn An 
+               <lb xml:id="p007_tr_1_tl_29" break="no"/>fänger haben Lampenfieber oder sie vertragen die 
+               <lb xml:id="p007_tr_1_tl_30"/>Höhe nicht. Um drei Uhr geweckt zu werden, 
+               <lb xml:id="p007_tr_1_tl_31"/>kommt ihnen zudem barbarisch vor. Und doch, 
+               <lb xml:id="p007_tr_1_tl_32"/>welche Eindrücke, gerade für den Anfänger! Nichts 
+               <lb xml:id="p007_tr_1_tl_33"/>um sich zu haben als Fels und Eis und das Rau¬</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p008" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_047.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p008_tr_1"/>            <p> 
+               <lb xml:id="p008_tr_1_tl_3" break="no"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+schen der Gletscherwasser – bei Mondlicht einen 
+               <lb xml:id="p008_tr_1_tl_4"/>Gletscher zu überqueren, langsames Gehen am Seil 
+               <lb xml:id="p008_tr_1_tl_5"/>hinter dem Führer, der von Zeit zu Zeit mit dem 
+               <lb xml:id="p008_tr_1_tl_6"/>Pickel unsicheren Grund untersucht und dann die 
+               <lb xml:id="p008_tr_1_tl_7"/>Richtung ändert (er sieht die überdeckten Spalten, 
+               <lb xml:id="p008_tr_1_tl_8"/>wie ein Hund die Fährte riecht) – der unbeschreib 
+               <lb xml:id="p008_tr_1_tl_9" break="no"/>lich farbenreiche und wunderbare Übergang von der 
+               <lb xml:id="p008_tr_1_tl_10"/>Nacht zum Tag, das Blauwerden des Himmels, die 
+               <lb xml:id="p008_tr_1_tl_11"/>grauen, harten Umrisse der Bergketten, die schwe 
+               <lb xml:id="p008_tr_1_tl_12" break="no"/>benden Wölkchen in großer Höhe, zartgefärbt und 
+               <lb xml:id="p008_tr_1_tl_13"/>durchsichtig, langsames Emportauchen der italieni 
+               <lb xml:id="p008_tr_1_tl_14" break="no"/>schen Alpen, des Montblanc und der Berneralpen, 
+               <lb xml:id="p008_tr_1_tl_15"/>Nebelmeer erfüllt wogend die Täler, die Bläue wird 
+               <lb xml:id="p008_tr_1_tl_16"/>immer durchsichtiger, der Blick immer weiter, und 
+               <lb xml:id="p008_tr_1_tl_17"/>man geht immer noch im nachtkalten Hauch über 
+               <lb xml:id="p008_tr_1_tl_18"/>den bläulich stumpfen Schnee, bis plötzlich das 
+               <lb xml:id="p008_tr_1_tl_19"/>Licht wie eine Welle und ganz warm über den 
+               <lb xml:id="p008_tr_1_tl_20"/>nächsten Kamm herüberflutet. Oder: hinabsteigen 
+               <lb xml:id="p008_tr_1_tl_21"/>am lockeren Seil, in der brennenden und spiegelnden 
+               <lb xml:id="p008_tr_1_tl_22"/>Sonne, die Schneefelder hinter sich lassen und durch 
+               <lb xml:id="p008_tr_1_tl_23"/>die steilen Geröllhalden abwärts laufen, und endlich, 
+               <lb xml:id="p008_tr_1_tl_24"/>mittags, das Dorf wieder erreichen, und auf eine 
+               <lb xml:id="p008_tr_1_tl_25"/>so angenehme Weise erschöpft sein.</p>
+            <p> 
+               <lb xml:id="p008_tr_1_tl_26"/>Manchmal ist es in Zermatt im September noch 
+               <lb xml:id="p008_tr_1_tl_27"/>so heiß, daß die Bauern ihr Gras noch einmal 
+               <lb xml:id="p008_tr_1_tl_28"/>schneiden – in anderen Jahren liegt um dieselbe 
+               <lb xml:id="p008_tr_1_tl_29"/>Zeit schon Schnee. Am 15. September geht die Jagd 
+               <lb xml:id="p008_tr_1_tl_30"/>auf. Es gibt Hasen, Murmeltiere und Gemsen. Die 
+               <lb xml:id="p008_tr_1_tl_31"/>meisten Führer gehen dann auf die Jagd, sie bleiben</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p009" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_048.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p009_r"/>            <p> 
+               <lb xml:id="p009_l"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+oft tagelang fort. Dann, im Winter, sind sie wieder 
+               <lb xml:id="p009_l_1"/>Führer und Skilehrer. Zermatt ist ein schwieriges 
+               <lb xml:id="p009_l_2"/>Skigebiet, aber es gibt dort immense Abfahrten 
+               <lb xml:id="p009_l_3"/>mit 2000 Metern Höhendifferenz.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
