@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0159" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0159#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0159</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0159_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415597/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>BOCKEN. [zeitliche Schätzung: ca. April 31, vor dem 26. April, Zeit der Examen; Brief bei Fleischmann nicht ediert] 
+               <lb xml:id="p001_tr_1_tl_2"/>OB HORGEN. ZÜRICHSEE.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_3"/>E.- Die Pläne wachsen ins Zahllose 
+               <lb xml:id="p001_tr_1_tl_4"/>und ich habe, mit gutem Gewissen, 
+               <lb xml:id="p001_tr_1_tl_5"/>nicht einmal Zeit sie alle mit 
+               <lb xml:id="p001_tr_1_tl_6"/>dem nötigen Ernst durch zu denken. 
+               <lb xml:id="p001_tr_1_tl_7"/>Doch da Mädi [=Medi?] zweifelsohne ihre 
+               <lb xml:id="p001_tr_1_tl_9"/>Prüfung schon bestanden hat 
+               <lb xml:id="p001_tr_1_tl_10"/>rechne auch ich mit ähnlichem 
+               <lb xml:id="p001_tr_1_tl_11"/>Erfolg.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_12"/>Bei uns nämlich will die ganze Familie 
+               <lb xml:id="p001_tr_1_tl_13"/>wieder einmal sich zerstreuen, 
+               <lb xml:id="p001_tr_1_tl_14"/>sogar die Grossmama welche damals 
+               <lb xml:id="p001_tr_1_tl_15"/>unserem Mahle assistierte – und, 
+               <lb xml:id="p001_tr_1_tl_16"/>da sie nicht gerne in der Bahn u. 
+               <lb xml:id="p001_tr_1_tl_17"/>nicht gern allein reist habe ich 
+               <lb xml:id="p001_tr_1_tl_18"/>proponiert bis Berlin mit ihr 
+               <lb xml:id="p001_tr_1_tl_19"/>im Auto zu fahren. Dieses selbe Auto 
+               <lb xml:id="p001_tr_1_tl_20"/>würde auf der Rückfahrt über 
+               <lb xml:id="p001_tr_1_tl_21"/>München reisen (nämlich nicht 
+               <lb xml:id="p001_tr_1_tl_22"/>der Victory sondern das feudale 
+               <lb xml:id="p001_tr_1_tl_23"/>Gefährt welches uns auf die Bahn 
+               <lb xml:id="p001_tr_1_tl_24"/>brachte), wen[n] dies für mich günstig 
+               <lb xml:id="p001_tr_1_tl_25"/>sein sollte.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l"/>In grosser Hast 
+               <lb xml:id="p001_l_133"/>geschrieben! 
+               <lb xml:id="p001_l_137"/>Empfehlungen 
+               <lb xml:id="p001_l_141"/>an <hi rendition="#u">die Eltern</hi></p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415598/info.json"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p> 
+               <lb xml:id="p002_tr_1_tl_1"/>Dieser Plan wäre nicht übel weil ich 
+               <lb xml:id="p002_tr_1_tl_2"/>ohnehin nach Berlin fahren will 
+               <lb xml:id="p002_tr_1_tl_3"/>u. dies auf diese Weise ohne Zeit 
+               <lb xml:id="p002_tr_1_tl_4" break="no"/>verlust geschehen könnte.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_5"/>Aber – u. es ist ein grosses Aber, – 
+               <lb xml:id="p002_tr_1_tl_6"/>Du schreibst ob ich am 26. mit Dir 
+               <lb xml:id="p002_tr_1_tl_7"/>zurück oder ohne Dich kommen 
+               <lb xml:id="p002_tr_1_tl_8"/>wolle. Wohin kommen? Wenn Du 
+               <lb xml:id="p002_tr_1_tl_9"/>damit München meinst, so müsste 
+               <lb xml:id="p002_tr_1_tl_10"/>man aus Vernunft- Benzin- Geld- 
+               <lb xml:id="p002_tr_1_tl_11"/>Zeitgründen sagen dass Du dan[n] 
+               <lb xml:id="p002_tr_1_tl_12"/>keinesfalls vorher eine Schweizerreise 
+               <lb xml:id="p002_tr_1_tl_13"/>unternehmen sollst da ich ja wie 
+               <lb xml:id="p002_tr_1_tl_14"/>gesagt nur wenige Tage später nach 
+               <lb xml:id="p002_tr_1_tl_15"/>München kommen kann.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_16"/>Welch umständliche, ganz examens 
+               <lb xml:id="p002_tr_1_tl_17" break="no"/>belastete, unklare Plänemacherei! 
+               <lb xml:id="p002_tr_1_tl_18"/>Ich rekapituliere den jüngsten, meinen, 
+               <lb xml:id="p002_tr_1_tl_19"/>mit Hilfe Mamas ausgeheckten 
+               <lb xml:id="p002_tr_1_tl_20"/>Plan: Wenn Du <hi rendition="#u">nicht</hi> in die Schweiz 
+               <lb xml:id="p002_tr_1_tl_21"/>kom[m]st, beeile ich mich entsprechend 
+               <lb xml:id="p002_tr_1_tl_22"/>mit der Berlinerfahrt. Das 
+               <lb xml:id="p002_tr_1_tl_23"/>ergibt:</p>
+
+            <pb xml:id="p003" facs="https://www.monacensia-digital.de/i3f/v20/415599/info.json"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_1"/>BOCKEN 
+               <lb xml:id="p003_tr_1_tl_2"/>OB HORGEN. ZÜRICHSEE.</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_3"/>Wir fahren sofort nach dem Examen 
+               <lb xml:id="p003_tr_1_tl_4"/>d.h. am 26., hier fort. Sind am 
+               <lb xml:id="p003_tr_1_tl_5"/>27. oder 28. in Berlin. Dort bleibe 
+               <lb xml:id="p003_tr_1_tl_6"/>ich bis Ende der Woche u. fahre 
+               <lb xml:id="p003_tr_1_tl_7"/>Samstag oder Sonntag (2. 3. Mai) nach 
+               <lb xml:id="p003_tr_1_tl_8"/>München.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_9"/>Was würdest Du dazu meinen, 
+               <lb xml:id="p003_tr_1_tl_10"/>denken, beschliessen, anders 
+               <lb xml:id="p003_tr_1_tl_11"/>machen? Ich lasse Franks und 
+               <lb xml:id="p003_tr_1_tl_12"/>sehr Grüssen. Klaus' Essaybuch [vermutlich: Auf der Suche nach einem Weg. Aufsätze. Transmare Verlag, Berlin 1931.] 
+               <lb xml:id="p003_tr_1_tl_13"/>habe ich schon bekommen u. 
+               <lb xml:id="p003_tr_1_tl_14"/>drin wenig auch gelesen, <hi rendition="#u">sehr</hi> nett 
+               <lb xml:id="p003_tr_1_tl_15"/>und liebenswert war es von ihm 
+               <lb xml:id="p003_l_1"/>an mich zu denken! 
+               <lb xml:id="p003_tr_1_tl_16"/>Wohin kann man Klaus denn 
+               <lb xml:id="p003_l"/>denn schreiben? – 
+               <lb xml:id="p003_tr_1_tl_18"/>Den "Bernhard" habe ich ganz aus 
+               <lb xml:id="p003_tr_1_tl_19"/>den Augen verloren, noch einmal 
+               <lb xml:id="p003_tr_1_tl_20"/>wegen des Doktortitels, den ich 
+               <lb xml:id="p003_tr_1_tl_21"/>noch nicht habe u. oft verfluche 
+               <lb xml:id="p003_tr_1_tl_22"/>weil ich Kopfschmerzen habe,</p>
+
+            <pb xml:id="p004" facs="https://www.monacensia-digital.de/i3f/v20/415600/info.json"/>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_1_tl_1"/>dauernd, unverbesserlich, was 
+               <lb xml:id="p004_tr_1_tl_2"/>keine guten Folgen haben 
+               <lb xml:id="p004_tr_1_tl_3"/>kann trotz Ehr u. Ruhm! [vertical space] 
+               <lb xml:id="p004_tr_1_tl_4"/>Schreibe, sei nachsichtig gegen 
+               <lb xml:id="p004_tr_1_tl_5"/>so viel Wirrwarr, (am Ende 
+               <lb xml:id="p004_tr_1_tl_6"/>wird doch alles anders als 
+               <lb xml:id="p004_tr_1_tl_7"/>man denkt pflegen die Leute 
+               <lb xml:id="p004_tr_1_tl_8"/>zu sagen) und sei vielmals 
+               <lb xml:id="p004_tr_1_tl_9"/>umarmt von Deinem Kind A 
+               <lb xml:id="p004_tr_1_tl_10"/>[Oder fährst Du nicht <hi rendition="#u">doch</hi> in die Schweiz ...] [Achtung: eckige Klammern von AS!!!]</p>
+</div>
+       </body>
+    </text>
+ </TEI>
