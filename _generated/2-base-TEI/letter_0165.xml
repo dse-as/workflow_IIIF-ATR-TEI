@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0165" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0165#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0165</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0165_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415554/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>9.II.31</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_2"/>Also Riesenärger hast Du, u. der Ford nichts 
+               <lb xml:id="p001_tr_1_tl_3"/>zu lachen – Hoffentlich hat er Dich brav 
+               <lb xml:id="p001_tr_1_tl_4"/>u. ungefährdet in die Reichshauptstadt 
+               <lb xml:id="p001_tr_1_tl_5"/>gebracht wo Du bei Gründgens wohl 
+               <lb xml:id="p001_tr_1_tl_6"/>untergekommen sein mögest – alle weiteren 
+               <lb xml:id="p001_tr_1_tl_7"/>Wünsche kan[n]st Du nach dieser 
+               <lb xml:id="p001_tr_1_tl_8"/>schauerlichen grammatikalischen Form 
+               <lb xml:id="p001_tr_1_tl_9"/>selbst beifügen –</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_10"/>Geliebtes E. – nach Korsika zu fahren 
+               <lb xml:id="p001_tr_1_tl_11"/>finde ich grossartig, auch den 
+               <lb xml:id="p001_tr_1_tl_12"/>Fasching wiegt es auf. Kan[n] man dort 
+               <lb xml:id="p001_tr_1_tl_13"/>nicht auch als Matrose gehen? 
+               <lb xml:id="p001_tr_1_tl_14"/>Sicherlich! Soll dort etwa wieder ein 
+               <lb xml:id="p001_tr_1_tl_15"/>Buch geschrieben werden? [Anspielung auf die beiden anderen Reisebücher der Mann-Geschwister, Rundherum und Riviera]</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_16"/>Übrigens: Das Buch, mein Buch 
+               <lb xml:id="p001_tr_1_tl_17"/>welches Du im[m]er lesen solltest 
+               <lb xml:id="p001_tr_1_tl_18"/>ist inzwischen bei Amalthea</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415555/info.json"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>gelandet u. soll vor Ostern 
+               <lb xml:id="p002_tr_1_tl_2"/>erscheinen. Es heisst "Freunde 
+               <lb xml:id="p002_tr_1_tl_3"/>um Bernhard" u. ich bin 
+               <lb xml:id="p002_tr_1_tl_4"/>ganz überrascht weil alles so 
+               <lb xml:id="p002_tr_1_tl_5"/>schnell geht.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_6"/>Vielleicht besucht Dich Fred 
+               <lb xml:id="p002_tr_1_tl_7"/>welcher für Orell Füssli 
+               <lb xml:id="p002_tr_1_tl_8"/>tätig ist wie Du weisst.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_9"/>Ich habe beinahe Deine Eltern 
+               <lb xml:id="p002_tr_1_tl_10"/>gesehen, Dein Mutter hat mir 
+               <lb xml:id="p002_tr_1_tl_11"/>sogar noch angeläutet aber da 
+               <lb xml:id="p002_tr_1_tl_12"/>musste ich schon ins Tiefland 
+               <lb xml:id="p002_tr_1_tl_13"/>zurück. Leider:</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_14"/>Denn hier ist das Vergnügen nur 
+               <lb xml:id="p002_tr_1_tl_15"/>halb, so weit nämlich fleissiges 
+               <lb xml:id="p002_tr_1_tl_16"/>Lernen ein Vergnügen sein kan[n]. 
+               <lb xml:id="p002_tr_1_tl_17"/>Das nahende Examen lässt 
+               <lb xml:id="p002_tr_1_tl_18"/>alles ertragen, u. mitunter 
+               <lb xml:id="p002_tr_1_tl_19"/>habe ich wirklich Interessantes 
+               <lb xml:id="p002_tr_1_tl_20"/>zu lesen. Mittwoch, glaube ich,</p>
+
+            <pb xml:id="p003" facs="https://www.monacensia-digital.de/i3f/v20/415556/info.json"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_1"/>kom[m]t Hanna Kiel – Was für ein 
+               <lb xml:id="p003_tr_1_tl_2"/>Trost in dieser heilsamen Ein 
+               <lb xml:id="p003_tr_1_tl_3" break="no"/>samkeit! Ein weiterer Trost 
+               <lb xml:id="p003_tr_1_tl_4"/>ist dass ich mir, weil ich abends 
+               <lb xml:id="p003_tr_1_tl_5"/>kein Wort mehr verstehe, 
+               <lb xml:id="p003_tr_1_tl_6"/>möglichst viel Musik mache. 
+               <lb xml:id="p003_tr_1_tl_7"/>Denn Musik scheint mir noch 
+               <lb xml:id="p003_tr_1_tl_8"/>immer die innigste u. erhabenste 
+               <lb xml:id="p003_tr_1_tl_9"/>aller Künste! –[=sehr langer Strich]</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_10"/>Wo ist den[n] Klaus, u. was treibst 
+               <lb xml:id="p003_tr_1_tl_11"/>Du in der grossen Stadt? 
+               <lb xml:id="p003_tr_1_tl_12"/>Ist das Buch schön u. lustig geworden 
+               <lb xml:id="p003_tr_1_tl_13"/>u. wann bekommt man Euch zu 
+               <lb xml:id="p003_tr_1_tl_14"/>lesen?</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_15"/>Hier bekom[m]st Du ein Bild damit Du 
+               <lb xml:id="p003_tr_1_tl_16"/>Dich an mich erin[n]erst, den[n] bis Mai 
+               <lb xml:id="p003_tr_1_tl_17"/>dauert es noch lange. Aber wer weiss 
+               <lb xml:id="p003_tr_1_tl_18"/>was bis dahin alles geschieht (zu denken 
+               <lb xml:id="p003_tr_1_tl_19"/>dass inzwischen mein Buch, <hi rendition="#u">eigentlich</hi> 
+               <lb xml:id="p003_l"/>für <hi rendition="#u">Dich</hi> geschrieben, gedruckt werden 
+               <lb xml:id="p003_tr_1_tl_22"/>soll!</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_23"/>Sei sehr umarmt und geliebt 
+               <lb xml:id="p003_tr_1_tl_24"/>von Deinem Kind A</p>
+</div>
+       </body>
+    </text>
+ </TEI>
