@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0162" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0162#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0162</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0162_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415550/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>6. I. 31</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_2"/>Kinderhäutchen, also trotz Pneu u. 
+               <lb xml:id="p001_tr_1_tl_3"/>Glatteis bist Du glücklich im Süden 
+               <lb xml:id="p001_tr_1_tl_4"/>gelandet u. hast hoffentlich auch 
+               <lb xml:id="p001_tr_1_tl_5"/>Klaus getroffen der mir aus Paris 
+               <lb xml:id="p001_tr_1_tl_6"/>schrieb u. mich damit – wie Du ihm 
+               <lb xml:id="p001_tr_1_tl_7"/>sagen sollst – immens erfreute!</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_8"/>Ich ass heute zu Mittag mit Bruno 
+               <lb xml:id="p001_tr_1_tl_9"/>u. Lisl Frank so wie Prof. Strich. 
+               <lb xml:id="p001_tr_1_tl_10"/>Du wunderst Dich, aber all diese 
+               <lb xml:id="p001_tr_1_tl_11"/>Leute sind doch Eure Freunde u. ich 
+               <lb xml:id="p001_tr_1_tl_12"/>liebe Sie daher. Begreiflich? Übrigens 
+               <lb xml:id="p001_tr_1_tl_13"/>Sind sie auch ganz allein entzückend, 
+               <lb xml:id="p001_tr_1_tl_14"/>ich habe Franks vie Hanna Kiel 
+               <lb xml:id="p001_tr_1_tl_15"/>getroffen, u. Sie lassen Dich u. 
+               <lb xml:id="p001_tr_1_tl_16"/>Klaus sehr grüssen. Sie sassen 
+               <lb xml:id="p001_tr_1_tl_17"/>fest wegen einer Reparatur am 
+               <lb xml:id="p001_tr_1_tl_18"/>Wagen.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_19"/>Ich war nur 2 Tage bei Hanna Kiel 
+               <lb xml:id="p001_tr_1_tl_20"/>vorher musste ich zu viel arbeiten, 
+               <lb xml:id="p001_tr_1_tl_21"/>aber sehr nett war es, u. ich
+               <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415551/info.json"/> 
+               <milestone unit="textregion" xml:id="p002_tr_2"/> 
+               <lb xml:id="p002_tr_2_tl_1"/>finde dass man sie sehr lieben 
+               <lb xml:id="p002_tr_2_tl_2"/>muss, das ist immer hübsch.</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_3"/>In Übrigen ist mein Zustand 
+               <lb xml:id="p002_tr_2_tl_4"/>geeignet zum "Nachdenken", mein 
+               <lb xml:id="p002_tr_2_tl_5"/>Gedächtnis besteht aus Löchern, 
+               <lb xml:id="p002_tr_2_tl_6"/>ich wundere mich dass ich meinen 
+               <lb xml:id="p002_tr_2_tl_7"/>Namen noch weiss. Natürlich 
+               <lb xml:id="p002_tr_2_tl_8"/>typisch überlastet, u. ich tue mir 
+               <lb xml:id="p002_tr_2_tl_9"/>sehr leid.</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_10"/>Strich sagt Du kom[m]st nach Bern. 
+               <lb xml:id="p002_tr_2_tl_11"/>Aber auch nach Zürich, das wirst 
+               <lb xml:id="p002_tr_2_tl_12"/>Du nicht vergessen haben? Bis 
+               <lb xml:id="p002_tr_2_tl_13"/>dahin ist das Buch getippt.</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_14"/>Und der Victory läuft, natürlich – 
+               <lb xml:id="p002_tr_2_tl_15"/>da Du ihn des Fords wegen nicht 
+               <lb xml:id="p002_tr_2_tl_16"/>brauchen wirst.</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_17"/>Was treibt Ihr den[n]? Lauter 
+               <lb xml:id="p002_tr_2_tl_18"/>unbekan[n]te Dinge natürlich, da 
+               <lb xml:id="p002_tr_2_tl_19"/>daraus Euer Buch ja bestehen 
+               <lb xml:id="p002_tr_2_tl_20"/>soll.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_2_tl_21"/>Grüsse für Klaus – u. alles Wünschenswerte! 
+               <lb xml:id="p002_tr_2_tl_22"/>Sei sehr geküsst u. ermahnt bald zu 
+               <lb xml:id="p002_tr_2_tl_23"/>schreiben an Dein Kind A.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
