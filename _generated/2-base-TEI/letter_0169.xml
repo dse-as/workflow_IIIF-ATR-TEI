@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0169" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0169#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0169</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0169_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415761/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Studentenschaft 
+               <lb xml:id="p001_tr_1_tl_3"/>der Universität Zürich 
+               <lb xml:id="p001_tr_1_tl_2"/>Zürich, den 11.XI.30</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_4"/>Wenn ich mich nicht irre soll morgen 
+               <lb xml:id="p001_tr_1_tl_5"/>am 12. die Première sein, ich habe 
+               <lb xml:id="p001_tr_1_tl_6"/>schon beinahe einen Ausweg u. Über 
+               <lb xml:id="p001_tr_1_tl_7" break="no"/>zeugungsgrund gefunden meine Umgebung 
+               <lb xml:id="p001_tr_1_tl_8"/>von der Notwendigkeit einer Reise 
+               <lb xml:id="p001_tr_1_tl_9"/>nach der bayrischen Hauptstadt zu 
+               <lb xml:id="p001_tr_1_tl_10"/>überzeugen, aber ich war im Argu 
+               <lb xml:id="p001_tr_1_tl_11" break="no"/>mentieren immer eher schwach, u. 
+               <lb xml:id="p001_tr_1_tl_12"/>eine Niederlage fürchtend, kapituliere 
+               <lb xml:id="p001_tr_1_tl_13"/>ich deshalb 'freiwillig', was meinem 
+               <lb xml:id="p001_tr_1_tl_14"/>Selbstgefühl zuträglicher ist!</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_15"/>Kind Erika ich hoffe der lyrische Paul, 
+               <lb xml:id="p001_tr_1_tl_16"/>der intellektuelle Regisseur, der kindliche 
+               <lb xml:id="p001_tr_1_tl_17"/>Gérard u. auch Agathe haben inzwischen 
+               <lb xml:id="p001_tr_1_tl_18"/>ihre Fehler abgelegt und agieren zu 
+               <lb xml:id="p001_tr_1_tl_19"/>Deiner Zufriedenheit, besonders aber Paul 
+               <lb xml:id="p001_tr_1_tl_20"/>den ich beneide Deinen Bruder spielen 
+               <lb xml:id="p001_tr_1_tl_21"/>zu dürfen u. <del rend="overstrike">den</del> dem ich deshalb nicht 
+               <lb xml:id="p001_tr_1_tl_22"/>verzeihen würde wenn er Dich ärgert! 
+               <lb xml:id="p001_tr_1_tl_23"/>Im Übrigen wird schon nichts fehlen 
+               <lb xml:id="p001_tr_1_tl_24"/>u. ich erlaube mir keineswegs, 
+               <lb xml:id="p001_tr_1_tl_25"/>irgendwelche blöden Besorgnisse aus 
+               <lb xml:id="p001_tr_1_tl_26"/>der Ferne zu hegen – abgesehen</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415762/info.json"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>natürlich von meinem persönlichen 
+               <lb xml:id="p002_tr_1_tl_2"/>Kummer welcher gross ist.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_3"/>Der Knabe Bernhard u. sein Freund Gert, 
+               <lb xml:id="p002_tr_1_tl_4"/>welcher noch wichtiger ist, rufen nach 
+               <lb xml:id="p002_tr_1_tl_5"/>Dir. Aber solange Du proben musstest 
+               <lb xml:id="p002_tr_1_tl_6"/>hättest Du sicher keine Zeit gehabt 
+               <lb xml:id="p002_tr_1_tl_7"/>über ihn zu lesen u. ihm Deine Gunst 
+               <lb xml:id="p002_tr_1_tl_8"/>zuzuwenden. Deshalb beschloss ich 
+               <lb xml:id="p002_tr_1_tl_9"/>zu warten. (ich komme mir wohlerzogen 
+               <lb xml:id="p002_tr_1_tl_10"/>geduldig und lobenswert vor!)</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_11"/>Nun überlasse ich Euch also einem 
+               <lb xml:id="p002_tr_1_tl_12"/>Schicksal, welches nicht anders als 
+               <lb xml:id="p002_tr_1_tl_13"/>gütig u. freundlich sein kann.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_14"/>Sei indessen geküsst von Deinem Kind A</p>
+</div>
+       </body>
+    </text>
+ </TEI>
