@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0168" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0168#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0168</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0168_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415778/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Studentenschaft 
+               <lb xml:id="p001_tr_1_tl_3"/>der Universität Zürich 
+               <lb xml:id="p001_tr_1_tl_2"/>Zürich, den</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_4"/>Ernstlich, E. – wie kom[m]t es dass Du Dich 
+               <lb xml:id="p001_tr_1_tl_5"/>plötzlich so offen u. ganz allein zum 
+               <lb xml:id="p001_tr_1_tl_6"/>"Plagiat" stellst [Hintergrund: https://www.spiegel.de/wissenschaft/bestimmt-kein-erfolg-a-2c3cc2e7-0002-0001-0000-000008947616 und https://www.welt.de/print-welt/article365039/Verschollenes-Drama-von-1931-entdeckt.html]? ich finde es, aus der 
+               <lb xml:id="p001_tr_1_tl_7"/>Ferne besehen, recht [auch Fleischmann, S. 60, transkribiert "recht", es könnte zwar auch "nicht" heissen, im Kontext ist 'recht' jedoch wahrscheinlicher] günstig so, aber 
+               <lb xml:id="p001_tr_1_tl_8"/>Du solltest eben Deine Johana [Protagonistin in "Plagiat"] auch 
+               <lb xml:id="p001_l"/><hi rendition="#u">spielen</hi>, in Berlin wen[n] <hi rendition="#u">ich</hi> etwas zu 
+               <lb xml:id="p001_tr_1_tl_11"/>sagen hätte.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_12"/>Ich vermute dass ich morgen, gleich 
+               <lb xml:id="p001_tr_1_tl_13"/>am Frühstück, einen Brief von Dir 
+               <lb xml:id="p001_tr_1_tl_14"/>habe, aber man vermutet ja nicht 
+               <lb xml:id="p001_tr_1_tl_15"/>unfehlbar wen[n] ein Wunsch so dringlich 
+               <lb xml:id="p001_tr_1_tl_16"/>dazu treibt. Meine Reiseaufsätze 
+               <lb xml:id="p001_tr_1_tl_17"/>über das Tessin [smallform_0616, smallform_0617, smallform_0618] sollen Samstag fertig 
+               <lb xml:id="p001_tr_1_tl_18"/>sein, dan[n] kom[m]e ich mir wie ein freier 
+               <lb xml:id="p001_tr_1_tl_19"/>Mensch vor. Und fahre auch bald weg – 
+               <lb xml:id="p001_tr_1_tl_20"/>ich will Dich sehen, hörst Du, ich liege 
+               <lb xml:id="p001_tr_1_tl_21"/>Dir damit zum wie vielten Mal in 
+               <lb xml:id="p001_tr_1_tl_22"/>den Ohren!</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_23"/>Aber: mir scheint, Aufsätzchen schreiben 
+               <lb xml:id="p001_tr_1_tl_24"/>kan[n] ich jetzt besser, leichter mühe 
+               <lb xml:id="p001_tr_1_tl_25" break="no"/>loser, das wäre also beinahe</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415779/info.json"/>
+            <milestone unit="textregion" xml:id="p002_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_2_tl_2"/>lohnend gewesen!</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_3"/>Han[n]a ist schon am Atlantischen 
+               <lb xml:id="p002_tr_2_tl_4"/>Ozean gelandet</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_5"/>Über Klaus u. mich, mich u. Klaus 
+               <lb xml:id="p002_tr_2_tl_6"/>steht, anlässlich des Bernhard, 
+               <lb xml:id="p002_tr_2_tl_7"/>irgendwo ein lustiger Satz, 
+               <lb xml:id="p002_tr_2_tl_8"/>wen[n] ich ihn auftreibe will ich 
+               <lb xml:id="p002_tr_2_tl_9"/>ihn schicken.</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_10"/>Grüsse inzwischen Klaus trotzdem 
+               <lb xml:id="p002_tr_2_tl_11"/>tausendmal, u. Theres ebenso.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">[vertical space]</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_12"/>ich fahre doch nach Berlin: Kom[m]er, 
+               <lb xml:id="p002_tr_2_tl_13"/>Königswald u. viele Andere möchte 
+               <lb xml:id="p002_tr_2_tl_14"/>ich sprechen</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_15"/>u. dan[n], das ist das Neueste, mit 
+               <lb xml:id="p002_tr_2_tl_16"/>Carl Burckhardts Hilfe eine Biblio 
+               <lb xml:id="p002_tr_2_tl_17" break="no"/>theksarbeit machen (Stoff zu einer 
+               <lb xml:id="p002_tr_2_tl_18"/>Biographie, oder dergl.)</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_19"/>Was meinst Du dazu,</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_20"/>wie steht es mit dem Treffpunkt im 
+               <lb xml:id="p002_tr_2_tl_21"/>Unendlichen –</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_22"/>Bekomme ich morgen, übermorgen, Son[n]tag 
+               <lb xml:id="p002_l_2"/>einen Brief von Dir?</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l"/>Den Victory bekom[m]e ich Samstag wieder, große Freude – 
+               <lb xml:id="p002_l_82"/>Lebwohl, E.-Liebling, ich bin unverändert 
+               <lb xml:id="p002_l_86"/>Dein Kind A. – [=langer Strich]</p>
+</div>
+       </body>
+    </text>
+ </TEI>
