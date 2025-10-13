@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0161" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0161#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0161</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0161_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415746/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>5. Sept. 31 
+               <lb xml:id="p001_tr_1_tl_2"/>E. – es ist trüb u. herbstlich 
+               <lb xml:id="p001_tr_1_tl_3"/>u. ich fahre, trotzdem, ungern 
+               <lb xml:id="p001_tr_1_tl_4"/>morgen (noch immer ohne Wagen) 
+               <lb xml:id="p001_tr_1_tl_5"/>nach Lugano. Oh dieses Piper 
+               <lb xml:id="p001_tr_1_tl_6" break="no"/>buch, u. zudem sei der Verlag 
+               <lb xml:id="p001_tr_1_tl_7"/>verkracht behauptet stolz mein 
+               <lb xml:id="p001_tr_1_tl_8"/>Amaltheamann. Aber über Graubünden 
+               <lb xml:id="p001_tr_1_tl_9"/>fahre ich zurück, das lasse ich mir 
+               <lb xml:id="p001_tr_1_tl_10"/>doch nicht nehmen. Und zugleich reist 
+               <lb xml:id="p001_tr_1_tl_11"/>Hanna morgen nach Frankreich, sie 
+               <lb xml:id="p001_tr_1_tl_12"/>hat Mama sehr gewonnen u. um 
+               <lb xml:id="p001_tr_1_tl_13" break="no"/>gestim[m]t, gut u. unermüdlich, sehr 
+               <lb xml:id="p001_tr_1_tl_14"/>klug u. sehr zart hat sie es angestellt, 
+               <lb xml:id="p001_tr_1_tl_15"/>Gott sei Dank. Aber, Zürich bleibt Zürich,</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415747/info.json"/>
+            <milestone unit="textregion" xml:id="p002_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_2_tl_1"/>sehr nett, sehr verwöhnend u. sogar 
+               <lb xml:id="p002_tr_2_tl_2"/>bequem,</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_3"/>aber, after all –</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_4"/>Du bist viel zu weit weg. Ich versichere 
+               <lb xml:id="p002_tr_2_tl_5"/>Dir, E., dass es mir auf die 
+               <lb xml:id="p002_tr_2_tl_6"/>Dauer nicht bekom[m]t, <hi rendition="#u">auf die Dauer</hi>, 
+               <lb xml:id="p002_tr_2_tl_7"/>nicht umgekehrt.</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_8"/>Wo bist Du den[n] eben jetzt, u. Klaus, 
+               <lb xml:id="p002_tr_2_tl_9"/>seid Ihr wohl u. vergnügt u. ohne 
+               <lb xml:id="p002_tr_2_tl_10"/>Ärger aller Art?</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_11"/>Nach dem 20., wie gesagt, möchte 
+               <lb xml:id="p002_tr_2_tl_12"/>ich Dich treffen – u. bin sehr 
+               <lb xml:id="p002_tr_2_tl_13"/>ungeduldig daraufhin</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_2_tl_14"/>ich bleibe aber, wohlerzogen, mit schönstem 
+               <lb xml:id="p002_tr_2_tl_15"/>Gruss an Klaus u. Therese, u. Dir sehr 
+               <lb xml:id="p002_tr_2_tl_16"/>ergeben als Dein Kind A.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
