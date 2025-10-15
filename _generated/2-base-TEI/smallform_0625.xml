@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0625" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0625#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0625</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0625"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0625_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_052.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l_9"/>La Côte am Genfersee</p>
+            <p> 
+               <lb xml:id="p001_l_10"/>Westlich von Lausanne beginnt es: eine Kette von 
+               <lb xml:id="p001_l_11"/>Landsitzen, Garten an Garten, Wiesen und große 
+               <lb xml:id="p001_l_12"/>Rasenflächen, die sich muldenförmig zur Straße 
+               <lb xml:id="p001_l_13"/>senken und sich auf der anderen Seite fortsetzen bis 
+               <lb xml:id="p001_l_14"/>zum Seeufer. Öft schließen hohe Mauern und Git 
+               <lb xml:id="p001_l_15" break="no"/>tertore die Gärten von der Straße ab, in vornehmer 
+               <lb xml:id="p001_l_16"/>Zurückhaltung verbergen sich die schönen Land 
+               <lb xml:id="p001_l_17" break="no"/>häuser den Blicken. Dann kommen wieder offene 
+               <lb xml:id="p001_l_18"/>Rebengelände, Türme in den gelben Reben, kleine 
+               <lb xml:id="p001_l_19"/>Schlösser mit geflammten Fensterläden. Die breite 
+               <lb xml:id="p001_l_20"/>Straße ist vorbildlich angelegt, wie eine Promenade 
+               <lb xml:id="p001_l_21"/>folgt sie dem Seeufer, oder entfernt sich ein wenig 
+               <lb xml:id="p001_l_22"/>und führt durch die Parklandschaft, wo es nach 
+               <lb xml:id="p001_l_23"/>feuchten Nußblättern riecht. Kastanien und Pap 
+               <lb xml:id="p001_l_24" break="no"/>peln streuen ihr Laub auf den schwarzen Asphalt.</p>
+            <p> 
+               <lb xml:id="p001_l_25"/><hi rendition="#g">St-Sulpice</hi> liegt zwischen Wiesen, ein sehr klei 
+               <lb xml:id="p001_l_26" break="no"/>ner Ort, die bekannte Hundezucht von Fischer-Bur 
+               <lb xml:id="p001_l_27" break="no"/>gess befindet sich irgendwo in der Nähe: besonders</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_053.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p> 
+               <lb xml:id="p002_tr_1_tl_2"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+die braven und klugen Schnauzer kommen von 
+               <lb xml:id="p002_tr_1_tl_3"/>dorther.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_4"/>Nach <hi rendition="#g">Morges</hi> führen stattliche Alleen, wenige 
+               <lb xml:id="p002_tr_1_tl_5"/>Rebberge liegen zwischen die Wiesen eingestreut. 
+               <lb xml:id="p002_tr_1_tl_6"/>Ein Hafenstädtchen: man hat vom Quai und vom 
+               <lb xml:id="p002_tr_1_tl_7"/>geschützten "Port" einen herrlichen Blick auf die 
+               <lb xml:id="p002_tr_1_tl_8"/>breite Seefläche und auf die savoyischen Berge da 
+               <lb xml:id="p002_tr_1_tl_9" break="no"/>hinter. Die alte Hauptgasse wirkt winzig und ein 
+               <lb xml:id="p002_tr_1_tl_10" break="no"/>geschlafen wie die von Villeneuve, aber am Eingang 
+               <lb xml:id="p002_tr_1_tl_11"/>von Morges liegen die großen Saurer-Reparatur 
+               <lb xml:id="p002_tr_1_tl_12" break="no"/>werkstätten und bringen modernes Leben in den 
+               <lb xml:id="p002_tr_1_tl_13"/>kleinen Ort. Anfang September findet in Morges 
+               <lb xml:id="p002_tr_1_tl_14"/>ein Concours hippique [Springreiten] statt, der zwar nicht inter 
+               <lb xml:id="p002_tr_1_tl_15" break="no"/>national ist, aber doch zu den größeren dieser Ver 
+               <lb xml:id="p002_tr_1_tl_16" break="no"/>anstaltungen zählt.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_17"/>Hinter Morges liegt die Landzunge von St-Prex, 
+               <lb xml:id="p002_tr_1_tl_18"/>wo sehr alte Mauerreste gefunden wurden. Im 
+               <lb xml:id="p002_tr_1_tl_19"/>übrigen ist es ein ausgedehnter Villenort in schönem 
+               <lb xml:id="p002_tr_1_tl_20"/>Gelände. Die Walter-School liegt in einem großen 
+               <lb xml:id="p002_tr_1_tl_21"/>Garten am See (im Winter ziehen die Schüler nach 
+               <lb xml:id="p002_tr_1_tl_22"/>St. Moritz, um nach englischem Vorbild jedem Sport 
+               <lb xml:id="p002_tr_1_tl_23"/>gerecht zu werden).</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_24"/><hi rendition="#g">Allaman</hi> ist ein kleiner "Bourg", ganz in Reben 
+               <lb xml:id="p002_tr_1_tl_25"/>versteckt. Es hat – natürlich – auch sein altes 
+               <lb xml:id="p002_tr_1_tl_26"/>Schloß. Eine Autostraße und ein elektrisches Bähn 
+               <lb xml:id="p002_tr_1_tl_27" break="no"/>chen führen nach <hi rendition="#g">Gimel</hi> hinauf, wohin man auch 
+               <lb xml:id="p002_tr_1_tl_28"/>von Rolle aus über das berühmte "Signal de Bougy 
+               <lb xml:id="p002_tr_1_tl_29"/>gelangen kann. Allein der Aussicht wegen nach 
+               <lb xml:id="p002_tr_1_tl_30"/>Bougy hinauf zu fahren, lohnt sich höchstens wegen</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_054.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p> 
+               <lb xml:id="p003_tr_1_tl_3"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+des Montblancs. Der Blick auf den See ist von den 
+               <lb xml:id="p003_tr_1_tl_4"/>unteren Hügeln aus harmonischer.</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_5"/>Etwa auf halber Strecke zwischen Rolle und 
+               <lb xml:id="p003_tr_1_tl_6"/>Nyon zweigt die Straße zur "Plage de Gland" ab. 
+               <lb xml:id="p003_tr_1_tl_7"/>Das ist sicher der schönste Strand des Genfersees. 
+               <lb xml:id="p003_tr_1_tl_8"/>Gland ist aber hauptsächlich wegen der großen Kur 
+               <lb xml:id="p003_tr_1_tl_9" break="no"/>anstalt "La Lignière bekannt.</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_10"/>Dann taucht bald das Schloß <hi rendition="#g">Prangins</hi> auf: 
+               <lb xml:id="p003_tr_1_tl_11"/>große, verschlossene graue Front aus dem achtzehn 
+               <lb xml:id="p003_tr_1_tl_12" break="no"/>ten Jahrhundert, in einem Park mit herrlichen alten 
+               <lb xml:id="p003_tr_1_tl_13"/>Bäumen. Es gehört heute Mrs. McCormick – wäh- 
+               <lb xml:id="p003_tr_1_tl_14"/>rend auf der Halbinsel Promenthoux ein Nach 
+               <lb xml:id="p003_tr_1_tl_15" break="no"/>komme Napoleons wohnt – oder genauer: seines 
+               <lb xml:id="p003_tr_1_tl_16"/>Bruders Ludwig, des Königs von Holland. Das 
+               <lb xml:id="p003_tr_1_tl_17"/>Gut heißt "La Bergerie", ein Advokat aus Nyon 
+               <lb xml:id="p003_tr_1_tl_18"/>versicherte mir, daß Jerôme Bonaparte den martia 
+               <lb xml:id="p003_tr_1_tl_19" break="no"/>lischen Herrscherblick des großen Korsen besitze. 
+               <lb xml:id="p003_tr_1_tl_20"/>In der <hi rendition="#g">Villa Prangins</hi>, der "Bergerie" benach∆ 
+               <lb xml:id="p003_tr_1_tl_21"/>bart, hat der Exkaiser von Österreich einige Jahre 
+               <lb xml:id="p003_tr_1_tl_22"/>lang gewohnt – womit aber die Reihe der pro 
+               <lb xml:id="p003_tr_1_tl_23" break="no"/>minenten Gäste von Nyon noch lange nicht beendet 
+               <lb xml:id="p003_tr_1_tl_24"/>ist. Da wohnt einmal der französische Schneider 
+               <lb xml:id="p003_tr_1_tl_25"/>Worth in einer schönen Villa, während allerdings 
+               <lb xml:id="p003_tr_1_tl_26"/>Yussupoff, der vielbesprochene Mörder Rasputins, 
+               <lb xml:id="p003_tr_1_tl_27"/>seine Besitzung kürzlich (1931) an einen Deutschen 
+               <lb xml:id="p003_tr_1_tl_28"/>verkauft hat. Paderewski ist seit vielen Jahren in der 
+               <lb xml:id="p003_tr_1_tl_29"/>Nähe von Morges wohnhaft, Cortot stammt sogar 
+               <lb xml:id="p003_l"/>von Nyon und gibt regelmäßige Konzerte – zur 
+               <lb xml:id="p003_tr_1_tl_32"/>neidvollen Verwunderung der Großstädter.</p>
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_055.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p004_tr_2"/>            <p> 
+               <lb xml:id="p004_tr_2_tl_2"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+Sicher ist Nyon das hübscheste Städtchen am 
+               <lb xml:id="p004_tr_2_tl_3"/>schweizerischen Ufer. Die spitzen Türme des Schlos 
+               <lb xml:id="p004_tr_2_tl_4" break="no"/>ses überragen es, mehr zum Schmuck als zur Ver 
+               <lb xml:id="p004_tr_2_tl_5" break="no"/>teidigung gedacht. Es gibt zwei größere Hotels am 
+               <lb xml:id="p004_tr_2_tl_6"/>Quai: Beau Rivage und Hôtel de Nyon – einen klei 
+               <lb xml:id="p004_tr_2_tl_7" break="no"/>nen, besonnten Platz, wo die weißen Dampfboote 
+               <lb xml:id="p004_tr_2_tl_8"/>anlegen und die Segelschiffe und Fischerkähne im 
+               <lb xml:id="p004_tr_2_tl_9"/>Hafen liegen wie in den kleinen französischen 
+               <lb xml:id="p004_tr_2_tl_10"/>Fischernestern. Man ißt Truites und Filets de per 
+               <lb xml:id="p004_tr_2_tl_11" break="no"/>ches in einer Crêmerie, man trinkt seinen Kaffee 
+               <lb xml:id="p004_tr_2_tl_12"/>im Freien. Nachher geht man, im Rücken des 
+               <lb xml:id="p004_tr_2_tl_13"/>Städtchens, in die Reben hinauf. Dort oben gibt es 
+               <lb xml:id="p004_tr_2_tl_14"/>wieder andere Landsitze: keine Villen, sondern länd 
+               <lb xml:id="p004_tr_2_tl_15" break="no"/>liche Häuser, zwei-, dreihundert Jahre alt, in ebenso 
+               <lb xml:id="p004_tr_2_tl_16"/>alten Gärten versteckt. Und welche Landschaft! 
+               <lb xml:id="p004_tr_2_tl_17"/>Hinter den ersten Hügeln beginnen schon die leicht 
+               <lb xml:id="p004_tr_2_tl_18" break="no"/>gewellten, fruchtbaren Anhöhen am Fuße des Juras, 
+               <lb xml:id="p004_tr_2_tl_19"/>und dahinter liegt der Wald: vielfarbig, mit hellem 
+               <lb xml:id="p004_tr_2_tl_20"/>Eichenlaub und schwarzen Tannen. Dörfer am Weg: 
+               <lb xml:id="p004_tr_2_tl_21"/>Duillier heißt eines davon, mit schönen Höfen und 
+               <lb xml:id="p004_tr_2_tl_22"/>alten Gebäuden, in Trélex gibt es das kleine, sehr 
+               <lb xml:id="p004_tr_2_tl_23"/>provinziell-französische Hôtel du Lion d'Or, und 
+               <lb xml:id="p004_tr_2_tl_24"/>hinter Trélex nimmt die schöne, breite, ganz neue 
+               <lb xml:id="p004_tr_2_tl_25"/>Straße nach <hi rendition="#g">St-Cergue</hi> den Charakter einer 
+               <lb xml:id="p004_tr_2_tl_26"/>luxuriösen Bergstraße an. Durch Eichenwald führen 
+               <lb xml:id="p004_tr_2_tl_27"/>die großen Kurven hinauf – ein Bähnchen (von 
+               <lb xml:id="p004_tr_2_tl_28"/>Nyon nach Morez) macht in einer Stunde denselben 
+               <lb xml:id="p004_tr_2_tl_29"/>Weg. St-Cergue liegt wie <hi rendition="#g">Caux</hi> 1000 Meter hoch, 
+               <lb xml:id="p004_tr_2_tl_30"/>wie dieses gilt es trotzdem als sehr geeigneter</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p005" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_056.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p005_r"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p005_l"/>Stilisierte Zeichnung des Genfersees mit Friedenstaube von Hans Tomamichl (ohne Bildunterschrift)</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <pb xml:id="p006" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_057.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p006_tr_1"/>            <p> 
+               <lb xml:id="p006_tr_1_tl_2"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+Wintersportplatz. Es hat allerdings keine so be 
+               <lb xml:id="p006_tr_1_tl_3" break="no"/>rühmte Bobbahn – aber dafür ein vielseitiges, 
+               <lb xml:id="p006_tr_1_tl_4"/>leichtes Skigelände. Die Dôle ist ganz in der Nähe. 
+               <lb xml:id="p006_tr_1_tl_5"/>Dorf und Umgebung erinnem in ihrer behaglichen 
+               <lb xml:id="p006_tr_1_tl_6"/>Gastlichkeit ein wenig an Oberbayern. Im Sommer 
+               <lb xml:id="p006_tr_1_tl_7"/>und Herbst kann man in den Wäldern die schönsten 
+               <lb xml:id="p006_tr_1_tl_8"/>Spaziergänge machen – nach der "Givrine" und 
+               <lb xml:id="p006_tr_1_tl_9"/>zu der Crêmerie "La Chèvrerie", die wie eine Senn 
+               <lb xml:id="p006_tr_1_tl_10" break="no"/>hütte aussieht. Dort züchtet Monsieur Correvon in 
+               <lb xml:id="p006_tr_1_tl_11"/>einem felsigen Gärtlein seltene Alpenpflanzen. Man 
+               <lb xml:id="p006_tr_1_tl_12"/>überblickt das sanft gewellte Land bis zum See, 
+               <lb xml:id="p006_tr_1_tl_13"/>die Dörfer und Schlösser, Nyon, Crans, Coppet – 
+               <lb xml:id="p006_tr_1_tl_14"/>und jenseits des Sees die klare blaue Linie der 
+               <lb xml:id="p006_tr_1_tl_15"/>savoyischen Hügel. Ein junger Mann aus Nyon 
+               <lb xml:id="p006_tr_1_tl_16"/>nannte diese Gegend "une région sans saveur" – 
+               <lb xml:id="p006_tr_1_tl_17"/>es wurde heftig widersprochen. Man einigte sich, 
+               <lb xml:id="p006_tr_1_tl_18"/>daß der östliche Teil des Sees – bei Montreux 
+               <lb xml:id="p006_tr_1_tl_19"/>etwa – als romantisch, der westliche aber als klas 
+               <lb xml:id="p006_tr_1_tl_20" break="no"/>sisch bezeichnet werden müsse. Womit jene Mi 
+               <lb xml:id="p006_tr_1_tl_21" break="no"/>schung von Klassik und Idyllik gemeint war, die 
+               <lb xml:id="p006_tr_1_tl_22"/>dem Geschmack des kultivierten achtzehnten Jahr 
+               <lb xml:id="p006_tr_1_tl_23" break="no"/>hunderts entsprach. Man weiß, daß Madame de 
+               <lb xml:id="p006_tr_1_tl_24"/>Staël zeitweise in Coppet gewohnt hat: das Schloß 
+               <lb xml:id="p006_tr_1_tl_25"/>gehörte ihrem Vater, dem Finanzminister Necker. 
+               <lb xml:id="p006_tr_1_tl_26"/>In <hi rendition="#g">Ferney-Voltaire</hi> hat Voltaire gewohnt 
+               <lb xml:id="p006_tr_1_tl_27"/>oder vielmehr, er hat diesen Ort mit dem optimisti 
+               <lb xml:id="p006_tr_1_tl_28" break="no"/>schen Fortschrittsglauben des Aufklärers gegründet. 
+               <lb xml:id="p006_l"/>Und die "Rückkehr zur Natur" – das sentimentale 
+               <lb xml:id="p006_tr_1_tl_31"/>Naturgefühl des Genfers Jean-Jacques Rousseau</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p007" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_058.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p007_tr_1"/>            <p> 
+               <lb xml:id="p007_tr_1_tl_3"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+scheint nirgends anders als in dieser zugleich vor 
+               <lb xml:id="p007_tr_1_tl_4" break="no"/>nehmen und bukolischen Landschaft geboren zu sein.</p>
+            <p> 
+               <lb xml:id="p007_tr_1_tl_5"/>Zudem ist es ein pietätvolles Land: da wohnen, 
+               <lb xml:id="p007_tr_1_tl_6"/>in den alten Landhäusern, die alten Familien, seit 
+               <lb xml:id="p007_tr_1_tl_7"/>Generationen ansässig, seit Generationen Amt und 
+               <lb xml:id="p007_tr_1_tl_8"/>Beruf vom Vater auf den Sohn vererbend: Pastoren 
+               <lb xml:id="p007_tr_1_tl_9"/>und Advokaten, sehr eigenartige, eigenwillige Leute, 
+               <lb xml:id="p007_tr_1_tl_10"/>meistens ungemein gebildet, und in einem selten ge 
+               <lb xml:id="p007_tr_1_tl_11" break="no"/>wordenen Sinn, ohne geradezu intellektuell zu sein, 
+               <lb xml:id="p007_tr_1_tl_12"/>verbinden sie die intimen Kenntnisse, die ihnen von 
+               <lb xml:id="p007_tr_1_tl_13"/>ihrer Herkunft kommen, mit einer vernünftigen und 
+               <lb xml:id="p007_tr_1_tl_14"/>interessierten Teilnahme an den großen Weltläuften. 
+               <lb xml:id="p007_tr_1_tl_15"/>Die Familie ist in diesen Orten ein äußerst leben 
+               <lb xml:id="p007_tr_1_tl_16" break="no"/>diger und weit zufassender Begriff. Man ist mit 
+               <lb xml:id="p007_tr_1_tl_17"/>"oncles" und "cousins" dritten und vierten Grades 
+               <lb xml:id="p007_tr_1_tl_18"/>befreundet und kennt sich genealogisch genau aus. 
+               <lb xml:id="p007_tr_1_tl_19"/>Die verheirateten Söhne wohnen häufig mit den 
+               <lb xml:id="p007_tr_1_tl_20"/>Eltern zusammen, in einem patriarchalischen Verhält 
+               <lb xml:id="p007_tr_1_tl_21" break="no"/>nis. Oft ziehen sich Pastoren und Advokaten schon 
+               <lb xml:id="p007_tr_1_tl_22"/>mit 50 Jahren zurück und verbringen den ansehn 
+               <lb xml:id="p007_tr_1_tl_23" break="no"/>lichen Rest ihrer Tage damit, ihre Reben und ihren 
+               <lb xml:id="p007_tr_1_tl_24"/>Garten zu pflegen [Rückverweis auf Voltaire 'cultivons notre jardin']. In ihren Häusern stehen die 
+               <lb xml:id="p007_tr_1_tl_25"/>schönsten alten Möbel, hängen die prächtigsten Ta 
+               <lb xml:id="p007_tr_1_tl_26" break="no"/>peten, stehen die berühmten zierlich bemalten Nyon- 
+               <lb xml:id="p007_tr_1_tl_27"/>Tassen in erblindeten Vitrinen. Stiche von Rousseau 
+               <lb xml:id="p007_tr_1_tl_28"/>hängen im Arbeitszimmer, wo die alten Klassiker 
+               <lb xml:id="p007_tr_1_tl_29"/>die Bücherschränke füllen. Geruhsam-beschauliches 
+               <lb xml:id="p007_tr_1_tl_30"/>Dasein, in der klassisch heiteren Landschaft, wo alle 
+               <lb xml:id="p007_tr_1_tl_31"/>Unmäßigkeit verbannt scheint – beschließen wir</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p008" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_059.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p008_r"/>            <p> 
+               <lb xml:id="p008_l"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+den kleinen Ausflug mit dem klassischen und erst 
+               <lb xml:id="p008_l_1"/>hier ganz zu begreifenden Ausruf: Cultive ton 
+               <lb xml:id="p008_l_2"/>jardin![Voltaire]</p>
+</div>
+       </body>
+    </text>
+ </TEI>
