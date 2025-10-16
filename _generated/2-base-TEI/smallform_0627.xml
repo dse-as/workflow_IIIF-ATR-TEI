@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0627" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0627#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0627</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0627"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0627_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_070.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_3"/>Neuenburg</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_4"/>Für Neuenburg müßte wahrlich eine Lanze ge 
+               <lb xml:id="p001_tr_1_tl_5" break="no"/>brochen werden, erfreut es sich doch des mäßigen 
+               <lb xml:id="p001_tr_1_tl_6"/>Rufs einer Kleinstadt mit vielen Mädchenpensio 
+               <lb xml:id="p001_tr_1_tl_7" break="no"/>naten, an einem See gelegen, der nicht besonders 
+               <lb xml:id="p001_tr_1_tl_8"/>berühmt ist. Und mögen auch die "Pensionnats de 
+               <lb xml:id="p001_tr_1_tl_9"/>demoiselles", in beträchtlicher Anzahl vorhanden 
+               <lb xml:id="p001_tr_1_tl_10"/>sein, so schließt das doch die mannigfaltigsten ver 
+               <lb xml:id="p001_tr_1_tl_11" break="no"/>borgenen Vorzüge nicht aus. Man erinnere sich: 
+               <lb xml:id="p001_tr_1_tl_12"/>Neuenburg ist unbestritten die Stadt mit der glück 
+               <lb xml:id="p001_tr_1_tl_13" break="no"/>lichen Geschichte. Eine wohlgesinnte, zufriedene 
+               <lb xml:id="p001_tr_1_tl_14"/>und heitere Bürgerschaft verrät sich in der ange 
+               <lb xml:id="p001_tr_1_tl_15" break="no"/>nehm harmonischen Architektur der Wohnhäuser, 
+               <lb xml:id="p001_tr_1_tl_16"/>im deutlichen Sinn für angemessenen Zierat. Dazu 
+               <lb xml:id="p001_tr_1_tl_17"/>kommt, im Straßenbild Neuenburgs, der Einfluß 
+               <lb xml:id="p001_tr_1_tl_18"/>eines besonderen Baumaterials: eines ockergelben, 
+               <lb xml:id="p001_tr_1_tl_19"/>warmen Jurakalks, der immer aussieht, als werde 
+               <lb xml:id="p001_tr_1_tl_20"/>er von der Sonne beschienen und durchwärmt.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_21"/>Es gibt genug Gründe, um Neuenburg davor 
+               <lb xml:id="p001_tr_1_tl_22"/>zu bewahren, ein ausgesprochener Fremdenort zu 
+               <lb xml:id="p001_tr_1_tl_23"/>werden. Die Stadt wird eine Schulstadt bleiben, 
+               <lb xml:id="p001_tr_1_tl_24"/>und darin liegt auch, heute, ein Teil ihrer Vorzüge. 
+               <lb xml:id="p001_tr_1_tl_25"/>Die Jugend herrscht hier vor. Schüler und Stu 
+               <lb xml:id="p001_tr_1_tl_26" break="no"/>denten füllen die Straßen, die Cafés, die Sport 
+               <lb xml:id="p001_tr_1_tl_27" break="no"/>plätze. Und die Straßen erinner zuweilen an das 
+               <lb xml:id="p001_tr_1_tl_28"/>Quartier Latin in Paris: so viele Buchhandlungen, 
+               <lb xml:id="p001_tr_1_tl_29"/>und alle Auslagen mit Schulbüchern angefüllt: la- 
+               <lb xml:id="p001_tr_1_tl_30"/>teinische Klassiker, Wörterbücher, Grammatiken.</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_071.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p> 
+               <lb xml:id="p002_tr_1_tl_2"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+Der Beginn des Semesters, "Rentrée des Classes", ist 
+               <lb xml:id="p002_tr_1_tl_3"/>das große Ereignis der Stadt. Und welche Rück 
+               <lb xml:id="p002_tr_1_tl_4" break="no"/>sichtnahme auf diese lernende Jugend! Zur Zeit der 
+               <lb xml:id="p002_tr_1_tl_5"/>Prüfungen weiß jeder Friseur genau Bescheid, be 
+               <lb xml:id="p002_tr_1_tl_6" break="no"/>glückwünscht die Erfolgreichen, tröstet die Pech 
+               <lb xml:id="p002_tr_1_tl_7" break="no"/>vögel. Schüler bekommen ermäßigte Bahnbillette 
+               <lb xml:id="p002_tr_1_tl_8"/>und Spezialpreise in den Restaurants. Und natürlich 
+               <lb xml:id="p002_tr_1_tl_9"/>auf den Sportplätzen: der Golfplatz befindet sich, 
+               <lb xml:id="p002_tr_1_tl_10"/>leicht erreichbar, in Pierre-à-Bot, die Tennisplätze 
+               <lb xml:id="p002_tr_1_tl_11"/>hauptsächlich im Vallon des Cadolles. Es gibt zahl 
+               <lb xml:id="p002_tr_1_tl_12" break="no"/>reiche Badeanstalten und Strandbäder in Colombier 
+               <lb xml:id="p002_tr_1_tl_13"/>und La Tène. La Tène ist bekanntlich eine sehr be 
+               <lb xml:id="p002_tr_1_tl_14" break="no"/>rühmte Fundstelle für die Periode der jüngeren 
+               <lb xml:id="p002_tr_1_tl_15"/>Eisenzeit (etwa 500 v. Chr.), die man deshalb La 
+               <lb xml:id="p002_tr_1_tl_16" break="no"/>Tène-Zeit nennt.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_17"/>Man behauptet, daß in Neuenburg ein besonders 
+               <lb xml:id="p002_tr_1_tl_18"/>reines Französisch gesprochen werde. Eine These, 
+               <lb xml:id="p002_tr_1_tl_19"/>die jedenfalls die Deutschschweizer veranlaßt, ihre 
+               <lb xml:id="p002_tr_1_tl_20"/>Töchter hierher zu schicken. Neuenburg hat auch 
+               <lb xml:id="p002_tr_1_tl_21"/>ein recht bekanntes Konservatorium und eine höhere 
+               <lb xml:id="p002_tr_1_tl_22"/>Mädchenschule. Die jungen Männer hingegen kom 
+               <lb xml:id="p002_tr_1_tl_23" break="no"/>men meistens hierher, um die Handelsschule zu 
+               <lb xml:id="p002_tr_1_tl_24"/>besuchen, oder eine der zahlreichen Berufsschulen 
+               <lb xml:id="p002_tr_1_tl_25"/>für Uhrenmacher, Landwirte und Hoteliers. Die 
+               <lb xml:id="p002_tr_1_tl_26"/>Universität von Neuenburg (die Schweiz hat vier 
+               <lb xml:id="p002_tr_1_tl_27"/>Millionen Einwohner und sieben Universitäten!) be 
+               <lb xml:id="p002_tr_1_tl_28" break="no"/>sitzt zwar keine medizinische Fakultät, dafür aber 
+               <lb xml:id="p002_tr_1_tl_29"/>seit dem Jahre 1731 einen Lehrstuhl für Philo 
+               <lb xml:id="p002_tr_1_tl_30" break="no"/>sophie.</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_072.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p> 
+               <lb xml:id="p003_tr_1_tl_3"/>Das Schloß Neuenburg steht nicht außerhalb oder 
+               <lb xml:id="p003_tr_1_tl_4"/>am Rand der Stadt, gleicht in keiner Weise einer 
+               <lb xml:id="p003_tr_1_tl_5"/>Festung zur Bedrohung oder Verteidigung – es ist 
+               <lb xml:id="p003_tr_1_tl_6"/>nicht einmal vornehm distanziert, sondern steht auf 
+               <lb xml:id="p003_tr_1_tl_7"/>einem Hügel inmitten der Stadt, neben der schönen 
+               <lb xml:id="p003_tr_1_tl_8"/>Stiftskirche, im gleichen warmgelben Material er 
+               <lb xml:id="p003_tr_1_tl_9" break="no"/>baut wie die Bürgerhäuser. Und doch hat es einen 
+               <lb xml:id="p003_tr_1_tl_10"/>äußerst feudalen Charakter; es wirkt höfisch-fest 
+               <lb xml:id="p003_tr_1_tl_11" break="no"/>lich, sehr französisch.</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_12"/>In den Räumen des Schlosses haben heute die 
+               <lb xml:id="p003_tr_1_tl_13"/>Behörden des Kantons Neuenburg ihre Büros ein 
+               <lb xml:id="p003_tr_1_tl_14" break="no"/>gerichtet. Jenseits davon, auf hoher Terrasse, steht 
+               <lb xml:id="p003_tr_1_tl_15"/>die <hi rendition="#g">Eglise Collégiale</hi>, die wie das Schloß 
+               <lb xml:id="p003_tr_1_tl_16"/>einen einheitlich befriedigenden Eindruck macht, 
+               <lb xml:id="p003_tr_1_tl_17"/>selbst wenn man weiß, daß die beiden gelben Türme 
+               <lb xml:id="p003_tr_1_tl_18"/>neu sind, während das Chor aus romanischer Zeit 
+               <lb xml:id="p003_tr_1_tl_19"/>stammt. In diesem Chor befindet sich auch eines 
+               <lb xml:id="p003_tr_1_tl_20"/>der größten gotischen Grabmäler der Schweiz: das- 
+               <lb xml:id="p003_tr_1_tl_21"/>jenige der Grafen von Neuenburg, im vierzehnten 
+               <lb xml:id="p003_tr_1_tl_22"/>Jahrhundert begonnen, mit mächtigen Standbildern 
+               <lb xml:id="p003_l"/>betender Ritter, die – obwohl im einzelnen ohne 
+               <lb xml:id="p003_l_1"/>auffallende Qualität – eine recht monumentale 
+               <lb xml:id="p003_tr_1_tl_27"/>Wirkung erreichen.</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_28"/>An der Rue de la Collégiale stehen unter hohen 
+               <lb xml:id="p003_tr_1_tl_29"/>alten Bäumen die bescheidenen und fast ländlichen 
+               <lb xml:id="p003_tr_1_tl_30"/>Häuser, die früher von den Domherren bewohnt 
+               <lb xml:id="p003_tr_1_tl_31"/>wurden. Diesem ländlichen Stil wird man in Neuen 
+               <lb xml:id="p003_tr_1_tl_32" break="no"/>burg häufig begegnen. Denn hier sind Stadt und 
+               <lb xml:id="p003_tr_1_tl_33"/>Land keineswegs so streng geschieden wie in Genf,</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_073.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p004_r"/>            <p> 
+               <lb xml:id="p004_l"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+und selbst die reinsten städtischen Fassaden – etwa 
+               <lb xml:id="p004_l_1"/>in der Rue du Pommier die Häuser der de Pury, 
+               <lb xml:id="p004_l_2"/>de Meuron und de Pierre – haben nicht annähernd 
+               <lb xml:id="p004_l_3"/>die strenge Verschlossenheit der Rue des Granges.</p>
+            <p> 
+               <lb xml:id="p004_l_4"/>Eine andere Eigenart Neuenburgs: die vornehmen 
+               <lb xml:id="p004_l_5"/>Quartiere schließen sich nicht von denen der Hand 
+               <lb xml:id="p004_l_6" break="no"/>werker und Kleinbürger ab. Genau wie Stadt und 
+               <lb xml:id="p004_l_7"/>Land, gehen auch die Stände ineinander über oder 
+               <lb xml:id="p004_l_8"/>entwickeln sich doch friedlich nebeneinander. Das 
+               <lb xml:id="p004_l_9"/>hat wieder seine historischen Gründe: die patrizi 
+               <lb xml:id="p004_l_10" break="no"/>schen Familien von Neuenburg sind bodenständig, 
+               <lb xml:id="p004_l_11"/>sie stammen aus der Gegend, wie der Bauer und 
+               <lb xml:id="p004_l_12"/>der Landadlige, sie drängen sich nicht – wie die 
+               <lb xml:id="p004_l_13"/>eingewanderten Genfer Familien – der einheimi 
+               <lb xml:id="p004_l_14" break="no"/>schen Bevölkerung auf. Die Pourtalès zwar sind 
+               <lb xml:id="p004_l_15"/>Franzosen – aber sie sind ein Ausnahmefall. So 
+               <lb xml:id="p004_l_16"/>erklärt sich, daß in Neuenburg ein eigener Stil ent 
+               <lb xml:id="p004_l_17" break="no"/>stehen konnte: der einer heiteren, offenen Urbanität 
+               <lb xml:id="p004_l_18"/>mit maßvoller Ornamentik.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
