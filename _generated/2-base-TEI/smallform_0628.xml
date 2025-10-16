@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0628" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0628#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0628</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0628"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0628_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_073.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l_20"/>Neuenburger Landschaften</p>
+            <p> 
+               <lb xml:id="p001_l_21"/>Hinter Neuenburg steigen die Weinberge em 
+               <lb xml:id="p001_l_22" break="no"/>por – <hi rendition="#g">le Vignoble</hi>, bis auf etwa 600 Meter 
+               <lb xml:id="p001_l_23"/>Höhe. Dann beginnt der Jura. Die runde Kuppe 
+               <lb xml:id="p001_l_24"/>des <hi rendition="#g">Chaumont</hi> ist einer seiner Vorboten. Man 
+               <lb xml:id="p001_l_25"/>fährt mit der Drahtseilbahn hinauf und hat vom 
+               <lb xml:id="p001_l_26"/>Grand-Hôtel aus den ersten weiten Blick über den</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_074.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p> 
+               <lb xml:id="p002_l"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+See und jenseits davon die Linie der flachen Hügel 
+               <lb xml:id="p002_l_1" break="no"/>züge. Dahinter, unwirklich wie Wolkengebilde, die 
+               <lb xml:id="p002_l_2"/>weißen Spitzen der Berneralpen mit unsichtbaren 
+               <lb xml:id="p002_l_3"/>Füßen.</p>
+            <p> 
+               <lb xml:id="p002_l_4"/>Wer auf dem Chaumont einen Spaziergang ohne
+               <milestone unit="textregion" xml:id="p002_r_3"/> 
+               <lb xml:id="p002_l_17"/>genaue Wegkenntnis unternimmt, befindet sich 
+               <lb xml:id="p002_l_18"/>plötzlich in großer Einsamkeit. Man vergißt die 
+               <lb xml:id="p002_l_19"/>Nähe der kleinen Stadt, der Dörfer und der Reb 
+               <lb xml:id="p002_l_20" break="no"/>berge. Stundenlang kann man so gehen, fast ohne 
+               <lb xml:id="p002_l_21"/>ein Haus anzutreffen. Und so ist der Jura: ein 
+               <lb xml:id="p002_l_22"/>schwermütiges Gebirge. Er ist weit entfernt von 
+               <lb xml:id="p002_l_23"/>der Gewalt der Alpen, und auch von ihrer Lieblich 
+               <lb xml:id="p002_l_24" break="no"/>keit, von ihren schroffen Überraschungen und Über 
+               <lb xml:id="p002_l_25" break="no"/>maßen, von ihren starken Farben und Tempera¬</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <milestone unit="textregion" xml:id="p002_r_2"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p002_l_47" break="no"/>Zeichnung eines Uhrmachers von Hans Tomamichl</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_l_16"/>Uhrmacher</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_075.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p> 
+               <lb xml:id="p003_tr_1_tl_2"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+turen, ihren besonnten Hochtälern und ihren Schnee- 
+               <lb xml:id="p003_l"/>und Felsregionen. Der Jura ist niedrig, gleich 
+               <lb xml:id="p003_l_1" break="no"/>mäßig, dunkel bewaldet, ein Grenzgebirge. Seinen 
+               <lb xml:id="p003_tr_1_tl_7"/>Bewohnern bereitet er ein schweres und karges Da 
+               <lb xml:id="p003_tr_1_tl_8" break="no"/>sein. Die Winter sind lang, manchmal hängt Nebel 
+               <lb xml:id="p003_tr_1_tl_9"/>dick über den Waldtälern. Die Farben des Jura 
+               <lb xml:id="p003_tr_1_tl_10"/>sind gedämpft, bräunlich, ein wenig stumpf. Den 
+               <lb xml:id="p003_tr_1_tl_11"/>Bewohnern sagt man einen Hang zum Mystizismus 
+               <lb xml:id="p003_tr_1_tl_12"/>nach, eine besondere religiöse Empfänglichkeit, Nei 
+               <lb xml:id="p003_tr_1_tl_13" break="no"/>gung zu allen sektiererischen Bewegungen. Etwas 
+               <lb xml:id="p003_tr_1_tl_14"/>scheint hier immer offen zu bleiben, reizt zu grü 
+               <lb xml:id="p003_tr_1_tl_15" break="no"/>blerischer Nachdenklichkeit, weist in die Ferne. Es 
+               <lb xml:id="p003_tr_1_tl_16"/>ist recht glaubwürdig, daß auch das Talent und 
+               <lb xml:id="p003_tr_1_tl_17"/>die ausgesprochene Neigung zu einem so subtilen, 
+               <lb xml:id="p003_tr_1_tl_18"/>zu Erfindungen feinster Art verführenden Hand 
+               <lb xml:id="p003_tr_1_tl_19" break="no"/>werk wie der Uhrmacherei mit diesem Charakter 
+               <lb xml:id="p003_tr_1_tl_20"/>zusammenhängt. Eigentlich eingeführt und beinahe 
+               <lb xml:id="p003_tr_1_tl_21"/>entdeckt hat dies nachmals so verbreitete Gewerbe 
+               <lb xml:id="p003_tr_1_tl_22"/>ein fünfzehnjähriger Junge: Daniel Jean-Richard, 
+               <lb xml:id="p003_tr_1_tl_23"/>Schmiedelehrling aus La Sagne – dem Dörfchen, 
+               <lb xml:id="p003_tr_1_tl_24"/>wo die Familie des Schweizer Generals Ulrich 
+               <lb xml:id="p003_tr_1_tl_25"/>Wille [Schwarzenbachs eigene Familie großväterlicherseits] herstammt. Daniel also hatte noch nie 
+               <lb xml:id="p003_tr_1_tl_26"/>ein Uhrwerk gesehen oder in der Hand gehabt, 
+               <lb xml:id="p003_tr_1_tl_27"/>als ein Kaufmann ihm eine in London gefer 
+               <lb xml:id="p003_tr_1_tl_28" break="no"/>tigte Uhr in die Werkstatt trug, um sie repa 
+               <lb xml:id="p003_tr_1_tl_29" break="no"/>rieren zu lassen. Und der Junge studierte das Werk 
+               <lb xml:id="p003_tr_1_tl_30"/>so gründlich, daß er es nicht nur wieder in Gang 
+               <lb xml:id="p003_tr_1_tl_31"/>brachte, sondern ganz selbständig eine zweite Uhr 
+               <lb xml:id="p003_tr_1_tl_32"/>herstellte. Das war im Jahre 1679, und der Junge</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_076.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>            <p> 
+               <lb xml:id="p004_tr_1_tl_2"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+brauchte nicht weniger als achtzehn Monate, um 
+               <lb xml:id="p004_tr_1_tl_3"/>seine erste Uhr zu vollenden. Seither aber hat sich 
+               <lb xml:id="p004_tr_1_tl_4"/>die Kunst mit großer Geschwindigkeit in den 
+               <lb xml:id="p004_tr_1_tl_5"/>Bauernhäusern verbreitet und von Vätern auf die 
+               <lb xml:id="p004_tr_1_tl_6"/>Söhne vererbt. So daß es bald Spezialisten für 
+               <lb xml:id="p004_tr_1_tl_7"/>Taschenuhren und für Standuhren gab, Familien, 
+               <lb xml:id="p004_tr_1_tl_8"/>die nur die feine Mechanik betrieben, andere, die 
+               <lb xml:id="p004_tr_1_tl_9"/>sich dem Bau der Gehäuse zuwandten – man er 
+               <lb xml:id="p004_tr_1_tl_10" break="no"/>fand die kompliziertesten Glockenspiele, Repetier 
+               <lb xml:id="p004_tr_1_tl_11" break="no"/>werke und Meßinstrumente. Die Neuenburger wur 
+               <lb xml:id="p004_tr_1_tl_12" break="no"/>den alsbald in der ganzen Welt berühmt, Ferdinand 
+               <lb xml:id="p004_tr_1_tl_13"/>Berthoud wurde Mitglied der "Königlichen Gesell 
+               <lb xml:id="p004_tr_1_tl_14" break="no"/>schaft" in London, Abraham-Louis Bréguet leitete 
+               <lb xml:id="p004_tr_1_tl_15"/>in Paris ein berühmtes Institut, wo die feinsten und 
+               <lb xml:id="p004_tr_1_tl_16"/>präzisesten Meßinstrumente gemacht wurden. Und 
+               <lb xml:id="p004_tr_1_tl_17"/>heute lernen die jungen Uhrmacher in der "Ecole 
+               <lb xml:id="p004_tr_1_tl_18"/>d'Horlogerie" von Neuenburg in vierjährigem Stu 
+               <lb xml:id="p004_tr_1_tl_19" break="no"/>dium das schwierige Gewerbe: Sie machen in den 
+               <lb xml:id="p004_tr_1_tl_20"/>ersten drei Jahren sechs Uhren, im vierten Jahr 
+               <lb xml:id="p004_tr_1_tl_21"/>aber einen Chronometer und eine Repetieruhr als 
+               <lb xml:id="p004_tr_1_tl_22"/>Probe und Meisterstück.</p>
+            <p> 
+               <lb xml:id="p004_tr_1_tl_23"/>Eine Stufe tiefer als die "Montagnes" liegen 
+               <lb xml:id="p004_tr_1_tl_24"/>die "Vallons", zugängliche Täler – schöne, herbe 
+               <lb xml:id="p004_tr_1_tl_25"/>Bauerngegenden, das <hi rendition="#g">Val-de-Travers</hi> wieder in 
+               <lb xml:id="p004_tr_1_tl_26" break="no"/>dustrieller – dort liegen die größten Asphalt 
+               <lb xml:id="p004_tr_1_tl_27" break="no"/>fabriken der Schweiz – dafür ländlich reizvoll das<hi rendition="#g"> 
+                  <lb xml:id="p004_tr_1_tl_28"/>Val-de-Ruz</hi>, das nur noch der dunkle Rücken 
+               <lb xml:id="p004_tr_1_tl_29"/>des Chaumont von den Rebengeländen der "Vig- 
+               <lb xml:id="p004_tr_1_tl_30"/>noble" trennt.</p>
+
+            <pb xml:id="p005" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_077.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p005_r_315"/>            <p> 
+               <lb xml:id="p005_l_1"/>Und noch einmal: <hi rendition="#g">Le Vignoble</hi> – denn seine 
+               <lb xml:id="p005_l_2"/>Schönheiten liegen am Wege, wenn man sie nur 
+               <lb xml:id="p005_l_3"/>zu beachten gewillt ist. Es gibt hier ebenso viele 
+               <lb xml:id="p005_l_4"/>Schlösser wie am Genfersee. In der Nähe Genfs 
+               <lb xml:id="p005_l_5"/>dominieren die Gärten: Mauern verschließen sie 
+               <lb xml:id="p005_l_65"/>gegen die Straßen. 
+               <lb xml:id="p005_l_64"/>In Neuenburg gibt es 
+               <lb xml:id="p005_l_38"/>Dörfer und Rebberge. 
+               <lb xml:id="p005_l_63"/>Darum sind dem 
+               <lb xml:id="p005_l_62"/>Fremden die intimen 
+               <lb xml:id="p005_l_61"/>Einblicke in Genf er 
+               <lb xml:id="p005_l_43" break="no"/>schwert, in Neuenburg 
+               <lb xml:id="p005_l_44"/>empfängt ihn der Reiz 
+               <lb xml:id="p005_l_45"/>ländlicher Offenheit. 
+               <lb xml:id="p005_l_46"/>Und auch die Schlös 
+               <lb xml:id="p005_l_47" break="no"/>ser – eine hohe Park 
+               <lb xml:id="p005_l_48" break="no"/>mauer würde schlecht 
+               <lb xml:id="p005_l_49"/>zu ihnen passen, da 
+               <lb xml:id="p005_l_50" break="no"/>für eine Dorfstraße 
+               <lb xml:id="p005_l_51"/>um so besser, oder 
+               <lb xml:id="p005_l_52"/>ein Rebberg und ein 
+               <lb xml:id="p005_l_53"/>schmaler Weg mit 
+               <lb xml:id="p005_l_54"/>niedrigem Steinmäuer 
+               <lb xml:id="p005_l_55" break="no"/>chen. Man betrachte 
+               <lb xml:id="p005_l_56"/>daraufhin etwa das 
+               <lb xml:id="p005_l_57"/>Schlößchen Hauterive, 
+               <lb xml:id="p005_l_58"/>zwischen Neuchâtel 
+               <lb xml:id="p005_l_59"/>und St-Blaise hoch 
+               <lb xml:id="p005_l_60"/>über der Landstraße:</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <milestone unit="textregion" xml:id="p005_r_3"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p005_l_39"/>Zeichnung einer Pendeluhr mit der Inschrift "Jaques Mathey" von Hans Tomamichl (keine Bildbeschriftung)</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <pb xml:id="p006" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_078.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p006_r"/>            <p> 
+               <lb xml:id="p006_l_1"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+ein zierlich abgewandeltes ländlich vornehmes Bau 
+               <lb xml:id="p006_l_2" break="no"/>werk mit tiefem Dach, am Dorfeingang, durchaus 
+               <lb xml:id="p006_l_3"/>nachbarlich neben den gelben Häusern der reben 
+               <lb xml:id="p006_l_4" break="no"/>besitzenden Bauern. Oder das Landhaus der Ma 
+               <lb xml:id="p006_l_5" break="no"/>dame de Charrière in <hi rendition="#g">Colombier</hi>: breitgieblig, 
+               <lb xml:id="p006_l_6"/>mit niedrigem Flügel, Spalierbäumen und unge 
+               <lb xml:id="p006_l" break="no"/>mein spitzem Türmchen im Hintergrund – wer 
+               <lb xml:id="p006_l_9"/>möchte es nicht bewohnen! Madame de Charrière 
+               <lb xml:id="p006_l_10"/>war jene schöngeistige Dame, die uns die immer 
+               <lb xml:id="p006_l_11"/>noch reizvoll zu lesenden "Lettres neuchâteloises" 
+               <lb xml:id="p006_l_12"/>hinterlassen hat.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
