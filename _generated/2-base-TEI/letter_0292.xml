@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0292" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0292#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0292</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0292_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415385/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r_31"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_2_tl_2"/>ANNEMARIE CLARAC 
+               <lb xml:id="p001_tr_2_tl_4"/>118 EAST 40<hi rendition="#sub">TH</hi> 
+               <lb xml:id="p001_tr_2_tl_5"/>NEW YORK 
+               <lb xml:id="p001_tr_2_tl_1"/>Sils–Baselgia, 
+               <lb xml:id="p001_tr_2_tl_3"/>25. Februar 
+               <lb xml:id="p001_tr_1_tl_1"/>Mein sehr Lieber,</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_2"/>ich vermute doch, dass Du allernächstens in Küsnacht 
+               <lb xml:id="p001_tr_1_tl_3"/>eintriffst, – hier oben geht die "Saison" schon etwas dem 
+               <lb xml:id="p001_tr_1_tl_4"/>Ende zu, die feinen Gäste reisen ab, weil eben jetzt die 
+               <lb xml:id="p001_tr_1_tl_5"/>Sonne frühlingshaft heiter wird, – mein Auto ist kaput, 
+               <lb xml:id="p001_tr_1_tl_6"/>ein mächtiger Postwagen hat ihn flach an die Mauer 
+               <lb xml:id="p001_tr_1_tl_7"/>gedrückt, und da mir dabei gar nichts passiert ist, müsst[sic!] 
+               <lb xml:id="p001_tr_1_tl_8"/>müsste ich froh und dankbar sein, – doch empfinde ich 
+               <lb xml:id="p001_tr_1_tl_9"/>es eher als Pech, – und Aerger, Pech, Ablenkung, dumme 
+               <lb xml:id="p001_tr_1_tl_10"/>Geschäftigkeit gab es überhaupt in allzu reichem Masse 
+               <lb xml:id="p001_tr_1_tl_11"/>seit meiner Ankunft mit Therese, – seit dem Moment, als 
+               <lb xml:id="p001_tr_1_tl_12"/>Spivy uns auf dem Silser Dorfplätzchen begrüsste. 
+               <lb xml:id="p001_tr_1_tl_13"/>Sie ist eine reizende Person, – aber selbst sie kann es 
+               <lb xml:id="p001_tr_1_tl_14"/>nicht ahnen, (und ich ahnte es auch nicht), was es an 
+               <lb xml:id="p001_tr_1_tl_15"/>schwätzen, aufdringlich-sein, und sich-exponieren bei 
+               <lb xml:id="p001_tr_1_tl_16"/>der Palacebevölkerung, Besitzer, Ober, Maitre de, Jazz 
+               <lb xml:id="p001_tr_1_tl_17" break="no"/>band-Musikanten, brauchte, um ihr Début zu bewerkstelli 
+               <lb xml:id="p001_tr_3_tl_1" break="no"/>gen. Natürlich gefiel sie sehr, – aber sonderbar hilflos 
+               <lb xml:id="p001_tr_3_tl_2"/>benahm sie sich, und so ist sie denn wieder in Sils, 
+               <lb xml:id="p001_tr_3_tl_3"/>zusammen mit Dokterli, Therese, und mir, – und die Familie 
+               <lb xml:id="p001_tr_3_tl_4"/>erregt Aufsehen.</p>
+            <p> 
+               <lb xml:id="p001_tr_3_tl_5"/>Nun singt sie heute abend in Silvaplana, wohin ich 
+               <lb xml:id="p001_tr_3_tl_6"/>Freunde geladen habe. Dann kommt sie, Montag, nach 
+               <lb xml:id="p001_tr_3_tl_7"/>Zürich, wo ich allerhand vorbereitete, – doch sollten 
+               <lb xml:id="p001_tr_3_tl_8"/>Therese und Du sich ein bischen um sie kümmern, bis 
+               <lb xml:id="p001_tr_3_tl_9"/>sie nach Paris weiter fährt.</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415384/info.json"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p> 
+               <lb xml:id="p002_tr_2_tl_1"/>Lieber Klaus, – darüber aber wollte ich nicht so viel 
+               <lb xml:id="p002_tr_2_tl_2"/>schreibem[sic], sondern Dir für den Aufsatz um Gide danken 
+               <lb xml:id="p002_tr_2_tl_3"/>– er ist wunderschön, und es ist von der Weltbühne 
+               <lb xml:id="p002_tr_2_tl_4"/>dumm und unfreundlich, nicht Deinen sachlich reinen 
+               <lb xml:id="p002_tr_2_tl_5"/>und persönlich so mutigen und geistig verbundenen 
+               <lb xml:id="p002_tr_2_tl_6"/>Artikel auf die erste Seite zu setzen, sondern die 
+               <lb xml:id="p002_tr_2_tl_7"/>peinlich-flache Antwort von Budzislawski. Was für 
+               <lb xml:id="p002_tr_2_tl_8"/>einen blöden Missbrauch treibt dieser Mensch mit de<del rend="overstrike">m</del>[r] 
+               <lb xml:id="p002_tr_2_tl_9"/>tragischen Tatsache, dass für den toleranten Geist 
+               <lb xml:id="p002_tr_2_tl_10"/>manchmal der Konflikt deutlich wird, dass zwei vom 
+               <lb xml:id="p002_tr_2_tl_11"/>Absoluten her gleich berechtigte und zu verstehende 
+               <lb xml:id="p002_tr_2_tl_12"/>Ansichten nicht vereinbar sind von einem praktischen 
+               <lb xml:id="p002_tr_2_tl_13"/>oder kämpferischen Standpunkte her, – Jch glaube doch, 
+               <lb xml:id="p002_tr_2_tl_14"/>dass man sich darüber einig sein müsste: die Angleich 
+               <lb xml:id="p002_tr_2_tl_15" break="no"/>chung der taktischen Mittel an den Feind gilt mehr 
+               <lb xml:id="p002_tr_1_tl_1"/>für Generäle als für unsereiner, und darf, wenn man 
+               <lb xml:id="p002_tr_1_tl_2"/>es mit der schmutzigen Lügentaktik der Nazis zu tun 
+               <lb xml:id="p002_tr_1_tl_3"/>hat, nicht bis zur geistigen Angleichung gehen. An 
+               <lb xml:id="p002_tr_1_tl_4" break="no"/>ständige Kritik, wenn sie von einem bewährten und 
+               <lb xml:id="p002_tr_1_tl_5"/>bemühten Mann wie Gide kommt, ist notwendig, – und 
+               <lb xml:id="p002_tr_1_tl_6"/>besonders im Falle Russlands, welches durch die letz 
+               <lb xml:id="p002_tr_1_tl_7" break="no"/>ten und vorletzten unheimlich finsteren Ereignisse 
+               <lb xml:id="p002_tr_1_tl_8"/>schwer verdächtig geworden, und zudem aus so vielen 
+               <lb xml:id="p002_tr_1_tl_9"/>Gründen nicht als direktes Beispiel und direkter 
+               <lb xml:id="p002_tr_1_tl_10"/>Bundesgenosse gelten kann.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_11"/>Dass Gide kein Konvertit war, als er sich zum Kommu 
+               <lb xml:id="p002_tr_1_tl_12" break="no"/>nismus bekannte, sondern dass es die heute unvermeid 
+               <lb xml:id="p002_tr_1_tl_13" break="no"/>liche Konsequenz seiner Menschenliebe war, – das 
+               <lb xml:id="p002_tr_1_tl_14"/>scheint ja, obwohl es für uns ungeheuer wichtig war, 
+               <lb xml:id="p002_tr_1_tl_15"/>jetzt vergessen. Und die blöde Un-Kritik, die an ihm 
+               <lb xml:id="p002_tr_1_tl_16"/>von Werweisswem jetzt geübt wird, erinnert peinlich 
+               <lb xml:id="p002_tr_1_tl_17"/>an die Angriffe von gewissen Emigranten gegen den 
+               <lb xml:id="p002_tr_1_tl_18"/>Zauberer. Als ob es nicht, letztlich und tröstlich, 
+               <lb xml:id="p002_tr_1_tl_19"/>das bessere und reinere Niveau wäre, das sich durch¬               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <pb xml:id="p003" facs="https://www.monacensia-digital.de/i3f/v20/415383/info.json"/>
+            <milestone unit="textregion" xml:id="p003_r_103"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_1" break="no"/>ANNEMARIE CLARAC 
+               <lb xml:id="p003_tr_1_tl_2"/>118 EAST 40<hi rendition="#sub">TH</hi> 
+               <lb xml:id="p003_tr_1_tl_3"/>New York 
+               <lb xml:id="p003_tr_1_tl_4"/> </p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+            <p> 
+               <lb xml:id="p003_tr_1_tl_4"/>setzen wird.</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_5"/>Jch habe hier, während der letzten Tage, von zuverläss 
+               <lb xml:id="p003_tr_1_tl_6" break="no"/>siger Seite Jnformationen aus Deutschland und Tat 
+               <lb xml:id="p003_tr_1_tl_7" break="no"/>sachen vernommen, die bei aller Grausigkeit opti 
+               <lb xml:id="p003_tr_1_tl_8" break="no"/>mistisch und gläubig stimmen müssen. Sie betrafen vor 
+               <lb xml:id="p003_tr_1_tl_9"/>allem d<del rend="overstrike">k</del>ie deutschen Rüstungen: Mangel an Rohstoffen, 
+               <lb xml:id="p003_tr_1_tl_10"/>Geld und Weizen machen selbst deutsche Rüstungen 
+               <lb xml:id="p003_tr_1_tl_11"/>qualitativ nicht besser, – sonst hätte ja Franco, der 
+               <lb xml:id="p003_tr_1_tl_12"/>mit deutschem Material kämpft, längst siegen müssen. 
+               <lb xml:id="p003_tr_1_tl_13"/>Und die Brotkarten-Stimmung im Lande ist bald die 
+               <lb xml:id="p003_tr_1_tl_14"/>von 1916, – und wird schlimmer, je länger man Hitler 
+               <lb xml:id="p003_tr_1_tl_15"/>hochstaplerisch gewähren lässt.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space]</p>
+            <p> 
+               <lb xml:id="p003_l"/>Kommst Du eigentlich nach Sils? Vor dem 15. habe ich 
+               <lb xml:id="p003_l_1"/>vermutlich überhaupt keinen Besuch, ausser vielleicht 
+               <lb xml:id="p003_tr_2_tl_5"/>Aschenia Melikow, für einige Tage. Jch muss Dir aber 
+               <lb xml:id="p003_tr_2_tl_6"/>mitteilen, dass meine Finanzen geschwächt, mein Haus 
+               <lb xml:id="p003_tr_2_tl_7" break="no"/>halt aufs Einfachste reduziert ist. – Ja, und die 
+               <lb xml:id="p003_tr_2_tl_8"/>letzten Hundertdollars musste ich doch Eri überlas 
+               <lb xml:id="p003_tr_2_tl_9" break="no"/>sen, sodass Du mir oder Kommer (!) einfach bare 440 frs 
+               <lb xml:id="p003_tr_2_tl_10"/>schuldest. Es ist arg,– weil ich Kommer ungern schulde, 
+               <lb xml:id="p003_tr_2_tl_11"/>und meinerseits für Auto Zahnarzt Holz etc beträcht 
+               <lb xml:id="p003_tr_2_tl_12" break="no"/>liche Summen zu bezahlen hätte.</p>
+            <p> 
+               <lb xml:id="p003_tr_2_tl_13"/>Schreib, ob und wann Du kommst. Es wäre natürlich 
+               <lb xml:id="p003_tr_2_tl_14"/>schön, in der – immer wieder erstaunlichen – Ruhe von 
+               <lb xml:id="p003_tr_2_tl_15"/>Sils <del rend="overstrike">ä</del>sich zu sehen, N.Y. ist ja doch zuletzt nur ein 
+               <lb xml:id="p003_tr_2_tl_16"/>Nerven- und Albdruck gewesen, und wenn auch die Giehse 
+               <lb xml:id="p003_tr_2_tl_17"/>sich jetzt etwas erholt hat, war es doch nicht ganz 
+               <lb xml:id="p003_tr_2_tl_18"/>leicht, wochenlang in diesem engsten Kontakt mit ihr 
+               <lb xml:id="p003_tr_2_tl_19"/>zu sein. Verstehe es aber nicht falsch.</p>
+
+            <pb xml:id="p004" facs="https://www.monacensia-digital.de/i3f/v20/415382/info.json"/>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_1_tl_2"/>ANNEMARIE CLARAC 
+               <lb xml:id="p004_tr_1_tl_3"/>118 EAST 40<hi rendition="#sub">TH</hi> 
+               <lb xml:id="p004_tr_1_tl_4"/>NEW YORK</p>
+            <p> 
+               <lb xml:id="p004_tr_1_tl_5"/>Von Eri habe ich noch keine Nachricht, – ich war 
+               <lb xml:id="p004_tr_1_tl_6"/>aber darauf gefasst,und es wird so richtig sein, 
+               <lb xml:id="p004_tr_1_tl_7"/>für eine Weile.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_1_tl_8"/>Grüsse alle, den Friedrich besonders, falls er mit 
+               <lb xml:id="p004_tr_1_tl_9"/>Dir gekommen ist. Ein Bett für ihn ist hier natürlich 
+               <lb xml:id="p004_tr_1_tl_10"/>immer bereit. 
+               <lb xml:id="p004_tr_1_tl_11"/>Adieu – 
+               <lb xml:id="p004_tr_1_tl_12"/>Deine [handschriftlich] 
+               <lb xml:id="p004_tr_1_tl_13"/>Miro</p>
+</div>
+       </body>
+    </text>
+ </TEI>
