@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0381"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0381</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0381_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0381_001"
+                facs="https://www.e-manuscripta.ch/i3f/v20/5219372/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0381_001_tr_1"/>
+            <lb xml:id="letter_0381_001_tr_1_tl_1"/>Sils‐Baselgia
+<lb xml:id="letter_0381_001_tr_1_tl_2"/>7. August
+<lb xml:id="letter_0381_001_tr_1_tl_3"/>Lieber Herr Kübler,<CONV tag="p">
+<lb xml:id="letter_0381_001_tr_1_tl_4"/>Sie kennen mich[Hochstellung von Buchstaben &gt; Schreibmaschinenfehler] doch schon, und müssen daher auf Ueberraschungen
+<lb xml:id="letter_0381_001_tr_1_tl_5"/>gefasst sein. Also, – ohne schonende Vorbere[i überschrieben]itung, ohne viel Um¬
+<lb xml:id="letter_0381_001_tr_1_tl_6"/>schweife: seit gestern wird es wieder einmal der Ernstfall, ich
+<lb xml:id="letter_0381_001_tr_1_tl_7"/>habe ein Angebot aus Amerika, das ich, leider, mit gutem Gewissen
+<lb xml:id="letter_0381_001_tr_1_tl_8"/>gar nicht abschlagen kann, – leider, weil ich in Sils einen Roman
+<lb xml:id="letter_0381_001_tr_1_tl_9"/>schreibe, und diesen Ort über alles liebe, – aber, um ehrlich zu
+<lb xml:id="letter_0381_001_tr_1_tl_10"/>sein: manchmal ergreift mich bereits etwas, was ich als Drang in
+<lb xml:id="letter_0381_001_tr_1_tl_11"/>die Ferne bezeichnen möchte – – –</CONV><CONV tag="p">
+<lb xml:id="letter_0381_001_tr_1_tl_12"/>Diesmal sollen es aber keine Wüsten sein, keine Araber, keine
+<lb xml:id="letter_0381_001_tr_1_tl_13"/>Kamelaufnahmen, – ich weiss schon dass Sie davon genug haben.
+<lb xml:id="letter_0381_001_tr_1_tl_14"/>Jch glaube ernstlich, dass die Unternehmung, die bevorsteht,
+<lb xml:id="letter_0381_001_tr_1_tl_15"/>Jhr Jnteresse erwecken wird.</CONV><CONV tag="p">
+<lb xml:id="letter_0381_001_tr_1_tl_16"/>Jch fahre von Washington aus in Gebiete, die man im Allgemeinen
+<lb xml:id="letter_0381_001_tr_1_tl_17"/>nicht kennt: hinterwäldlerisches Amerika, armes, alz[korrigiert: t]modisches
+<lb xml:id="letter_0381_001_tr_1_tl_18"/>Siedlerland. Jch fahre mit einer jungen Journalistin, die erstens
+<lb xml:id="letter_0381_001_tr_1_tl_19"/>zu den wenigen hochintelligenten und aussergewöhnlich begabten
+<lb xml:id="letter_0381_001_tr_1_tl_20"/>Amerikanerinnen gehört, die ich kennen gelernt habe, – und die
+<lb xml:id="letter_0381_001_tr_1_tl_21"/>zweitens in der "Resettlement Administration" arbeitet, genau
+<lb xml:id="letter_0381_001_tr_1_tl_22"/>Bescheid weiss, und nicht zum Spass fährt, sondern um Dinge zu
+<lb xml:id="letter_0381_001_tr_1_tl_23"/>studieren, die nicht so auf der Hand liegen, –
+<lb xml:id="letter_0381_001_tr_1_tl_24"/>wir werden mit den Jnformationsstellen der Regierung für
+<lb xml:id="letter_0381_001_tr_1_tl_25"/>Neusiedlungen etc zusammen arbeiten, und ich werde auch die
+<lb xml:id="letter_0381_001_tr_1_tl_26"/>Bildarchive (von denen ich Proben kenne) benützen dürfen.</CONV><CONV tag="p">
+<lb xml:id="letter_0381_001_tr_1_tl_27"/>Und all dies vor den Wahlen –</CONV> <CONV tag="p">
+<lb xml:id="letter_0381_001_tr_1_tl_28"/>All dies unter der Bedingung, dass ich von meinem "Newspaper‐
+<lb xml:id="letter_0381_001_tr_1_tl_29"/>Manager" einen Auftrag für eine Anzahl von Artikeln mitbringe.
+<lb xml:id="letter_0381_001_tr_1_tl_30"/>Da der Plan so plötzlich über mich hereinbricht, und ich schon
+<lb xml:id="letter_0381_001_tr_1_tl_31"/>am 1. Sept. drüben sein muss, spielt auch Geld eine ernste Rolle.
+<lb xml:id="letter_0381_001_tr_1_tl_32"/>Was raten Sie mir? Muss ich Herrn XY persönlich einen Brief
+<lb xml:id="letter_0381_001_tr_1_tl_33"/>schreiben, um 500 frs. zu erpressen, oder genügt Jhnen, was ich
+<lb xml:id="letter_0381_001_tr_1_tl_34"/>hier zu sagen und vorzuschlagen weiss?</CONV><CONV tag="p">
+<lb xml:id="letter_0381_001_tr_1_tl_35"/>Auch einen Mitarbeiter‐Ausweis hätte ich gern!</CONV>
+<lb xml:id="letter_0381_001_tr_1_tl_36"/>Dies in unbescheidener Eile, aber herzlichster Gesinnung!
+<lb xml:id="letter_0381_001_tr_1_tl_37"/>Ihre [Unterschrift handschriftlich ergänzt]
+<lb xml:id="letter_0381_001_tr_1_tl_38"/>Annemarie Clarac<pb xml:id="letter_0381_002"
+                facs="https://www.e-manuscripta.ch/i3f/v20/5219373/info.json"/>
+         </div>
+      </body>
+   </text>
+</TEI>
