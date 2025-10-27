@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0370"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0370</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0370_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0370_001"
+                facs="https://www.e-manuscripta.ch/i3f/v20/5219291/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0370_001_r"/>
+            <lb xml:id="letter_0370_001_tr_1_tl_1"/>Washington D. C.,
+<lb xml:id="letter_0370_001_tr_1_tl_2"/>6. Dezember 1936
+<lb xml:id="letter_0370_001_tr_1_tl_3"/>Lieber Herr Kübler,<CONV tag="p">
+<lb xml:id="letter_0370_001_tr_1_tl_4"/>es ist, wie gewöhnlich, ein bischen erschreckend wie
+<lb xml:id="letter_0370_001_tr_1_tl_5"/>die Zeit vergeht, nun ist es also schon beinahe
+<lb xml:id="letter_0370_001_tr_1_tl_6"/>Weihnachten u. ich wäre gern in Sils u. würde
+<lb xml:id="letter_0370_001_tr_1_tl_7"/>Ihnen gern endlich eigene Bilder schicken u.
+<lb xml:id="letter_0370_001_tr_1_tl_8"/>habe im[m]er noch eine langsam heilende Wunde
+<lb xml:id="letter_0370_001_tr_1_tl_9"/>am zerhackten u. zerfransten Bein – Aber
+<lb xml:id="letter_0370_001_tr_1_tl_10"/>jede Sentimentalität ausgeschaltet, bleibt das
+<lb xml:id="letter_0370_001_l_1"/>erfreuliche Faktum dass die in der "Zürcher"
+<lb xml:id="letter_0370_001_tr_1_tl_13"/>publizierten Photos hier bei offizieller Stelle, d.h.
+<lb xml:id="letter_0370_001_tr_1_tl_14"/>bei der Resettlement Administration, einen
+<lb xml:id="letter_0370_001_tr_1_tl_15"/>ganz enormen Anklang gefunden haben – u. dass
+<lb xml:id="letter_0370_001_tr_1_tl_16"/>ich nun, als anerkan[n]te Arbeitskraft, weitere Bilder
+<lb xml:id="letter_0370_001_tr_1_tl_17"/>benützen darf u. Ratschläge erhalte über das,
+<lb xml:id="letter_0370_001_tr_1_tl_18"/>was hier als wichtig u. publizierenswert angesehen
+<lb xml:id="letter_0370_001_tr_1_tl_19"/>wird. Ich arbeite mit grossem Fleiss u. glaube,
+<lb xml:id="letter_0370_001_tr_2_tl_1"/>dass Ihnen die nächste Serie: über <PAGE tag="underlined">Baumwolle</PAGE>
+<lb xml:id="letter_0370_001_l"/>als Lebenselement- u. problem des amerikanischen
+<lb xml:id="letter_0370_001_tr_2_tl_4"/>Südens, gefallen wird. Reisen kan[n] man jetzt kaum,
+<lb xml:id="letter_0370_001_tr_2_tl_5"/>es ist einfach zu <PAGE tag="underlined">kalt</PAGE> –</CONV>
+<lb xml:id="letter_0370_001_tr_2_tl_6"/>mit vielen herzlichen Grüssen, Weihnachts¬
+<lb xml:id="letter_0370_001_tr_2_tl_7"/>wünschen – (u. etwas Sentimentalität, trotz¬
+<lb xml:id="letter_0370_001_l_2"/>allem – ) bin ich Ihre
+<lb xml:id="letter_0370_001_l_3"/>An[n]emarie Clarac<pb xml:id="letter_0370_002"
+                facs="https://www.e-manuscripta.ch/i3f/v20/5219292/info.json"/>
+         </div>
+      </body>
+   </text>
+</TEI>
