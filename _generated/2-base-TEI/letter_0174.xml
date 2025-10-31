@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0174" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0174#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0174</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0174_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415675/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Annemarie Clarac-Schwarzenbach: 
+               <lb xml:id="p001_tr_1_tl_3"/>Letter from the Belgian Congo [ev. geplant als englischsprachige Veröffentlichung durch EM] 
+               <lb xml:id="p001_tr_1_tl_2"/>Lisala, July 17th, 1941</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_4"/>Dearest Erika, – we have to-morrow an airplane stopping 
+               <lb xml:id="p001_tr_1_tl_5"/>here on its way from Stanleyville down the river to the capital, 
+               <lb xml:id="p001_tr_1_tl_6"/>– and the very prospect to be able to mail a letter to you, which 
+               <lb xml:id="p001_tr_1_tl_7"/>eventually should arrive in the U.S., is a relief. It means, one is 
+               <lb xml:id="p001_tr_1_tl_8"/>still in contact with another life than the slow, heavy breath of 
+               <lb xml:id="p001_tr_1_tl_9"/>the jungle, and makes the pulse go a little faster.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_10"/>Besides of myself, the shopkeepers among the fourty white of this 
+               <lb xml:id="p001_tr_1_tl_11"/>post are busy, too, to get some mail ready, – the others dont care 
+               <lb xml:id="p001_tr_1_tl_12"/>anymore. <del rend="overstrike">It seems</del> The main event in the "brousse" – (which means 
+               <lb xml:id="p001_tr_1_tl_13"/>'jungle', and a lot more) is obviously the arrival of the riverboats 
+               <lb xml:id="p001_tr_1_tl_14"/>carrying fresh food, such as butter, meat, fruit, and vegetables, 
+               <lb xml:id="p001_tr_1_tl_15"/>mostly from the Cape. Since the stocks of French wine and Scotch 
+               <lb xml:id="p001_tr_1_tl_16"/>whisky are emptied, Colonial might even get used to drink 
+               <lb xml:id="p001_tr_1_tl_17"/>South African liquor. But they are conservative people, and at 
+               <lb xml:id="p001_tr_1_tl_18"/>present, nothing is left than some Congo beer. A few nights ago, I 
+               <lb xml:id="p001_tr_1_tl_19"/>have sorrowly finished with some friends from Luxembourg a last 
+               <lb xml:id="p001_tr_1_tl_20"/>bottle<del rend="overstrike">r</del> of Alsacian "Framboise", the combination with a dinner of 
+               <lb xml:id="p001_tr_1_tl_21"/>antilope roast was somehow old.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_22"/>Yet, if you have just arrived from Europe, as I have seen it some 
+               <lb xml:id="p001_tr_1_tl_23"/>two months ago, you find no reasons to complain about war condi- 
+               <lb xml:id="p001_tr_1_tl_24"/>tions in the Congo. And it makes you feel alright to be in a 
+               <lb xml:id="p001_tr_1_tl_25"/>country which actually is at war.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_26"/>Its contribution, I understand, is important.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_27"/>It is normally important, first, to proove, that a European country 
+               <lb xml:id="p001_tr_1_tl_28"/>invaded and occupied by the Germans, is not in fact defeated. 
+               <lb xml:id="p001_tr_1_tl_29"/>Antwerp used to be the port for the Congo. Belgian industrial and 
+               <lb xml:id="p001_tr_1_tl_30"/>commercial companies in the Congo did all their business 
+               <lb xml:id="p001_tr_1_tl_31"/>through their main offices in the motherland.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_32"/>Now the Germans control Antwerp and Bruxelles, yet they dont get 
+               <lb xml:id="p001_tr_1_tl_33"/>one grain of Congo coffee, not one once of gold, no copper, no tin, 
+               <lb xml:id="p001_tr_1_tl_34"/>no palm oil, no arachide, no copal,no cotton, tobacco or rice out 
+               <lb xml:id="p001_tr_1_tl_35"/>of this trimendously rich colony, – which is eighty times the size 
+               <lb xml:id="p001_tr_1_tl_36"/>of Belgium itself.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_37"/>Yet, business in the Congo has not suffered. The output of copper, 
+               <lb xml:id="p001_tr_1_tl_38"/>tin and gold is even increaseing. Under the new trade agreement 
+               <lb xml:id="p001_tr_1_tl_39"/>with Great Britain, England buys almost the entire output of <del rend="overstrike">the</del> 
+               <lb xml:id="p001_tr_1_tl_40"/>copper from the Katanga, of palme oil, and diamonds. The 500 000 
+               <lb xml:id="p001_tr_1_tl_41"/>onces of Congo fine gold a year is added to Britain's reserve. 
+               <lb xml:id="p001_tr_1_tl_42"/>The timber is sold to the South African Union. A good deal of 
+               <lb xml:id="p001_tr_1_tl_43"/>ores from the Congo are shipped to the U.S. for refining. The <del rend="overstrike">rest</del> 
+               <lb xml:id="p001_tr_1_tl_44"/>remaining of the 1940 coffee crop is also sold on the New York 
+               <lb xml:id="p001_tr_1_tl_45"/>market.</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415676/info.json"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p> 
+               <lb xml:id="p002_tr_1_tl_2"/>As to the imports, there was of course a shortage right after the 
+               <lb xml:id="p002_tr_1_tl_3"/>invasion of Belgium. All European sources were suddenly closed, and 
+               <lb xml:id="p002_tr_1_tl_4"/>stocks in the country got exhausted. But the orientation towards 
+               <lb xml:id="p002_tr_1_tl_5"/>the South African Union, England, the U.S. and Canada began at once, 
+               <lb xml:id="p002_tr_1_tl_6"/>shipping from the Cape to the Congo port of Matadi is steadily 
+               <lb xml:id="p002_tr_1_tl_7"/>intreased, and the arrival of goods is by now fairly regular.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_8"/>At the same time, agericultural production and local industries are 
+               <lb xml:id="p002_tr_1_tl_9"/>developping rapidly. In the Katanga, farmers now produce milk, butter 
+               <lb xml:id="p002_tr_1_tl_10"/>eggs, fruit, and vegetables, in the Kivu mountain regions they plant 
+               <lb xml:id="p002_tr_1_tl_11"/>tobacco and even tea, – indead, this country should be rich enough 
+               <lb xml:id="p002_tr_1_tl_12"/>to make its 30 000 White live on its own ressources [Kommentar zur kolonialen Logik dieses Satzes, da der großteil der eigentlichen Arbeit/Produktion durch die indigene Bevölkerung geschieht].</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_13"/>But there should be more roads, railroads, and airlines. While I was 
+               <lb xml:id="p002_tr_1_tl_14"/>in Leopoldville, I naturally could'nt realize that enormous parts of 
+               <lb xml:id="p002_tr_1_tl_15"/>the Congo are still untouched wilderness [damit meint AS: von Weissen nicht 'kultivierter' Regenwald, der jedoch Lebensgrundlage für die indigene Bevölkerung ist]. In order to reach Lisala, 
+               <lb xml:id="p002_tr_1_tl_16"/>some 800 miles up the river from Leo, I had to travel 7 days on a 
+               <lb xml:id="p002_tr_1_tl_17"/>riverboat, – and you saw day and night nothing than the trimendous 
+               <lb xml:id="p002_tr_1_tl_18"/>green walls of the jungle,  – native villages beeing just tiny cleared 
+               <lb xml:id="p002_tr_1_tl_19"/>spots with dozen primitive huts and some wood biled up on the bank. 
+               <lb xml:id="p002_tr_1_tl_20"/>At night, we used to stop a few hours in order to load wood for our 
+               <lb xml:id="p002_tr_1_tl_21"/>engines, than we would carry on in the dim moonlight, winding through 
+               <lb xml:id="p002_tr_1_tl_22"/>thousands of islands covered with thick green.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_23"/>From Leopoldville to Lisala, there is no road, only the river. And if 
+               <lb xml:id="p002_tr_1_tl_24"/>you look at the "brousse", which is just like an ocean extending to 
+               <lb xml:id="p002_tr_1_tl_25"/>all sides and closing the horizon, you come to believe that you will 
+               <lb xml:id="p002_tr_1_tl_26"/>never find your way into an open space again. It is rather frightening. 
+               <lb xml:id="p002_tr_1_tl_27"/>Now, I am in this spot at the river since ten days, waiting for some 
+               <lb xml:id="p002_tr_1_tl_28"/>means of transportation to reach a plantation, some 200 miles inland. 
+               <lb xml:id="p002_tr_1_tl_29"/>If I am lucky, a lorry is going into that direction, some day. Mean 
+               <lb xml:id="p002_tr_1_tl_30" break="no"/>while I get to understand what people call here "to live en brousse". 
+               <lb xml:id="p002_tr_1_tl_31"/>Among the fourty white, there are some shopkeepers and agents, 
+               <lb xml:id="p002_tr_1_tl_32"/>selling goods to the black, and buying their product, mainly palm fruit 
+               <lb xml:id="p002_tr_1_tl_33"/>for their companies. They get percentages from what they sell, and if 
+               <lb xml:id="p002_tr_1_tl_34"/>they work hard, they can make some money. But in this climate – we are 
+               <lb xml:id="p002_tr_1_tl_35"/>in the Equator region – it takes a lot of energy to work.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_36"/>The rest of the lot are government functionaries.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_37"/>They work less. But at the end of a three years' term, function<del rend="overstrike">n</del>aries, 
+               <lb xml:id="p002_tr_1_tl_38"/>planters and sale agents are equally exhausted, and they need their 
+               <lb xml:id="p002_tr_1_tl_39"/>leave of six months badly.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_40"/>As they cannot return to Europe, they now are sent to the Cape, or 
+               <lb xml:id="p002_tr_1_tl_41"/>into the Kivu mountains. But the change of climate in the Kivu is 
+               <lb xml:id="p002_tr_1_tl_42"/>not sufficiant.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_43"/>As many young Belgians are mobilized in the Congo, there is a shor 
+               <lb xml:id="p002_tr_1_tl_44" break="no"/>tage of white labour in all branches. And you cant replace them, as 
+               <lb xml:id="p002_tr_1_tl_45"/>Belgians in the motherland are not allowed to leave, 
+               <lb xml:id="p002_tr_1_tl_46"/>nor <del rend="overstrike">can</del> of course Dutch or French etc.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_47"/>Most of the Colonials have relatives in Belgium, – especially 
+               <lb xml:id="p002_tr_1_tl_48"/>children, as they used to send them to school there. And most 
+               <lb xml:id="p002_tr_1_tl_49"/>of them get no news at all since the invasion.</p>
+
+            <pb xml:id="p003" facs="https://www.monacensia-digital.de/i3f/v20/415677/info.json"/>
+            <milestone unit="textregion" xml:id="p003_tr_2"/>            <p> 
+               <lb xml:id="p003_tr_2_tl_2"/>Old colonials remember the last war. They know what a German 
+               <lb xml:id="p003_tr_2_tl_3"/>occupation means. You would think, that people in the colony 
+               <lb xml:id="p003_tr_2_tl_4"/>must be very war-conscious. But they also are tired of the war. 
+               <lb xml:id="p003_tr_2_tl_5"/>You cant plame them for it, – especially not in remote jungle 
+               <lb xml:id="p003_tr_2_tl_6"/>places where they spend years in a hard, dreary life fighting 
+               <lb xml:id="p003_tr_2_tl_7"/>against sickness, termites, and the incredible fatigue of the 
+               <lb xml:id="p003_tr_2_tl_8"/>heavy and solemn jungle. They say, that in the brousse even wild 
+               <lb xml:id="p003_tr_2_tl_9"/>animals get silent.</p>
+            <p> 
+               <lb xml:id="p003_tr_2_tl_10"/>Still, there are two radios in Lisala, runned of course by batteries. 
+               <lb xml:id="p003_tr_2_tl_11"/>You always find somebody who is still interested enough to 
+               <lb xml:id="p003_tr_2_tl_12"/>listen in. You hear Brazzaville, Ankara, London, Moscouw, and very 
+               <lb xml:id="p003_tr_2_tl_13"/>often New York. It is almost a miracle. But than, many are not 
+               <lb xml:id="p003_tr_2_tl_14"/>capable anymore of a conscious effort, 
+               <lb xml:id="p003_tr_2_tl_15"/>they lack the imagination to realize that the human voices 
+               <lb xml:id="p003_tr_2_tl_16"/>speaking in the night belong to human beeings, alive, right now, 
+               <lb xml:id="p003_tr_2_tl_17"/>and at work in some building in far away cities, – and that the 
+               <lb xml:id="p003_tr_2_tl_18"/>trimendous events they are talking about, are going on, right 
+               <lb xml:id="p003_tr_2_tl_19"/>now, shaking the entire world, and that every bit of effort is 
+               <lb xml:id="p003_tr_2_tl_20"/>entering the same large stream towards victory.</p>
+            <p> 
+               <lb xml:id="p003_tr_2_tl_21"/>But there are people enough, in the Congo, who do know. When I 
+               <lb xml:id="p003_tr_2_tl_22"/>had a chance, a few weeks ago, to talk to the Governor General, 
+               <lb xml:id="p003_tr_2_tl_23"/>Mister Ryckmans, I saw that the course of this country at the 
+               <lb xml:id="p003_tr_2_tl_24"/>side of Great Britain will be ready and the energy and courage 
+               <lb xml:id="p003_tr_2_tl_25"/>of its effort unbroken. Dont forget, also, that the government of 
+               <lb xml:id="p003_tr_2_tl_26"/>the Belgian Congo is in London ...</p>
+            <p> 
+               <lb xml:id="p003_tr_2_tl_27"/><del rend="overstrike">few</del> While we were travelling up the river, we met in a small 
+               <lb xml:id="p003_tr_2_tl_28"/>post a young Belgian officer who was asking us the latest news 
+               <lb xml:id="p003_tr_2_tl_29"/>from Syria and North Africa. He was at this post since ten months, 
+               <lb xml:id="p003_tr_2_tl_30"/>training black soldiers. My comrades, two Free French officers, 
+               <lb xml:id="p003_tr_2_tl_31"/>on their way to Cairo, talked about the Syrian armistice, and that 
+               <lb xml:id="p003_tr_2_tl_32"/>General De Gaulle would now soon be [added to the left side: able] <del rend="overstrike">free</del> to drive into Marocco.</p>
+            <p> 
+               <lb xml:id="p003_tr_2_tl_33"/>The young Belgian looked at us with a grim expression of pain. 
+               <lb xml:id="p003_tr_2_tl_34"/>"Dont go to fast", he said, – "dont finish the job before I have 
+               <lb xml:id="p003_tr_2_tl_35"/>got a chance to fight on your side!" – </p>
+            <p> 
+               <lb xml:id="p003_tr_2_tl_36"/>The two French officers should by now be in the Sudan. You can 
+               <lb xml:id="p003_tr_2_tl_37"/>reach Cairo from here in three or four weeks, and there are 
+               <lb xml:id="p003_tr_2_tl_38"/>airplanes, too. I hope to be on my way soon ...</p>
+            <p> 
+               <lb xml:id="p003_tr_2_tl_39"/>But please, if you can, send me some news before that, to Leopold 
+               <lb xml:id="p003_tr_2_tl_40" break="no"/>ville, –</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_2_tl_41"/>with all my love – 
+               <lb xml:id="p003_tr_2_tl_42"/>your 
+               <lb xml:id="p003_tr_2_tl_43"/>Annemarie</p>
+</div>
+       </body>
+    </text>
+ </TEI>
