@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0172" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0172#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0172</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0172_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415679/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_5"/>TEA ROOM - PICCADILLY 
+               <lb xml:id="p001_tr_1_tl_8"/>Quai V. Vela - Telefono N. 15.79 
+               <lb xml:id="p001_tr_1_tl_6"/>LUGANO 
+               <lb xml:id="p001_tr_1_tl_9"/>Propr. L. &amp; H. OESCH 
+               <lb xml:id="p001_tr_1_tl_1"/>LUGANO, 
+               <lb xml:id="p001_tr_1_tl_7"/>13. März 32</p>
+            <p> 
+               <lb xml:id="p001_l"/>E.-Liebling, wie dum[m] u. unbeschreiblich 
+               <lb xml:id="p001_tr_1_tl_12"/>ärgerlich auch die Bahnfahrt ausfiel 
+               <lb xml:id="p001_tr_1_tl_13"/>wen[n] man sie mit den Möglichkeiten 
+               <lb xml:id="p001_tr_1_tl_14"/>des Fords verglich – die glatte nächtliche 
+               <lb xml:id="p001_tr_1_tl_15"/>Weiterreise über die vielen Grenzen 
+               <lb xml:id="p001_tr_1_tl_16"/>u. das sanfte Erwachen in der lom 
+               <lb xml:id="p001_tr_1_tl_17" break="no"/>bardischen Ebene (<hi rendition="#u">ohne</hi> Schlafwagen!) 
+               <lb xml:id="p001_tr_1_tl_18"/>waren doch hervorragend, u. Onkelchen 
+               <lb xml:id="p001_tr_1_tl_19"/>hat sich in einer gar nicht genug zu 
+               <lb xml:id="p001_tr_2_tl_1"/>lobenden Weise meiner angenommen, 
+               <lb xml:id="p001_tr_2_tl_2"/>Telegram[m]e Fahrbarten Frühstück u. Gepäck 
+               <lb xml:id="p001_l_1"/>besorgt – was aber alles nicht dazu 
+               <lb xml:id="p001_tr_2_tl_5"/>Verhalf, Maria in dem pünktlich 
+               <lb xml:id="p001_tr_2_tl_6"/>erreichten Lugano wiederzufinden. 
+               <lb xml:id="p001_tr_2_tl_7"/>Weil es warm u. herrlich ist, habe ich 
+               <lb xml:id="p001_tr_2_tl_8"/>mich dann irgendwo ins Gras gelegt, 
+               <lb xml:id="p001_tr_2_tl_9"/>gedichtet, Proust gelesen, Balkanstrassen 
+               <lb xml:id="p001_tr_2_tl_10"/>notiert – und, last not least, Mama 
+               <lb xml:id="p001_tr_2_tl_11"/>den ganzen Plan telephonisch mit 
+               <lb xml:id="p001_tr_2_tl_12" break="no"/>geteilt. Sie findet alles sehr gut – 
+               <lb xml:id="p001_tr_2_tl_13"/>u. den 80 Geburtstag verglichen 
+               <lb xml:id="p001_tr_2_tl_14"/>damit einfach unwichtig.</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415680/info.json"/>
+            <milestone unit="textregion" xml:id="p002_r_249"/>            <p> 
+               <lb xml:id="p002_tr_2_tl_1"/>Ich meinerseits habe allerdings 
+               <lb xml:id="p002_tr_2_tl_2"/>verräterisch eingeräumt, dass 
+               <lb xml:id="p002_tr_2_tl_3"/>sich Lenzerheide angesichts des 
+               <lb xml:id="p002_tr_2_tl_4"/>blühenden Frühlings für so 
+               <lb xml:id="p002_tr_2_tl_5"/>wenig Tage nicht lohne. Was 
+               <lb xml:id="p002_tr_2_tl_6"/>immerhin auch der Wahrheit 
+               <lb xml:id="p002_tr_2_tl_7"/>etwas entspricht.</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_8"/>Wo aber steckt der Ford heute mit 
+               <lb xml:id="p002_tr_2_tl_9"/>Richi, Doris u. Wolfram? In 
+               <lb xml:id="p002_tr_2_tl_10"/>wessen Händen befindet sich der 
+               <lb xml:id="p002_tr_3_tl_1"/>Victory? Wer trägt das graue 
+               <lb xml:id="p002_tr_3_tl_2"/>Mäntelchen??? Zu was fahre ich 
+               <lb xml:id="p002_tr_3_tl_3"/>Dauer-Eisenbahn wen[n] ich hier den 
+               <lb xml:id="p002_tr_3_tl_4"/>ganzen Tag allein Kaffee (esspresso). 
+               <lb xml:id="p002_tr_3_tl_5"/>trinken soll? Die alte europäische 
+               <lb xml:id="p002_tr_3_tl_6"/>Plan- u. Ruhlosigkeit stürzt über 
+               <lb xml:id="p002_tr_3_tl_7"/>mich herein.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_1"/>Vielleicht gehst Du selber bald zum 
+               <lb xml:id="p002_tr_1_tl_2"/>Zahnarzt und kommst doch wieder 
+               <lb xml:id="p002_tr_1_tl_3"/>nochmals baldigst in die Schweiz. 
+               <lb xml:id="p002_tr_1_tl_4"/>Schreibe jedenfalls <hi rendition="#u">bald</hi> weil ich schon 
+               <lb xml:id="p002_tr_1_tl_6"/>wieder so ungern ohne Dich bin.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_7"/>Sie geküsst u. umarmt u. für 
+               <lb xml:id="p002_tr_1_tl_8"/>vielerlei bedankt von 
+               <lb xml:id="p002_tr_1_tl_9"/>A. 
+               <lb xml:id="p002_l"/>PS: – ich betrachte hier die Strassen und Autohupen mit einer Nervo 
+               <lb xml:id="p002_l_403" break="no"/>sität die bald rapallische Formen [Gemeint ist vermutlich der nervöse Zustand, den Nietzsche u.a. in Rapallo erlebte. Schwarzenbach verweist andernorts auf Nietzsches Aufenthalte in Rapallo, die diesem nicht so gut bekamen wie das Engadin, vgl. smallform_0615, S. 171] an[n]im[m]t, aber <hi rendition="#u">wie viel</hi> 
+               <lb xml:id="p002_l_407"/>Opels gibt es!</p>
+</div>
+       </body>
+    </text>
+ </TEI>
