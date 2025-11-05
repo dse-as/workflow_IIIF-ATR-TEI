@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0158" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0158#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0158</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0158"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0158_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0158_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_2_tl_1"/>Eine christliche Stadt im Herzen Persiens 
+               <lb xml:id="p001_r_2_tl_2"/>Von Dr. Annemarie <hi rendition="#g">Clark</hi></p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_3"/>Es gibt zwei Städte mit dem gleichen Namen <hi rendition="#g"> 
+                  <lb xml:id="p001_r_2_tl_4"/>Djulfa</hi>, beide in Persien, beide von Armeniern be 
+               <lb xml:id="p001_r_2_tl_5" break="no"/>wohnt. Eine dieser Städte, wenig über dreihundert 
+               <lb xml:id="p001_r_2_tl_6"/>Jahre alt, liegt in der Nachbarschaft der alten persi 
+               <lb xml:id="p001_r_2_tl_7" break="no"/>schen Hauptstadt Isfahan, ist eigentlich ein Vorort, 
+               <lb xml:id="p001_r_2_tl_8"/>ein Außenquartier davon. Das andere Djulfa liegt 
+               <lb xml:id="p001_r_2_tl_9"/>weit oben in der nördlichsten Ecke Persiens, an der 
+               <lb xml:id="p001_r_2_tl_10"/>Grenze der Sowjetunion: dieses ist das ursprüngliche 
+               <lb xml:id="p001_r_2_tl_11"/>Djulfa, uralt, war einmal eine bedeutende <hi rendition="#g">armeni 
+                  <lb xml:id="p001_r_2_tl_12" break="no"/>sche</hi> Stadt und ist heute einer der ärmsten Plätze die 
+               <lb xml:id="p001_r_2_tl_13" break="no"/>ser weltverlorenen Provinzen. Der Grenzfluß, der 
+               <lb xml:id="p001_r_2_tl_14"/>Djulfa von seinem russischen Nachbardorf trennt, und 
+               <lb xml:id="p001_r_2_tl_15"/>Iran von der Sowjetunion, ist der Araxes, ein Name 
+               <lb xml:id="p001_r_2_tl_16"/>heroischen Klangs[corr: .] Er schleppt sich, lehmgelb, langsam 
+               <lb xml:id="p001_r_2_tl_17"/>durch ein lehmgelbes, ausgedörrtes, von Erdbeben 
+               <lb xml:id="p001_r_2_tl_18"/>heimgesuchtes Gebirgsland. Ihm zu Füßen liegen die 
+               <lb xml:id="p001_r_2_tl_19"/>Hügel und Täler von Azerbeidschan, fruchtbare Län 
+               <lb xml:id="p001_r_2_tl_20" break="no"/>der, wo Obst und Getreide gedeiht, und die Halden 
+               <lb xml:id="p001_r_2_tl_21"/>mit Weinreben bedeckt sind. Im Rücken dafür zieht 
+               <lb xml:id="p001_r_2_tl_22"/>sich, majestätisch ruhevoll, immer mit Schnee bedeckt, 
+               <lb xml:id="p001_r_2_tl_23"/>und silbern-heiter, die luftige Kette des Kaukasus hin. 
+               <lb xml:id="p001_r_2_tl_24"/>Dazwischen, im toten Streifen, liegt Djulfa: ein 
+               <lb xml:id="p001_r_2_tl_25"/>Haufen Häuser und Höfe mit langen Mauern aus 
+               <lb xml:id="p001_r_2_tl_26"/>ungebranntem Lehm, ein wenig abseits eine Bahn 
+               <lb xml:id="p001_r_2_tl_27" break="no"/>station. Aber die Bahn, die nach Tiflis hinüberführt, 
+               <lb xml:id="p001_r_2_tl_28"/>ist heute ohne viel Bedeutung. Die Bewohner von 
+               <lb xml:id="p001_r_2_tl_29"/>Djulfa sind arme Leute. Vor mehr als dreihundert 
+               <lb xml:id="p001_r_2_tl_30"/>Jahren waren sie die besten Handwerker Persiens, so 
+               <lb xml:id="p001_r_2_tl_31"/>fleißig, geschickt und geschäftig, wie man es ihrem 
+               <lb xml:id="p001_r_2_tl_32"/>Volk heute noch nachrühmt, – die Perser hassen sie 
+               <lb xml:id="p001_r_2_tl_33"/>dafür, oder verachten sie, es ergeht ihnen ähnlich wie 
+               <lb xml:id="p001_r_2_tl_34"/>den Juden. Schah Abbas, der einer der größten Herr 
+               <lb xml:id="p001_r_2_tl_35" break="no"/>scher Persiens war, und dessen Name mit allem Besten 
+               <lb xml:id="p001_r_2_tl_36"/>und Vollendetsten der persischen Kunst verknüpft ist, 
+               <lb xml:id="p001_r_2_tl_37"/>hat das <hi rendition="#g">neue</hi> Djulfa neben seiner Residenz Isfahan 
+               <lb xml:id="p001_r_2_tl_38"/>gegründet, um die armenischen Handwerker aus dem 
+               <lb xml:id="p001_r_2_tl_39"/>Kaukasus hierher zu ziehen, und sich ihre Geschicklich 
+               <lb xml:id="p001_r_2_tl_40" break="no"/>keit zunutze zu machen. Er hat eine ganze Kolonie von
+               <milestone unit="textregion" xml:id="p001_r_3"/> 
+               <lb xml:id="p001_r_3_tl_1"/>Armeniern aus Djulfa deportiert, und sie jenseits des 
+               <lb xml:id="p001_r_3_tl_2"/>Flusses und der großen Brücken Isfahans angesiedelt. 
+               <lb xml:id="p001_r_3_tl_3"/>Sie waren Christen, – die Armenier, die den hettiti 
+               <lb xml:id="p001_r_3_tl_4" break="no"/>schen Ureinwohnern Kleinasiens, wie man sie auf zahl 
+               <lb xml:id="p001_r_3_tl_5" break="no"/>reichen Reliefs dargestellt findet, erstaunlich ähnlich 
+               <lb xml:id="p001_r_3_tl_6"/>sehen, sind wie die Georgier in sehr früher Zeit zum 
+               <lb xml:id="p001_r_3_tl_7"/>Christentum übergetreten und haben deshalb, als 
+               <lb xml:id="p001_r_3_tl_8"/>religiöse Minorität, zwischen Persern, Kurden, Kal 
+               <lb xml:id="p001_r_3_tl_9" break="no"/>däern und Türken ihren [Rassentypus[Kommentar mit Verweis auf AS ambivalente Position gegenüber Rassenlehre – etwa, dass sie sich auch über die Schädelvermessungen der Nazis lustig gemacht hat, aber Schädelvermessung zur Feststellung einer 'Rasse' wohl nicht problematisch fand und womöglich selbst im Zusammenhang der Archäologie betrieb] rein bewahrt. 
+               <lb xml:id="p001_r_3_tl_10"/>Es ist nicht schwer, sie zu erkennen: sie haben sehr 
+               <lb xml:id="p001_r_3_tl_11"/>steile und kurze Köpfe, niedrige Stirnen, große Nasen, 
+               <lb xml:id="p001_r_3_tl_12"/>oft auch hervortretende Augen. Im Profil gesehen, 
+               <lb xml:id="p001_r_3_tl_13"/>haben sie Vogelgesichter. Christliche Vornamen sind 
+               <lb xml:id="p001_r_3_tl_14"/>verbreitet, so etwa Johannes, – die Familiennamen 
+               <lb xml:id="p001_r_3_tl_15"/>enden meistens auf "ian", – also etwa "Balessanian" 
+               <lb xml:id="p001_r_3_tl_16"/>oder "Mukhtarian". Wir in Europa hören seit dem 
+               <lb xml:id="p001_r_3_tl_17"/>Weltkrieg meistens nur die Greuelgeschichten (die übri 
+               <lb xml:id="p001_r_3_tl_18" break="no"/>gens keine Märchen sind) von den Armenierverfolgun 
+               <lb xml:id="p001_r_3_tl_19" break="no"/>gen in der Türkei, und von armenischen Flüchtlingen, 
+               <lb xml:id="p001_r_3_tl_20"/>die in Syrien ein bedauernswertes Leben führen. In 
+               <lb xml:id="p001_r_3_tl_21"/>Persien sind die Armenier eine starke Minorität, wie 
+               <lb xml:id="p001_r_3_tl_22"/>die Kaldäer und Assyro-Kaldäer in der Gegend des 
+               <lb xml:id="p001_r_3_tl_23"/>Urumiah-Sees. Es gibt armenische Dörfer in der Um 
+               <lb xml:id="p001_r_3_tl_24" break="no"/>gebung Teherans: man erkennt sie meistens, weil sie 
+               <lb xml:id="p001_r_3_tl_25"/>besser gehalten, sauberer, ordentlicher gebaut sind. 
+               <lb xml:id="p001_r_3_tl_26"/>Ihre Felder sind besser bestellt und ertragreicher, als 
+               <lb xml:id="p001_r_3_tl_27"/>die der mohammedanischen Bauern. Armenische Schü 
+               <lb xml:id="p001_r_3_tl_28" break="no"/>ler sind aufgeweckt und ehrgeizig. Ein großer Prozent 
+               <lb xml:id="p001_r_3_tl_29" break="no"/>satz von Aerzten, Zahnärzten und Rechtsanwälten sind 
+               <lb xml:id="p001_r_3_tl_30"/>Armenier. Daß sie unbeliebt sind – auch die persischen 
+               <lb xml:id="p001_r_3_tl_31"/>Israeliten sind es, – bedeutet nicht, daß in Iran ein 
+               <lb xml:id="p001_r_3_tl_32"/>Minoritäten-Problem existiert. Man hat Armenier 
+               <lb xml:id="p001_r_3_tl_33"/>und Kaldäer während des Weltkriegs zu Tausenden 
+               <lb xml:id="p001_r_3_tl_34"/>massakriert, und versucht heute, ihre eigenen Schulen 
+               <lb xml:id="p001_r_3_tl_35"/>Seminare und dergleichen zu unterdrücken. Da kein 
+               <lb xml:id="p001_r_3_tl_36"/>genügendes nationales Bewußtsein vorhanden ist, um 
+               <lb xml:id="p001_r_3_tl_37"/>einen Widerstand zu organisieren, existiert das Pro 
+               <lb xml:id="p001_r_3_tl_38" break="no"/>blem nicht: die Kaldäer, – vor allem die schismati 
+               <lb xml:id="p001_r_3_tl_39" break="no"/>schen Assyro-Kaldäer, wandern nach Irak und Syrien 
+               <lb xml:id="p001_r_3_tl_40"/>aus, – die Armenier bleiben, und sind, zäh, fleißig 
+               <lb xml:id="p001_r_3_tl_41"/>und ausdauernd, immer wieder unter den Wohlhaben 
+               <lb xml:id="p001_r_3_tl_42" break="no"/>den der Bevölkerung. Man gewöhnt sich im Nahen 
+               <lb xml:id="p001_r_3_tl_43"/>Osten daran, die Unmenge verschiedener Rassen, kleine
+               <milestone unit="textregion" xml:id="p001_r_4"/> 
+               <lb xml:id="p001_r_4_tl_1"/>Religionsgruppen, Ueberreste einst bedeutender Völker 
+               <lb xml:id="p001_r_4_tl_2"/>eingestreut in dominierende islamische Bevölkerungen, 
+               <lb xml:id="p001_r_4_tl_3"/>etwa Türken oder Perser, zu sehen. [Wir sind heute 
+               <lb xml:id="p001_r_4_tl_4"/>geneigt, der Umgebung, dem Klima, dem Landschafts 
+               <lb xml:id="p001_r_4_tl_5" break="no"/>bild, einen fast entscheidenden Einfluß auf die Psycho 
+               <lb xml:id="p001_r_4_tl_6" break="no"/>logie der Bewohner einzuräumen[Klima-Theorie schon seit dem 18. Jahrhundert verbreitet, heute als 'nurture-nature'-Frage noch diskutiert. AS weist eine reine 'nurture'-Erklärung zurück und scheint Plausibilität in rassischen Eigenschaften zu sehen (obschon hier kulturelle Erklärungen naheliegen würden)] . 
+               <lb xml:id="p001_r_4_tl_8"/>Daß "Blut und Boden" und die ganze Reihe der 
+               <lb xml:id="p001_r_4_tl_7"/>mütterlichen- und Erd-Instinkte nicht allein die Be 
+               <lb xml:id="p001_r_4_tl_9" break="no"/>sonderheiten einer Gruppe von Menschen formen, be 
+               <lb xml:id="p001_r_4_tl_10" break="no"/>weisen eben diese Minoritäten. Die Kaldäer beobachtet 
+               <lb xml:id="p001_r_4_tl_11"/>man am besten in Urumiah, die Armenier in Neu 
+               <lb xml:id="p001_r_4_tl_12" break="no"/>Djulfa. Sie leben dort seit über drei Jahrhunderten, 
+               <lb xml:id="p001_r_4_tl_13"/>mit einem beständigen, aber sehr dünnen Zustrom aus 
+               <lb xml:id="p001_r_4_tl_14"/>anderen Städten oder aus Armenien selbst. Sie sind 
+               <lb xml:id="p001_r_4_tl_15"/>heute noch, was sie waren, als Schah Abbas sie nach 
+               <lb xml:id="p001_r_4_tl_16"/>Isfahan deportierte: meistens Handwerker, und ver 
+               <lb xml:id="p001_r_4_tl_17" break="no"/>gleichsweise wohlhabend. Isfahan ist die schönste per 
+               <lb xml:id="p001_r_4_tl_18" break="no"/>sische Stadt, reich an wunderbaren Moscheen aus dem 
+               <lb xml:id="p001_r_4_tl_19"/>sechzehnten und siebzehnten Jahrhundert, Persiens 
+               <lb xml:id="p001_r_4_tl_20"/>bester Zeit, – reich an schönen Plätzen, Brücken, Pa 
+               <lb xml:id="p001_r_4_tl_21" break="no"/>lästen und Karawansereien. Aber Djulfa, jenseits des 
+               <lb xml:id="p001_r_4_tl_22"/>Flusses, ist sauberer, ordentlicher beisammen, geschlos 
+               <lb xml:id="p001_r_4_tl_23" break="no"/>sener als Isfahan. Das Baumaterial ist dasselbe: 
+               <lb xml:id="p001_r_4_tl_24"/>ungebrannter Lehm, – aber die Häuser sind anders, 
+               <lb xml:id="p001_r_4_tl_25"/>solider, europäischer. In der Mitte des Orts gibt es 
+               <lb xml:id="p001_r_4_tl_26"/>einen runden Marktplatz mit Obstständen, dort ist 
+               <lb xml:id="p001_r_4_tl_27"/>auch der Eingang zum Bazar. In den Häusern sieht 
+               <lb xml:id="p001_r_4_tl_28"/>man, zu ebener Erde, Frauen und Mädchen an Web 
+               <lb xml:id="p001_r_4_tl_29" break="no"/>stühlen arbeiten. Die Frauen tragen ihre alte Tracht: 
+               <lb xml:id="p001_r_4_tl_30"/>bunte Kopftücher, schwere, lange, faltenreiche Röcke, 
+               <lb xml:id="p001_r_4_tl_31"/>kurze, bestickte Jacken. Ihr Gesicht ist unverschleiert, 
+               <lb xml:id="p001_r_4_tl_32"/>unter dem Kopftuch tragen sie, wie die Jüdinnen, 
+               <lb xml:id="p001_r_4_tl_33"/>kleine runde steife Kappen mit klingelnden Goldmün 
+               <lb xml:id="p001_r_4_tl_34" break="no"/>zen oder bunten Perlen. Die Männer, magere, eher 
+               <lb xml:id="p001_r_4_tl_35"/>große Leute, sehen proletarisch aus, tragen durchaus 
+               <lb xml:id="p001_r_4_tl_36"/>[europäische Arbeiterkleidung[ist eine solche nicht sowieso vorgeschrieben durch den modernisierenden Schah? oder ist das im Irak so?]. Mitten in Djulfa gibt 
+               <lb xml:id="p001_r_4_tl_37"/>es zwei alte Kirchen. Von außen gleichen sie, mit ihren 
+               <lb xml:id="p001_r_4_tl_38"/>hohen Kuppeln aus gelbem Lehm und den einzelstehen 
+               <lb xml:id="p001_r_4_tl_39" break="no"/>den Glockentürmen, großen Dorfmoscheen. Eine von 
+               <lb xml:id="p001_r_4_tl_40"/>ihnen heißt die "Kathedrale", sie liegt in einem großen 
+               <lb xml:id="p001_r_4_tl_41"/>Hof, wo in einem wiederum sehr persischen Haus mit 
+               <lb xml:id="p001_r_4_tl_42"/>Holzgalerie und vielen Türen an Stelle der Fenster, 
+               <lb xml:id="p001_r_4_tl_43"/>der Bischof von Djulfa wohnt. In einem kleinen Mu
+               <milestone unit="textregion" xml:id="p001_r_1"/> 
+               <lb xml:id="p001_r_1_tl_1" break="no"/>seum werden kunstvoll geschriebene und bemalte 
+               <lb xml:id="p001_r_1_tl_2"/>Kirchenbücher in armenischer Handschrift aufbewahrt, 
+               <lb xml:id="p001_r_1_tl_3"/>auch Heiligenbilder und Gesangsbücher. Die Kathe 
+               <lb xml:id="p001_r_1_tl_4" break="no"/>drale selbst übt auf den Besucher die sonderbarste 
+               <lb xml:id="p001_r_1_tl_5"/>Wirkung aus: gewiß ist hier etwas, was uns an katho 
+               <lb xml:id="p001_r_1_tl_6" break="no"/>lische Kirchen, mindestens an die orthodoxen Kirchen 
+               <lb xml:id="p001_r_1_tl_8"/>Istanbuls erinnert. Dunkle Bilder bedecken die ganzen 
+               <lb xml:id="p001_r_1_tl_7"/>Wände, die alten Motive: [Sündenfall und Jüngstes 
+               <lb xml:id="p001_r_1_tl_9"/>Gericht, – Verkündigung und Kreuzestod[während Sündenfall und Jüngstes Gericht die gesamte Heilsgeschichte umreisst (wie sie schon im AT zu finden ist), ist mit Verkündigung und Kreuztod das Leben Jesu umrissen]. Dazwischen 
+               <lb xml:id="p001_r_1_tl_11"/>– was man in Moscheen nicht sieht – viel Gold, 
+               <lb xml:id="p001_r_1_tl_10"/>welches das Dunkle noch dunkler macht, und in das 
+               <lb xml:id="p001_r_1_tl_12"/>Licht geheimnisvolle Schauer mischt. Aber dieser christ 
+               <lb xml:id="p001_r_1_tl_13" break="no"/>lich-vertraute Eindruck wird gestört durch allerhand 
+               <lb xml:id="p001_r_1_tl_15"/>Orientalisches: der Boden ist, wie in einer Moschee, 
+               <lb xml:id="p001_r_1_tl_14"/>über und über mit dämpfenden Teppichen belegt, und 
+               <lb xml:id="p001_r_1_tl_16"/>die Brüstung, die den Altar von den Gläubigen 
+               <lb xml:id="p001_r_1_tl_17"/>trennt, ist aus persischen Kacheln gemacht, – ebenso 
+               <lb xml:id="p001_r_1_tl_18"/>verkleiden sie den untersten Teil der Wände. Sicher 
+               <lb xml:id="p001_r_1_tl_19"/>sind diese Kacheln speziell für die Kirche hergestellt, 
+               <lb xml:id="p001_r_1_tl_20"/>und vermutlich von Armeniern – Engel schweben und 
+               <lb xml:id="p001_r_1_tl_21"/>Lämmer tummeln sich zwischen den stilisierten Blumen, 
+               <lb xml:id="p001_r_1_tl_23"/>– die Blumen aber, man erkennt es plötzlich, sind die 
+               <lb xml:id="p001_r_1_tl_22"/>immer gleichen der Teppichmuster, von Senna oder 
+               <lb xml:id="p001_r_1_tl_24"/>Ferahan.</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_26"/>Am Abend hört man dann Glocken läuten, während 
+               <lb xml:id="p001_r_1_tl_25"/>drüben in Isfahan die Stimmen der Gebetrufer von 
+               <lb xml:id="p001_r_1_tl_27"/>den hohen Moscheetoren niederschweben.</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_29"/>Man besinnt sich, wo man ist. Isfahan, ein Name, 
+               <lb xml:id="p001_r_1_tl_28"/>der eine Epoche und eine Kultur ausdrückt, – dort 
+               <lb xml:id="p001_r_1_tl_30" break="no"/>hin weist, was in Persien geschieht, hundert Beziehun 
+               <lb xml:id="p001_r_1_tl_32" break="no"/>gen, Traditionen, Erinnerungen. So gesehen, ist Djulfa 
+               <lb xml:id="p001_r_1_tl_31"/>nur ein Zufall, und ein Fremdkörper in einem Land, 
+               <lb xml:id="p001_r_1_tl_33"/>dessen Entwicklung gerade in kultureller Hinsicht über 
+               <lb xml:id="p001_r_1_tl_34" break="no"/>raschend einheitlich ist. Aber für mich war Djulfa ein 
+               <lb xml:id="p001_r_1_tl_35"/>Erlebnis. Es bedeutete den stetigen, beharrlichen, 
+               <lb xml:id="p001_r_1_tl_36"/>wenngleich anspruchslosen Ausdruck eines Volks, wel 
+               <lb xml:id="p001_r_1_tl_37" break="no"/>ches keine andere Bindung hier besaß, als die des be 
+               <lb xml:id="p001_r_1_tl_38" break="no"/>wußten, kulturtragenden Intellekts und der Religion, 
+               <lb xml:id="p001_r_1_tl_39"/>die sie verband. Das andere Djulfa, in der Halbwüste 
+               <lb xml:id="p001_r_1_tl_40"/>des Araxes, ist an der Armut des Landes gestorben, 
+               <lb xml:id="p001_r_1_tl_42"/>– das neue Djulfa, losgelöst, eine Insel in der isla 
+               <lb xml:id="p001_r_1_tl_41" break="no"/>mischen Welt, verbreitet noch heute die Atmosphäre 
+               <lb xml:id="p001_r_1_tl_43"/>eines uns in manchem verwandten Volks.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
