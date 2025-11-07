@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0176" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0176#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0176</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0176_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415618/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_3"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_3_tl_1"/>BOCKEN 
+               <lb xml:id="p001_tr_3_tl_2"/>OB HORGEN. ZÜRICHSEE. 
+               <lb xml:id="p001_tr_3_tl_3"/>19. I. 31.</p>
+
+            <milestone unit="textregion" xml:id="p001_r"/>            <p> 
+               <lb xml:id="p001_tr_2_tl_1"/>Geliebtes E. – dass Du vagabundierend 
+               <lb xml:id="p001_tr_2_tl_2"/>überhaupt noch Briefe an mich 
+               <lb xml:id="p001_tr_2_tl_3"/>schreibst wiegt ein paar Tage voller 
+               <lb xml:id="p001_tr_2_tl_4"/>mühsam verbrachter Vorlesungen 
+               <lb xml:id="p001_tr_2_tl_5"/>auf – das in Dir aber die Grippe so 
+               <lb xml:id="p001_tr_2_tl_6"/>bösartig spuckt, ist gar nicht gut 
+               <lb xml:id="p001_tr_2_tl_7"/>u. die südlich-milde Luft sollte 
+               <lb xml:id="p001_tr_1_tl_1"/>doch das ihrige tun. Aber sicher 
+               <lb xml:id="p001_tr_1_tl_2"/>bist Du unvernünftig u. allzu 
+               <lb xml:id="p001_tr_1_tl_3"/>tätig für Herrn Piper [EM und KM sind zu dieser Zeit an der Côte d'Azure und schreiben "Das Buch von der Riviera"]? Von dem 
+               <lb xml:id="p001_tr_1_tl_4"/>Korrodi mir ein schwefelgelbes 
+               <lb xml:id="p001_tr_1_tl_5"/>Titelblatt vorwies: Was – in der 
+               <lb xml:id="p001_tr_1_tl_6"/>Schweiz – nicht im Baedeker stehen 
+               <lb xml:id="p001_tr_1_tl_7"/>soll – [Korrodi ist Herausgeber des ersten Schweizer Bandes, an dem AS mitarbeitet]</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_8"/>Inzwischen weilt Korrodi in Paris, 
+               <lb xml:id="p001_tr_1_tl_9"/>u. ich noch immer in Zürich. 
+               <lb xml:id="p001_tr_1_tl_10"/>Aber – ich muss es schon wieder 
+               <lb xml:id="p001_tr_1_tl_11"/>schreiben – erschrecklich müde 
+               <lb xml:id="p001_tr_1_tl_12"/>u. diesmal auch vom Arzt 
+               <lb xml:id="p001_tr_1_tl_13"/>in das sonnige Engadin               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415619/info.json"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p> 
+               <lb xml:id="p002_tr_2_tl_1"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+empfohlen. So dass ich mich, 
+               <lb xml:id="p002_tr_2_tl_2"/>recht erlöst, am 25. I. auf 
+               <lb xml:id="p002_tr_2_tl_3"/>die Fahrt in diese mir so 
+               <lb xml:id="p002_tr_2_tl_4"/>sehr vertraute u. immer aufs 
+               <lb xml:id="p002_tr_2_tl_5"/>Neue entzückende Landschaft 
+               <lb xml:id="p002_tr_2_tl_6"/>machen werde. –</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_7"/>Dort tum[m]elt sich der "reitende" 
+               <lb xml:id="p002_tr_2_tl_8"/>Vetter [wer? James Schwarzenbach?] (u. sonstige Freunde) auf 
+               <lb xml:id="p002_tr_2_tl_9"/>Skiern, ganz abgesehen dass 
+               <lb xml:id="p002_tr_1_tl_1"/>auch Frau Frenssen [Thea Frenssen] da ist, 
+               <lb xml:id="p002_tr_1_tl_2"/>meistens allerdings weiss u. 
+               <lb xml:id="p002_tr_1_tl_3"/>erschreckend elegant auf dem 
+               <lb xml:id="p002_tr_1_tl_4"/>Eisplatz sich betätigend. 
+               <lb xml:id="p002_tr_1_tl_5"/>Gleich werde ich mich auf 
+               <lb xml:id="p002_tr_1_tl_6"/>die Suche machen nach 
+               <lb xml:id="p002_tr_1_tl_7"/>Deinen Eltern –</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_8"/>Falls dieser Brief Dich in 
+               <lb xml:id="p002_tr_1_tl_9"/>absehbarer Zeit erreicht, 
+               <lb xml:id="p002_tr_1_tl_10"/>so berichte mir etwas über 
+               <lb xml:id="p002_tr_1_tl_11"/>Eure Pläne, auch ob u. 
+               <lb xml:id="p002_tr_1_tl_12"/>wan[n] Klaus nach Amerika               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <pb xml:id="p003" facs="https://www.monacensia-digital.de/i3f/v20/415620/info.json"/>
+            <milestone unit="textregion" xml:id="p003_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_4"/> </p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+            <p> 
+               <lb xml:id="p003_tr_1_tl_4"/>fährt, das möchte Hanna Kiel 
+               <lb xml:id="p003_tr_1_tl_5"/>wissen welche sich mit ähn 
+               <lb xml:id="p003_tr_1_tl_6" break="no"/>lichen Plänen trägt –</p>
+            <p> 
+               <lb xml:id="p003_tr_3_tl_1"/>Und wan[n] Du nach Zürich kom[m]st. 
+               <lb xml:id="p003_tr_3_tl_2"/>Den[n] am 4. Febr. etwa bin ich 
+               <lb xml:id="p003_tr_3_tl_3"/>wieder zurück.</p>
+            <p> 
+               <lb xml:id="p003_tr_3_tl_4"/>Wen[n] ich Dich – hartnäckig vom 
+               <lb xml:id="p003_tr_3_tl_5"/>Schicksal befehdet – verfehlen oder 
+               <lb xml:id="p003_tr_3_tl_6"/>Du nicht nach Z. kommen solltest, 
+               <lb xml:id="p003_tr_3_tl_7"/>fahr ich in den Ferien (März) 
+               <lb xml:id="p003_tr_3_tl_8"/>einmal nach München wo mit 
+               <lb xml:id="p003_tr_3_tl_9"/>Bonin mancherlei zu besprechen 
+               <lb xml:id="p003_tr_2_tl_1"/>ist u. Aussicht ?? besteht 
+               <lb xml:id="p003_tr_2_tl_2"/>Dich zu treffen –</p>
+            <p> 
+               <lb xml:id="p003_tr_2_tl_3"/>Ach uralter Bruder, –</p>
+            <p> 
+               <lb xml:id="p003_tr_2_tl_4"/>Heil Deine Grippe aus, hörst Du – 
+               <lb xml:id="p003_tr_2_tl_5"/>notiere weiter fleissig à la Hum[m]elsheim 
+               <lb xml:id="p003_tr_2_tl_6"/>(P. S. Fredchen schreibt recht vergnügt 
+               <lb xml:id="p003_tr_2_tl_7"/>von Berlin u. lässt grüssen) –</p>
+
+            <pb xml:id="p004" facs="https://www.monacensia-digital.de/i3f/v20/415621/info.json"/>
+            <milestone unit="textregion" xml:id="p004_r"/>            <p> 
+               <lb xml:id="p004_tr_2_tl_2"/>Sage Klaus viele Grüsse von mir – 
+               <lb xml:id="p004_tr_2_tl_3"/>bei * Faesi hatten wir gestern 
+               <lb xml:id="p004_tr_2_tl_4"/>einen "Sonntags-Seminar-Thee" 
+               <lb xml:id="p004_tr_2_tl_5"/>dessen Reize er wohl ermessen 
+               <lb xml:id="p004_tr_2_tl_6"/>kann, ich dachte mit nach 
+               <lb xml:id="p004_tr_2_tl_7" break="no"/>träglichem Mitgefühl an ihn [KM übernachtete anlässlich der Lesung, die er mit seiner Schwester am 16.12.30 in Zürich hielt, bei der Familie Faesi, vgl. letter_0179, letter_0180. Schwarzenbach suggeriert hier, das KM den Aufenthalt bei seiner Gastfamilie nicht besonders genoss.]!</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_2_tl_8"/>Sei mit allen guten Gedankenletter 
+               <lb xml:id="p004_tr_2_tl_9"/>bedacht <del rend="overstrike">S</del> u. umarmt von Deinem Kind A 
+               <lb xml:id="p004_tr_2_tl_10"/>Adr. ab 25. I. 
+               <lb xml:id="p004_tr_1_tl_1"/>Survettahaus 
+               <lb xml:id="p004_tr_1_tl_2"/><hi rendition="#u">St. Moritz</hi> 
+               <lb xml:id="p004_tr_1_tl_3"/>Engadin 
+               <lb xml:id="p004_l"/>* Die wohlwollenden Gastgeber lassen sich 
+               <lb xml:id="p004_l_136"/>Euch, glaube ich, empfehlen!</p>
+</div>
+       </body>
+    </text>
+ </TEI>
