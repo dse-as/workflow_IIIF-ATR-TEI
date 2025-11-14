@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0181"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0181</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0181_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0181_001"
+                facs="https://www.monacensia-digital.de/i3f/v20/415689/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0181_001_tr_1"/>
+            <lb xml:id="letter_0181_001_tr_1_tl_1"/>Montag.<CONV tag="p">
+<lb xml:id="letter_0181_001_tr_1_tl_2"/>Dein Brief, E. –, kam recht fruchtbar
+<lb xml:id="letter_0181_001_tr_1_tl_3"/>in einen dün[n]en Berliner Tag –
+<lb xml:id="letter_0181_001_tr_1_tl_4"/>der sonst nur noch ein 2 stündiges
+<lb xml:id="letter_0181_001_tr_1_tl_5"/>kluges, merkwürdiges u. ergiebiges
+<lb xml:id="letter_0181_001_tr_1_tl_6"/>Gespräch mit Max Pulver zu verzeichnen
+<lb xml:id="letter_0181_001_tr_1_tl_7"/>weiss. Ich bin aber aufrichtig betrübt:
+<lb xml:id="letter_0181_001_tr_1_tl_8"/>Warum, Liebling E., hast Du so viel
+<lb xml:id="letter_0181_001_tr_1_tl_9"/>Verdruss der Dir gar nicht zusteht?
+<lb xml:id="letter_0181_001_tr_1_tl_10"/>Lässt sich dagegen gar nichts finden?
+<lb xml:id="letter_0181_001_tr_1_tl_11"/>ich käme mir gern für Dich weniger
+<lb xml:id="letter_0181_001_tr_1_tl_12"/>unnütz u. überflüssig vor, u. gerade
+<lb xml:id="letter_0181_001_tr_1_tl_13"/>bei Dir bin ich es so ausgesprochen!</CONV><CONV tag="p">
+<lb xml:id="letter_0181_001_tr_1_tl_14"/>Jener Max Pulver ist
+<lb xml:id="letter_0181_001_tr_1_tl_15"/>wohl zu Recht so berühmt, er ist mir
+<lb xml:id="letter_0181_001_tr_1_tl_16"/>aber, wer weiss weshalb, zunächst ein
+<lb xml:id="letter_0181_001_tr_1_tl_17"/>wenig unsympathisch gewesen. Sei er's,
+<lb xml:id="letter_0181_001_tr_1_tl_18"/>bleibe er's, jedenfalls wusste er kluge
+<lb xml:id="letter_0181_001_tr_1_tl_19"/>Dinge zu berichten. <PAGE tag="underlined">Mir</PAGE> sagte er, dass
+<lb xml:id="letter_0181_001_tr_1_tl_20"/>bei mir der Verfall, nein: "Zerfall der Per¬
+<lb xml:id="letter_0181_001_tr_1_tl_21"/>sönlichkeit" bis zu einem Punkt getrieben
+<lb xml:id="letter_0181_001_tr_1_tl_22"/>sei wo sie (er ?) produktiv werden <PAGE tag="underlined">könne</PAGE> –</CONV><!--FML: this needs attention (was tagged as "fml" in Transkribus)--><pb xml:id="letter_0181_002"
+                facs="https://www.monacensia-digital.de/i3f/v20/415690/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0181_002_tr_1"/>
+            <lb xml:id="letter_0181_002_tr_1_tl_1"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)--><CONV tag="p">
+<lb xml:id="letter_0181_002_tr_1_tl_1"/>falls ich so besonnen sei, meine recht
+<lb xml:id="letter_0181_002_tr_1_tl_2"/>gefährdete Gesundheit zu schonen.
+<lb xml:id="letter_0181_002_tr_1_tl_3"/>Jawohl, u. meine Halsentzündung ist,
+<lb xml:id="letter_0181_002_tr_1_tl_4"/>zu meinem alleinigen (nicht Eurem!)
+<lb xml:id="letter_0181_002_tr_1_tl_5"/>Verdruss genau so ekelhaft geworden
+<lb xml:id="letter_0181_002_tr_1_tl_6"/>wie ich ist es verdiene. Da liege ich also,
+<lb xml:id="letter_0181_002_tr_1_tl_7"/>u. Ursula besucht mich, u. ist sowohl
+<lb xml:id="letter_0181_002_tr_1_tl_8"/>klug als liebenswert, u. auch die schöne
+<lb xml:id="letter_0181_002_tr_1_tl_9"/>Frau v. Schmidt-Pauli kom[m]t, obwohl
+<lb xml:id="letter_0181_002_tr_1_tl_10"/>Klaus Sie nicht schön findet.</CONV>[vertical space]<CONV tag="p">
+<lb xml:id="letter_0181_002_tr_1_tl_11"/>Aber ich nähere mich dem richtigen
+<lb xml:id="letter_0181_002_tr_1_tl_12"/>Ellenmass, E., glaub es mir – oder sollte
+<lb xml:id="letter_0181_002_tr_1_tl_13"/>man sich ganz ohne Fortschritte 2 Monate
+<lb xml:id="letter_0181_002_tr_1_tl_14"/>so geplagt haben?</CONV><CONV tag="p">
+<lb xml:id="letter_0181_002_tr_1_tl_15"/>Mein Roman [Flucht nach oben?] – ich <PAGE tag="underlined">muss</PAGE> es gestehen – ist noch
+<lb xml:id="letter_0181_002_tr_1_tl_16"/>nicht <PAGE tag="underlined">ganz</PAGE> gediehen. Jetzt schreibe ich,
+<lb xml:id="letter_0181_002_tr_1_tl_17"/>daneben, eine Novelle [lyrische Novelle?] u. nehme alles
+<lb xml:id="letter_0181_002_tr_1_tl_18"/>ungeheuer ernst.</CONV><CONV tag="p">
+<lb xml:id="letter_0181_002_tr_1_tl_19"/>Maria kam heute zurück, das freut mich,
+<lb xml:id="letter_0181_002_tr_1_tl_20"/>u. Speyer ist ein guter Mensch, behaupten
+<lb xml:id="letter_0181_002_tr_1_tl_21"/>Doris u. ich, den[n] um uns sorgt er sich.</CONV><pb xml:id="letter_0181_003"
+                facs="https://www.monacensia-digital.de/i3f/v20/415691/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0181_003_tr_2"/><CONV tag="p">
+<lb xml:id="letter_0181_003_tr_2_tl_1"/>An Doris soll alles über die Sabinerin[n]en
+<lb xml:id="letter_0181_003_tr_2_tl_2"/>ausgerichtet werden, sie knipst jetzt
+<lb xml:id="letter_0181_003_tr_2_tl_3"/>sehr viel, u. wir sehen uns dauernd
+<lb xml:id="letter_0181_003_tr_2_tl_4"/>u. ohne uns zu streiten. (Eben sprach
+<lb xml:id="letter_0181_003_tr_2_tl_5"/>ich am schrecklich verabscheuten Telefon
+<lb xml:id="letter_0181_003_tr_2_tl_6"/>mit ihr u. sie lässt Dich sehr grüssen)</CONV>[vertical space]<CONV tag="p">
+<lb xml:id="letter_0181_003_tr_2_tl_7"/>Ich sah die Premiere vom Grünen Kakadu,
+<lb xml:id="letter_0181_003_tr_2_tl_8"/>was für ein aufregendes Stück – viel unbegabte
+<lb xml:id="letter_0181_003_tr_2_tl_9"/>Menschen spielten, aber trotz allem sah
+<lb xml:id="letter_0181_003_tr_2_tl_10"/>Gina Falckenberg richtig schön aus u. nachher
+<lb xml:id="letter_0181_003_tr_2_tl_11"/>war Sie betrübt u. fand sich selbst sehr
+<lb xml:id="letter_0181_003_tr_2_tl_12"/>schlecht.</CONV><CONV tag="p">
+<lb xml:id="letter_0181_003_tr_2_tl_13"/>Eri, für was wird man berühmt unter dieser
+<lb xml:id="letter_0181_003_tr_2_tl_14"/>erstaunlich ahnungslosen Menschheit –
+<lb xml:id="letter_0181_003_tr_2_tl_15"/>Die Theres lass ich auch sehr grüssen, vor
+<lb xml:id="letter_0181_003_tr_2_tl_16"/>Weihnachten seh ich sie, Dich, Mädi,
+<lb xml:id="letter_0181_003_tr_2_tl_17"/>allerspätestens – solltest Du vorher allen
+<lb xml:id="letter_0181_003_tr_2_tl_18"/>Ernstes nicht nach Berlin kom[m]en, was ich
+<lb xml:id="letter_0181_003_tr_2_tl_19"/><PAGE tag="strikethrough">sich</PAGE>, skrupellos u. unverändert, nicht wünsche –</CONV>
+<lb xml:id="letter_0181_003_tr_2_tl_20"/>Sehr zärtlich die Deine
+<lb xml:id="letter_0181_003_tr_2_tl_21"/>A.</div>
+      </body>
+   </text>
+</TEI>
