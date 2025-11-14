@@ -118,6 +118,7 @@ jobs:
       if: steps.schematron-result.outputs.schematron_is_valid == 'True'
     - run: tree -L 1 
       if: steps.schematron-result.outputs.schematron_is_valid == 'True'
+    - run: cat validation_input.xml
     - name: PAGE XML to raw TEI (XSLT)
       if: steps.schematron-result.outputs.schematron_is_valid == 'True'
       uses: pdaengeli/use-saxon-he-j@12.9
