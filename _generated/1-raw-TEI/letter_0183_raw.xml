@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0183"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0183</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0183_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0183_001"
+                facs="https://www.monacensia-digital.de/i3f/v20/415654/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0183_001_r_429"/>
+            <lb xml:id="letter_0183_001_tr_4_tl_1"/>Mittwoch<CONV tag="p">
+<lb xml:id="letter_0183_001_tr_4_tl_2"/>Liebste Eri, Telegramme, Briefe, Weisun¬
+<lb xml:id="letter_0183_001_tr_4_tl_3"/>gen, ist alles eingetroffen u. z. T. erledigt:</CONV><CONV tag="p">
+<lb xml:id="letter_0183_001_l"/>1) d. h. <PAGE tag="underlined">Kartenwerke</PAGE> sind nur für
+<lb xml:id="letter_0183_001_tr_4_tl_5"/>den Balkan ordentlich vorhanden,
+<lb xml:id="letter_0183_001_tr_4_tl_6"/>über Persien bekam ich hingegen von
+<lb xml:id="letter_0183_001_tr_4_tl_7"/>Prof. Sarre ganz neue, fein orien¬
+<lb xml:id="letter_0183_001_tr_4_tl_8"/>tierende Büchlein – ferner Empfeh¬
+<lb xml:id="letter_0183_001_tr_4_tl_9"/>lungen sowohl in Konstantinopel
+<lb xml:id="letter_0183_001_tr_4_tl_10"/>wie in Persien selbst.</CONV><CONV tag="p">
+<lb xml:id="letter_0183_001_l_1"/>2) Der Persier [Anghöriger der persischen Botschaft] war nett u. sagte dass wir
+<lb xml:id="letter_0183_001_tr_4_tl_12"/>die Wagen ohne Weiteres gegen eine
+<lb xml:id="letter_0183_001_tr_4_tl_13"/>Sicherheit hineinnehmen können [d.h. über die Grenze führen]. Ich
+<lb xml:id="letter_0183_001_tr_4_tl_14"/>sagte, dass wir für Sicherheiten nicht
+<lb xml:id="letter_0183_001_l_2"/>vermöglich genug seien, aber er
+<lb xml:id="letter_0183_001_tr_4_tl_17"/>bestand darauf dass eine Empfehlung
+<lb xml:id="letter_0183_001_tr_4_tl_18"/>seinerseits <PAGE tag="underlined">ohne</PAGE> Nutzen – u. eine
+<lb xml:id="letter_0183_001_tr_4_tl_19"/><PAGE tag="underlined">Geld</PAGE>hinterlegung von uns <PAGE tag="underlined">sicher</PAGE> zu um¬
+<lb xml:id="letter_0183_001_l_3"/>gehen sei. Ich, als Schweizer, brauche
+<lb xml:id="letter_0183_001_tr_4_tl_22"/>in Persien kein Visum.</CONV><CONV tag="p">
+<lb xml:id="letter_0183_001_l_4"/>3) Bei den Russen wurde ich gestern u. heute abgewiesen
+<lb xml:id="letter_0183_001_tr_4_tl_24"/>– die Türken schickten mich in ein anderes
+<lb xml:id="letter_0183_001_l_6"/>Bureau, das war seit 12<PAGE tag="superscript">h</PAGE> geschlossen,</CONV><!--FML: this needs attention (was tagged as "fml" in Transkribus)--><pb xml:id="letter_0183_002"
+                facs="https://www.monacensia-digital.de/i3f/v20/415655/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0183_002_r"/><CONV tag="p">
+<lb xml:id="letter_0183_002_tr_2_tl_1"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->doch will ich es morgen erledigen.</CONV><CONV tag="p">
+<lb xml:id="letter_0183_002_l"/>4) Geimpft bin ich schon dreimal u.
+<lb xml:id="letter_0183_002_tr_2_tl_3"/>das Typhusgift muss ich mir wohl in
+<lb xml:id="letter_0183_002_tr_2_tl_4"/>München nochmals einspritzen lassen.</CONV><CONV tag="p">
+<lb xml:id="letter_0183_002_tr_2_tl_5"/>5) Morgen esse ich bei Marcuse mit
+<lb xml:id="letter_0183_002_tr_2_tl_6"/>jenem Leo Matthias.</CONV><CONV tag="p">
+<lb xml:id="letter_0183_002_tr_2_tl_7"/>Im Adlon frühstückte ich heute sehr
+<lb xml:id="letter_0183_002_tr_2_tl_8"/>mondän mit Kom[m]er u. Fridel Schuster,
+<lb xml:id="letter_0183_002_tr_2_tl_9"/>u. Fridel Schuster möchte allzu gern
+<lb xml:id="letter_0183_002_tr_2_tl_10"/>den “Hyazinth” in Salzburg singen –
+<lb xml:id="letter_0183_002_tr_2_tl_11"/>worauf Kom[m]er es, nebst Lobsprüchen
+<lb xml:id="letter_0183_002_tr_2_tl_12"/>auf Dich, gleich dem recht widerlichen
+<lb xml:id="letter_0183_002_tr_2_tl_13"/>Castiglione erzählte der "alles" für die
+<lb xml:id="letter_0183_002_tr_2_tl_14"/>Schuster (!) tun will.</CONV><CONV tag="p">
+<lb xml:id="letter_0183_002_tr_2_tl_15"/><PAGE tag="strikethrough">Von Mama bek</PAGE> Von Papa bekom[m]st Du
+<lb xml:id="letter_0183_002_tr_2_tl_16"/>demnächst wohl in irgendeiner Form
+<lb xml:id="letter_0183_002_tr_2_tl_17"/>Geld für meinen ersten Bedarf zugestellt.
+<lb xml:id="letter_0183_002_tr_2_tl_18"/>Weil ich nicht in Zürich bin um unterzu¬
+<lb xml:id="letter_0183_002_tr_2_tl_19"/>schreiben, ist es etwas umständlich.
+<lb xml:id="letter_0183_002_tr_2_tl_20"/>Kleider aus Leinen bringt, glaube ich, Lili
+<lb xml:id="letter_0183_002_tr_2_tl_21"/>über die Grenze, u. Du musst sie mir bitte
+<lb xml:id="letter_0183_002_tr_2_tl_22"/>indessen aufheben.</CONV><CONV tag="p">
+<lb xml:id="letter_0183_002_tr_2_tl_23"/>Das scheint mir alles zu sein – über</CONV><!--FML: this needs attention (was tagged as "fml" in Transkribus)--><pb xml:id="letter_0183_003"
+                facs="https://www.monacensia-digital.de/i3f/v20/415656/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0183_003_tr_1"/><CONV tag="p">
+<lb xml:id="letter_0183_003_tr_1_tl_1"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->türk. Visa u. Triptik [Einreiseschein für ein Fahrzeug ] und über
+<lb xml:id="letter_0183_003_tr_1_tl_2"/>du Sowjets berichte ich eilends
+<lb xml:id="letter_0183_003_tr_1_tl_3"/>morgen Mittag. Einen Revolver
+<lb xml:id="letter_0183_003_tr_1_tl_4"/>bekom[m]e ich geschenkt, u. werde
+<lb xml:id="letter_0183_003_tr_1_tl_5"/>auf der Hasenheide Schiessen
+<lb xml:id="letter_0183_003_tr_1_tl_6"/>üben.</CONV>
+<lb xml:id="letter_0183_003_tr_1_tl_7"/>Adieu, grüsse alle, u. sei
+<lb xml:id="letter_0183_003_l"/>flüchtig umarmt von
+<lb xml:id="letter_0183_003_tr_1_tl_10"/>A.
+<lb xml:id="letter_0183_003_tr_1_tl_11"/>ich freue mich riesig. Ricki hoffentlich
+<lb xml:id="letter_0183_003_tr_1_tl_12"/>desgleichen!!</div>
+      </body>
+   </text>
+</TEI>
