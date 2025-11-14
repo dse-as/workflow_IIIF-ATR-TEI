@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0182" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0182#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0182</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0182_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415661/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Don[n]erstag</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_2"/>E. – ich aber schlafe, schreib hier in der vornehmen 
+               <lb xml:id="p001_tr_1_tl_3"/>Hohenzollernstrasse gänzlich ohne Post zu 
+               <lb xml:id="p001_tr_1_tl_4"/>bekommen, u. wenn ich nicht wüsste dass Du 
+               <lb xml:id="p001_tr_1_tl_5"/>ungern am Morgen früh geweckt wirst, würde 
+               <lb xml:id="p001_tr_1_tl_6"/>ich ein Ferngespräch anmelden um diese 
+               <lb xml:id="p001_tr_1_tl_7"/>höchst künstliche Isolierung zu sprengen. 
+               <lb xml:id="p001_tr_1_tl_8"/>Wan[n] kommst Du den[n] mit Klaus zurück, 
+               <lb xml:id="p001_tr_1_tl_9"/>ich würde wohl gar nicht in die Schweiz 
+               <lb xml:id="p001_tr_1_tl_10"/>fahren weil ich nämlich (Du weisst: Dank 
+               <lb xml:id="p001_tr_1_tl_11"/>Klausens Fürsorge) wirklich u. ehrlich einen 
+               <lb xml:id="p001_tr_1_tl_12"/>Vertrag von der Tobis [Tobis-Tonbild-Syndikat, gemeint ist ihr Filmprojekt, für das Schwarzenbach bei ihrem Onkel Reinhart um Geld bittet, vgl. letter_000?] bekom[m]e u. damit 
+               <lb xml:id="p001_tr_1_tl_13"/>ziemlich viel Arbeit. Jene Frau Peach [Moholy-Nagy, Sibyl (geb. Pietzsch), nannte sich auch Sibyl Peach und war in dieser Zeit als Produktionsassistentin bei Tobis angestellt] war sehr 
+               <lb xml:id="p001_tr_1_tl_14"/>klug u. reizend zu mir u. wird mir, zur 
+               <lb xml:id="p001_tr_1_tl_15"/>Sicherheit, am Begin[n] ein wenig helfen.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_16"/>Im Übrigen habe ich mich mit einseitiger Beharrlich 
+               <lb xml:id="p001_tr_1_tl_17" break="no"/>keit allabendlich bei Maly u. Igel [Lesben-Bar in Berlin, vgl. Georgiadou, S. 103] eingebürgert was 
+               <lb xml:id="p001_tr_1_tl_18"/>sich jetzt vielleicht ändern wird. Wie war der Ausflug 
+               <lb xml:id="p001_tr_1_tl_19"/>mit Bert u. dem Ricki, wieder Bodensee u. was 
+               <lb xml:id="p001_tr_1_tl_20"/>machen Plagiat u. Kinderstück? Berichte bald, 
+               <lb xml:id="p001_tr_1_tl_21"/>sag alles dem Klaus, grüsse ihn, Bibi, Medi, 
+               <lb xml:id="p001_tr_1_tl_22"/>(<hi rendition="#u">wan[n]</hi> sehe ich sie doch!) die Theres, u. kom[m] recht schnell, 
+               <lb xml:id="p001_tr_1_tl_23"/>Liebling E. - es ist die reine Selbstsucht, weil Du 
+               <lb xml:id="p001_tr_1_tl_24"/>doch Berlin nicht leiden kan[n]st! Sei vielmals 
+               <lb xml:id="p001_l"/>umarmt u. mit viel Zärtlichkeit bedacht von</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_27"/>A. –</p>
+</div>
+       </body>
+    </text>
+ </TEI>
