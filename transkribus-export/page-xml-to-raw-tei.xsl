@@ -22,7 +22,7 @@
 
   <xsl:param name="debug" static="true" as="xs:boolean" select="false()"/>
   
-  <xsl:param name="fileName" select="(//Page)[1]/@imageFilename => replace('^(\w+_\d{4}).*$','$1')"/>
+  <xsl:param name="fileName" select="if (matches((//Page)[1]/@imageFilename,'letter_0249')) then 'letter_0250' else (//Page)[1]/@imageFilename => replace('^(\w+_\d{4}).*$','$1')"/>
   <xsl:variable name="fileType" select="if (matches($fileName, 'letter')) then 'letter' else 'smallform'"/>
   <xsl:variable name="iiif-manifest" select="json-doc('https://iiif.annemarie-schwarzenbach.ch/presentation/'||$fileName||'.json')"/>
   
