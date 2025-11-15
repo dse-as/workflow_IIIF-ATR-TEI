@@ -20,7 +20,7 @@
   
   <xsl:output indent="true"/>
 
-  <xsl:param name="debug" static="true" as="xs:boolean" select="false()"/>
+  <xsl:param name="debug" static="true" as="xs:boolean" select="true()"/>
   
   <xsl:param name="fileName" select="if (matches((//Page)[1]/@imageFilename,'letter_0249')) then 'letter_0250' else (//Page)[1]/@imageFilename => replace('^(\w+_\d{4}).*$','$1')"/>
   <xsl:variable name="fileType" select="if (matches($fileName, 'letter')) then 'letter' else 'smallform'"/>
@@ -56,7 +56,8 @@
       <xsl:sequence select="$PAGE-tag-info => serialize(map {'method': 'json'})"/>
       
       debug iiif manifest:
-      <xsl:variable name="ifn" select="'letter_0004_001'"/>
+      <xsl:sequence select="$iiif-manifest"/>
+      <xsl:variable name="ifn" select="'letter_0250_001'"/>
       <xsl:sequence select="$iiif-manifest?items?*[.?label?en?*=$ifn]?items?*?items?*?body?id => serialize(map {'method': 'json'})"/>
     </xsl:comment>
 
@@ -85,8 +86,8 @@
       <xsl:text>&#xA;</xsl:text>
       <xsl:text>**Generated:**&#xA;</xsl:text>
       <xsl:text>&#xA;</xsl:text>
-      <xsl:text>* [`_generated/1-raw-TEI/{$fileName}_raw.xml`](https://github.com/dse-as/workflow_IIIF-ATR-TEI/tree/main/tree/main/_generated/1-raw-TEI/{$fileName}_raw.xml)&#xA;</xsl:text>
-      <xsl:text>* [`_generated/2-base-TEI/{$fileName}.xml`](https://github.com/dse-as/workflow_IIIF-ATR-TEI/tree/main/_generated/2-base-TEI/{$fileName}.xml)&#xA;</xsl:text>
+      <xsl:text>* [`_generated/1-raw-TEI/{$fileName}_raw.xml`](../tree/main/_generated/1-raw-TEI/{$fileName}_raw.xml)&#xA;</xsl:text>
+      <xsl:text>* [`_generated/2-base-TEI/{$fileName}.xml`](../tree/main/_generated/2-base-TEI/{$fileName}.xml)&#xA;</xsl:text>
     </xsl:result-document>
     
   </xsl:template>
@@ -213,7 +214,7 @@
     <xsl:message select="$ifn"/>
     <!--IIIF Image or Presentation URL?-->
     <xsl:variable name="pos" select="position()" as="xs:integer"/>
-    <pb debug-ifn="{$ifn}" xml:id="{local:page-id($fileName,$pos)}" facs="{local:get-facs-url($ifn)}"/>
+    <pb xml:id="{local:page-id($fileName,$pos)}" facs="{local:get-facs-url($ifn)}"/>
     <xsl:apply-templates select="TextRegion">
       <xsl:with-param name="pos" select="$pos" tunnel="yes"/>
     </xsl:apply-templates>
@@ -426,8 +427,8 @@
   
   <xsl:function name="local:get-facs-url" as="xs:string">
     <xsl:param name="imageFilename" as="xs:string"/>
-    <!--<xsl:sequence select="$iiif-manifest?items?*[.?label?en?*=$imageFilename]?items?*?items?*?body?id"/>-->
-    <xsl:text>DEBUG {$imageFilename}</xsl:text>
+    <xsl:sequence select="$iiif-manifest?items?*[.?label?en?*=$imageFilename]?items?*?items?*?body?id"/>
+    <!--<xsl:text>DEBUG {$imageFilename}</xsl:text>-->
   </xsl:function>
   
   <xsl:function name="local:page-id" as="xs:string">
