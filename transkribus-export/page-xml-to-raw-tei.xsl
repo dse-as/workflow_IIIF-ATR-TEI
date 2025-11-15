@@ -56,7 +56,7 @@
       <xsl:sequence select="$PAGE-tag-info => serialize(map {'method': 'json'})"/>
       
       debug iiif manifest:
-      <xsl:sequence select="$iiif-manifest"/>
+      <xsl:sequence select="$iiif-manifest  => serialize(map {'method': 'json'}"/>
       <xsl:variable name="ifn" select="'letter_0250_001'"/>
       <xsl:sequence select="$iiif-manifest?items?*[.?label?en?*=$ifn]?items?*?items?*?body?id => serialize(map {'method': 'json'})"/>
     </xsl:comment>
