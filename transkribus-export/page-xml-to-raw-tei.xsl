@@ -426,7 +426,10 @@
   
   <xsl:function name="local:get-facs-url" as="xs:string">
     <xsl:param name="imageFilename" as="xs:string"/>
-    <xsl:sequence select="$iiif-manifest?items?*[.?label?en?*=$imageFilename]?items?*?items?*?body?id"/>
+    <xsl:try>
+      <xsl:sequence select="$iiif-manifest?items?*[.?label?en?*=$imageFilename]?items?*?items?*?body?id"/>
+      <xsl:catch>problem getting "$iiif-manifest?items?*[.?label?en?*=$imageFilename]?items?*?items?*?body?id" with imageFilename {$imageFilename}</xsl:catch>
+    </xsl:try>
   </xsl:function>
   
   <xsl:function name="local:page-id" as="xs:string">
