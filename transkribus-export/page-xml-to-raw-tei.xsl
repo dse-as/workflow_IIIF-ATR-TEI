@@ -209,7 +209,7 @@
   </xsl:template>
   
   <xsl:template match="Page">
-    <xsl:variable name="ifn" select="if ($fileName='letter_0250') then $fileName||@imageFilename => replace('^letter_0249(_\d{4}_\d{3})','$1') else @imageFilename => substring-before('.')"/>
+    <xsl:variable name="ifn" select="if ($fileName='letter_0250') then $fileName||@imageFilename => replace('^letter_0249(_\d{3}).jpg','$1') else @imageFilename => substring-before('.')"/>
     <xsl:message select="$ifn"/>
     <!--IIIF Image or Presentation URL?-->
     <xsl:variable name="pos" select="position()" as="xs:integer"/>
