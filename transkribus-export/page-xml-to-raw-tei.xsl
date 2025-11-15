@@ -213,7 +213,7 @@
     <xsl:message select="$ifn"/>
     <!--IIIF Image or Presentation URL?-->
     <xsl:variable name="pos" select="position()" as="xs:integer"/>
-    <pb xml:id="{local:page-id($fileName,$pos)}" facs="{local:get-facs-url($ifn)}"/>
+    <pb debug-ifn="{$ifn}" xml:id="{local:page-id($fileName,$pos)}" facs="{local:get-facs-url($ifn)}"/>
     <xsl:apply-templates select="TextRegion">
       <xsl:with-param name="pos" select="$pos" tunnel="yes"/>
     </xsl:apply-templates>
