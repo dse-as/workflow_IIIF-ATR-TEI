@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0250" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0250#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0250</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0250_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="DEBUG letter_0250_001"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Danzig, 5. V. 37 
+               <lb xml:id="p001_tr_1_tl_2"/>Mein liebster Klaus Heinrich,</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_3"/>– ganz so habe ich es mir doch nicht vergestellt, – u. es 
+               <lb xml:id="p001_tr_1_tl_4"/>ist, vermutlich, nichts als dumme Vergnügungssucht von 
+               <lb xml:id="p001_tr_1_tl_5"/>mir, Dir von hier aus überhaupt schreiben zu wollen – 
+               <lb xml:id="p001_tr_1_tl_6"/>Bei unserem Professor ist die Stim[m]ung so, dass man sich zwischen 
+               <lb xml:id="p001_tr_1_tl_7"/>gewollter, gemusster u. schon gewohnheitsmässiger Steifheit 
+               <lb xml:id="p001_tr_1_tl_8"/>u. Vorsicht nicht ausken[n]t – am liebsten möchte er, – u. ich 
+               <lb xml:id="p001_tr_1_tl_9"/>begreife es bereits nach 24 Std. Aufenthalt – alle Feder 
+               <lb xml:id="p001_tr_1_tl_10" break="no"/>kundigen ausrotten –, ich werde ihm sagen müssen, dass 
+               <lb xml:id="p001_tr_1_tl_11"/>sonst d<hi rendition="#u">oc</hi>h in <hi rendition="#u">unsere</hi>m Naziblatt etwas über hier erscheint, 
+               <lb xml:id="p001_tr_1_tl_12"/>damit er mir erlaubt, <hi rendition="#u">etwas</hi> in aller Zurückhaltung 
+               <lb xml:id="p001_tr_1_tl_13"/>kan[n] nie etwas schaden 
+               <lb xml:id="p001_tr_1_tl_14"/>u. mit allem Takt zu machen – Propaganda für das deutsche Danzig [Ergänzung]! 
+               <lb xml:id="p001_tr_1_tl_15"/>Sonst vertreibe ich mir die Zeit mit seltsamen u. – rührenden 
+               <lb xml:id="p001_tr_1_tl_16"/>Bekan[n]tschaften, einem Verleger u. schüchternen Handels 
+               <lb xml:id="p001_tr_1_tl_17" break="no"/>reisenden, einer ebenso schüchternen aber sehr braven 
+               <lb xml:id="p001_tr_1_tl_18"/>kleinen Dame aus eingesessenen Kreisen, – übermorgen 
+               <lb xml:id="p001_tr_1_tl_19"/>kom[m]t Goebbels mit einem Gefolge von Benbo–Schrift 
+               <lb xml:id="p001_tr_1_tl_20" break="no"/>stellern[?], die ich alle werde hören dürfen, dan[n] 
+               <lb xml:id="p001_tr_1_tl_21"/>hoffe ich, die S.A.–Marine besuchen zu dürfen, – 
+               <lb xml:id="p001_tr_1_tl_22"/>es sollen sehr feine, tapfere, gesin[n]ungsvolle Burschen 
+               <lb xml:id="p001_tr_1_tl_23"/>sein, von denen man bei uns daheim ja viel zu 
+               <lb xml:id="p001_tr_1_tl_24"/>wenig weiss – auch die Luftschutzschule muss ich               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <pb xml:id="p002" facs="DEBUG letter_0250_002"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/> </p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+            <p> 
+               <lb xml:id="p002_tr_1_tl_1"/>sehen, – dan[n] den polnischen Konkurrenz–Hafen Gedingen, 
+               <lb xml:id="p002_tr_1_tl_2"/>der jetzt die polnische (oberschlesische) Kohle verfrachtet – 
+               <lb xml:id="p002_tr_1_tl_3"/>u. sehr freue ich mich auf die Berliner Don–Carlos. Auff.– 
+               <lb xml:id="p002_tr_1_tl_4"/>die mit Goebbels zur Kulturtagung kommt – den[n] dass sie in 
+               <lb xml:id="p002_tr_1_tl_5"/>Berlin wegen niedrigen Untermensch–Parkett – Zwischenrufen 
+               <lb xml:id="p002_tr_1_tl_6"/>gestört u. gestrichen wurde, ist ja offensichtlich böse 
+               <lb xml:id="p002_tr_1_tl_7"/>Verleumdung! – ferner: Studentenschaft, deren Führer schon 
+               <lb xml:id="p002_tr_1_tl_8"/>mit 20 Jahren echte Heldentaten in Zoppot im Ostseebad 
+               <lb xml:id="p002_tr_1_tl_9"/>vollführte u. jetzt auch zu Ehren gekom[m]en u. in die oberste 
+               <lb xml:id="p002_tr_1_tl_10"/>S.A.-Leitung berufen worden ist – u. s. f. man müsste wirklich 
+               <lb xml:id="p002_tr_1_tl_11"/>mehr von Danzig wissen – es ist grossartig, was die 
+               <lb xml:id="p002_tr_1_tl_12"/>Partei hier zustande bringt, während Danzig doch 
+               <lb xml:id="p002_tr_1_tl_13"/>unter sozusagen poln. Verwaltung steht, u. als Ausgangshafen 
+               <lb xml:id="p002_tr_2_tl_1"/>für das in der Majorität polnische Pom[m]erellen [Ausdruck für Ostpommern], d.h. den 
+               <lb xml:id="p002_tr_2_tl_2"/>poln. Korridor geplant war. Aber es sollte sich mir einmal 
+               <lb xml:id="p002_tr_2_tl_3"/>ein solcher Pole zeigen! in Uniform etwa! da würde er 
+               <lb xml:id="p002_tr_2_tl_4"/>von den Fliegern, Soldaten, Matrosen, Arbeitsdienstlern, 
+               <lb xml:id="p002_tr_2_tl_5"/>H.J., u. S.A.–Studenten schon erfahren, dass D. eine 
+               <lb xml:id="p002_tr_2_tl_6"/>deutsche Stadt ist (was allerdings, wie mein Kellner heute 
+               <lb xml:id="p002_tr_2_tl_7"/>mir bestätigt, von den Polen früher weder geleugnet noch 
+               <lb xml:id="p002_tr_2_tl_8"/>angegriffen wurde – jetzt aber zeigt man es ihnen, Hitler 
+               <lb xml:id="p002_tr_2_tl_9"/>sei Dank, mit eisernem Besen) Nur 4% Polen gibt 
+               <lb xml:id="p002_tr_2_tl_10"/>es – (genau wie nur 4–5 % Deutsche im deutschen 
+               <lb xml:id="p002_tr_2_tl_11"/>Baltikum, aber schliesslich sind sie dort die Eroberer,               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <pb xml:id="p003" facs="DEBUG letter_0250_003"/>
+            <milestone unit="textregion" xml:id="p003_r_29"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_2_tl_1"/> </p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+            <p> 
+               <lb xml:id="p003_tr_2_tl_1"/>Kultuträger, u. ein Herrenvolk– u. es war deshalb nur 
+               <lb xml:id="p003_tr_2_tl_2"/>richtig, dass sie die dum[m]en einheimischen Bauern 
+               <lb xml:id="p003_tr_2_tl_3"/>so recht unter der Knute zu halten mussten –) – 
+               <lb xml:id="p003_tr_2_tl_4"/>Früher sollen die roten Sozialdemokraten u. sogar die 
+               <lb xml:id="p003_tr_2_tl_5"/>Deutschnationalen hier aus Vernunftgründen <hi rendition="#u">gegen</hi> Polen 
+               <lb xml:id="p003_tr_2_tl_6"/>gewesen sein. Heute wäre das Gezücht womöglich für den 
+               <lb xml:id="p003_tr_2_tl_7"/>Feind, aber gottseidank braucht man diese Sorte von 
+               <lb xml:id="p003_tr_1_tl_1"/>vernünftiger Opposition nicht mehr, die braven S.A.Burschen 
+               <lb xml:id="p003_tr_1_tl_2"/>schaffen es auch ohne sie – u. haben sie als Vaterlands- 
+               <lb xml:id="p003_tr_1_tl_3"/>Verräter, u. die Polen als dreckige Erz-Feinde glatt 
+               <lb xml:id="p003_tr_1_tl_4"/>entlarvt – u. so wird sich der unnatürliche Zustand hier – 
+               <lb xml:id="p003_tr_1_tl_5"/><del rend="overstrike">Was sagst</del> (dass er unnatürlich ist, haben ja früher 
+               <lb xml:id="p003_tr_1_tl_6"/>selbst die Juden u. Roten zugegeben) <del rend="overstrike">wird sich</del> auf 
+               <lb xml:id="p003_tr_1_tl_7"/>friedlichem, echt deutschem. Hitler-Weg nächstens ändern! – 
+               <lb xml:id="p003_tr_1_tl_8"/>übrigens sind die Juden hier, es gab ihrer wenige, 
+               <lb xml:id="p003_tr_1_tl_9"/>gründlich ausgeschaltet – u. der Stürmer wird viel 
+               <lb xml:id="p003_tr_1_tl_10"/>verkauft, wie auch alle anderen deutschen Blätter. Aus 
+               <lb xml:id="p003_tr_1_tl_11" break="no"/>ländische Zeitungen braucht man deshalb nicht, die 
+               <lb xml:id="p003_tr_1_tl_12"/>Schlim[m]en sind ja ohnehin verboten. Mit gefällt diese 
+               <lb xml:id="p003_tr_3_tl_1"/>saubere Linie sehr, ich fühle mich so recht von Herzen 
+               <lb xml:id="p003_tr_3_tl_2"/>wohl hier. Nur dass ich aber auch niemanden von 
+               <lb xml:id="p003_tr_3_tl_3"/>Euch in erreichbarer Nähe habe, ist traurig – 
+               <lb xml:id="p003_tr_3_tl_4"/>man spricht sich doch gern mal aus – u. die alte, Treue 
+               <lb xml:id="p003_tr_3_tl_5"/>Anhänglichkeit kom[m]t mir hier dann sehr zum               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <pb xml:id="p004" facs="DEBUG letter_0250_004"/>
+            <milestone unit="textregion" xml:id="p004_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_2_tl_1"/> </p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+            <p> 
+               <lb xml:id="p004_tr_2_tl_1"/>Bewusstsein.</p>
+            <p> 
+               <lb xml:id="p004_tr_2_tl_2"/>Das Wetter ist herrlich – u. verschönt die trüben 
+               <lb xml:id="p004_tr_2_tl_3"/>Grachten, Türme und Tore – die, an sich zwar 
+               <lb xml:id="p004_tr_2_tl_4"/>prächtig, wie die gesamte stolze Stadt, ein 
+               <lb xml:id="p004_tr_2_tl_5"/>wenig gelitten haben durch die bedrohliche 
+               <lb xml:id="p004_tr_2_tl_6"/>Gegenwart – die Bevölkerung, das Strassenbild, 
+               <lb xml:id="p004_tr_2_tl_7"/>wirkt arg verarmt, erin[n]ert manchmal an 
+               <lb xml:id="p004_tr_2_tl_8"/>russische Städte.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space]</p>
+            <p> 
+               <lb xml:id="p004_tr_1_tl_1"/>Ich habe Dir doch geschrieben, dass Michel, u. offenbar 
+               <lb xml:id="p004_tr_1_tl_2"/>auch Barbara, Anfang Juni nach Schweden, 
+               <lb xml:id="p004_tr_1_tl_3"/>u. also so am 20. Juni mit mir nach 
+               <lb xml:id="p004_tr_1_tl_4"/>Zürich kom[m]en? Dan[n] feiern wir einen 
+               <lb xml:id="p004_tr_1_tl_5"/>schönen Som[m]er. vielleicht entschliesst sich 
+               <lb xml:id="p004_tr_1_tl_6"/>auch Eri, sie soll ja ein wenig som[m]erlichem 
+               <lb xml:id="p004_tr_1_tl_7"/>Berg– u. Voralpen – Luft sehr nötig haben.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_1_tl_8"/>Berichte mir doch, 
+               <lb xml:id="p004_tr_1_tl_9"/>vielleicht nach Reval, c/o Légation de France, 
+               <lb xml:id="p004_tr_1_tl_10"/>Estland (etwas 20.–25. Mai) 
+               <lb xml:id="p004_tr_1_tl_11"/>Deine Miro</p>
+</div>
+       </body>
+    </text>
+    <!--Generated on 2025-11-15T23:00:55.008115Z by https://github.dev/dse-as/workflow_IIIF-ATR-TEI using SAXON HE 12.9 from Saxonica.-->
+ </TEI>
