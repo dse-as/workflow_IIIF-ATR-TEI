@@ -23,7 +23,9 @@
   <xsl:param name="debug" static="true" as="xs:boolean" select="true()"/>
 
   <!-- TODO: remove temp fix for letter_0250 -->
-  <xsl:param name="fileName" select="if (matches((//Page)[1]/@imageFilename,'letter_0249')) then 'letter_0250' else (//Page)[1]/@imageFilename => replace('^(\w+_\d{4}).*$','$1')"/>
+  <xsl:param name="fileName" select="if (matches((//Page)[1]/@imageFilename,'letter_0249')) 
+    then 'letter_0250' (: needed for letter_0249 due to bad IIIF manifest used for Transkribus import :)
+    else (//Page)[1]/@imageFilename => replace('^(\w+_\d{4}).*$','$1')"/>
   <xsl:variable name="fileType" select="if (matches($fileName, 'letter')) then 'letter' else 'smallform'"/>
   <xsl:variable name="iiif-manifest" select="json-doc('https://iiif.annemarie-schwarzenbach.ch/presentation/'||$fileName||'.json')"/>
   
@@ -211,8 +213,7 @@
   </xsl:template>
   
   <xsl:template match="Page">
-    <!-- TODO: remove temp fix for letter_0250 -->
-    <xsl:variable name="ifn" select="if ($fileName='letter_0250') then $fileName||@imageFilename => replace('^letter_0249(_\d{3}).jpg','$1') else @imageFilename => substring-before('.')"/>
+    <xsl:variable name="ifn" select="$fileName||@imageFilename => replace('^letter_\d{4}(_\d{3}).*$','$1')"/>
     <xsl:message select="$ifn"/>
     <!--IIIF Image or Presentation URL?-->
     <xsl:variable name="pos" select="position()" as="xs:integer"/>
@@ -342,8 +343,7 @@
        ======================================== -->
   <xsl:template match="Page" mode="coords">
     <surface xml:id="{local:page-id($fileName,position())}_facs" ulx="0" uly="0" lrx="{@imageWidth}" lry="{@imageHeight}">
-      <!-- TODO: remove temp fix for letter_0250 -->
-      <xsl:variable name="ifn" select="if ($fileName='letter_0250') then $fileName||@imageFilename => replace('^letter_0249(_\d{3}).jpg','$1') else @imageFilename => substring-before('.')"/>
+      <xsl:variable name="ifn" select="$fileName||@imageFilename => replace('^letter_\d{4}(_\d{3}).*$','$1')"/>
       <graphic url="{local:get-facs-url($ifn)}" width="{@imageWidth}" height="{@imageHeight}"/>
       <xsl:variable name="pos" as="xs:integer" select="position()"/>
       <xsl:apply-templates select="TextRegion" mode="coords">
