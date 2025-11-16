@@ -210,6 +210,7 @@
   </xsl:template>
   
   <xsl:template match="Page">
+    <!-- TODO: remove temp fix for letter_0250 -->
     <xsl:variable name="ifn" select="if ($fileName='letter_0250') then $fileName||@imageFilename => replace('^letter_0249(_\d{3}).jpg','$1') else @imageFilename => substring-before('.')"/>
     <xsl:message select="$ifn"/>
     <!--IIIF Image or Presentation URL?-->
@@ -340,7 +341,9 @@
        ======================================== -->
   <xsl:template match="Page" mode="coords">
     <surface xml:id="{local:page-id($fileName,position())}_facs" ulx="0" uly="0" lrx="{@imageWidth}" lry="{@imageHeight}">
-      <graphic url="{local:get-facs-url(@imageFilename=>substring-before('.'))}" width="{@imageWidth}" height="{@imageHeight}"/>
+      <!-- TODO: remove temp fix for letter_0250 -->
+      <xsl:variable name="ifn" select="if ($fileName='letter_0250') then $fileName||@imageFilename => replace('^letter_0249(_\d{3}).jpg','$1') else @imageFilename => substring-before('.')"/>
+      <graphic url="{local:get-facs-url($ifn)}" width="{@imageWidth}" height="{@imageHeight}"/>
       <xsl:variable name="pos" as="xs:integer" select="position()"/>
       <xsl:apply-templates select="TextRegion" mode="coords">
         <xsl:with-param name="pageNr" select="$pos" tunnel="yes"/>
