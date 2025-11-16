@@ -428,7 +428,7 @@
     <xsl:sequence select="array { $maps }"/>
   </xsl:function>
   
-  <xsl:function name="local:get-facs-url" as="xs:string?">
+  <xsl:function name="local:get-facs-url" as="xs:string">
     <xsl:param name="imageFilename" as="xs:string"/>
     <xsl:sequence select="$iiif-manifest?items?*[.?label?en?*=$imageFilename]?items?*?items?*?body?id"/>
     <!--<xsl:text>DEBUG {$imageFilename}</xsl:text>-->
