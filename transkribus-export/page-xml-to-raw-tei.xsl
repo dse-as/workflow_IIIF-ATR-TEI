@@ -213,7 +213,7 @@
   </xsl:template>
   
   <xsl:template match="Page">
-    <xsl:variable name="ifn" select="$fileName||@imageFilename => replace('^letter_\d{4}(_\d{3}).*$','$1')"/>
+    <xsl:variable name="ifn" select="$fileName||@imageFilename => replace('^(letter|smallform)_\d{4}(_\d{3}).*$','$2')"/>
     <xsl:message select="$ifn"/>
     <!--IIIF Image or Presentation URL?-->
     <xsl:variable name="pos" select="position()" as="xs:integer"/>
@@ -343,7 +343,7 @@
        ======================================== -->
   <xsl:template match="Page" mode="coords">
     <surface xml:id="{local:page-id($fileName,position())}_facs" ulx="0" uly="0" lrx="{@imageWidth}" lry="{@imageHeight}">
-      <xsl:variable name="ifn" select="$fileName||@imageFilename => replace('^letter_\d{4}(_\d{3}).*$','$1')"/>
+      <xsl:variable name="ifn" select="$fileName||@imageFilename => replace('^(letter|smallform)_\d{4}(_\d{3}).*$','$2')"/>
       <graphic url="{local:get-facs-url($ifn)}" width="{@imageWidth}" height="{@imageHeight}"/>
       <xsl:variable name="pos" as="xs:integer" select="position()"/>
       <xsl:apply-templates select="TextRegion" mode="coords">
