@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0303" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0303#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0303</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0303"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0303_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0303_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_2_tl_1"/>GLOSSEN 
+               <lb xml:id="p001_tr_2_tl_2"/>NORDAMERIKANISCHES 
+               <lb xml:id="p001_tr_2_tl_3"/>DAS DRAMA DER AMERIKANISCHEN SÜDSTAATEN 
+               <lb xml:id="p001_tr_2_tl_4"/>Von Annemarie Clark</p>
+            <p> 
+               <lb xml:id="p001_tr_2_tl_5"/>Wer heute durch die Staaten des "alten Südens" reist – denn wir müssen 
+               <lb xml:id="p001_tr_2_tl_6"/>die neuern, im Südwesten gelegenen Staaten Texas und Oklahoma mit ihren 
+               <lb xml:id="p001_tr_2_tl_7"/>riesigen, von Traktoren bearbeiteten Ackerflächen ausnehmen –, wer also 
+               <lb xml:id="p001_tr_2_tl_8"/>durch den eigentlichen "schwarzen" oder "Baumwoll-Gürtel" reist, kann die 
+               <lb xml:id="p001_tr_2_tl_9"/>Anzeichen von Ruin, Degeneration und Armut nicht übersehen. Er findet 
+               <lb xml:id="p001_tr_2_tl_10"/>vornehme Plantagenhäuser im Zerfall begriffen, und in den Feldern die elenden 
+               <lb xml:id="p001_tr_2_tl_11"/>Hütten der Baumwollpächter, Hütten aus rohen Brettern, schäbige, dürftige 
+               <lb xml:id="p001_tr_2_tl_12"/>Behausungen, an denen nicht viel zu verderben ist, – er findet die Baum 
+               <lb xml:id="p001_tr_2_tl_13" break="no"/>wollfelder mit niedrigen Stauden karg bewachsen, von Unkraut durchsetzt, – 
+               <lb xml:id="p001_tr_2_tl_14"/>er findet gewelltes Land, das tiefe Erosionsrisse aufweist, als sei es von einem 
+               <lb xml:id="p001_tr_2_tl_15"/>Erdbeben heimgesucht worden, – wenn er der Route folgt, die General 
+               <lb xml:id="p001_tr_2_tl_16"/>Sherman mit seinen Unionstruppen beim berüchtigten "Marsch durch Georgia" 
+               <lb xml:id="p001_tr_1_tl_1"/>einschlug, findet er wohl auch die Spuren von Brand und gewalttätiger Ver 
+               <lb xml:id="p001_tr_1_tl_2" break="no"/>nichtung. Die Versuchung liegt nahe, diese deprimierenden Eindrücke als 
+               <lb xml:id="p001_tr_1_tl_3"/>Bestätigung hinzunehmen für das grausige Phänomen "Krieg", der den Süden 
+               <lb xml:id="p001_tr_1_tl_4"/>zu einem Land ohne Hoffnung gemacht habe, und die gänzlich verschiedenen 
+               <lb xml:id="p001_tr_1_tl_5"/>Ursachen zu übersehen, die de facto verantwortlich sind für die Degeneration 
+               <lb xml:id="p001_tr_1_tl_6"/>eines einst reichen und blühenden Landes. Es geht schon nicht an, den Gegen 
+               <lb xml:id="p001_tr_1_tl_7" break="no"/>satz zwischen dem hochindustrialisierten Norden und dem auch heute noch 
+               <lb xml:id="p001_tr_1_tl_8"/>vorwiegend agraren Süden auf die Formel "städtische" gegen "ländliche" 
+               <lb xml:id="p001_tr_1_tl_9"/>Zivilisation zu bringen oder ihn gar mit dem klassischen Gegensatz der ameri 
+               <lb xml:id="p001_tr_1_tl_10" break="no"/>kanischen Geschichte gleichzusetzen, den ein moderner Historiker das "ameri 
+               <lb xml:id="p001_tr_1_tl_11" break="no"/>kanische Paradoxon" genannt hat – den Gegensatz nämlich zwischen "Jeffer 
+               <lb xml:id="p001_tr_1_tl_12" break="no"/>sonismus" und "Hamiltonismus". Hamilton, George Washingtons erster 
+               <lb xml:id="p001_tr_1_tl_13"/>Schatzmeister, ein Indianer illegitimer Herkunft von den westindischen Inseln, 
+               <lb xml:id="p001_tr_1_tl_14"/>brachte es in New York zum Rechtsanwalt, heiratete ein Mädchen aus reicher 
+               <lb xml:id="p001_tr_1_tl_15"/>Familie, verkörperte den Typus des neuen Geldaristokraten und sah als Erster 
+               <lb xml:id="p001_tr_1_tl_16"/>fast visionär die Zukunft Amerikas voraus als eines Landes der Massen 
+               <lb xml:id="p001_tr_1_tl_17" break="no"/>produktionsindustrien, der großen Städte und des städtischen Proletariats – 
+               <lb xml:id="p001_tr_1_tl_18"/>eines Proletariats, das er verachtete, so daß er die "demokratische" Regie 
+               <lb xml:id="p001_tr_1_tl_19" break="no"/>rung der Union einer zahlenmäßig geringen Oberschicht von Großkapitalisten 
+               <lb xml:id="p001_tr_1_tl_20"/>übertragen sehen wollte. Thomas Jefferson, Humanist und Gelehrter, Washing 
+               <lb xml:id="p001_tr_1_tl_21" break="no"/>tons Staatssekretär und Hamiltons Gegenspieler, glaubte mit dem unerschütter 
+               <lb xml:id="p001_tr_1_tl_22" break="no"/>lichen Optimismus des Menschenfreunds an die Fähigkeiten und das Selbst¬               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0303_002.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_3_tl_1" break="no"/> </p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+            <p> 
+               <lb xml:id="p002_tr_3_tl_1" break="no"/>bestimmungsrecht des "gemeinen Mannes", den er sich allerdings nicht als 
+               <lb xml:id="p002_tr_3_tl_2"/>den Proletarier amerikanischer Zukunftsstädte vorstellte, sondern als den 
+               <lb xml:id="p002_tr_3_tl_3"/>Farmer, der sein Land bebaut und dieses Stück Land sein eigen nennt. Die 
+               <lb xml:id="p002_tr_3_tl_4"/>Vision Thomas Jeffersons ist als der "amerikanische Traum" in das Bewußt 
+               <lb xml:id="p002_tr_3_tl_5" break="no"/>sein der Nation eingegangen, – als Legende der Freiheit, der gleichen Chance 
+               <lb xml:id="p002_tr_3_tl_6"/>für alle, – als Formeln, die heute auf den Fahnen der Reaktion stehen und 
+               <lb xml:id="p002_tr_3_tl_7"/>ihren Sinn verloren haben, weil Hamilton recht behielt.</p>
+            <p> 
+               <lb xml:id="p002_tr_3_tl_8"/>Aber was hat der Traum des gemeinen Mannes, des freien Mannes, den 
+               <lb xml:id="p002_tr_3_tl_9"/>Jefferson an der Westgrenze seiner virginischen Heimat gekannt und dem 
+               <lb xml:id="p002_tr_3_tl_10"/>er so Großes zugetraut hatte, mit den Zuständen im "alten Süden" gemeinsam, 
+               <lb xml:id="p002_tr_3_tl_11"/>der zwar ein Agrarland war, aber doch kein Bauernland? – Die Plantage 
+               <lb xml:id="p002_tr_3_tl_12"/>war seit der Kolonialzeit so etwas wie ein ländlicher Fabrikbetrieb, wo nur 
+               <lb xml:id="p002_tr_1_tl_1"/>Reis, nur Tabak, Zucker oder Baumwolle gepflanzt und geerntet wurde. Die 
+               <lb xml:id="p002_tr_1_tl_2"/>Produkte waren einzig für den Verkauf, für den Profit bestimmt, und es 
+               <lb xml:id="p002_tr_1_tl_3"/>mußte daher, ganz wie in der Industrie, auf der Plantage der Grundsatz 
+               <lb xml:id="p002_tr_1_tl_4"/>"möglichst viel und möglichst billig" in seinem vollen Umfange gelten. – 
+               <lb xml:id="p002_tr_1_tl_5"/>"Wir können es uns nicht leisten, unsern Fabrikarbeitern Löhne von zwei 
+               <lb xml:id="p002_tr_1_tl_6"/>Dollar täglich zu bezahlen, wenn der Pflanzer im Süden für den Unterhalt 
+               <lb xml:id="p002_tr_1_tl_7"/>eines Sklaven nur zehn Cent im Tag ausgibt", erklärten republikanische 
+               <lb xml:id="p002_tr_1_tl_8"/>Redner im Norden, noch vor dem Bürgerkrieg. Das Argument war schwach, 
+               <lb xml:id="p002_tr_1_tl_9"/>denn Tageslöhne von zwei Dollar waren damals in den Fabriken des Nordens 
+               <lb xml:id="p002_tr_1_tl_10"/>ungewöhnlich hoch, während im Süden seit dem offiziellen Verbot des Sklaven 
+               <lb xml:id="p002_tr_1_tl_11" break="no"/>handels 1500 bis 2500 Dollar für einen Negersklaven bezahlt werden 
+               <lb xml:id="p002_tr_1_tl_12"/>mußten. Obwohl also die unentbehrliche Arbeitskraft der Sklaven für die 
+               <lb xml:id="p002_tr_1_tl_13"/>Plantage bereits eine schwere Belastung geworden war, erklärten die Pflanzer, 
+               <lb xml:id="p002_tr_1_tl_14"/>nachdem sie den Krieg verloren hatten, die Emanzipation der Neger ruiniere 
+               <lb xml:id="p002_tr_1_tl_15"/>das Plantagensystem, ihnen habe man ihr "Betriebskapital" geraubt und 
+               <lb xml:id="p002_tr_1_tl_16"/>den Negern habe man gerade genug Freiheit gegeben, damit sie freiwillig 
+               <lb xml:id="p002_tr_2_tl_1"/>verhungern könnten.</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_2"/>Es ist undenkbar, daß sich die kultivierten und, wie sich zeigen sollte, 
+               <lb xml:id="p002_tr_2_tl_3"/>auch geschäftlich recht versierten Pflanzeraristokraten der grausamen lronie 
+               <lb xml:id="p002_tr_2_tl_4"/>solcher Ansprüche nicht bewußt gewesen seien. Man ließ dem ehemaligen 
+               <lb xml:id="p002_tr_2_tl_5"/>Sklaven nicht einmal die Wahl, "freiwillig zu verhungern". Freiheit ohne 
+               <lb xml:id="p002_tr_2_tl_6"/>Rechte ist bekanntlich keinen roten Heller wert, und die ehemaligen Sklaven, 
+               <lb xml:id="p002_tr_2_tl_7"/>wie auch ihre Schicksalsgenossen, die "armen Weißen", die bald nach dem 
+               <lb xml:id="p002_tr_2_tl_8"/>Bürgerkrieg in den Reihen des Baumwollproletariats auftauchten, haben nie 
+               <lb xml:id="p002_tr_2_tl_9"/>die Möglichkeit erhalten, im praktischen, im akuten Fall die Hilfe des Rechts 
+               <lb xml:id="p002_tr_2_tl_10"/>zu beanspruchen, auf das sie sich theoretisch als freie Bürger eines demokra 
+               <lb xml:id="p002_tr_2_tl_11" break="no"/>tischen Staates berufen durften.</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_12"/>Man kann ohne Übertreibung sagen, daß die politische Führung der Süd 
+               <lb xml:id="p002_tr_2_tl_13" break="no"/>staaten ihre Anstrengungen während der letzten siebzig Jahre ausschließlich               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0303_003.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p003_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_2_tl_1"/> </p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+            <p> 
+               <lb xml:id="p003_tr_2_tl_1"/>darauf verwendet hat, ein politisch-soziales und ökonomisches System zu 
+               <lb xml:id="p003_tr_2_tl_2"/>errichten, das die unbedingte Vorherrschaft der weißen Rasse, oder vielmehr 
+               <lb xml:id="p003_tr_2_tl_3"/>einer weißen Oberschicht, garantieren sollte. Dies, glaubte man, sei das einzige 
+               <lb xml:id="p003_tr_2_tl_4"/>Mittel, um die besondere Zivilisation des Südens zu retten – die "Baumwoll- 
+               <lb xml:id="p003_tr_2_tl_5"/>Zivilisation" also, deren Dekadenz so weit fortgeschritten ist, daß die ernstesten 
+               <lb xml:id="p003_tr_2_tl_6"/>Zweifel darüber bestehen, ob man den unterprivilegierten, schlecht ernährten, 
+               <lb xml:id="p003_tr_2_tl_7"/>unwissenden und verseuchten "gemeinen Mann" im Süden jemals wird 
+               <lb xml:id="p003_tr_2_tl_8"/>rehabilitieren können!</p>
+            <p> 
+               <lb xml:id="p003_tr_2_tl_9"/>Aber die Haltung der Besiegten war zunächst verständlich, denn die Jahre 
+               <lb xml:id="p003_tr_2_tl_10"/>des Schreckens und der panischen Verwirrung, die dem Friedensschluß von 
+               <lb xml:id="p003_tr_2_tl_11"/>1865 folgten und, ironisch genug, die "Jahre des Aufbaus" genannt werden, 
+               <lb xml:id="p003_tr_2_tl_12"/>zeigten den Norden als einen unbrüderlichen und erbarmungslosen Sieger. 
+               <lb xml:id="p003_tr_2_tl_13"/>Das Mißtrauen der südlichen Bevölkerung gegen den "Yankee", den Fremden, 
+               <lb xml:id="p003_tr_2_tl_14"/>den Ausländer, erwies sich als berechtigt. Politische Agenten, geldgierige 
+               <lb xml:id="p003_tr_2_tl_15"/>Politiker aus dem Norden, durchweg der Republikanischen Partei angehörig, 
+               <lb xml:id="p003_tr_2_tl_16"/>überschwemmten die Südstaaten, gründeten Parteien, kauften die Stimmen 
+               <lb xml:id="p003_tr_2_tl_17"/>der ungebildeten Schwarzen und des weißen Proletariats, um ihre Kandidaten 
+               <lb xml:id="p003_tr_2_tl_18"/>wählen zu lassen. Wir finden zuverlässige Angaben darüber, daß die Staats 
+               <lb xml:id="p003_tr_2_tl_19" break="no"/>steuern von Louisiana – um nur ein Beispiel zu nennen – in vier Jahren 
+               <lb xml:id="p003_tr_2_tl_20"/>"republikanischen Regimes" um 400 Prozent stiegen, die Staatsschuld von 
+               <lb xml:id="p003_tr_2_tl_21"/>14 Millionen Dollar auf schätzungsweise zwischen 24 und 50 Millionen Dollar 
+               <lb xml:id="p003_tr_1_tl_1"/>anwuchs. Und diese für damalige Zeit enormen Summen kamen nicht etwa 
+               <lb xml:id="p003_tr_1_tl_2"/>dem Staate und der Bevölkerung von Louisiana zugute, sondern verschwanden 
+               <lb xml:id="p003_tr_1_tl_3"/>auf rätselhafte Weise – nämlich in den Taschen jener politischen Gangster.</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_4"/>Kein Wunder also, daß der Süden seither eisern demokratisch blieb, mit 
+               <lb xml:id="p003_tr_1_tl_5"/>Ausnahme natürlich der Neger, die heute noch meistens Republikaner sind. 
+               <lb xml:id="p003_tr_1_tl_6"/>Aber ihre Wahlstimmen zählen nicht mehr, denn der Vandalismus der "Auf 
+               <lb xml:id="p003_tr_1_tl_7" break="no"/>bauperiode" sollte nicht lange dauern; die südlichen Pflanzeraristokraten 
+               <lb xml:id="p003_tr_1_tl_8"/>erholten sich schnell vom ersten Schrecken der entwürdigenden Niederlage 
+               <lb xml:id="p003_tr_1_tl_9"/>das Verteidigungssystem, das sie erfanden, hat sich seither nur allzusehr 
+               <lb xml:id="p003_tr_1_tl_10"/>bewährt. Seither war es immer der Süden, der eintrat für die Rechte der 
+               <lb xml:id="p003_tr_1_tl_11"/>Einzelstaaten gegenüber der zentralen Bundesregierung. Die Rechte der 
+               <lb xml:id="p003_tr_1_tl_12"/>Staaten – das hieß Gesetzgebung und Handhabung des Gesetzes, Recht 
+               <lb xml:id="p003_tr_1_tl_13" break="no"/>sprechung, Polizei. Und nirgends ist die Zusammenarbeit und das offene oder 
+               <lb xml:id="p003_tr_1_tl_14"/>heimliche Einverständnis dieser Mächte mit den Interessen der herrschenden 
+               <lb xml:id="p003_tr_1_tl_15"/>Klasse so wirkungs- und unheilvoll geworden wie im "Königreich Baum 
+               <lb xml:id="p003_tr_1_tl_16" break="no"/>wolle".</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_17"/>Der Ersatz, den man für die Einrichtung der Sklaverei fand, hieß 
+               <lb xml:id="p003_tr_1_tl_18"/>"Sharecropping" und war ein Pachtsystem auf der Basis der Ernteteilung, 
+               <lb xml:id="p003_tr_1_tl_19"/>welches erlaubte, das farbige und weiße Baumwollproletariat in einer neuen, 
+               <lb xml:id="p003_tr_1_tl_20"/>aber keineswegs milden Form von Abhängigkeit zu halten. Der Pflanzer, der               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0303_004.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p004_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_1_tl_2"/> </p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+            <p> 
+               <lb xml:id="p004_tr_1_tl_2"/>aus dem Krieg zurückkehrte, fand verwüstete Felder vor, sein "Betriebskapital" 
+               <lb xml:id="p004_tr_1_tl_3"/>war ihm geraubt worden, seine Maultiere waren gestohlen oder getötet. Das 
+               <lb xml:id="p004_tr_1_tl_4"/>Angebot, das er seinen ehemaligen Sklaven machte, war eine Erfindung der 
+               <lb xml:id="p004_tr_1_tl_5"/>Not. Er verpachtete ihnen ein Stück Land, lieh ihnen eine Hütte, Arbeits 
+               <lb xml:id="p004_tr_1_tl_6" break="no"/>gerät, ein Maultier, und beanspruchte dafür die Abtretung einer Hälfte der 
+               <lb xml:id="p004_tr_1_tl_7"/>Baumwollernte. Weil aber die "Sharecropper" bis zur Abrechnung nach der 
+               <lb xml:id="p004_tr_1_tl_8"/>Erntezeit von irgend etwas leben mußten, erhielten sie vom "Landlord" den 
+               <lb xml:id="p004_tr_1_tl_9"/>nötigen Vorschuß in Form von Kredit im Plantagenladen. Das Sharecropping 
+               <lb xml:id="p004_tr_1_tl_10" break="no"/>system scheint zunächst weder unvernünftig, noch stellt es ungerechte und 
+               <lb xml:id="p004_tr_1_tl_11"/>exzessive Forderungen an der[sic] Partner, der nichts zu bieten hat als seine Arbeits 
+               <lb xml:id="p004_tr_1_tl_12" break="no"/>kraft. Erst die Art und Weise, wie es gehandhabt wurde, hat dieses Plan 
+               <lb xml:id="p004_tr_1_tl_13" break="no"/>tagensystem zu einem sozialen Übel gemacht, das alle Faktoren der Degene 
+               <lb xml:id="p004_tr_1_tl_14" break="no"/>ration begünstigte.</p>
+            <p> 
+               <lb xml:id="p004_tr_1_tl_15"/>Der Neger ist faul, unzuverlässig, unselbständig: es ist also nur vernünftig, 
+               <lb xml:id="p004_tr_1_tl_16"/>wenn – wie früher auf der Sklavenplantage – ein Aufseher mit Peitsche 
+               <lb xml:id="p004_tr_1_tl_17"/>und Revolver über die Felder reitet und nach dem Rechten sieht. Der Neger 
+               <lb xml:id="p004_tr_1_tl_18"/>ist ungebildet, er kann weder lesen noch rechnen noch mit Geld umgehen. 
+               <lb xml:id="p004_tr_1_tl_19"/>Es ist daher gewiß verständlich, daß der Aufseher des Landherrn zur Ernte 
+               <lb xml:id="p004_tr_1_tl_20" break="no"/>zeit die Baumwollwaage bedient, daß der Buchhalter des Landherrn die Kontos 
+               <lb xml:id="p004_tr_1_tl_21"/>der Pächter führt, und daß man ihnen kein bares Geld in die Hand gibt. 
+               <lb xml:id="p004_tr_1_tl_22"/>Übrigens haben sie fast immer ihren Kredit im Laden überschritten, wo die 
+               <lb xml:id="p004_tr_1_tl_23"/>Waren zehn bis fünfundzwanzig Prozent teurer sind als in gewöhnlichen 
+               <lb xml:id="p004_tr_1_tl_24"/>Geschäften, weil der Landherr schließlich etwas daran verdienen muß, – 
+               <lb xml:id="p004_tr_2_tl_1"/>sie haben auch ihr Maultier nicht abbezahlt oder die Doktorrechnung. Wie 
+               <lb xml:id="p004_tr_2_tl_2"/>dem auch sei – die Sharecropper sind fast immer verschuldet, und sie bleiben 
+               <lb xml:id="p004_tr_2_tl_3"/>es, von Ernte zu Ernte, von Jahr zu Jahr, von Generation zu Generation. 
+               <lb xml:id="p004_tr_2_tl_4"/>Sie essen Maisbrot, Molasse und manchmal einen Klumpen weißes Fett 
+               <lb xml:id="p004_tr_2_tl_5"/>("Sawbelly") vom Schweinebauch. Diese Ernährung ist nicht ausreichend und 
+               <lb xml:id="p004_tr_2_tl_6"/>auch nicht besonders gesund – schon die Kinder der Sharecropper haben die 
+               <lb xml:id="p004_tr_2_tl_7"/>Pellagra –, aber im Plantagensystem, im System der "Profiternte" muß das 
+               <lb xml:id="p004_tr_2_tl_8"/>Land gehörig ausgenützt werden, und man kann den Pächtern den Luxus 
+               <lb xml:id="p004_tr_2_tl_9"/>nicht gestatten, ein Stückchen dieses kostbaren Bodens etwa mit Gemüse zu 
+               <lb xml:id="p004_tr_2_tl_10"/>bepflanzen. Die Neger sind, glücklicherweise für sie und für den "Landlord", 
+               <lb xml:id="p004_tr_2_tl_11"/>genügsam, kindlich und anhänglich. Die Kinder, die mit sechs oder acht Jahren 
+               <lb xml:id="p004_tr_2_tl_12"/>ihre langen Säcke durch die blühenden Felder schleppen und schon recht flinke 
+               <lb xml:id="p004_tr_2_tl_13"/>und geschickte Pflücker abgeben, wachsen ohne viel Schulbildung auf, sie 
+               <lb xml:id="p004_tr_2_tl_14"/>übernehmen eines Tages das Maultier, die Hütte, das Feld und die Schulden 
+               <lb xml:id="p004_tr_2_tl_15"/>des Vaters und bleiben der Plantage treu.</p>
+            <p> 
+               <lb xml:id="p004_tr_2_tl_16"/>Nichts, als ob es nicht zuweilen Revolten gäbe – Revolten einzelner Neger, 
+               <lb xml:id="p004_tr_2_tl_17"/>denen ein weißer Mann die Geliebte weggenommen hat, oder der in einem 
+               <lb xml:id="p004_tr_2_tl_18"/>Neger-College lesen und rechnen lernte und nun die Skala der Waage oder               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <pb xml:id="p005" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0303_005.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p005_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p005_tr_1_tl_1"/> </p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+            <p> 
+               <lb xml:id="p005_tr_1_tl_1"/>sein Konto beim Buchhalter zu sehen verlangt – oder größere Revolten, 
+               <lb xml:id="p005_tr_1_tl_2"/>eigentliche Plantagenaufstände gegen die "reitenden Aufseher", die Buch 
+               <lb xml:id="p005_tr_1_tl_3" break="no"/>halter, die Ladeninhaber – gegen die gefürchtete und ohnmächtig gehaßte 
+               <lb xml:id="p005_tr_1_tl_4"/>Clique der weißen Bedrücker. Gegen solche Ausbrüche primitiver afrikanischer 
+               <lb xml:id="p005_tr_1_tl_5"/>Instinkte hat man sich vorgesehen: es gibt die nächtlichen Rächer des Ku-Klux- 
+               <lb xml:id="p005_tr_1_tl_6"/>Klan, es gibt den Sheriff, die Polizei, die Gefängnisse für Kettensträflinge 
+               <lb xml:id="p005_tr_1_tl_7"/>– und es gibt die Lynchjustiz. Terror sucht die Hütten der Schwarzen heim, 
+               <lb xml:id="p005_tr_1_tl_8"/>und Ruhe und Ordnung sind bald wieder hergestellt.</p>
+            <p> 
+               <lb xml:id="p005_tr_1_tl_9"/>Der Weiße, der mit so grausamen Methoden den Neger in Abhängigkeit 
+               <lb xml:id="p005_tr_1_tl_10"/>und Schrecken erhält, fürchtet offenbar die andere Rasse mehr, als er sie 
+               <lb xml:id="p005_tr_1_tl_11"/>verachtet. Er beruft sich auf die wirtschaftliche Untüchtigkeit des Negers und 
+               <lb xml:id="p005_tr_1_tl_12"/>auf seine moralischen Defekte, um die unwürdigen Verteidigungswaffen zu 
+               <lb xml:id="p005_tr_1_tl_13"/>rechtfertigen, derer er sich bedient. Er führt auch an, daß es in einigen Gegen 
+               <lb xml:id="p005_tr_1_tl_14" break="no"/>den Alabamas bis zu 80 Prozent Neger gibt, daß die Bevölkerung des Staates 
+               <lb xml:id="p005_tr_1_tl_15"/>Mississippi aus 50,2 Prozent Negern und nur 49,8 Prozend Weißen besteht, 
+               <lb xml:id="p005_tr_1_tl_16"/>daß der Anteil der Neger an der Bevölkerung der Staaten Alamba, Georgia, 
+               <lb xml:id="p005_tr_1_tl_17"/>Arkansas, Florida, Nord- und Südkarolina schwankt zwischen 25 Prozent 
+               <lb xml:id="p005_tr_1_tl_18"/>und mindestens 37 Prozent. Aber, wenn es sich um die Verteidigung und 
+               <lb xml:id="p005_tr_1_tl_19"/>den Anspruch einer höheren Rasse handelt – nicht um einen Klassenkampf 
+               <lb xml:id="p005_tr_1_tl_20"/>also –, wie ist es dann zu erklären, daß die große Zahl der weißen Share 
+               <lb xml:id="p005_tr_1_tl_21" break="no"/>cropper auf den Plantagen unter den gleichen Bedingungen leben muß wie 
+               <lb xml:id="p005_tr_1_tl_22"/>die Neger, in der gleichen Abhängigkeit, in der gleichen Armut? – Selbst 
+               <lb xml:id="p005_tr_1_tl_23"/>wenn man das amerikanische Argument der "Rassendifferenzen" in seinem 
+               <lb xml:id="p005_tr_2_tl_1"/>engsten Sinne gelten ließe und einen Unterschied machen wollte zwischen 
+               <lb xml:id="p005_tr_2_tl_2"/>dem alten, angelsächsischen Stock und der bunten Mischung der neueren Ein 
+               <lb xml:id="p005_tr_2_tl_3" break="no"/>wanderer: – die weißen Sharecropper im Süden sind weder Italiener noch 
+               <lb xml:id="p005_tr_2_tl_4"/>Polen oder Ungarn, sie sind mindestens ebenso reinblütige Angelsachsen wie 
+               <lb xml:id="p005_tr_2_tl_5"/>ihre Herren. Und doch sprechen diese von ihnen noch verächtlicher, mit noch 
+               <lb xml:id="p005_tr_2_tl_6"/>weniger Nachsicht als von den "Niggers" und haben für sie die beiden tief 
+               <lb xml:id="p005_tr_2_tl_7"/>entwürdigenden Namen "arme Weiße" und "weißer Abschaum" erfunden ...</p>
+            <p> 
+               <lb xml:id="p005_tr_2_tl_8"/>Vor einigen Jahren gründete eine Handvoll mutiger Männer und Frauen 
+               <lb xml:id="p005_tr_2_tl_9"/>dieser entrechteten Klasse eine Art von ländlicher Gewerkschaft, die sich die 
+               <lb xml:id="p005_tr_2_tl_10"/>"Union der Farmpächter des Südens" (Southern Tenant Farmers Union) nennt. 
+               <lb xml:id="p005_tr_2_tl_11"/>Nicht so ganz abgestumpft und resigniert wie die meisten ihrer Schicksals 
+               <lb xml:id="p005_tr_2_tl_12" break="no"/>genossen, waren sie offenbar noch imstande, den revolutionären Hauch zu 
+               <lb xml:id="p005_tr_2_tl_13"/>spüren, der seit der großen Wirtschaftskrise über den Baumwollfeldern der 
+               <lb xml:id="p005_tr_2_tl_14"/>Plantagen weht. Weiße und Farbige gehören dieser Union an, und es ist ihr 
+               <lb xml:id="p005_tr_2_tl_15"/>erstes Ziel, die beiden Rassen miteinander zu versöhnen, sie davon zu über 
+               <lb xml:id="p005_tr_2_tl_16" break="no"/>zeugen, daß ihre traditionelle Feindschaft nur dazu dient, die Macht des 
+               <lb xml:id="p005_tr_2_tl_17"/>"Landlords", des gemeinsamen Ausbeuters und Bedrückers, zu stärken. Die 
+               <lb xml:id="p005_tr_2_tl_18"/>Erfolge der kleinen Organisation waren gering, der traditionelle Haß sitzt tief,               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <pb xml:id="p006" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0303_006.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p006_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p006_tr_1_tl_1"/> </p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+            <p> 
+               <lb xml:id="p006_tr_1_tl_1"/>Brotneid unterstützt ihn – und den Farbigen zu verachten, ist fast das einzige 
+               <lb xml:id="p006_tr_1_tl_2"/>Privileg, das dem "armen Weissen" verblieben ist. Und wie sollten die in 
+               <lb xml:id="p006_tr_1_tl_3"/>einsamen Hütten isolierten Sharecropper sich erfolgreich wehren gegen die 
+               <lb xml:id="p006_tr_1_tl_4"/>wohlorganisierten Kräfte der Pflanzer, gegen die Richter, die Urteile, die 
+               <lb xml:id="p006_tr_1_tl_5"/>Polizei? </p>
+            <p> 
+               <lb xml:id="p006_tr_1_tl_6"/>Konservative Kreise führen gegen die "armen Weißen" die gleichen Argu 
+               <lb xml:id="p006_tr_1_tl_7" break="no"/>mente an wie gegen die Neger – "diesen Leuten ist nicht zu helfen", hört 
+               <lb xml:id="p006_tr_1_tl_8"/>man –, "sie sind unselbständig, sie können mit Bargeld nicht umgehen, sie 
+               <lb xml:id="p006_tr_1_tl_9"/>kennen keine Moralbegriffe, sie sind degeneriert und verseucht mit Pellagra 
+               <lb xml:id="p006_tr_1_tl_10"/>und Malaria. Mit Bildung verdirbt man sie nur. Sie sind am glücklichsten, 
+               <lb xml:id="p006_tr_1_tl_11"/>wenn man sie da läßt, wo sie hingehören." – Warum sind sie unselbständig? 
+               <lb xml:id="p006_tr_1_tl_12"/>Warum haben sie nicht gelernt, mit Bargeld umzugehen? Warum sind sie 
+               <lb xml:id="p006_tr_1_tl_13"/>degeneriert und verseucht? – Die Schamlosigkeit solcher Argumente liegt auf 
+               <lb xml:id="p006_tr_1_tl_14"/>der Hand.</p>
+            <p> 
+               <lb xml:id="p006_tr_1_tl_15"/>Aber während noch vor wenigen Jahren die Zustände, wie sie durch das 
+               <lb xml:id="p006_tr_1_tl_16"/>Plantagensystem geschaffen wurden, unabänderlich schienen, weil die Baum 
+               <lb xml:id="p006_tr_1_tl_17" break="no"/>wolle das Land ökonomisch beherrschte und nur mit Hilfe dieses Systems auf 
+               <lb xml:id="p006_tr_1_tl_18"/>lohnende Weise gewonnen werden konnte, ist heute die Entthronung des 
+               <lb xml:id="p006_tr_1_tl_19"/>"Königs Baumwolle" bereits Tatsache geworden. Die Regierung hat seit den 
+               <lb xml:id="p006_tr_1_tl_20"/>ersten Dringlichkeitsmaßnahmen der Ära Roosevelt, seit den Programmen 
+               <lb xml:id="p006_tr_1_tl_21"/>"NRA" und "AAA", nicht aufgehört, sich mit dem Problem des Südens zu 
+               <lb xml:id="p006_tr_1_tl_22"/>befassen. Seit dem Tiefpunkt der Wirtschaftskrise, als die Baumwolle noch 
+               <lb xml:id="p006_tr_1_tl_23"/>fünf und sechs Cent das Pfund eintrug, ein Teil der Ernte vernichtet, ein Teil 
+               <lb xml:id="p006_tr_1_tl_24"/>der schon bestellten Felder umgepflügt werden mußte, haben sich wohl die 
+               <lb xml:id="p006_tr_1_tl_25"/>Baumwollpreise erholt, aber es zeigte sich immer deutlicher, daß die Krise im 
+               <lb xml:id="p006_tr_2_tl_1"/>Süden keine vorübergehende und limitierte war. Die Seuche des "Bollweevil", 
+               <lb xml:id="p006_tr_2_tl_2"/>die viele Plantagen ruinierte, wurde wie ein Fingerzeig Gottes empfunden, man 
+               <lb xml:id="p006_tr_2_tl_3"/>errichtete ihr in einer Landstadt in Georgia ein Denkmal. Intelligente Pflanzer 
+               <lb xml:id="p006_tr_2_tl_4"/>begannen die Baumwolle durch Pecan- und Erdnüsse, Pfirsiche, Fichtenholz zu 
+               <lb xml:id="p006_tr_2_tl_5"/>ersetzen. Die landwirtschaftlichen Unterstützungsbehörden siedelten verschuldete 
+               <lb xml:id="p006_tr_2_tl_6"/>Sharecropper auf gutem Land an, gaben ihnen Darlehen und lehrten sie, das 
+               <lb xml:id="p006_tr_2_tl_7"/>Land nach einem kollektiven Plan zu bebauen. Statt Baumwolle für den Ver 
+               <lb xml:id="p006_tr_2_tl_8" break="no"/>kauf wurden Gemüse und Obst, Kartoffeln und Getreide für den eigenen 
+               <lb xml:id="p006_tr_2_tl_9"/>Bedarf angepflanzt. Der Erfolg solcher Siedlungen, etwa der "Pine Mountain 
+               <lb xml:id="p006_tr_2_tl_10"/>Valley Community" im Staate Georgia, beweist, daß die "hoffnungslos de 
+               <lb xml:id="p006_tr_2_tl_11" break="no"/>generierten" Sharecropper zu verantwortlichen und selbständigen Bauern ge 
+               <lb xml:id="p006_tr_2_tl_12" break="no"/>macht werden können, wenn man ihnen nur die Gelegenheit dazu gibt. Eine 
+               <lb xml:id="p006_tr_2_tl_13"/>ausgezeichnete Studie über die Zustände in zwei Landschaften des Staates 
+               <lb xml:id="p006_tr_2_tl_14"/>Georgia, Green und Macon County, trägt den Titel "Preface to Peasantry", 
+               <lb xml:id="p006_tr_2_tl_15"/>was, frei übersetzt, etwa "Übergang zum Bauerntum" heißen könnte. Dieser 
+               <lb xml:id="p006_tr_2_tl_16"/>Titel drückt aus, was die amerikanische Regierung als Lösung des Landproblems               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <pb xml:id="p007" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0303_007.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p007_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p007_tr_3_tl_1"/> </p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+            <p> 
+               <lb xml:id="p007_tr_3_tl_1"/>im Süden voraussieht: die Rückkehr zum Ideal Thomas Jeffersons, zum ameri 
+               <lb xml:id="p007_tr_3_tl_2" break="no"/>kanischen Traum.</p>
+            <p> 
+               <lb xml:id="p007_tr_3_tl_3"/>Aber inzwischen vollzieht sich in den Südstaaten ein anderer Vorgang von 
+               <lb xml:id="p007_tr_3_tl_4"/>noch nicht abzusehender Bedeutung, der schon einmal den Traum des gemeinen 
+               <lb xml:id="p007_tr_3_tl_5"/>Mannes zerstört, seine Freiheit imaginär gemacht, die demokratischen Ideale 
+               <lb xml:id="p007_tr_3_tl_6"/>ad absurdum geführt hat: der Einbruch der Industrie. Während der hoch 
+               <lb xml:id="p007_tr_3_tl_7" break="no"/>industrialisierte Norden längst in die Phase des Klassenkampfs eingetreten ist 
+               <lb xml:id="p007_tr_3_tl_8"/>und sich heute mit einer mächtig anwachsenden Arbeiterbewegung auseinander 
+               <lb xml:id="p007_tr_3_tl_9" break="no"/>zusetzen hat, herrschen in den Südstaaten jene Zustände vor, die einem seiner 
+               <lb xml:id="p007_tr_3_tl_10"/>sozialen Verantwortung noch nicht bewußten Unternehmertum wünschenswert 
+               <lb xml:id="p007_tr_3_tl_11"/>erscheinen. Ein ländliches Proletariat, gespalten und geschwächt durch den 
+               <lb xml:id="p007_tr_3_tl_12"/>Gegensatz zweier Rassen, bietet Reserven an billiger Arbeitskraft, die um so 
+               <lb xml:id="p007_tr_1_tl_1"/>leichter auszubeuten sind, als es diesem ungebildeten und an wirtschaftliche 
+               <lb xml:id="p007_tr_1_tl_2"/>Abhängigkeit und soziale Unterdrückung gewohnten Proletariat an Klassen 
+               <lb xml:id="p007_tr_1_tl_3" break="no"/>gefühl, Solidarität und Organisation gebricht. Mit dem Niedergang der Baum 
+               <lb xml:id="p007_tr_1_tl_4" break="no"/>wolle setzte in den zwanziger Jahren eine "Exodus"-Bewegung der Baumwoll 
+               <lb xml:id="p007_tr_1_tl_5" break="no"/>pächter und -pflücker ein – aber während der klassische amerikanische Pionier 
+               <lb xml:id="p007_tr_1_tl_6"/>einst auszog, um etwas zu <hi rendition="#i">erobern</hi>, verließen diese Leute ihre Felder, um vor 
+               <lb xml:id="p007_tr_1_tl_7"/>etwas zu <hi rendition="#i">fliehen</hi>. Hunger und Elend trieb sie auf die Landstraße, wo sie das 
+               <lb xml:id="p007_tr_1_tl_8"/>Heer der amerikanischen "Wanderarbeiter" vergrößern – in die Städte, wo 
+               <lb xml:id="p007_tr_1_tl_9"/>sie die Zahl der Arbeitslosen vermehren. Die Südstaaten sind arm, sie brauchen 
+               <lb xml:id="p007_tr_1_tl_10"/>Kapital, und sie bieten dem Unternehmer aus dem Norden, der sein Geld 
+               <lb xml:id="p007_tr_1_tl_11"/>investieren und Fabriken bauen will, alle erdenklichen Erleichterungen von 
+               <lb xml:id="p007_tr_1_tl_12"/>freien Grundstücken und niedrigen Steuern bis zum Schutz der Obrigkeit. Nicht, 
+               <lb xml:id="p007_tr_1_tl_13"/>als ob es im Süden vorher keinerlei Industrien gegeben hätte: Die Umgebung 
+               <lb xml:id="p007_tr_1_tl_14"/>von Charlotte im Staate North Carolina ist eines der dichtesten Textilgebiete 
+               <lb xml:id="p007_tr_1_tl_15"/>der Vereinigten Staaten; in Tennessee gibt es alte Kohlengruben; Columbus, 
+               <lb xml:id="p007_tr_1_tl_16"/>Georgia Baumwollspinnereien, die schon vor dem Bürgerkrieg entstanden sind; 
+               <lb xml:id="p007_tr_1_tl_17"/>der Stahlstadt Birmingham wurde von ihren Gründern vorausgesagt, daß sie 
+               <lb xml:id="p007_tr_2_tl_1"/>Pittsburgh in Schatten stellen und Alabama zum industriellen Zentrum des 
+               <lb xml:id="p007_tr_2_tl_2"/>Erdballs machen würden. Aber obwohl Kohle und Roherz im Überfluß vor 
+               <lb xml:id="p007_tr_2_tl_3" break="no"/>handen waren und Birmingham in den 69 Jahren seines Bestehens zu einer 
+               <lb xml:id="p007_tr_2_tl_4"/>Industriestadt von einer Viertelmillion Einwohnern angewachsen ist, haben 
+               <lb xml:id="p007_tr_2_tl_5"/>sich die Prophezeiungen nicht erfüllt: Birmingham, "city of perpetual promise", 
+               <lb xml:id="p007_tr_2_tl_6"/>ist heute eine der ärmsten Städte Amerikas. Wie sollen seine potentiellen 
+               <lb xml:id="p007_tr_2_tl_7"/>Reichtümer greifbar und sichtbar werden, wenn die große Mehrzahl derer, 
+               <lb xml:id="p007_tr_2_tl_8"/>die an ihrer Erzeugung beteiligt sind, in bitterer Armut leben müssen?</p>
+            <p> 
+               <lb xml:id="p007_tr_2_tl_9"/>Ähnlich steht es überall, wo im Süden Fabrikschlote rauchen und wo in 
+               <lb xml:id="p007_tr_2_tl_10"/>düsteren und elenden Arbeitersiedlungen Männer, Frauen und Kinder unter 
+               <lb xml:id="p007_tr_2_tl_11"/>dem Druck eines Systems zu leben gezwungen sind, das dem Plantagensystem 
+               <lb xml:id="p007_tr_2_tl_12"/>überraschend gleicht. Grund und Boden im "Fabrikdorf" gehören der Gesell¬               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <pb xml:id="p008" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0303_008.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p008_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p008_tr_1_tl_1" break="no"/> </p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+            <p> 
+               <lb xml:id="p008_tr_1_tl_1" break="no"/>schaft, ihr gehört das Haus, das der Arbeiter bewohnt, der Laden, wo er ein 
+               <lb xml:id="p008_tr_1_tl_2" break="no"/>kauft, Wasser, Holz und Elektrizität, die er verbraucht, – ihre Privatpolizei 
+               <lb xml:id="p008_tr_1_tl_3"/>hält die Ordnung im Fabrikdorf aufrecht. Diese Ordnunng kann ein wenig 
+               <lb xml:id="p008_tr_1_tl_4"/>besser oder schlechter sein, strenger oder lockerer gehandhabt werden – doch 
+               <lb xml:id="p008_tr_1_tl_5"/>ändern solche Unterschiede nichts an der Tatsache, daß die Gesellschaft über 
+               <lb xml:id="p008_tr_1_tl_6"/>Leben und Eigentum ihrer Arbeiter verfügt. Eine amerikanische Wochenzeitung 
+               <lb xml:id="p008_tr_1_tl_7"/>berichtete vor einigen Monaten in sensationeller Aufmachung über die leeren 
+               <lb xml:id="p008_tr_1_tl_8"/>Lohnkuverte von Arbeitern, die von Woche zu Woche und manchmal jahre 
+               <lb xml:id="p008_tr_1_tl_9" break="no"/>lang an die Gesellschaft verschuldet blieben, keinen Barlohn erhielten und ein 
+               <lb xml:id="p008_tr_1_tl_10"/>Dasein praktischer Sklaverei führten wie der Sharecropper auf der Plantage.</p>
+            <p> 
+               <lb xml:id="p008_tr_1_tl_11"/>Es wird von diesen Tatsachen, die doch dem amerikanischen Ideal auf das 
+               <lb xml:id="p008_tr_1_tl_12"/>krasseste widersprechen, nicht viel Aufsehens gemacht – die romantisch- 
+               <lb xml:id="p008_tr_1_tl_13"/>mitleidige Popularisierung, die der arme Sharecropper eines in langsamer Auf 
+               <lb xml:id="p008_tr_1_tl_14" break="no"/>lösung begriffenen Plantagensystems erfahren hat, darf dem Industriearbeiter 
+               <lb xml:id="p008_tr_1_tl_15"/>nicht gegönnt werden, weil seine billige Arbeitskraft noch oder gerade jetzt 
+               <lb xml:id="p008_tr_1_tl_16"/>nützlich ist. Dank einer tief eingewurzelten Sklavenpsychologie heißen die kon 
+               <lb xml:id="p008_tr_1_tl_17" break="no"/>servativen Demokraten die Zustände im Fabrikdorf gut; dank dieser Psychologie 
+               <lb xml:id="p008_tr_1_tl_18"/>war es möglich, im Süden ein System wirtschaftlicher Ausbeutung und sozialer 
+               <lb xml:id="p008_tr_1_tl_19"/>Unterdrückung aufrechtzuerhalten. Und eben dieses System übt heute so große 
+               <lb xml:id="p008_tr_1_tl_20"/>Anziehung aus auf das Kapital des Nordens – des Nordens, der einmal einen 
+               <lb xml:id="p008_tr_1_tl_21"/>Krieg gewann im Namen eines hohen humanen Zieles, der Sklavenbefreiung!</p>
+            <p> 
+               <lb xml:id="p008_tr_2_tl_1"/>Es mag einige altmodische südliche Aristokraten geben, welche die bittere 
+               <lb xml:id="p008_tr_2_tl_2"/>lronie dieses Vorgangs empfinden – und es gibt viele, die darin eine neue 
+               <lb xml:id="p008_tr_2_tl_3"/>Phase der traditionellen Ausbeutung des Südens durch den kapitalkräftigen 
+               <lb xml:id="p008_tr_2_tl_4"/>Yankee betrachten. Henry Ford besitzt eine Fabrik in Memphis, Tennessee. 
+               <lb xml:id="p008_tr_2_tl_5"/>Die Goodyear-Gesellschaft hat ihre Autoreifenwerke nach Gadsden, Alabama, 
+               <lb xml:id="p008_tr_2_tl_6"/>verlegt. Über ein Dutzend neuer Papiermühlen und mehrere Kunstseiden 
+               <lb xml:id="p008_tr_2_tl_7" break="no"/>fabriken wurden während der letzten Jahre in den Südstaaten in Betrieb ge 
+               <lb xml:id="p008_tr_2_tl_8" break="no"/>nommen – finanziert mit Kapital aus dem Norden. Neue Webereien und 
+               <lb xml:id="p008_tr_2_tl_9"/>Spinnereien machen den alten "Baumwollmühlen" Konkurrenz – um ihr 
+               <lb xml:id="p008_tr_2_tl_10"/>gewachsen zu sein, muß man mehr und billiger produzieren, man muß sparen 
+               <lb xml:id="p008_tr_2_tl_11"/>an neuen Einrichtungen in den Fabriksälen, an Verbesserungen in den Arbeiter 
+               <lb xml:id="p008_tr_2_tl_12" break="no"/>siedlungen – sparen vor allem an Löhnen und "Händen".</p>
+            <p> 
+               <lb xml:id="p008_tr_2_tl_13"/>In den Zeitraum weniger Jahre gedrängt, wiederholt sich im amerikanischen 
+               <lb xml:id="p008_tr_2_tl_14"/>Süden der dramatische Vorgang der Industrialisierung. Was aber in England, 
+               <lb xml:id="p008_tr_2_tl_15"/>Frankreich, im Nordosten der Vereinigten Staaten ein Jahrhundert stetiger 
+               <lb xml:id="p008_tr_2_tl_16"/>Entwicklung beansprucht hat, geschieht hier mit der Plötzlichkeit einer Ex 
+               <lb xml:id="p008_tr_2_tl_17" break="no"/>plosion. Der jungen Arbeiterbewegung des Südens steht von der Stunde ihrer 
+               <lb xml:id="p008_tr_2_tl_18"/>Geburt an die Erfahrung, Theorie und taktische Kenntnis zur Verfügung, die 
+               <lb xml:id="p008_tr_2_tl_19"/>während des 19. und 20. Jahrhunderts in zähen Kämpfen an anderer Stelle 
+               <lb xml:id="p008_tr_2_tl_20"/>gesammelt und erworben wurde.</p>
+
+            <pb xml:id="p009" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0303_009.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p009_r"/>            <p> 
+               <lb xml:id="p009_tr_2_tl_1"/>Die Textilindustrie Neu-Englands beklagt sich heute über die unlautere 
+               <lb xml:id="p009_tr_2_tl_2"/>Konkurrenz der Unternehmer, die ihr Kapital im Süden investieren und die 
+               <lb xml:id="p009_tr_2_tl_3"/>billige Arbeitskraft in jenen Staaten ausbeuten können, ohne von den Gewerk 
+               <lb xml:id="p009_tr_2_tl_4" break="no"/>schaften belästigt, von Streiks bedroht zu werden. Die Politiker der Südstaaten 
+               <lb xml:id="p009_tr_2_tl_5"/>haben die Wage-Hour-Bill abgelehnt, weil durch dieses Gesetz die Lohnskalen 
+               <lb xml:id="p009_tr_2_tl_6"/>ausgeglichen worden wären und der Süden sein fragwürdiges Privileg der 
+               <lb xml:id="p009_tr_2_tl_7"/>niedrigen Löhne eingebüßt hätte. Daß es fragwürdig ist, hat sich bereits her 
+               <lb xml:id="p009_tr_2_tl_8" break="no"/>ausgestellt: in einigen Staaten erwacht die Erkenntnis, daß nicht nur ihre 
+               <lb xml:id="p009_tr_2_tl_9"/>Arbeiterklasse ausgebeutet werde, daß vielmehr diese Ausbeutung das ganze 
+               <lb xml:id="p009_tr_2_tl_10"/>Land teuer zu stehen komme und ihm einen äußerst niedrigen Lebensstandard 
+               <lb xml:id="p009_tr_2_tl_11"/>aufzwinge – daß eine arme Bevölkerung den Staat nicht reich mache – daß 
+               <lb xml:id="p009_tr_2_tl_12"/>die Mädchen, die man mit vierzehn Jahren in die Fabriken schickt, die Mütter 
+               <lb xml:id="p009_tr_2_tl_13"/>einer geschwächten und unterprivilegierten Generation werden müssen. – 
+               <lb xml:id="p009_tr_2_tl_14"/>Aber mit dem Kapital aus dem Norden kommen die ersten Gewerkschafts 
+               <lb xml:id="p009_tr_2_tl_15" break="no"/>organisatoren. Wo sich in neuen Industriezentren ein Arbeiterproletariat an 
+               <lb xml:id="p009_tr_2_tl_16" break="no"/>sammelt, ist die Gelegenheit da, diese Massen zu erziehen und zu politisieren, 
+               <lb xml:id="p009_tr_2_tl_17"/>in ihnen ein gemeinsames Klassenbewußtsein zu wecken – sie zu <hi rendition="#i">organisieren</hi>. 
+               <lb xml:id="p009_tr_2_tl_18"/>Und schon wurde diese wirksamste Waffe der Arbeiterbewegung, die Gewerk 
+               <lb xml:id="p009_tr_2_tl_19" break="no"/>schaft, verwendet, um den Kampf zu eröffnen.</p>
+            <p> 
+               <lb xml:id="p009_tr_1_tl_1"/>Die "Union der Farmpächter des Südens", vor wenigen Jahren noch eine 
+               <lb xml:id="p009_tr_1_tl_2"/>grausam verfolgte, machtlose, verlorene Schar, hat sich im Herbst 1937 dem 
+               <lb xml:id="p009_tr_1_tl_3"/>"Comité für Industrie-Organisation" angeschlossen – und dieses wenig be 
+               <lb xml:id="p009_tr_1_tl_4" break="no"/>achtete Ereignis hatte symptomatische Bedeutung. Der Ku-Klux-Klan, Geheim 
+               <lb xml:id="p009_tr_1_tl_5" break="no"/>bund fanatischen Rassenhasses, verantwortlich für unzählige Lynchmorde an 
+               <lb xml:id="p009_tr_1_tl_6"/>wehrlosen, terrorisierten Schwarzen, hat in dem "CIO" (Comité für Industrie- 
+               <lb xml:id="p009_tr_1_tl_7"/>Organisation) einen neuen, würdigeren Gegner gefunden. Der Präsident des 
+               <lb xml:id="p009_tr_1_tl_8"/>"CIO" und der mächtigste Arbeiterführer Amerikas, John L. Lewis, hat un 
+               <lb xml:id="p009_tr_1_tl_9" break="no"/>mittelbar nach dem gigantischen Streik in der Automobilindustrie eine Kam 
+               <lb xml:id="p009_tr_1_tl_10" break="no"/>pagne in den Textilzentren des Südens durchgeführt. Die Industrialisierung, 
+               <lb xml:id="p009_tr_1_tl_11"/>die als ungeheuerliches Glücksspiel der Ausbeutung begann, hat heute den 
+               <lb xml:id="p009_tr_1_tl_12"/>Süden zum aktuellsten Kampffeld der amerikanischen Arbeiterbewegung ge 
+               <lb xml:id="p009_tr_1_tl_13" break="no"/>macht. Der Kampf wird mit brutalen Mitteln geführt. Die Fälle von Gewalt, 
+               <lb xml:id="p009_tr_1_tl_14"/>Einschüchterung, Provokation, Bestechung häufen sich in den Archiven des 
+               <lb xml:id="p009_tr_1_tl_15"/>Arbeitsschiedsgerichts in Washington. Die Befürchtung ist nicht unbegründet, 
+               <lb xml:id="p009_tr_1_tl_16"/>daß in jenem rückständigen und mißbrauchten Land die Impulse primitiver und 
+               <lb xml:id="p009_tr_1_tl_17"/>heftiger, die Gefühle erbitterter, die Ziele revolutionärer werden könnten als 
+               <lb xml:id="p009_tr_1_tl_18"/>in andern Teilen der Vereinigten Staaten. Die Agrarökonomen geben die Hoff 
+               <lb xml:id="p009_tr_1_tl_19" break="no"/>nung nicht auf, daß der Süden in ein Bauernland verwandelt werden könne, 
+               <lb xml:id="p009_tr_1_tl_20"/>und bestehen darauf, daß der Boden, die Felder, die Weiden, die Wälder sein 
+               <lb xml:id="p009_tr_1_tl_21"/>eigentlicher Zukunftsreichtum seien. Zweifellos haben die Veränderungen, die 
+               <lb xml:id="p009_tr_1_tl_22"/>durch den Niedergang der Baumwolle und das Ende des Plantagensystems her¬               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <pb xml:id="p010" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0303_010.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p010_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p010_tr_1_tl_1" break="no"/> </p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+            <p> 
+               <lb xml:id="p010_tr_1_tl_1" break="no"/>vorgerufen wurden, ebenso tiefgreifende Wirkungen und nicht weniger revo 
+               <lb xml:id="p010_tr_1_tl_2" break="no"/>lutionären Charakter als die Vorgänge der Industrialisierung. Niemand kann 
+               <lb xml:id="p010_tr_1_tl_3"/>heute voraussehen, wohin diese zweifache Revolution führen wird, aber es 
+               <lb xml:id="p010_tr_1_tl_4"/>steht schon fest, daß sie die Stunde des "vergessenen Mannes" des Südens ist, 
+               <lb xml:id="p010_tr_1_tl_5"/>und daß sie, auf welchem Wege auch immer, enden muß mit seiner Rehabili 
+               <lb xml:id="p010_tr_1_tl_6" break="no"/>tierung.</p>
+
+            <milestone unit="textregion" xml:id="p010_tr_2"/></div>
+       </body>
+    </text>
+ </TEI>
