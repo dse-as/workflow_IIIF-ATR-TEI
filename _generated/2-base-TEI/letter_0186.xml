@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0186" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0186#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0186</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0186_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415673/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Leopoldville, Congo Belge, 
+               <lb xml:id="p001_tr_1_tl_2"/>chez M. Orlandi, Consul de Suisse 
+               <lb xml:id="p001_tr_1_tl_3"/>22. Novembre 1941</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_4"/>Eri, Geliebtes, – ich habe gehört, dass Du schon vor ettlichen 
+               <lb xml:id="p001_tr_1_tl_5"/>Wochen aus London zurückgekommen bist, – dass wir Dich, wo man die Abende 
+               <lb xml:id="p001_tr_1_tl_6"/>am Londoner Radio verbringt, nie gehört haben, ist kränkend, doch wozu soll 
+               <lb xml:id="p001_tr_1_tl_7" break="no"/>ten die deutschsprachigen Sendungen auch nach Afrika dirigiert werden! 
+               <lb xml:id="p001_tr_1_tl_8"/>Man hat genug damit zu tun, das afrikanische Dunkel in den Landessprachen [gemeint sind vermutlich die Landessprachen der beiden Kolonialmächte Frankreich und Belgien, d.h. Französisch und Flämisch, nicht die tatsächlichen, indigenen Landessprachen des Kongos, Lingala, Swahili, Tshiluba und Kikongo ya leta. Diese wertet Schwarzenbach rassistisch ab, s.u.] 
+               <lb xml:id="p001_tr_1_tl_9"/>ein wenig aufzuhellen ... Für mich wird, es, über einige persönlich erlittene 
+               <lb xml:id="p001_tr_1_tl_10"/>Unbill hinaus (die mich nicht wirklich verletzt hat) die denkwürdige Erfah 
+               <lb xml:id="p001_tr_1_tl_11" break="no"/>rung dieses Aufenthaltes in der Wildnis bleiben, dass selbst der Krieg, 
+               <lb xml:id="p001_tr_1_tl_12"/>der doch kein ausserordentliches, sondern höchst reguläres, vorauszusehen 
+               <lb xml:id="p001_tr_1_tl_13" break="no"/>des Ereignis war, der alles ans Tageslicht brachte und Keinen verschonte, – 
+               <lb xml:id="p001_tr_1_tl_14"/>dass selbst dieser Krieg die Menschen dies- und jenseits der Linien so 
+               <lb xml:id="p001_tr_1_tl_15"/>wenig verändert und zu den ärmlichsten, kurzfristigen Zwecken missbraucht 
+               <lb xml:id="p001_tr_1_tl_16"/>werden kann.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_17"/>Natürlich bin ich keine Jeanne d'Arc von Natur, – was auch ein Freund von 
+               <lb xml:id="p001_tr_1_tl_18"/>mir, ein sogenannter, und Kollege von Michael Huxley, darüber denken mag. 
+               <lb xml:id="p001_tr_1_tl_19"/>(Er stellte mir nämlich beharrlich die Frage, was ich aus dem bösen Klima 
+               <lb xml:id="p001_tr_1_tl_20"/>herausschlagen wolle für mich, denn freiwillig, nur aus Uebermut und 
+               <lb xml:id="p001_tr_1_tl_21"/>'Idealismus', handle so doch kein vernünftiger Mensch) – Es kann sein, 
+               <lb xml:id="p001_tr_1_tl_22"/>dass ich wirklich aus Uebermut handelte, denn ich könnte nicht mit einem 
+               <lb xml:id="p001_tr_1_tl_23"/>dummdreisten Hauptmann um eine Uniform streiten, die ich tragen möchte, 
+               <lb xml:id="p001_tr_1_tl_24"/>als hinge mein Seelenheil und die Rettung Frankreichs daran. Und eine 
+               <lb xml:id="p001_tr_1_tl_25"/>gewisse Form feindseligen Misstrauens und an Böswilligkeit grenzender 
+               <lb xml:id="p001_tr_1_tl_26"/>Gleichgültigkeit zwischen den Menschen entwaffnet und lähmt mich. 
+               <lb xml:id="p001_tr_1_tl_27"/>Mir schien zuletzt, die Leute redeten in der Hottentottensprache [abwertende rassistsiche Bezeichnung für afrikanische Sprachen, hier auf die für Schwarzenbach inhaltlich unsinnige Sprache der weissen Kolonialbevölkerung übertragen], und 
+               <lb xml:id="p001_tr_1_tl_28"/>es ist nicht übertrieben. Unter soviel Affen- und Papageiengeschrei ver- 
+               <lb xml:id="p001_tr_1_tl_29"/>loren die Worte ihren Sinn, und ich war froh, auf ein paar Monate in 
+               <lb xml:id="p001_tr_1_tl_30"/>die sanftere Wildnis zu gehen.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_31"/>Jetzt scheint sich alles, zu meinen Gunsten, zu regeln. Gearbeitet habe 
+               <lb xml:id="p001_tr_1_tl_32"/>ich viel, und musste, angesichts des blühenden Stumpfsinns, natürlich 
+               <lb xml:id="p001_tr_1_tl_33"/>angestrengt nachdenken: denn dass es sich nicht lohnte, sich auch nur 
+               <lb xml:id="p001_tr_1_tl_34"/>entmutigen zu lassen, war allzu klar. Man musste also immer wieder auf 
+               <lb xml:id="p001_tr_1_tl_35"/>die Quellen zurückgehen, die uns nähren.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_36"/>Aber genug von meiner Person. Denn bis auf ein paar Mückenstiche und 
+               <lb xml:id="p001_tr_1_tl_37"/>Lähmungserscheinungen im Rücken, die auf das Klima, genauer die feuchte 
+               <lb xml:id="p001_tr_1_tl_38"/>Höllenhitze, zurückzuführen sind, geht es mir gut. Wenn ich Pläne haben 
+               <lb xml:id="p001_tr_1_tl_39"/>könnte, wäre es, bald nach Europa zurück zu kehren. Was sich dort abrollt, 
+               <lb xml:id="p001_tr_1_tl_40"/>geht uns näher an, und schon in Lissabon verspreche ich mir mehr Tätig 
+               <lb xml:id="p001_tr_1_tl_41" break="no"/>keitsfeld, und mehr mögliches Verständnis, als hier. Nach Amerika würde ich 
+               <lb xml:id="p001_tr_1_tl_42"/>erst zurück wollen, wenn wir unsere Länder den Krankheitsstoffen über 
+               <lb xml:id="p001_tr_1_tl_43" break="no"/>lassen müssten, – die man jetzt doch noch als Heilkräfte ansehen darf?</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_44"/>Die Zeitschrift von Klaus [Decision. A Review of Free Culture (1941-1942)] hat mir allerdings viel Lust 
+               <lb xml:id="p001_tr_1_tl_45"/>und Mut und Freude gemacht. Es mag sein, dass man hier, im Exil, die Dinge 
+               <lb xml:id="p001_tr_1_tl_46"/>zu schwarz sieht. – denn die Welt war nie ganz verarmt und verdorben.               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415674/info.json"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p> 
+               <lb xml:id="p002_tr_1_tl_2"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+Und solange man selbst noch leben, und immer wieder seine Unverletzlichkeit 
+               <lb xml:id="p002_tr_1_tl_3"/>empfinden kann, muss dies auch wahr sein für Andere, Brüder.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_4"/>– Erilein, das wird nur ein halber Brief, – wie meistens. Denn ich weiss immer 
+               <lb xml:id="p002_tr_1_tl_5"/>nicht, ob Du den letzten oder vorletzten bekommen hast, ob Du nicht erst 
+               <lb xml:id="p002_tr_1_tl_6"/>gerade jetzt meinem Freund K. [?] über mich die spassigsten Auskünfte geben 
+               <lb xml:id="p002_tr_1_tl_7"/>musst, ob Du nicht mit Anderem beschäftigt, abwesend, unerreichbar bist – 
+               <lb xml:id="p002_tr_1_tl_8"/>Auch ist es <hi rendition="#g">zu heiss</hi>, man kann beim besten Willen nur knapp vege 
+               <lb xml:id="p002_tr_1_tl_9" break="no"/>tieren, – und ich frage mich eigentlich, auf welche Weise mein neues Manus 
+               <lb xml:id="p002_tr_1_tl_10" break="no"/>kript [Das Wunder des Baumes], worin natürlich <hi rendition="#g">alles</hi> gesagt werden soll, trotzdem Tag für Tag 
+               <lb xml:id="p002_tr_1_tl_11"/>an Seitenzahl gewinnt.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_12"/>Schreibst Du nicht doch einmal, oder kabelst, – denn es wird sicher noch 
+               <lb xml:id="p002_tr_1_tl_13"/>Monate dauern, bevor ich die Adresse ändern kann. Und, Eri, ich wüsste gern, 
+               <lb xml:id="p002_tr_1_tl_14"/>wie es Dir geht, und wie Du die nächste Zukunft siehst, die ich mir nie so 
+               <lb xml:id="p002_tr_1_tl_15"/>ganz ohne Euch vorstellen kann ...</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_16"/>Grüsse den Klaus, der von mir Manuskripte und Briefe ziemlich direkt erhal 
+               <lb xml:id="p002_tr_1_tl_17" break="no"/>ten sollte. Sag ihm, da ich bald geschieden sein werde, wollen wir zum 
+               <lb xml:id="p002_tr_1_tl_18"/>schlichten Mädchennamen zurückkehren, die Zwischenspiele seien aus. 
+               <lb xml:id="p002_tr_1_tl_19"/>Grüsse die verehrten Eltern, alle Geschwister, Gumpern, und alle Lieben. 
+               <lb xml:id="p002_tr_1_tl_20"/>– Ach, das ist wirklich kein Brief, noch nichts ist darin gesagt. – Aber 
+               <lb xml:id="p002_tr_1_tl_21"/>vielleicht kommt er, deswegen, an? –</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_22"/>immerhin mit der alten, wachsenden Zärtlichkeit 
+               <lb xml:id="p002_tr_1_tl_23"/>Deiner 
+               <lb xml:id="p002_tr_1_tl_26"/>Miro</p>
+</div>
+       </body>
+    </text>
+ </TEI>
