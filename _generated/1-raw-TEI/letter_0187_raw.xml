@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0187"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0187</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0187_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0187_001"
+                facs="https://www.monacensia-digital.de/i3f/v20/415763/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0187_001_tr_1"/>
+            <lb xml:id="letter_0187_001_tr_1_tl_1"/>Studentenschaft
+<lb xml:id="letter_0187_001_tr_1_tl_3"/>der Universität Zürich
+<lb xml:id="letter_0187_001_tr_1_tl_2"/>Zürich, den 23. Okt. 30<CONV tag="p">
+<lb xml:id="letter_0187_001_tr_1_tl_4"/>L.E. –Du wirst es mir erlassen Dir einen eben so schönen und
+<lb xml:id="letter_0187_001_tr_1_tl_5"/>sträflich blöden Brief zu tippen wie ich es eben an Deinen
+<lb xml:id="letter_0187_001_tr_1_tl_6"/>Bruder zu wege gebracht habe – es nahm mir eine volle halbe
+<lb xml:id="letter_0187_001_tr_1_tl_7"/>Stunde, und ich habe heute abend noch sooo viel zu tun, indem
+<lb xml:id="letter_0187_001_tr_1_tl_8"/>ich nämlich einen Vortrag über Nietzsche Spitteler George
+<lb xml:id="letter_0187_001_tr_1_tl_9"/>gleichzeitig halten soll, und über das was sie vom sogenannten
+<lb xml:id="letter_0187_001_tr_1_tl_10"/>"Heroischen“ ausgesagt haben [Vortrag ist nicht erhalten, aber wird irgendwo noch erwähnt?] – ein übertrieben anspruchsvolles
+<lb xml:id="letter_0187_001_tr_1_tl_11"/>Thema! Um aber auf den Brief an Klaus zurück zu kommen, mach ihn
+<lb xml:id="letter_0187_001_tr_1_tl_12"/>bitte <CONV tag="g">gleich</CONV> darauf aufmerksam dass die Zürcher Studen¬
+<lb xml:id="letter_0187_001_tr_1_tl_13"/>ten netter sind als man aus ihren offiziellen Einladungen
+<lb xml:id="letter_0187_001_tr_1_tl_14"/>schliessen könnte. Aber offiziell ist eben immer dämlich,
+<lb xml:id="letter_0187_001_tr_1_tl_15"/>und ich konnte doch nicht beispielswise schreiben "lieber
+<lb xml:id="letter_0187_001_tr_1_tl_16"/>Klaus“ – obwohl ich die herzlichsten Gefühle für ihn hege da
+<lb xml:id="letter_0187_001_tr_1_tl_17"/>er ja Dein Bruder ist.</CONV><CONV tag="p">
+<lb xml:id="letter_0187_001_tr_1_tl_18"/>Also, um Dich auch noch zu instruieren:</CONV> <CONV tag="p">
+<lb xml:id="letter_0187_001_tr_1_tl_19"/>Datum wenn möglich zwischen 6. und 15. Dez., am Besten Mittwoch
+<lb xml:id="letter_0187_001_tr_1_tl_20"/>10. Dez. – Thema wird Euch überlassen, aber so wie ich es schon
+<lb xml:id="letter_0187_001_tr_1_tl_21"/>mit Dir besprach – Honorar circa 300 frs., was für <CONV tag="g">zwei</CONV>
+<lb xml:id="letter_0187_001_tr_1_tl_22"/>geistige Arbeiter sehr wenig ist, durch Reiseentschädigung
+<lb xml:id="letter_0187_001_tr_1_tl_23"/>aber auf circa 500 frs gesteigert würde [überwiesen wird letztlich nur 390.-, vermutlich für alles, vgl. letter_143].</CONV><CONV tag="p">
+<lb xml:id="letter_0187_001_tr_1_tl_24"/>Jm Uebrigen könntet Jhr Euch anstrengen, die "Geschwister" in Z
+<lb xml:id="letter_0187_001_tr_1_tl_25"/>Zürich zu spielen.</CONV><CONV tag="p">
+<lb xml:id="letter_0187_001_tr_1_tl_26"/>Leider muss ich jetzt wieder über das Heroische lesen –
+<lb xml:id="letter_0187_001_tr_1_tl_27"/>antworte bald – und lass Dich in Berlin photographieren,
+<lb xml:id="letter_0187_001_tr_1_tl_28"/>das wäre sehr nett von Dir!</CONV>
+<lb xml:id="letter_0187_001_tr_1_tl_29"/>Dein Kind A</div>
+      </body>
+   </text>
+</TEI>
