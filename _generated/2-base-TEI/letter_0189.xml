@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0189" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0189#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0189</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0189_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415568/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_2_tl_1"/>24. XII. 30</p>
+            <p> 
+               <lb xml:id="p001_tr_2_tl_2"/>liebes Kinderhäutchen, wie gut dass es 
+               <lb xml:id="p001_tr_2_tl_3"/>Telegraphenämter auf der Welt gibt 
+               <lb xml:id="p001_tr_2_tl_4"/>u. wie promt [sic] u. zuverlässig haben 
+               <lb xml:id="p001_tr_2_tl_5"/>sie uns diesmal geholfen! Wenn 
+               <lb xml:id="p001_tr_2_tl_6"/>aber ganz unvorhergesehen ein Student 
+               <lb xml:id="p001_tr_2_tl_7"/>unserer Kommission (wer weiss wan[n]), 
+               <lb xml:id="p001_tr_2_tl_8"/>von Gewissensbissen geplagt, Euch das 
+               <lb xml:id="p001_tr_1_tl_1"/>Honorar schicken sollte so schickt es 
+               <lb xml:id="p001_tr_1_tl_2"/>ja nicht <hi rendition="#u">ihm</hi> etwa zurück, sondern 
+               <lb xml:id="p001_tr_1_tl_3"/>allerhöchstens mir, ansonsten ich aufs 
+               <lb xml:id="p001_tr_1_tl_4"/>neue u. vielleicht nochmals vergeblich, 
+               <lb xml:id="p001_tr_1_tl_5"/>Lucky, Eisbär u. alle Hunde von 
+               <lb xml:id="p001_tr_1_tl_6"/>Bocken aufbieten müsste um zu Eurem 
+               <lb xml:id="p001_tr_1_tl_7"/>meinem (wie war es schon?) Recht zu 
+               <lb xml:id="p001_tr_1_tl_8"/>kommen!</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_9"/>Es ist recht grau u. abscheulich bei 
+               <lb xml:id="p001_tr_1_tl_10"/>uns, dafür aber wird das unkorrekturte 
+               <lb xml:id="p001_tr_1_tl_11"/>Bündel meiner Weisheit immer 
+               <lb xml:id="p001_tr_1_tl_12"/>unbeträchtlicher u. die Tintenflasche 
+               <lb xml:id="p001_tr_1_tl_13"/>im[m]er leerer, eine erfreuliche Erscheinung.</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415569/info.json"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p> 
+               <lb xml:id="p002_tr_2_tl_1"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+Andrerseits denke ich wie es sein 
+               <lb xml:id="p002_tr_2_tl_2"/>wird im Ford los zu fahren, bei 
+               <lb xml:id="p002_tr_2_tl_3"/>Kälte u. so ganz ohne Son[n]enschein – 
+               <lb xml:id="p002_tr_2_tl_4"/>Bruder Eri –</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_5"/>Wieviel menschlicher ist dagegen der grüne 
+               <lb xml:id="p002_tr_2_tl_7"/>Victory, der wieder prachtvoll in 
+               <lb xml:id="p002_tr_2_tl_8"/>Gang ist u. den es nicht übel gelüsten 
+               <lb xml:id="p002_tr_2_tl_9"/>würde mit Dir gen Süden zu fahren. 
+               <lb xml:id="p002_tr_2_tl_11"/>So ist der Welt.</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_12"/>Und dennoch schön. Zu denken: – aber 
+               <lb xml:id="p002_tr_1_tl_1"/>enttäusche mich nicht! – dass Du im 
+               <lb xml:id="p002_tr_1_tl_2"/>Januar durch Zürich fahren wirst. 
+               <lb xml:id="p002_tr_1_tl_3"/>Dass ich im Februar darauf ins Engadin 
+               <lb xml:id="p002_tr_1_tl_6"/>gelange, wo man doch so ganz u. gar 
+               <lb xml:id="p002_tr_1_tl_7"/>gewohnt u. zu Hause ist und wo 
+               <lb xml:id="p002_tr_1_tl_8"/>südliche Wärme u. blauer Himmel 
+               <lb xml:id="p002_tr_1_tl_9"/>ganz toll u. kaum glaubhaft mit 
+               <lb xml:id="p002_tr_1_tl_12"/>Schneefeldern spielen –</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_13"/>Grüsse Klaus von mir – Den sehr verehrten 
+               <lb xml:id="p002_tr_1_tl_14"/>Eltern sage meine aufrichtigen 
+               <lb xml:id="p002_tr_1_tl_15"/>Neujahrswünsche – muss der kleine Junge 
+               <lb xml:id="p002_tr_1_tl_16"/>Bibi nicht Violine spielen heute Abend? 
+               <lb xml:id="p002_l"/>Und schreibe mir sofort, den[n] Telegram[m]e, scheint 
+               <lb xml:id="p002_l_227"/>mir, sind auf die Dauer zu teuer!</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l_231"/>Sei mit Festfreuden überschüttet und 
+               <lb xml:id="p002_l_235"/>vielmals geküsst von Deinem Kind A –</p>
+</div>
+       </body>
+    </text>
+ </TEI>
