@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0274" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0274#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0274</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0274"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0274_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0274_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l_1"/>"... um die Ehre der amerikanischen Südstaaten"</p>
+
+            <milestone unit="textregion" xml:id="p001_r_16"/>            <p> 
+               <lb xml:id="p001_r_16_tl_1"/>Es besteht Anlass, in diesen Tagen an die "Kna 
+               <lb xml:id="p001_r_16_tl_2" break="no"/>ben von Scottsboro" zu erinnern: Vor sieben Jah 
+               <lb xml:id="p001_r_16_tl_3" break="no"/>ren, am 6. April 1931 begann der erste Prozess 
+               <lb xml:id="p001_r_16_tl_4"/>gegen die neun Neger im Alter von 13 bis 20 Jah 
+               <lb xml:id="p001_r_16_tl_5" break="no"/>ren, die man am 25. März des gleichen Jahres 
+               <lb xml:id="p001_r_16_tl_6"/>verhaftet und angeklagt hatte, zwei weisse Mäd 
+               <lb xml:id="p001_r_16_tl_7" break="no"/>chen, Victoria Price und Ruby Bates, vergewal 
+               <lb xml:id="p001_r_16_tl_8" break="no"/>tigt zu haben. Man verurteilte die Burschen zum 
+               <lb xml:id="p001_r_16_tl_9"/>Tod durch den elektrischen Stuhl, man schleppte 
+               <lb xml:id="p001_r_16_tl_10"/>sie von Prozess zu Prozess, – der Mob staute 
+               <lb xml:id="p001_r_16_tl_11"/>sich vor den Fenstern ihres Gefängnisses und ver 
+               <lb xml:id="p001_r_16_tl_12" break="no"/>langte ihre Hinrichtung, anderenfalls man sie 
+               <lb xml:id="p001_r_16_tl_13"/>und die beiden weissen Mädchen lynchen 
+               <lb xml:id="p001_r_16_tl_14"/>werde, – "Scottsboro" wurde zum Symbol rück 
+               <lb xml:id="p001_r_16_tl_15" break="no"/>ständiger Justizmoral, ohne dass die Mehrzahl 
+               <lb xml:id="p001_r_16_tl_16"/>der Menschen sich zu erinnern vermochten, was 
+               <lb xml:id="p001_r_16_tl_17"/>es mit dem Fall der Knaben von Scottsboro ei 
+               <lb xml:id="p001_r_16_tl_18" break="no"/>gentlich auf sich habe.</p>
+            <p> 
+               <lb xml:id="p001_r_16_tl_19"/>Victoria Price hatte von der Stunde ihrer Ver 
+               <lb xml:id="p001_r_16_tl_20" break="no"/>haftung an die "Vergewaltigung" eingestanden. 
+               <lb xml:id="p001_r_16_tl_21"/>Ruby Bates, das jüngere der Mädchen, hatte zu 
+               <lb xml:id="p001_r_16_tl_22" break="no"/>erst aus Naivität, dann auf den Rat eines Pfar 
+               <lb xml:id="p001_r_16_tl_23" break="no"/>rers, dem sie sich in Gewissensnot anvertraute, 
+               <lb xml:id="p001_r_16_tl_24"/>die schlichte Wahrheit gesagt. Drei Jahre lang 
+               <lb xml:id="p001_r_16_tl_25"/>hatte sie in Textilfabriken des Südens gearbeitet, 
+               <lb xml:id="p001_r_16_tl_26"/>immer als "Lehrling", zu einem Stundenlohn von 
+               <lb xml:id="p001_r_16_tl_27"/>fünf Cent, und elf Stunden täglich. Als in Hunts 
+               <lb xml:id="p001_r_16_tl_28" break="no"/>ville die Arbeit knapp wurde, ging sie mit Victo 
+               <lb xml:id="p001_r_16_tl_29" break="no"/>ria Price und deren Freund, Lester Carter, nach 
+               <lb xml:id="p001_r_16_tl_30"/>Chattanov[sic]ga, Tennesse. Aber dort sagte man 
+               <lb xml:id="p001_r_16_tl_31"/>ihnen, Arbeit sei keine zu haben, die Textilfabri 
+               <lb xml:id="p001_r_16_tl_32" break="no"/>ken würden zum Teil geschlossen, und sie sollten 
+               <lb xml:id="p001_r_16_tl_33"/>lieber nach Huntsville zurückfahren. Da die drei 
+               <lb xml:id="p001_r_16_tl_34"/>kein Geld hatten, sprangen sie auf einen Zug auf. 
+               <lb xml:id="p001_r_16_tl_35"/>Während der Fahrt gab es auf dem nächsten 
+               <lb xml:id="p001_r_16_tl_36"/>Waggon Streit zwischen einer Gruppe von weis 
+               <lb xml:id="p001_r_16_tl_37" break="no"/>sen und einigen schwarzen Burschen. Carter 
+               <lb xml:id="p001_r_16_tl_38"/>sprang hinüber, die Schwarzen gewannen und 
+               <lb xml:id="p001_r_16_tl_39"/>stiessen alle Weissen bis auf einen vom Zug hin 
+               <lb xml:id="p001_r_16_tl_40" break="no"/>unter. Die Weissen mussten offenbar sofort zur 
+               <lb xml:id="p001_r_16_tl_41"/>Polizei gegangen sein, denn schon an der näch 
+               <lb xml:id="p001_r_16_tl_42" break="no"/>sten Station wurden die Neger vom Zug herun 
+               <lb xml:id="p001_r_16_tl_43" break="no"/>tergeholt. Die Mädchen versuchten, der Verhaf 
+               <lb xml:id="p001_r_16_tl_44" break="no"/>tung zu entgehen, weil sie fürchteten, wegen "Va 
+               <lb xml:id="p001_r_16_tl_45" break="no"/>gabundierens" verurteilt zu werden. Im Staate 
+               <lb xml:id="p001_r_16_tl_46"/>Alaban[sic]a stehen darauf drei Monate Gefängnis. 
+               <lb xml:id="p001_r_16_tl_47"/>Aber man fasste sie doch und lieferte sie mit den 
+               <lb xml:id="p001_r_16_tl_48"/>Niggern im Gefängnis in Scottsboro ein.</p>
+            <p> 
+               <lb xml:id="p001_r_16_tl_49"/>Das ist die Wahrheit, wie Ruby Bates sie zu 
+               <lb xml:id="p001_r_16_tl_50" break="no"/>erst eingestand, dann unter dem Druck von Miss 
+               <lb xml:id="p001_r_16_tl_51" break="no"/>handlungen und Versprechungen widerrief, dann, 
+               <lb xml:id="p001_r_16_tl_52"/>im zweiten Prozess, in Decatur, Alabama, noch 
+               <lb xml:id="p001_r_16_tl_53"/>einmal wiederholte. An den späteren Prozessen 
+               <lb xml:id="p001_r_16_tl_54"/>war sie nicht mehr als Zeugin anwesend. Sie war 
+               <lb xml:id="p001_r_16_tl_55"/>krank. Man hatte sie und ihre Mutter von Fa 
+               <lb xml:id="p001_r_16_tl_56" break="no"/>brikdorf zu Fabrikdorf gejagt. Sie wurde ent 
+               <lb xml:id="p001_r_16_tl_57" break="no"/>lassen, sobald das Gerücht durchsickerte, wer sie 
+               <lb xml:id="p001_r_16_tl_58"/>war. Die weiteren Details im Fall von Scottsboro
+               <milestone unit="textregion" xml:id="p001_r_17"/> 
+               <lb xml:id="p001_r_17_tl_1"/>sind in diesem Zusammenhang nicht wichtig. 
+               <lb xml:id="p001_r_17_tl_2"/>Wichtig bleibt die Frage: Warum wurde der Fall 
+               <lb xml:id="p001_r_17_tl_3"/>der Vergewaltigung weisser Mädchen durch Ne 
+               <lb xml:id="p001_r_17_tl_4" break="no"/>ger konstruiert? Warum mussten neun Knaben, 
+               <lb xml:id="p001_r_17_tl_5"/>die zweifellos unschuldig waren, der Masse geop 
+               <lb xml:id="p001_r_17_tl_6" break="no"/>fert werden, die ein neunfaches Todesurteil ver 
+               <lb xml:id="p001_r_17_tl_7" break="no"/>langte? Warum verlangte die Masse dieses ge 
+               <lb xml:id="p001_r_17_tl_8" break="no"/>fälschte Urteil?</p>
+            <p> 
+               <lb xml:id="p001_r_17_tl_9"/>Im Januar 1938 kam, nicht zum erstenmal, ein 
+               <lb xml:id="p001_r_17_tl_10"/>Anti-Lynch-Gesetz vor dem amerikanischen Kon 
+               <lb xml:id="p001_r_17_tl_11" break="no"/>gress in Washington zur Verhandlung. Die Sena 
+               <lb xml:id="p001_r_17_tl_12" break="no"/>toren und Repräsentanten der Südstaaten boy 
+               <lb xml:id="p001_r_17_tl_13" break="no"/>kottierten das Gesetz und paralysierten die Tä 
+               <lb xml:id="p001_r_17_tl_14" break="no"/>tigkeit des Hauses so lange, bis der Vorschlag 
+               <lb xml:id="p001_r_17_tl_15"/>verschoben, vom Programm abgesetzt wurde.</p>
+            <p> 
+               <lb xml:id="p001_r_17_tl_16"/>Ich war damals in Washington und konnte die 
+               <lb xml:id="p001_r_17_tl_17"/>Diskussionen verfolgen. Das Wort "Ehre" spielte 
+               <lb xml:id="p001_r_17_tl_18"/>darin eine grosse Rolle. Es gehe um die Ehre der 
+               <lb xml:id="p001_r_17_tl_19"/>Südstaaten, hiess es da, und: hätte man während 
+               <lb xml:id="p001_r_17_tl_20"/>des amerikanischen Bürgerkriegs gewusst, dass 
+               <lb xml:id="p001_r_17_tl_21"/>dem Süden jemals ein solches Gesetz zugemutet 
+               <lb xml:id="p001_r_17_tl_22"/>werden würde, so hätten die Offiziere und Sol 
+               <lb xml:id="p001_r_17_tl_23" break="no"/>daten der Südstaaten keine Friedensbedingungen 
+               <lb xml:id="p001_r_17_tl_24"/>angenommen, sondern gekämpft bis zum letzten
+               <milestone unit="textregion" xml:id="p001_r_18"/> 
+               <lb xml:id="p001_r_18_tl_1"/>Blutstropfen. Bestehe Präsident Roosevelt dar 
+               <lb xml:id="p001_r_18_tl_2" break="no"/>auf, ein Anti-Lynch-Gesetz durchzubringen und 
+               <lb xml:id="p001_r_18_tl_3"/>damit eines der höchsten Ideale und heiligsten 
+               <lb xml:id="p001_r_18_tl_4"/>Rechtsbegriffe des Südens anzutasten (!) so wer 
+               <lb xml:id="p001_r_18_tl_5" break="no"/>de er das Vertrauen der südlichen Demokraten 
+               <lb xml:id="p001_r_18_tl_6"/>für immer einbüssen und eine unheilvolle Spal 
+               <lb xml:id="p001_r_18_tl_7" break="no"/>tung der demokratischen Partei heraufbeschwö 
+               <lb xml:id="p001_l" break="no"/>ren.</p>
+            <p> 
+               <lb xml:id="p001_r_18_tl_8"/>Wie ist es möglich, dass erfahrene Politiker und 
+               <lb xml:id="p001_r_18_tl_9"/>respektable Persönlichkeiten den Lynch-Terror 
+               <lb xml:id="p001_r_18_tl_10"/>des fanatisierten weissen Mobs als eines der "höch 
+               <lb xml:id="p001_r_18_tl_11" break="no"/>sten Ideale der Südstaaten" bezeichnen?</p>
+
+            <milestone unit="textregion" xml:id="p001_r_19"/>            <p> 
+               <lb xml:id="p001_r_19_tl_1"/>Im Herbst 1937 brachte ich einige Wochen im 
+               <lb xml:id="p001_r_19_tl_2"/>Süden, in Tennessee, Virginia, Al[sic]bama, Georgia 
+               <lb xml:id="p001_r_19_tl_3"/>und den beiden Carolinas zu. Ich sah die Armut 
+               <lb xml:id="p001_r_19_tl_4"/>in den Gruben und Holzfäller-Lagern von Tennes 
+               <lb xml:id="p001_r_19_tl_5" break="no"/>see, das Elend der schwarzen "Sharecropper" 
+               <lb xml:id="p001_r_19_tl_6"/>(Baumwollpächter) und ihrer weissen Feinde und 
+               <lb xml:id="p001_r_19_tl_7"/>Schicksalsgenossen auf den zerfallenden Planta 
+               <lb xml:id="p001_r_19_tl_8" break="no"/>gen, die Rückständigkeit, Unfreiheit, Verseuchtheit, 
+               <lb xml:id="p001_r_19_tl_9"/>und Unterernährung in den grossen Städten Bir 
+               <lb xml:id="p001_r_19_tl_10" break="no"/>mingham, Chattanooga, Atlanta, sah noch schlim 
+               <lb xml:id="p001_r_19_tl_11" break="no"/>mere Zustände unter dem weissen Proletariat der 
+               <lb xml:id="p001_r_19_tl_12"/>"Millvillages", der Textilfabrik-Dörfer in der Ge 
+               <lb xml:id="p001_r_19_tl_13" break="no"/>gend von Columbus, Georgia und Charlotte, 
+               <lb xml:id="p001_r_19_tl_14"/>North Carolina.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space]</p>
+            <p> 
+               <lb xml:id="p001_r_19_tl_15"/>In Washington fragte 
+               <lb xml:id="p001_r_19_tl_16"/>mich ein Mädchen aus 
+               <lb xml:id="p001_r_19_tl_17"/>Georgia nach meinen Ein 
+               <lb xml:id="p001_r_19_tl_18" break="no"/>drücken. Sie war schön, 
+               <lb xml:id="p001_r_19_tl_19"/>jung, von blendender Intel 
+               <lb xml:id="p001_r_19_tl_20" break="no"/>ligenz und stand am An 
+               <lb xml:id="p001_r_19_tl_21" break="no"/>fang einer erfolgreichen 
+               <lb xml:id="p001_r_19_tl_22"/>juristischen Karriere. 
+               <lb xml:id="p001_r_19_tl_23"/>"Finden Sie nicht, dass die 
+               <lb xml:id="p001_r_19_tl_24"/>Neger auf unseren Planta 
+               <lb xml:id="p001_r_19_tl_25" break="no"/>gen glücklich und zufrie 
+               <lb xml:id="p001_r_19_tl_26" break="no"/>den aussehen?" fragte sie 
+               <lb xml:id="p001_r_19_tl_27"/>mich, "sie sind harmlose, 
+               <lb xml:id="p001_r_19_tl_28"/>gutmütige Menschen. Na 
+               <lb xml:id="p001_r_19_tl_29" break="no"/>türlich sind sie rechtlos – 
+               <lb xml:id="p001_r_19_tl_30"/>aber das ist gut so. Die 
+               <lb xml:id="p001_r_19_tl_31"/>Weissen hingegen – das 
+               <lb xml:id="p001_r_19_tl_32"/>weisse Proletariat meine 
+               <lb xml:id="p001_r_19_tl_33"/>ich – Sie wissen, wir nen 
+               <lb xml:id="p001_r_19_tl_34" break="no"/>nen sie "poe[sic]r whites" oder 
+               <lb xml:id="p001_r_19_tl_35"/>"white trash" ("arme 
+               <lb xml:id="p001_r_19_tl_36"/>Weisse" oder "weisser 
+               <lb xml:id="p001_r_19_tl_37"/>Abschaum") die sind 
+               <lb xml:id="p001_r_19_tl_38"/>schlimmer als die Neger. 
+               <lb xml:id="p001_r_19_tl_39"/>Sie sind verseucht und un 
+               <lb xml:id="p001_r_19_tl_40" break="no"/>gebildet, sie können nicht 
+               <lb xml:id="p001_r_19_tl_41"/>mit Geld umgehen, sie haben kein Verantwor 
+               <lb xml:id="p001_r_19_tl_42" break="no"/>tungsgefühl und keine Moral. Man darf ihnen 
+               <lb xml:id="p001_r_19_tl_43"/>nicht mehr Rechte geben als den Niggern. Sie 
+               <lb xml:id="p001_r_19_tl_44"/>fühlen sich am wohlsten in dem Zustand, in dem 
+               <lb xml:id="p001_r_19_tl_45"/>sie sich jetzt befinden."</p>
+            <p> 
+               <lb xml:id="p001_r_19_tl_46"/>"Da sind sie wohl auch <hi rendition="#g">gegen</hi> die Abschaf 
+               <lb xml:id="p001_r_19_tl_47" break="no"/>fung der Kettensträflings-Gefängnisse in Geor 
+               <lb xml:id="p001_r_19_tl_48" break="no"/>gia, von der jetzt die Rede ist?" – "Ja", sagte 
+               <lb xml:id="p001_r_19_tl_49"/>das Mädchen, "ich bin dagegen."</p>
+            <p> 
+               <lb xml:id="p001_r_19_tl_50"/>In Georgia hatte ich mit einem öffentlichen 
+               <lb xml:id="p001_r_19_tl_51"/>Wohlfahrts-Arzt ein solches Gefängnis besucht. 
+               <lb xml:id="p001_r_19_tl_52"/>Ein hünenhafter weisser Aufseher hatte mir ver 
+               <lb xml:id="p001_r_19_tl_53" break="no"/>boten die Sträflinge zu photographieren – es 
+               <lb xml:id="p001_r_19_tl_54"/>waren in der überwiegenden Mehrzahl Schwarze, 
+               <lb xml:id="p001_r_19_tl_55"/>die mit schweren Ketten an den Fussgelenken im 
+               <lb xml:id="p001_r_19_tl_56"/>Hof hockten. Wenige Tage nach meinem Besuch 
+               <lb xml:id="p001_r_19_tl_57"/>rissen Neger-Sträflinge einen Aufseher in ihre 
+               <lb xml:id="p001_r_19_tl_58"/>Zelle und lynchten ihn, bevor die alarmierte Po 
+               <lb xml:id="p001_r_19_tl_59" break="no"/>lizei die Aufsässigen mit Tränengas betäuben 
+               <lb xml:id="p001_r_19_tl_60"/>konnte.</p>
+            <p> 
+               <lb xml:id="p001_r_19_tl_61"/>Der Arzt war auch mit mir auf den Plantagen 
+               <lb xml:id="p001_r_19_tl_62"/>umhergefahren. "Die Leute sind alle unterer 
+               <lb xml:id="p001_r_19_tl_63" break="no"/>nährt", hatte er mir erklärt, "Schwarze und 
+               <lb xml:id="p001_r_19_tl_64"/>Weisse. Die meisten von ihnen haben die Pellagra,
+               <milestone unit="textregion" xml:id="p001_r_55"/> 
+               <lb xml:id="p001_r_55_tl_1"/>eine Art Skorbut, die von der einseitigen Diät, 
+               <lb xml:id="p001_r_55_tl_2"/>von Maisbrot, Melasse und Schweinefett herrührt. 
+               <lb xml:id="p001_r_55_tl_3"/>Sie sind unwissend, denn die Kinder können nicht 
+               <lb xml:id="p001_r_55_tl_4"/>lange in die Schule gehen, sie werden zum Baum 
+               <lb xml:id="p001_r_55_tl_5" break="no"/>wollpflücken gebraucht. Sie lernen nicht mit Geld 
+               <lb xml:id="p001_r_55_tl_6"/>umzugehen, denn sie bekommen keines in die 
+               <lb xml:id="p001_r_55_tl_7"/>Hand. Fast alle sind Pächter, auf der Basis des 
+               <lb xml:id="p001_r_55_tl_8"/>'Sharecropping' (Ernteteilen). Sie erhalten vom 
+               <lb xml:id="p001_r_55_tl_9"/>Plantagenbesitzer ein Stück Land, ein Maultier, 
+               <lb xml:id="p001_r_55_tl_10"/>Gerät, eine Hütte und Kredit in seinem Laden. 
+               <lb xml:id="p001_r_55_tl_11"/>Die Hälfte der Ernte soll ihnen gehören. Aber sie 
+               <lb xml:id="p001_r_55_tl_12"/>bekommen fast nie etwas. Sie bleiben verschuldet,
+               <milestone unit="textregion" xml:id="p001_r_56"/> 
+               <lb xml:id="p001_r_56_tl_1"/>von Generation zu Generation. Die Abrechnungen 
+               <lb xml:id="p001_r_56_tl_2"/>werden vom Plantagen-Aufseher gemacht. Ein 
+               <lb xml:id="p001_r_56_tl_3"/>Sharecropper – besonders wenn er ein Schwarzer 
+               <lb xml:id="p001_r_56_tl_4"/>ist – der sich herausnehmen würde, sein Konto 
+               <lb xml:id="p001_r_56_tl_5"/>zu kontrollieren, würde von der Plantage vertrie 
+               <lb xml:id="p001_r_56_tl_6" break="no"/>ben oder unter irgend einem Vorwand von der 
+               <lb xml:id="p001_r_56_tl_7"/>Polizei gefasst, wenn man ihn nicht einfach 
+               <lb xml:id="p001_r_56_tl_8"/>lyncht. Dieses System, das 'Sharecropping', ist 
+               <lb xml:id="p001_r_56_tl_9"/>der Ersatz, den die Herrenschicht der angelsächsi 
+               <lb xml:id="p001_r_56_tl_10" break="no"/>schen Aristokraten für die Einrichtung der Skla 
+               <lb xml:id="p001_r_56_tl_11" break="no"/>verei gefunden hat, nach der Niederlage im Bür 
+               <lb xml:id="p001_r_56_tl_12" break="no"/>gerkrieg."</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space]</p>
+            <p> 
+               <lb xml:id="p001_r_56_tl_13"/>Die Angehörigen dieser Herrenschicht – sie 
+               <lb xml:id="p001_r_56_tl_14"/>sind wohl der im europäischen Sinne kultivierte 
+               <lb xml:id="p001_r_56_tl_15" break="no"/>ste Teil der amerikanischen Nation – versichern, 
+               <lb xml:id="p001_r_56_tl_16"/>diese Niederlage vor siebzig Jahren sei der Ruin 
+               <lb xml:id="p001_r_56_tl_17"/>des Südens gewesen. In Wirklichkeit wurden ei 
+               <lb xml:id="p001_r_56_tl_18" break="no"/>zelne Familien ruiniert, aber die Grundlage der 
+               <lb xml:id="p001_r_56_tl_19"/>Blüte und später der Verarmung der Südstaaten, 
+               <lb xml:id="p001_r_56_tl_20"/>das Plantagensystem, hat den Krieg überdauert: 
+               <lb xml:id="p001_r_56_tl_21"/>dank der europäischen Baumwollmärkte und 
+               <lb xml:id="p001_r_56_tl_22"/>dank der weissen und schwarzen Sharecropper, 
+               <lb xml:id="p001_r_56_tl_23"/>die den Sklaven ersetzten. Es ist für uns nicht 
+               <lb xml:id="p001_r_56_tl_24"/>leicht, sich die Macht und Vielseitigkeit dieses 
+               <lb xml:id="p001_r_56_tl_25"/>"Systems" vorzustellen: die Baumwolle und damit 
+               <lb xml:id="p001_r_56_tl_26"/>die Plantage, waren das ökonomische Lebensele 
+               <lb xml:id="p001_r_56_tl_27" break="no"/>ment, das soziale Gesetz, die Basis des Rechts, 
+               <lb xml:id="p001_r_56_tl_28"/>der gesellschaftlichen Einrichtungen, der Moral 
+               <lb xml:id="p001_r_56_tl_29"/>dieses einst fruchtbaren und blühenden Landes 
+               <lb xml:id="p001_r_56_tl_30"/>der englischen Krone, das heute zum Sorgenkind 
+               <lb xml:id="p001_r_56_tl_31"/>der amerikanischen Regierung geworden ist. Die 
+               <lb xml:id="p001_r_56_tl_32"/>Plantage ist so etwas wie ein ländlicher Fabrik 
+               <lb xml:id="p001_r_56_tl_33" break="no"/>betrieb. Obwohl die Südsaaten also reine Agrar 
+               <lb xml:id="p001_r_56_tl_34" break="no"/>länder waren, entwickelte sich dort kein freier 
+               <lb xml:id="p001_r_56_tl_35"/>Bauernstand, sondern ein ländliches Proletariat: 
+               <lb xml:id="p001_r_56_tl_36"/>die Sharecropper, Pächter, Pflücker, Taglöhner 
+               <lb xml:id="p001_r_56_tl_37"/>der Plantage. "Ein-Ernte" und "Profit-Ernte" 
+               <lb xml:id="p001_r_56_tl_38"/>nennt man die Baumwoll-Produktion der Plan 
+               <lb xml:id="p001_r_56_tl_39" break="no"/>tage. Das Land lebte von der Baumwolle und 
+               <lb xml:id="p001_r_56_tl_40"/>starb, als mit der grossen Krise die überseeischen 
+               <lb xml:id="p001_r_56_tl_41"/>Baumwollmärkte eingebüsst wurden, der Baum 
+               <lb xml:id="p001_r_56_tl_42" break="no"/>wollpreis unaufhaltsam fiel. Wie ein göttlicher 
+               <lb xml:id="p001_r_56_tl_43"/>Fingerzeig setzte in den gleichen Jahren, 1932 
+               <lb xml:id="p001_r_56_tl_44"/>und 1933, eine Seuche, der "Boll weevil" ein, der 
+               <lb xml:id="p001_r_56_tl_45"/>viele Plantagen zerstörte. Eine Landstadt hat die 
+               <lb xml:id="p001_r_56_tl_46" break="no"/>ser Seuche ein Denkmal errichtet: die verarmte, 
+               <lb xml:id="p001_r_56_tl_47"/>ausgebeutete Bevölkerung hat begriffen, dass ihr 
+               <lb xml:id="p001_r_56_tl_48"/>eigentlicher Unterdrücker die Baumwolle war 
+               <lb xml:id="p001_r_56_tl_49"/>und dass das Ende der Plantage vielleicht den An 
+               <lb xml:id="p001_r_56_tl_50" break="no"/>fang der Befreiung bedeuten könne.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space]</p>
+            <p> 
+               <lb xml:id="p001_r_56_tl_51"/>Zunächst sah die Sache anders aus. Das brot 
+               <lb xml:id="p001_r_56_tl_52" break="no"/>lose Proletariat, die allgemeine Rückständigkeit, 
+               <lb xml:id="p001_r_56_tl_53"/>das Fehlen jeder organisierten Arbeiterbewegung 
+               <lb xml:id="p001_r_56_tl_54"/>und der herrschende Hass zwischen weissen und 
+               <lb xml:id="p001_r_56_tl_55"/>schwarzen Proleten, lockte die Industrie ins Land. 
+               <lb xml:id="p001_r_56_tl_56"/>Niedrige Löhne, keine Gewerkschaften, ein straf 
+               <lb xml:id="p001_r_56_tl_57" break="no"/>fes und brutales Polizeisystem: die Zustände der 
+               <lb xml:id="p001_r_56_tl_58"/>guten alten Zeit, als man noch im unerschlossenen 
+               <lb xml:id="p001_r_56_tl_59"/>amerikanischen Kontinent Reiche erobern und 
+               <lb xml:id="p001_r_56_tl_60"/>Riesenvermögen verdienen konnte, schienen sich 
+               <lb xml:id="p001_r_56_tl_61"/>im Süden noch einmal zu wiederholen. Heute 
+               <lb xml:id="p001_r_56_tl_62"/>herrschen in den Fabrikdörfern genau die glei 
+               <lb xml:id="p001_r_56_tl_63" break="no"/>chen Zustände wie auf der Plantage und wie in 
+               <lb xml:id="p001_r_56_tl_64"/>den wenigen alten Fabrikzentren des Südens, die
+               <milestone unit="textregion" xml:id="p001_r_57"/> 
+               <lb xml:id="p001_r_57_tl_1"/>an die Beschreibungen von Dickens aus den An 
+               <lb xml:id="p001_r_57_tl_2" break="no"/>fängen der Industrialisierung erinnern</p>
+            <p> 
+               <lb xml:id="p001_r_57_tl_3"/>Man hat mir kaum erlaubt, eine Textilfabrik 
+               <lb xml:id="p001_r_57_tl_4"/>in Georgia zu besuchen. Ich machte mich bei mei 
+               <lb xml:id="p001_r_57_tl_5" break="no"/>nen freundlichen und kultivierten Gastgebern 
+               <lb xml:id="p001_r_57_tl_6"/>mehr als verdächtig, als ich den Wunsch äusserte, 
+               <lb xml:id="p001_r_57_tl_7"/>eine Spinnerei zu besichtigen. Und als ich dann 
+               <lb xml:id="p001_r_57_tl_8"/>durch die niedrigen, schlecht gelüfteten, über 
+               <lb xml:id="p001_r_57_tl_9" break="no"/>hitzten, von Baumwollfasern wie von Nebel er 
+               <lb xml:id="p001_r_57_tl_10" break="no"/>füllten Websäle ging, flüsterten mir meine Be 
+               <lb xml:id="p001_r_57_tl_11" break="no"/>gleiterinnen zu: "Sind es nicht hübsche, sonnige 
+               <lb xml:id="p001_r_57_tl_12"/>Räume? Muss es nicht reizend sein, mit all den 
+               <lb xml:id="p001_r_57_tl_13"/>bunten Stoffen zu arbeiten?" Ich sah vierzehn 
+               <lb xml:id="p001_r_57_tl_14" break="no"/>jährige Kinder, die in elfstündiger Nachtschicht 
+               <lb xml:id="p001_r_57_tl_15"/>arbeiteten. Das Bedaux-System zur "Leistungs 
+               <lb xml:id="p001_r_57_tl_16" break="no"/>steigerung" war eingeführt. Das Gespenst der 
+               <lb xml:id="p001_r_57_tl_17"/>Arbeitslosigkeit drohte. Die neue Krise meldete 
+               <lb xml:id="p001_r_57_tl_18"/>sich. Ein verständiger Fabrikbesitzer erklärte 
+               <lb xml:id="p001_r_57_tl_19"/>mir: "Ich muss trotzdem das Bedaux-System ein 
+               <lb xml:id="p001_r_57_tl_20" break="no"/>führen und Arbeiter einsparen. Die Konkurrenz 
+               <lb xml:id="p001_r_57_tl_21"/>zwingt mich dazu. Meine entlassenen Leute lau 
+               <lb xml:id="p001_r_57_tl_22" break="no"/>fen zu den Gewerkschaften und stiften Streiks 
+               <lb xml:id="p001_r_57_tl_23"/>gegen die Arbeitssteigerung an. Ich muss ohne 
+               <lb xml:id="p001_r_57_tl_24" break="no"/>dies bald schliessen. Zu wenig Aufträge. Es ist 
+               <lb xml:id="p001_r_57_tl_25"/>ein fataler Kreislauf."</p>
+            <p> 
+               <lb xml:id="p001_r_57_tl_26"/>Ein amerikanischer Historiker hat es einmal 
+               <lb xml:id="p001_r_57_tl_27"/>formuliert: "Die Geschichte Amerikas ist eine Ge 
+               <lb xml:id="p001_r_57_tl_28" break="no"/>schichte ungeheurer Ausbeutung." Im Süden 
+               <lb xml:id="p001_r_57_tl_29"/>wurde der Boden ausgebeutet durch den Raub 
+               <lb xml:id="p001_r_57_tl_30" break="no"/>bau auf den Plantagen. Heute kann die Baum 
+               <lb xml:id="p001_r_57_tl_31" break="no"/>wolle der Südstaaten nicht mehr mit der lang 
+               <lb xml:id="p001_r_57_tl_32" break="no"/>fasrigen Baumwolle von Aegypten, Indien auch 
+               <lb xml:id="p001_r_57_tl_33"/>von Arizona und Texas, konkurrieren. Erosion 
+               <lb xml:id="p001_r_57_tl_34"/>und Ueberschwemmung, Folgen bedenkenloser 
+               <lb xml:id="p001_r_57_tl_35"/>Abholzung zerstören das Land. Seit Generationen 
+               <lb xml:id="p001_r_57_tl_36"/>hat die herrschende weisse Klasse ihre ganze po 
+               <lb xml:id="p001_r_57_tl_37" break="no"/>litische Anstrengung darauf gerichtet, die Su 
+               <lb xml:id="p001_r_57_tl_38" break="no"/>prematie der weissen über die schwarze Rasse 
+               <lb xml:id="p001_r_57_tl_39"/>zu erhalten. Als Resultat lebt auf den zerstörten 
+               <lb xml:id="p001_r_57_tl_40"/>Feldern, in den armen Fabrikorten ein degene 
+               <lb xml:id="p001_r_57_tl_41" break="no"/>riertes Proletariat, das nun durch die Welle der 
+               <lb xml:id="p001_r_57_tl_42"/>Industralisierung ein zweites Mal ausgebeutet 
+               <lb xml:id="p001_r_57_tl_43"/>werden soll. Aber mit den Industrien sind die Ge 
+               <lb xml:id="p001_r_57_tl_44" break="no"/>werkschaften auf dem Plan erschienen. Das "Co 
+               <lb xml:id="p001_r_57_tl_45" break="no"/>mité für Industrie-Organisation" des mächtigen 
+               <lb xml:id="p001_r_57_tl_46"/>Arbeiterführers John L. Lewis hat in den Gruben 
+               <lb xml:id="p001_r_57_tl_47"/>und in den Textilzentren eine erfolgreiche Kam 
+               <lb xml:id="p001_r_57_tl_48" break="no"/>pagne durchgeführt. Die Südstaaten befinden sich 
+               <lb xml:id="p001_r_57_tl_49"/>im Studium eines akuten und erbitterten Kampfes.</p>
+            <p> 
+               <lb xml:id="p001_r_57_tl_50"/>Der Anblick dieses scheinbar unaufhaltsamer 
+               <lb xml:id="p001_r_57_tl_51"/>Degeneration verfallenen Landes ist nicht ganz
+               <milestone unit="textregion" xml:id="p001_r_68"/> 
+               <lb xml:id="p001_r_68_tl_1"/>ohne Hoffnung. Der Arzt, der mir das Ketten 
+               <lb xml:id="p001_r_68_tl_2" break="no"/>sträflings-Gefängnis zeigte, führte mich auch in 
+               <lb xml:id="p001_r_68_tl_3"/>die landwirtschaftliche Kollektivsiedlung "Pine 
+               <lb xml:id="p001_r_68_tl_4"/>Mountain Valley", ein Experiment der Regierung, 
+               <lb xml:id="p001_r_68_tl_5"/>wo bankrotte und brotlose Sharecropper als 
+               <lb xml:id="p001_r_68_tl_6"/>selbstständige Bauern das Land ehemaliger Plan 
+               <lb xml:id="p001_r_68_tl_7" break="no"/>tagen bebauen, mit Getreide, Mais, Kartoffeln, 
+               <lb xml:id="p001_r_68_tl_8"/>Gemüsen und Früchten. Viehherden weiden auf 
+               <lb xml:id="p001_r_68_tl_9"/>dem erschöpften Boden, Maultiere ziehen den 
+               <lb xml:id="p001_r_68_tl_10"/>Pflug über das neue Feld, pausbäckige Kinder 
+               <lb xml:id="p001_r_68_tl_11"/>gehen zur Schule, eine gesunde, verantwortliche 
+               <lb xml:id="p001_r_68_tl_12"/>Generation von Staatsbürgern wächst heran.</p>
+            <p> 
+               <lb xml:id="p001_r_68_tl_13"/>Die Schaffung eines freien Bauernstands wird 
+               <lb xml:id="p001_r_68_tl_14"/>vielleicht den Süden, das Stiefkind der amerika 
+               <lb xml:id="p001_r_68_tl_15" break="no"/>nischen Nation, rehabilitieren.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_68_tl_16"/><hi rendition="#b">Annemarie Clark-Schwarzenbach.</hi> 
+               <lb xml:id="p001_r_68_tl_17"/>Aufnahmen: Resettlement Adm. Washington</p>
+
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_44"/>Amerikanische Landschaft</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_3"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_3_tl_1"/>Eine Generation von Einwanderern, sorglos gemacht durch den unend 
+               <lb xml:id="p001_r_3_tl_2" break="no"/>lichen Reichtum, den das Neuland Amerika bot, hat hier, im Flussgebiet 
+               <lb xml:id="p001_r_3_tl_3"/>des Missouri, die Wälder abgeholzt, ohne an die Folgen zu denken: und 
+               <lb xml:id="p001_r_3_tl_4"/>heute zerstört Erosion e[sic]urch Wasser, das keinen Widerstand mehr findet, 
+               <lb xml:id="p001_r_3_tl_5"/>den fruchtbaren Boden, – und die heutige Generation, die Farmer Amerikas, 
+               <lb xml:id="p001_r_3_tl_6"/>haben die katastrophalen Folgen der Misswirtschaft ihrer Väter zu tragen.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_4"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_142"/>Junger Bauer verkauf Eis</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_5"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_5_tl_1"/>Die amerikanischen Farmer, – einst die Pioniere und die Elite des Landes, die mutig 
+               <lb xml:id="p001_r_5_tl_2"/>neue Gegenden erschlossen, sich unter hartem Existenzkampf ansiedelten, wo es Weide- 
+               <lb xml:id="p001_r_5_tl_3"/>oder Ackerland gab, sind heute Sorgenkinder der Regierung Roosevelts. Ueberschwemmun 
+               <lb xml:id="p001_r_5_tl_4" break="no"/>gen und Dürre vertreiben sie von ihren Farmen; der durch allzu sorglosen Anbau erschöpfte 
+               <lb xml:id="p001_r_5_tl_5"/>Boden ernährt seinen Mann nicht mehr. Und während einige Gegenden – zum Beispiel das 
+               <lb xml:id="p001_r_5_tl_6"/>reiche, von pfälzischen Bauern gut bewirtschaftete Pennsylvanien – noch immer ein Para 
+               <lb xml:id="p001_r_5_tl_7" break="no"/>dies für den Landwirt sind, brauchen selbst tüchtige Farmer im Süden und Mittelwesten 
+               <lb xml:id="p001_r_5_tl_8"/>die Unterstützung der Regierung, oder müssen sich auf alle Arten "Nebenverdienste" schaf 
+               <lb xml:id="p001_r_5_tl_9" break="no"/>fen. Der junge Farmer auf dieserPhoto hat einen solchen gefunden: er verkauft Eis.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_6"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_11"/>Frau mit Kind</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_7"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_7_tl_1"/>Reiches Amerika – und wieviel arme Ameri 
+               <lb xml:id="p001_r_7_tl_2" break="no"/>kaner! Das Gesicht dieser amerikanischen 
+               <lb xml:id="p001_r_7_tl_3"/>Mutter zeugt von Arbeit und Not, – sie ist die 
+               <lb xml:id="p001_r_7_tl_4"/>Frau eines Baumwollpflückers aus Arkansas 
+               <lb xml:id="p001_r_7_tl_5"/>– und gehört zu jenen "Armen Weissen", wel 
+               <lb xml:id="p001_r_7_tl_6" break="no"/>che die Schicksalsgenossen – und oft die er 
+               <lb xml:id="p001_r_7_tl_7" break="no"/>bitterten Konkurrenten der Nigroarbeiter sind.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
