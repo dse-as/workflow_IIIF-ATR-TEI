@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0179"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0179</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0179_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0179_001"
+                facs="https://www.monacensia-digital.de/i3f/v20/415770/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0179_001_tr_1"/>
+            <lb xml:id="letter_0179_001_tr_1_tl_1"/>Studentenschaft
+<lb xml:id="letter_0179_001_tr_1_tl_3"/>der Universität Zürich
+<lb xml:id="letter_0179_001_tr_1_tl_2"/>Zürich, den<CONV tag="p">
+<lb xml:id="letter_0179_001_tr_1_tl_4"/>Eben kommt ein Brief von Klaus
+<lb xml:id="letter_0179_001_tr_1_tl_5"/>worin er den <PAGE tag="underlined">10. XII.</PAGE> vorschlägt –
+<lb xml:id="letter_0179_001_tr_1_tl_6"/>das kollidiert, wie ich erfahre,
+<lb xml:id="letter_0179_001_tr_1_tl_7"/>ungeschickt mit einem anderen
+<lb xml:id="letter_0179_001_tr_1_tl_8"/>Vortrag.</CONV><CONV tag="p">
+<lb xml:id="letter_0179_001_l_1"/>Wir schlagen dagegen vor:
+<lb xml:id="letter_0179_001_tr_1_tl_14"/>Freitag 12. XII. oder
+<lb xml:id="letter_0179_001_tr_1_tl_17"/>Dienstag 16. XII</CONV><CONV tag="p">
+<lb xml:id="letter_0179_001_l_833"/>Dies die besten
+<lb xml:id="letter_0179_001_l_837"/>Tage. Ausserdem:
+<lb xml:id="letter_0179_001_l_841"/>Mittwoch, 17. XII.
+<lb xml:id="letter_0179_001_l_845"/><PAGE tag="underlined">Keinesfalls</PAGE> ein
+<lb xml:id="letter_0179_001_l_849"/>Samstag, wen[n]
+<lb xml:id="letter_0179_001_l_853"/>möglich nicht
+<lb xml:id="letter_0179_001_l_872"/>Montag (aber
+<lb xml:id="letter_0179_001_l_876"/>eventuell der 15. XII)</CONV><CONV tag="p">
+<lb xml:id="letter_0179_001_tr_1_tl_19"/>Schreib bitte <PAGE tag="underlined">gleich</PAGE> u. endgültig!!
+<lb xml:id="letter_0179_001_tr_1_tl_20"/>Dank für die Bilder –</CONV><CONV tag="p">
+<lb xml:id="letter_0179_001_l"/>(Keiner kann Dich richtig photographieren,
+<lb xml:id="letter_0179_001_tr_1_tl_23"/>an was liegt das!)</CONV><CONV tag="p">
+<lb xml:id="letter_0179_001_l_2"/>Und die Wohnungsfrage: Verschiedene
+<lb xml:id="letter_0179_001_tr_1_tl_26"/>wollen Euch beherbergen, aber da Du
+<lb xml:id="letter_0179_001_l_3"/>ohnehin bei uns wohnst, hielt ich es
+<lb xml:id="letter_0179_001_l_4"/>für das Nettste Klaus käme mit.
+<lb xml:id="letter_0179_001_tr_1_tl_31"/>Jedoch: Erstens findet man, die</CONV><!--FML: this needs attention (was tagged as "fml" in Transkribus)--><pb xml:id="letter_0179_002"
+                facs="https://www.monacensia-digital.de/i3f/v20/415771/info.json"/>
+            <milestone unit="textregion" xml:id="letter_0179_002_tr_1"/><CONV tag="p">
+<lb xml:id="letter_0179_002_tr_1_tl_1"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->Lage Bockens sei ein wenig ungeschickt
+<lb xml:id="letter_0179_002_tr_1_tl_2"/>falls Klaus irgendwelcher offizieller
+<lb xml:id="letter_0179_002_tr_1_tl_3"/>Funktionen halber zu irgendwelchen
+<lb xml:id="letter_0179_002_tr_1_tl_4"/>Zeiten in die Stadt müsste –</CONV><CONV tag="p">
+<lb xml:id="letter_0179_002_tr_1_tl_5"/>Zweitens sind da männliche Anwärter,
+<lb xml:id="letter_0179_002_tr_1_tl_6"/>ich denke vor allem an den sehr
+<lb xml:id="letter_0179_002_tr_1_tl_7"/>reizenden Heini (nicht Edi!) Fueter,
+<lb xml:id="letter_0179_002_tr_1_tl_8"/>Stiefsohn Prof. Faesis, Freund von Fred,
+<lb xml:id="letter_0179_002_l"/>welche vielleicht finden es sei ungerecht
+<lb xml:id="letter_0179_002_tr_1_tl_11"/>wen[n] ich sozusagen "alles beanspruche”</CONV><CONV tag="p">
+<lb xml:id="letter_0179_002_l_1"/>Endlich aber sagt Mama, und das ist
+<lb xml:id="letter_0179_002_tr_1_tl_14"/>wichtig, dass <PAGE tag="strikethrough">mehr</PAGE> ausser anderen Besuchern
+<lb xml:id="letter_0179_002_tr_1_tl_15"/><PAGE tag="underlined">vielleicht</PAGE> mein kranker Bruder Robuli
+<lb xml:id="letter_0179_002_tr_1_tl_16"/>hier sein kön[n]te, in diesem Fall müsste,
+<lb xml:id="letter_0179_002_tr_1_tl_17"/>da er empfindlich ist, jeder Betrieb ver¬
+<lb xml:id="letter_0179_002_tr_1_tl_18"/>mieden werden. – Was meinst Du, würde es
+<lb xml:id="letter_0179_002_tr_1_tl_19"/>Klaus wohl angenehm sein im Faesi'schen
+<lb xml:id="letter_0179_002_tr_1_tl_20"/>Rebgütli [Wohnhaus der Familie Faesi in Zollikon], durch den See von Dir getre[n]t
+<lb xml:id="letter_0179_002_l_2"/>und unter Heinis Fürsorge, zu logieren?</CONV><CONV tag="p">
+<lb xml:id="letter_0179_002_tr_1_tl_23"/>ich freue mich
+<lb xml:id="letter_0179_002_tr_1_tl_24"/>sehr Klaus
+<lb xml:id="letter_0179_002_tr_1_tl_26"/>ken[n]en zu lernen!</CONV><CONV tag="p">
+<lb xml:id="letter_0179_002_tr_1_tl_25"/>Berichte all dies rasch
+<lb xml:id="letter_0179_002_tr_1_tl_27"/>und sei innig geküsst.</CONV><CONV tag="p">
+<lb xml:id="letter_0179_002_l_3"/>TELEGRAPHIERE ev. das DATUM, wir <PAGE tag="underlined">müssen</PAGE>
+<lb xml:id="letter_0179_002_tr_1_tl_30"/>anfangen, Reklame zu machen!</CONV><CONV tag="p">
+<lb xml:id="letter_0179_002_l_382"/><PAGE tag="underlined">Wirst Du es möglich machen, ein wenig hier</PAGE>
+<lb xml:id="letter_0179_002_l_378"/><PAGE tag="underlined">zu bleiben</PAGE>? Ich bitte Dich <PAGE tag="underlined">sehr</PAGE> darum!</CONV></div>
+      </body>
+   </text>
+</TEI>

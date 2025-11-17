@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0179" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0179#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0179</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0179_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415770/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Studentenschaft 
+               <lb xml:id="p001_tr_1_tl_3"/>der Universität Zürich 
+               <lb xml:id="p001_tr_1_tl_2"/>Zürich, den</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_4"/>Eben kommt ein Brief von Klaus 
+               <lb xml:id="p001_tr_1_tl_5"/>worin er den <hi rendition="#u">10. XII.</hi> vorschlägt – 
+               <lb xml:id="p001_tr_1_tl_6"/>das kollidiert, wie ich erfahre, 
+               <lb xml:id="p001_tr_1_tl_7"/>ungeschickt mit einem anderen 
+               <lb xml:id="p001_tr_1_tl_8"/>Vortrag.</p>
+            <p> 
+               <lb xml:id="p001_l_1"/>Wir schlagen dagegen vor: 
+               <lb xml:id="p001_tr_1_tl_14"/>Freitag 12. XII. oder 
+               <lb xml:id="p001_tr_1_tl_17"/>Dienstag 16. XII</p>
+            <p> 
+               <lb xml:id="p001_l_833"/>Dies die besten 
+               <lb xml:id="p001_l_837"/>Tage. Ausserdem: 
+               <lb xml:id="p001_l_841"/>Mittwoch, 17. XII. 
+               <lb xml:id="p001_l_845"/><hi rendition="#u">Keinesfalls</hi> ein 
+               <lb xml:id="p001_l_849"/>Samstag, wen[n] 
+               <lb xml:id="p001_l_853"/>möglich nicht 
+               <lb xml:id="p001_l_872"/>Montag (aber 
+               <lb xml:id="p001_l_876"/>eventuell der 15. XII)</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_19"/>Schreib bitte <hi rendition="#u">gleich</hi> u. endgültig!! 
+               <lb xml:id="p001_tr_1_tl_20"/>Dank für die Bilder –</p>
+            <p> 
+               <lb xml:id="p001_l"/>(Keiner kann Dich richtig photographieren, 
+               <lb xml:id="p001_tr_1_tl_23"/>an was liegt das!)</p>
+            <p> 
+               <lb xml:id="p001_l_2"/>Und die Wohnungsfrage: Verschiedene 
+               <lb xml:id="p001_tr_1_tl_26"/>wollen Euch beherbergen, aber da Du 
+               <lb xml:id="p001_l_3"/>ohnehin bei uns wohnst, hielt ich es 
+               <lb xml:id="p001_l_4"/>für das Nettste Klaus käme mit. 
+               <lb xml:id="p001_tr_1_tl_31"/>Jedoch: Erstens findet man, die</p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415771/info.json"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p> 
+               <lb xml:id="p002_tr_1_tl_1"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+Lage Bockens sei ein wenig ungeschickt 
+               <lb xml:id="p002_tr_1_tl_2"/>falls Klaus irgendwelcher offizieller 
+               <lb xml:id="p002_tr_1_tl_3"/>Funktionen halber zu irgendwelchen 
+               <lb xml:id="p002_tr_1_tl_4"/>Zeiten in die Stadt müsste –</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_5"/>Zweitens sind da männliche Anwärter, 
+               <lb xml:id="p002_tr_1_tl_6"/>ich denke vor allem an den sehr 
+               <lb xml:id="p002_tr_1_tl_7"/>reizenden Heini (nicht Edi!) Fueter, 
+               <lb xml:id="p002_tr_1_tl_8"/>Stiefsohn Prof. Faesis, Freund von Fred, 
+               <lb xml:id="p002_l"/>welche vielleicht finden es sei ungerecht 
+               <lb xml:id="p002_tr_1_tl_11"/>wen[n] ich sozusagen "alles beanspruche"</p>
+            <p> 
+               <lb xml:id="p002_l_1"/>Endlich aber sagt Mama, und das ist 
+               <lb xml:id="p002_tr_1_tl_14"/>wichtig, dass <del rend="overstrike">mehr</del> ausser anderen Besuchern 
+               <lb xml:id="p002_tr_1_tl_15"/><hi rendition="#u">vielleicht</hi> mein kranker Bruder Robuli 
+               <lb xml:id="p002_tr_1_tl_16"/>hier sein kön[n]te, in diesem Fall müsste, 
+               <lb xml:id="p002_tr_1_tl_17"/>da er empfindlich ist, jeder Betrieb ver 
+               <lb xml:id="p002_tr_1_tl_18" break="no"/>mieden werden. – Was meinst Du, würde es 
+               <lb xml:id="p002_tr_1_tl_19"/>Klaus wohl angenehm sein im Faesi'schen 
+               <lb xml:id="p002_tr_1_tl_20"/>Rebgütli [Wohnhaus der Familie Faesi in Zollikon], durch den See von Dir getre[n]t 
+               <lb xml:id="p002_l_2"/>und unter Heinis Fürsorge, zu logieren?</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_23"/>ich freue mich 
+               <lb xml:id="p002_tr_1_tl_24"/>sehr Klaus 
+               <lb xml:id="p002_tr_1_tl_26"/>ken[n]en zu lernen!</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_25"/>Berichte all dies rasch 
+               <lb xml:id="p002_tr_1_tl_27"/>und sei innig geküsst.</p>
+            <p> 
+               <lb xml:id="p002_l_3"/>TELEGRAPHIERE ev. das DATUM, wir <hi rendition="#u">müssen</hi> 
+               <lb xml:id="p002_tr_1_tl_30"/>anfangen, Reklame zu machen!</p>
+            <p> 
+               <lb xml:id="p002_l_382"/><hi rendition="#u">Wirst Du es möglich machen, ein wenig hier 
+                  <lb xml:id="p002_l_378"/>zu bleiben</hi>? Ich bitte Dich <hi rendition="#u">sehr</hi> darum!</p>
+</div>
+       </body>
+    </text>
+ </TEI>
