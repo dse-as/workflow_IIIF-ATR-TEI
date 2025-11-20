@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0280" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0280#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0280</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0280"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0280_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0280_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_tl_1"/>Die Wiederentdeckung 
+               <lb xml:id="p001_r_tl_2"/>Amerikas 
+               <lb xml:id="p001_r_tl_3"/>Von Dr. A. Clark-Schwarzenbach 
+               <lb xml:id="p001_r_tl_4"/>II. Gefährliche Industrialisierung</p>
+            <p> 
+               <lb xml:id="p001_r_tl_5"/>Am 13. November 1937 erschien in der populä 
+               <lb xml:id="p001_r_tl_6" break="no"/>ren amerikanischen Wochenschrift "Colliers' 
+               <lb xml:id="p001_r_tl_7"/>Weekly" ein Artikel von Walter <hi rendition="#g">Davenport</hi>, 
+               <lb xml:id="p001_r_tl_8"/>der den sensationellen Titel trug: "Arbeit ohne 
+               <lb xml:id="p001_r_tl_9"/>Bezahlung". Der Artikel behandelte keine Eheschei 
+               <lb xml:id="p001_r_tl_10" break="no"/>dung eines Filmstars, keine Entführung eines 
+               <lb xml:id="p001_r_tl_11"/>Millionärs-Sohns, keine Erschießung eines Gang 
+               <lb xml:id="p001_r_tl_12" break="no"/>sters oder wie all die Ereignisse heißen, aus denen 
+               <lb xml:id="p001_r_tl_13"/>sich die skandalöse amerikanische Tageschronik zu 
+               <lb xml:id="p001_r_tl_14" break="no"/>sammensetzt. Trotzdem war es ein Skandal großen 
+               <lb xml:id="p001_r_tl_15"/>Stils, und der Artikel ging von Hand zu Hand. 
+               <lb xml:id="p001_r_tl_16"/>Arbeiter lasen ihn, Arbeitgeber, Gewerkschafts 
+               <lb xml:id="p001_r_tl_17" break="no"/>funktionäre und die Beamten des "Komitees für 
+               <lb xml:id="p001_r_tl_18"/>bürgerliche Freiheiten" in Washington. Der Arti 
+               <lb xml:id="p001_r_tl_19" break="no"/>kel befaßte sich mit unhaltbaren Zuständen in den<hi rendition="#g"> 
+                  <lb xml:id="p001_r_tl_20"/>Südstaaten</hi>. Es gebe alte Textilfabriken, hieß 
+               <lb xml:id="p001_r_tl_21"/>es da, wo Männer und Frauen seit Jahren arbei 
+               <lb xml:id="p001_r_tl_22" break="no"/>teten, ohne auch nur einen Cent Bargeld zu sehen. 
+               <lb xml:id="p001_r_tl_23"/>Zum Beispiel betrage der Wochenlohn eines We 
+               <lb xml:id="p001_r_tl_24" break="no"/>bers 14 Dollar 40; aber nach Abziehen aller "Un 
+               <lb xml:id="p001_r_tl_25" break="no"/>kosten" belaufe sich die Abrechnung genau auf 
+               <lb xml:id="p001_r_tl_26"/>Null, und der Weber erhalte folglich nichts in bar 
+               <lb xml:id="p001_r_tl_27"/>ausbezahlt. Als Unkosten würden berechnet: Miete 
+               <lb xml:id="p001_r_tl_28"/>für die Wohnung, die dem Fabrikherrn gehörte; 
+               <lb xml:id="p001_r_tl_29"/>der Preis für Holz, Kohle, Elektrizität, Wasser, die 
+               <lb xml:id="p001_r_tl_30"/>dem Fabrikherrn gehörten, sodann Krankenkasse 
+               <lb xml:id="p001_r_tl_31"/>und Versicherung. Der Rest sei Kredit im Laden, 
+               <lb xml:id="p001_r_tl_32"/>der ebenfalls dem Fabrikherrn gehörte. Dort ge 
+               <lb xml:id="p001_r_tl_33" break="no"/>nieße der Arbeiter Kredit, beziehe Waren gegen 
+               <lb xml:id="p001_r_tl_34"/>Gutscheine und bleibe dem Fabrikherrn noch etwas 
+               <lb xml:id="p001_r_tl_35"/>schuldig, so daß er dauernd verschuldet sei, von 
+               <lb xml:id="p001_r_tl_36"/>Woche zu Woche, von Monat zu Monat, von Jahr 
+               <lb xml:id="p001_r_tl_37"/>zu Jahr. Das sei praktische Sklaverei, erklärte 
+               <lb xml:id="p001_r_tl_38"/>Walter Davenport in seinem Artikel. Genau so 
+               <lb xml:id="p001_r_tl_39"/>sei es auf den Plantagen, wo die Baumwollpäch 
+               <lb xml:id="p001_r_tl_40" break="no"/>ter, und zwar Neger und Weiße, dem Plantage 
+               <lb xml:id="p001_r_tl_41" break="no"/>herrn ihr Leben lang verschuldet seien. Sterbe der 
+               <lb xml:id="p001_r_tl_42"/>Vater, so müsse der Sohn die Schulden überneh 
+               <lb xml:id="p001_r_tl_43" break="no"/>men. Die Pächter auf der Plantage, die Arbeiter 
+               <lb xml:id="p001_r_tl_44"/>im Fabrikdorf seien Sklaven. Das Kreditsystem 
+               <lb xml:id="p001_r_tl_45"/>nehme ihnen nicht nur die Freiheit, es habe auch 
+               <lb xml:id="p001_r_tl_46"/>eine demoralisierende Wirkung. Nachher heiße es 
+               <lb xml:id="p001_r_tl_47"/>dann, die Proletarier der Südstaaten, ganz gleich 
+               <lb xml:id="p001_r_tl_48"/>ob weiß oder schwarz, seien ein amoralisches Pack, 
+               <lb xml:id="p001_r_tl_49"/>das nicht mit Geld umgehen könne, kein Verant 
+               <lb xml:id="p001_r_tl_50" break="no"/>wortungsgefühl habe und in dumpfer Resignation 
+               <lb xml:id="p001_r_tl_51"/>dahinvegetiere. Dazu komme die schlechte Ernäh 
+               <lb xml:id="p001_r_tl_52" break="no"/>rung, welche die Bevölkerung mit Pellagra oder 
+               <lb xml:id="p001_r_tl_53"/>der Maiskrankheit verseuche. Wer sei, so fragte 
+               <lb xml:id="p001_r_tl_54"/>Davenport, verantwortlich für diese Zustände? 
+               <lb xml:id="p001_r_tl_55"/>Etwa die Proletarier selber, die in diesem System 
+               <lb xml:id="p001_r_tl_56"/>gefangen seien?</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space]</p>
+            <p> 
+               <lb xml:id="p001_r_tl_57"/>Die Beschuldigten reagierten heftig auf Daven 
+               <lb xml:id="p001_r_tl_58" break="no"/>ports Artikel. Sie erklärten in den lokalen Zeitun 
+               <lb xml:id="p001_r_tl_59" break="no"/>gen, sie würden eine Untersuchung über die Zu 
+               <lb xml:id="p001_r_tl_60" break="no"/>stände in den Fabrikdörfern anordnen, welche Da 
+               <lb xml:id="p001_r_tl_61" break="no"/>venports Anschuldigungen entkräften, ihn als 
+               <lb xml:id="p001_r_tl_62"/>einen Lügner entlarven würden. Aber die Resul 
+               <lb xml:id="p001_r_tl_63" break="no"/>tate dieser Untersuchung sind nie bekannt gewor 
+               <lb xml:id="p001_r_tl_64" break="no"/>den. Dafür setzte noch im gleichen Monat die neue 
+               <lb xml:id="p001_r_tl_65"/>Krise ein; zuerst war es eine Börsenkrise an der 
+               <lb xml:id="p001_r_tl_66"/>New Yorker "Wall Street"; dann war es eine 
+               <lb xml:id="p001_r_tl_67"/>Produktionskrise, und die Zahl der Arbeitslosen 
+               <lb xml:id="p001_r_tl_68"/>begann rapid zu steigen. Ich war damals in den 
+               <lb xml:id="p001_r_tl_69"/>Südstaaten, in Tennessee, in den Kohlengruben 
+               <lb xml:id="p001_r_tl_70"/>und Holzfällerlagern, dann in der düsteren Indu 
+               <lb xml:id="p001_r_tl_71" break="no"/>striestadt Birmingham in Alabama, dann in Ge 
+               <lb xml:id="p001_r_tl_72" break="no"/>orgia und in den alten Textildörfern von Nord- 
+               <lb xml:id="p001_r_tl_73"/>und Süd-Carolina. Ich konnte alles nachprüfen, 
+               <lb xml:id="p001_r_tl_74"/>was Davenport behauptet hatte. Er war kein Lüg 
+               <lb xml:id="p001_r_tl_75" break="no"/>ner. In den Fabrikdörfern herrschte das gleiche 
+               <lb xml:id="p001_r_tl_76"/>Elend, die gleiche chronische Verschuldung, die 
+               <lb xml:id="p001_r_tl_77"/>gleiche Mentalität wie auf den Plantagen. Es 
+               <lb xml:id="p001_r_tl_78"/>war die Mentalität des Rassenkampfes, geboren 
+               <lb xml:id="p001_r_tl_79"/>aus der Furcht der weißen Minorität vor den 
+               <lb xml:id="p001_r_tl_80"/>Schwarzen. Ein Sprichwort im amerikanischen Sü 
+               <lb xml:id="p001_r_tl_81" break="no"/>den sagt: "Man kann keinen Mann unten im Gra 
+               <lb xml:id="p001_r_tl_82" break="no"/>ben halten, ohne daß jemand unten bei ihm 
+               <lb xml:id="p001_r_tl_83"/>bleibt." Der Mann, der es unten im Graben der 
+               <lb xml:id="p001_r_tl_84"/>sozialen Unterdrückung zusammen mit dem Neger 
+               <lb xml:id="p001_r_tl_85"/>aushalten mußte, war der "arme Weiße", der 
+               <lb xml:id="p001_r_tl_86"/>"vergessene Mann" der amerikanischen Nation. 
+               <lb xml:id="p001_r_tl_87"/>Seit dem Ende des amerikanischen Bürgerkriegs, 
+               <lb xml:id="p001_r_tl_88"/>seit der Aufhebung der Sklaverei vor über siebzig 
+               <lb xml:id="p001_r_tl_89"/>Jahren hatte die weiße Oberschicht der Südstaaten 
+               <lb xml:id="p001_r_tl_90"/>ihre ganze Anstrengung darauf gerichtet, ihre ab 
+               <lb xml:id="p001_r_tl_91" break="no"/>solute Vorherrschaft über die schwarze Rasse auf 
+               <lb xml:id="p001_r_tl_92" break="no"/>recht zu erhalten. Auf den Plantagen hatte man 
+               <lb xml:id="p001_r_tl_93"/>einen Ersatz für die Sklaverei gefunden in der 
+               <lb xml:id="p001_r_tl_94"/>Einrichtung des sogenannten "Ernte-Teilens", 
+               <lb xml:id="p001_r_tl_95"/>welches den schwarzen und den neu hinzukommen
+               <milestone unit="textregion" xml:id="p001_r_2"/> 
+               <lb xml:id="p001_r_2_tl_1" break="no"/>den weißen Pächter oder Taglöhner ganz von sei 
+               <lb xml:id="p001_r_2_tl_2" break="no"/>nem Herrn abhängig machte. Denn das System 
+               <lb xml:id="p001_r_2_tl_3"/>führte fast unausweichlich zur Verschuldung des 
+               <lb xml:id="p001_r_2_tl_4"/>Pächters oder Taglöhners. Ganz ähnlich ist es 
+               <lb xml:id="p001_r_2_tl_5"/>in den wenigen Industriezentren des Südens. 
+               <lb xml:id="p001_r_2_tl_6"/>Dort gehört Leben und Eigentum der Arbeiter 
+               <lb xml:id="p001_r_2_tl_7"/>dem Fabrikherrn. Soweit geht der Eigentums 
+               <lb xml:id="p001_r_2_tl_8" break="no"/>begriff, daß die private Polizei der Fabrik mich 
+               <lb xml:id="p001_r_2_tl_9"/>wegweisen konnte, wenn es mir einfiel, in einem 
+               <lb xml:id="p001_r_2_tl_10"/>Fabrikdorf Halt zu machen und mit jemandem zu 
+               <lb xml:id="p001_r_2_tl_11"/>sprechen. "Betreten fremden Eigentums" heißt das, 
+               <lb xml:id="p001_r_2_tl_12"/>und es ist die stärkste Waffe gegen weniger harm 
+               <lb xml:id="p001_r_2_tl_13" break="no"/>lose Besucher als ich einer war, nämlich gegen die 
+               <lb xml:id="p001_r_2_tl_14"/>Gewerkschaftsfunktionäre, welche in die Fabrik 
+               <lb xml:id="p001_r_2_tl_15" break="no"/>dörfer kommen, um Versammlungen abzuhalten, 
+               <lb xml:id="p001_r_2_tl_16"/>zu denen ihnen das neue Gesetz über Gewerkschafts 
+               <lb xml:id="p001_r_2_tl_17" break="no"/>organisation das Recht gibt. Unter Roosevelt 
+               <lb xml:id="p001_r_2_tl_18"/>war dieses Gesetz in Kraft getreten, das alle Ar 
+               <lb xml:id="p001_r_2_tl_19" break="no"/>beiter berechtigt, kollektiv mit dem Arbeitgeber zu 
+               <lb xml:id="p001_r_2_tl_20"/>verhandeln und Arbeitsverträge abzuschließen. 
+               <lb xml:id="p001_r_2_tl_21"/>Aber die Fabrikgesellschaft kann den Gewerk 
+               <lb xml:id="p001_r_2_tl_22" break="no"/>schaftsfunktionären verbieten, ihr Eigentum zu be 
+               <lb xml:id="p001_r_2_tl_23" break="no"/>treten, und damit sind alle durch das genannte 
+               <lb xml:id="p001_r_2_tl_24"/>Gesetz gegebenen Möglichkeiten hinfällig.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space]</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_25"/>Eine kleine Landstadt im "Plantagen-Staate" 
+               <lb xml:id="p001_r_2_tl_26"/>Georgia hat auf ihrem Marktplatz ein Denkmal 
+               <lb xml:id="p001_r_2_tl_27"/>errichtet. Es ist ein einzigartiges Denkmal: es 
+               <lb xml:id="p001_r_2_tl_28"/>wurde errichtet zur Erinnerung an den Baum 
+               <lb xml:id="p001_r_2_tl_29" break="no"/>wollwurm, der während der Jahre der Wirt 
+               <lb xml:id="p001_r_2_tl_30" break="no"/>schaftskrise die Baumwollfelder des amerikanischen 
+               <lb xml:id="p001_r_2_tl_31"/>Südens heimsuchte und nicht wenig zum Ende der 
+               <lb xml:id="p001_r_2_tl_32"/>Baumwollprosperität und zum Sturz des alles 
+               <lb xml:id="p001_r_2_tl_33"/>beherrschenden "Königs Baumwolle" beigetragen 
+               <lb xml:id="p001_r_2_tl_34"/>hat. Die Einwohner von Georgia wußten, warum 
+               <lb xml:id="p001_r_2_tl_35"/>sie die verheerende Seuche ehrten, wie man sonst 
+               <lb xml:id="p001_r_2_tl_36"/>einen siegreichen General oder den Unbekannten 
+               <lb xml:id="p001_r_2_tl_37"/>Soldaten ehrt. Sie wußten, daß das Ende der 
+               <lb xml:id="p001_r_2_tl_38"/>Baumwolle zwar zunächst Arbeitslosigkeit und 
+               <lb xml:id="p001_r_2_tl_39"/>Hunger bedeuten würde, daß es aber auch der 
+               <lb xml:id="p001_r_2_tl_40"/>Anfang der Befreiung aus der langen Sklaverei 
+               <lb xml:id="p001_r_2_tl_41"/>ist. Die Südstaaten nennt man Plantagenstaaten, 
+               <lb xml:id="p001_r_2_tl_42"/>weil es keinen freien Bauernstand gibt, sondern 
+               <lb xml:id="p001_r_2_tl_43"/>nur den aristokratischen Großgrundbesitz der Plan 
+               <lb xml:id="p001_r_2_tl_44" break="no"/>tage, deren Betrieb einem Fabrikbetrieb ähnlich 
+               <lb xml:id="p001_r_2_tl_45"/>ist und der ein ländliches Proletariat beider 
+               <lb xml:id="p001_r_2_tl_46"/>Rassen hervorbrachte. Jetzt wurde eine große Zahl 
+               <lb xml:id="p001_r_2_tl_47"/>von Baumwollpächtern und Taglöhnern arbeits- 
+               <lb xml:id="p001_r_2_tl_48"/>und heimatlos. Die Industrie machte sich die Si 
+               <lb xml:id="p001_r_2_tl_49" break="no"/>tuation zunutze, und seit einer Reihe von Jahren 
+               <lb xml:id="p001_r_2_tl_50"/>schießen in den Südstaaten die Fabrikschlote wie 
+               <lb xml:id="p001_r_2_tl_51"/>Pilze aus dem Boden; neue Spinnereien und We 
+               <lb xml:id="p001_r_2_tl_52" break="no"/>bereien konkurrieren mit den alten und mit den 
+               <lb xml:id="p001_r_2_tl_53"/>Baumwollmühlen in Neu-England, welche höhere 
+               <lb xml:id="p001_r_2_tl_54"/>Löhne zahlen müssen, da sie eine geschulte, in star 
+               <lb xml:id="p001_r_2_tl_55" break="no"/>ken Gewerkschaften zusammengeschlossene Arbeiter 
+               <lb xml:id="p001_r_2_tl_56" break="no"/>schaft besitzen. Auf unbrauchbar gewordenen Plan 
+               <lb xml:id="p001_r_2_tl_57" break="no"/>tagen werden Fichten angepflanzt, deren Holz in 
+               <lb xml:id="p001_r_2_tl_58"/>Papiermühlen, Kunstseidefabriken, Möbe[sic]fabriken, 
+               <lb xml:id="p001_r_2_tl_59"/>verwendet wird. In Florida gibt es Konserven 
+               <lb xml:id="p001_r_2_tl_60" break="no"/>fabriken neben den Gemüse- und Obstplantagen. 
+               <lb xml:id="p001_r_2_tl_61"/>In Memphis hat Henri Ford eine Automobil 
+               <lb xml:id="p001_r_2_tl_62" break="no"/>fabrik eröffnet. In Gadsden, Alabama, arbeitet 
+               <lb xml:id="p001_r_2_tl_63"/>die gesamte Bevölkerung in den Strumpfwebe 
+               <lb xml:id="p001_r_2_tl_64" break="no"/>reien und in den Werken der Goodyear-Autorei 
+               <lb xml:id="p001_r_2_tl_65" break="no"/>fenwerke.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_66"/>Die Südstaaten sind arm, die Industrie bringt 
+               <lb xml:id="p001_r_2_tl_67"/>Geld ins Land. Daher locken die Behörden die 
+               <lb xml:id="p001_r_2_tl_68"/>Unternehmer mit allerlei Vorteilen: mit billigen 
+               <lb xml:id="p001_r_2_tl_69"/>Grundstücken, niedrigen Steuern, freier Wasser 
+               <lb xml:id="p001_r_2_tl_70" break="no"/>kraft. Die Unternehmer investieren ihr Kapital 
+               <lb xml:id="p001_r_2_tl_71"/>im Süden, rechnen mit niedrigen Löhnen, mit der 
+               <lb xml:id="p001_r_2_tl_72"/>Zurückgebliebenheit der Bevölkerung. Aber eben 
+               <lb xml:id="p001_r_2_tl_73" break="no"/>so stürmisch wie das Tempo der Industrialisie 
+               <lb xml:id="p001_r_2_tl_74" break="no"/>rung in den ehemaligen Sklavenstaaten ist das 
+               <lb xml:id="p001_r_2_tl_75" break="no"/>jenige der gewerkschaftlichen Organisation. Wo 
+               <lb xml:id="p001_r_2_tl_76"/>sich in den Städten und neuen Fabrikdörfern 
+               <lb xml:id="p001_r_2_tl_77"/>das neue Fabrikproletariat ansammelt, da sind 
+               <lb xml:id="p001_r_2_tl_78"/>die Voraussetzungen geschaffen für die "Organi 
+               <lb xml:id="p001_r_2_tl_79" break="no"/>sation". Ein neues "Klassenbewußtsein" wird ge 
+               <lb xml:id="p001_r_2_tl_80" break="no"/>züchtet und ist oft sogar stärker als der altein 
+               <lb xml:id="p001_r_2_tl_81" break="no"/>gesessene Rassenhaß zwischen Weißen und Negern. 
+               <lb xml:id="p001_r_2_tl_82"/>Früher wurde der Rassenhaß auf den Plantagen 
+               <lb xml:id="p001_r_2_tl_83"/>gefördert, damit die "armen Weißen" nicht ge 
+               <lb xml:id="p001_r_2_tl_84" break="no"/>meinsam Front mit den Negern machten; in den 
+               <lb xml:id="p001_r_2_tl_85"/>Fabriksiedlungen steht es damit anders. Es gibt 
+               <lb xml:id="p001_r_2_tl_86"/>hier wenig Neger, und sie verrichten nur die ein 
+               <lb xml:id="p001_r_2_tl_87" break="no"/>fachsten Arbeiten, die am schlechtesten bezahlt sind. 
+               <lb xml:id="p001_r_2_tl_88"/>Die Neger sind, vorläufig wenigstens, für den 
+               <lb xml:id="p001_r_2_tl_89"/>Industriearbeiter keine Konkurrenz; man nimmt 
+               <lb xml:id="p001_r_2_tl_90"/>sie sogar auf in die Gewerkschaft, und eine neue 
+               <lb xml:id="p001_r_2_tl_91"/>Solidarität zwischen schwarzem und weißem Pro 
+               <lb xml:id="p001_r_2_tl_92" break="no"/>letariat beginnt zu entstehen.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space]</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_93"/>Bis vor wenigen Jahren war der amerika 
+               <lb xml:id="p001_r_2_tl_94" break="no"/>nische Süden ein vergessenes Land. Fern vom 
+               <lb xml:id="p001_r_2_tl_95"/>Lärm der Großstädte schien hier auf den Plan 
+               <lb xml:id="p001_r_2_tl_96" break="no"/>tagen das Leben seinen altgewohnten, idyllischen 
+               <lb xml:id="p001_r_2_tl_97"/>Gang zu nehmen. Dann kam die große Krise, und 
+               <lb xml:id="p001_r_2_tl_98"/>sie hat den "Baumwoll-Gürtel" härter betroffen 
+               <lb xml:id="p001_r_2_tl_99"/>als irgend einen anderen Teil Amerikas. Plötzlich 
+               <lb xml:id="p001_r_2_tl_100"/>lagen die Wunden offen zutage. Man sah: hier 
+               <lb xml:id="p001_r_2_tl_101"/>ging eine einst fruchtbare und blühende Region 
+               <lb xml:id="p001_r_2_tl_102"/>langsam zugrunde; der Boden verdarb; die Be 
+               <lb xml:id="p001_r_2_tl_103" break="no"/>völkerung verkam unter dem Druck eines Systems, 
+               <lb xml:id="p001_r_2_tl_104"/>welches das ganze Leben beherrschte. Die Dinge 
+               <lb xml:id="p001_r_2_tl_105"/>kamen ins Rollen. Heute weiß man, daß es vor 
+               <lb xml:id="p001_r_2_tl_106" break="no"/>bei ist mit der Baumwollprosperität, vorbei daher 
+               <lb xml:id="p001_r_2_tl_107"/>auch mit der Plantage, mit dem alten, feudalen 
+               <lb xml:id="p001_r_2_tl_108"/>System des Großgrundbesitzes. Und gleichsam über
+               <milestone unit="textregion" xml:id="p001_r_7"/> 
+               <lb xml:id="p001_r_7_tl_1"/>Nacht begann die Industrialisierung und nicht 
+               <lb xml:id="p001_r_7_tl_2"/>minder stürmisch das, was die sozialistische Ter 
+               <lb xml:id="p001_r_7_tl_3" break="no"/>minologie als Klassenkampf bezeichnet. Der Sü 
+               <lb xml:id="p001_r_7_tl_4" break="no"/>den wurde zum aktuellsten und für die Zukunft 
+               <lb xml:id="p001_r_7_tl_5"/>des Landes vielleicht gefährlichsten Kampfplatz 
+               <lb xml:id="p001_r_7_tl_6"/>der Vereinigten Staaten.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
