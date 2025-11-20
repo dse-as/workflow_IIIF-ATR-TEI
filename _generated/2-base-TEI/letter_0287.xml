@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0287" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0287#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0287</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0287_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415351/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l"/>[Foreign Hand?] 17.9.1933</p>
+
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Porto Ronco Sonntag</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_2"/>Liebster Klaus, ich versuchte gestern Dich anzurufen 
+               <lb xml:id="p001_tr_1_tl_3"/>ohne weiteren Grund nur weil ich die Sache mit der 
+               <lb xml:id="p001_tr_1_tl_4"/>Sammlung, diesen Stoss inden Rücken, so besonders 
+               <lb xml:id="p001_tr_1_tl_5"/>scheusslich finde – Jm Augenblick lässt sich ja sicher 
+               <lb xml:id="p001_tr_1_tl_6"/>nicht mehr machen, als wenn möglich Beermann an der 
+               <lb xml:id="p001_tr_1_tl_7"/>Veröffentlichung der Dementi zu hindern –</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_8"/>aber auch die weiteren Konsequenzen sind zu arg und 
+               <lb xml:id="p001_tr_1_tl_9"/>hässlich, mein armer Klaus Heinrich – denn die Autoren 
+               <lb xml:id="p001_tr_1_tl_10"/>auf die Du rechnen musstest sind dann wohl alle 
+               <lb xml:id="p001_tr_1_tl_11"/>für unseren Fall erledigt und ausser Betracht – Eri 
+               <lb xml:id="p001_tr_1_tl_12"/>sagte es schon: man müsse die anderen – das heisst 
+               <lb xml:id="p001_tr_1_tl_13"/>wohl, die Jüngeren finden – aber wo – – Und es versteht sich 
+               <lb xml:id="p001_tr_1_tl_14"/>dass die Goebbels &amp; Co auch ihr Bestes und Schlechtestes 
+               <lb xml:id="p001_tr_1_tl_15"/>tun werden, um ihrerseits die Jugend zu finden und zu 
+               <lb xml:id="p001_tr_1_tl_16"/>encouragieren – bitter nötig haben sie es ja - <hi rendition="#g">wen</hi> sie 
+               <lb xml:id="p001_tr_1_tl_17"/>da finden, ist das grosse unbekannte X der Rechnung, 
+               <lb xml:id="p001_tr_1_tl_18"/>und wen Du findest das zweite – Jch habe mir heute 
+               <lb xml:id="p001_tr_1_tl_19"/>nacht [sic] alles tausendfach überlegt, es bleibt für 
+               <lb xml:id="p001_tr_1_tl_20"/>Dich im Akuten wie im Weiteren eine arge Sache, auch 
+               <lb xml:id="p001_tr_1_tl_21"/>des Ansehens gegen jene Aelteren wegen die wir eigentlich 
+               <lb xml:id="p001_tr_1_tl_22"/>zu ehren und loben gedachten, denen die Sammlung ein 
+               <lb xml:id="p001_tr_1_tl_23"/>Sprachrohr sein sollte – ach, aber der Enttäuschungen 
+               <lb xml:id="p001_tr_1_tl_24"/>und hässlichen Zufälle und bewussten Bosheiten wird es 
+               <lb xml:id="p001_tr_1_tl_25"/>noch lange nicht genug sein.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_26"/>Wir sprechen und sehen uns ja noch, Kläuschen – heute ist 
+               <lb xml:id="p001_tr_1_tl_27"/>der 17., und am 22. bin ich auf jeden Fall da wie auch die 
+               <lb xml:id="p001_tr_1_tl_28"/>lieben Eltern. Kuss der Eri ... es ist paradiesischer Bod[e]n 
+               <lb xml:id="p001_tr_1_tl_29"/>hier, aber ich sehne mich nach Euch.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l_2"/>Stets die Euer u. dies ganz – 
+               <lb xml:id="p001_l_1"/>A.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
