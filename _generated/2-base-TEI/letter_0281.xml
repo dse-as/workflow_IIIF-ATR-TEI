@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0281" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0281#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0281</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0281_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415317/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_2_tl_1"/>DEUTSCHES HOSPIZ 
+               <lb xml:id="p001_tr_2_tl_2"/>DER BORROMÄERINNEN. 
+               <lb xml:id="p001_tr_2_tl_3"/>GERMAN HOSPICE 
+               <lb xml:id="p001_tr_2_tl_4"/>JERUSALEM 
+               <lb xml:id="p001_tr_2_tl_6"/>P. B. 406 – TELEF. 777. 
+               <lb xml:id="p001_tr_2_tl_5"/>Jerusalem 25.[1.1934]</p>
+            <p> 
+               <lb xml:id="p001_tr_2_tl_7"/>Klaus nachlässiger Freund – oder sollen es 
+               <lb xml:id="p001_tr_2_tl_8"/>meine Adressen sein die mangelhaft 
+               <lb xml:id="p001_tr_2_tl_9"/>sind? Jedenfalls sah ich heute bei 
+               <lb xml:id="p001_tr_2_tl_10"/>Dr. Reifenberg das <hi rendition="#u">5.</hi> Heft der Sam[m]lung 
+               <lb xml:id="p001_tr_2_tl_11"/>las wehmütigen Herzens dass die 
+               <lb xml:id="p001_tr_2_tl_12"/>schöne Sybille in Zürich spielt, 
+               <lb xml:id="p001_tr_2_tl_13"/>las den scharfen Ton Onkel Hein 
+               <lb xml:id="p001_tr_2_tl_14" break="no"/>richs, u. zu flüchtig Golos gute u. 
+               <lb xml:id="p001_tr_3_tl_1"/>kluge Gedanken – Kurz, mir schien 
+               <lb xml:id="p001_tr_3_tl_2"/>das Heft vorzüglich u. dem schönen 
+               <lb xml:id="p001_tr_3_tl_3"/>beinahe Kafka-Stil unseres 
+               <lb xml:id="p001_tr_3_tl_4"/>Wolfgang [Hellmert] folgte ich mit Rührung. 
+               <lb xml:id="p001_tr_3_tl_5"/>Er ist ein begabtes Kind u. für 
+               <lb xml:id="p001_tr_3_tl_6"/>viel Zartes, Gutgeschliffenes 
+               <lb xml:id="p001_tr_3_tl_7"/>gemacht.</p>
+            <p> 
+               <lb xml:id="p001_tr_3_tl_8"/>Auch Reifenberg gefiel das Heft. 
+               <lb xml:id="p001_tr_3_tl_9"/>Er ist ein kluger u. reizender 
+               <lb xml:id="p001_tr_3_tl_10"/>Man[n], Dozent an der Hochschule
+               <milestone unit="textregion" xml:id="p001_r_31"/> 
+               <lb xml:id="p001_tr_1_tl_1"/>wo man übrigens nur Hebräisch 
+               <lb xml:id="p001_tr_1_tl_2"/>liest u. schreibt – dazu Arabisch 
+               <lb xml:id="p001_tr_1_tl_3"/>auch mit eigener ganz u. gar un 
+               <lb xml:id="p001_tr_1_tl_4" break="no"/>durchdringlicher Schrift – u. so, 
+               <lb xml:id="p001_tr_1_tl_5"/>dreisprachig u. dreischriftlich jedes 
+               <lb xml:id="p001_tr_1_tl_6"/>Firmenschild – es ist ein kompli 
+               <lb xml:id="p001_tr_1_tl_7" break="no"/>ziertes Leben! Uebrigens begibt sich 
+               <lb xml:id="p001_tr_1_tl_8"/>hier mehr als man so denkt, 
+               <lb xml:id="p001_tr_1_tl_9"/>den[n] eine Besiedelung in einem 
+               <lb xml:id="p001_tr_1_tl_10"/>angestam[m]t arabischen Land, u. 
+               <lb xml:id="p001_tr_1_tl_11"/>inmitten einer grossen nationalen 
+               <lb xml:id="p001_tr_1_tl_12"/>Bewegung der Araber die ihre Aus 
+               <lb xml:id="p001_tr_1_tl_13" break="no"/>läufer bis Indien hat – das ist 
+               <lb xml:id="p001_tr_1_tl_14"/>keine Kleinigkeit – Man spürt 
+               <lb xml:id="p001_tr_1_tl_15"/>sogleich eine nervöse Span[n]ung, 
+               <lb xml:id="p001_tr_4_tl_1"/>auch eine grosse, fast freudige 
+               <lb xml:id="p001_tr_4_tl_2"/>u. sympathische Energie auf 
+               <lb xml:id="p001_tr_4_tl_3"/>jüdischer Seite – aber, man wagt 
+               <lb xml:id="p001_tr_4_tl_4"/>nicht an der Möglichkeit zu denken, 
+               <lb xml:id="p001_tr_4_tl_5"/>dass der Hass der Anderen sich 
+               <lb xml:id="p001_tr_4_tl_6"/>hier austobte, den[n] die Juden sind 
+               <lb xml:id="p001_tr_4_tl_7"/>ja gänzlich wehrlos. Auch hier. –</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415318/info.json"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p> 
+               <lb xml:id="p002_tr_3_tl_1"/>Gestern hat Huberman[n] hier 
+               <lb xml:id="p002_tr_3_tl_2"/>gespielt. Es war ein ungewöhnlicher 
+               <lb xml:id="p002_tr_3_tl_3"/>Eindruck u. ein schönes Ereignis. 
+               <lb xml:id="p002_tr_3_tl_4"/>Du weisst doch dass er erklärt 
+               <lb xml:id="p002_tr_3_tl_5"/>hat, nicht mehr im III. Reich zu 
+               <lb xml:id="p002_tr_3_tl_6"/>spielen ... u. siehe, er hat Charakter 
+               <lb xml:id="p002_tr_3_tl_7"/>u. Liebe zu vergeben.</p>
+            <p> 
+               <lb xml:id="p002_tr_3_tl_8"/>Nun schlafe ich, Kläusilieb – u. dan[n] 
+               <lb xml:id="p002_tr_3_tl_9"/>flieg ich nach Bagdad, nach 
+               <lb xml:id="p002_tr_2_tl_1"/>7 Stunden Auto bis Damas[kus] wo 
+               <lb xml:id="p002_tr_2_tl_2"/>Paulus weilte. Leb sehr wohl – 
+               <lb xml:id="p002_tr_2_tl_3"/>ich möchte die "Sam[m]lung" gelänge 
+               <lb xml:id="p002_tr_2_tl_4"/>auch weiterhin –</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_2_tl_5"/>In grosser Geneigtheit 
+               <lb xml:id="p002_tr_2_tl_6"/>bleibt Dir 
+               <lb xml:id="p002_tr_2_tl_7"/>Miro</p>
+
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>Jetzt heisst es: 
+               <lb xml:id="p002_tr_1_tl_2"/>BAGDAD/ Irak 
+               <lb xml:id="p002_tr_1_tl_3"/>c/o Th. Cook and Son 
+               <lb xml:id="p002_tr_1_tl_4"/>Kam das Geld auch 
+               <lb xml:id="p002_tr_1_tl_5"/>pünktlich aus Syrien? 
+               <lb xml:id="p002_tr_1_tl_6"/>Grüsse sehr herzlich 
+               <lb xml:id="p002_tr_1_tl_7"/>den Direktor Landshoff – 
+               <lb xml:id="p002_tr_1_tl_8"/>vergiss es nicht. –</p>
+</div>
+       </body>
+    </text>
+ </TEI>
