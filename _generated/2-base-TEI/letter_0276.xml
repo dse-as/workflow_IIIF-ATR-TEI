@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0276" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0276#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0276</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0276_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415291/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_2_tl_1"/>1934 [von fremder Hand] 
+               <lb xml:id="p001_tr_2_tl_2"/>8. Februar 
+               <lb xml:id="p001_tr_2_tl_3"/>Bagdad – 
+               <lb xml:id="p001_tr_2_tl_4"/>Maude Hotel 
+               <lb xml:id="p001_tr_2_tl_5"/>Klaus – Lieber – ich habe mich 
+               <lb xml:id="p001_tr_2_tl_6"/><hi rendition="#u">ziemlich</hi> vergiftet dies Mal, u. 
+               <lb xml:id="p001_tr_2_tl_7"/>gerade während unten im 
+               <lb xml:id="p001_tr_2_tl_8"/>Hotel die Minister mit den 
+               <lb xml:id="p001_tr_2_tl_9"/>Diplomaten tanzen, was doch 
+               <lb xml:id="p001_tr_2_tl_10"/>nur einmal im Jahr verkomt! 
+               <lb xml:id="p001_tr_2_tl_11"/>Herr Borchard will die Samlung 
+               <lb xml:id="p001_tr_2_tl_12"/>abon[n]ieren, u. mir kom[m]t vor es 
+               <lb xml:id="p001_tr_2_tl_13"/>könne mir gut gehen wen Herr 
+               <lb xml:id="p001_tr_2_tl_14"/>Queri Weissbart Dich nun auch 
+               <lb xml:id="p001_tr_2_tl_15"/>honoriert – aber after all ist es 
+               <lb xml:id="p001_tr_2_tl_16"/>nur recht u. teuer u. Du bist ja 
+               <lb xml:id="p001_tr_2_tl_17"/>auch ein Fleissbold in den 
+               <lb xml:id="p001_tr_2_tl_18"/>Nederlanden [sic] – Kläuschen, falls Du 
+               <lb xml:id="p001_tr_2_tl_19"/>aber irgendwann u. dan wieder 
+               <lb xml:id="p001_tr_2_tl_20"/>einen Dreihunderter benötigst</p>
+
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>so denke daran es mich gleich 
+               <lb xml:id="p001_tr_1_tl_2"/>Wissen zu lassen, bis dan ist ja 
+               <lb xml:id="p001_tr_1_tl_3"/>der Manheim-Mercedes wieder 
+               <lb xml:id="p001_tr_1_tl_4"/>auf ein Jahr unterhalten. 
+               <lb xml:id="p001_tr_1_tl_5"/>Nun aber, bevor die Schwäche 
+               <lb xml:id="p001_tr_1_tl_6"/>mich wieder überma[n]t (wie 
+               <lb xml:id="p001_tr_1_tl_7"/>gesagt, ich liege im Bett u. magere 
+               <lb xml:id="p001_tr_1_tl_8"/>ab) – das <hi rendition="#u">Haus im Som[m]er</hi>! 
+               <lb xml:id="p001_tr_1_tl_9"/>Es verhielt sich so, dass ich ja 
+               <lb xml:id="p001_tr_1_tl_10"/>af eine dauernde, mindestens 
+               <lb xml:id="p001_tr_1_tl_11"/>mehrjährige zionistischer Heim 
+               <lb xml:id="p001_tr_1_tl_12" break="no"/>stätte bedacht war, u. die 
+               <lb xml:id="p001_tr_1_tl_13"/>entfällt, in meinem Falle na 
+               <lb xml:id="p001_tr_1_tl_14" break="no"/>türlich auch die Schweiz. Hin 
+               <lb xml:id="p001_tr_1_tl_15" break="no"/>gegen liegt mir natürlich vor 
+               <lb xml:id="p001_tr_1_tl_16"/>allem daran, dass wir die 
+               <lb xml:id="p001_tr_1_tl_17"/>Som[m]erwochen gemeinsam 
+               <lb xml:id="p001_tr_1_tl_18"/>zubringen – u. die Samlung u. 
+               <lb xml:id="p001_tr_1_tl_19"/>Landi [Landshoff] u. Du, Ihr trägt den 
+               <lb xml:id="p001_tr_1_tl_20"/>Sieg u. die Verantwortung 
+               <lb xml:id="p001_tr_1_tl_21"/>davon, während das Schweizer- 
+               <lb xml:id="p001_tr_1_tl_22"/>Haus ruhig ein Jahr später 
+               <lb xml:id="p001_tr_1_tl_23"/>gegründet werden kan[n].</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415292/info.json"/>
+            <milestone unit="textregion" xml:id="p002_tr_4"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_4_tl_1"/>Ich kan[n] ja, von Bocken aus, jeder 
+               <lb xml:id="p002_tr_4_tl_2" break="no"/>zeit nach Süden reisen, u. – 
+               <lb xml:id="p002_tr_4_tl_3"/>etwa bei dem schönen Engels 
+               <lb xml:id="p002_tr_4_tl_4" break="no"/>köpfchen Maud Thyssen zu Gast – 
+               <lb xml:id="p002_tr_4_tl_5"/>mich umschauen was uns für 
+               <lb xml:id="p002_tr_4_tl_6"/>später gefallen könnte. Aber 
+               <lb xml:id="p002_tr_4_tl_7"/>zunächst also 1934 u. Holland – 
+               <lb xml:id="p002_tr_4_tl_8"/>u. dan bin ich ja auch sehr auf 
+               <lb xml:id="p002_tr_4_tl_9"/>die Aminoffs gespan[n]t – sind sie 
+               <lb xml:id="p002_tr_4_tl_10"/>die einzig Aktierenden?</p>
+            <p> 
+               <lb xml:id="p002_tr_4_tl_11"/>Übrigens bin ich auch <hi rendition="#u">eher</hi> fleissig, 
+               <lb xml:id="p002_tr_4_tl_12"/>sowohl im Arabischen wie im 
+               <lb xml:id="p002_tr_4_tl_13"/>Journalismus, u. sam[m]le vielerlei 
+               <lb xml:id="p002_tr_4_tl_14"/>Erfahrungen. Sobald ich gesund 
+               <lb xml:id="p002_tr_4_tl_15"/>bin, geht es wieder in die 
+               <lb xml:id="p002_tr_4_tl_16"/>Wüste zu den Tempeltürmen, 
+               <lb xml:id="p002_tr_4_tl_17"/>u. gleich darauf ins Persische. 
+               <lb xml:id="p002_tr_4_tl_18"/>Aber es liegen hohe Berge 
+               <lb xml:id="p002_tr_4_tl_19"/>dazwischen. Dafür ist es dan[n] 
+               <lb xml:id="p002_tr_4_tl_20"/>auch die letzte Etappe u. ich 
+               <lb xml:id="p002_tr_4_tl_21"/>sehe Euch bald wieder.</p>
+
+            <milestone unit="textregion" xml:id="p002_r_12"/>            <p> 
+               <lb xml:id="p002_l"/>Mit dem Fisch [Morphium] verhält es sich aber nicht 
+               <lb xml:id="p002_l_1"/>so schlim[m] – ich habe einfach 
+               <lb xml:id="p002_l_2"/>keine Zeit dazu, weil man hier oft um 
+               <lb xml:id="p002_l_3"/>5 Uhr aufstehen muss. Und wen[n] es mir 
+               <lb xml:id="p002_l_4"/>einmall beikom[m]t – sind die Folgen, Du 
+               <lb xml:id="p002_l_5"/>liest es, unverhältnismässig.</p>
+            <p> 
+               <lb xml:id="p002_l_6"/>Gute Nach, Lieber – aber es kann bei 
+               <lb xml:id="p002_l_7"/>Euch erst 7 Uhr sein –</p>
+            <p> 
+               <lb xml:id="p002_l_8"/>Schreibst Du mir noch hierher? Oder nach 
+               <lb xml:id="p002_l_9"/>TEHERAN, Persia, 
+               <lb xml:id="p002_l_10"/>p.A. Deutsche Gesandtschaft?</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l_13"/>Tendresse – u. Grüsse den L.[andshoff] – von 
+               <lb xml:id="p002_l_12"/>Miro</p>
+</div>
+       </body>
+    </text>
+ </TEI>
