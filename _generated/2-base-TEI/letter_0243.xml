@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0243" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0243#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0243</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0243_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415297/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Beyrouth, bei Regen. Januar 34</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_2"/>Klaus, Brüderlicher – mir kommt es auch vor als sei es an Dir 
+               <lb xml:id="p001_tr_1_tl_3"/>Dich der ausbleibenden Briefe wegen zu wundern – der Deine kam 
+               <lb xml:id="p001_tr_1_tl_4"/>mir gestern, und sehr gelegen – Beyrouth, mag ich es auch anfangs 
+               <lb xml:id="p001_tr_1_tl_5"/>und nach dem kalten amerikanischen Norden über die Massen lieb 
+               <lb xml:id="p001_tr_1_tl_6" break="no"/>lich gefunden haben – jetzt, so auf die Länge und bei Regen und 
+               <lb xml:id="p001_tr_1_tl_7"/>allein – ich glaube auch, ich habe mich gestern, anlässlich eines 
+               <lb xml:id="p001_tr_1_tl_8"/>hübsch geplanten Abends mit Döschen Fisch recht vergiftet. Aber 
+               <lb xml:id="p001_tr_1_tl_9"/>morgen soll das Leben wieder anders werden und ich fahre mit 
+               <lb xml:id="p001_tr_1_tl_10"/>zwei jungen Leuten – davon der eine ein Schlumberger und etwa so 
+               <lb xml:id="p001_tr_1_tl_11"/>wie wir junge, fleissige und gelehrsame Männer gerne haben – 
+               <lb xml:id="p001_tr_1_tl_12"/>also, mit ihm und einem deutschen Herrn von Walther fahre ich nach 
+               <lb xml:id="p001_tr_1_tl_13"/>Damaskus wo die Derwische jährlich einmal und eben gerade morgen 
+               <lb xml:id="p001_tr_1_tl_14"/>nacht [sic] sich drehen, nach den Gesängen ihres dichterischen Meisters 
+               <lb xml:id="p001_tr_1_tl_15"/>Celaleddin. Sein letzter Nachkomme, Meister in Konya, hat sich, als 
+               <lb xml:id="p001_tr_1_tl_16"/>ihm Kemal Pascha das kosmische Kreisen verbot, in Stambul zuerst 
+               <lb xml:id="p001_tr_1_tl_17"/>in europäisch vorgeschriebener Kleidung gezeigt, hernach zu seinem 
+               <lb xml:id="p001_tr_1_tl_18"/>Hotelfenster hinabgestürzt. Verzeih das grausige Geschichtlein – 
+               <lb xml:id="p001_tr_1_tl_19"/>aber es ist so gewesen, und was wir morgen sehen ist der ausster 
+               <lb xml:id="p001_tr_1_tl_20" break="no"/>bende Rest.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_21"/><hi rendition="#g">Warum</hi> hast Du mir eigentlich nie und prinzipiell nicht die 
+               <lb xml:id="p001_tr_1_tl_22"/>Sammlung zugeschickt? Ich bin über die "Mühle" bestens informiert – 
+               <lb xml:id="p001_tr_1_tl_23"/>gerade fiel mir Herzogs Tagebuchstückchen in die Hände – und Dein 
+               <lb xml:id="p001_tr_1_tl_24"/>Brief berichtete ja nur höchst Erfreuliches – ob die Schweizer auch 
+               <lb xml:id="p001_tr_1_tl_25"/>weiterhin standhalten – mir gefällt es ungemein von ihrer Seite, <del rend="overstrike">we</del> 
+               <lb xml:id="p001_tr_1_tl_26"/>wenn es auch nicht schwer sein sollte, sich an der Gabe von Eris 
+               <lb xml:id="p001_tr_1_tl_27"/>Persönlichkeit zu erfreuen. Aber die Leute sind ja so sonderbar ... 
+               <lb xml:id="p001_tr_1_tl_28"/>Dass Marias Chef A. W. Meyer sich das Leben nahm, habt Jhr sicher 
+               <lb xml:id="p001_tr_1_tl_29"/>vernommen – es war ein harter Schlag für Maria, und im Uebrigen ein 
+               <lb xml:id="p001_tr_1_tl_30"/>neuer Fingerzeig Gottes den niemand beachten will –</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_31"/>Was treibt Queri mit Euch? De Laange scheint sehr rührig – dass der 
+               <lb xml:id="p001_tr_1_tl_32"/>betrübliche Fall von Alt Jakob Wassermann Euch nun auch noch 
+               <lb xml:id="p001_tr_1_tl_33"/>Verdruss kosten muss! Den Tod Georges vernahm ich, wie es zu ihm 
+               <lb xml:id="p001_tr_1_tl_34"/>passt, wie eine verspätete, nicht ganz sicher belegte Legende.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_35"/>½ [?] Eben war mein Mahmut da, der mich, seit Fred 
+               <lb xml:id="p001_tr_1_tl_36"/>Pasternek westwärts fuhr, nicht aus dem Auge lässt. Er ist Schuh 
+               <lb xml:id="p001_tr_1_tl_37" break="no"/>putzer seines Zeichens, überdies mein Diener, und bald schon 
+               <lb xml:id="p001_tr_1_tl_38"/>mein Freund. Ein hübscher Mensch und unbehafteter als unser 
+               <lb xml:id="p001_tr_1_tl_39"/>Manuel dessen Blatt mir auch gar keine Freude bereiten kann! 
+               <lb xml:id="p001_tr_1_tl_40"/>Was unsere Finanzen anbetrifft, Kläusilin [sic], so werden die Dreihun- 
+               <lb xml:id="p001_tr_1_tl_41"/>derter des Februars ziemlich pünktlich einlaufen. Und auch für den 
+               <lb xml:id="p001_tr_1_tl_42"/>März soll Sorge getragen werden – Wie steht es nachher? Mit mir 
+               <lb xml:id="p001_tr_1_tl_43"/>etwa so, dass die Reise mich ziemlich, aber nicht übermässig 
+               <lb xml:id="p001_tr_1_tl_44"/>in Anspruch nimmt – dafür fordert der April und Mai allerdings 
+               <lb xml:id="p001_tr_1_tl_45"/>erhebliche Autosteuer – und Versicherung, an das Haus im Tessin 
+               <lb xml:id="p001_tr_1_tl_46"/>soll auch gedacht sein – berichte mir eben, wie sichs macht, denn 
+               <lb xml:id="p001_tr_1_tl_47"/>keinesfalls möchte ich Dich hierin im Stich lassen ...</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_48"/>Meine Adresse ab Ende des Monats wird sein: 
+               <lb xml:id="p001_tr_1_tl_49"/>Bagdad, Jrak, c/o Wagonlits-Cook – und das ist dann wirklich 
+               <lb xml:id="p001_tr_1_tl_50"/>abscheulich weit. Aber die Zeit soll ja unweigerlich vergehen, 
+               <lb xml:id="p001_tr_1_tl_51"/>auf was man sich auch einlasse –</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_52"/>Adieu, Lieber und Befreundeter – grüsse L. recht sehr 
+               <lb xml:id="p001_tr_1_tl_53"/>Ich bin im Treuen – 
+               <lb xml:id="p001_tr_1_tl_54"/>Miro</p>
+</div>
+       </body>
+    </text>
+ </TEI>
