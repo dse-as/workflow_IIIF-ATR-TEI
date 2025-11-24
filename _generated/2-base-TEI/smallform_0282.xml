@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0282" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0282#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0282</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0282"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0282_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0282_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_tl_1"/>Die Wiederentdeckung 
+               <lb xml:id="p001_r_tl_2"/>Amerikas 
+               <lb xml:id="p001_r_tl_3"/>Von Dr. Annemarie Clark-Schwarzenbach 
+               <lb xml:id="p001_r_tl_4"/>IV. Das Werk im Tennessee-Tal</p>
+            <p> 
+               <lb xml:id="p001_r_tl_5"/>Charlotteville im Staat Virginia ist eine reizende 
+               <lb xml:id="p001_r_tl_6"/>Universitätsstadt. Der humanistische Staatsmann und 
+               <lb xml:id="p001_r_tl_7"/>Gelehrte Thomas Jefferson hat hier vor 150 Jahren 
+               <lb xml:id="p001_r_tl_8"/>die "Universität von Virginia" gegründet. Sie besteht 
+               <lb xml:id="p001_r_tl_9"/>aus grünen Rasenplätzen, niedrigen, langgestreckten 
+               <lb xml:id="p001_r_tl_10"/>Gebäuden aus rotem Backstein mit weißen Säulen 
+               <lb xml:id="p001_r_tl_11" break="no"/>gallerien, einer zierlichen Bibliothek, gekrönt von einer 
+               <lb xml:id="p001_r_tl_12"/>Kuppel, in deren Wölbung die großen Namen der 
+               <lb xml:id="p001_r_tl_13"/>Menschheit eingegraben sind: Plato und Voltaire, 
+               <lb xml:id="p001_r_tl_14"/>Rousseau, Shakespeare, Goethe. Draußen blühte der 
+               <lb xml:id="p001_r_tl_15"/>Herbst in feurigen Farben, und die Abendsonne lag 
+               <lb xml:id="p001_r_tl_16"/>auf den klassizistischen Säulen. Frieden ruhte über der 
+               <lb xml:id="p001_r_tl_17"/>Universität und über der kleinen Stadt, die das "Tor 
+               <lb xml:id="p001_r_tl_18"/>des Südens" heißt, und die nichts gemein hat mit der 
+               <lb xml:id="p001_r_tl_19"/>finsteren Größe, dem unmenschlichen Getriebe, der 
+               <lb xml:id="p001_r_tl_20"/>vollendeten und unheimlichen Ueberstadt New York, 
+               <lb xml:id="p001_r_tl_21"/>der ich soeben erst entflohen war. Jetzt lagen vor mir 
+               <lb xml:id="p001_r_tl_22"/>die weißen Landstraßen, die Baumwollfelder, die röt 
+               <lb xml:id="p001_r_tl_23" break="no"/>lichen Felder des Südens ...</p>
+            <p> 
+               <lb xml:id="p001_r_tl_24"/>Einen Tag lang fuhr ich am nächsten Tag auf der 
+               <lb xml:id="p001_r_tl_25"/>weißen Landstraße. Am Abend hatte ich <hi rendition="#g">Knoxville</hi> 
+               <lb xml:id="p001_r_tl_26"/>im Staat Tennessee erreicht. Der Fluß Tennessee ist 
+               <lb xml:id="p001_r_tl_27"/>der größte Nebenfluß des Ohio, der wiederum der be 
+               <lb xml:id="p001_r_tl_28" break="no"/>deutendste Zustrom des Mississippi ist. Hier ist die 
+               <lb xml:id="p001_r_tl_29"/>Heimat von "Onkel Toms Hütte", "Vom Winde ver 
+               <lb xml:id="p001_r_tl_30" break="no"/>weht" und der ungezählten Legenden der Plantagen, 
+               <lb xml:id="p001_r_tl_31"/>der Neger, der weißen Baumwollblüten, der Fluß 
+               <lb xml:id="p001_r_tl_32" break="no"/>dampfer, der Dämme, die gegen die Fluten des "Vater 
+               <lb xml:id="p001_r_tl_33"/>Strom" und "Old man river" gebaut worden sind. 
+               <lb xml:id="p001_r_tl_34"/>Es ist ein romantisches Land, in dem es Dschungel 
+               <lb xml:id="p001_r_tl_35"/>gibt und verträumte Hafenstädte, süß-wilde Negerstim 
+               <lb xml:id="p001_r_tl_36" break="no"/>men, Lynchmorde und eine eigene, ländlich-aristokra 
+               <lb xml:id="p001_r_tl_37" break="no"/>tische Kultur, die man "Antibellum" nennt. In den 
+               <lb xml:id="p001_r_tl_38"/>Cumberland-Bergen spielen die Bauern noch ihre 
+               <lb xml:id="p001_r_tl_39"/>alten Lieder auf ihren alten Fiedeln und tanzen 
+               <lb xml:id="p001_r_tl_40"/>vergessene Tänze aus Schottland und Irland: bäuer 
+               <lb xml:id="p001_r_tl_41" break="no"/>lich-unbeholfene Quadrillen, von denen man in der 
+               <lb xml:id="p001_r_tl_42"/>alten Heimat nichts mehr weiß. Aber in Tennessee 
+               <lb xml:id="p001_r_tl_43"/>gibt es auch Holzfäller, sogenannte "Lumberjacks", 
+               <lb xml:id="p001_r_tl_44"/>welche einst von Holzspekulanten in die Wälder trans 
+               <lb xml:id="p001_r_tl_45" break="no"/>portiert und in Baracken untergebracht worden waren. 
+               <lb xml:id="p001_r_tl_46"/>Jetzt sind die Wälder kahl geschlagen, die Hügel vom 
+               <lb xml:id="p001_r_tl_47"/>Schmelzwasser im Frühling zerrissen; in den Tälern 
+               <lb xml:id="p001_r_tl_48"/>aber gibt es Ueberschwemmungen, und damit zogen 
+               <lb xml:id="p001_r_tl_49"/>Armut und Hunger im Staate Tennessee ein, und 
+               <lb xml:id="p001_r_tl_50"/>die Fiedeln, die zum Tanz aufspielen, klingen nicht 
+               <lb xml:id="p001_r_tl_51"/>mehr so fröhlich wie ehemals, als sie noch begleitet 
+               <lb xml:id="p001_r_tl_52"/>wurden von den Axtschlägen im jungen Wald, von 
+               <lb xml:id="p001_r_tl_53"/>den dumpfen Hammerschlägen in den Kohlenberg 
+               <lb xml:id="p001_r_tl_54" break="no"/>werken, vom Getrappel der Maultiere vor dem Pflug, 
+               <lb xml:id="p001_r_tl_55"/>vom Jauchzen der Farmer, die ihre Felder bestellte.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_56"/>In Knoxville gibt es noch ein paar alte Webe 
+               <lb xml:id="p001_r_tl_57" break="no"/>reien: Trikotwäsche aus Baumwolle wird hergestellt, 
+               <lb xml:id="p001_r_tl_58"/>und Baumwolle gibt es genug; denn der Absatz auf 
+               <lb xml:id="p001_r_tl_59"/>den europäischen Märkten fehlt seit der großen Krise. 
+               <lb xml:id="p001_r_tl_60"/>Aber die Preise für die Rohbaumwolle sind so nied 
+               <lb xml:id="p001_r_tl_61" break="no"/>rig, daß der Anbau sich nicht mehr lohnt. Die Plan 
+               <lb xml:id="p001_r_tl_62" break="no"/>tagen verkommen, die Felder liegen brach, und die 
+               <lb xml:id="p001_r_tl_63"/>Pächter hungern in ihren Hütten. Niemand konnte 
+               <lb xml:id="p001_r_tl_64"/>mehr die Ware aus den Trikotagefabriken von Knox 
+               <lb xml:id="p001_r_tl_65" break="no"/>vill kaufen. Da beschlossen die Besitzer, zu sparen; sie 
+               <lb xml:id="p001_r_tl_66"/>entließen viele Arbeiter und kürzten den Lohn derer, 
+               <lb xml:id="p001_r_tl_67"/>die übrig blieben. Man mußte froh sein, daß es über 
+               <lb xml:id="p001_r_tl_68" break="no"/>haupt noch Arbeit gab.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_69"/>Knoxville ist mehr als zweihundert Jahre alt, und 
+               <lb xml:id="p001_r_tl_70"/>das ist, für amerikanische Verhältnisse, ein hohes Al 
+               <lb xml:id="p001_r_tl_71" break="no"/>ter für eine Stadt. Unten am steilen Flußufer steht 
+               <lb xml:id="p001_r_tl_72"/>noch die "Taverne", ein Blockhaus mit kleinen Fen 
+               <lb xml:id="p001_r_tl_73" break="no"/>stern und einer luftigen Veranda, die einst das erste 
+               <lb xml:id="p001_r_tl_74"/>Hotel von Knoxville war und die heute von armen 
+               <lb xml:id="p001_r_tl_75"/>Leuten bewohnt wird. Aber über den Fluß spannt sich 
+               <lb xml:id="p001_r_tl_76"/>der Bogen aus Stahl und Beton der neuen Brücke, 
+               <lb xml:id="p001_r_tl_77"/>und in seinem Schatten spielen die Kinder der Ar 
+               <lb xml:id="p001_r_tl_78" break="no"/>beitslosen. Ich ging bei einbrechender Nacht am Fluß 
+               <lb xml:id="p001_r_tl_79" break="no"/>ufer spazieren. Negerburschen lungerten umher; vom 
+               <lb xml:id="p001_r_tl_80"/>hohen Plateau über dem steilen Flußufer, fiel der 
+               <lb xml:id="p001_r_tl_81"/>Schein von Straßenlaternen in die Finsternis, und 
+               <lb xml:id="p001_r_tl_82"/>die Lichtreklame eines Wolkenkratzers blitzte im regel 
+               <lb xml:id="p001_r_tl_83" break="no"/>mäßigen Abstand von einigen Sekunden auf. Es ist ein 
+               <lb xml:id="p001_r_tl_84"/>bescheidener Wolkenkratzer im Vergleich zu denen New 
+               <lb xml:id="p001_r_tl_85"/>Yorks, aber mit seinen sechzehn Stockwerken hoch 
+               <lb xml:id="p001_r_tl_86"/>genug für Knoxville; er beherbergt das feinste 
+               <lb xml:id="p001_r_tl_87"/>Hotel der Stadt, das "Andrew Jackson". Ein am 
+               <lb xml:id="p001_r_tl_88"/>Flußufer patrouillierender Polizist hielt mich an. "Es 
+               <lb xml:id="p001_r_tl_89"/>ist gefährlich für eine Dame", sagte er wohl 
+               <lb xml:id="p001_r_tl_90" break="no"/>wollend, "allein hier spazieren zu gehen; es kommen 
+               <lb xml:id="p001_r_tl_91"/>Raubüberfälle vor, sogar Morde." Denn in Amerika 
+               <lb xml:id="p001_r_tl_92"/>haftet der Armut etwas Verbrecherisches an.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_93"/>Also stieg ich die enge, schmutzige Gasse hinauf zum 
+               <lb xml:id="p001_r_tl_94"/>Hotel "Andrew Jackson", in den hell erleuchteten Be 
+               <lb xml:id="p001_r_tl_95" break="no"/>zirk der Wohlhabenheit. Ich ging durch die Haupt 
+               <lb xml:id="p001_r_tl_96" break="no"/>straße der Stadt, vorbei an Geschäftsauslagen, an 
+               <lb xml:id="p001_r_tl_97"/>Bars, an Automaten-Restaurants, und die Stadt 
+               <lb xml:id="p001_r_tl_98"/>wollte mir noch immer nicht gefallen. Es war nichts 
+               <lb xml:id="p001_r_tl_99"/>zu spüren vom lauen, herbstlichen Wind, der die 
+               <lb xml:id="p001_r_tl_100"/>rotgefärbten Blätter über den Rasen der Universität 
+               <lb xml:id="p001_r_tl_101"/>von Charlotteville geweht hatte. Es gab keinen roten 
+               <lb xml:id="p001_r_tl_102"/>Backstein, keine weißen Säulen, keine "Antibellum 
+               <lb xml:id="p001_r_tl_103" break="no"/>Kultur" und keine Charme des amerikanischen Sü 
+               <lb xml:id="p001_r_tl_104" break="no"/>dens. Nur viele Neger gab es; aber sie unterschieden 
+               <lb xml:id="p001_r_tl_105"/>sich in nichts von anderen Arbeitern kleiner ameri 
+               <lb xml:id="p001_r_tl_106" break="no"/>kanischer Städte, als eben durch ihre Hautfarbe.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_107"/>Da sah ich plötzlich vor mir vier große, beleuchtete 
+               <lb xml:id="p001_r_tl_108"/>Schaufenster. Hinter den Scheiben lagen Plotogra 
+               <lb xml:id="p001_r_tl_109" break="no"/>phien und Landkarten, und darunter stand: "Tennesse 
+               <lb xml:id="p001_r_tl_110"/>Valley Authority" und "Norris Damm". In Knoxville 
+               <lb xml:id="p001_r_tl_111"/>sitzt der Generalstab der "Tennessee-Tal Verwaltung". 
+               <lb xml:id="p001_r_tl_112"/>Hier regiert Mister Morgan, ein Freund des Präsi 
+               <lb xml:id="p001_r_tl_113" break="no"/>denten Roosevelt, über einen Stab von Ingenieuren, 
+               <lb xml:id="p001_r_tl_114"/>Elektrikern, Zeichnern, Architekten, Chemikern, Land 
+               <lb xml:id="p001_r_tl_115" break="no"/>wirtschafts- und Forst-Experten. Ich stand lange vor 
+               <lb xml:id="p001_r_tl_116"/>den Schaufenstern. Ich sah die Photographien an und 
+               <lb xml:id="p001_r_tl_117"/>studierte die Pläne. "Unkontrollierte Wasserkraft" 
+               <lb xml:id="p001_r_tl_118"/>stand unter Photographien, die stürzende Wasserfälle 
+               <lb xml:id="p001_r_tl_119"/>zeigten, Bäche, welche die Oberfläche abgeholzter Hü 
+               <lb xml:id="p001_r_tl_120" break="no"/>gelhänge zerfressen, überschwemmte Felder, weggeris
+               <milestone unit="textregion" xml:id="p001_r_2"/> 
+               <lb xml:id="p001_r_2_tl_1" break="no"/>sene Hausdächer, Scheunen, Brücken und eine graue 
+               <lb xml:id="p001_r_2_tl_2"/>Flut von Flüchtlingen, die aus den überschwemmten 
+               <lb xml:id="p001_r_2_tl_3"/>Städten, von den zerstörten oder bedrohten Farmen 
+               <lb xml:id="p001_r_2_tl_4"/>kamen, zu Fuß oder auf Maultierkarren, auf dem ge 
+               <lb xml:id="p001_r_2_tl_5" break="no"/>retten[sic]ten Rest ihrer Habe sitzend, untergebracht in 
+               <lb xml:id="p001_r_2_tl_6"/>provisorischen Zelten, genährt von Schwestern der 
+               <lb xml:id="p001_r_2_tl_7"/>Heilsarmee, des Roten Kreuzes und von den milden 
+               <lb xml:id="p001_r_2_tl_8"/>Gaben ihrer Mitbürger. Dann folgte eine Bilderserie 
+               <lb xml:id="p001_r_2_tl_9"/>über das Thema: "Kontrollierte Wasserkraft", und 
+               <lb xml:id="p001_r_2_tl_10"/>man sah Techniker und Ingenieure am Zeichentisch, 
+               <lb xml:id="p001_r_2_tl_11"/>sah, wie der Norris-Damm und eine Reihe von zehn 
+               <lb xml:id="p001_r_2_tl_12"/>anderen Dämmen gebaut wurden dem Lauf des star 
+               <lb xml:id="p001_r_2_tl_13" break="no"/>ken, ungebärdigen Tennessee entlang bis zu seinem 
+               <lb xml:id="p001_r_2_tl_14"/>Zusammenfluß mit dem Ohio. Stauseen liegen fried 
+               <lb xml:id="p001_r_2_tl_15" break="no"/>lich hinter den gigantischen Mauern; Elektrizitäts 
+               <lb xml:id="p001_r_2_tl_16" break="no"/>werke wachsen in die Höhe, Schiffe fahren flußauf- 
+               <lb xml:id="p001_r_2_tl_17"/>und flußabwärts; mit der gewonnenen Stromkraft 
+               <lb xml:id="p001_r_2_tl_18"/>wird in Norris eine Porzellanfabrik, in Muscle 
+               <lb xml:id="p001_r_2_tl_19"/>Shoals eine Fabrik für Kunstdünger betrieben. Die 
+               <lb xml:id="p001_r_2_tl_20"/>Geologen haben hier die Porzellanerde und ebenso 
+               <lb xml:id="p001_r_2_tl_21"/>die zweitreichsten Phosphatlager der Vereinigten 
+               <lb xml:id="p001_r_2_tl_22"/>Staaten entdeckt. Elektrische Reduktionsverfahren wur 
+               <lb xml:id="p001_r_2_tl_23" break="no"/>den eingeführt, es gab Arbeit und Verdienst, und den 
+               <lb xml:id="p001_r_2_tl_24"/>Bauern von Tennessee lieferte man kostenlos den 
+               <lb xml:id="p001_r_2_tl_25"/>Kunstdünger, den sie für ihre erschöpften, von Ueber 
+               <lb xml:id="p001_r_2_tl_26" break="no"/>schwemmungen zerfressenen Feldern brauchen. Dann 
+               <lb xml:id="p001_r_2_tl_27"/>kamen die Terrassierungs-Maschinen, die Traktoren, 
+               <lb xml:id="p001_r_2_tl_28"/>die elektrischen Brutkästen, die elektrischen Mühlen, 
+               <lb xml:id="p001_r_2_tl_29"/>um die Melasse aus dem Zuckerrohr zu pressen. Die 
+               <lb xml:id="p001_r_2_tl_30"/>Forstbeamten pflanzten Wälder auf den bedrohten 
+               <lb xml:id="p001_r_2_tl_31"/>Abhängen; die Landwirtschaftsexperten berieten die 
+               <lb xml:id="p001_r_2_tl_32"/>Farmer; die Ingenieure bauten Straßen und legten 
+               <lb xml:id="p001_r_2_tl_33"/>Leitungen, und die Regierung, die das großartige 
+               <lb xml:id="p001_r_2_tl_34"/>Werk finanziert hatte, verkauft den Strom, den sie 
+               <lb xml:id="p001_r_2_tl_35"/>aus den großen Dämmen und aus der kontrollierten 
+               <lb xml:id="p001_r_2_tl_36"/>Wasserkraft des Tennessee gewinnt, an die Farmer 
+               <lb xml:id="p001_r_2_tl_37"/>von Tennessee.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_38"/>"Ein ganzes Land, so groß wie England und 
+               <lb xml:id="p001_r_2_tl_39"/>Schottland zusammen, wird reorganisiert", erklärte 
+               <lb xml:id="p001_r_2_tl_40"/>mir am nächsten Morgen ein Beamter des Werks. 
+               <lb xml:id="p001_r_2_tl_41"/>Im Auto fuhren wir nach Norris hinaus. Der Damm 
+               <lb xml:id="p001_r_2_tl_42"/>erglänzte im Sonnenlicht. Junge Burschen in der 
+               <lb xml:id="p001_r_2_tl_43"/>Uniform des amerikanischen Arbeitsdienstes waren 
+               <lb xml:id="p001_r_2_tl_44"/>beim Bau der neuen Autostraße beschäftigt oder 
+               <lb xml:id="p001_r_2_tl_45"/>pflanzten Fichten an den Abhängen. Norris selbst ist 
+               <lb xml:id="p001_r_2_tl_46"/>ein hübscher Ort, eine Art von Gartenstadt. Ursprüng 
+               <lb xml:id="p001_r_2_tl_47" break="no"/>lich hatte man die einfachen, praktisch eingerichteten 
+               <lb xml:id="p001_r_2_tl_48"/>Häuschen für die Arbeiter des Norris-Damms gebaut; 
+               <lb xml:id="p001_r_2_tl_49"/>jetzt, da der Damm vollendet ist, wohnen die Arbeiter 
+               <lb xml:id="p001_r_2_tl_50"/>der staatlichen Porzellanfabrik und eine Anzahl von 
+               <lb xml:id="p001_r_2_tl_51"/>Chemikern, Elektrikern und Forstbeamten drin. Welch 
+               <lb xml:id="p001_r_2_tl_52"/>ein Unterschied zu den Baracken im Schatten der 
+               <lb xml:id="p001_r_2_tl_53"/>Brücke von Knoxville, zu den Kindern, die dort im 
+               <lb xml:id="p001_r_2_tl_54"/>Gerüst der Brücke spielen, zu den jungen Arbeits 
+               <lb xml:id="p001_r_2_tl_55" break="no"/>losen am Flußufer, zu den hungernden Farmern und 
+               <lb xml:id="p001_r_2_tl_56"/>den Webern und Spinnern der Baumwollfabrik von 
+               <lb xml:id="p001_r_2_tl_57"/>Knoxville, die in elenden Baracken hausen!</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_58"/>"Sehen Sie", erklärte der Beamte, "ich habe den 
+               <lb xml:id="p001_r_2_tl_59"/>Norris-Damm und das Werk im Tennessee-Tal wach 
+               <lb xml:id="p001_r_2_tl_60" break="no"/>sen sehen. Ich war der Assistent von Mister Morgan. 
+               <lb xml:id="p001_r_2_tl_61"/>Er ist ein Menschenfreund. Dieses Werk ist keine auf 
+               <lb xml:id="p001_r_2_tl_62"/>Profit bedachte Unternehmung; sie ist staatlicher Dienst 
+               <lb xml:id="p001_r_2_tl_63"/>am Volk. Wo Privatgesellschaften die Unternehmer 
+               <lb xml:id="p001_r_2_tl_64"/>sind, da folgt natürlich der Strom dem Menschen. Wo 
+               <lb xml:id="p001_r_2_tl_65"/>sich Menschen ansammeln, wo sie in Städten leben 
+               <lb xml:id="p001_r_2_tl_66"/>und Geld ausgeben, da werden Leitungen gelegt, da 
+               <lb xml:id="p001_r_2_tl_67"/>gibt es 'Fortschritt' und Technisierung. Hier aber folgt 
+               <lb xml:id="p001_r_2_tl_68"/>der Mensch dem Strom. Wir haben Wasser und Was 
+               <lb xml:id="p001_r_2_tl_69" break="no"/>serkraft. Wir haben die Dämme gebaut, um gegen 
+               <lb xml:id="p001_r_2_tl_70"/>die Ueberschwemmungen zu kämpfen. Als wir die 
+               <lb xml:id="p001_r_2_tl_71"/>Dämme gebaut hatten, gab es Stromkraft. Jetzt ver 
+               <lb xml:id="p001_r_2_tl_72" break="no"/>wenden wir den Strom; wir bauen Fabriken, wir 
+               <lb xml:id="p001_r_2_tl_73"/>unterstützen die Bauern, wir schaffen Arbeit und Ver 
+               <lb xml:id="p001_r_2_tl_74" break="no"/>dienst. Das ist nicht Wohltätigkeit; das ist einfache 
+               <lb xml:id="p001_r_2_tl_75"/>menschliche Logik. Die Technik ist da, um der Mensch 
+               <lb xml:id="p001_r_2_tl_76" break="no"/>heit zu dienen. So ist es hier; so sollte es in ganz 
+               <lb xml:id="p001_r_2_tl_77"/>Amerika sein."</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_78"/>Einige Wochen später wurde in der Bundeshaupt 
+               <lb xml:id="p001_r_2_tl_79" break="no"/>stadt Washington ein sensationeller Prozeß geführt. 
+               <lb xml:id="p001_r_2_tl_80"/>Neunzehn private Elektrizitäts-Gesellschaften hatten 
+               <lb xml:id="p001_r_2_tl_81"/>die Verwaltung des Tennessee-Tal-Werks und die 
+               <lb xml:id="p001_r_2_tl_82"/>amerikanische Regierung angeklagt wegen unlauterer 
+               <lb xml:id="p001_r_2_tl_83"/>Konkurrenz. Das Werk unterbiete die Preise des elek 
+               <lb xml:id="p001_r_2_tl_84" break="no"/>trischen Stroms, hieß es, und untergrabe damit die 
+               <lb xml:id="p001_r_2_tl_85"/>Grundlagen der Privatwirtschaft. Das Werk sei ein 
+               <lb xml:id="p001_r_2_tl_86"/>staatswirtschaftliches Unternehmen, und daher müsse 
+               <lb xml:id="p001_r_2_tl_87"/>der Staat als Unternehmer angeklagt werden. Der 
+               <lb xml:id="p001_r_2_tl_88"/>Staat gewann den Prozeß. Die Einwohner von Ten 
+               <lb xml:id="p001_r_2_tl_89" break="no"/>nessee beziehen weiter billigen Strom. Das Land, vor 
+               <lb xml:id="p001_r_2_tl_90" break="no"/>her einer der ärmsten Staaten Amerikas, blüht auf. 
+               <lb xml:id="p001_r_2_tl_91"/>Der Tennessee-Fluß ist besiegt. Im Frühjahr werden 
+               <lb xml:id="p001_r_2_tl_92"/>seine wilden Fluten gesammelt in den Stauseen, die 
+               <lb xml:id="p001_r_2_tl_93"/>dann das Land das ganze Jahr hindurch mit elektri 
+               <lb xml:id="p001_r_2_tl_94" break="no"/>schem Strom versorgen. An anderen Flüssen werden 
+               <lb xml:id="p001_r_2_tl_95"/>neue Dämme gebaut, die noch größer sind als der 
+               <lb xml:id="p001_r_2_tl_96"/>Norris-Damm. Aber das Werk im Tennessee-Tal 
+               <lb xml:id="p001_r_2_tl_97"/>bleibt ein Symbol des neuen Amerika.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
