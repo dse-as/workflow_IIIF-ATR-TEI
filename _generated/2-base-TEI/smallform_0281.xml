@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0281" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0281#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0281</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0281"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0281_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0281_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_tl_1"/>Die Wiederentdeckung 
+               <lb xml:id="p001_r_tl_2"/>Amerikas 
+               <lb xml:id="p001_r_tl_3"/>Von Dr. A. Clark-Schwarzenbach 
+               <lb xml:id="p001_r_tl_4"/>III. Die amerikanische Landwirtschaft</p>
+            <p> 
+               <lb xml:id="p001_r_tl_5"/>In den <hi rendition="#g">Südstaaten</hi> der <hi rendition="#g">Vereinigten Staaten</hi> 
+               <lb xml:id="p001_r_tl_6"/>gehen die einstigen Baumwollplantagen zugrunde. 
+               <lb xml:id="p001_r_tl_7"/>Die neuen Preisstürze im Herbst 1937, die einer 
+               <lb xml:id="p001_r_tl_8"/>guten Ernte unmittelbar folgten, haben gezeigt, daß 
+               <lb xml:id="p001_r_tl_9"/>der Baumwollhandel in Amerika nie mehr jene 
+               <lb xml:id="p001_r_tl_10"/>Stellung erringen wird, die er einst besaß. Die 
+               <lb xml:id="p001_r_tl_11"/>Plantagenbesitzer, die Pächter und die Baumwoll 
+               <lb xml:id="p001_r_tl_12" break="no"/>pflücker sind dem Ruin preisgegeben, wenn die 
+               <lb xml:id="p001_r_tl_13"/>Regierung nicht eingreift. Eine unvorstellbare Not 
+               <lb xml:id="p001_r_tl_14"/>sucht den Süden heim. Die amerikanische Öffent 
+               <lb xml:id="p001_r_tl_15" break="no"/>lichkeit ist sich der Existenz dieses ernsten Problems 
+               <lb xml:id="p001_r_tl_16"/>erst während der letzten vier Jahre dank der Be 
+               <lb xml:id="p001_r_tl_17" break="no"/>mühungen Roosevelts bewußt geworden, und selbst 
+               <lb xml:id="p001_r_tl_18"/>dann noch wurde es in breiten Kreisen nicht ernst 
+               <lb xml:id="p001_r_tl_19"/>genommen; man bezichtigte Roosevelt geradezu, 
+               <lb xml:id="p001_r_tl_20"/>daß er das Problem "erfunden" habe und jedenfalls 
+               <lb xml:id="p001_r_tl_21"/>die Notlage der Farmer übertreibe, um die enormen 
+               <lb xml:id="p001_r_tl_22"/>Ausgaben für sein "Landhilfeprogramm" zu recht 
+               <lb xml:id="p001_r_tl_23" break="no"/>fertigen. Naturkatastrophen, Überschwemmungen 
+               <lb xml:id="p001_r_tl_24"/>und Sandstürme waren nötig, um die Öffentlichkeit 
+               <lb xml:id="p001_r_tl_25"/>für die Frage der Landwirtschaft zu interessieren. 
+               <lb xml:id="p001_r_tl_26"/>Heute spielt sie in den Debatten für und gegen Roose 
+               <lb xml:id="p001_r_tl_27" break="no"/>velt eine wichtige Rolle. Tatsächlich hat kein Ereignis 
+               <lb xml:id="p001_r_tl_28"/>deutlicher für die Notwendigkeit einer gründlichen 
+               <lb xml:id="p001_r_tl_29"/>Reorganisation der amerikanischen Landwirtschaft 
+               <lb xml:id="p001_r_tl_30"/>gesprochen als eben jene <hi rendition="#g">Naturkatastrophen</hi>, 
+               <lb xml:id="p001_r_tl_31"/>unter deren Folgen nicht nur die direkt betroffenen 
+               <lb xml:id="p001_r_tl_32"/>Farmer, sondern die ganze Nation zu leiden hat. 
+               <lb xml:id="p001_r_tl_33"/>Man beginnt zu begreifen, daß in Wirklichkeit nicht 
+               <lb xml:id="p001_r_tl_34"/>die Naturkatastrophen, sondern die schlechte, unvor 
+               <lb xml:id="p001_r_tl_35" break="no"/>sichtige Bewirtschaftung und skrupellose Ausnützung 
+               <lb xml:id="p001_r_tl_36"/>der natürlichen Reichtümer des Landes schuld sind.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space]</p>
+            <p> 
+               <lb xml:id="p001_r_tl_37"/>Amerikas Reichtümer schienen einmal unerschöpflich 
+               <lb xml:id="p001_r_tl_38"/>und wurden während drei Jahrhunderten amerikani 
+               <lb xml:id="p001_r_tl_39" break="no"/>scher Pioniergeschichte von Siedlern, großen Pflan 
+               <lb xml:id="p001_r_tl_40" break="no"/>zern, kleinen Bauern, Viehzüchtern, Holz- und 
+               <lb xml:id="p001_r_tl_41"/>Getreidespekulanten gleich bedenkenlos ausgenützt. 
+               <lb xml:id="p001_r_tl_42"/>Die Folgen machten sich zum Teil früh bemerkbar: 
+               <lb xml:id="p001_r_tl_43"/>in Virginia und Maryland, ertragreichen Tabak 
+               <lb xml:id="p001_r_tl_44" break="no"/>gegenden, waren viele Pflanzungen schon im 17. 
+               <lb xml:id="p001_r_tl_45"/>Jahrhundert durch rücksichtslosen Anbau erschöpft. 
+               <lb xml:id="p001_r_tl_46"/>Anders stand es mit den Wäldern, die ursprünglich 
+               <lb xml:id="p001_r_tl_47"/>die Hälfte des heutigen amerikanischen Farmlands 
+               <lb xml:id="p001_r_tl_48"/>bedeckten. Natürlich fiel es weder den Siedlern noch 
+               <lb xml:id="p001_r_tl_49"/>den später auftauchenden Holzhandelsgesellschaften 
+               <lb xml:id="p001_r_tl_50"/>ein, daß man den Waldbestand schonen müsse. Heute 
+               <lb xml:id="p001_r_tl_51"/>schwemmt das Wasser in den kahlgeschlagenen Ge 
+               <lb xml:id="p001_r_tl_52" break="no"/>bieten die Erde fort, und die Überschwemmungen 
+               <lb xml:id="p001_r_tl_53"/>nehmen immer häufiger ungeheure Ausmaße an. In 
+               <lb xml:id="p001_r_tl_54"/>den großen Flußgebieten des Missouri, Ohio und 
+               <lb xml:id="p001_r_tl_55"/>Mississippi ist bereits ein Viertel des fruchtbaren 
+               <lb xml:id="p001_r_tl_56"/>Bodens weggewaschen; der dadurch entstehende 
+               <lb xml:id="p001_r_tl_57"/>Schaden wird auf 400 Millionen Dollar im Jahr 
+               <lb xml:id="p001_r_tl_58"/>geschätzt. Noch größeres Aufsehen erregten die durch 
+               <lb xml:id="p001_r_tl_59"/>die lang andauernde Trockenheit verursachten Sand 
+               <lb xml:id="p001_r_tl_60" break="no"/>stürme in den Gebieten des Mittelwestens, dem 
+               <lb xml:id="p001_r_tl_61"/>Zentrum der amerikanischen Landwirtschaft. Dort 
+               <lb xml:id="p001_r_tl_62"/>hat die Besiedelung verhältnismäßig spät eingesetzt, 
+               <lb xml:id="p001_r_tl_63"/>erst nach dem Befreiungskrieg, und sie nahm ihren 
+               <lb xml:id="p001_r_tl_64"/>Fortgang während des ganzen 19. Jahrhunderts. 
+               <lb xml:id="p001_r_tl_65"/>Durch ein Gesetz vom Jahr 1862 wurden jeder neu 
+               <lb xml:id="p001_r_tl_66" break="no"/>eingewanderten Siedlerfamilie 160 Morgen Land 
+               <lb xml:id="p001_r_tl_67"/>frei zuerkannt. Unkenntnis der Verhältnisse und 
+               <lb xml:id="p001_r_tl_68"/>mangelnde Erfahrung sind schuld daran, daß sich 
+               <lb xml:id="p001_r_tl_69"/>schon damals Farmer auf unproduktivem Boden 
+               <lb xml:id="p001_r_tl_70"/>niederließen, auf Boden, der auch bei sorgfältiger 
+               <lb xml:id="p001_r_tl_71"/>Bewirtschaftung die Siedler nicht ernähren kann. 
+               <lb xml:id="p001_r_tl_72"/>Den letzten Anstoß erhielt der "Drang nach Westen" 
+               <lb xml:id="p001_r_tl_73"/>durch den Weltkrieg, als die plötzliche Nachfrage nach 
+               <lb xml:id="p001_r_tl_74"/>Brotgetreide und die damit verbundene Preis 
+               <lb xml:id="p001_r_tl_75" break="no"/>steigerung Spekulanten veranlaßte, große, regen 
+               <lb xml:id="p001_r_tl_76" break="no"/>arme Gebiete anzukaufen, die bisher nur als Weide 
+               <lb xml:id="p001_r_tl_77" break="no"/>land gedient hatten und auch niemals hätten zu 
+               <lb xml:id="p001_r_tl_78"/>anderen Zwecken verwendet werden dürfen. An 
+               <lb xml:id="p001_r_tl_79"/>Stelle der ursprünglichen festen Grasflächen dehnten 
+               <lb xml:id="p001_r_tl_80"/>sich nun riesige Weizenfelder aus; als aber nach 
+               <lb xml:id="p001_r_tl_81"/>Kriegsschluß die Getreidepreise sanken und der 
+               <lb xml:id="p001_r_tl_82"/>Anbau sich nicht mehr in gleichem Maße lohnte, 
+               <lb xml:id="p001_r_tl_83"/>wurden die Äcker zum großen Teil brach liegen 
+               <lb xml:id="p001_r_tl_84"/>gelassen: Die aufgerissene Erde trocknete aus. 
+               <lb xml:id="p001_r_tl_85"/>Gleichzeitig machten sich in anderen Gebieten, in 
+               <lb xml:id="p001_r_tl_86"/>denen ausschließlich Viehzucht getrieben worden war, 
+               <lb xml:id="p001_r_tl_87"/>die Folgen einer zu starken Beweidung bemerkbar: 
+               <lb xml:id="p001_r_tl_88"/>der Graswuchs wurde immer dünner; vormals 
+               <lb xml:id="p001_r_tl_89"/>reiche Grasflächen verwandelten sich langsam in 
+               <lb xml:id="p001_r_tl_90"/>sandige Halbwüsten.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space]</p>
+            <p> 
+               <lb xml:id="p001_r_tl_91"/>1931 setzten im Westen die ersten Staubstürme 
+               <lb xml:id="p001_r_tl_92"/>ein; im Frühjahr 1934 erreichten sie das Ausmaß 
+               <lb xml:id="p001_r_tl_93"/>einer Katastrophe. Auf den brachliegenden Feldern, 
+               <lb xml:id="p001_r_tl_94"/>auf den verdorbenen Grasflächen der zu stark be 
+               <lb xml:id="p001_r_tl_95" break="no"/>weideten Gebiete setzte der locker gewordene Boden 
+               <lb xml:id="p001_r_tl_96"/>dem Wind keinen Widerstand mehr entgegen; die 
+               <lb xml:id="p001_r_tl_97"/>oberste, fruchtbare Erdschicht "verbrannte" während
+               <milestone unit="textregion" xml:id="p001_r_2"/> 
+               <lb xml:id="p001_r_2_tl_1"/>der langen Trockenheit und wurde als Sand und 
+               <lb xml:id="p001_r_2_tl_2"/>Staub in gewaltigen Stürmen aufgehoben und auf 
+               <lb xml:id="p001_r_2_tl_3"/>andere, noch fruchtbare und bebaute Landstrecken 
+               <lb xml:id="p001_r_2_tl_4"/>übertragen. Fast über Nacht fand sich anstelle von 
+               <lb xml:id="p001_r_2_tl_5"/>Gras und jungen Saaten eine tote Wüste. Die Exi 
+               <lb xml:id="p001_r_2_tl_6" break="no"/>stenz der Farmer war mit einem Schlag vernichtet; 
+               <lb xml:id="p001_r_2_tl_7"/>viele Leute starben an Lungenentzündungen, die 
+               <lb xml:id="p001_r_2_tl_8"/>durch die staubgesättigte Luft verursacht wurde. Die 
+               <lb xml:id="p001_r_2_tl_9"/>Zahl der von nackter Not bedrohten Farmerfamilien 
+               <lb xml:id="p001_r_2_tl_10"/>wuchs erschreckend, die Unterstützung durch die 
+               <lb xml:id="p001_r_2_tl_11"/>lokalen Behörden, die Hilfsaktionen des Roten 
+               <lb xml:id="p001_r_2_tl_12"/>Kreuzes erwiesen sich als unzulänglich; sie reichten 
+               <lb xml:id="p001_r_2_tl_13"/>bestenfalls aus, um die Leute vor dem Verhungern 
+               <lb xml:id="p001_r_2_tl_14"/>zu bewahren, ohne daß man damit ihre Lage ge 
+               <lb xml:id="p001_r_2_tl_15" break="no"/>ändert hätte.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space]</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_16"/>Etwa ein Zehntel des amerikanischen Farmlandes 
+               <lb xml:id="p001_r_2_tl_17"/>kann heute die darauf siedelnden Bauern nicht mehr 
+               <lb xml:id="p001_r_2_tl_18"/>ernähren. Schon im Jahre 1930 verfügten eine 
+               <lb xml:id="p001_r_2_tl_19"/>Million Farmerfamilien über ein zu kleines Ein 
+               <lb xml:id="p001_r_2_tl_20" break="no"/>kommen, um sich selbständig erhalten zu können; in 
+               <lb xml:id="p001_r_2_tl_21"/>kurzer Zeit wurde die "Farmerhilfe" zu einem 
+               <lb xml:id="p001_r_2_tl_22"/>Sorgenkind der amerikanischen Regierung. Während 
+               <lb xml:id="p001_r_2_tl_23"/>der ersten vierjährigen Amtsperiode Roosevelts ist 
+               <lb xml:id="p001_r_2_tl_24"/>ein Programm ausgearbeitet worden, welches jetzt 
+               <lb xml:id="p001_r_2_tl_25"/>zur Durchführung gelangt und auch von vorsichtigen 
+               <lb xml:id="p001_r_2_tl_26"/>Beurteilern als erfolgversprechend betrachtet wird. 
+               <lb xml:id="p001_r_2_tl_27"/>Die "Behörde für Umsiedlung" begann damit, un 
+               <lb xml:id="p001_r_2_tl_28" break="no"/>produktives oder unbrauchbar gewordenes Land 
+               <lb xml:id="p001_r_2_tl_29"/>anzukaufen, und das Parlament bewilligte ihr 
+               <lb xml:id="p001_r_2_tl_30"/>einen Kredit von 46 Millionen Dollar. In den 
+               <lb xml:id="p001_r_2_tl_31"/>Ebenen des Mittelwestens, um ein Beispiel heraus 
+               <lb xml:id="p001_r_2_tl_32" break="no"/>zugreifen, wurde eine Million Morgen bereits ver 
+               <lb xml:id="p001_r_2_tl_33" break="no"/>sandeten Getreidebodens angekauft, welcher syste 
+               <lb xml:id="p001_r_2_tl_34" break="no"/>matisch wieder mit Gras bepflanzt und so in gutes 
+               <lb xml:id="p001_r_2_tl_35"/>Weideland zurückverwandelt werden soll. Ähnlich 
+               <lb xml:id="p001_r_2_tl_36"/>versucht man, ehemalige Waldgebiete wieder aufzu 
+               <lb xml:id="p001_r_2_tl_37" break="no"/>forsten, um auf diese Weise die wachsende Zerstörung 
+               <lb xml:id="p001_r_2_tl_38"/>durch Wasser aufzuhalten und gleichzeitig das Land 
+               <lb xml:id="p001_r_2_tl_39"/>möglichst nutzbringend zu verwenden. Die zweite 
+               <lb xml:id="p001_r_2_tl_40"/>Aufgabe besteht darin, die ihrer Existenz beraubten 
+               <lb xml:id="p001_r_2_tl_41"/>verarmten und bedrohten Farmer aus den heim 
+               <lb xml:id="p001_r_2_tl_42" break="no"/>gesuchten Gebieten zu entfernen, sie auf besserem 
+               <lb xml:id="p001_r_2_tl_43"/>Grund und Boden neu anzusiedeln und sie so lange 
+               <lb xml:id="p001_r_2_tl_44"/>zu unterstützen, bis sie die Möglichkeit haben, sich 
+               <lb xml:id="p001_r_2_tl_45"/>selbständig zu erhalten. Die Regierung kauft ge 
+               <lb xml:id="p001_r_2_tl_46" break="no"/>eignetes Land an, baut darauf, je nach den lokalen 
+               <lb xml:id="p001_r_2_tl_47"/>Bedingungen, einzelne Bauernhöfe oder größere 
+               <lb xml:id="p001_r_2_tl_48"/>Siedlungen und leiht den neuangesiedelten Bauern 
+               <lb xml:id="p001_r_2_tl_49"/>Geld, um Vieh, Saatkorn und landwirtschaftliche 
+               <lb xml:id="p001_r_2_tl_50"/>Maschinen anzuschaffen. Die Bedingungen für die 
+               <lb xml:id="p001_r_2_tl_51"/>Rückzahlung des gewährten Kredits werden dem Ein 
+               <lb xml:id="p001_r_2_tl_52" break="no"/>kommen des Bauern angepaßt, damit er nicht 
+               <lb xml:id="p001_r_2_tl_53"/>wieder in Schulden gerät. Auch muß dafür gesorgt 
+               <lb xml:id="p001_r_2_tl_54"/>werden, daß die alten Fehler sich nicht wiederholen. 
+               <lb xml:id="p001_r_2_tl_55"/>Experten sind beauftragt, die Bauern zu beraten, 
+               <lb xml:id="p001_r_2_tl_56"/>für welche Art der Bewirtschaftung ihr Land ge 
+               <lb xml:id="p001_r_2_tl_57" break="no"/>eignet sei. Unproduktiver Boden wird von der Be 
+               <lb xml:id="p001_r_2_tl_58" break="no"/>bauung ausgeschlossen und für andere Zwecke, wie 
+               <lb xml:id="p001_r_2_tl_59"/>Ferienlager und Nationalparks, verwendet.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space]</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_60"/>Ein großer Teil des hier nur andeutungsweise 
+               <lb xml:id="p001_r_2_tl_61"/>wiedergegebenen Programms gelangt erst seit Mai 
+               <lb xml:id="p001_r_2_tl_62"/>1935 zur Durchführung, und doch wurden schon be 
+               <lb xml:id="p001_r_2_tl_63" break="no"/>deutende Erfolge erzielt. Im "Staubbecken", dem 
+               <lb xml:id="p001_r_2_tl_64"/>Dürregebiet des Mittelwestens, und in den vernach 
+               <lb xml:id="p001_r_2_tl_65" break="no"/>läßigten, jetzt aber in rascher Umwälzung begriffenen 
+               <lb xml:id="p001_r_2_tl_66"/>Südstaaten bedeutet der Wiederaufbau der Land 
+               <lb xml:id="p001_r_2_tl_67" break="no"/>wirtschaft einen gesunden Ausgleich für die Indu 
+               <lb xml:id="p001_r_2_tl_68" break="no"/>strialisierung mit ihren gefährlichen sozialen Folgen, 
+               <lb xml:id="p001_r_2_tl_69"/>auf welche im letzten Artikel hingewiesen worden 
+               <lb xml:id="p001_r_2_tl_70"/>ist. Die Regierung Roosevelt hat sich das große 
+               <lb xml:id="p001_r_2_tl_71"/>Ziel gesteckt, im Mittelwesten und in den ver 
+               <lb xml:id="p001_r_2_tl_72" break="no"/>armten Südstaaten einen freien, gesunden Bauern 
+               <lb xml:id="p001_r_2_tl_73" break="no"/>stand zu gründen, die eigentliche Hoffnung jenes 
+               <lb xml:id="p001_r_2_tl_74"/>ausgebeuteten Landes.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
