@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0432" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0432#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0432</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0432"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0432_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0432_001.png/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_tl_1"/>"Das ist bei uns <hi rendition="#b">nicht möglich</hi>"</p>
+
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <p> 
+               <lb xml:id="p001_r_2_tl_1"/>Vor einigen Jahren hatte der Roman von Sin 
+               <lb xml:id="p001_r_2_tl_2" break="no"/>clair Lewis, der diesen Titel trägt, hier in Ame 
+               <lb xml:id="p001_r_2_tl_3" break="no"/>rika einen riesigen Erfolg. Der Autor erzählte 
+               <lb xml:id="p001_r_2_tl_4"/>darin, wie die Vereinigten Staaten durch den mit 
+               <lb xml:id="p001_r_2_tl_5"/>erprobten, skrupellosen Propaganda- und Terror- 
+               <lb xml:id="p001_r_2_tl_6"/>Methoden errungenen Wahlsieg eines Demagogen 
+               <lb xml:id="p001_r_2_tl_7"/>und Diktatur-Aspiranten über Nacht ihre demo 
+               <lb xml:id="p001_r_2_tl_8" break="no"/>kratischen Freiheiten einbüßen und sich in einen 
+               <lb xml:id="p001_r_2_tl_9"/>faschistischen, d. h. "totalen", von einseitiger Ge 
+               <lb xml:id="p001_r_2_tl_10" break="no"/>walt regierten Staat verwandeln. Es gab in diesem 
+               <lb xml:id="p001_r_2_tl_11"/>Buch Warner, welche die Symptome erkannt, die 
+               <lb xml:id="p001_r_2_tl_12"/>Schwäche der Menschen in Rechnung gestellt, die 
+               <lb xml:id="p001_r_2_tl_13"/>menschliche Furcht und Kompromiß-Bereitschaft 
+               <lb xml:id="p001_r_2_tl_14"/>und das Gesetz der Trägheit begriffen hatten – 
+               <lb xml:id="p001_r_2_tl_15"/>und deren Stimme also nicht gehört wurde, es gab 
+               <lb xml:id="p001_r_2_tl_16"/>junge sogenannte Idealisten, die an eine Idee 
+               <lb xml:id="p001_r_2_tl_17"/>glaubten – etwa die Idee der Freiheit, die Idee 
+               <lb xml:id="p001_r_2_tl_18"/>des Kampfes – weil sie jung waren und noch 
+               <lb xml:id="p001_r_2_tl_19"/>nicht erfahren hatten, daß ein Menschenleben 
+               <lb xml:id="p001_r_2_tl_20"/>kaum einen Schuß Pulver wert ist, und daß kaum 
+               <lb xml:id="p001_r_2_tl_21"/>einer weiter zu denken vermag als bis zum näch 
+               <lb xml:id="p001_r_2_tl_22" break="no"/>sten Stück Brot, wenn er hungrig ist, und bis zur 
+               <lb xml:id="p001_r_2_tl_23"/>Sicherheit der eigenen Haut. Und es gab in diesem 
+               <lb xml:id="p001_r_2_tl_24"/>Buch einen freundlichen, liberalen, wohlmeinenden 
+               <lb xml:id="p001_r_2_tl_25"/>Zeitungs-Redaktor, der seine Angestellten und 
+               <lb xml:id="p001_r_2_tl_26"/>seine Kinder gut behandelte, und an nichts Böses 
+               <lb xml:id="p001_r_2_tl_27"/>glauben konnte. Bis seine Welt zusammenbrach, 
+               <lb xml:id="p001_r_2_tl_28"/>sein Gärtner sich als Spitzel erwies, er über Nacht 
+               <lb xml:id="p001_r_2_tl_29"/>zum Flüchtlinge und Emigranten wurde, und dann 
+               <lb xml:id="p001_r_2_tl_30"/>zum Verschwörer, zum Kämpfer, der illegale 
+               <lb xml:id="p001_r_2_tl_31"/>Druckschriften zur Aufklärung des unterdrückten 
+               <lb xml:id="p001_r_2_tl_32"/>amerikanischen Volkes über die kanadische Grenze 
+               <lb xml:id="p001_r_2_tl_33"/>schmuggelte, selbstverständlich unter Lebensge 
+               <lb xml:id="p001_r_2_tl_34" break="no"/>fahr. Darin gipfelte das Buch, und darin lag seine 
+               <lb xml:id="p001_r_2_tl_35"/>Schwäche. Denn es gibt Kämpfer – und es gibt 
+               <lb xml:id="p001_r_2_tl_36"/>Menschen, die weder das Exil, noch den Kampf 
+               <lb xml:id="p001_r_2_tl_37"/>gegen das "Böse", diese Sorte von tragischer, weil 
+               <lb xml:id="p001_r_2_tl_38"/>notwendig einseitiger Aktivität, zu ertragen ver 
+               <lb xml:id="p001_r_2_tl_39" break="no"/>mögen.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space mit Stern]</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_40"/>Zur gleichen Zeit hatte in Amerika ein anderes 
+               <lb xml:id="p001_r_2_tl_41"/>Buch einen populären Erfolg. Es hieß "<hi rendition="#g">Schwe 
+                  <lb xml:id="p001_r_2_tl_42" break="no"/>den, der mittlere Weg</hi>", und handelte von 
+               <lb xml:id="p001_r_2_tl_43"/>den Kooperativen, die nicht auf dem Gedanken von 
+               <lb xml:id="p001_r_2_tl_44"/>"mehr, besser, billiger" aufgebaut sind, vom Ge 
+               <lb xml:id="p001_r_2_tl_45" break="no"/>danken des größten Profits, sondern auf dem 
+               <lb xml:id="p001_r_2_tl_46"/>schlichten Gedanken, daß die Aktiengesellschaft 
+               <lb xml:id="p001_r_2_tl_47"/>der Hersteller von Mehl, Wasserstiefeln, elektri 
+               <lb xml:id="p001_r_2_tl_48" break="no"/>schen Birnen, landwirtschaftlichen und anderen 
+               <lb xml:id="p001_r_2_tl_49"/>lebenswichtigen Produkten aus der Gemeinschaft 
+               <lb xml:id="p001_r_2_tl_50"/>der <hi rendition="#g">Käufer</hi>, der Verbraucher bestehen solle, 
+               <lb xml:id="p001_r_2_tl_51"/>dann würde keine unnötige Ware produziert, dann 
+               <lb xml:id="p001_r_2_tl_52"/>würden die Preise niedrig und die Ware preis 
+               <lb xml:id="p001_r_2_tl_53" break="no"/>würdig sein, und der Gedanke an ungesunden Pro 
+               <lb xml:id="p001_r_2_tl_54" break="no"/>fit, an Ueberproduktion wäre automatisch ausge 
+               <lb xml:id="p001_r_2_tl_55" break="no"/>schaltet. Ferner handelte das Buch von Schweden, 
+               <lb xml:id="p001_r_2_tl_56"/>einem gesunden, erzreichen Land, wo die Gruben 
+               <lb xml:id="p001_r_2_tl_57" break="no"/>arbeiter leben wie Bauern, wo die Sozialdemokra 
+               <lb xml:id="p001_r_2_tl_58" break="no"/>tie sich mit der Monarchie vereinen läßt, wo es – 
+               <lb xml:id="p001_r_2_tl_59"/>außer einem Hochstapler-Sonderfall wie Iwan 
+               <lb xml:id="p001_r_2_tl_60"/>Kreuger – keine ganz Reichen und keine wirklich
+               <milestone unit="textregion" xml:id="p001_r_3"/> 
+               <lb xml:id="p001_r_3_tl_1"/>Armen gibt, und wo sogar (aber das steht nicht in 
+               <lb xml:id="p001_r_3_tl_2"/>dem Buch) die Nomaden, die Lappländer, mit ihren 
+               <lb xml:id="p001_r_3_tl_3"/>Renntieren leben dürfen wie Nomaden eben leben 
+               <lb xml:id="p001_r_3_tl_4"/>müssen. – Es ist ein Engländer, der mich darauf 
+               <lb xml:id="p001_r_3_tl_5"/>aufmerksam machte, als ich, vor kaum mehr als 
+               <lb xml:id="p001_r_3_tl_6"/>einem Jahr, nach Persien und Afghanistan fuhr. 
+               <lb xml:id="p001_r_3_tl_7"/>"Sie werden in die Elbrus-Berge kommen, wo 
+               <lb xml:id="p001_r_3_tl_8"/>heute die moderne, diktatorische Regierung Per 
+               <lb xml:id="p001_r_3_tl_9" break="no"/>siens die Nomaden, die Bakhtiari, Kurden und 
+               <lb xml:id="p001_r_3_tl_10"/>Kaschghai, seßhaft gemacht hat; Sie werden an die 
+               <lb xml:id="p001_r_3_tl_11"/>Grenze der sowjetrussischen Turkmenebenen kom 
+               <lb xml:id="p001_r_3_tl_12" break="no"/>men, da gibt es heute keine schwarzen Nomaden 
+               <lb xml:id="p001_r_3_tl_13" break="no"/>zelte mehr, und Sie werden, in Afghanistan, sehen 
+               <lb xml:id="p001_r_3_tl_14"/>ob die junge afghanische Regierung weiser ist, und 
+               <lb xml:id="p001_r_3_tl_15"/>die Nomaden, das beste und gesündeste Element 
+               <lb xml:id="p001_r_3_tl_16"/>ihrer Bevölkerung, zu schonen versteht. Erzählen 
+               <lb xml:id="p001_r_3_tl_17"/>Sie den Beamten in der afghanischen Hauptstadt 
+               <lb xml:id="p001_r_3_tl_18"/>Kabul, daß Schweden es verstanden hat, seine 
+               <lb xml:id="p001_r_3_tl_19"/>nomadischen Lappen nicht auszurotten. Lernen Sie, 
+               <lb xml:id="p001_r_3_tl_20"/>wie es in Sowjetrußland ist, in Turkmenistan, Us 
+               <lb xml:id="p001_r_3_tl_21" break="no"/>bekistan, Kirghizistan, Tadschikistan, wo man den 
+               <lb xml:id="p001_r_3_tl_22"/>freien Nomaden ihre Herden und Weiden nimmt 
+               <lb xml:id="p001_r_3_tl_23"/>und sie zu Fabrikarbeitern oder Kolchos-Angestell 
+               <lb xml:id="p001_r_3_tl_24" break="no"/>ten auf Baumwoll-Plantagen macht, zu Gefangenen, 
+               <lb xml:id="p001_r_3_tl_25"/>für ein bißchen Barlohn. <hi rendition="#g">Lernen Sie!</hi>"</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_26"/>Inzwischen bin ich zurückgekommen. In Afgha 
+               <lb xml:id="p001_r_3_tl_27" break="no"/>nistan, habe ich gelernt, werden die Nomaden des 
+               <lb xml:id="p001_r_3_tl_28"/>Hindukusch noch wenig behelligt, haben noch ihre 
+               <lb xml:id="p001_r_3_tl_29"/>Schafe und Pferde, wählen noch ihre Aeltesten, 
+               <lb xml:id="p001_r_3_tl_30"/>sind gastfreundlich, arm und frei – aber einige 
+               <lb xml:id="p001_r_3_tl_31"/>hundert von ihnen müssen jetzt in den Elektrizi 
+               <lb xml:id="p001_r_3_tl_32" break="no"/>tätswerken, Baumwollspinnereien und Zuckerfabri 
+               <lb xml:id="p001_r_3_tl_33" break="no"/>ken von Pol-i-Khomri arbeiten, unter der Aufsicht 
+               <lb xml:id="p001_r_3_tl_34"/>deutscher Ingenieure von Siemens. Ich habe auch 
+               <lb xml:id="p001_r_3_tl_35"/>gelernt, daß die schwedischen Lappländer glück 
+               <lb xml:id="p001_r_3_tl_36" break="no"/>licher daran sind. Ferner, daß das Buch "Schweden, 
+               <lb xml:id="p001_r_3_tl_37"/>der mittlere Weg", in Schweden selbst heftig kri 
+               <lb xml:id="p001_r_3_tl_38" break="no"/>tisiert wurde, weil es die Bedeutung der Koopera 
+               <lb xml:id="p001_r_3_tl_39" break="no"/>tiven übertrieb. Gewiß, Butter, Würste, Gemüse und 
+               <lb xml:id="p001_r_3_tl_40"/>Glühbirnen kaufte man billig und gut von den Ko 
+               <lb xml:id="p001_r_3_tl_41" break="no"/>operativen, die außerdem vorzügliche, billige Woh 
+               <lb xml:id="p001_r_3_tl_42" break="no"/>nungen für kinderreiche Arbeiterfamilien bauten. 
+               <lb xml:id="p001_r_3_tl_43"/>Aber das Erz aus den Gruben ging nach Deutsch 
+               <lb xml:id="p001_r_3_tl_44" break="no"/>land – und es ist der eigentliche Reichtum Schwe 
+               <lb xml:id="p001_r_3_tl_45" break="no"/>dens. Und deshalb, ohne auch nur zum Schuß zu 
+               <lb xml:id="p001_r_3_tl_46"/>kommen, mußte Schweden sich jetzt fügen. "<hi rendition="#g">Das 
+                  <lb xml:id="p001_r_3_tl_47"/>ist bei uns nicht möglich!</hi>"</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_48"/>Ich lerne, ich lerne. Wird dieser hellhörige, auf 
+               <lb xml:id="p001_r_3_tl_49" break="no"/>geweckte Bub, mein schwedischer Neffe Lars, es 
+               <lb xml:id="p001_r_3_tl_50"/>als einen wesentlichen Unterschied empfinden, 
+               <lb xml:id="p001_r_3_tl_51"/>wenn er statt einer Pfadfinderbluse das Hemd der 
+               <lb xml:id="p001_r_3_tl_52"/>Hitlerjugend trägt? Er ist erst elf Jahre alt. Und 
+               <lb xml:id="p001_r_3_tl_53"/>Heinz, der Sohn meiner Cousine, die in Dahlem 
+               <lb xml:id="p001_r_3_tl_54"/>bei Berlin wohnt, sagte mir vor zwei Jahren 
+               <lb xml:id="p001_r_3_tl_55"/>"Nein, bin nicht gern Hitler-Junge. Ich kann nicht 
+               <lb xml:id="p001_r_3_tl_56"/>schießen. An meinen schulfreien Nachmittagen 
+               <lb xml:id="p001_r_3_tl_57"/>möchte ich lieber allein in meiner Stube sein und 
+               <lb xml:id="p001_r_3_tl_58"/>Modelle bauen."</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_59"/>Vor einigen Tagen versuchte ich, einem jungen 
+               <lb xml:id="p001_r_3_tl_60"/>Amerikaner zu erklären, was es bedeute, wenn das 
+               <lb xml:id="p001_r_3_tl_61"/>besiegte Frankreich eine von dem greisen Mar
+               <milestone unit="textregion" xml:id="p001_r_11"/> 
+               <lb xml:id="p001_r_11_tl_1" break="no"/>schall Pétain und Ex-Premier Laval ausgearbeitete 
+               <lb xml:id="p001_r_11_tl_2"/>"Verfassung" annehme. Es bedeutet nämlich nichts 
+               <lb xml:id="p001_r_11_tl_3"/>– was weiß ich von dem kleinen Bauern Frank 
+               <lb xml:id="p001_r_11_tl_4" break="no"/>reichs, dem Fischer, dem Soldaten, was weiß ich 
+               <lb xml:id="p001_r_11_tl_5"/>überhaupt noch? Mein junger Amerikaner fragte 
+               <lb xml:id="p001_r_11_tl_6"/>mich: "Aber wenn die Franzosen es ertragen, 
+               <lb xml:id="p001_r_11_tl_7"/>von heute auf morgen von einer faschistischen Re 
+               <lb xml:id="p001_r_11_tl_8" break="no"/>gierung regiert zu werden – waren die Deutschen 
+               <lb xml:id="p001_r_11_tl_9"/>1933, eigentlich mehr mit den Nazis einverstanden 
+               <lb xml:id="p001_r_11_tl_10"/>als gestern die Franzosen mit Laval und Pétain? 
+               <lb xml:id="p001_r_11_tl_11"/>Sind die Franzosen besser? Werden alle guten 
+               <lb xml:id="p001_r_11_tl_12"/>Franzosen jetzt emigrieren? Sind die Belgier Ver 
+               <lb xml:id="p001_r_11_tl_13" break="no"/>räter? Und glauben Sie wirklich, wirkich, daß die 
+               <lb xml:id="p001_r_11_tl_14"/>Finnen besser waren, daß Ihre Schweizer Lands 
+               <lb xml:id="p001_r_11_tl_15" break="no"/>leute so anders, so ganz anders und besser und 
+               <lb xml:id="p001_r_11_tl_16"/>tapferer sind als alle anderen Nationen und neu 
+               <lb xml:id="p001_r_11_tl_17" break="no"/>tralen Völker?"</p>
+            <p> 
+               <lb xml:id="p001_r_11_tl_18"/>Ich antwortete nicht gleich. Ich dachte nach; 
+               <lb xml:id="p001_r_11_tl_19"/>meine Hände lagen auf dem Steuer meines Ford 
+               <lb xml:id="p001_r_11_tl_20" break="no"/>wagens, und wir fuhren durch eine der freundlich 
+               <lb xml:id="p001_r_11_tl_21" break="no"/>sten Gegenden Amerikas, die östlichen Küstenstaa 
+               <lb xml:id="p001_r_11_tl_22" break="no"/>ten von Neu-England. Da gibt es kleine Siedlun 
+               <lb xml:id="p001_r_11_tl_23" break="no"/>gen, die beinahe wie Dörfer aussehen, mit weißen 
+               <lb xml:id="p001_r_11_tl_24"/>Kirchen, Bauerngärten und Scheunen – da gibt es 
+               <lb xml:id="p001_r_11_tl_25"/>weidende Rinder, Heckenrosen, flatternde Wäsche 
+               <lb xml:id="p001_r_11_tl_26"/>– Bierfässer, Fischernetze –, duftende grüne 
+               <lb xml:id="p001_r_11_tl_27"/>Hecken, und den durchsichtigen Meerhimmel. Es 
+               <lb xml:id="p001_r_11_tl_28"/>gibt Milch und Honig im Ueberfluß, Pfarrer auf 
+               <lb xml:id="p001_r_11_tl_29"/>Fahrrädern, scheckige Pferde, Kirschsaft, frische 
+               <lb xml:id="p001_r_11_tl_30"/>Himbeeren, duftendes Brot, es gibt Aecker, Hafer, 
+               <lb xml:id="p001_r_11_tl_31"/>Weizen – und weites Heidekraut, verkrüppeltes 
+               <lb xml:id="p001_r_11_tl_32"/>Waldgesträuch, die ersten flachen Ansätze gelber 
+               <lb xml:id="p001_r_11_tl_33"/>Dünen. Es gibt Kargheit und Ueberfluß, Himmel 
+               <lb xml:id="p001_r_11_tl_34"/>und Erde, Alltag und sonntägliches Geläut.</p>
+            <p> 
+               <lb xml:id="p001_r_11_tl_35"/>"<hi rendition="#g">Geläut!</hi>" Weiß Gott, ich bin erst seit zwei 
+               <lb xml:id="p001_r_11_tl_36"/>Monaten im fremden Amerika, und muß mich 
+               <lb xml:id="p001_r_11_tl_37"/>schon fragen, ob solche Worte in der deutschen 
+               <lb xml:id="p001_r_11_tl_38"/>Sprache üblich seien, ob man mich noch verstehe. 
+               <lb xml:id="p001_r_11_tl_39"/>Radionachrichten aus London, Stockholm, Paris, 
+               <lb xml:id="p001_r_11_tl_40"/>Bern und Berlin – aus Takio, in allen Welt 
+               <lb xml:id="p001_r_11_tl_41" break="no"/>sprachen. –</p>
+            <p> 
+               <lb xml:id="p001_r_11_tl_42"/>und die einzige Menschensprache, das Stam 
+               <lb xml:id="p001_r_11_tl_43" break="no"/>meln des Kindes, und den letzten Schrei – sie ver 
+               <lb xml:id="p001_r_11_tl_44" break="no"/>stehen es nicht? – Verstehen nicht mehr die Not 
+               <lb xml:id="p001_r_11_tl_45"/>des Nächsten, das im Wind Verhallende?</p>
+            <p> 
+               <lb xml:id="p001_r_11_tl_46"/>Die Franzosen, die Schweden, die afghanischen 
+               <lb xml:id="p001_r_11_tl_47"/>Nomaden, sie haben eines Morgens, erwachend,<hi rendition="#g"> 
+                  <lb xml:id="p001_r_11_tl_48"/>Dekrete</hi> gelesen. Wer richtet, wer tötet und wer 
+               <lb xml:id="p001_r_11_tl_49"/>kämpft in dieser Stunde? Es ist, schätzungsweise, 
+               <lb xml:id="p001_r_11_tl_50"/>2 Uhr nachmittags auf meiner Insel an der Ost 
+               <lb xml:id="p001_r_11_tl_51" break="no"/>küste Amerikas. Meine Freundin, Ella Maillart, 
+               <lb xml:id="p001_r_11_tl_52"/>schläft hinter Moskitonetzen in Quetta, Belut 
+               <lb xml:id="p001_r_11_tl_53" break="no"/>schistan, also haben sie vielleicht im Fernen Osten 
+               <lb xml:id="p001_r_11_tl_54"/>schon die nächste Morgendämmerung, von der ich 
+               <lb xml:id="p001_r_11_tl_55"/>natürlich noch nicht einmal weiß, ob ich sie über 
+               <lb xml:id="p001_r_11_tl_56" break="no"/>stehe. Und in Europa setzen die Kanonen und heu 
+               <lb xml:id="p001_r_11_tl_57" break="no"/>lenden Sirenen aus, es ist gerade Zeit für die alt 
+               <lb xml:id="p001_r_11_tl_58" break="no"/>gewohnte Verdunkelung.</p>
+            <p> 
+               <lb xml:id="p001_r_11_tl_59"/>Als Kinder lernten wir ein Abendgebet und be 
+               <lb xml:id="p001_r_11_tl_60" break="no"/>griffen noch gar nichts von Abend- und Morgen 
+               <lb xml:id="p001_r_11_tl_61" break="no"/>gebet, vom wandernden Stern der Weisen. So 
+               <lb xml:id="p001_r_11_tl_62"/>friedlich schliefen wir ein. Daß <hi rendition="#g">drüben</hi> schon 
+               <lb xml:id="p001_r_11_tl_63"/>wieder Morgen, irgendwo ewig scheinende Nacht 
+               <lb xml:id="p001_r_11_tl_64"/>ist, ein Sturmwind über Jamaika, andere Unselig 
+               <lb xml:id="p001_r_11_tl_65" break="no"/>keiten?</p>
+            <p> 
+               <lb xml:id="p001_r_11_tl_66"/>Ich habe jetzt, während der letzten drei Stun
+               <milestone unit="textregion" xml:id="p001_r_12"/> 
+               <lb xml:id="p001_r_12_tl_1" break="no"/>den, mehrere Artikel gelesen von der berühmte 
+               <lb xml:id="p001_r_12_tl_2" break="no"/>sten amerikanischen Journalistin, Dorothy Thomp 
+               <lb xml:id="p001_r_12_tl_3" break="no"/>son, der Gattin von Sinclair Lewis. Sie warnt ver 
+               <lb xml:id="p001_r_12_tl_4" break="no"/>gebens.</p>
+            <p> 
+               <lb xml:id="p001_r_12_tl_5"/>Aber wenn ich jetzt aufhöre zu schreiben, wie 
+               <lb xml:id="p001_r_12_tl_6"/>einer, der verzweifelt ist und lieber schweigt und 
+               <lb xml:id="p001_r_12_tl_7"/>schläft und vergißt –</p>
+            <p> 
+               <lb xml:id="p001_r_12_tl_8"/>gut, sei es so, und nichts mehr – und nur die 
+               <lb xml:id="p001_r_12_tl_9"/>Gewißheit sanft und herb blühender, ewiger 
+               <lb xml:id="p001_r_12_tl_10"/>Felder.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_12_tl_11"/><hi rendition="#i">Annemarie Clark–Schwarzenbach.</hi></p>
+</div>
+       </body>
+    </text>
+ </TEI>
