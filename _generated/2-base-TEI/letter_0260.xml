@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0260" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0260#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0260</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0260_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415295/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l_8"/>Baku 17.4.34 
+               <lb xml:id="p001_l_9"/>Liebster Klaus Liebster, 
+               <lb xml:id="p001_l_10"/>ich kan[n] es nicht 
+               <lb xml:id="p001_l_11"/>unterlassen, Dir eine 
+               <lb xml:id="p001_l_12"/>rote Fahne zu schicken – 
+               <lb xml:id="p001_l_13"/>obwohl ich doch denken 
+               <lb xml:id="p001_l_14"/>möchte, Du seist ganz 
+               <lb xml:id="p001_l_17"/>zufälle, mit unserer Eri 
+               <lb xml:id="p001_l_19"/>zusammen u. ich täte Euch, 
+               <lb xml:id="p001_l_21"/>etwa in Prag, am Ende 
+               <lb xml:id="p001_l_22"/>der transrussischen Reise 
+               <lb xml:id="p001_l_24"/>treffen. Über das Kaspische 
+               <lb xml:id="p001_l_5"/>Meer bin ich nun auch gefahren – 
+               <lb xml:id="p001_l_26"/>Es ist ein <hi rendition="#u">rechtes</hi> Abenteuer, 
+               <lb xml:id="p001_l_27"/>so allein! Sei 
+               <lb xml:id="p001_l_29"/><hi rendition="#u">bald</hi> umarmt 
+               <lb xml:id="p001_l_30"/>von 
+               <lb xml:id="p001_l_31"/>Miro</p>
+
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l_15"/>Monsieur Klaus Mann 
+               <lb xml:id="p001_l_18"/>p. A. Querido-Verlag 
+               <lb xml:id="p001_l_20"/>Keisersgracht 333 
+               <lb xml:id="p001_l_23"/><hi rendition="#u">Amsterdam</hi> 
+               <lb xml:id="p001_l_25"/>Hollande 
+               <lb xml:id="p001_l_28"/>Голландия [= Holland auf russisch/kyrillisch nicht von AS' Hand] 
+               <lb xml:id="p001_l_6"/>Baku, See Bath-Nouse</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415296/info.json"/></div>
+       </body>
+    </text>
+ </TEI>
