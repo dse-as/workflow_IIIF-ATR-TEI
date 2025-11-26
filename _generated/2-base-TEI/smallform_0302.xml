@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0302" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0302#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0302</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0302"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0302_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0302_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l"/>Annemarie Clark-Schwarzenbach</p>
+
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_2_tl_1"/>Interview ohne Reporter</p>
+
+            <milestone unit="textregion" xml:id="p001_r_3"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_89"/>Porträt von Schwarzenbach mit Kamera</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_4"/>            <p> 
+               <lb xml:id="p001_r_4_tl_1"/><hi rendition="#i">Vorbemerkung der Redaktion: Annemarie Schwarzenbach wuchs auf dem 
+                  <lb xml:id="p001_r_4_tl_2"/>Gute "Bocken" bei Horgen auf und ging in Fetan zur Schule. In Chur bestand 
+                  <lb xml:id="p001_r_4_tl_3"/>sie die Maturität und doktorierte mit zweiundzwanzig Jahren in Zürich. Wäh 
+                  <lb xml:id="p001_r_4_tl_4" break="no"/>rend der Vorlesungen schrieb sie den Roman "Freunde um Bernhard", ein Buch, 
+                  <lb xml:id="p001_r_4_tl_5"/>das, wie sie selbst bemerkt, unverdienten Erfolg hatte. Das war 1931. Dann 
+                  <lb xml:id="p001_r_4_tl_6"/>lebte sie viel in Deutschland, zuletzt in Berlin, wo ihr zweites Buch, "Lyrische 
+                  <lb xml:id="p001_r_4_tl_7"/>Novelle" erschien. Ein Jahr darauf reiste sie über Russland nach Persien, wo 
+                  <lb xml:id="p001_r_4_tl_8"/>sie bis zum folgenden Frühjahr weilte. In Teheran verheiratete sie sich mit 
+                  <lb xml:id="p001_r_4_tl_9"/>dem französischen Diplomaten Achille Clark. Es entsteht das Buch "Winter 
+                  <lb xml:id="p001_r_4_tl_10"/>in Vorderasien". Darauf ist sie wieder in der Schweiz, reist wieder nach Russland, 
+                  <lb xml:id="p001_r_4_tl_11"/>wo sie sich das Material zu ihrem Buche über Lorenz Saladin "Ein Leben für 
+                  <lb xml:id="p001_r_4_tl_12"/>die Berge" sammelt. Im Herbst 1937 fährt Annemarie Schwarzenbach für zwei 
+                  <lb xml:id="p001_r_4_tl_13"/>grosse Schweizer Zeitungen nach den Vereinigten Staaten. Das sind nur die</hi>               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <milestone unit="textregion" xml:id="p001_r_5"/>            <p> 
+               <lb xml:id="p001_r_5_tl_1"/>"Wie gefällt Ihnen Amerika?" – die Frage, mit der die Reporter in 
+               <lb xml:id="p001_r_5_tl_2"/>New York unterschiedslos ihre Opfer begrüssen – vielmehr nicht in New York, 
+               <lb xml:id="p001_r_5_tl_3"/>sondern an Bord des Dampfers, also bevor das Opfer Gelegenheit hatte, einen 
+               <lb xml:id="p001_r_5_tl_4"/>Zoll breit amerikanischen Bodens zu betreten und eine Prise amerikanische 
+               <lb xml:id="p001_r_5_tl_5"/>Luft zu atmen. Ist der Betreffende ein Schriftsteller, dann nimmt das Interview 
+               <lb xml:id="p001_r_5_tl_6"/>etwa folgende Wendung: "Warum sind Sie Schriftsteller geworden? Wie 
+               <lb xml:id="p001_r_5_tl_7"/>und wann hat sich Ihr Talent zum erstenmal manifestiert? Welches Ihrer Bücher 
+               <lb xml:id="p001_r_5_tl_8"/>bevorzugen Sie?" ... und so weiter. Die Reporter – ich spreche aus Erfah 
+               <lb xml:id="p001_r_5_tl_9" break="no"/>rung – haben keinen leichten Beruf und verdienen Nachsicht, ausserdem sind 
+               <lb xml:id="p001_r_5_tl_10"/>sie so etwas wie Kollegen der Schriftsteller, die sie belästigen müssen. Nachher, 
+               <lb xml:id="p001_r_5_tl_11"/>im ersten New Yorker Drugstore, lässt es sich bei einer Tasse Kaffee auch ganz 
+               <lb xml:id="p001_r_5_tl_12"/>gemütlich mit ihnen plaudern. Aber jene Fragen brennen unauslöschlich im 
+               <lb xml:id="p001_r_5_tl_13"/>Gedächtnis und beunruhigen das Gewissen. "Warum sind Sie Schriftsteller 
+               <lb xml:id="p001_r_5_tl_14"/>geworden?" – sollte eine so sonderbare Begrüssungsformel etwa Berech 
+               <lb xml:id="p001_r_5_tl_15" break="no"/>tigung und tieferen Sinn haben? – Gibt es auch eine feststehende Formel, 
+               <lb xml:id="p001_r_5_tl_16"/>derer man sich für die Antwort bedienen muss oder darf? – Als Gast eines 
+               <lb xml:id="p001_r_5_tl_17"/>Mädchencolleges im Staate Georgia wurde ich während der Morgenandacht 
+               <lb xml:id="p001_r_5_tl_18"/>unvermutet aufgefordert, den zweihundert neugierigen Studentinnen zu erzäh 
+               <lb xml:id="p001_r_5_tl_19" break="no"/>len, wie ich Journalistin geworden sei. Natürlich antwortete ich klipp und klar, 
+               <lb xml:id="p001_r_5_tl_20"/>präzis, wie sie es von mir erwarteten: "Schon als Kind hatte ich die Neigung, 
+               <lb xml:id="p001_r_5_tl_21"/>alles aufzuschreiben, was ich sah, tat, erlebte und empfand. Mit neun Jahren 
+               <lb xml:id="p001_r_5_tl_22"/>schrieb ich in ein liniertes Heft meinen ersten Roman; da ich wusste, dass 
+               <lb xml:id="p001_r_5_tl_23"/>Neunjährige von den Erwachsenen nicht ernst genommen werden, liess ich den 
+               <lb xml:id="p001_r_5_tl_24"/>Helden elf Jahre alt sein. Später, in der Türkei, in Syrien, Persien, Russland, 
+               <lb xml:id="p001_r_5_tl_25"/>verfasste ich Reisebeschreibungen und ein Buch "Winter in Vorderasien". 
+               <lb xml:id="p001_r_5_tl_26"/>Es hatte weniger Erfolg als meine früheren Bücher, trotzdem mag ich es per 
+               <lb xml:id="p001_r_5_tl_27" break="no"/>sönlich ganz gern. Und jetzt freue ich mich, in Amerika zu sein und einen 
+               <lb xml:id="p001_r_5_tl_28"/>Artikel über Eure ausgezeichneten und gastfreundlichen Mädchencolleges 
+               <lb xml:id="p001_r_5_tl_29"/>zu schreiben." – Die angeführten Tatsachen entsprachen der Wahrheit – 
+               <lb xml:id="p001_r_5_tl_30"/>ich wunderte mich selbst darüber – aber es ist einmal so: Tatsachen besagen 
+               <lb xml:id="p001_r_5_tl_31"/>wenig und erklären nichts. – Warum bin ich Schriftstellerin geworden? – 
+               <lb xml:id="p001_r_5_tl_32"/>Denn es gibt noch andere Berufe. Zuerst wollte ich General werden, dann 
+               <lb xml:id="p001_r_5_tl_33"/>Pianistin (woran mich ein ... Schreibkrampf im richtigen Augenblick verhin 
+               <lb xml:id="p001_r_5_tl_34" break="no"/>derte), dann studierte ich Geschichte, dann versuchte ich mich als Assistentin 
+               <lb xml:id="p001_r_5_tl_35"/>auf archäologischen Expeditionen. Die Liste ist nicht etwa vollständig, aber
+               <milestone unit="textregion" xml:id="p001_r_6"/> 
+               <lb xml:id="p001_r_6_tl_1"/>ich will niemanden zwingen, sich alle Inkonsequenzen meiner Vergangenheit 
+               <lb xml:id="p001_r_6_tl_2"/>anzuhören. Und zu meinem eigenen Trost füge ich hinzu, dass ich trotzdem 
+               <lb xml:id="p001_r_6_tl_3"/>immer geschrieben habe – tatsächlich immer.</p>
+            <p> 
+               <lb xml:id="p001_r_6_tl_4"/>Warum?</p>
+            <p> 
+               <lb xml:id="p001_r_6_tl_5"/>Manchmal gibt es durchaus stichhaltige, praktische, befriedigende Gründe 
+               <lb xml:id="p001_r_6_tl_6"/>dafür, sich redlich an der Schreibmaschine zu plagen. Ich weiss, beispiels 
+               <lb xml:id="p001_r_6_tl_7" break="no"/>weise, immer, warum ich einen Artikel schreibe, warum gerade diesen, nicht 
+               <lb xml:id="p001_r_6_tl_8"/>jenen. Ich kann natürlich genau angeben, warum ich in Amerika fast aus 
+               <lb xml:id="p001_r_6_tl_9" break="no"/>schliesslich über wirtschaftliche und soziale Probleme schrieb, statt dem Kon 
+               <lb xml:id="p001_r_6_tl_10" break="no"/>tinent der unbegrenzten Möglichkeiten romantischere Seiten abzugewinnen. 
+               <lb xml:id="p001_r_6_tl_11"/>Es gibt überall Licht und Schatten zu entdecken – aber man schreibt über das, 
+               <lb xml:id="p001_r_6_tl_12"/>was einem auf den Nägeln brennt, und – wenn man noch nicht durch die 
+               <lb xml:id="p001_r_6_tl_13"/>berufliche Routine verdorben, d. h. noch aufrichtig ist, dann redet und schreibt 
+               <lb xml:id="p001_r_6_tl_14"/>man nur über die Dinge, zu denen man eine Beziehung hat, von denen man 
+               <lb xml:id="p001_r_6_tl_15"/>berührt wird. Aber so einfach dies klingen mag, die Frage, warum man 
+               <lb xml:id="p001_r_6_tl_16"/>schreibt, ist damit noch nicht beantwortet. Ich fuhr nach Moskau und schrieb 
+               <lb xml:id="p001_r_6_tl_17"/>eine Menge Aufsätze und schliesslich ein Buch über Lorenz Saladin, weil 
+               <lb xml:id="p001_r_6_tl_18"/>ich es für richtig, lohnend und sogar notwendig hielt: der schlichte Held des 
+               <lb xml:id="p001_r_6_tl_19"/>Khan Tengri, der in einem einsamen Hochtal an der Grenze von Russland 
+               <lb xml:id="p001_r_6_tl_20"/>und China begraben liegt, sollte in seiner Schweizer Heimat nicht vergessen 
+               <lb xml:id="p001_r_6_tl_21"/>werden. Uebrigens waren seine Photographien, die ich aus Moskau zurück 
+               <lb xml:id="p001_r_6_tl_22" break="no"/>brachte, sehr viel wichtiger als alles, was ich dazu schreiben konnte. – Aber 
+               <lb xml:id="p001_r_6_tl_23"/>man hat für die Mühen des Schreibens nicht immer so greifbare Erklärungen 
+               <lb xml:id="p001_r_6_tl_24"/>zur Hand. – Viele meiner Kollegen versichern, dass sie nie eine Zeile 
+               <lb xml:id="p001_r_6_tl_25"/>schreiben würden, wenn sie sich nicht damit ihr Brot verdienen müssten. Und 
+               <lb xml:id="p001_r_6_tl_26"/>sie sind nicht die schlechtesten Schriftsteller. Aber warum, wenn sie so ungern 
+               <lb xml:id="p001_r_6_tl_27"/>schreiben, haben sie nicht einen anderen Beruf gewählt? Ist es nicht ein 
+               <lb xml:id="p001_r_6_tl_28"/>bisschen enttäuschend, erfahren zu müssen, dass der Schriftsteller – ein 
+               <lb xml:id="p001_r_6_tl_29"/>Künstler also! – nicht immer einem dunklen Drang gehorchend schafft, son 
+               <lb xml:id="p001_r_6_tl_30" break="no"/>dern auf Bestellung liefert? – Jedoch lässt sich folgende merkwürdige Fest 
+               <lb xml:id="p001_r_6_tl_31" break="no"/>stellung machen: Selbst "auf Bestellung" liefert der Schriftsteller nicht das 
+               <lb xml:id="p001_r_6_tl_32"/>Buch, den Aufsatz, das Gedicht, die aller Berechnung nach dem Verleger 
+               <lb xml:id="p001_r_6_tl_33"/>und der Leserschaft genehm und also für den Verfasser am einträglichsten 
+               <lb xml:id="p001_r_6_tl_34"/>wären, sondern er schreibt, was ihn bewegt, und so wie er das Herz der 
+               <lb xml:id="p001_r_6_tl_35"/>Menschen zu bewegen glaubt.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_6_tl_36"/>Annemarie Clark</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0302_002.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p002_r_5"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_r_5_tl_1"/> </p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+            <p> 
+               <lb xml:id="p002_r_5_tl_1"/><hi rendition="#i">wichtigsten Etappen ihres Lebens, des Lebens einer Journalistin, einer selbstän 
+                  <lb xml:id="p002_r_5_tl_2" break="no"/>digen, jungen, modernen Frau. Einer ernsten Frau vor allen Dingen.</hi></p>
+            <p> 
+               <lb xml:id="p002_r_5_tl_3"/><hi rendition="#u">Ich erinnere mich, als ich sie einmal auf dem mitternächtlichen, schwärzlichen 
+                  <lb xml:id="p002_r_5_tl_4"/>Perron des französischen Bahnhofs in Basel traf, wo wir beide auf den Pariser 
+                  <lb xml:id="p002_r_5_tl_5"/>Zug warteten. Sie war auf dem Wege nach U. S. A. Ihr Gepäck bestund aus 
+                  <lb xml:id="p002_r_5_tl_6"/>einigen hellen, glatten Koffern. Sie trug, wie immer, einen elfenbeinfarbenen 
+                  <lb xml:id="p002_r_5_tl_7"/>Mackintosh, war ohne Hut und vollkommen zweckmässig angezogen. Mit der 
+                  <lb xml:id="p002_r_5_tl_8"/>sichern Lässigkeit jener, die immer unterwegs sind, ging sie über die Kleini 
+                  <lb xml:id="p002_r_5_tl_9" break="no"/>keiten der Reise hinweg. Um so wichtiger aber nahm sie, das merkte man gleich, 
+                  <lb xml:id="p002_r_5_tl_10"/>den Zweck ihrer Amerikafahrt, ihre Arbeit. Im Verlauf der gemeinsamen Fahrt 
+                  <lb xml:id="p002_r_5_tl_11"/>erzählte sie unablässig von ihren Plänen, von den Themen und Problemen, auf 
+                  <lb xml:id="p002_r_5_tl_12"/>sie einzugehen im Sinne hatte, von den Gebieten, die sie zu bereisen gedachte 
+                  <lb xml:id="p002_r_5_tl_13"/>und den Zeitungen, die für ihre Artikel in Frage kämen. Ihr Eifer und ihre 
+                  <lb xml:id="p002_r_6_tl_1"/>Begeisterung waren so frisch und echt, dass jeder zufällige Zeuge des Ge 
+                  <lb xml:id="p002_r_6_tl_2" break="no"/>sprächs hätte glauben müssen, dass diese mutige junge Frau vor ihrer ersten 
+                  <lb xml:id="p002_r_6_tl_3"/>Reise und journalistischen Aufgabe stehe ...</hi></p>
+            <p> 
+               <lb xml:id="p002_r_6_tl_4"/><hi rendition="#i">Wir haben Annemarie Clark-Schwarzenbach um eine Darstellung ihres Lebens 
+                  <lb xml:id="p002_r_6_tl_5"/>und Berufs für "Annabelle" gefragt. Wir waren nicht erstaunt, als sie in ihrem 
+                  <lb xml:id="p002_r_6_tl_6"/>Selbst-Interview einzig und allein auf die Frage einging: "Warum schreibe ich?", 
+                  <lb xml:id="p002_r_6_tl_7"/>und das Persönliche dabei fast ganz überging. Denn das Schreiben bedeutet für 
+                  <lb xml:id="p002_r_6_tl_8"/>sie weder Zeitvertreib noch Sport. Sie fasst es auf als einen strengen und an 
+                  <lb xml:id="p002_r_6_tl_9" break="no"/>spruchsvollen Dienst. Dass sie den Ernst ihres Berufes mit der natürlichen Güte 
+                  <lb xml:id="p002_r_6_tl_10"/>und Anmut ihres Geschlechts zu verbinden weiss, dass sie auch in kühnen und 
+                  <lb xml:id="p002_r_6_tl_11"/>aufreibenden Abenteuern, auf gefährlichen Fahrten durch wilde und gefährliche 
+                  <lb xml:id="p002_r_6_tl_12"/>Länder nie ihren Dienst vergisst und nie sich selbst, sondern immer ihrer Aufgabe 
+                  <lb xml:id="p002_r_6_tl_13"/>lebt, gibt ihren Arbeiten – Reportagen und Reisebüchern – Bedeutung und Wert.</hi>               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <milestone unit="textregion" xml:id="p002_r_12"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p002_l"/>Schwarzenbach mit drei Knaben</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p002_r_13"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_13_tl_1"/>Annemarie 
+               <lb xml:id="p002_r_13_tl_2"/>Clark-Schwarzenbach 
+               <lb xml:id="p002_r_13_tl_3"/>in Charleston, South 
+               <lb xml:id="p002_r_13_tl_4"/>Carolina, Ver. Staaten</p>
+</div>
+       </body>
+    </text>
+ </TEI>
