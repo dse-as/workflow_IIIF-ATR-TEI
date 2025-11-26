@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0248" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0248#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0248</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0248_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415372/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Teheran 3. April [1934] [hs. Ergänzung auf Quelle] 
+               <lb xml:id="p001_tr_1_tl_2"/>Deutsche Gesandtschaft 
+               <lb xml:id="p001_tr_1_tl_3"/>Mein lieben Klaus, es könnte ja sein, dass wir uns 
+               <lb xml:id="p001_tr_1_tl_4"/>in zwei Wochen dort wiedersehen, wo dann die 
+               <lb xml:id="p001_tr_1_tl_5"/>Mühle gerade gastiert, den[n] was auch Prag oder 
+               <lb xml:id="p001_tr_1_tl_6"/>Pest [Budapest?] der Leuten bedeuten mögen – mir doch nur 
+               <lb xml:id="p001_tr_1_tl_7"/>jene ersten europäischen Bretter, nach sovielen 
+               <lb xml:id="p001_tr_1_tl_8"/>orientalischen Kapitalen! Ich konnte leider die 
+               <lb xml:id="p001_tr_1_tl_9"/>letzte Num[m]er der "Sammlung" noch nicht zu 
+               <lb xml:id="p001_tr_1_tl_10"/>lesen bekommen, die deutschem Buchläden hier 
+               <lb xml:id="p001_tr_1_tl_11"/>haben mehr Nazi-Literatur u. wenig anderes 
+               <lb xml:id="p001_tr_1_tl_12"/>zu bieten – Aber in Baghdad werde ich sie, 
+               <lb xml:id="p001_tr_1_tl_13"/>samt meiner eigenen N.Z.Z. – u. Basler- 
+               <lb xml:id="p001_tr_1_tl_14"/>Aufsätzschen, wohl vorfinden! – Es wird jetzt 
+               <lb xml:id="p001_tr_1_tl_15"/>schon heiss u. ich trage den Tropenhelm gern 
+               <lb xml:id="p001_tr_1_tl_16"/>u. mit Anstand – obwohl er ja ein ziemlich 
+               <lb xml:id="p001_tr_1_tl_17"/>gleichmacherisches, uniformierendes Kleidungs 
+               <lb xml:id="p001_tr_1_tl_18" break="no"/>stück ist. In 4 Tagen bin ich schon ganz 
+               <lb xml:id="p001_tr_1_tl_19"/>im Süden (ich packe gerade) in Persepolis 
+               <lb xml:id="p001_tr_1_tl_20"/>u. am heissen persischen Golf wo die 
+               <lb xml:id="p001_tr_1_tl_21"/>Portugiesen vor dreihundert Jahren soviel 
+               <lb xml:id="p001_tr_1_tl_22"/>Not erlitten haben, u. auch die Flotte 
+               <lb xml:id="p001_tr_1_tl_23"/>des Alexander. Ich fand kürzlich eine</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415371/info.json"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>Münze mit seinem Antlitz u. einem so 
+               <lb xml:id="p002_tr_1_tl_2"/>anmutigen Epheben u. Falkenträger, dass 
+               <lb xml:id="p002_tr_1_tl_3"/>ich mich entschied, sie Dir mitzubringen. – 
+               <lb xml:id="p002_tr_1_tl_4"/>Ja, im Übrigen kann ich gerade aus Rage, 
+               <lb xml:id="p002_tr_1_tl_5"/>einer grossen Stadtruine welche die Mongolen 
+               <lb xml:id="p002_tr_1_tl_6"/>im 13. Jahrhundert übrig liessen – u. wo 
+               <lb xml:id="p002_tr_1_tl_7"/>nun die Amerikaner unter Leitung von Dr. Erich 
+               <lb xml:id="p002_tr_1_tl_8"/>Schmidt, einem sehr reizenden Man[n], ausgraben. 
+               <lb xml:id="p002_tr_1_tl_9"/>Mir scheint, ich habe mich fast entschlossen, 
+               <lb xml:id="p002_tr_1_tl_10"/>dort im Herbst 3 Monate zu arbeiten. Wundert 
+               <lb xml:id="p002_tr_1_tl_11"/>es Dich sehr? Aber, wenn es auch noch besprochen 
+               <lb xml:id="p002_tr_1_tl_12"/>u. mit Euch erwogen sein will: Ich kan[n], wen[n] ich 
+               <lb xml:id="p002_tr_1_tl_13"/>an Europa denke, <hi rendition="#u">nichts</hi> finden was mich dort hielte 
+               <lb xml:id="p002_tr_1_tl_14"/>oder mir auch nur recht erträglich schiene, – ausser 
+               <lb xml:id="p002_tr_1_tl_15"/>unseren Som[m]erfreuden u. Ettlichem, was wir 
+               <lb xml:id="p002_tr_1_tl_16"/>etwa gemeinsam tun kön[n]ten. Daran allerdings 
+               <lb xml:id="p002_tr_1_tl_17"/>halte ich fest – aber, wie Du der "Sammlung" viel 
+               <lb xml:id="p002_tr_1_tl_18"/>Zeit u. Arbeit widmest, so meine ich, ich muss 
+               <lb xml:id="p002_tr_1_tl_19"/>auch <hi rendition="#u">meine</hi> Arbeit finden. Ich würde in Rage 
+               <lb xml:id="p002_tr_1_tl_20"/>hauptsächlich Schädel messen u. die Absurdität 
+               <lb xml:id="p002_tr_1_tl_21"/>der deutschen Rassen-Jdioten an iranischen 
+               <lb xml:id="p002_tr_1_tl_22"/>Beispielen Kund tun, das allein kom[m]t mir 
+               <lb xml:id="p002_tr_1_tl_23"/>verführerisch vor.</p>
+
+            <pb xml:id="p003" facs="https://www.monacensia-digital.de/i3f/v20/415370/info.json"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_2"/>Aber nun war es gar nicht die Absicht, 
+               <lb xml:id="p003_tr_1_tl_3"/>Dir schon meine noch ungewissen Pläne 
+               <lb xml:id="p003_tr_1_tl_4"/>mitzuteilen, wir wollen es doch lieber 
+               <lb xml:id="p003_tr_1_tl_5"/><hi rendition="#u">besprechen</hi>? Und Du bist ja auch 
+               <lb xml:id="p003_tr_1_tl_6"/>dabei ein Buch zu schreiben [Flucht in den Norden]... ich 
+               <lb xml:id="p003_tr_1_tl_7"/>bin fast <hi rendition="#u">zu</hi> gespannt darauf. Adieu 
+               <lb xml:id="p003_tr_1_tl_8"/>Kläuschen – ist das Kind noch da u. 
+               <lb xml:id="p003_tr_1_tl_9"/>wird es im Sommer mit uns sein? 
+               <lb xml:id="p003_tr_1_tl_10"/>Ja, nun bin ich schon fast wieder 
+               <lb xml:id="p003_tr_1_tl_11"/>zu Hause – 
+               <lb xml:id="p003_tr_1_tl_12"/>Grüsse Freunde Landshoff, den geschützten – 
+               <lb xml:id="p003_tr_1_tl_13"/>u. lass Dich bald umarmen von 
+               <lb xml:id="p003_tr_1_tl_14"/>Miro</p>
+</div>
+       </body>
+    </text>
+ </TEI>
