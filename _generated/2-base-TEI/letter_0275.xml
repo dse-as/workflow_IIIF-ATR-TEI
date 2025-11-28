@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0275" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0275#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0275</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0275_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415289/info.json"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_2"/>Hotel ASTORIA 
+               <lb xml:id="p001_tr_1_tl_3"/>BADGASTEIN 
+               <lb xml:id="p001_tr_1_tl_4"/>TEL: INT. 250 &amp; 251 
+               <lb xml:id="p001_tr_1_tl_1"/>14. Juli</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_5"/>Mein lieber Klaus! Ich bekam heute 
+               <lb xml:id="p001_tr_1_tl_6"/>Eris kleinen Brief. Ich hoffe so dass es 
+               <lb xml:id="p001_tr_1_tl_7"/>dem L. bald besser geht! Ich bin froh 
+               <lb xml:id="p001_tr_1_tl_8"/>dass Eri bald nach Ehrwald kom[m]t, 
+               <lb xml:id="p001_tr_1_tl_9"/>ich fahr schon morgen hin u. wohne 
+               <lb xml:id="p001_tr_1_tl_10"/>in Leermoos, Drei Mohren. Wahr 
+               <lb xml:id="p001_tr_1_tl_11" break="no"/>scheinlich ist E. schon unterwegs über die 
+               <lb xml:id="p001_tr_1_tl_12"/>hässlichen Grenzen wen[n] der Brief bei 
+               <lb xml:id="p001_tr_1_tl_13"/>Dir ankom[m]t. Ich müsste auch herzlich 
+               <lb xml:id="p001_tr_1_tl_14"/>wenig auf alles zu antworten – nicht 
+               <lb xml:id="p001_tr_1_tl_15"/>wegen der 14 Tage die ich an die kleine 
+               <lb xml:id="p001_tr_1_tl_16"/>Dame Maud gewandt habe, u. auch 
+               <lb xml:id="p001_tr_1_tl_17"/>nicht wegen Persien u. Baghdad, was 
+               <lb xml:id="p001_tr_1_tl_18"/>doch wenigstens ein grosser Stoff ist 
+               <lb xml:id="p001_tr_1_tl_19"/>u. Aktivität erfordert –</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_20"/>Sondern einfach, weil ich ein so 
+               <lb xml:id="p001_tr_1_tl_21"/>unaufhaltsames Fiasko erleide 
+               <lb xml:id="p001_tr_1_tl_22"/>u. wahrscheinlich an allem
+               <milestone unit="textregion" xml:id="p001_tr_2"/> 
+               <lb xml:id="p001_tr_2_tl_1"/>selbst schuld bin (was aber doch nichts 
+               <lb xml:id="p001_tr_2_tl_2"/>ändert noch bessert), u. nun fürchte, es 
+               <lb xml:id="p001_tr_2_tl_3"/>hat keinen Sin[n] mehr es weiter zu 
+               <lb xml:id="p001_tr_2_tl_4"/>versuchen. Zuerst war wohl der Umweg 
+               <lb xml:id="p001_tr_2_tl_5"/>über Berlin eine zu grosse Zumutung. 
+               <lb xml:id="p001_tr_2_tl_6"/>Ich dachte dan[n], "Das Ende von Etwas" [Kurzgeschichte von Hemingway aber auch ein Typoskript im SLA!] 
+               <lb xml:id="p001_tr_2_tl_7"/>u. es mir einfach vorzunehmen. 
+               <lb xml:id="p001_tr_2_tl_8"/>Schliesslich ist es ja Sentimentalität, 
+               <lb xml:id="p001_tr_2_tl_9"/>u. dem setzt man am besten Hass 
+               <lb xml:id="p001_tr_2_tl_10"/>entgegen.</p>
+            <p> 
+               <lb xml:id="p001_tr_2_tl_11"/>Wie dan[n] das Fiasko zu Hause kam, war 
+               <lb xml:id="p001_tr_2_tl_12"/>ja, Gott seis gedankt, die Eri zur Stelle. 
+               <lb xml:id="p001_tr_2_tl_13"/>Und auch mein Vater, mit dem ich 
+               <lb xml:id="p001_tr_2_tl_14"/>nun einen angeregten Briefwechsel treibe. 
+               <lb xml:id="p001_tr_2_tl_15"/>Das dritte Fiasko ist hier, u. nun kan[n] 
+               <lb xml:id="p001_tr_2_tl_16"/>ich nicht mehr. Dabei habe ich 
+               <lb xml:id="p001_tr_2_tl_17"/>unentwegt fleissig vor mich hin [sic] 
+               <lb xml:id="p001_tr_2_tl_18"/>gedichtet, aber kaum legte ich die 
+               <lb xml:id="p001_tr_2_tl_19"/>Feder weg, war es ein Kreisendes 
+               <lb xml:id="p001_tr_2_tl_20"/>aschgrauer Loch, u. dass es mit 
+               <lb xml:id="p001_tr_2_tl_21"/>Maud nicht besser ausgehen 
+               <lb xml:id="p001_tr_2_tl_22"/>kan[n], liegt daran dass ich nicht 
+               <lb xml:id="p001_tr_2_tl_23"/>lustig genug bin u. kein Junge               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415290/info.json"/>
+            <milestone unit="textregion" xml:id="p002_tr_4"/>            <p> 
+               <lb xml:id="p002_tr_4_tl_1"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+mit Ren[n]booten oder Fliegerdiplomen. 
+               <lb xml:id="p002_tr_4_tl_2"/>Du wirst lachen, aber so ist es u. 
+               <lb xml:id="p002_tr_4_tl_3"/>Du weisst auch wieder wie sterbens 
+               <lb xml:id="p002_tr_4_tl_4" break="no"/>unglücklich u. wie machtlos man 
+               <lb xml:id="p002_tr_4_tl_5"/>gegen eben solche Albernheiten ist. 
+               <lb xml:id="p002_tr_4_tl_6"/>Nun fahr ich jedenfalls ab u. denke 
+               <lb xml:id="p002_tr_4_tl_7"/>es sei vielleicht wichtig, das kleine 
+               <lb xml:id="p002_tr_4_tl_8"/>Geschichten-Buch fertig zu schreiben. 
+               <lb xml:id="p002_tr_4_tl_9"/>Mein Araberfreund Chefik schickt 
+               <lb xml:id="p002_tr_4_tl_10"/>allen Ernster täglich seinen 
+               <lb xml:id="p002_tr_4_tl_11"/>Luftpostbrief dass ich nach Batavia 
+               <lb xml:id="p002_tr_4_tl_12"/>kom[m]en soll. Warum den[n] wohl 
+               <lb xml:id="p002_tr_4_tl_13"/>nicht, frägt [sic] man sich, u. warum 
+               <lb xml:id="p002_tr_4_tl_14"/>soll das Buch fertig werden. In der 
+               <lb xml:id="p002_tr_4_tl_15"/>Schweiz werden es die Fronten doch 
+               <lb xml:id="p002_tr_4_tl_16"/>bald zu Ehre u. Ansehen bringen, 
+               <lb xml:id="p002_tr_4_tl_17"/>ich weiss gar nicht gegen was 
+               <lb xml:id="p002_tr_4_tl_18"/>man sich so bitter wehrt.</p>
+
+            <milestone unit="textregion" xml:id="p002_r"/>            <p> 
+               <lb xml:id="p002_l_6"/>4 Tage Leermoos ohne Eri, ich habe eine 
+               <lb xml:id="p002_l_4"/>grenzenlose Angst davor, überhaupt vor 
+               <lb xml:id="p002_l_3"/>jeder Stunde die man mich noch allein 
+               <lb xml:id="p002_l_8"/>lässt diesem grauen Kreisel gegenüber. Mit 
+               <lb xml:id="p002_l_9"/>was, Klaus, treibt man sich den[n] diese 
+               <lb xml:id="p002_l_2"/>hoffnunglose Angst wieder aus den 
+               <lb xml:id="p002_l_1"/>verruchten Gedanken? Und warum hatte 
+               <lb xml:id="p002_l_5"/>man sie früher nicht?</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l_7"/>Sei doch u stets treu bedacht von 
+               <lb xml:id="p002_l"/>Miro</p>
+</div>
+       </body>
+    </text>
+ </TEI>
