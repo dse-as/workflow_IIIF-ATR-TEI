@@ -100,8 +100,8 @@
       <graphic url="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0119_002.tif/info.json"
                width="2598"
                height="3598"/>
-      <zone xml:id="letter_0119_002_tr_2"
-            points="683,346 2452,346 2452,1549 683,1549"
+      <zone xml:id="letter_0119_002_r"
+            points="683,346 2452,346 2452,1549 2446,2835 748,2835 683,1549"
             rendition="TextRegion">
          <zone xml:id="letter_0119_002_tr_2_tl_1"
                points="673,467 886,410 1939,412 2141,457 2219,427 2219,306 1637,378 1121,327 1043,367 924,329 826,378 671,355"
@@ -139,10 +139,6 @@
          <zone xml:id="letter_0119_002_tr_2_tl_12"
                points="758,1548 1022,1580 1115,1550 1204,1584 1262,1559 1489,1561 1489,1497 1346,1478 1104,1521 1028,1487 758,1508"
                rendition="TextLine"/>
-      </zone>
-      <zone xml:id="letter_0119_002_tr_1"
-            points="748,1590 2446,1590 2446,2835 748,2835"
-            rendition="TextRegion">
          <zone xml:id="letter_0119_002_tr_1_tl_1"
                points="737,1676 2440,1682 2088,1572 1635,1620 1387,1557 1191,1627 975,1578 737,1599"
                rendition="TextLine"/>

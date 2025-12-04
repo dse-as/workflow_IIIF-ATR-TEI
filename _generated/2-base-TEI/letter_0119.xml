@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0119" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0119#"> 
    <teiHeader> 
       <fileDesc> 
@@ -14,12 +14,42 @@
              </note>
           </notesStmt>
           <sourceDesc> 
-            <p/>
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
           </sourceDesc>
        </fileDesc>
        <profileDesc> 
-         <textClass> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
             <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
                <list> 
                   <item/>
                 </list>
@@ -27,64 +57,76 @@
           </textClass>
        </profileDesc>
     </teiHeader>
- <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0119_facs.xml"/>    <text> 
-      <body><!--IIIF Image or Presentation URL?-->
-         <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0119_001.tif/info.json"/>
-         <milestone unit="textregion" xml:id="p001_r"/>         <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
-            <lb xml:id="p001_r_tl_1"/>Sils-Baselgia, 10. März 38</p>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0119_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0119_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_tl_1"/>Sils-Baselgia, 10. März 38</p>
 
-         <milestone unit="textregion" xml:id="p001_r_2"/>         <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
-            <lb xml:id="p001_r_2_tl_1"/>Sehr verehrter Herr Dr. Kleiber, 
-            <lb xml:id="p001_r_2_tl_2"/>die Zurücksendung der beiden letzten Aufsätze, die 
-            <lb xml:id="p001_r_2_tl_3"/>ich für Ihr Feuilleton geschrieben hatte, war 
-            <lb xml:id="p001_r_2_tl_4"/>natürlich eine nachhaltige Enttäuschung u. kein 
-            <lb xml:id="p001_r_2_tl_5"/>ganz geringer Schrecken für mich, - ich hatte 
-            <lb xml:id="p001_r_2_tl_6"/>bei unserem kurzen Gespräch in Basel aller 
-            <lb xml:id="p001_r_2_tl_7" break="no"/>dings gemerkt, dass Sie mit den amerika 
-            <lb xml:id="p001_r_2_tl_8" break="no"/>nischen Beiträgen dieses Winters nicht recht 
-            <lb xml:id="p001_r_2_tl_9"/>zufrieden waren, u. verstand auch durchaus 
-            <lb xml:id="p001_r_2_tl_10"/>Ihre Einwände. Aber ich hatte mich damit 
-            <lb xml:id="p001_r_2_tl_11"/>getröstet, dass gerade mein letzter Aufsatz 
-            <lb xml:id="p001_r_2_tl_12"/>"Der alternde Mittelwesten", wie ich glaubte, 
-            <lb xml:id="p001_r_2_tl_13"/>sowohl im Thema wie vor allem im Stil 
-            <lb xml:id="p001_r_2_tl_14"/>gelockerter, leichter, mit weniger wirtschaft 
-            <lb xml:id="p001_r_2_tl_15" break="no"/>lichem Material belastet, - kurz: feuilleto 
-            <lb xml:id="p001_r_2_tl_16" break="no"/>nistischer ausgefallen sei, als die letzten 
-            <lb xml:id="p001_r_2_tl_17"/>Aufsätze der "Dixi Line" - Serie. Da habe 
-            <lb xml:id="p001_r_2_tl_18"/>ich mich also getäuscht. 
-            <lb xml:id="p001_r_2_tl_19"/>Sie haben es mir vielleicht, während meiner 
-            <lb xml:id="p001_r_2_tl_20"/>letzten Reisen, ein bischen zu leicht gemacht. 
-            <lb xml:id="p001_r_2_tl_21"/>Und da ich, wie Sie wissen, seit meinem 
-            <lb xml:id="p001_r_2_tl_22"/>ersten Aufenthalt in Amerika, meine 
-            <lb xml:id="p001_r_2_tl_23"/>Einstellung u. meine Absichten auf dem 
-            <lb xml:id="p001_r_2_tl_24"/>Gebiet des Journalismus gründlich</p>
-<!--IIIF Image or Presentation URL?-->
-         <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0119_002.tif/info.json"/>
-         <milestone unit="textregion" xml:id="p002_tr_2"/>         <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
-            <lb xml:id="p002_tr_2_tl_1"/>geändert habe, nämlich mich bemühe, aus 
-            <lb xml:id="p002_tr_2_tl_2"/>einem gelegentlich Reiseimpressionen 
-            <lb xml:id="p002_tr_2_tl_3"/>niederschreibenden Dilettanten ein professioneller 
-            <lb xml:id="p002_tr_2_tl_4"/>u. brauchbarer Journalist zu werden, - ist es 
-            <lb xml:id="p002_tr_2_tl_5"/>natürlich besonders bitter, wie diese Bemühung 
-            <lb xml:id="p002_tr_2_tl_6"/>dazu führen soll, dass ich schlechter statt, 
-            <lb xml:id="p002_tr_2_tl_7"/>besser schreibe. Wie die Situation heute 
-            <lb xml:id="p002_tr_2_tl_8"/>ist - d.h. we[n] man ausdrücklich darauf 
-            <lb xml:id="p002_tr_2_tl_9"/>verzichtet, für die reichsdeutsche Presse zu 
-            <lb xml:id="p002_tr_2_tl_10"/>verzichten, fällt die National-Zeitung als 
-            <lb xml:id="p002_tr_2_tl_11"/>fast einzige grössere Tages-Zeitung entsprechend 
-            <lb xml:id="p002_tr_2_tl_12"/>mehr ins Gewicht.</p>
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_2_tl_1"/>Sehr verehrter Herr Dr. Kleiber,</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_2"/>die Zurücksendung der beiden letzten Aufsätze, die 
+               <lb xml:id="p001_r_2_tl_3"/>ich für Ihr Feuilleton geschrieben hatte, war 
+               <lb xml:id="p001_r_2_tl_4"/>natürlich eine nachhaltige Enttäuschung u. kein 
+               <lb xml:id="p001_r_2_tl_5"/>ganz geringer Schrecken für mich, – ich hatte 
+               <lb xml:id="p001_r_2_tl_6"/>bei unserem kurzen Gespräch in Basel aller 
+               <lb xml:id="p001_r_2_tl_7" break="no"/>dings gemerkt, dass Sie mit den amerika 
+               <lb xml:id="p001_r_2_tl_8" break="no"/>nischen Beiträgen dieses Winters nicht recht 
+               <lb xml:id="p001_r_2_tl_9"/>zufrieden waren[sic], u. verstand auch durchaus 
+               <lb xml:id="p001_r_2_tl_10"/>Ihre Einwände. Aber ich hatte mich damit 
+               <lb xml:id="p001_r_2_tl_11"/>getröstet, dass gerade mein letzter Aufsatz 
+               <lb xml:id="p001_r_2_tl_12"/>"Der alternde Mittelwesten", wie ich glaubte, 
+               <lb xml:id="p001_r_2_tl_13"/>sowohl im Thema wie vor allem im Stil 
+               <lb xml:id="p001_r_2_tl_14"/>gelockerter, leichter, mit weniger wirtschaft 
+               <lb xml:id="p001_r_2_tl_15" break="no"/>lichem Material belastet, – kurz: feuilleto 
+               <lb xml:id="p001_r_2_tl_16" break="no"/>nistischer ausgefallen sei, als die letzten 
+               <lb xml:id="p001_r_2_tl_17"/>Aufsätze der "Dixi Line" - Serie. Da habe 
+               <lb xml:id="p001_r_2_tl_18"/>ich mich also getäuscht.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_19"/>Sie haben es mir vielleicht, während meiner 
+               <lb xml:id="p001_r_2_tl_20"/>letzten Reisen, ein bischen[sic] zu leicht gemacht. 
+               <lb xml:id="p001_r_2_tl_21"/>Und da ich, wie Sie wissen, seit meinem 
+               <lb xml:id="p001_r_2_tl_22"/>ersten Aufenthalt in Amerika, meine 
+               <lb xml:id="p001_r_2_tl_23"/>Einstellung u. meine Absichten auf dem 
+               <lb xml:id="p001_r_2_tl_24"/>Gebiet des Journalismus gründlich               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
 
-         <milestone unit="textregion" xml:id="p002_tr_1"/>         <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
-            <lb xml:id="p002_tr_1_tl_1"/>Ich bin augenblicklich noch mit der Ausar- 
-            <lb xml:id="p002_tr_1_tl_2"/>beitung eines Vortrags u. einer Seite für 
-            <lb xml:id="p002_tr_1_tl_3"/>die "Weltwoche" beschäftigt, hoffe aber 
-            <lb xml:id="p002_tr_1_tl_4"/>Ihnen später noch zwei Beiträge zu 
-            <lb xml:id="p002_tr_1_tl_5"/>schicken, die vielleicht doch wieder den 
-            <lb xml:id="p002_tr_1_tl_6"/>Ton des Feuilletons treffen. 
-            <lb xml:id="p002_tr_1_tl_7"/>Inzwischen verbleibe ich mit 
-            <lb xml:id="p002_tr_1_tl_8"/>vielen Grüssen stets Ihre 
-            <lb xml:id="p002_tr_1_tl_9"/>ergebene 
-            <lb xml:id="p002_tr_1_tl_10"/>A[n]emarie Clark-Schwarzenbach</p>
-      </body>
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0119_002.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_2_tl_1"/> </p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+            <p> 
+               <lb xml:id="p002_tr_2_tl_1"/>geändert habe, nämlich mich bemühe, aus 
+               <lb xml:id="p002_tr_2_tl_2"/>einem gelegentlich Reiseimpressionen 
+               <lb xml:id="p002_tr_2_tl_3"/>niederschreibenden Dilettanten ein professioneller 
+               <lb xml:id="p002_tr_2_tl_4"/>u. brauchbarer Journalist zu werden, – ist es 
+               <lb xml:id="p002_tr_2_tl_5"/>natürlich besonders bitter, wen[n] diese Bemühung 
+               <lb xml:id="p002_tr_2_tl_6"/>dazu führen soll, dass ich schlechter statt 
+               <lb xml:id="p002_tr_2_tl_7"/>besser schreibe. Wie die Situation heute 
+               <lb xml:id="p002_tr_2_tl_8"/>ist – d.h. we[n] man ausdrücklich darauf 
+               <lb xml:id="p002_tr_2_tl_9"/>verzichtet, für die reichsdeutsche Presse zu 
+               <lb xml:id="p002_tr_2_tl_10"/>verzichten, fällt die National-Zeitung als 
+               <lb xml:id="p002_tr_2_tl_11"/>fast einzige grössere Tages-Zeitung entsprechend 
+               <lb xml:id="p002_tr_2_tl_12"/>mehr ins Gewicht.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_1"/>Ich bin augenblicklich noch mit der Ausar 
+               <lb xml:id="p002_tr_1_tl_2" break="no"/>beitung eines Vortrags u. einer Seite für 
+               <lb xml:id="p002_tr_1_tl_3"/>die "Weltwoche" beschäftigt, hoffe aber 
+               <lb xml:id="p002_tr_1_tl_4"/>Ihnen später noch zwei Beiträge zu 
+               <lb xml:id="p002_tr_1_tl_5"/>schicken, die vielleicht doch wieder den 
+               <lb xml:id="p002_tr_1_tl_6"/>Ton des Feuilletons treffen.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_7"/>Inzwischen verbleibe ich mit 
+               <lb xml:id="p002_tr_1_tl_8"/>vielen Grüssen stets Ihre 
+               <lb xml:id="p002_tr_1_tl_9"/>ergebene 
+               <lb xml:id="p002_tr_1_tl_10"/>A[n]emarie Clark-Schwarzenbach</p>
+</div>
+       </body>
     </text>
  </TEI>
