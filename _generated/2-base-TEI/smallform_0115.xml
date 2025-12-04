@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0115" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0115#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0115</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0115"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0115_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0115_001.tif/info.json"/>
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_2_tl_1"/>Georgiens alte Hauptstadt 
+               <lb xml:id="p001_r_2_tl_2"/>Von <hi rendition="#g">Annemarie Schwarzenbach</hi></p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_3"/>Auf einer breit sich vordrängenden Landzunge, 
+               <lb xml:id="p001_r_2_tl_4"/>zwischen den Flüssen Kura und Aragwa, die sich an 
+               <lb xml:id="p001_r_2_tl_5"/>dieser Stelle zu einem einzigen Strom vereinigen, 
+               <lb xml:id="p001_r_2_tl_6"/>liegt das georgische Dorf <hi rendition="#g">Mzchet</hi>, von Bauern, Blu 
+               <lb xml:id="p001_r_2_tl_7" break="no"/>menzüchtern und einigen Nonnen bewohnt, ein wenig 
+               <lb xml:id="p001_r_2_tl_8"/>belebt durch ein elektrisches Kraftwerk, welches nicht 
+               <lb xml:id="p001_r_2_tl_9"/>weit davon errichtet wurde, und durch die Autobusse, 
+               <lb xml:id="p001_r_2_tl_10"/>die auf der uralten grusinischen Heerstraße [siehe gleichnamiger Artikel] von Norden 
+               <lb xml:id="p001_r_2_tl_11"/>kommend das Dorf durchqueren und nach Tiflis wei 
+               <lb xml:id="p001_r_2_tl_12" break="no"/>terfahren.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_13"/>Sonst ist Mzchet ein stiller Ort, dem Bereich der 
+               <lb xml:id="p001_r_2_tl_14"/>Geschichte entrückt, in einer milden und fruchtbaren 
+               <lb xml:id="p001_r_2_tl_15"/>Gegend gelegen, zwischen Reben, Maisfeldern und 
+               <lb xml:id="p001_r_2_tl_16"/>Obstbäumen, und von ihren Erträgnissen lebend wie 
+               <lb xml:id="p001_r_2_tl_17"/>die Nachbardörfer Schaschabur oder Ziklany.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_18"/>Ich sah Mzchet zum ersten Mal an einem regner 
+               <lb xml:id="p001_r_2_tl_19" break="no"/>schen und kalten Abend, ich war über das Gebirge ge 
+               <lb xml:id="p001_r_2_tl_20" break="no"/>kommen, die Dunkelheit begann schon und mischte sich 
+               <lb xml:id="p001_r_2_tl_21"/>mit den Regenschleiern und den Wolken von Dunst, 
+               <lb xml:id="p001_r_2_tl_22"/>die vom Fluß aufstiegen. Rechterhand erblickte ich, 
+               <lb xml:id="p001_r_2_tl_23"/>dramatisch erhellt, eine große Kirche auf der Spitze 
+               <lb xml:id="p001_r_2_tl_24"/>eines Berges, und erfuhr von dem russischen Chauf 
+               <lb xml:id="p001_r_2_tl_25" break="no"/>feur, daß es die Kirche Dschawari sei, an Stelle eines 
+               <lb xml:id="p001_r_2_tl_26"/>Idols des persischen Gottes Ormudz um 600 errichtet, 
+               <lb xml:id="p001_r_2_tl_27"/>und "fast die älteste Kirche in Georgien." Gleich dar 
+               <lb xml:id="p001_r_2_tl_28" break="no"/>auf fuhren wir an einem Hügel vorbei, der die Ruine 
+               <lb xml:id="p001_r_2_tl_29"/>einer Festung trug und wie eine Talsperre in unseren 
+               <lb xml:id="p001_r_2_tl_30"/>Weg sprang, und hinter ihr lag das Dorf, beherrscht 
+               <lb xml:id="p001_r_2_tl_31"/>von mächtigen Kirchen und halbzerfallenen Türmen, 
+               <lb xml:id="p001_r_2_tl_32"/>Bauwerken, die in keinerlei Verhältnis zu den ein 
+               <lb xml:id="p001_r_2_tl_33" break="no"/>fachen Bauernhäusern, den niedrigen hölzernen Gale 
+               <lb xml:id="p001_r_2_tl_34" break="no"/>rien und primitiven Hofmauern standen.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_35"/>"Mzcheti", sagte der Chauffeur, "hier liegen die 
+               <lb xml:id="p001_r_2_tl_36"/>Zaren von Grusien." Wir fuhren weiter, ohne uns 
+               <lb xml:id="p001_r_2_tl_37"/>aufzuhalten[.]</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_38"/>Als ich nach Mzchet zurückkehrte, hatte ich wieder 
+               <lb xml:id="p001_r_2_tl_39"/>den Eindruck einer groß und stark geplanten Stadt, 
+               <lb xml:id="p001_r_2_tl_40"/>deren Kirchen wie Festungen waren, deren Anhöhen 
+               <lb xml:id="p001_r_2_tl_41"/>von Kirchen und Talsperren beherrscht wurden, deren 
+               <lb xml:id="p001_r_2_tl_42"/>Kraft dann plötzlich erlahmte – und das Dorf war 
+               <lb xml:id="p001_r_2_tl_43"/>übriggeblieben, die Weinberge, die Gärten.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_44"/>So stand es mit Mzchet seit dem fünften Jahr 
+               <lb xml:id="p001_r_2_tl_45" break="no"/>hundert unserer Zeitrechnung. In seiner unmittel 
+               <lb xml:id="p001_r_2_tl_46" break="no"/>baren Nähe, neben der "Festung des Greises", hat
+               <milestone unit="textregion" xml:id="p001_r_3"/> 
+               <lb xml:id="p001_r_3_tl_1"/>man kürzlich ein Feld von steinernen Gräbern entdeckt, 
+               <lb xml:id="p001_r_3_tl_2"/>in denen sich römische Münzen fanden. Man schrieb 
+               <lb xml:id="p001_r_3_tl_3"/>die Nekropole den aus Palästina eingewanderten 
+               <lb xml:id="p001_r_3_tl_4"/>Bergjuden, oder auch den Osseten zu. Jedenfalls sind 
+               <lb xml:id="p001_r_3_tl_5"/>sie jünger als die Stadt Mzchet, die ein georgischer 
+               <lb xml:id="p001_r_3_tl_6"/>Fürst, unbekannt wann, gegründet und nach seinem 
+               <lb xml:id="p001_r_3_tl_7"/>Sohn benannt hat. Man errichtete die erste Kathedrale, 
+               <lb xml:id="p001_r_3_tl_8"/>einen Holzbau, im dritten Jahrhundert, sie brannte 
+               <lb xml:id="p001_r_3_tl_9"/>nieder, und wurde im fünften Jahrhundert durch ein 
+               <lb xml:id="p001_r_3_tl_10"/>steinernes Gotteshaus ersetzt. Der grusinische Zar 
+               <lb xml:id="p001_r_3_tl_11"/>Mirian und dessen fromme Gattin gründeten im 
+               <lb xml:id="p001_r_3_tl_12"/>vierten Jahrhundert das der heiligen Nina geweihte 
+               <lb xml:id="p001_r_3_tl_13"/>Frauenkloster, welches noch heute von frommen, 
+               <lb xml:id="p001_r_3_tl_14"/>armen und fast vergessenen Nonnen bewohnt wird. 
+               <lb xml:id="p001_r_3_tl_15"/>Sie weben auf primitiven Hauswebstühlen Stoffe, die 
+               <lb xml:id="p001_r_3_tl_16"/>sie in Tiflis verkaufen. In Mzchet residierte der Zar 
+               <lb xml:id="p001_r_3_tl_17"/>von Georgien, und der Patriarch, der zu den ersten 
+               <lb xml:id="p001_r_3_tl_18"/>Patriarchen der Christenheit gehörte. Mzchet schien eine 
+               <lb xml:id="p001_r_3_tl_19"/>große Zukunft zu erwarten. Aber – man weiß nicht, 
+               <lb xml:id="p001_r_3_tl_20"/>was dazu die Veranlassung war – schon im fünften 
+               <lb xml:id="p001_r_3_tl_21"/>Jahrhundert wurde die alte Hauptstadt verlassen, die 
+               <lb xml:id="p001_r_3_tl_22"/>Residenz nach Tiflis verlegt. Es blieb das religiöse 
+               <lb xml:id="p001_r_3_tl_23"/>Ansehen, es blieben Klöster und Kathedrale, und in 
+               <lb xml:id="p001_r_3_tl_24"/>der Kathedrale wurden bis zum Jahre 1800 alle 
+               <lb xml:id="p001_r_3_tl_25"/>georgischen Fürsten beigesetzt. So wurde Mzchet eine 
+               <lb xml:id="p001_r_3_tl_26"/>Residenz der toten Zaren, ein religiöses Zentrum 
+               <lb xml:id="p001_r_3_tl_27"/>ohne Patriarch, eine Stadt der befestigten Kirchen 
+               <lb xml:id="p001_r_3_tl_28"/>ohne Bevölkerung. Still lebte nebenan das Dorf.</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_29"/>Und so bis heute. Als Georgien von Rußland 
+               <lb xml:id="p001_r_3_tl_30"/>annektiert wurde, setzte man den georgischen Patriar 
+               <lb xml:id="p001_r_3_tl_31" break="no"/>chen ab und ersetzte ihn durch den russischen. Aber 
+               <lb xml:id="p001_r_3_tl_32"/>1918, nach der großen Revolution, wurde Georgien 
+               <lb xml:id="p001_r_3_tl_33"/>eine autonome Republik, und seither hat es wieder 
+               <lb xml:id="p001_r_3_tl_34"/>einen eigenen Patriarchen. Dies erzählte mir der 
+               <lb xml:id="p001_r_3_tl_35"/>Wächter der Kathedrale Ssweti-Zchaweli, das heißt: 
+               <lb xml:id="p001_r_3_tl_36"/>zwölf Apostel – ein alter Priester, der das weiße 
+               <lb xml:id="p001_r_3_tl_37"/>Haar in ein dürftiges Zöpfchen geflochten trug, und 
+               <lb xml:id="p001_r_3_tl_38"/>mir mit Hilfe eines enormen Schlüssels das Tor der 
+               <lb xml:id="p001_r_3_tl_39"/>Festungsmauer öffnete. Wir betraten einen großen, 
+               <lb xml:id="p001_r_3_tl_40"/>grasbewachsenen Hof, der ringsum von der turm- 
+               <lb xml:id="p001_r_3_tl_41"/>und schießschartenbewehrten Mauer umschlossen wurde. 
+               <lb xml:id="p001_r_3_tl_42"/>Und mitten darin erhob sich die Kathedrale. Sie ist, 
+               <lb xml:id="p001_r_3_tl_43"/>seit dem fünften Jahrhundert, mehrmals von durch 
+               <lb xml:id="p001_r_3_tl_44" break="no"/>ziehenden Völkern zerstört worden, am gründlichsten 
+               <lb xml:id="p001_r_3_tl_45"/>durch den Mongolen Tamerlan, sie hat oft, wie eine 
+               <lb xml:id="p001_r_3_tl_46"/>Burg, Frauen und Kindern Zuflucht geboten, 
+               <lb xml:id="p001_r_3_tl_47"/>wurde in ihrer jetzigen Form im fünfzehnten Jahr 
+               <lb xml:id="p001_r_3_tl_48" break="no"/>hundert wieder aufgebaut und ist heute ein wahrhaft
+               <milestone unit="textregion" xml:id="p001_r_1"/> 
+               <lb xml:id="p001_r_1_tl_1"/>klassisches Beispiel georgischen Kirchenbaus, mit vier 
+               <lb xml:id="p001_r_1_tl_2" break="no"/>stufig emporwachsendem Längsschiff, einem in der 
+               <lb xml:id="p001_r_1_tl_3"/>Mitte ansetzenden, kurzen Querschiff, und einem zen 
+               <lb xml:id="p001_r_1_tl_4" break="no"/>tralen Turm, der, rund, breit und zur Kuppel ge 
+               <lb xml:id="p001_r_1_tl_5" break="no"/>weitet, Verwandtschaft mit den Moscheekuppeln Stam 
+               <lb xml:id="p001_r_1_tl_6" break="no"/>buls zeigt. –</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_7"/>Bescheidener, nur durch einen alleinstehenden Turm 
+               <lb xml:id="p001_r_1_tl_8"/>geschützt, liegt das Kloster der heiligen Nina zwischen 
+               <lb xml:id="p001_r_1_tl_9"/>Obstbäumen und Tomatenbeeten. Eine einstöckige höl 
+               <lb xml:id="p001_r_1_tl_10" break="no"/>zerne Galerie läuft dem bäuerlichen Wohngebäude 
+               <lb xml:id="p001_r_1_tl_11"/>entlang, in einem Nebenhaus sitzen die Nonnen als 
+               <lb xml:id="p001_r_1_tl_12"/>fleißige Arbeiterinnen hinter ihren Webstühlen, die 
+               <lb xml:id="p001_r_1_tl_13"/>Alten aber sitzen im Hof in der Sonne, schläfrig 
+               <lb xml:id="p001_r_1_tl_14"/>betend. Früher lebte das Kloster von den Gaben der 
+               <lb xml:id="p001_r_1_tl_15"/>Gläubigen und von der Unterstützung des Staates. 
+               <lb xml:id="p001_r_1_tl_16"/>Heute hat sich der Staat von der Kirche losgesagt und 
+               <lb xml:id="p001_r_1_tl_17"/>überläßt die Klosterinsassen ihrem Schicksal, und die 
+               <lb xml:id="p001_r_1_tl_18"/>Gaben der Gläubigen nehmen nicht zu. Es blieb den 
+               <lb xml:id="p001_r_1_tl_19"/>georgischen Nonnen nichts übrig, als sich durch eigene 
+               <lb xml:id="p001_r_1_tl_20"/>Arbeit zu unterhalten, und sie lernten weben.</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_21"/>Ein junger Bauer begleitet mich durch das Dorf 
+               <lb xml:id="p001_r_1_tl_22"/>zurück.</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_23"/>"Mzchet ist älter als Tiflis", sagt er, "es war ein 
+               <lb xml:id="p001_r_1_tl_24" break="no"/>mal größer. Jetzt kommen die Leute hierher wie in 
+               <lb xml:id="p001_r_1_tl_25"/>ein Museum."</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_26"/>"Und die Leute von Mzchet", frage ich, "was hal 
+               <lb xml:id="p001_r_1_tl_27" break="no"/>ten Sie davon?"</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_28"/>"Mzchet hat 1500 Einwohner", sagt er. "Mein Vater 
+               <lb xml:id="p001_r_1_tl_29"/>ist Hirt. Ich bin auf der Blumenzüchter-Kolchose. Es 
+               <lb xml:id="p001_r_1_tl_30"/>ist die beste Blumengärtnerei von Georgien. Das hät 
+               <lb xml:id="p001_r_1_tl_31" break="no"/>ten Sie sich auch einmal ansehen sollen ...</p>
+</div>
+       </body>
+    </text>
+ </TEI>
