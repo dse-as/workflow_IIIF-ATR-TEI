@@ -24,7 +24,7 @@ jobs:
     needs: evaluate-label
     if: needs.evaluate-label.outputs.continue == 'true'
     outputs:
-      output1: ${{ steps.ipynb-txt.outputs.out }}
+      output1: ${{ steps.get_output.outputs.result }}
     env:
       TASKS: ${{ join(github.event.issue.labels.*.name,', ') }}
     steps:
@@ -58,7 +58,7 @@ jobs:
     - name: Get output from script
       id: get_output
       run: |
-        echo "::set-output name=result::$(tail -n 10 ./iiif-to-transkribus/output.log)"
+        echo "result=$(tail -n 10 ./iiif-to-transkribus/output.log)" >> $GITHUB_ENV
       continue-on-error: true
 
     - name: Add comment to GitHub issue
@@ -69,7 +69,6 @@ jobs:
           **Workflow finished** :sparkles:
           Here is the result of the workflow:
           ```
-          ${{ steps.get_output.outputs.result }}
+          ${{ env.result }}
           ```
           Please check if the new addition to the collection looks good and close this issue. :sparkles:
-        

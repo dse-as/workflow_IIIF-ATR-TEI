@@ -8,8 +8,15 @@ from lxml import etree
 import time
 import random
 
-# Setup logging for debugging
-logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
+# Setup logging to both console and file
+logging.basicConfig(
+    level=logging.DEBUG,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.StreamHandler(),  # Log to console
+        logging.FileHandler('output.log')  # Log to a file named output.log
+    ]
+)
 
 # Global variables
 issue_desc = None
@@ -187,12 +194,19 @@ if __name__ == '__main__':
         collection_id = re.search(r"\((\w+)\)", issue_desc['target-collection']).group(0)[1:-1]
 
         # Process the uploads
-        skipped = process_uploads(to_process, collection_id)
+        skipped, result_output = process_uploads(to_process, collection_id)
 
         # Final logs
         if skipped:
             logging.warning(f"Skipped processing for the following manifests: {skipped}")
         else:
             logging.info("All manifests processed successfully.")
+
+        # Output results
+        with open('output.log', 'a') as f:
+            f.write("\n".join(result_output) + "\n")
+
     except Exception as e:
         logging.error(f"Workflow failed: {e}")
+        with open('output.log', 'a') as f:
+            f.write(f"Workflow failed: {e}\n")
