@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0256" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0256#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0256</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0256_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415331"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l_13"/>HIGHLANDER FOLK SCHOOL 
+               <lb xml:id="p001_l"/>MONTEAGLE, TENNESSEE 
+               <lb xml:id="p001_l_1"/>[Stempel]</p>
+
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>10. Nov. 37 [handschriftlich ergänzt, Pfeil vom Wort Datum zur Zahl]</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_2"/>Liebster Klaus, – das <hi rendition="#g">Datum</hi> ist mir heute aufgefallen, – und 
+               <lb xml:id="p001_tr_1_tl_3"/>wenn wir in der gleichen nachlässig-konzentriert-vergesslichen 
+               <lb xml:id="p001_tr_1_tl_4"/>Manier unseren Weg fortsetzen, kann es leicht das Ende des Monats 
+               <lb xml:id="p001_tr_1_tl_5"/>werden, bevor wir in Washington – und noch nicht in New York – zurück 
+               <lb xml:id="p001_tr_1_tl_6"/>sind. Wir müssten denn – und es ist sogar wahrscheinlich – durch die 
+               <lb xml:id="p001_tr_1_tl_7"/>unheimlich schmelzenden Finanzen gezwungen sein ... und gerade 
+               <lb xml:id="p001_tr_1_tl_8"/>davon getraue ich mich kaum, zu reden. Aber kurz und schlicht: 
+               <lb xml:id="p001_tr_1_tl_9"/>Du kennst die Hotels und Gepflogenheiten des Kontinents, – und 
+               <lb xml:id="p001_tr_1_tl_10"/>weisst, wieviel genau 250 Dollars monatlich bedeuten, von denen 
+               <lb xml:id="p001_tr_1_tl_11"/>über 25 gleich für den Wagen abgehen. Und vom Rest ernähre ich – 
+               <lb xml:id="p001_tr_1_tl_12"/>gut und gern – und in jeder Hinsicht berechtigter Weise – Barbara. 
+               <lb xml:id="p001_tr_1_tl_13"/>Dies, damit Du realistisch und freundlich eingestellt bist, wenn 
+               <lb xml:id="p001_tr_1_tl_14"/>ich Dich frage, wie es mit dem Retourbillet steht. Jch erfuhr, es 
+               <lb xml:id="p001_tr_1_tl_15"/>wurde bar bezahlt und als meine Rückfahrt gebucht, – und ich sage 
+               <lb xml:id="p001_tr_1_tl_16"/>es Dir lieber gleich: ich müsste damit rechnen, – d.h. damit, dass 
+               <lb xml:id="p001_tr_1_tl_17"/>Du den Schein, den Du irgendwo in der Tasche hast, auf mich über 
+               <lb xml:id="p001_tr_1_tl_18" break="no"/>trägst, – <hi rendition="#g">irgendwie</hi>, hoffe ich, würde doch die L [gap]ecture Tour 
+               <lb xml:id="p001_tr_1_tl_19"/>oder der Kunst-Baedeker Deine Heimreise aufbringen? – anderenfalls 
+               <lb xml:id="p001_tr_1_tl_20"/>ich nicht recht weiss, was ich tun soll, – selbst dritter Klasse 
+               <lb xml:id="p001_tr_1_tl_21"/>wäre ich zu allerhand peinlichen Sparmassnahmen (!) und Hinter 
+               <lb xml:id="p001_tr_1_tl_22" break="no"/>hältigkeiten gezwungen. Und – erstens kann ich nicht mehr sparen als 
+               <lb xml:id="p001_tr_1_tl_23"/>es schon geschieht – Sandwichs and no drinks – zweitens <hi rendition="#g">mag</hi> ich 
+               <lb xml:id="p001_tr_1_tl_24"/>nicht wieder dritter Klasse. Aber – dies alles nur, im Falle Du plötz[¬] 
+               <lb xml:id="p001_tr_1_tl_25"/>lich und vor meiner Rückkehr abreisen willst – was ich ganz und               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415332"/>
+            <milestone unit="textregion" xml:id="p002_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_2_tl_1"/> </p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+            <p> 
+               <lb xml:id="p002_tr_2_tl_1"/>gar nicht hoffe ...? <hi rendition="#g">Viel</hi> hübscher wäre es, zusammen zu reisen – – und 
+               <lb xml:id="p002_tr_2_tl_2"/>in diesem casus könnten wir ja alles hübsch zusammen aushecken und be 
+               <lb xml:id="p002_tr_2_tl_3" break="no"/>rechnen.</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_4"/>Jch habe bisher unter betr<del rend="overstrike">ü</del>[ä]chtlichem Aufwand an Energie und Konzentra 
+               <lb xml:id="p002_tr_2_tl_5" break="no"/>tion einen TVA-Artikel für Graeter, eine Labour-Reportage für die Welt 
+               <lb xml:id="p002_tr_2_tl_6" break="no"/>woche, – und ein ganz gelungenes (<del rend="overstrike">ç</del>[.]..?) Feuilleton als erstes Stückchen 
+               <lb xml:id="p002_tr_2_tl_7"/>einer Serie für Kleiber gedichtet. Erstens ist es schwierig, weil ich 
+               <lb xml:id="p002_tr_2_tl_8"/>mich unter lauter Experten und seriös gesinnten Kennern befinde, die ge 
+               <lb xml:id="p002_tr_2_tl_9" break="no"/>nau wissen, wie kompliziert die Tatsachen hier liegen, und die an die 
+               <lb xml:id="p002_tr_2_tl_10"/>ganze raffinierte Komplexität der lokal-versus amerikanischen Bericht 
+               <lb xml:id="p002_tr_2_tl_11" break="no"/>erstattung gewöhnt sind. Zweitens ahnt mir selbst Einiges von der har 
+               <lb xml:id="p002_tr_2_tl_12" break="no"/>ten, grausig-rohen, und doch wied[handschriftlich ergänzt]er "smarten" Realität des Kampfes, der 
+               <lb xml:id="p002_tr_2_tl_13"/>sich hier zwischen Plantagensystem und Jndustrialisierung, Neger-Vorur 
+               <lb xml:id="p002_tr_2_tl_14" break="no"/>teilen, und billigen Löhnen, faschistischen Methoden und proletarische<del rend="overstrike">n</del>[r] 
+               <lb xml:id="p002_tr_2_tl_15"/><del rend="overstrike">Kampf</del> Zukunft abspielen. Aber wieviel davon kann man in sechs Seiten 
+               <lb xml:id="p002_tr_2_tl_16"/>dem biederen Europäer erklären? –</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_17"/>Was treibst Du, – in der rasch wachsenden Zwischenzeit? – Manchmal wünschte 
+               <lb xml:id="p002_tr_2_tl_18"/>ich doch, Du würdest einmal mitfahren, – weil uns Vieles, was sich hier vor 
+               <lb xml:id="p002_tr_2_tl_19" break="no"/>bereitet, direkt angeht, und weil es Zukunft bedeutet. Selbst die kommu 
+               <lb xml:id="p002_tr_2_tl_20" break="no"/>nistischen Führer – eben sass ich mit dreien zusammen – sind hier unten aus 
+               <lb xml:id="p002_tr_2_tl_21"/>anderem Stoff als in N.Y. –</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_22"/>Aber, jetzt ist es auch ein Uhr, und um acht Uhr gibt es schon wieder 
+               <lb xml:id="p002_tr_2_tl_23"/>Haferbrei und Speck. Ueber den Wasser-Kaffee will ich gar nichts sagen, 
+               <lb xml:id="p002_tr_2_tl_24"/>weil wir im Uebrigen hier so durchaus reizend behandelt werden, und 
+               <lb xml:id="p002_tr_2_tl_25"/>ausserdem abreisen, – in die Stadt Birmingham. Hast Du den sehr guten Arti 
+               <lb xml:id="p002_tr_2_tl_26" break="no"/>kel darüber, in irgendeiner Harper-Nummer, gelesen? – Grüsse alle, den Curtis 
+               <lb xml:id="p002_tr_2_tl_27"/>den Doktor, – und sehr Zärtliches für E. – und Dich, nebst tausend Grüssen 
+               <lb xml:id="p002_tr_2_tl_28"/>von Barbara –</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_2_tl_29"/>à toi – [handschriftlich ergänzt] 
+               <lb xml:id="p002_tr_2_tl_30"/>Miro</p>
+</div>
+       </body>
+    </text>
+ </TEI>
