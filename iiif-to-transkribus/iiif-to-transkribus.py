@@ -2,9 +2,9 @@ import json
 import os
 import requests
 import time
-import random
 import re
 import logging
+import random
 from requests_toolbelt.multipart.encoder import MultipartEncoder
 from lxml import etree
 
@@ -105,6 +105,14 @@ def process_uploads(to_process, collection_id):
         pages = get_pages(manifest)
         files = download_pages(pages)
 
+        # Log the files dictionary to check for any issues
+        logging.debug(f"Downloaded files: {files}")
+
+        if not files:
+            logging.error(f"No files to upload for {processing}. Skipping.")
+            skipped.append(processing)
+            continue
+
         pages_metadata = [{'fileName': val, 'pageNr': idx+1} for idx, val in enumerate(sorted(files))]
 
         upload_obj = {
@@ -126,31 +134,49 @@ def process_uploads(to_process, collection_id):
             logging.info(f"Upload metadata successful. Got uploadId: {upload_id}")
             logging.info("Transmitting files...")
 
+            # Now, ensure each file is uploaded correctly
             for key in sorted(files):
+                # Log the actual request being sent
+                logging.debug(f"Uploading file: {key}, size: {len(files[key])} bytes")
+
                 mp_encoder = MultipartEncoder(
                     fields={'img': (key, files[key], 'application/octet-stream')}
                 )
+
                 try:
-                    upload_response = session.put(
+                    cont = session.put(
                         f'https://transkribus.eu/TrpServer/rest/uploads/{upload_id}', data=mp_encoder,
                         headers={'Content-Type': mp_encoder.content_type}
                     )
-                    upload_response.raise_for_status()
-                    response_xml = etree.fromstring(upload_response.content)
-                    job_id = response_xml.xpath('//jobId/text()')[0]
-                    logging.info(f"File {key} uploaded. Job ID: {job_id}")
+                    cont.raise_for_status()
+
+                    # Parse the response to get the job ID
+                    response_xml = etree.fromstring(cont.content)
+                    try:
+                        job_id = response_xml.xpath('//jobId/text()')[0]
+                        logging.info(f"File {key} uploaded. Job ID: {job_id}")
+                    except Exception as e:
+                        logging.error(f"Failed to extract job ID for {key}: {e}")
+                        continue
                 except Exception as e:
                     logging.error(f"Failed to upload {key}: {e}")
                     fail = True
                     break
 
+                # Random sleep between uploads to avoid server overload
+                time.sleep(random.randint(0, 2))
+
             if not fail:
-                job_status = session.get(f'https://transkribus.eu/TrpServer/rest/jobs/{job_id}')
-                job_status.raise_for_status()
-                job_state = job_status.json().get("state")
-                logging.info(f"Job status: {job_state} (ID: {job_id})")
+                # After all files are uploaded, check job status
+                time.sleep(10)  # Wait before checking job status
+                job = session.get(f'https://transkribus.eu/TrpServer/rest/jobs/{job_id}')
+                job.raise_for_status()
+                job_status = job.json().get("state")
+                logging.info(f"Job status: {job_status} (ID: {job_id})")
+                logging.info("- done!")
             else:
                 skipped.append(processing)
+                logging.warning(f"-- failed to upload file in {processing}, skipping this manifest")
 
         except Exception as e:
             logging.error(f"Error processing {processing}: {e}")
