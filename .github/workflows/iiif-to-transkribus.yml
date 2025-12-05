@@ -90,11 +90,13 @@ jobs:
       with:
         issue-number: ${{ github.event.issue.number }}
         body: |
-          **Workflow finished** :sparkles:
+          ### Workflow finished :sparkles:
+          
           Here is the result of the workflow:
           ```
-          ${{ env.result }}
+          <pre>${{ env.result }}</pre>
           ```
+          
           Please check if the new addition to the collection looks good and close this issue. :sparkles:
         token: ${{ secrets.GITHUB_TOKEN }}
       continue-on-error: true
