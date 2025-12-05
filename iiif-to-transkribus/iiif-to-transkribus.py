@@ -162,12 +162,12 @@ def process_uploads(to_process, collection_id):
 
             # Append both upload_obj and status **together**
             status_line = "FINISHED 🟢" if not fail else "FAILED 🚫"
-            result_output.append(f"Upload object: {upload_obj}\nJob Status: {status_line}")
+            result_output.append(f"Upload object: {upload_obj}\nJob Status: {status_line}\n")
 
         except Exception as e:
             logging.error(f"Error processing {processing}: {e}")
             skipped.append(processing)
-            result_output.append(f"Upload object: {upload_obj}\nJob Status: ERROR ❌ - {e}")
+            result_output.append(f"Upload object: {upload_obj}\nJob Status: ERROR ❌ - {e}\n")
 
 # (old pattern:)
 ################

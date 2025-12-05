@@ -94,7 +94,7 @@ jobs:
           
           Here is the result of the workflow:
           ```
-          <pre>${{ env.result }}</pre>
+          ${{ env.result }}
           ```
           
           Please check if the new addition to the collection looks good and close this issue. :sparkles:
