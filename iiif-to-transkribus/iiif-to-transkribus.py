@@ -1,12 +1,12 @@
 import json
-import re
+import os
 import requests
 import time
 import random
-import os
+import re
+import logging
 from requests_toolbelt.multipart.encoder import MultipartEncoder
 from lxml import etree
-import logging
 
 # Setup logging for debugging
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -14,6 +14,7 @@ logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %
 # Global variables (set by GitHub Action environment)
 issue_desc = None
 secrets = None
+session = None  # Session for Transkribus
 
 def load_issue_data(issue_file='./issue-parser-result.json'):
     global issue_desc
@@ -32,10 +33,33 @@ def load_secrets():
         if transkribus_credentials is None:
             raise ValueError("TRANSKRIBUS_CREDENTIALS environment variable not found.")
         logging.info("Secrets loaded successfully.")
-        return transkribus_credentials  # You can return this and use it later in the script
+        return json.loads(transkribus_credentials)  # Returning the parsed JSON directly
 
     except Exception as e:
         logging.error(f"Error loading secrets: {e}")
+        raise
+
+def authenticate_with_transkribus(creds):
+    """Authenticate and create a session with Transkribus."""
+    global session
+    session = requests.Session()
+
+    login_data = {
+        'username': creds['username'],
+        'password': creds['password']
+    }
+
+    try:
+        response = session.post('https://transkribus.eu/TrpServer/rest/auth/login', data=login_data)
+        response.raise_for_status()
+
+        if response.status_code == 200:
+            logging.info("Successfully authenticated with Transkribus.")
+        else:
+            logging.error(f"Authentication failed with status code: {response.status_code}")
+            raise Exception(f"Authentication failed: {response.text}")
+    except requests.exceptions.RequestException as e:
+        logging.error(f"Error during authentication: {e}")
         raise
 
 def iiif_manifest(url):
@@ -100,7 +124,7 @@ def process_uploads(to_process, collection_id):
 
         try:
             headers = {'Content-type': 'application/json'}
-            response = requests.post(f'https://transkribus.eu/TrpServer/rest/uploads?collId={collection_id}', json=upload_obj, headers=headers)
+            response = session.post(f'https://transkribus.eu/TrpServer/rest/uploads?collId={collection_id}', json=upload_obj, headers=headers)
             response.raise_for_status()
             response_xml = etree.fromstring(response.content)
             upload_id = response_xml.xpath('//uploadId/text()')[0]
@@ -112,7 +136,7 @@ def process_uploads(to_process, collection_id):
                     fields={'img': (key, files[key], 'application/octet-stream')}
                 )
                 try:
-                    upload_response = requests.put(
+                    upload_response = session.put(
                         f'https://transkribus.eu/TrpServer/rest/uploads/{upload_id}', data=mp_encoder,
                         headers={'Content-Type': mp_encoder.content_type}
                     )
@@ -126,7 +150,7 @@ def process_uploads(to_process, collection_id):
                     break
 
             if not fail:
-                job_status = requests.get(f'https://transkribus.eu/TrpServer/rest/jobs/{job_id}')
+                job_status = session.get(f'https://transkribus.eu/TrpServer/rest/jobs/{job_id}')
                 job_status.raise_for_status()
                 job_state = job_status.json().get("state")
                 logging.info(f"Job status: {job_state} (ID: {job_id})")
@@ -146,6 +170,9 @@ if __name__ == '__main__':
 
         # Load secrets (now from environment variables)
         transkribus_credentials = load_secrets()
+
+        # Authenticate with Transkribus API
+        authenticate_with_transkribus(transkribus_credentials)
 
         # Extract manifests and collection ID
         to_process = issue_desc['iiif-manifests'].splitlines()[1:-1]
