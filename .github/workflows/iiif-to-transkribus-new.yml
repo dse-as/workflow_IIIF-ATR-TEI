@@ -62,7 +62,7 @@ jobs:
       continue-on-error: true
 
     - name: Add comment to GitHub issue
-      uses: peter-evans/issue-comment@v2
+      uses: peter-evans/create-or-update-comment@v5
       with:
         issue-number: ${{ github.event.issue.number }}
         body: |
@@ -72,3 +72,4 @@ jobs:
           ${{ steps.get_output.outputs.result }}
           ```
           Please check if the new addition to the collection looks good and close this issue. :sparkles:
+        
