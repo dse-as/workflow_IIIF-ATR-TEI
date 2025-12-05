@@ -144,6 +144,7 @@ def process_uploads(to_process, collection_id):
         }
 
         logging.info(f"Created upload object: {upload_obj}")
+        result_output.append(f"Upload object: {upload_obj}")
 
         try:
             # Create upload entry
@@ -172,6 +173,16 @@ def process_uploads(to_process, collection_id):
                 skipped.append(processing)
                 logging.warning(f"-- failed to upload file in {processing}, skipping this manifest")
                 result_output.append(f"Processing {processing} - Job Status: RUNNING 🚫")
+
+# (old pattern:)
+################
+# Processing https://iiif.annemarie-schwarzenbach.ch/presentation/letter_0349.json
+# - with upload object: {'md': {'title': 'letter_0349.json', 'externalId': 'letter_0349'}, 'pageList': {'pages': [{'fileName': 'letter_0349_001.jpg', 'pageNr': 1}, {'fileName': 'letter_0349_002.jpg', 'pageNr': 2}]}}
+# - successfully uploaded metadata, got id 10453419
+# - transmitting file(s)
+# - job status (18212681): FINISHED 🟢
+# - done!
+# ══════════════════════
 
         except Exception as e:
             logging.error(f"Error processing {processing}: {e}")
