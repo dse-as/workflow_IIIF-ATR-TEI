@@ -74,7 +74,7 @@ jobs:
     - name: Get output from script
       id: get_output
       run: |
-        if [ -f ./iiif-to-transkribus/output.log ]; then
+        if [ -f /tmp/output.log ]; then
           echo "result=$(tail -n 20 /tmp/output.log)" >> $GITHUB_ENV
         else
           echo "output.log does not exist, skipping capture."
@@ -92,3 +92,22 @@ jobs:
           ${{ env.result }}
           ```
           Please check if the new addition to the collection looks good and close this issue. :sparkles:
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      continue-on-error: true
+
+# adding a reply to the issue thread in case of non-authorization
+  add-comment-unauthorized:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Add comment
+        if: ${{ ! contains(fromJson(vars.WHITELIST),github.actor)}}
+        run: gh issue close "$NUMBER" -c "$BODY"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          NUMBER: ${{ github.event.issue.number }}
+          BODY: "**Initiator of the action (${{ github.actor }}) is not whitelisted.**\n\n **Aborting.**\n\n\n [Edit `WHITELIST`](https://github.com/organizations/dse-as/settings/variables/actions/WHITELIST)"
