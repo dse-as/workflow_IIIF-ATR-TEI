@@ -57,7 +57,7 @@ jobs:
 
     - name: Check if output.log exists
       run: |
-        if [ -f ./tmp/output.log ]; then
+        if [ -f /tmp/output.log ]; then
           echo "output.log file exists"
         else
           echo "output.log not found!"
@@ -65,8 +65,8 @@ jobs:
 
     - name: Cat output.log for debugging
       run: |
-        if [ -f ./tmp/output.log ]; then
-          cat ./tmp/output.log
+        if [ -f /tmp/output.log ]; then
+          cat /tmp/output.log
         else
           echo "No log file available."
         fi
@@ -75,7 +75,7 @@ jobs:
       id: get_output
       run: |
         if [ -f ./iiif-to-transkribus/output.log ]; then
-          echo "result=$(tail -n 20 ./tmp/output.log)" >> $GITHUB_ENV
+          echo "result=$(tail -n 20 /tmp/output.log)" >> $GITHUB_ENV
         else
           echo "output.log does not exist, skipping capture."
         fi
