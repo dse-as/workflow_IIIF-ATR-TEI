@@ -1,13 +1,10 @@
-name: Upload IIIF images to Transkribus based on IIIF manifests (py)
+name: Upload IIIF images to Transkribus based on IIIF manifests
 
 on:
   issues:
     types: [opened, edited]
   issue_comment:
     types: [created, edited]
-
-permissions:
-  issues: write
 
 jobs:
   evaluate-label:
@@ -27,10 +24,12 @@ jobs:
     needs: evaluate-label
     if: needs.evaluate-label.outputs.continue == 'true'
     outputs:
-      output1: ${{ steps.get_output.outputs.result }}
+      output1: ${{ steps.ipynb-txt.outputs.out }}
     env:
       TASKS: ${{ join(github.event.issue.labels.*.name,', ') }}
     steps:
+    - run: echo ${{join(github.event.issue.labels.*.name,', ')}}
+    - run: echo env.TASKS
     - uses: actions/checkout@v4
     - uses: stefanbuck/github-issue-parser@v3
       id: issue-parser
@@ -44,59 +43,56 @@ jobs:
       uses: actions/setup-python@v5
       with:
         python-version: '3.11'
-
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install requests requests-toolbelt lxml
-    
-    - name: Upload to Transkribus
-      run: |
-        python3 ./iiif-to-transkribus/iiif-to-transkribus.py
+    - uses: yaananth/run-notebook@v2
+      id: ipynb
       env:
+        RUNNER: ${{ toJson(runner) }}
+        SECRETS: ${{ toJson(secrets) }}
+        GITHUB: ${{ toJson(github) }}
         ISSUE: ./issue-parser-result.json
-        TRANSKRIBUS_CREDENTIALS: ${{ secrets.TRANSKRIBUS_CREDENTIALS }}
-      continue-on-error: true
-
-    - name: Check if output.log exists
-      run: |
-        if [ -f /tmp/output.log ]; then
-          echo "output.log file exists"
-        else
-          echo "output.log not found!"
-        fi
-
-    - name: Cat output.log for debugging
-      run: |
-        if [ -f /tmp/output.log ]; then
-          cat /tmp/output.log
-        else
-          echo "No log file available."
-        fi
-
-    - name: Get output from script
-      id: get_output
-      run: |
-        if [ -f /tmp/output.log ]; then
-          echo "result=$(tail -n 20 /tmp/output.log)" >> $GITHUB_ENV
-        else
-          echo "output.log does not exist, skipping capture."
-        fi
-      continue-on-error: true
-
-    - name: Add comment to GitHub issue
-      uses: peter-evans/create-or-update-comment@v5
       with:
-        issue-number: ${{ github.event.issue.number }}
-        body: |
-          **Workflow finished** :sparkles:
-          Here is the result of the workflow:
-          ```
-          ${{ env.result }}
-          ```
-          Please check if the new addition to the collection looks good and close this issue. :sparkles:
-        token: ${{ secrets.GITHUB_TOKEN }}
-      continue-on-error: true
+        notebook: "./iiif-to-transkribus/iiif-to-transkribus.ipynb"
+        params: "./iiif-to-transkribus/default-params.json"
+        isReport: False
+        poll: True
+ # for easier debugging:       
+    - uses: actions/upload-pages-artifact@v3
+#      if: always()
+      with:
+        name: output
+        path: ${{ RUNNER.temp }}/nb-runner
+      env:
+        RUNNER: ${{ toJson(runner) }}
+
+# output for auto reply
+    - name: Read notebook capture into a github actions output
+      id: ipynb-txt
+      run: |
+        {
+          echo 'out<<DELIM'
+          cat ./ipynb.txt
+          echo
+          echo DELIM
+        } >> "$GITHUB_OUTPUT"
+
+# adding a reply to the issue thread
+  add-comment:
+    needs: run
+    runs-on: ubuntu-latest
+    env:
+      TASKS: ${{ join(github.event.issue.labels.*.name,', ') }}
+    permissions:
+      issues: write
+    steps:
+      - name: Add comment
+#        run: gh issue comment "$NUMBER" --body-file ./ipynb.txt
+        run: gh issue comment "$NUMBER" --body "$BODY"
+        env:
+          OUTPUT1: ${{needs.run.outputs.output1}}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          NUMBER: ${{ github.event.issue.number }}
+          BODY: ${{needs.run.outputs.output1}}
 
 # adding a reply to the issue thread in case of non-authorization
   add-comment-unauthorized:
