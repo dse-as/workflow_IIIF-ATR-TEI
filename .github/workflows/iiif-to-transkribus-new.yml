@@ -92,9 +92,7 @@ jobs:
           ${{ env.result }}
           ```
           Please check if the new addition to the collection looks good and close this issue. :sparkles:
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+        token: ${{ secrets.GITHUB_TOKEN }}
       continue-on-error: true
 
 # adding a reply to the issue thread in case of non-authorization
