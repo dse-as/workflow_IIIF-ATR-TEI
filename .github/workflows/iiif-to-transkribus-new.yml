@@ -53,13 +53,22 @@ jobs:
       env:
         ISSUE: ./issue-parser-result.json
         TRANSKRIBUS_CREDENTIALS: ${{ secrets.TRANSKRIBUS_CREDENTIALS }}
+      continue-on-error: true
 
-  add-comment:
-    needs: run
-    runs-on: ubuntu-latest
-    permissions:
-      issues: write
-    steps:
-      - name: Add comment
-        run: gh issue comment "$NUMBER" --body "$BODY"
-       
+    - name: Get output from script
+      id: get_output
+      run: |
+        echo "::set-output name=result::$(tail -n 10 ./iiif-to-transkribus/output.log)"
+      continue-on-error: true
+
+    - name: Add comment to GitHub issue
+      uses: peter-evans/issue-comment@v2
+      with:
+        issue-number: ${{ github.event.issue.number }}
+        body: |
+          **Workflow finished** :sparkles:
+          Here is the result of the workflow:
+          ```
+          ${{ steps.get_output.outputs.result }}
+          ```
+          Please check if the new addition to the collection looks good and close this issue. :sparkles:

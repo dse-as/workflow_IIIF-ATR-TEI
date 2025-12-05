@@ -110,6 +110,8 @@ def upload_file(upload_id, file_name, file_data):
 def process_uploads(to_process, collection_id):
     """Process and upload all the pages for each manifest."""
     skipped = []
+    result_output = []  # Collect the result output
+
     for processing in to_process:
         fail = False
         logging.info(f"Processing {processing}...")
@@ -158,15 +160,18 @@ def process_uploads(to_process, collection_id):
 
             if not fail:
                 logging.info("All files uploaded successfully.")
+                result_output.append(f"Processing {processing} - Job Status: FINISHED 🟢")
             else:
                 skipped.append(processing)
                 logging.warning(f"-- failed to upload file in {processing}, skipping this manifest")
+                result_output.append(f"Processing {processing} - Job Status: RUNNING 🚫")
 
         except Exception as e:
             logging.error(f"Error processing {processing}: {e}")
             skipped.append(processing)
+            result_output.append(f"Processing {processing} - Error: {e}")
 
-    return skipped
+    return skipped, result_output
 
 if __name__ == '__main__':
     try:
