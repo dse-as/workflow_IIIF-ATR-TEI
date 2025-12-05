@@ -2,6 +2,7 @@ import json
 import os
 import requests
 import logging
+import re
 from requests_toolbelt.multipart.encoder import MultipartEncoder
 from lxml import etree
 import time
