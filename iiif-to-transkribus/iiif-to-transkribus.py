@@ -25,12 +25,15 @@ def load_issue_data(issue_file='./issue-parser-result.json'):
         logging.error(f"Error loading issue data: {e}")
         raise
 
-def load_secrets(secrets_file='./secrets.json'):
-    global secrets
+def load_secrets():
     try:
-        with open(secrets_file) as f:
-            secrets = json.load(f)
+        # Accessing the TRANSKRIBUS_CREDENTIALS secret as an environment variable
+        transkribus_credentials = os.getenv("TRANSKRIBUS_CREDENTIALS")
+        if transkribus_credentials is None:
+            raise ValueError("TRANSKRIBUS_CREDENTIALS environment variable not found.")
         logging.info("Secrets loaded successfully.")
+        return transkribus_credentials  # You can return this and use it later in the script
+
     except Exception as e:
         logging.error(f"Error loading secrets: {e}")
         raise
@@ -140,7 +143,9 @@ if __name__ == '__main__':
     try:
         # Load data from files
         load_issue_data()
-        load_secrets()
+
+        # Load secrets (now from environment variables)
+        transkribus_credentials = load_secrets()
 
         # Extract manifests and collection ID
         to_process = issue_desc['iiif-manifests'].splitlines()[1:-1]

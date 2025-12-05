@@ -52,7 +52,6 @@ jobs:
         python3 ./iiif-to-transkribus/iiif-to-transkribus.py
       env:
         ISSUE: ./issue-parser-result.json
-        SECRETS: ./secrets.json
         TRANSKRIBUS_CREDENTIALS: ${{ secrets.TRANSKRIBUS_CREDENTIALS }}
     
     - uses: actions/upload-pages-artifact@v3
