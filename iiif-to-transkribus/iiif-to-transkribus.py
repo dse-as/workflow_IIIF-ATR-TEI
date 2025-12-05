@@ -203,10 +203,10 @@ if __name__ == '__main__':
             logging.info("All manifests processed successfully.")
 
         # Output results
-        with open('output.log', 'a') as f:
+        with open('/tmp/output.log', 'a') as f:
             f.write("\n".join(result_output) + "\n")
 
     except Exception as e:
         logging.error(f"Workflow failed: {e}")
-        with open('output.log', 'a') as f:
+        with open('/tmp/output.log', 'a') as f:
             f.write(f"Workflow failed: {e}\n")

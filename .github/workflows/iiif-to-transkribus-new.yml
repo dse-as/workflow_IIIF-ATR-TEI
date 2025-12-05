@@ -1,4 +1,4 @@
-name: Upload IIIF images to Transkribus based on IIIF manifests
+name: Upload IIIF images to Transkribus based on IIIF manifests (py)
 
 on:
   issues:
@@ -55,10 +55,30 @@ jobs:
         TRANSKRIBUS_CREDENTIALS: ${{ secrets.TRANSKRIBUS_CREDENTIALS }}
       continue-on-error: true
 
+    - name: Check if output.log exists
+      run: |
+        if [ -f ./tmp/output.log ]; then
+          echo "output.log file exists"
+        else
+          echo "output.log not found!"
+        fi
+
+    - name: Cat output.log for debugging
+      run: |
+        if [ -f ./tmp/output.log ]; then
+          cat ./tmp/output.log
+        else
+          echo "No log file available."
+        fi
+
     - name: Get output from script
       id: get_output
       run: |
-        echo "result=$(tail -n 10 ./iiif-to-transkribus/output.log)" >> $GITHUB_ENV
+        if [ -f ./iiif-to-transkribus/output.log ]; then
+          echo "result=$(tail -n 20 ./tmp/output.log)" >> $GITHUB_ENV
+        else
+          echo "output.log does not exist, skipping capture."
+        fi
       continue-on-error: true
 
     - name: Add comment to GitHub issue
