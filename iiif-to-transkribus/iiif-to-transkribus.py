@@ -44,13 +44,8 @@ def authenticate_with_transkribus(creds):
     global session
     session = requests.Session()
 
-    login_data = {
-        'username': creds['username'],
-        'password': creds['password']
-    }
-
     try:
-        response = session.post('https://transkribus.eu/TrpServer/rest/auth/login', data=login_data)
+        response = session.post('https://transkribus.eu/TrpServer/rest/auth/login', data=creds)
         response.raise_for_status()
 
         if response.status_code == 200:
