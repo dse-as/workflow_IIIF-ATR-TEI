@@ -131,6 +131,7 @@ def process_uploads(to_process, collection_id):
         if not files:
             logging.error(f"No files to upload for {processing}. Skipping.")
             skipped.append(processing)
+            result_output.append(f"Processing {processing} - SKIPPED 🚫\nUpload object: None")
             continue
 
         pages_metadata = [{'fileName': val, 'pageNr': idx + 1} for idx, val in enumerate(sorted(files))]
@@ -143,36 +144,30 @@ def process_uploads(to_process, collection_id):
             "pageList": {"pages": pages_metadata}
         }
 
-        logging.info(f"Created upload object: {upload_obj}")
-        result_output.append(f"Upload object: {upload_obj}")
-
         try:
-            # Create upload entry
             response = session.post(f'https://transkribus.eu/TrpServer/rest/uploads?collId={collection_id}', json=upload_obj)
             response.raise_for_status()
             response_xml = etree.fromstring(response.content)
             upload_id = response_xml.xpath('//uploadId/text()')[0]
             logging.info(f"Upload metadata successful. Got uploadId: {upload_id}")
 
-            logging.info("Transmitting files...")
-
-            # Upload each file
             for key in sorted(files):
                 try:
                     upload_file(upload_id, key, files[key])
-                    time.sleep(random.randint(0, 2))  # Random delay between uploads
+                    time.sleep(random.randint(0, 2))
                 except Exception as e:
                     logging.error(f"Failed to upload {key}. Error: {e}")
                     fail = True
                     break
 
-            if not fail:
-                logging.info("All files uploaded successfully.")
-                result_output.append(f"Processing {processing} - Job Status: FINISHED 🟢")
-            else:
-                skipped.append(processing)
-                logging.warning(f"-- failed to upload file in {processing}, skipping this manifest")
-                result_output.append(f"Processing {processing} - Job Status: RUNNING 🚫")
+            # Append both upload_obj and status **together**
+            status_line = "FINISHED 🟢" if not fail else "FAILED 🚫"
+            result_output.append(f"Upload object: {upload_obj}\nJob Status: {status_line}")
+
+        except Exception as e:
+            logging.error(f"Error processing {processing}: {e}")
+            skipped.append(processing)
+            result_output.append(f"Upload object: {upload_obj}\nJob Status: ERROR ❌ - {e}")
 
 # (old pattern:)
 ################
