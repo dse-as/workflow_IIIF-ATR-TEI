@@ -53,11 +53,6 @@ jobs:
       env:
         ISSUE: ./issue-parser-result.json
         TRANSKRIBUS_CREDENTIALS: ${{ secrets.TRANSKRIBUS_CREDENTIALS }}
-    
-    - uses: actions/upload-pages-artifact@v3
-      with:
-        name: output
-        path: ${{ RUNNER.temp }}/nb-runner
 
   add-comment:
     needs: run
