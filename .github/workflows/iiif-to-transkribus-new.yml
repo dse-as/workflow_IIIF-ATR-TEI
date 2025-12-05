@@ -44,7 +44,7 @@ jobs:
         
     - name: Upload to Transkribus
       run: |
-        python3 ./scripts/iiif-to-transkribus.py
+        python3 ./iiif-to-transkribus/iiif-to-transkribus.py
       env:
         ISSUE: ./issue-parser-result.json
         SECRETS: ./secrets.json
