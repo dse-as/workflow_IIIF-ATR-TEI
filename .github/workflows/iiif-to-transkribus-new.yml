@@ -1,0 +1,66 @@
+name: Upload IIIF images to Transkribus based on IIIF manifests
+
+on:
+  issues:
+    types: [opened, edited]
+  issue_comment:
+    types: [created, edited]
+
+jobs:
+  evaluate-label:
+    name: evaluate-label
+    runs-on: ubuntu-latest
+    env:
+      TASKS: ${{ join(github.event.issue.labels.*.name,', ') }}
+      CONTINUE: ${{ contains(join(github.event.issue.labels.*.name,', '),'task:iiif-upload') && contains(fromJson(vars.WHITELIST),github.actor) && 'true' || 'false'}}
+    outputs:
+      continue: ${{ env.CONTINUE }}
+    steps:
+      - run: echo ${{ env.CONTINUE }}
+
+  run:
+    name: run
+    runs-on: ubuntu-latest
+    needs: evaluate-label
+    if: needs.evaluate-label.outputs.continue == 'true'
+    outputs:
+      output1: ${{ steps.ipynb-txt.outputs.out }}
+    env:
+      TASKS: ${{ join(github.event.issue.labels.*.name,', ') }}
+    steps:
+    - uses: actions/checkout@v4
+    - uses: stefanbuck/github-issue-parser@v3
+      id: issue-parser
+      with:
+        template-path: .github/ISSUE_TEMPLATE/0-initiate-upload.yml
+
+    - run: cat ${HOME}/issue-parser-result.json
+    - run: cp ${HOME}/issue-parser-result.json ./issue-parser-result.json
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        
+    - name: Upload to Transkribus
+      run: |
+        python3 ./scripts/iiif-to-transkribus.py
+      env:
+        ISSUE: ./issue-parser-result.json
+        SECRETS: ./secrets.json
+        TRANSKRIBUS_CREDENTIALS: ${{ secrets.TRANSKRIBUS_CREDENTIALS }}
+    
+    - uses: actions/upload-pages-artifact@v3
+      with:
+        name: output
+        path: ${{ RUNNER.temp }}/nb-runner
+
+  add-comment:
+    needs: run
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Add comment
+        run: gh issue comment "$NUMBER" --body "$BODY"
+       
