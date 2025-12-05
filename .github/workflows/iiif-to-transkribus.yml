@@ -78,12 +78,12 @@ jobs:
       id: get_output
       run: |
         if [ -f /tmp/output.log ]; then
-          result=$(awk '{printf "%s\\n", $0}' /tmp/output.log)
-          echo "result=$result" >> $GITHUB_ENV
+          echo "result<<EOF" >> $GITHUB_ENV
+          cat /tmp/output.log >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
         else
           echo "output.log does not exist, skipping capture."
         fi
-#      continue-on-error: true
 
     - name: Add comment to GitHub issue
       uses: peter-evans/create-or-update-comment@v5
