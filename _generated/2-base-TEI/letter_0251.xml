@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0251" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0251#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0251</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0251_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415278"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/><hi rendition="#u">6.4.35</hi> 
+               <lb xml:id="p001_tr_1_tl_2"/>Liebes Kläuschen, die Hunderterin habe ich mir 
+               <lb xml:id="p001_tr_1_tl_3"/>möglichst schnell besorgt, eine zweite schulde 
+               <lb xml:id="p001_tr_1_tl_4"/>ich Eri, während Friedrich sich mit einer Zwanzigerin 
+               <lb xml:id="p001_tr_1_tl_5"/>zufrieden geben muss. Ja, der Abschied! – Ich hätte 
+               <lb xml:id="p001_tr_1_tl_6"/>Dich ja aufsuchen, zumindest aber anrufen 
+               <lb xml:id="p001_tr_1_tl_7"/>können – mir <hi rendition="#u">war</hi> nicht so, ich mag den Hinweis 
+               <lb xml:id="p001_tr_1_tl_8"/>darauf nicht, dass es ein Abschied sei. In Paris 
+               <lb xml:id="p001_tr_1_tl_9"/>verbrachte ich einen traurig-gehetzten Tag, ohne bei 
+               <lb xml:id="p001_tr_1_tl_10"/>der schönäugigen Putzmacherin mehr zu ernten als 
+               <lb xml:id="p001_tr_1_tl_11"/>ein sehr süsses Liebes-Telegram[m], im Anschluss an 
+               <lb xml:id="p001_tr_1_tl_12"/>ein harmloses Kaffeestündchen. Der Claude [Bourdet] zeigte 
+               <lb xml:id="p001_tr_2_tl_1"/>sich besorgt u. lieb, besuche ihn doch: er ist 
+               <lb xml:id="p001_tr_2_tl_2"/>entweder in Paris (Passy 34-23, 47 Av. d' Jena) 
+               <lb xml:id="p001_tr_2_tl_3"/>oder, wahrscheinlicher, in seinem Häuschen bei 
+               <lb xml:id="p001_tr_2_tl_4"/>Nizza (?), doch davon muss ich die Adresse erst 
+               <lb xml:id="p001_tr_2_tl_5"/>erfahren. <hi rendition="#u">Traurig</hi> war, dass ich in eben dieser 
+               <lb xml:id="p001_tr_2_tl_7"/>Stadt [add above line: Paris ist gemeint] doch soeben erst einige besonders gelungene 
+               <lb xml:id="p001_tr_2_tl_8"/>Tage mit Margot [von Opel?] verbracht hatte – auch 
+               <lb xml:id="p001_tr_2_tl_9"/>auf der Reise nach Zürich, u. hier mit allen 
+               <lb xml:id="p001_tr_2_tl_10"/>Plänen u. all dem Lästigen was es zu tun gibt,</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415277"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>fühle ich mich eben <hi rendition="#u">so sehr</hi> allein. Ich hatte 
+               <lb xml:id="p002_tr_1_tl_2"/>mir, in Sils, gerade angewöhnt, Margot 
+               <lb xml:id="p002_tr_1_tl_3"/>neben mir zu haben. Es ist schade – – 
+               <lb xml:id="p002_tr_1_tl_4"/>Du fragst, was man zum Falle Jacob sagt? 
+               <lb xml:id="p002_tr_1_tl_5"/>Die Schweiz ist brav, für einmal – aber, die 
+               <lb xml:id="p002_tr_1_tl_6"/>Schweizer (auch Kleiber bestätigte es) kümmern sich 
+               <lb xml:id="p002_tr_1_tl_7"/>so wenig darum, dass sie leicht Jacob mit 
+               <lb xml:id="p002_tr_1_tl_8"/>Wesenman[n] verwechseln, u. meinen: Den Einen 
+               <lb xml:id="p002_tr_1_tl_9"/>habe man ja wenigstens! – 
+               <lb xml:id="p002_tr_1_tl_10"/>Man behandelt mich zu Hause sehr schonend 
+               <lb xml:id="p002_tr_1_tl_11"/>ich habe meiner Mama gesagt, dass sie doch 
+               <lb xml:id="p002_tr_1_tl_12"/>eigentlich ziemlich genau Bescheid wissen müsse, 
+               <lb xml:id="p002_tr_2_tl_1"/>über alles was sie etwa an der "Ungewöhnlichkeit" 
+               <lb xml:id="p002_tr_2_tl_2"/>meiner Heiratratsabsichten störe – u. dass es zwar 
+               <lb xml:id="p002_tr_2_tl_3"/>alle Onkels u. Tanten stören dürfe, aber doch 
+               <lb xml:id="p002_tr_2_tl_4"/>nicht sie, die mich kenne. Das war ehrlich, u. 
+               <lb xml:id="p002_tr_2_tl_5"/>hat sie etwas als für mich gewon[n]en. Es ist 
+               <lb xml:id="p002_tr_2_tl_6"/>nämlich so weit, dass sie sich zermartert, 
+               <lb xml:id="p002_tr_2_tl_7"/><hi rendition="#u">weshalb</hi> ich eigentlich heirate – u. ich möchte 
+               <lb xml:id="p002_tr_2_tl_8"/>es vermeiden, dass sie dafür nur die aller 
+               <lb xml:id="p002_tr_2_tl_9" break="no"/>negativsten Auslegungen findet. Plumpe Lügen 
+               <lb xml:id="p002_tr_2_tl_10"/>kan[n] ich ihr nicht anbieten, es würde ihre 
+               <lb xml:id="p002_tr_2_tl_11"/>Sorge vermehren u. sie doch keinesfalls</p>
+
+            <pb xml:id="p003" facs="https://www.monacensia-digital.de/i3f/v20/415276"/>
+            <milestone unit="textregion" xml:id="p003_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_1"/>täuschen – Dass ich aber einfach einen Menschen 
+               <lb xml:id="p003_tr_1_tl_2"/>haben will, u. in diesem Zwecke einen wähle, 
+               <lb xml:id="p003_tr_1_tl_3"/>mit dem ich auskommen kann – das ist 
+               <lb xml:id="p003_tr_1_tl_4"/>einfach u. glaubwürdig, – u. dass dafür Claude 
+               <lb xml:id="p003_tr_1_tl_5"/>geeigneter ist, als ein enorm fremdartiges, 
+               <lb xml:id="p003_tr_1_tl_6"/>weil ernorm männliches Wesen, das weiss 
+               <lb xml:id="p003_tr_1_tl_7"/>Mama nun auch, – wen[n] Sie es auch um ein 
+               <lb xml:id="p003_tr_1_tl_8"/>Haar dahin bringen wollte, ihn als "Schwächling" 
+               <lb xml:id="p003_tr_1_tl_9"/>herabzusehen, den ich aus purer Bequemlichkeit 
+               <lb xml:id="p003_tr_1_tl_10"/>heirate. (Mit dieser Auslegung began[n] nämlich 
+               <lb xml:id="p003_tr_1_tl_11"/>das Gespräch, zu meiner Überraschung will 
+               <lb xml:id="p003_tr_1_tl_12"/>Mama <hi rendition="#u">nichts</hi> mit dieser Ehe zu tun haben – 
+               <lb xml:id="p003_tr_2_tl_1"/>eine Radikalheit, die mir, ich gestehe es, 
+               <lb xml:id="p003_tr_2_tl_2"/>imponiert) – 
+               <lb xml:id="p003_tr_2_tl_3"/>Die Lage ist also geklärt, der fahre allein, 
+               <lb xml:id="p003_tr_2_tl_4"/>Mama erhofft sich von dem Ganzen nichts 
+               <lb xml:id="p003_tr_2_tl_5"/>weil sie es einerseits "durchschaut", andererseits 
+               <lb xml:id="p003_tr_2_tl_6"/>aber der Tradition entsprechend, denkbar 
+               <lb xml:id="p003_tr_2_tl_7"/>negativ auslegt u. deshalb ablehnt – bald 
+               <lb xml:id="p003_tr_2_tl_8"/>werde <hi rendition="#u">ich</hi> mir ganz einfach <hi rendition="#u">sehr viel</hi> 
+               <lb xml:id="p003_tr_2_tl_9"/>vom Stand der Ehe erwarten! Es schwebt 
+               <lb xml:id="p003_tr_2_tl_10"/>auch, dass ich gar nicht fahren soll, vorläufig</p>
+
+            <pb xml:id="p004" facs="https://www.monacensia-digital.de/i3f/v20/415275"/>
+            <milestone unit="textregion" xml:id="p004_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_l_10"/>denn ein greulicher Husten, eine Dreiviertels- 
+               <lb xml:id="p004_l_11"/>Grippe halten mich gepackt u. geschwächt. 
+               <lb xml:id="p004_l_12"/>Aber, nun <hi rendition="#u">bestehe</hi> ich eben darauf. Es muss 
+               <lb xml:id="p004_l_7"/>jetzt einmal erprobt werden – und im frühen 
+               <lb xml:id="p004_l_18"/>Som[n]er kan[n] ich dafür mit E.- in Sils sein. 
+               <lb xml:id="p004_l_19"/>Und dan[n], fährst Du doch mit, Klaus? 
+               <lb xml:id="p004_l_20"/>Dieser Brief, mein Lieber, könnte Dich vielleicht 
+               <lb xml:id="p004_l_21"/><hi rendition="#u">sehr</hi> langweilen – ich merke eben, dass ich mir 
+               <lb xml:id="p004_l_22"/>gedankenlos die psychologische Neuigkeit der 
+               <lb xml:id="p004_l_23"/>Überlegungen meiner Frau Mutter vom Herzen 
+               <lb xml:id="p004_l_24"/>geschrieben habe. Nichts für ungut. – Dein zweites 
+               <lb xml:id="p004_l"/>Kapitel hätte ich auch zu gern noch gehört – 
+               <lb xml:id="p004_l_25"/>zurückdenkend, zerfezt sich mir das Leben der 
+               <lb xml:id="p004_l_27"/>lezten Jahr in lauter kleine Episoden, die 
+               <lb xml:id="p004_l_2"/>dem <hi rendition="#u">Ganzen</hi> mit unheimlicher Deutlichkeit 
+               <lb xml:id="p004_l_28"/>das Provisorische einprägen – nichts dauert, 
+               <lb xml:id="p004_l_29"/>nichts rundet sich, nichts ist zu halten – 
+               <lb xml:id="p004_l_30"/>u. genau so wird, zum allerletzten Mal 
+               <lb xml:id="p004_l_31"/>zurückdenkend, das Sterben sich präsentieren. 
+               <lb xml:id="p004_l_4"/>– Ich glaube, was wir sind: wir kön[n]ten einfach 
+               <lb xml:id="p004_l_32"/>nicht mehr sesshaft sein u. die Illusion des 
+               <lb xml:id="p004_l_6"/>Dauernden, zu einem Ziel Führenden, aufrecht er 
+               <lb xml:id="p004_l_8" break="no"/>halten?</p>
+
+            <milestone unit="textregion" xml:id="p004_r_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_l_3"/>Grüsse alle Lieben. Sag Friedrich dass ich ihn mehr liebe als er 
+               <lb xml:id="p004_l_1"/>mich, u. dass mich dies freut. zu später Stunde, im Treuen: 
+               <lb xml:id="p004_l_5"/>Miro</p>
+</div>
+       </body>
+    </text>
+ </TEI>
