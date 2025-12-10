@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0254" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0254#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0254</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0254_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415312"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Farmanieh, 8. Juli 1935</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_2"/>KLAUS – Dein Brief, in Sils geschrieben, war der 
+               <lb xml:id="p001_tr_1_tl_3"/>trausigsten einer: es ist etwas Unheimliches daran 
+               <lb xml:id="p001_tr_1_tl_4"/>hier solche Nachrichten zu bekommen, Schmerzen 
+               <lb xml:id="p001_tr_1_tl_5"/>von Euch, von uns – hier, wo man fast ohne 
+               <lb xml:id="p001_tr_1_tl_6"/>nen[n]enswerten Grund traurig, niedergeschlagen, 
+               <lb xml:id="p001_tr_1_tl_7"/>dem fröhlichen Lebens-Mut entfremdet ist: 
+               <lb xml:id="p001_tr_1_tl_8"/>dan[n] kommt der Grund, der allzu nen[n]enswerte, von 
+               <lb xml:id="p001_tr_1_tl_9"/>weit her –</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_10"/>Also René Crevel. Es ist, seit dem Wolfgang [Hellmert, befreundeter Schriftsteller] starb, 
+               <lb xml:id="p001_tr_1_tl_11"/>genau ein Jahr vergangen. Ja, es wird immer deutlicher, 
+               <lb xml:id="p001_tr_1_tl_12"/>dass wir zusam[m]enstehen müssen, es gibt immer weniger 
+               <lb xml:id="p001_tr_1_tl_13"/>zu vergeuden ...</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_14"/>Ich habe mich nun hier etwas eingebürgert. Ich arbeite 
+               <lb xml:id="p001_tr_1_tl_15"/>auch fleissig – jetzt, da das Mannskript an Friedrich 
+               <lb xml:id="p001_tr_1_tl_16"/>adressiert wurde, an einem Aufsatz für die "Schweizer 
+               <lb xml:id="p001_tr_1_tl_17"/>Rundschau", ein ehrenwertes Blättchen. Nachher wird 
+               <lb xml:id="p001_tr_1_tl_18"/>geschwommen, u. um 3 Uhr, wen[n] Claude schläft, fahre 
+               <lb xml:id="p001_tr_1_tl_19"/>ich ins nächste Dorf u. übe Klavier – wo ? auf dem 
+               <lb xml:id="p001_tr_1_tl_20"/>Flügel der verlassenen deutschen Legation! Gegen Abend 
+               <lb xml:id="p001_tr_1_tl_21"/>gibt es Reiten oder Spazierengehen – u. am Abend 
+               <lb xml:id="p001_tr_1_tl_22"/>dieses u. jenes, gesellschaftlich, manchmal nicht so</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415313"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_2_tl_1"/>oede wie doch meistens.</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_2"/>Ich kränkle aber hartnäckig. Heute etwa spucke ich 
+               <lb xml:id="p002_tr_2_tl_3"/>alles gleich aus, was ich zu essen versuchte. Und 
+               <lb xml:id="p002_tr_2_tl_4"/>der düstere Zauber Persiens äussert sich auf verschiedene 
+               <lb xml:id="p002_tr_2_tl_5"/>Weise, im[m]er doch eindrücklich.</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_6"/>Klaus: unsere Pläne. Wen[n] E. nach Palästina reist, 
+               <lb xml:id="p002_tr_2_tl_7"/>Du vorher nach Persien, dann ist das alles vortrefflich 
+               <lb xml:id="p002_tr_2_tl_8"/>u. ich werde die Monate schon überstehen. Auch Claude 
+               <lb xml:id="p002_tr_2_tl_9"/>freut sich, der ahnungslose –</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_1"/>Der 20. Sept. ist ein gutes Datum. Du müsstest dan[n] 
+               <lb xml:id="p002_tr_1_tl_2"/>also: Schebetowka (Grenze) – Kiew – Rostow – <hi rendition="#u">Baku</hi> fahren, 
+               <lb xml:id="p002_tr_1_tl_3"/>von dort 1 Tag Schiff bis <hi rendition="#u">Pehlevi</hi> wo ich Dich im Auto hole. 
+               <lb xml:id="p002_tr_1_tl_4"/>Du würdest Anfang Oktober eintreffen – etwa Mitte oder so. 
+               <lb xml:id="p002_tr_1_tl_5"/>Oktober würden wir dan[n] auf Reisen gehen u. Dir Persien 
+               <lb xml:id="p002_tr_1_tl_6"/>zeigen – Wieder in Teheran, müssen wir, im November, 
+               <lb xml:id="p002_tr_1_tl_7"/>den Claude in die Stadt umquartieren u. ihm ein 
+               <lb xml:id="p002_tr_1_tl_8"/>Winter-Haus einrichten. Fahren wir beide Anfang 
+               <lb xml:id="p002_tr_1_tl_9"/>Dezember im Auto über Baghdad nach Palästina – so 
+               <lb xml:id="p002_tr_1_tl_10"/>käme Claude im Flugzeug nach, um mit uns dort 
+               <lb xml:id="p002_tr_1_tl_11"/>Weihnachten zu feiern. Ende Dezember, denke ich mir, 
+               <lb xml:id="p002_tr_1_tl_12"/>würden wir alle dan[n] heimwärts reisen, (während 
+               <lb xml:id="p002_tr_1_tl_13"/>Claude das erst Ende März tun darf –)</p>
+
+            <pb xml:id="p003" facs="https://www.monacensia-digital.de/i3f/v20/415314"/>
+            <milestone unit="textregion" xml:id="p003_r_33"/>            <p> 
+               <lb xml:id="p003_tr_2_tl_1"/>Hört sich das alles artig an? Ich lasse Dir Anfang 
+               <lb xml:id="p003_tr_2_tl_2"/>September 300 Schw. frs. schicken – Du wirst sehen 
+               <lb xml:id="p003_tr_2_tl_3"/>dass die ganze Reise bis Pehlevi nicht mehr kostet – 
+               <lb xml:id="p003_tr_2_tl_4"/>fahr aber <hi rendition="#u">durch Russland</hi> I. Klasse, der Unterschied 
+               <lb xml:id="p003_tr_2_tl_5"/>ist minimal, was den Preis betrifft, aber gross in 
+               <lb xml:id="p003_tr_2_tl_6"/>Bezug auf Annehmlichkeit. – Einmal im Iranischen, 
+               <lb xml:id="p003_tr_2_tl_7"/>brauchst Du ja dan[n] kaum mehr Geld. u. bis zum 
+               <lb xml:id="p003_tr_2_tl_8"/>Heimreise-Termin habe ich wieder etwas, allenfalls. – 
+               <lb xml:id="p003_tr_1_tl_1"/>Mich tröstet u. festigt es so, dass Du im Oktober u. 
+               <lb xml:id="p003_tr_1_tl_2"/>November hier sein wirst! – u. Palästina, wo E. sicher 
+               <lb xml:id="p003_tr_1_tl_3"/>auf Erfolg zählen kann, soll <hi rendition="#u">festlich</hi> werden! –</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_4"/>Ich will Mops schreiben. Bitte, Klaus, Schreib Du mir 
+               <lb xml:id="p003_tr_1_tl_5"/>bald wieder – etwa über das Manuskript [Tod in Persien?], dem ich soviel 
+               <lb xml:id="p003_tr_1_tl_6"/>Liebe zugewandt habe –! Dass Du Sils gern hast, u. die 
+               <lb xml:id="p003_tr_1_tl_7"/>Stube Dir gefiel – freut mich auch: wir werden es uns 
+               <lb xml:id="p003_tr_1_tl_8"/>noch heimisch u. hübsch dort einrichten.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_9"/>Grüsse den Friedrich liebevollst – (ach, <hi rendition="#u">kam</hi> das Geld?!!) 
+               <lb xml:id="p003_tr_1_tl_10"/>seid beide umarmt – 
+               <lb xml:id="p003_tr_3_tl_1"/>Deine 
+               <lb xml:id="p003_tr_3_tl_2"/>Miro</p>
+</div>
+       </body>
+    </text>
+ </TEI>
