@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0259"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0259</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0259_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0259_001"
+                facs="https://www.monacensia-digital.de/i3f/v20/415270"/>
+            <milestone unit="textregion" xml:id="letter_0259_001_tr_1"/>
+            <lb xml:id="letter_0259_001_tr_1_tl_1"/>RIJKSTEGRAFFKANTOOR AMSTRDAM
+<lb xml:id="letter_0259_001_tr_1_tl_2"/>TELEGRAM
+<lb xml:id="letter_0259_001_l_1"/>15. IV. 35. <PAGE tag="strikethrough">20 –– 38</PAGE> [vermutlich falsche Uhrzeit, darum gestrichen]
+<lb xml:id="letter_0259_001_l"/>Ontvangen [= erhalten] van 15 IV. 35 20 –– 41
+<lb xml:id="letter_0259_001_tr_1_tl_27"/>95 HORGEN ZUERICH 16 15 2100 –
+<lb xml:id="letter_0259_001_tr_1_tl_28"/>KLAUSMANN QUERIDOVERLAG. KEISERSGRACHT
+<lb xml:id="letter_0259_001_tr_1_tl_29"/>133 AMSTRDAM –
+<lb xml:id="letter_0259_001_tr_1_tl_30"/>WOLLTE EUCH TELEPHONISCH ERREICHEN REISE MORGEN SEID
+<lb xml:id="letter_0259_001_tr_1_tl_31"/>ALLE ZAERTLICHST GEGRUESST
+<lb xml:id="letter_0259_001_tr_1_tl_32"/>MIRO +
+<lb xml:id="letter_0259_001_tr_1_tl_33"/><PAGE tag="strikethrough">95 133</PAGE> HBG/CD/2035 +</div>
+      </body>
+   </text>
+</TEI>
