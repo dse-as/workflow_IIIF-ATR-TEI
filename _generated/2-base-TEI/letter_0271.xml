@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0271" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0271#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0271</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0271_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415274"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Farmanieh, 12. Juni</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_2"/>Klaus Heinrich, mein sehr Lieber – da kam Dein Brief, wie 
+               <lb xml:id="p001_tr_1_tl_3"/>gewöhnlich zusam[m]en mit einem von Eri, wen[n]gleich aus 
+               <lb xml:id="p001_tr_1_tl_4"/>anderen Weltgegenden abgeschickt – u. eine sehr gelungene 
+               <lb xml:id="p001_tr_1_tl_5"/>u. anziehende Num[m]er der "Sam[m]lung". Kurz, Ihr seid 
+               <lb xml:id="p001_tr_1_tl_6"/>mir tröstlich näher gerückt, u. ich bin dadurch ganz 
+               <lb xml:id="p001_tr_1_tl_7"/>heiter gestimmt! Ja, man sollte natürlich der Sam[m]lung 
+               <lb xml:id="p001_tr_1_tl_8"/>weiterhelfen – ich bin voll guten Willens. Aber: ich habe 
+               <lb xml:id="p001_tr_1_tl_9"/>einfach diesmal zur Zeit die 600.- nicht frei. Etwas 
+               <lb xml:id="p001_tr_1_tl_10"/>verschuldet reiste ich ab, u. musste trotzdem trachten, 
+               <lb xml:id="p001_tr_1_tl_11"/>dass im Juni Sils für 6 Monate bezahlt werde, damit 
+               <lb xml:id="p001_tr_1_tl_12"/>Eri u. die Theres dort keinen Ärger erleben. Es bleiben 
+               <lb xml:id="p001_tr_1_tl_13"/>mir heute 700.- von denen morgen 200.- an Dich abgehen, 
+               <lb xml:id="p001_tr_1_tl_14"/>den[n] schliesslich müssen wir alle leben – während der 
+               <lb xml:id="p001_tr_1_tl_15"/>Rest dem im Gehalt stark gekürzten Claude [Clarac oder Bourdet? Ev. mithilfe der Bourdet-Briefe zu erfahen, aber wohl eher Clarac, da Bourdet unten mit Nachname genannt wird] beistehen sollte 
+               <lb xml:id="p001_tr_1_tl_16"/>u. doch schon für meine kleinen Ausgaben bis im 
+               <lb xml:id="p001_tr_1_tl_18"/>September reichen <del rend="overstrike">soll</del> [add above line: muss]. Du siehst, – u. im September solltest 
+               <lb xml:id="p001_tr_1_tl_19"/>Du Dich doch auf die Reise begeben! – Aber ich unternahm 
+               <lb xml:id="p001_tr_1_tl_20"/>schnell einen Pumpversuch, u. hoffe stark, Du (oder Friedrich) 
+               <lb xml:id="p001_tr_1_tl_21"/>erhälst das Geld, auf dem Weg über <hi rendition="#u">Claude Bourdet</hi>, (doch 
+               <lb xml:id="p001_tr_1_tl_22"/>nicht von ihm! –)</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_23"/>Unsere Reisepläne: unter uns – habe ich mit Claude noch 
+               <lb xml:id="p001_tr_1_tl_24"/>nicht davon gesprochen, dass ich ihn im Herbst verlasse – 
+               <lb xml:id="p001_tr_1_tl_25"/>Er hofft sehr, dass Du kom[m]st – ich denke, auf dem 
+               <lb xml:id="p001_tr_1_tl_26"/>kürzesten u. einfachsten Weg, dem russischen – September 
+               <lb xml:id="p001_tr_1_tl_27"/>wäre dafür eine gute Jahreszeit. Wir könnten dann das 
+               <lb xml:id="p001_tr_1_tl_28"/>merkwürdige, feindliche Land zusam[m]en besehen – u. ich 
+               <lb xml:id="p001_tr_1_tl_29"/>mit Dir, auf längerem Wege?, zurückkehren. Claude 
+               <lb xml:id="p001_tr_1_tl_30"/>wird es bis dahin selbst einsehen – es ist zu absurd, 
+               <lb xml:id="p001_tr_1_tl_31"/>dass ich hier den Winter als Diplomaten-Nesthäkchen 
+               <lb xml:id="p001_tr_1_tl_32"/>durchtaumeln soll – im Sommer ist es anders, besser, 
+               <lb xml:id="p001_tr_1_tl_33"/>freier u. ländlich. Wir haben Logierbesuch – den[n] auch</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415273"/>
+            <milestone unit="textregion" xml:id="p002_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_2_tl_1"/>trug dazu bei, dass ich mich besser fühlte diese letzten 
+               <lb xml:id="p002_tr_2_tl_2"/>Tage: Es sind das Ehepaar Seyrig [siehe Fotografien], aus Beyrouth – 
+               <lb xml:id="p002_tr_2_tl_3"/>Direktoren der Syrischen Antiquitäten – die ich im 
+               <lb xml:id="p002_tr_2_tl_4"/>"Reisetagebuch" [Winter in Vorderasien] schon liebevoll, dankbar u. voller 
+               <lb xml:id="p002_tr_2_tl_5"/>ehrlicher Achtung erwähnte. Seyrig hat alles gelesen 
+               <lb xml:id="p002_tr_2_tl_6"/>was ich jetzt schreibe, u. findet es gut. Er hat die 
+               <lb xml:id="p002_tr_2_tl_7"/>"Lyrische Novelle" dreimal gelesen u. beurteilt sie 
+               <lb xml:id="p002_tr_2_tl_8"/>mit Liebe, doch kluger u. eindringlicher Kritik. Dass 
+               <lb xml:id="p002_tr_2_tl_9"/>er die neuen Novellen lobt, stärkt mich. Ich 
+               <lb xml:id="p002_tr_2_tl_10"/>bin immer fleissig, u. schicke das Manuskript bald. 
+               <lb xml:id="p002_tr_2_tl_11"/>Vielleicht wird es etwa mit dem Peter J. [Peter Ilitsch Tschaikowski = KMs Buchprojekt Symphonie Pathétique] fertig – 
+               <lb xml:id="p002_tr_2_tl_12"/>Friedrich schrieb, dass er nicht allein u. 100% zu 
+               <lb xml:id="p002_tr_2_tl_13"/>entscheiden hat – meinst Du, meint Ihr, ich 
+               <lb xml:id="p002_tr_2_tl_14"/>sollte doch vorher Eugen Rentsch in Küsnacht 
+               <lb xml:id="p002_tr_2_tl_15"/>versuchen, oder gar Landauer u. De Lange?</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_16"/>Schreib über all dies, u. bald, u. über Persönliches 
+               <lb xml:id="p002_tr_2_tl_17"/>u. wie es mit Friedrich u. seiner Familie steht! –</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [vertical space]</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_18"/>Der Brief ist in Eile geschrieben, zu flüchtig, um 
+               <lb xml:id="p002_tr_2_tl_19"/>Dir viel Zärtliches zu bringen – doch bin ich Dir 
+               <lb xml:id="p002_tr_2_tl_20"/>von Herzen stets u. mehr treu u. zugetan,</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_2_tl_21"/>Miro 
+               <lb xml:id="p002_tr_2_tl_22"/>P.S. Ich schicke Brief u. Geldscheine nach Sils – hoffentlich 
+               <lb xml:id="p002_tr_2_tl_23"/>findet Ihr es dort wohnlich, obwohl es recht 
+               <lb xml:id="p002_tr_2_tl_24"/>unordentlich aussehen musste – Haltet Euch sehr 
+               <lb xml:id="p002_tr_2_tl_25"/>an Frau Godli, sie ist redlich – u. denkt Euch aus u. 
+               <lb xml:id="p002_tr_2_tl_26"/>berichtet es mir, wie man die kleine Häuslichkeit 
+               <lb xml:id="p002_l"/>herrichten krönnte! – Grüsse für E. u. die Theres –</p>
+</div>
+       </body>
+    </text>
+ </TEI>
