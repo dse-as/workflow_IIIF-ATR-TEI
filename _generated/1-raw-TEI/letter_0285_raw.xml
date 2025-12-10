@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0285"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0285</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0285_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0285_001"
+                facs="https://www.monacensia-digital.de/i3f/v20/415344"/>
+            <milestone unit="textregion" xml:id="letter_0285_001_r_474"/>
+            <lb xml:id="letter_0285_001_l_1"/>LÉGATION DE FRANCE
+<lb xml:id="letter_0285_001_l_4"/>TÉHÉRAN, LE
+<lb xml:id="letter_0285_001_l_5"/>Mein sehr Lieber,<CONV tag="p">
+<lb xml:id="letter_0285_001_l_6"/>es gibt auch dies: dass ein Posten im fernen Asien
+<lb xml:id="letter_0285_001_l_7"/>"kontrolliert" wird, u. nicht von einem gewöhnlichen
+<lb xml:id="letter_0285_001_l_9"/>Rechenmeister und Zöllner, sondern ganz einfach von
+<lb xml:id="letter_0285_001_l_10"/>Monsieur Giraudoux [der franz. Schriftsteller u. Diplomat Jean Giraudoux ], was doch mehr ist als ich
+<lb xml:id="letter_0285_001_l_11"/>mir träumen liess. Leider hat er es eilig –
+<lb xml:id="letter_0285_001_l_12"/>zurückzukehren nämlich, u. er liess sich
+<lb xml:id="letter_0285_001_l_13"/>zu nichts bitten als zu einigen persischen
+<lb xml:id="letter_0285_001_l_14"/>Picknicks bei Mondschein, nach gut alter
+<lb xml:id="letter_0285_001_l_15"/>schier 1000 jähiger Tradition. Dass wir einmal
+<lb xml:id="letter_0285_001_l_16"/>in der Rue Jacob Erdbeeren mit Rahm
+<lb xml:id="letter_0285_001_l_17"/>assen – wir weit liegt es zurück! Wie weit
+<lb xml:id="letter_0285_001_l_18"/>ist alles weg, Klaus Heinrich –</CONV><CONV tag="p">
+<lb xml:id="letter_0285_001_l_19"/>[horizontal space] adieu.</CONV> <CONV tag="p">
+<lb xml:id="letter_0285_001_l_20"/>Ich küsse Euch, ich möchte dass Ihr Euch in
+<lb xml:id="letter_0285_001_l_21"/>Sils so wohl fühlen könnt wie anderweitige
+<lb xml:id="letter_0285_001_l_23"/>Sorgen es uns gön[n]en. Und dass wir im
+<lb xml:id="letter_0285_001_l_2"/>Winter dort zusam[m]en sind. Die Eure:</CONV>
+<lb xml:id="letter_0285_001_tr_2_tl_1"/>Miro
+<lb xml:id="letter_0285_001_tr_2_tl_2"/><PAGE tag="underlined">Claude</PAGE><milestone unit="textregion" xml:id="letter_0285_001_r_1"/>
+            <lb xml:id="letter_0285_001_l"/>[Foreign hand: Jean Giraudoux] De Téhéran aussi, où j'ai la chance d'être en ce moment, je
+<lb xml:id="letter_0285_001_l_3"/>vous envoie mille souvenirs ainsi qu'à votre soeur. Rappelez moi
+<lb xml:id="letter_0285_001_l_8"/>à la pensée de vos parents, auxquels j'ai pensé beaucoup dans [sic] l'occasion
+<lb xml:id="letter_0285_001_l_22"/>que votre  père nous à donnée voilà quelques semaines! Très amicalement
+<lb xml:id="letter_0285_001_l_24"/>JeanGiradoux</div>
+      </body>
+   </text>
+</TEI>
