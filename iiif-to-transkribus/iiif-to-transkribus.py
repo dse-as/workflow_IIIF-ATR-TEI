@@ -86,7 +86,7 @@ def download_pages(pages, wait=1):
         try:
             filename = page[1]
             base_url = pages[filename]
-            base_url = base_url.rstrip('/info.json')  # Clean up the URL
+            base_url = base_url.removesuffix('/info.json')  # Clean up the URL
             full_url = f"{base_url}/full/max/0/default.jpg"
             r = requests.get(full_url, stream=True)
             page_dict[filename + ".jpg"] = r.content
