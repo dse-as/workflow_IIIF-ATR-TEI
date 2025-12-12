@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0355" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0355#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0355</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0355_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.e-manuscripta.ch/i3f/v20/5219129"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_2_tl_3"/>SUVRETTA HOUSE 
+               <lb xml:id="p001_tr_2_tl_4"/>S<hi rendition="#sup">T</hi>. MORITZ 
+               <lb xml:id="p001_tr_2_tl_2"/>Sils‐Baselgia, 31. August</p>
+            <p> 
+               <lb xml:id="p001_tr_2_tl_5"/>Lieber Herr Kübler, – dies ist, zuerst, um Jhnen zu 
+               <lb xml:id="p001_tr_2_tl_6"/>danken dass Sie die Uebersendung einer grösseren 
+               <lb xml:id="p001_tr_2_tl_7"/>Summe, volle Schw. frs. 800.‐, veranlasst haben, und 
+               <lb xml:id="p001_tr_2_tl_8"/>um den Empfang zu bestätigen.</p>
+            <p> 
+               <lb xml:id="p001_tr_2_tl_9"/>Die Amerika‐Reise nimmt also feste Formen an. Die 
+               <lb xml:id="p001_tr_2_tl_10"/>spanischen Pläne musste ich vorläufig aufgeben – 
+               <lb xml:id="p001_tr_2_tl_11"/>aus sehr stichhaltigen Gründen. Eine amerikanische 
+               <lb xml:id="p001_tr_2_tl_12"/>Journalistin in London, deren Urteil Barbara Wright 
+               <lb xml:id="p001_tr_2_tl_13"/>und ich für massgebend halten, schrieb uns: wir 
+               <lb xml:id="p001_tr_2_tl_14"/>sollten unsere Nasen nicht hineinstecken (nach 
+               <lb xml:id="p001_tr_2_tl_15"/>Spanien nämlich) – weil wir in der kurzen Zeit, die 
+               <lb xml:id="p001_tr_1_tl_1"/>uns jetzt zur Verfügung steht, uns nicht genügend 
+               <lb xml:id="p001_tr_1_tl_2"/>vorbereiten könnten. Die Aufgabe, in Spanien etwas 
+               <lb xml:id="p001_tr_1_tl_3"/>Sinnvolles und Nützliches zu tun, etwas Neues zu 
+               <lb xml:id="p001_tr_1_tl_4"/>erfahren, und es so zu berichten, dass die abgestump[f handschriftlich ergänzt] 
+               <lb xml:id="p001_tr_1_tl_5" break="no"/>ten Gemüter der Zeitungsleser davon berührt und 
+               <lb xml:id="p001_tr_1_tl_6"/>geschüttelt würden, – das sei so schwer, dass auch 
+               <lb xml:id="p001_tr_1_tl_7"/>ein erfahrener Berichterstatter, als wir es seien, 
+               <lb xml:id="p001_tr_1_tl_8"/>es nicht zuwege bringe. Ganz abgesehen davon, dass 
+               <lb xml:id="p001_tr_1_tl_9"/>die geistige Jntegrität, die saubere Absicht und 
+               <lb xml:id="p001_tr_1_tl_10"/>Ueberzeugung, die wir zu bieten hätten, noch lange 
+               <lb xml:id="p001_tr_1_tl_11"/>nicht genüge, – die praktischen Eigenschaften, die 
+               <lb xml:id="p001_tr_1_tl_12"/>dort nötig seien, um sich durchzusetzen und über 
+               <lb xml:id="p001_tr_1_tl_13" break="no"/>haupt bis zur Kampfzone einerseits, bis zu den rich 
+               <lb xml:id="p001_tr_1_tl_14" break="no"/>tigen Persönlichkeiten und Problemen andererseits, 
+               <lb xml:id="p001_tr_1_tl_15"/>durchzudringen, fehlten uns ohneh in[seltsame Lücke]. Und Mädchen 
+               <lb xml:id="p001_tr_1_tl_16"/>besonders würden folglich kaum etwas Nützliches 
+               <lb xml:id="p001_tr_1_tl_17"/>leisten, – dafür aber mit ziemlicher Wahrscheinlich 
+               <lb xml:id="p001_tr_1_tl_18" break="no"/>keit den Leuten, für die wir arbeiten wollten, zur 
+               <lb xml:id="p001_tr_1_tl_19"/>Last fallen: schon allein das Auto, das wir benötigen 
+               <lb xml:id="p001_tr_1_tl_20"/>würden, das Essen, das wir verzehren, und der Dol¬               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <pb xml:id="p002" facs="https://www.e-manuscripta.ch/i3f/v20/5219130"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_2_tl_1" break="no"/> </p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+            <p> 
+               <lb xml:id="p002_tr_2_tl_1" break="no"/>metscher und die militärische Begleitung, die wir in 
+               <lb xml:id="p002_tr_2_tl_2"/>Anspruch nehmen müssten – all dies würde von den Re 
+               <lb xml:id="p002_tr_2_tl_3" break="no"/>gierungstruppen nicht leicht entbehrt – – – etc etc 
+               <lb xml:id="p002_tr_2_tl_4"/>Kurz: 
+               <lb xml:id="p002_tr_2_tl_5"/>ich werde bei der amerikanischen Unternehmung bleiben, 
+               <lb xml:id="p002_tr_2_tl_6"/>wie sie geplant und vorbereitet ist. Und sie soll 
+               <lb xml:id="p002_tr_2_tl_7"/>gut werden.</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_8"/>Jnzwischen habe ich schon eine Geschichte aus dem 
+               <lb xml:id="p002_tr_2_tl_9"/>alten Engadin im Kopf – für Jhre Schweizer Serien – 
+               <lb xml:id="p002_tr_2_tl_10"/>die ich Jhnen, so hoffe ich, in zehn Tagen in Zürich 
+               <lb xml:id="p002_tr_2_tl_11"/>erzählen werde. Während die "Landesverteidigung" 
+               <lb xml:id="p002_tr_2_tl_12"/>mir vorläufig noch nicht recht klar ist –</p>
+            <p> 
+               <lb xml:id="p002_tr_3_tl_1"/>Sie aber haben jetzt Ferien – und interessieren sich 
+               <lb xml:id="p002_tr_3_tl_2"/>wahrscheinlich für die ZJ und ihre Mitarbeiter im 
+               <lb xml:id="p002_tr_3_tl_3"/>Augenblick sehr wenig ... Schreiben Sie mir nur, ob 
+               <lb xml:id="p002_tr_3_tl_4"/>ich Sie, wie ich es stark hoffe, zwischen 10[p überschrieben]. und 15. 
+               <lb xml:id="p002_tr_3_tl_5"/>September in Zürich werde sehen und sprechen können? 
+               <lb xml:id="p002_tr_3_tl_6"/>– Und ob bis dahin etwas von den baltisch-skandina 
+               <lb xml:id="p002_tr_3_tl_7" break="no"/>vischen Bildern erscheint? Und ob Sie schon eine 
+               <lb xml:id="p002_tr_3_tl_8"/>Hilfsredaktorin haben? – Grüssen Sie Jhre Frau und 
+               <lb xml:id="p002_tr_3_tl_9"/>die Kinder vielmals – und ich wünsche Jhnen, dass Sie 
+               <lb xml:id="p002_tr_3_tl_10"/>ein bischen weniger frieren als wir in Sils!</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>Ihre [handschriftlich ergänzt] 
+               <lb xml:id="p002_tr_1_tl_2"/>An[n]emarie Clark– 
+               <lb xml:id="p002_tr_1_tl_3"/>Schwarzenbach 
+               <lb xml:id="p002_l"/>PS Gerade kom[m]t Ihr netter Brief – vielen 
+               <lb xml:id="p002_tr_1_tl_6"/>herzlichen Dank! Ich werde also den <hi rendition="#u">15.</hi> 
+               <lb xml:id="p002_tr_1_tl_7"/>Sept. noch abwarten, – u. sehr gern mit 
+               <lb xml:id="p002_tr_1_tl_8"/>Ihnen ins "Cornichon" gehen! 
+               <lb xml:id="p002_tr_1_tl_9"/>Ihre 
+               <lb xml:id="p002_tr_1_tl_10"/>A. C.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
