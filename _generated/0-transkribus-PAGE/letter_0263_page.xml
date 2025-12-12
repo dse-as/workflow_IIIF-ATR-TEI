@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<validation-wrapper>
+   <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+      <Metadata>
+         <Creator>prov=READ-COOP:name=TrHtr:version=2.30.0:model_id=265149:date=14_08_2025_11:43</Creator>
+         <Created>2025-08-14T11:37:38.191+02:00</Created>
+         <LastChange>2025-08-19T08:36:50.587+02:00</LastChange>
+         <TranskribusMetadata docId="10083389"
+                              pageId="101647705"
+                              pageNr="1"
+                              status="IN_PROGRESS"
+                              userId="194245"
+                              imgUrl="https://files.transkribus.eu/Get?id=MBUXXFGMGTMVOAWJIPLDCINC&amp;fileType=view"
+                              imageId="85255047"/>
+      </Metadata>
+      <Page imageFilename="letter_0263_001.jpg"
+            imageWidth="5367"
+            imageHeight="3712">
+         <TextRegion id="r_2" custom="readingOrder {index:0;}">
+            <Coords points="399,539 399,179 5186,179 5186,539"/>
+            <TextLine id="l_20" custom="readingOrder {index:0;}">
+               <Coords points="1654,506 3941,527 3888,353 3167,327 2787,406 2592,337 1928,411 1654,348"/>
+               <Baseline points="1682,496 1795,489 1908,494 2022,489 2135,489 2249,489 2362,495 2475,495 2589,490 2702,489 2816,489 2929,489 3042,489 3156,489 3269,489 3383,489 3496,489 3609,483 3723,483 3836,483 3950,477"/>
+               <TextEquiv>
+                  <Unicode>lc = klausmann esplanade praha</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_1" custom="readingOrder {index:1;}">
+            <Coords points="5186,1749 5186,3544 399,3544 399,1749"/>
+            <TextLine id="l_14" custom="readingOrder {index:0;}">
+               <Coords points="1760,1870 3746,1849 4036,1949 4916,1886 4916,1712 1760,1718"/>
+               <Baseline points="1790,1850 1946,1852 2103,1850 2259,1850 2416,1850 2573,1854 2729,1850 2886,1850 3043,1850 3199,1844 3356,1844 3513,1843 3669,1838 3826,1838 3983,1835 4139,1838 4296,1838 4453,1833 4609,1832 4766,1825 4923,1820"/>
+               <TextEquiv>
+                  <Unicode>177 teheran 69 19 21 2050 via transradio =</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_16" custom="readingOrder {index:1;}">
+               <Coords points="732,2187 4352,2213 4968,2144 4968,1992 4115,2002 3667,1870 2798,1918 2634,2039 732,2060"/>
+               <Baseline points="763,2112 973,2132 1184,2136 1395,2136 1605,2130 1816,2130 2027,2129 2237,2127 2448,2130 2659,2135 2870,2130 3080,2125 3291,2124 3502,2118 3712,2118 3923,2118 4134,2118 4344,2112 4555,2112 4766,2112 4977,2118"/>
+               <TextEquiv>
+                  <Unicode>= kann erst 20 oktober beyrouth oder konstantinopel sein</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_17" custom="readingOrder {index:2;}">
+               <Coords points="595,2445 4199,2492 5060,2444 4684,2271 595,2292"/>
+               <Baseline points="626,2434 829,2440 1033,2446 1236,2434 1440,2428 1643,2423 1847,2421 2050,2419 2254,2418 2457,2416 2661,2416 2864,2416 3068,2411 3271,2411 3475,2405 3678,2405 3882,2399 4085,2405 4289,2399 4492,2399 4834,2387"/>
+               <TextEquiv>
+                  <Unicode>treffpunkt marseille auch hubsch [sic] brief folgt tendresse +</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+      </Page>
+   </PcGts>
+</validation-wrapper>
