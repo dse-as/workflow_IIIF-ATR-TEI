@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0361"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0361</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0361_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0361_001"
+                facs="https://www.e-manuscripta.ch/i3f/v20/5219182"/>
+            <milestone unit="textregion" xml:id="letter_0361_001_tr_1"/>
+            <lb xml:id="letter_0361_001_tr_1_tl_1"/>Washington, 6. Februar<CONV tag="p">
+<lb xml:id="letter_0361_001_tr_1_tl_2"/><CONV tag="g">Ein Nachtrag</CONV>, lieber Herr Kuebler, zu meinem letzten Antwort‐Brief.</CONV> <CONV tag="p">
+<lb xml:id="letter_0361_001_tr_1_tl_3"/>Es ist ein rein praktis[Lücke]ches D[hochgestellt und schlecht lesbar]etail, das mit der prinzipiellen Seite unseres
+<lb xml:id="letter_0361_001_tr_1_tl_4"/>neuesten Problems wenig zu tun hat:
+<lb xml:id="letter_0361_001_tr_1_tl_5"/>1.Jch schrieb doch fuer "ABC" schon letztes Jahr, vor meiner zweiten Amerika¬
+<lb xml:id="letter_0361_001_tr_1_tl_6"/>reise.
+<lb xml:id="letter_0361_001_tr_1_tl_7"/>2. Jch habe nachkontrolliert, <CONV tag="g">was</CONV> ich diesmal an "ABC" geschickt habe. Es waren
+<lb xml:id="letter_0361_001_tr_1_tl_8"/>vier Artikel:
+<lb xml:id="letter_0361_001_tr_1_tl_9"/>1. "Hans Meister wird ein Fall" – eine reine Emigranten‐Geschichte
+<lb xml:id="letter_0361_001_tr_1_tl_10"/>2. "Ein Artikel macht Sensation"
+<lb xml:id="letter_0361_001_tr_1_tl_11"/>3. "Warum der Herzog von Windsor nicht nach Amerika reiste"
+<lb xml:id="letter_0361_001_tr_1_tl_12"/>(ueber das sogenannte Bedaux‐System in den Fabriken
+<lb xml:id="letter_0361_001_tr_1_tl_13"/>der Suedstaaten)
+<lb xml:id="letter_0361_001_tr_1_tl_14"/>4. Lumberton, ein Fabrikdorf in North Carolina.</CONV> [space]<CONV tag="p">
+<lb xml:id="letter_0361_001_tr_1_tl_15"/>Die drei Themen, die ich im Zusammenhang mit den Suedstaaten behandelte, waren
+<lb xml:id="letter_0361_001_tr_1_tl_16"/>durchwegs von einer Sorte, die fuer andere Zeitungen nicht in Frage kam, und vor
+<lb xml:id="letter_0361_001_tr_1_tl_17"/>allem nicht als Bildbericht.</CONV><CONV tag="p">
+<lb xml:id="letter_0361_001_tr_1_tl_18"/>Sogar "Lumberton, ein Fabrikdorf", – zu dem ich vorzuegliche Photos habe, schrieb
+<lb xml:id="letter_0361_001_tr_1_tl_19"/>ich fuer "ABC", weil ich wusste, dieses Thema wuerde fuer die ZJ nicht infrage
+<lb xml:id="letter_0361_001_tr_1_tl_20"/>kommen, weil es ein reines "Labour"‐Thema ist. Jch sagte mir also, dass ich – wenn
+<lb xml:id="letter_0361_001_tr_1_tl_21"/>ich "ABC" nur solche Artikel schicken wuerde, die den spaeter publikationsreifen
+<lb xml:id="letter_0361_001_tr_1_tl_22"/>Bildberichten fuer die JZ keinen Abbruch tun, – dass in diesem Fall keine Konkurrenz
+<lb xml:id="letter_0361_001_tr_1_tl_23"/>entstehen koenne, – d.h. dass die ZJ dann nicht den Eindruck haben koenne, sie werde
+<lb xml:id="letter_0361_001_tr_1_tl_24"/>von mir als "Ergaenzung" fuer "ABC" oder irgendeine Zeitung, fuer die ich schreibe,
+<lb xml:id="letter_0361_001_tr_1_tl_25"/>benutzt.</CONV><CONV tag="p">
+<lb xml:id="letter_0361_001_tr_1_tl_26"/>Natuerlich bleibt der Aspekt, dass ich durch gewisse Artikel – so objektiv die
+<lb xml:id="letter_0361_001_tr_1_tl_27"/>Stellungnahme meinerseits auch sein moege – und durch Publikationen in gewissen
+<lb xml:id="letter_0361_001_tr_1_tl_28"/>Zeitungen, – einen "Stempel" erhalte, der vielleicht fuer andere, liberale, oder
+<lb xml:id="letter_0361_001_tr_1_tl_29"/>"neutrale" Zeitungen, unerwuenscht ist.</CONV> [space]<CONV tag="p">
+<lb xml:id="letter_0361_001_tr_1_tl_30"/>Also, wir sprechen darueber. Denn etwa am 20. treffe ich in Zuerich ein, und sehe Sie,
+<lb xml:id="letter_0361_001_tr_1_tl_31"/>bevor ich zu kurzer (wirklich notwendiger) Erholung nach Sils fahre. Und dann wollen
+<lb xml:id="letter_0361_001_tr_1_tl_32"/>wir uns eine Zusammenarbeit und ein Programm für den Sommer ausdenken.</CONV>
+<lb xml:id="letter_0361_001_tr_1_tl_33"/>Viele Gruesse an Jhre Frau,an die sc[h eingefügt]oenen Soehne, und
+<lb xml:id="letter_0361_001_tr_1_tl_34"/>an die so reizende Ursula!
+<lb xml:id="letter_0361_001_tr_1_tl_35"/>Stets Jhre
+<lb xml:id="letter_0361_001_tr_1_tl_36"/>An[n]emarie Clarac‐Schwarzenbach<pb xml:id="letter_0361_002"
+                facs="https://www.e-manuscripta.ch/i3f/v20/5219183"/>
+         </div>
+      </body>
+   </text>
+</TEI>
