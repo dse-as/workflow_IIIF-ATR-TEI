@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0377"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0377</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0377_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0377_001"
+                facs="https://www.e-manuscripta.ch/i3f/v20/5219343"/>
+            <milestone unit="textregion" xml:id="letter_0377_001_tr_1"/>
+            <lb xml:id="letter_0377_001_tr_1_tl_1"/>Sils‐Baselgia, 11. Juni
+<lb xml:id="letter_0377_001_tr_1_tl_2"/>Lieber Herr Kübler,<CONV tag="p">
+<lb xml:id="letter_0377_001_tr_1_tl_3"/>Sie können sich denken, dass ich mich enorm gefreut habe über die amerika¬
+<lb xml:id="letter_0377_001_tr_1_tl_4"/>nische Publikation: so grosszügig und geschlossen, so gut verteilt der Text
+<lb xml:id="letter_0377_001_tr_1_tl_5"/>ausreichend die Bilder in die Augen springend, – und dies alles, obwohl, wie
+<lb xml:id="letter_0377_001_tr_1_tl_6"/>ich weiss, Sie mit der Arbeit in dieser Form nicht restlos einverstanden
+<lb xml:id="letter_0377_001_tr_1_tl_7"/>waren. Vielen Dank...</CONV><CONV tag="p">
+<lb xml:id="letter_0377_001_tr_1_tl_8"/>Und nun Jhr Brief. Jch war sehr bestürzt darüber. Jch wollte ja von Malans
+<lb xml:id="letter_0377_001_tr_1_tl_9"/>aus unbedingt nach Zürich, teils wegen des Vortrags, teils um Sie zu sprechen,
+<lb xml:id="letter_0377_001_tr_1_tl_10"/>aber der Arzt hat es mir radikal verboten, und als ich versuchte, auf meinen
+<lb xml:id="letter_0377_001_tr_1_tl_11"/>Beinen zu stehen, einen Brief zu schreiben, eine Konversation zu führen, musste
+<lb xml:id="letter_0377_001_tr_1_tl_12"/>ich zugeben, dass alles noch sehr mühsam sei. Also wurde ich gleich hier herauf
+<lb xml:id="letter_0377_001_tr_1_tl_13"/>verfrachtet, und soll nun frische Luft atmen, sonst nichts. Aber das bekommt mir
+<lb xml:id="letter_0377_001_tr_1_tl_14"/>nicht (wohl die frische Luft – nicht aber das Untätig sein) und deshalb hat mich
+<lb xml:id="letter_0377_001_tr_1_tl_15"/>Jhr sanfter Vorwurf sehr getroffen. Trotzdem – es bleibt ja nichts anderes übrig,
+<lb xml:id="letter_0377_001_tr_1_tl_16"/>als dass ich mich diese nächsten Wochen bescheide, die Saladin‐Biographie muss
+<lb xml:id="letter_0377_001_tr_1_tl_17"/>auch geschrieben werden, – ich fürchte nur, dass ich dann im September wieder
+<lb xml:id="letter_0377_001_tr_1_tl_18"/>ausbrechen werde, in die fernen Erdteile, und das ist es nicht, was Sie wollen.
+<lb xml:id="letter_0377_001_tr_1_tl_19"/>Was Sie schreiben – an Vorschlägen, – beweist ja dass es in der Schweiz Mancherlei
+<lb xml:id="letter_0377_001_tr_1_tl_20"/>zu tun gäbe. Ich frage mich nur, ob es genügen würde, um mein Hierbleiben zu
+<lb xml:id="letter_0377_001_tr_1_tl_21"/>rechtfertigen.</CONV><CONV tag="p">
+<lb xml:id="letter_0377_001_tr_1_tl_22"/>Anders steht es mit Jhrer anderen Andeutung: dass ich allzu verhaftet und befan¬
+<lb xml:id="letter_0377_001_tr_1_tl_23"/>gen sei in der politisch‐sozialen Sphäre und Betrachtungsweise. Nehmen wir
+<lb xml:id="letter_0377_001_tr_1_tl_24"/>Mexiko als Beispiel: da hat Helene Fischer sehr schöne Sachen photographiert, so
+<lb xml:id="letter_0377_001_tr_1_tl_25"/>unbelasteten Gemüts wie ich das niemals könnte. Jnzwischen vollzieht sich dort
+<lb xml:id="letter_0377_001_tr_1_tl_26"/>symbolisiert durch die internationalen Oelkonzessionen – der grosse Kampf um
+<lb xml:id="letter_0377_001_tr_1_tl_27"/>die Erneuerung der Staats‐ und Gesellschaftsform. Jeder Jndianer und Gaucho den
+<lb xml:id="letter_0377_001_tr_1_tl_28"/>Frl. Fischer dort photographiert hat, ist von der Revolution mitbetroffen, – und
+<lb xml:id="letter_0377_001_tr_1_tl_29"/>lebt ganz und gar nicht nur in der romantischen Sphäre der Religionsfeste, und
+<lb xml:id="letter_0377_001_tr_1_tl_30"/>die Libellen‐Segel der Fischerboote sind auch nicht bloss schön und anmutig,
+<lb xml:id="letter_0377_001_tr_1_tl_31"/>sondern ein Teil des täglichen Daseinskampfes. Würden Sie nun von einem Reporter
+<lb xml:id="letter_0377_001_tr_1_tl_32"/>der dorthin reist, erwarten, dass er die politisch‐soziale Betrachtungsweise
+<lb xml:id="letter_0377_001_tr_1_tl_33"/>negiert und ausser Acht lässt? Kann man zwischen dem Menschlich‐Privaten und den
+<lb xml:id="letter_0377_001_tr_1_tl_34"/>"offizielleren" Geschehnissen eine Grenze ziehen? Jch kann es nicht, – und deshalb
+<lb xml:id="letter_0377_001_tr_1_tl_35"/>verstehe ich – um ganz ehrlich zu sein – nicht genau, was Sie meinen. Genau das
+<lb xml:id="letter_0377_001_tr_1_tl_36"/>Gleiche gilt natürlich für die Schweiz, und für jeden Ecken des brennenden Erd¬
+<lb xml:id="letter_0377_001_tr_1_tl_37"/>balls.</CONV><CONV tag="p">
+<lb xml:id="letter_0377_001_tr_1_tl_38"/>Kommen wir zu einem praktischen Ende: wenn ich im Verlauf des Sommers irgend¬
+<lb xml:id="letter_0377_001_tr_1_tl_39"/>welche Aufträge für Sie machen kann, so bin ich dazu freudig bereit. Ab Ende
+<lb xml:id="letter_0377_001_tr_1_tl_40"/>dieses Monats – denn bis dahin habe ich mit dem Saladin zu tun. Es wäre mir sogar
+<lb xml:id="letter_0377_001_tr_1_tl_41"/>besonders lieb, wenn ich <CONV tag="g">vor</CONV> einer neuen grösseren Unternehmung etwas mit
+<lb xml:id="letter_0377_001_tr_1_tl_42"/>Jhnen arbeiten und besprechen könnte, – um besser zu wissen, was und wie Sie es
+<lb xml:id="letter_0377_001_tr_1_tl_43"/>haben wollen. –</CONV><CONV tag="p">
+<lb xml:id="letter_0377_001_tr_1_tl_44"/>Wann fahren Sie ins Wallis? Für wie lange? – Grüssen Sie bitte Jhre Frau –</CONV>
+<lb xml:id="letter_0377_001_tr_1_tl_45"/>Stets Ihre [Unterschrift handschriftlich hinzugefügt]
+<lb xml:id="letter_0377_001_tr_1_tl_46"/>Annemarie Clark<pb xml:id="letter_0377_002"
+                facs="https://www.e-manuscripta.ch/i3f/v20/5219344"/>
+         </div>
+      </body>
+   </text>
+</TEI>
