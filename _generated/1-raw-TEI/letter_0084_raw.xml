@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0084"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0084</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0084_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0084_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0084_003.tif"/>
+            <milestone unit="textregion" xml:id="letter_0084_001_tr_1"/>
+            <lb xml:id="letter_0084_001_tr_1_tl_1"/>ANNEMARIE CLARAC
+<lb xml:id="letter_0084_001_tr_1_tl_3"/>118 EAST 40<PAGE tag="subscript">TH</PAGE>
+<lb xml:id="letter_0084_001_tr_1_tl_5"/>NEW YORK
+<lb xml:id="letter_0084_001_tr_1_tl_2"/>Sils-Baselgia
+<lb xml:id="letter_0084_001_tr_1_tl_4"/>30. Juli<CONV tag="p">
+<lb xml:id="letter_0084_001_tr_1_tl_6"/>Marianne, Liebste: ich bin nicht verschollen
+<lb xml:id="letter_0084_001_tr_1_tl_7"/>noch sonstwie abhanden gekom[m]en, – nur
+<lb xml:id="letter_0084_001_tr_1_tl_8"/>gab es soviele Artikel zu schreiben seit
+<lb xml:id="letter_0084_001_tr_1_tl_9"/>meiner Rückkehr, dazu eine Woche mit
+<lb xml:id="letter_0084_001_tr_1_tl_10"/>Journalisten-Aufträgen quer durch die
+<lb xml:id="letter_0084_001_tr_1_tl_11"/>Schwiz, – Küsnacht, Eris Abschied –
+<lb xml:id="letter_0084_001_tr_1_tl_12"/>(wir hatten zuerst eine besonders
+<lb xml:id="letter_0084_001_l"/>reizende Zeit, Giehse, Eri, Klaus, ein
+<lb xml:id="letter_0084_001_tr_1_tl_15"/>neuer Knabe Curtis, u. ich, in Sils) –
+<lb xml:id="letter_0084_001_tr_1_tl_16"/>Jetzt muss ich plötzlich aus recht
+<lb xml:id="letter_0084_001_tr_1_tl_17"/>schrecklichem Anlass weg: Claudes Vater
+<lb xml:id="letter_0084_001_tr_1_tl_18"/>ist Tötlich[sic] verunglückt, – ich fahre
+<lb xml:id="letter_0084_001_tr_1_tl_19"/>morgen nach Marseille, um Claude
+<lb xml:id="letter_0084_001_tr_1_tl_20"/>abzuholen u. vorzubereiten. Werde
+<lb xml:id="letter_0084_001_tr_1_tl_21"/>wohl bis 15. mit ihm in Nantes
+<lb xml:id="letter_0084_001_tr_1_tl_22"/>bleiben – Dan[n] wieder Sils, wo in¬
+<lb xml:id="letter_0084_001_tr_1_tl_23"/>zwischen die süsse Giehse Mike u.
+<lb xml:id="letter_0084_001_l_1"/>Barbara empfängt. Also wen[n] Ihr,<!--FML: this needs attention (was tagged as "fml" in Transkribus)--></CONV><pb xml:id="letter_0084_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0084_004.tif"/>
+            <milestone unit="textregion" xml:id="letter_0084_002_tr_5"/>
+            <lb xml:id="letter_0084_002_tr_5_tl_1"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)--><CONV tag="p">
+<lb xml:id="letter_0084_002_tr_5_tl_1"/>2. Augustwoche oder später hier eintrefft,
+<lb xml:id="letter_0084_002_tr_5_tl_2"/>ist es eine grosse Freude. Und ob
+<lb xml:id="letter_0084_002_tr_5_tl_3"/>Du mir inzwischen ein Dutzend
+<lb xml:id="letter_0084_002_tr_5_tl_4"/>mässig grosser Abzüge vom <PAGE tag="underlined">schönen</PAGE>
+<lb xml:id="letter_0084_002_tr_5_tl_5"/><PAGE tag="underlined">Neuen</PAGE> (Profil) u. sonst allerlei
+<lb xml:id="letter_0084_002_tr_5_tl_6"/>Reizendes von mir schicken könntest:
+<lb xml:id="letter_0084_002_tr_5_tl_7"/>grosse Dankbarkeit.</CONV><CONV tag="p">
+<lb xml:id="letter_0084_002_tr_5_tl_8"/>Amerika: Mitte Sept. oder wenig später
+<lb xml:id="letter_0084_002_tr_5_tl_9"/>reisen Klaus u. Curtis, ich u. Michael,
+<lb xml:id="letter_0084_002_tr_5_tl_10"/>vielleicht Barbara, ganz vielleicht
+<lb xml:id="letter_0084_002_tr_5_tl_11"/>Claude. Ich mache zuerst einen Monat
+<lb xml:id="letter_0084_002_tr_5_tl_12"/>strenge journalistische Rundfahrt.
+<lb xml:id="letter_0084_002_tr_5_tl_13"/><PAGE tag="underlined">Mit Di</PAGE>r? – Wir <PAGE tag="underlined">müssen</PAGE> es besprechen.
+<lb xml:id="letter_0084_002_tr_5_tl_14"/>Auch, ob wir genügend Aufträge
+<lb xml:id="letter_0084_002_tr_5_tl_15"/>bekommen würden. Kübler allein zahlt
+<lb xml:id="letter_0084_002_tr_5_tl_16"/>es nicht. Aber schön wäre es –</CONV>
+<lb xml:id="letter_0084_002_tr_5_tl_17"/>Sei umarmt – in Eile, u.
+<lb xml:id="letter_0084_002_tr_5_tl_18"/>etwas verstört – verzeihs –
+<lb xml:id="letter_0084_002_tr_5_tl_19"/>A.<milestone unit="textregion" xml:id="letter_0084_002_r"/><CONV tag="p">
+<lb xml:id="letter_0084_002_l"/>Unsere Giehse lässt sagen, sie wiederum sei nur
+<lb xml:id="letter_0084_002_l_63"/>bis Ende Aug. in Sils, rechnet darauf Dich bald
+<lb xml:id="letter_0084_002_l_70"/>Irgendewo zu umarmen. Auch Sybille Binder
+<lb xml:id="letter_0084_002_l_77"/>wohnt jetzt eben bis uns —</CONV><pb xml:id="letter_0084_003"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0084_001.tif"/>
+            <milestone unit="textregion" xml:id="letter_0084_003_tr_1"/>
+            <lb xml:id="letter_0084_003_tr_1_tl_2"/>Frau Marianne Feilchenfeld
+<lb xml:id="letter_0084_003_tr_1_tl_3"/>Keizersgracht 109
+<lb xml:id="letter_0084_003_tr_1_tl_4"/><PAGE tag="underlined">Amsterdam</PAGE>
+<lb xml:id="letter_0084_003_tr_1_tl_5"/>Holland<milestone unit="textregion" xml:id="letter_0084_003_tr_2"/>
+            <pb xml:id="letter_0084_004"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0084_002.tif"/>
+         </div>
+      </body>
+   </text>
+</TEI>
