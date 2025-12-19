@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0086" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0086#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0086</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0086_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0086_003.tif"/>
+            <milestone unit="textregion" xml:id="p001_tr_3"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_3_tl_1"/><hi rendition="#u">Yverdon</hi> 
+               <lb xml:id="p001_tr_3_tl_2"/>Clinique Bellevue 
+               <lb xml:id="p001_tr_3_tl_3"/>21. Nov. 38</p>
+
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_2_tl_1"/>Meine liebste Marianne,</p>
+            <p> 
+               <lb xml:id="p001_tr_2_tl_2"/>der Poststempel war u. ist aus Yverdon: deshalb kon[n]te 
+               <lb xml:id="p001_tr_2_tl_3"/>ich auch nicht in Zürich nach Tück fragen. Es dauert 
+               <lb xml:id="p001_tr_2_tl_4"/>schon beinahe 6 Wochen, Marian[n]e, u. es wird noch u. noch 
+               <lb xml:id="p001_tr_2_tl_5"/>dauern – der schlim[m]ste Zustand, die schwierigste Zeit meines 
+               <lb xml:id="p001_tr_2_tl_6"/>Lebens. Während Du auf Euer Kindlein wartest – warte 
+               <lb xml:id="p001_tr_2_tl_7"/>ich darauf, durch eine Insulin-Kur gesund zu werden. 
+               <lb xml:id="p001_tr_2_tl_8"/>Soll ich Dir beschreiben, wie es ist, wir verheerend, ermattend, 
+               <lb xml:id="p001_tr_2_tl_9"/>trostlos, u. in einem "geschlossenen Haus"? – Lassen wir es – 
+               <lb xml:id="p001_tr_2_tl_10"/>siehst Du, es war einfach die allerhöchste Zeit, mein "Chef", 
+               <lb xml:id="p001_tr_2_tl_11"/>Professer Georgi, – übrigens ein Emigrant u. Dein "Rassen 
+               <lb xml:id="p001_tr_2_tl_12" break="no"/>genosse", ein Man[n] hervorragender Qualität, – versichert 
+               <lb xml:id="p001_tr_2_tl_13"/>mir: es sei ein Entschluss in letzter Minute gewesen. Die 
+               <lb xml:id="p001_tr_2_tl_14"/>ersten 3 Wochen lag ich im Bett, so abwesend, dass ich nicht 
+               <lb xml:id="p001_tr_2_tl_15"/>einmal die Umgebung realisierte, nur dass die "Kur" (die 
+               <lb xml:id="p001_tr_1_tl_1"/>sich täglich in eine Art von Narkose oder Scheintod versetzt, 
+               <lb xml:id="p001_tr_1_tl_2"/>qualvoll sei, das ahnte ich. Jetzt ist es fast noch schwerer: 
+               <lb xml:id="p001_tr_1_tl_3"/>die sich steigernde Depression zu ertragen, die aus einer 
+               <lb xml:id="p001_tr_1_tl_4"/>Vermischung des eigenen Zustands, der Unfreiheit u. Resig 
+               <lb xml:id="p001_tr_1_tl_5" break="no"/>nation, u. der Hilflosigkeit beim Ze<hi rendition="#u">itunglesen</hi> entsteht. 
+               <lb xml:id="p001_tr_1_tl_6"/>Man versichert mir, ich werde gesund – da ich es selbst 
+               <lb xml:id="p001_tr_1_tl_7"/>noch nicht beurteilen kan[n], möchte ich möglichst wenig 
+               <lb xml:id="p001_tr_1_tl_8"/>darüber schreiben. Inzwischen geht Europa seinen 
+               <lb xml:id="p001_tr_1_tl_9"/>grausigen Lauf. Wie soll sich dieser Lauf ändern? 
+               <lb xml:id="p001_tr_1_tl_10"/>Holland benim[m]t sich besser als die Schweiz. Aber solche 
+               <lb xml:id="p001_tr_1_tl_11"/>Ansätze, solche winzigen Gewissensregungen, bieten so 
+               <lb xml:id="p001_tr_1_tl_12"/>wenig <hi rendition="#u">Trost</hi> – für die einzelnen Betroffenen wie für 
+               <lb xml:id="p001_tr_1_tl_13"/>die Zukunft überhaupt.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_14"/>Ich habe viel an Dich gedacht: was machen Deine 
+               <lb xml:id="p001_tr_1_tl_15"/>lieben Eltern? – Ob Ihr irgendetwas zugeben[unklar] kon[n]tet 
+               <lb xml:id="p001_tr_1_tl_16"/>oder ob Du, Liebste, in Sorge bist? –</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0086_004.tif"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p> 
+               <lb xml:id="p002_tr_1_tl_1"/>Es quält mich abscheulich, nichts Tun zu kön[n]en, nicht einmal 
+               <lb xml:id="p002_tr_1_tl_2"/>für die Freunde, die dem Herzen nahe stehen. 
+               <lb xml:id="p002_tr_1_tl_3"/>Was gedenkt Ihr aus Eurem kleinen Erdenbürger werden zu 
+               <lb xml:id="p002_tr_1_tl_4"/>lassen? – Soll man <hi rendition="#u">auswandern</hi>? Aber es spricht sich 
+               <lb xml:id="p002_tr_1_tl_5"/>schwer aus – solche Eingriffe in das Leben sind im[m]er 
+               <lb xml:id="p002_tr_1_tl_6"/>unsicher kaum vorstellbar –</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_7"/>Schreibe mir bitte jedenfalls. Lass mich wissen wie es Dir 
+               <lb xml:id="p002_tr_1_tl_8"/>geht, Dir u. dem Zukunfts-Kind. Fährst Du nach Paris? 
+               <lb xml:id="p002_tr_1_tl_9"/>Und dan[n]?</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_10"/>Wird man jemals wieder <hi rendition="#u">arbeiten</hi> können? Es geht ja 
+               <lb xml:id="p002_tr_1_tl_11"/>auch bloss, wen[n] es einen Sin[n] hat. "Mass u. Wert" 
+               <lb xml:id="p002_tr_1_tl_12"/>bringt, wohl im Dez.-Heft, einen grossen amerikan. 
+               <lb xml:id="p002_tr_1_tl_13"/>Aufsatz von mir. Gut u. recht u. es freut mich, aber 
+               <lb xml:id="p002_tr_1_tl_14"/>die ABER häufen sich. Oder sehe ich zu schwarz, in 
+               <lb xml:id="p002_tr_1_tl_15"/>meiner tief persönlichen Verdüsterung? Ich kom[m]e 
+               <lb xml:id="p002_tr_1_tl_16"/>mir dabei <hi rendition="#u">stoïsch</hi> vor, weil ich die Zähne zusam[m]en 
+               <lb xml:id="p002_tr_1_tl_17"/>beisse. Ich lese viel Politisches meistens, u. auch über 
+               <lb xml:id="p002_tr_1_tl_18"/>die nebligen Felder darf ich jetzt täglich spazieren, u. 
+               <lb xml:id="p002_tr_1_tl_19"/>kan[n] endlos nachdenken: im ständigen Zweikampf 
+               <lb xml:id="p002_tr_1_tl_20"/>gegen die Resignation, die nicht siegen darf.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_2_tl_1"/>Erika u. Klaus kom[m]en in U. S. A. gut u. fleissig voran. 
+               <lb xml:id="p002_tr_2_tl_2"/>Ich werde, wie ich hier herauskom[m]e (Weihnachten?) 
+               <lb xml:id="p002_tr_2_tl_3"/>in Malans u. Sils bleiben, vielleicht mit Michael Logan. 
+               <lb xml:id="p002_tr_2_tl_4"/>Vielleicht klärt sich alles im Frühjahr. Dan[n] haben wir 
+               <lb xml:id="p002_tr_2_tl_5"/>schon Dein Kind, auf das ich mich "gerade deshalb" 
+               <lb xml:id="p002_tr_2_tl_6"/>u. "trotz allem" zärtlich freue – es ist doch ein Bürge 
+               <lb xml:id="p002_tr_2_tl_7"/>dafür, dass wir auch noch da sind. Du Liebste – 
+               <lb xml:id="p002_tr_2_tl_8"/>Grüsse den Tück – u. sei vielmals umarmt. 
+               <lb xml:id="p002_tr_2_tl_9"/>von Deiner 
+               <lb xml:id="p002_tr_2_tl_10"/>Annemarie 
+               <lb xml:id="p002_tr_2_tl_11"/>P. S. Meine Biographie Lorenz Saladin, "Ein Leben 
+               <lb xml:id="p002_tr_2_tl_12"/>für die Berge", scheint ziemlich guten Erfolg 
+               <lb xml:id="p002_tr_2_tl_13"/>zu haben.</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0086_001.tif"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_3"/>Frau Marianne Feilchenfeldt 
+               <lb xml:id="p003_l"/><del rend="overstrike">Keizersgracht 109 
+                  <lb xml:id="p003_tr_1_tl_6"/>Amsterdam 
+                  <lb xml:id="p003_tr_1_tl_9"/>Hollande</del> 
+               <lb xml:id="p003_l_1"/>Hotel Paris–Dinard 
+               <lb xml:id="p003_tr_1_tl_5"/>29 Rue Lassette 
+               <lb xml:id="p003_tr_1_tl_7"/><hi rendition="#u">Paris (6e).</hi> 
+               <lb xml:id="p003_tr_1_tl_8"/>Frauknjk. <del rend="overstrike">Pays. Bas</del></p>
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0086_002.tif"/></div>
+       </body>
+    </text>
+ </TEI>
