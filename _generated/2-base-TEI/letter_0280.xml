@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0280" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0280#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0280</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0280_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415310"/>
+            <milestone unit="textregion" xml:id="p001_tr_3"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_3_tl_1"/>CHESA D<hi rendition="#sup">R</hi> RUPPANNER 
+               <lb xml:id="p001_tr_3_tl_2"/>SAMADEN 
+               <lb xml:id="p001_tr_3_tl_4"/>ENGADIN 
+               <lb xml:id="p001_tr_3_tl_5"/><hi rendition="#u">Sonntag abend</hi> 
+               <lb xml:id="p001_tr_3_tl_6"/>Klaus, mein Liebster –</p>
+            <p> 
+               <lb xml:id="p001_tr_3_tl_7"/>man wollte mich, nach der <hi rendition="#u">üblen</hi> Vergiftung mit 
+               <lb xml:id="p001_tr_3_tl_8"/>Strafe von scheusslichen Magenspülungen, Gleich 
+               <lb xml:id="p001_tr_3_tl_9" break="no"/>gewichtsstörungen u. anderen Unannehmlichkeiten 
+               <lb xml:id="p001_tr_3_tl_10"/>mehrere Tage ins Spital sperren, welches ich 
+               <lb xml:id="p001_tr_3_tl_11"/>recht verabscheue – dass ich, nach dem 
+               <lb xml:id="p001_tr_3_tl_12"/>strikte abschlägigen Bescheid des Arztes, mich 
+               <lb xml:id="p001_tr_3_tl_13"/>anzog, u. zu Fuss die Strecke im Schneegestöber 
+               <lb xml:id="p001_tr_3_tl_14"/>in die Chesa zurücklief, wo ich zähneklappernd 
+               <lb xml:id="p001_tr_3_tl_15"/>u. halb ohnmächtig eintraf, gehört wohl zu 
+               <lb xml:id="p001_tr_3_tl_16"/>den Spitzenleistungen meiner zeitweisen 
+               <lb xml:id="p001_tr_3_tl_17"/>Unzurechnungsfähigkeit –</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_3_tl_18"/>Das Resultat: Frau Anita Forrer (keinesfalls 
+               <lb xml:id="p001_tr_3_tl_19"/>zu verwechsen mit jener etwas hysterischen 
+               <lb xml:id="p001_tr_3_tl_20"/>Frau STORRER, von der Medi so hübsche 
+               <lb xml:id="p001_tr_3_tl_21"/>Anekdoten ken[n]t) kam sofort heraus, – heute 
+               <lb xml:id="p001_tr_3_tl_22"/>traf meine Mutter ein, – fährt mich Dienstag 
+               <lb xml:id="p001_tr_3_tl_23"/>nach Zürich, wo ich in Bocken wohnen 
+               <lb xml:id="p001_tr_3_tl_24"/>darf, aber unter ärztlicher Aufsicht, da 
+               <lb xml:id="p001_tr_3_tl_25"/>ich die hiesige Kur (Insulin, Schlafmittel, Coramin 
+               <lb xml:id="p001_tr_3_tl_26"/>u. täglich noch 2 Eukodal) noch 10-14 [?] Tage 
+               <lb xml:id="p001_tr_3_tl_27"/>weiter führen muss. Wundere Dich nicht darüber 
+               <lb xml:id="p001_tr_3_tl_28"/>dass ich noch Eukodal bekom[m]e: Dr. Ruppauer 
+               <lb xml:id="p001_tr_3_tl_30"/>ist der Ansicht, ich sei an- u. hinfällig,</p>
+
+            <milestone unit="textregion" xml:id="p001_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_2_tl_2"/>u. man dürfe den 50 kilo meines zartbesaiteten 
+               <lb xml:id="p001_tr_2_tl_3"/>Leibes (jawohl: ich habe in den letzten Tagen 
+               <lb xml:id="p001_tr_2_tl_4"/>nochmals 1 Kilo abgenommen) keinerlei 
+               <lb xml:id="p001_tr_2_tl_5"/>Erschütterungen zumuten. Dass ich hier abreise 
+               <lb xml:id="p001_tr_2_tl_6"/>hat seine guter Gründe: das Haus soll 
+               <lb xml:id="p001_tr_2_tl_7"/>quasi geschlossen werden (ich wäre, aber 
+               <lb xml:id="p001_tr_2_tl_8"/>Mittwoch, der letzte u. einzige Patient) – 
+               <lb xml:id="p001_tr_2_tl_9"/>ich kan[n] den Vortrag in Bern am 27. u. 
+               <lb xml:id="p001_tr_2_tl_10"/>der Besprechung mit dem Hallweg-Verlag [bez. Lorenz Saladin] 
+               <lb xml:id="p001_tr_2_tl_11"/>nicht absagen (während ich mich bereits 
+               <lb xml:id="p001_tr_2_tl_12"/>erklärt habe, die folgenden Vorträge 
+               <lb xml:id="p001_tr_2_tl_13"/>abzusagen. Die Besprechung mit dem 
+               <lb xml:id="p001_tr_2_tl_14"/>Verlag <hi rendition="#u">ist</hi> wichtig: Ansonsten geht 
+               <lb xml:id="p001_tr_2_tl_15"/>alles durch die mild gesagt: ungeschickten 
+               <lb xml:id="p001_tr_2_tl_16"/>Hände v. Picard, der auf den Verkauf 
+               <lb xml:id="p001_tr_2_tl_17"/>an Nazi-Deutschland erpicht, die Möglich 
+               <lb xml:id="p001_tr_2_tl_18" break="no"/>keiten in England u. das ganze Niveau 
+               <lb xml:id="p001_tr_2_tl_19"/>des Buches verderben würde – Kurz: 
+               <lb xml:id="p001_tr_2_tl_20"/>meine Mutter sagte mir: Sie habe eingesehen, 
+               <lb xml:id="p001_tr_2_tl_21"/>dass man mir nur helfen, nur versuchen 
+               <lb xml:id="p001_tr_2_tl_22"/>könne, mich durch Nachgiebigkeit u. ein 
+               <lb xml:id="p001_tr_2_tl_23"/>Maximum an Pflege u. Sorgfalt einen 
+               <lb xml:id="p001_tr_2_tl_24"/>Weg öffnen können, um mich vor Schlim[m]erem 
+               <lb xml:id="p001_tr_2_tl_25"/>zu bewahren. Sie weiss es dass Thun nicht 
+               <lb xml:id="p001_tr_2_tl_26"/>primär, sondern die Folge einer tötlichen [sic]</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415311"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>Lebensangst sei, u. jener Neigung zum 
+               <lb xml:id="p002_tr_1_tl_2"/>Entgleiten, die mich in das persische 
+               <lb xml:id="p002_tr_1_tl_3"/>Abenteuer trieb, u. einer Sucht 
+               <lb xml:id="p002_tr_1_tl_4"/>ins Dunkle [sic], die wir beide, Du u. 
+               <lb xml:id="p002_tr_1_tl_5"/>ich, nur allzu gut ken[n]en. Die 
+               <lb xml:id="p002_tr_1_tl_6"/>Mischung zwischen echter Gefährdung 
+               <lb xml:id="p002_tr_1_tl_7"/>in Spiel mit dem Feuer könne 
+               <lb xml:id="p002_tr_1_tl_8"/>niemand durchschauen u. tolerieren 
+               <lb xml:id="p002_tr_1_tl_9"/>als eben sie, u. Erika, und es 
+               <lb xml:id="p002_tr_1_tl_10"/>gebe nichts, um mir zu helfen, als 
+               <lb xml:id="p002_tr_1_tl_11"/>mich den Weg gehen zu lassen, der 
+               <lb xml:id="p002_tr_1_tl_12"/>zwar gefährlich sei, aber sein 
+               <lb xml:id="p002_tr_1_tl_13"/>Positivum in der Anwendung 
+               <lb xml:id="p002_tr_1_tl_14"/>meines Talents finde – 
+               <lb xml:id="p002_tr_1_tl_15"/>u. so werde sie mir helfen nach 
+               <lb xml:id="p002_tr_1_tl_16"/>Möglichkeit – 
+               <lb xml:id="p002_tr_1_tl_17"/>Frau Forrer – ist eine Schweizerin, 
+               <lb xml:id="p002_tr_1_tl_18"/>Schwägerin jenes emigrierten 
+               <lb xml:id="p002_tr_1_tl_19"/>Professor <hi rendition="#u">Wolfer</hi> in Yale (New Haven) 
+               <lb xml:id="p002_tr_1_tl_20"/>geschieden, wohnt nur 2 Std. 
+               <lb xml:id="p002_tr_1_tl_21"/>von Sils in Malans (Schloss 
+               <lb xml:id="p002_l_1"/>Bethmar,) ich kön[n]te kaum</p>
+
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l_2"/>erklären, weshalb sie in 3 
+               <lb xml:id="p002_l_3"/>Wochen Bekanntschaft, u. trotz 
+               <lb xml:id="p002_l_4"/>ihrer in mancher Hinsicht uns 
+               <lb xml:id="p002_l_5"/>ganz fremden, solid-bürgerlichen 
+               <lb xml:id="p002_l_6"/>Art mein Vertrauen im höchsten 
+               <lb xml:id="p002_l_7"/>Masse gewan[n] – aber so ist es, u. es 
+               <lb xml:id="p002_l_8"/>ist gut so, u. sie hat eine Liebe 
+               <lb xml:id="p002_l_9"/>zwischen uns akzeptiert u. Tatsache 
+               <lb xml:id="p002_l_10"/>werden lassen, die mich erschüttert 
+               <lb xml:id="p002_l"/>u. mir sehr viel Vertrauen 
+               <lb xml:id="p002_l_11"/>für die Zukunft gibt – 
+               <lb xml:id="p002_l_12"/>Dies ist ein eiliger Report – den[n] 
+               <lb xml:id="p002_l_13"/>Schreiben kostet mich noch 
+               <lb xml:id="p002_l_14"/>grösste Mühe. 
+               <lb xml:id="p002_l_15"/>Ich freue mich masslos, Dich u. Euch 
+               <lb xml:id="p002_l_16"/>bald zu sehen. Den Som[m]er werde ich 
+               <lb xml:id="p002_l_17"/>brav meiner seriösen Gesundung 
+               <lb xml:id="p002_l_18"/>widmen müssen – dass Eri, u. 
+               <lb xml:id="p002_l_19"/>hoffentlich auch Du, in Sils mit 
+               <lb xml:id="p002_l_20"/>mir sein werdet –, ist schön u. 
+               <lb xml:id="p002_l_21"/>versprechend. Ich rufe Dich also</p>
+
+            <milestone unit="textregion" xml:id="p002_r_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l_22"/>demnächst – Mittwoch oder Don[n]erstag, von Bocken an, 
+               <lb xml:id="p002_l_23"/>(werde aber noch VIEL liegen müssen) 
+               <lb xml:id="p002_l_24"/>u. bin indessen in alter u. auch dankbarer 
+               <lb xml:id="p002_l_25"/>tendresse die Eure Miro</p>
+</div>
+       </body>
+    </text>
+ </TEI>
