@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0193"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0193</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0193_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0193_001"
+                facs="https://www.monacensia-digital.de/i3f/v20/415764"/>
+            <milestone unit="textregion" xml:id="letter_0193_001_r"/>
+            <lb xml:id="letter_0193_001_tr_2_tl_1"/>Studentenschaft
+<lb xml:id="letter_0193_001_tr_2_tl_3"/>der Universität Zürich
+<lb xml:id="letter_0193_001_tr_2_tl_2"/>Zürich, den
+<lb xml:id="letter_0193_001_tr_2_tl_4"/>28. X. 30<CONV tag="p">
+<lb xml:id="letter_0193_001_tr_2_tl_5"/>ich hatte – was Dir unbedingt mitgeteilt
+<lb xml:id="letter_0193_001_tr_2_tl_6"/>werden muss – heute eine Unterredung
+<lb xml:id="letter_0193_001_tr_2_tl_7"/>mit "Karl Meyer", einem Professor der
+<lb xml:id="letter_0193_001_tr_2_tl_8"/>mehr als das, nämlich Autorität meines
+<lb xml:id="letter_0193_001_tr_2_tl_9"/>Faches u. Schicksalsentscheider für mein
+<lb xml:id="letter_0193_001_tr_2_tl_10"/>Examen ist – ein kleiner, äusserst "inner¬
+<lb xml:id="letter_0193_001_tr_2_tl_11"/>schweizerischer", (homo alpinus) u. wunder¬
+<lb xml:id="letter_0193_001_tr_2_tl_12"/>bar energischer Kerl. Seine Haltung zu mir
+<lb xml:id="letter_0193_001_tr_2_tl_13"/>war gnädig, meine Dissertation befriedigt
+<lb xml:id="letter_0193_001_tr_2_tl_14"/>ihn (Gott sei gelobt). Allerdings wünscht
+<lb xml:id="letter_0193_001_l"/>er noch ein Kapitel Kirchengeschichte, ich
+<lb xml:id="letter_0193_001_tr_2_tl_17"/>nickte stum[m] u. ahnungslos – u. eine Karte,
+<lb xml:id="letter_0193_001_tr_2_tl_18"/>was noch schlim[m]er ist –</CONV><CONV tag="p">
+<lb xml:id="letter_0193_001_tr_2_tl_19"/>Ausserdem machte er mich liebevoll aber
+<lb xml:id="letter_0193_001_tr_2_tl_20"/>nachdrücklich aufmerksam auf meine
+<lb xml:id="letter_0193_001_tr_2_tl_21"/>grosse Jugend ("Junges Semester" nen[n]t er
+<lb xml:id="letter_0193_001_tr_1_tl_1"/>das) u. auf die diesbezügliche Strenge
+<lb xml:id="letter_0193_001_tr_1_tl_2"/>der Prüfungskom[m]ission, was mich etwas
+<lb xml:id="letter_0193_001_tr_1_tl_3"/>bedrückte –</CONV><CONV tag="p">
+<lb xml:id="letter_0193_001_tr_1_tl_4"/>Es folgte ein Besuch bei Korrodi, der ganz
+<lb xml:id="letter_0193_001_tr_1_tl_5"/>strahlende Freundlichkeit war –
+<lb xml:id="letter_0193_001_tr_1_tl_6"/>Und dann der traditionelle "Jünglings¬
+<lb xml:id="letter_0193_001_tr_1_tl_7"/>lunch" bei unserer Freundin Erna,
+<lb xml:id="letter_0193_001_tr_1_tl_8"/>der ausser Fredi Hansi u. mir drei
+<lb xml:id="letter_0193_001_tr_1_tl_9"/>spanische Infanten umfasst – <PAGE tag="strikethrough">mit</PAGE>
+<lb xml:id="letter_0193_001_tr_1_tl_10"/>eine wilde Bande, abgesehen von ihren
+<lb xml:id="letter_0193_001_tr_1_tl_11"/>prinzlichen Qualitäten. Nur Einer ist
+<lb xml:id="letter_0193_001_l_1"/>sauft, Athaulfo [https://fr.wikipedia.org/wiki/Ata%C3%BAlfo_d%27Orl%C3%A9ans] mit Namen, der</CONV><!--FML: this needs attention (was tagged as "fml" in Transkribus)--><pb xml:id="letter_0193_002"
+                facs="https://www.monacensia-digital.de/i3f/v20/415765"/>
+            <milestone unit="textregion" xml:id="letter_0193_002_r"/><CONV tag="p">
+<lb xml:id="letter_0193_002_tr_2_tl_1"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->Jüngste u. von mir besonders geliebt.
+<lb xml:id="letter_0193_002_tr_2_tl_2"/>In meinem Victory, der an Umfang
+<lb xml:id="letter_0193_002_tr_2_tl_3"/>Deinem Ford erheblich nachsteht,
+<lb xml:id="letter_0193_002_tr_2_tl_4"/>fahren wir nachher zu fünft – u. die
+<lb xml:id="letter_0193_002_tr_2_tl_5"/>drei Prinzen sind ebenso lang u. gross
+<lb xml:id="letter_0193_002_tr_2_tl_6"/>wie Hansi – zu unserer hochschuligen
+<lb xml:id="letter_0193_002_tr_2_tl_7"/>Tätigkeit – von den Polizisten als
+<lb xml:id="letter_0193_002_tr_2_tl_8"/>nicht zurechnungsfähig mit Nachsicht
+<lb xml:id="letter_0193_002_tr_2_tl_9"/>behandelt. So sieht das Leben vergnügt
+<lb xml:id="letter_0193_002_tr_2_tl_10"/>und hoffnungsvoll aus, wie auch recht
+<lb xml:id="letter_0193_002_tr_2_tl_11"/>anstrengend, was aber im Interesse
+<lb xml:id="letter_0193_002_tr_2_tl_12"/>der Hoffnungen geradezu einen Reiz
+<lb xml:id="letter_0193_002_tr_3_tl_1"/>bedeutet.</CONV><CONV tag="p">
+<lb xml:id="letter_0193_002_tr_3_tl_2"/>Morgen kom[m]t Preetorius. Entweder
+<lb xml:id="letter_0193_002_tr_3_tl_3"/>must Du mit kom[m]en, oder ich
+<lb xml:id="letter_0193_002_tr_3_tl_4"/>muss heute einen Brief von
+<lb xml:id="letter_0193_002_tr_3_tl_5"/>Dir finden. Sonst sinkt die Kurve
+<lb xml:id="letter_0193_002_tr_3_tl_6"/>rapid was Du als älterer Bruder
+<lb xml:id="letter_0193_002_tr_3_tl_7"/>doch nicht zulassen wirst –</CONV><CONV tag="p">
+<lb xml:id="letter_0193_002_tr_3_tl_8"/>Unterbruch – der Dozent erscheint.</CONV>
+<lb xml:id="letter_0193_002_tr_1_tl_1"/>P.S. Heute wurde mir mitgeteilt dass
+<lb xml:id="letter_0193_002_tr_1_tl_2"/>ich Freitag 31. X. abends 8 Uhr
+<lb xml:id="letter_0193_002_tr_1_tl_3"/>im Lyceum lesen soll. Ich bin
+<lb xml:id="letter_0193_002_tr_1_tl_4"/>erschüttert über das plötzliche
+<lb xml:id="letter_0193_002_tr_1_tl_5"/>Debut, werde es aber mit
+<lb xml:id="letter_0193_002_tr_1_tl_6"/>Würde absolvieren. Ich lese "Römische
+<lb xml:id="letter_0193_002_tr_1_tl_7"/>Skizze" u. "Erik".</div>
+      </body>
+   </text>
+</TEI>
