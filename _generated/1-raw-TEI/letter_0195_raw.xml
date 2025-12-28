@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0195"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0195</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0195_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0195_001"
+                facs="https://www.monacensia-digital.de/i3f/v20/415576"/>
+            <milestone unit="textregion" xml:id="letter_0195_001_tr_1"/>
+            <lb xml:id="letter_0195_001_tr_1_tl_1"/>30. Sept. 31<CONV tag="p">
+<lb xml:id="letter_0195_001_tr_1_tl_2"/>Der Brief, E. kommt wieder spät, weil
+<lb xml:id="letter_0195_001_tr_1_tl_3"/>er Dich in Nidden doch nicht mehr
+<lb xml:id="letter_0195_001_tr_1_tl_4"/>erreicht hätte, u. uns in Berlin zu treffen
+<lb xml:id="letter_0195_001_tr_1_tl_5"/>wäre schon am 1. zwar unbeschreiblich
+<lb xml:id="letter_0195_001_tr_1_tl_6"/>lockend, aber bis zum 15. muss ich des
+<lb xml:id="letter_0195_001_tr_1_tl_7"/>Pipers wegen u. auch sonst hier bleiben,
+<lb xml:id="letter_0195_001_tr_1_tl_8"/>– Ob Du in München bist, mit oder ohne
+<lb xml:id="letter_0195_001_tr_1_tl_9"/>Klaus? Und wo kann ich Dich wohl nach
+<lb xml:id="letter_0195_001_tr_1_tl_10"/>dem 20. etwa finden? Hanna ist in
+<lb xml:id="letter_0195_001_tr_1_tl_11"/>Bocken, rekonvalent, aber schon sehr auf
+<lb xml:id="letter_0195_001_tr_1_tl_12"/>Besserung u. klug, wohltuend u. frucht¬
+<lb xml:id="letter_0195_001_tr_1_tl_13"/>bar in jeder Hinsicht. Mama geht es
+<lb xml:id="letter_0195_001_tr_1_tl_14"/>wenigstens, gesundheitlich besser, von mir
+<lb xml:id="letter_0195_001_tr_1_tl_15"/>denkt sie noch arg u. die Lage ist, weil
+<lb xml:id="letter_0195_001_tr_1_tl_17"/>Sie [add above line: Mama] ja irgendwie u. von sich aus ihr
+<lb xml:id="letter_0195_001_tr_1_tl_18"/>Recht dazu hat, sehr schwer. Ich glaube
+<lb xml:id="letter_0195_001_tr_1_tl_19"/>dass Hanna da viel helfen kann, sie
+<lb xml:id="letter_0195_001_tr_1_tl_20"/>hat <PAGE tag="strikethrough">einen</PAGE> <PAGE tag="strikethrough">Reigstin</PAGE> soviel Takt u. Ver¬
+<lb xml:id="letter_0195_001_tr_1_tl_21"/>ständnis für Mama.</CONV><CONV tag="p">
+<lb xml:id="letter_0195_001_tr_1_tl_22"/>Und der Piper, <PAGE tag="underlined">wie</PAGE> er mich langweilt,
+<lb xml:id="letter_0195_001_tr_1_tl_23"/>E., es ist eine halbe Sache. Mies mag
+<lb xml:id="letter_0195_001_tr_1_tl_24"/>man nicht schreiben, gut darf man
+<lb xml:id="letter_0195_001_tr_1_tl_25"/>nicht weil ich dan[n] zu seriös werde –</CONV><!--FML: this needs attention (was tagged as "fml" in Transkribus)--><pb xml:id="letter_0195_002"
+                facs="https://www.monacensia-digital.de/i3f/v20/415577"/>
+            <milestone unit="textregion" xml:id="letter_0195_002_tr_1"/><CONV tag="p">
+<lb xml:id="letter_0195_002_tr_1_tl_1"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->u. Triviales unterzubringen ist eine
+<lb xml:id="letter_0195_002_tr_1_tl_2"/>Kunst die mir nur mangelhaft
+<lb xml:id="letter_0195_002_tr_1_tl_3"/>gelingt. Mein Mitarbeiter vollends
+<lb xml:id="letter_0195_002_tr_1_tl_4"/>ist – ich gebe es zu – irgendwie
+<lb xml:id="letter_0195_002_tr_1_tl_5"/>"besser", gibt den richtigen, geforderten
+<lb xml:id="letter_0195_002_tr_1_tl_6"/>Inhalt, aber wie, aber, wie! Für die
+<lb xml:id="letter_0195_002_tr_1_tl_7"/>Zeichnungen kam mir die sehr begabte
+<lb xml:id="letter_0195_002_tr_1_tl_8"/>Erika v. Kager [tatsächlich wird Hans Tomamichl die Zeichnungen machen] rettend ins Gedächtnis,
+<lb xml:id="letter_0195_002_tr_1_tl_9"/>ihre Hilfe, u. dass sie Erika heisst,
+<lb xml:id="letter_0195_002_tr_1_tl_10"/>soll vielleicht etwas bewirken zu Gunsten
+<lb xml:id="letter_0195_002_tr_1_tl_11"/>des ganzen Werkes.</CONV><CONV tag="p">
+<lb xml:id="letter_0195_002_tr_1_tl_12"/>Ihr hingegen geht auf Fischfang aus,
+<lb xml:id="letter_0195_002_tr_1_tl_13"/>das ist beneidenswert nach Medis Beschrei¬
+<lb xml:id="letter_0195_002_tr_1_tl_14"/>bung – ob sie u. Bibi schon wieder in
+<lb xml:id="letter_0195_002_tr_1_tl_15"/>die Schule gehen, weil es doch gleich Okt.
+<lb xml:id="letter_0195_002_tr_1_tl_16"/>u. Herbstbegin[n] ist.</CONV><CONV tag="p">
+<lb xml:id="letter_0195_002_tr_1_tl_17"/>Was soll überhaupt alles diesen Winter
+<lb xml:id="letter_0195_002_tr_1_tl_18"/>geschehen?</CONV><CONV tag="p">
+<lb xml:id="letter_0195_002_tr_1_tl_19"/>Von der Theres habe ich heute sehr
+<lb xml:id="letter_0195_002_tr_1_tl_20"/>eindringlich geträumt, sag es ihr, mit
+<lb xml:id="letter_0195_002_tr_1_tl_21"/>meiner ganzen Zärtlichkeit.</CONV><pb xml:id="letter_0195_003"
+                facs="https://www.monacensia-digital.de/i3f/v20/415578"/>
+            <milestone unit="textregion" xml:id="letter_0195_003_tr_2"/><CONV tag="p">
+<lb xml:id="letter_0195_003_tr_2_tl_1"/>Freitag oder Samstag fahre ich bis
+<lb xml:id="letter_0195_003_tr_2_tl_2"/>zum 12. ins Tessin – </CONV><CONV tag="p">
+<lb xml:id="letter_0195_003_tr_2_tl_3"/>Ich zerbreche mir in diesen Wochen
+<lb xml:id="letter_0195_003_tr_2_tl_4"/>über Vielerlei den Kopf, u. über
+<lb xml:id="letter_0195_003_tr_2_tl_5"/>wichtige Dinge, genau besehen.
+<lb xml:id="letter_0195_003_tr_2_tl_6"/>Manchmal bin ich an der letzten,
+<lb xml:id="letter_0195_003_tr_2_tl_7"/>äussersten Grenze der Unsicherheit:
+<lb xml:id="letter_0195_003_tr_2_tl_8"/>Wohin diese oder jene Entscheidung,
+<lb xml:id="letter_0195_003_tr_2_tl_9"/>diese Freiheit, diese selbständigst
+<lb xml:id="letter_0195_003_tr_2_tl_10"/>gewählte Richtung mich bringen werde,
+<lb xml:id="letter_0195_003_tr_2_tl_11"/>– ob es mir, <PAGE tag="underlined">mir</PAGE> erlaubt, für mich
+<lb xml:id="letter_0195_003_tr_2_tl_12"/>richtig sei –</CONV><CONV tag="p">
+<lb xml:id="letter_0195_003_tr_2_tl_13"/>Es ist sehr gut dass Han[n]a hier ist
+<lb xml:id="letter_0195_003_tr_2_tl_14"/>und dass es ohne Dich, darüber bin
+<lb xml:id="letter_0195_003_tr_2_tl_15"/>ich mir einig, nicht ginge</CONV><CONV tag="p">
+<lb xml:id="letter_0195_003_tr_2_tl_16"/>– Gruss dem Klaus, wie steht das
+<lb xml:id="letter_0195_003_tr_2_tl_17"/>Plagiat, Gruss für Medi u. Bibi,
+<lb xml:id="letter_0195_003_tr_2_tl_18"/>Verehrung den Eltern</CONV>
+<lb xml:id="letter_0195_003_tr_2_tl_19"/>Es ist entsetzlich spät, entschuldige
+<lb xml:id="letter_0195_003_tr_2_tl_20"/>damit die verworrene Ausdrucksweise
+<lb xml:id="letter_0195_003_tr_2_tl_21"/>Deiner A. –</div>
+      </body>
+   </text>
+</TEI>
