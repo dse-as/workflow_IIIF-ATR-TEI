@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0196"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0196</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0196_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0196_001"
+                facs="https://www.monacensia-digital.de/i3f/v20/415768"/>
+            <milestone unit="textregion" xml:id="letter_0196_001_tr_2"/>
+            <lb xml:id="letter_0196_001_tr_2_tl_1"/>SAVOY HOTEL BAUR EN VILLE
+<lb xml:id="letter_0196_001_tr_2_tl_2"/>ZURICH
+<lb xml:id="letter_0196_001_tr_2_tl_3"/>Freitag abend
+<lb xml:id="letter_0196_001_tr_2_tl_4"/>Liebe Eri<CONV tag="p">
+<lb xml:id="letter_0196_001_tr_2_tl_5"/>mit weichen Knien
+<lb xml:id="letter_0196_001_tr_2_tl_6"/>sitze ich da und warte
+<lb xml:id="letter_0196_001_tr_2_tl_7"/>auf Annemarie, die sich
+<lb xml:id="letter_0196_001_tr_2_tl_8"/>im Lyceumsklub der Kritik
+<lb xml:id="letter_0196_001_tr_2_tl_9"/>"dazu berufener schweizer
+<lb xml:id="letter_0196_001_tr_2_tl_10"/>Damen" unterzieht.</CONV><milestone unit="textregion" xml:id="letter_0196_001_tr_1"/><CONV tag="p">
+<lb xml:id="letter_0196_001_tr_1_tl_1"/>Die Tatsache, dass Sie nun
+<lb xml:id="letter_0196_001_tr_1_tl_2"/>mit Bruder Klaus wirklich
+<lb xml:id="letter_0196_001_tr_1_tl_3"/>kommen finde ich phan¬
+<lb xml:id="letter_0196_001_tr_1_tl_4"/>tastisch. Wir machen.
+<lb xml:id="letter_0196_001_tr_1_tl_5"/>jetzt schon feste Propagan¬
+<lb xml:id="letter_0196_001_tr_1_tl_6"/>da und versprechen uns
+<lb xml:id="letter_0196_001_tr_1_tl_7"/>grossen Erfolg. Die Stadt
+<lb xml:id="letter_0196_001_tr_1_tl_8"/>wird festlich geschmückt,
+<lb xml:id="letter_0196_001_tr_1_tl_9"/>die Musikkapelle zum
+<lb xml:id="letter_0196_001_tr_1_tl_10"/>Empfang ist bestellt, nach
+<lb xml:id="letter_0196_001_tr_1_tl_11"/>Ehrenjungfrauen wird
+<lb xml:id="letter_0196_001_tr_1_tl_12"/>noch annonziert.</CONV><pb xml:id="letter_0196_002"
+                facs="https://www.monacensia-digital.de/i3f/v20/415769"/>
+            <milestone unit="textregion" xml:id="letter_0196_002_r_556"/><CONV tag="p">
+<lb xml:id="letter_0196_002_tr_1_tl_1"/>Und Ihr Stück wird aufgeführt,
+<lb xml:id="letter_0196_002_tr_1_tl_2"/>wann denn? Wir möchten ja so
+<lb xml:id="letter_0196_002_tr_1_tl_3"/>gern kommen, aber ich glaube,
+<lb xml:id="letter_0196_002_tr_1_tl_4"/>Annemarie kann nicht weg. Unsere
+<lb xml:id="letter_0196_002_tr_1_tl_5"/>Gedanken werden Sie aus der Ferne
+<lb xml:id="letter_0196_002_tr_1_tl_6"/>begleiten. –</CONV><CONV tag="p">
+<lb xml:id="letter_0196_002_tr_1_tl_7"/>Haben Sie Ihren Beverley Nichols
+<lb xml:id="letter_0196_002_tr_1_tl_8"/>bei Transmare angebracht?</CONV><CONV tag="p">
+<lb xml:id="letter_0196_002_tr_1_tl_9"/>So, nun muss Annemarie
+<lb xml:id="letter_0196_002_tr_1_tl_10"/>noch was schreiben und ein neu¬
+<lb xml:id="letter_0196_002_tr_1_tl_11"/>erworbenes Lorbeerblatt beilegen!</CONV>
+<lb xml:id="letter_0196_002_tr_1_tl_12"/>Herzliche Grüsse von Ihrem
+<lb xml:id="letter_0196_002_tr_1_tl_13"/>Fred Pasternek<CONV tag="p">
+<lb xml:id="letter_0196_002_tr_1_tl_15"/>Liebe Fau Erika Mann – das war ja eine riesig
+<lb xml:id="letter_0196_002_tr_1_tl_16"/>komische Angelegenheit, lauter richtige gewichtige
+<lb xml:id="letter_0196_002_tr_1_tl_17"/>schwerechte “urchige“ Schweizer Frauen die zuerst
+<lb xml:id="letter_0196_002_tr_1_tl_18"/>stundenlang vor gedeckten Theetischen Sitzung hielten
+<lb xml:id="letter_0196_002_tr_1_tl_20"/>bis ich, das Manuskript in Händen, vor lauter
+<lb xml:id="letter_0196_002_tr_1_tl_21"/>Müdigkeit blass u. blasser wurde. Da hatte meine
+<lb xml:id="letter_0196_002_tr_1_tl_22"/>tüchtige u. wundervolle Frau Dr. Schudel ein Einsehen
+<lb xml:id="letter_0196_002_tr_1_tl_23"/>u. gab mir unter herzlichen Begrüssungsworten
+<lb xml:id="letter_0196_002_tr_1_tl_24"/>(wobei "jüngstes Mitglied" häufig zitiert wurde) das Zeichen
+<lb xml:id="letter_0196_002_tr_1_tl_25"/>zum Beginn. Ich las brav u. langsam, wie Du mich das
+<lb xml:id="letter_0196_002_tr_1_tl_26"/>gelehrt kast, als ob jedes Wort wichtig sei – “Erik”, Fragmente
+<lb xml:id="letter_0196_002_tr_1_tl_27"/>aus "Bernhard", die mich, da ich sie nie [bei Fleischmann: mir] durchgelesen
+<lb xml:id="letter_0196_002_tr_1_tl_28"/>hatte (!!!) lebhaft überraschten – u. endlich "Ruth", u.
+<lb xml:id="letter_0196_002_tr_1_tl_29"/>dann gab es Beifall, Blumen, Thee, Kuchen –</CONV><CONV tag="p">
+<lb xml:id="letter_0196_002_tr_1_tl_31"/>Darnach ich befriedigt ins Bett reisen werde. Fredchen
+<lb xml:id="letter_0196_002_tr_1_tl_32"/>gähnt schon, scheint mir!</CONV>
+<lb xml:id="letter_0196_002_l"/>Was treibst Du um Gottes Willen – Bist Du sehr
+<lb xml:id="letter_0196_002_l_493"/>fleissig bei Proben etc? Gute Nacht Erika Deine
+<lb xml:id="letter_0196_002_l_497"/>Annemarie</div>
+      </body>
+   </text>
+</TEI>
