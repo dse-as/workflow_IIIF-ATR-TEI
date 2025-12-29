@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0206" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0206#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0206</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0206_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415626"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Bocken 
+               <lb xml:id="p001_tr_1_tl_2"/>20. Okt.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_3"/>– Es ist lieb von Dir dass Du aus brüder 
+               <lb xml:id="p001_tr_1_tl_4" break="no"/>lichem Herzen die Pariser Novelle 
+               <lb xml:id="p001_tr_1_tl_5"/>schön findest u. verstehst – dass der 
+               <lb xml:id="p001_tr_1_tl_6"/>Junge kein Junge ist, begreife ich voll 
+               <lb xml:id="p001_tr_1_tl_7" break="no"/>kom[m]en, aber <del rend="overstrike">d</del> weil ich zu Änderungen 
+               <lb xml:id="p001_tr_1_tl_8"/>mehr als untalentiert bin, lassen 
+               <lb xml:id="p001_tr_1_tl_9"/>wir ihn lieber da er ja auf jeden 
+               <lb xml:id="p001_tr_1_tl_10"/>Fall Charme besitzt –</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_11"/>ich glaube dass der Knabe Bernhard 
+               <lb xml:id="p001_tr_1_tl_12"/>ein ähnlicher "Fall" werden wird, 
+               <lb xml:id="p001_tr_1_tl_13"/>aber ich behandle ihn mit mehr 
+               <lb xml:id="p001_l"/>Sorgfalt, ausserdem ist er kaum 17 
+               <lb xml:id="p001_tr_2_tl_3"/>Jahre alt und ein typischer "jüngerer 
+               <lb xml:id="p001_tr_2_tl_4"/>Bruder" – auch wird er mindestens keine 
+               <lb xml:id="p001_tr_2_tl_5"/>Gelegenheit zu <hi rendition="#u">resignierter Haltung</hi> haben, 
+               <lb xml:id="p001_tr_2_tl_6"/>welche in der Pariser Geschichte so 
+               <lb xml:id="p001_tr_2_tl_7"/>verdächtig mädchenhaft ist, (und, wie 
+               <lb xml:id="p001_tr_2_tl_8"/>gewisse Leute sagen, "pervers" – als ob <del rend="overstrike">sich</del> 
+               <lb xml:id="p001_tr_2_tl_9"/>ein so auspruchsvolles Wort so leicht 
+               <lb xml:id="p001_tr_2_tl_10" break="no"/>sinnig gebraucht werden dürfte!)</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_2_tl_11"/>Sobald ich Zeit habe, berichte ich Dir 
+               <lb xml:id="p001_tr_2_tl_12"/>einmal über Bernhard u. seine 
+               <lb xml:id="p001_tr_2_tl_13"/>Freunde, sie liegen mir sehr am Herzen, 
+               <lb xml:id="p001_tr_2_tl_14"/>aber ich muss die Stunden stehlen</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415627"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_2_tl_1"/>welche ich ihrem Schicksal widme – den[n] 
+               <lb xml:id="p002_tr_2_tl_2"/>hier hat die Arbeit grossartig eingesetzt, 
+               <lb xml:id="p002_tr_2_tl_3"/>ausser Montag begin[n]e ich täglich um 
+               <lb xml:id="p002_tr_2_tl_4"/>8 Uhr morgens, muss also samt Hansi 
+               <lb xml:id="p002_tr_2_tl_5"/>um halb 8 zu Hause abfahren – mittags 
+               <lb xml:id="p002_tr_2_tl_6"/>lassen wir uns von netten Leuten ein 
+               <lb xml:id="p002_tr_2_tl_7" break="no"/>laden, um 2 Uhr geht es wieder los, u. 
+               <lb xml:id="p002_tr_2_tl_8"/>einige Professoren machen uns die Freude 
+               <lb xml:id="p002_l"/>abends bis 7<hi rendition="#sup">h</hi> zu lesen. Eine empörende 
+               <lb xml:id="p002_tr_2_tl_11"/>Angelegenheit, die zum Schwänzen heraus 
+               <lb xml:id="p002_tr_1_tl_1" break="no"/>fordert. Öfters gelange ich aber schon 
+               <lb xml:id="p002_tr_1_tl_2"/>um 5<hi rendition="#sup">h</hi> nach Hause u. an meinen 
+               <lb xml:id="p002_tr_1_tl_3"/>Schreibtisch – 
+               <lb xml:id="p002_tr_1_tl_4"/>Ausserdem passiert furchtbar viel, z. B. 
+               <lb xml:id="p002_tr_1_tl_5"/>mussten wir, die Buben u. ich, uns 3 X 
+               <lb xml:id="p002_tr_1_tl_6"/>umziehen, weil die Infantin v. Spanien 
+               <lb xml:id="p002_tr_1_tl_7"/>die ich begeisternd finde, samt Schwie 
+               <lb xml:id="p002_tr_1_tl_8" break="no"/>germutter hier anrückte – ferner war 
+               <lb xml:id="p002_tr_1_tl_9"/>schrechlich viel Hausbesuch von süssen 
+               <lb xml:id="p002_tr_1_tl_10"/>Leuten da, Reitkollegen von Mama 
+               <lb xml:id="p002_tr_1_tl_11"/>vor allem nämlich die international 
+               <lb xml:id="p002_tr_1_tl_12"/>gepriesene, von uns allen gleichermassen 
+               <lb xml:id="p002_tr_1_tl_13"/>geliebte An[n]elies Stoffel [vgl. https://uzb.swisscovery.slsp.ch/permalink/41SLSP_UZB/4ep765/alma990116126830205508] samt Schwester 
+               <lb xml:id="p002_tr_1_tl_14"/>Marion Goldschmid Rothschild [recte: Marie-Anne von Goldschmidt-Rothschild] die wir 
+               <lb xml:id="p002_tr_1_tl_15"/>mit viel Spannung erwarteten. Dazu war 
+               <lb xml:id="p002_tr_1_tl_16"/>mir schon schlecht weil ich reiten sollte, 
+               <lb xml:id="p002_tr_1_tl_17"/>u. natürlich fing es sehr gut, ohne 
+               <lb xml:id="p002_tr_1_tl_18"/>Refus u. <del rend="overstrike">=</del> andere Schrecknisse, u. ich 
+               <lb xml:id="p002_l_1"/>bekam den 5. Preis u. errang wie man</p>
+
+            <pb xml:id="p003" facs="https://www.monacensia-digital.de/i3f/v20/415628"/>
+            <milestone unit="textregion" xml:id="p003_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_3_tl_1"/>mir versichert grosse Sympathien nebst 
+               <lb xml:id="p003_tr_3_tl_2"/>der Hoffnung auf zukünftige Siege, da 
+               <lb xml:id="p003_tr_3_tl_3"/>mein Talent verbürgt sei –</p>
+            <p> 
+               <lb xml:id="p003_tr_3_tl_4"/>Ich platzte vor Stolz. Wichtiger ist <del rend="overstrike">der</del> die 
+               <lb xml:id="p003_tr_3_tl_5"/>Befriedigung meiner Eltern, ich merkte 
+               <lb xml:id="p003_tr_3_tl_6"/>ordentlich, wie durch diese "Tat" meine 
+               <lb xml:id="p003_tr_3_tl_7"/>Zugehörigkeit u. Fähigkeit zu der grossen 
+               <lb xml:id="p003_tr_3_tl_8"/>Tradition der Familie festgestellt wurde –</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">[vertical space] 
+               <lb xml:id="p003_tr_2_tl_1"/>Heute kam eine Karte von Rut samt 
+               <lb xml:id="p003_tr_2_tl_3"/>Wolfskehl, ausserdem [add above line: ist] Bericht von Praetorius 
+               <lb xml:id="p003_tr_2_tl_4"/>da, er wird am 19. X. in der Universität 
+               <lb xml:id="p003_tr_2_tl_5"/>sprechen. Der Vorschlag eines Abends von 
+               <lb xml:id="p003_tr_2_tl_6"/>Klaus u. Dir ist mit Begeisterung an 
+               <lb xml:id="p003_tr_2_tl_7" break="no"/>genommen, u. ich werde Dir morgen 
+               <lb xml:id="p003_tr_2_tl_8"/>die offizielle Einladung schicken, so 
+               <lb xml:id="p003_tr_1_tl_1"/>ich Zeit habe. Du wirst sie bitte Klaus 
+               <lb xml:id="p003_tr_1_tl_2"/>samt freundlichem Zuspruch über 
+               <lb xml:id="p003_tr_1_tl_3" break="no"/>geben. Gewünscht wird als Thema: 
+               <lb xml:id="p003_tr_1_tl_4"/>"Jüngste deutscher Dichtung" oder so 
+               <lb xml:id="p003_tr_1_tl_5"/>ähnlich, mit Betonung auf "jüngste", 
+               <lb xml:id="p003_tr_1_tl_6"/><hi rendition="#u">unser</hi> Alter soll zu Worte kom[m]en, 
+               <lb xml:id="p003_tr_1_tl_7"/>u. Du sollst nicht faul sein sondern 
+               <lb xml:id="p003_tr_1_tl_8"/>eine Menge lesen, (willst Du nicht 
+               <lb xml:id="p003_tr_1_tl_9"/>auch "Ruth" von mir lesen? Hier sollte 
+               <lb xml:id="p003_tr_1_tl_10"/>ich es nämlich im November im Lyceum 
+               <lb xml:id="p003_tr_1_tl_11"/>lesen, habe aber abgelehnt weil es zum 
+               <lb xml:id="p003_l"/>übrigen Program[m] nicht geht u. ausserden 
+               <lb xml:id="p003_l_1"/><hi rendition="#u">gut</hi> gelesen werden muss, das kann ich nicht!)</p>
+
+            <pb xml:id="p004" facs="https://www.monacensia-digital.de/i3f/v20/415629"/>
+            <milestone unit="textregion" xml:id="p004_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_1_tl_1"/>Falls der Vortrag erst im Dezember ist, 
+               <lb xml:id="p004_tr_1_tl_2"/>Sollst zu mich bitte vorher einmal 
+               <lb xml:id="p004_tr_1_tl_3"/>besuchen. Die Studentenschaft wird Dir 
+               <lb xml:id="p004_tr_1_tl_4"/>Vorschuss zahlen damit Du reisen kan[n]st! 
+               <lb xml:id="p004_tr_1_tl_5"/>Was hingegen die Gewöhnung meiner 
+               <lb xml:id="p004_tr_1_tl_6"/>Mutter anbetrifft –</p>
+            <p> 
+               <lb xml:id="p004_tr_1_tl_7"/>überhaupt möchte ich lieber zu Dir. Aber 
+               <lb xml:id="p004_tr_1_tl_8"/>davon <hi rendition="#u">soll</hi> man nicht sprechen, glaube 
+               <lb xml:id="p004_tr_1_tl_9"/>ich. Man soll überhaupt sehr mutig 
+               <lb xml:id="p004_tr_1_tl_10"/>sein u. sehr fleissig. Letzteres bin ich 
+               <lb xml:id="p004_tr_1_tl_11"/>aus überzeugtem Herzen, u. der Mut 
+               <lb xml:id="p004_tr_1_tl_12"/>ist mindestens in ansteigender Kurve – wen[n] 
+               <lb xml:id="p004_tr_1_tl_13"/>auch mit Unterbrechungen.</p>
+            <p> 
+               <lb xml:id="p004_tr_2_tl_1"/>Wie lang bleibst Du denn in Berlin? 
+               <lb xml:id="p004_tr_2_tl_2"/>Ich habe vieeel lieber Du bist in 
+               <lb xml:id="p004_tr_2_tl_3"/>München, man spürt die räumliche 
+               <lb xml:id="p004_tr_2_tl_4"/>Entfernung, u. in München kann ich 
+               <lb xml:id="p004_tr_2_tl_5"/>Dir beinahe die Hand geben. Und 
+               <lb xml:id="p004_tr_2_tl_6"/>Du hast doch so gute Hände.</p>
+            <p> 
+               <lb xml:id="p004_tr_2_tl_7"/>In "Rundherum" steht Klaus mit einem 
+               <lb xml:id="p004_tr_2_tl_8"/>Mann in Chicago auf der Strasse, der 
+               <lb xml:id="p004_tr_2_tl_9"/>Mann heisst Amendt [vgl. Rundherum, Rowohlt 1982, S. 70 (Beginn des Kapitels 7 - mit Original abgleichen) - der Schauspieler Rudolf "Buschi" Amendt trafen EM und KM jedoch laut Text in Milwaukee, nicht in Chicago] – bis Du bei dem? [gemeint ist wohl, ob EM, die sich in Berlin aufhält, beim deutschen Schauspieler wohnt, der 1928 erstmals Gastspiele in den USA hatte und danach erst 1932 ganz übersiedelte. Schwarzenbach zeigt, hier, dass die Texte v. EM und KM relativ genau gelesen hat.]</p>
+            <p> 
+               <lb xml:id="p004_tr_3_tl_1"/>Und jetzt werde ich weiterarbeiten, den[n] 
+               <lb xml:id="p004_tr_3_tl_2"/>das trägt zum Gefühl der Menschenwürde 
+               <lb xml:id="p004_tr_3_tl_3"/>bei.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_3_tl_4"/>Adieu, schreibe rasch wenn Du Zeit hast u. 
+               <lb xml:id="p004_tr_3_tl_5"/>auch sonst, den[n] ich kan[n] von Luft allein 
+               <lb xml:id="p004_l"/>nicht leben, u. Ohne Dich nur ungern! 
+               <lb xml:id="p004_l_142"/>A.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
