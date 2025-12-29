@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0200" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0200#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0200</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0200_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415579"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>CAFÉ SCHÖN 
+               <lb xml:id="p001_tr_1_tl_4"/>BERLIN, UNTER D. LINDEN 45 
+               <lb xml:id="p001_tr_1_tl_5"/>TELEFON: A 6 MERKUR 7624 
+               <lb xml:id="p001_tr_1_tl_3"/>BERLIN, DEN</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_6"/>E.– wir sitzen hier, Dein Vetter Hans Erik 
+               <lb xml:id="p001_tr_1_tl_7"/>u. ich, u. warten auf den Prinzen der sich 
+               <lb xml:id="p001_tr_1_tl_8"/>unglaubwürdig lange rasiert – er soll 
+               <lb xml:id="p001_tr_1_tl_9"/>Dir, wenigstens dies, von mir mitbringen – 
+               <lb xml:id="p001_tr_1_tl_10"/>wir sind noch etwas spukhaft verstört 
+               <lb xml:id="p001_tr_1_tl_11"/>von Bruno Walter's prächtigem Oberon [Aufführung v. Carl Maria Webers gleichnamiger Oper in Berlin 1931, vgl. https://www.youtube.com/watch?v=tIooqW8WM60], sehr 
+               <lb xml:id="p001_tr_1_tl_12"/>eindrucksvoll war auch das Widersehen 
+               <lb xml:id="p001_tr_1_tl_13"/>mit Lotte die mit Emil Ludwig in einer 
+               <lb xml:id="p001_tr_1_tl_14"/>Loge lächelte –</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_15"/>Also, E. – die Vernunft hat gesiegt, weil Du ja 
+               <lb xml:id="p001_tr_1_tl_16"/>in 14 Tagen im Rundfunk Dich hören 
+               <lb xml:id="p001_tr_1_tl_17"/>lässt, u. da wär es doch schon die reine 
+               <lb xml:id="p001_tr_1_tl_18"/>Kinderei aus dem kaum konsolidierten Berlin 
+               <lb xml:id="p001_tr_1_tl_19"/>weg zu reisen, wen[n] auch, zusammen mit 
+               <lb xml:id="p001_tr_1_tl_20"/>Klaus, zugleich ein grosser Spass. Überhaupt 
+               <lb xml:id="p001_tr_1_tl_21"/>das Leben ist <hi rendition="#u">viel</hi> besser, viel reizvoller, 
+               <lb xml:id="p001_tr_1_tl_22"/>ordnungsgemässer, liebenswürdiger, seit Klaus 
+               <lb xml:id="p001_tr_1_tl_23"/>so richtig aufgetaucht ist. (Wie gut dass der 
+               <lb xml:id="p001_tr_1_tl_24"/>allezeit rührende Fred Pasternek diesen Satz. 
+               <lb xml:id="p001_tr_1_tl_25"/>nicht lesen muss!) – Wen[n] ich es auch nicht</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415580"/>
+            <milestone unit="textregion" xml:id="p002_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_2_tl_1"/>Bruno Franks wegen wünsche, so fände ich doch 
+               <lb xml:id="p002_tr_2_tl_2"/>sehr wichtig dass Nina bald u. lange hier 
+               <lb xml:id="p002_tr_2_tl_3"/>gespielt würde – Kom[m]st Du, <hi rendition="#u">planst</hi> Du es min 
+               <lb xml:id="p002_tr_2_tl_4" break="no"/>destens, in etwas 10 Tagen hierher? Bis dahin 
+               <lb xml:id="p002_tr_2_tl_5"/>weiss ich auch schon, wo ich wohne u. über 
+               <lb xml:id="p002_tr_2_tl_6"/>welches Buch ich bei den ehrwürdigen Damen 
+               <lb xml:id="p002_tr_2_tl_7"/>des Lyceums reden will [offenbar weitere Einladung ins Lyceum Zürich nach der Lesung von 1930, vgl. letter_0193]. (Das also, siehst 
+               <lb xml:id="p002_tr_2_tl_8"/> Du, sind meine nächsten Sorgen!)[vertical space]</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_9"/>E-Liebling, hast Du wirklich <hi rendition="#u">kein</hi> Bild von 
+               <lb xml:id="p002_tr_2_tl_10"/>Dir für mich bestellt? Oder ist der Photo 
+               <lb xml:id="p002_tr_2_tl_11" break="no"/>praph so nachlässig? Telephonier ihn doch 
+               <lb xml:id="p002_tr_2_tl_12"/>deutlich an, <hi rendition="#u">wen</hi> sollte ich den[n] sonst wohl 
+               <lb xml:id="p002_tr_2_tl_13"/>in Grossaufnahme in meine Zukunftstube 
+               <lb xml:id="p002_tr_2_tl_14"/>hängen!</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_2_tl_15"/>Da kommt Klaus gelaufen, adieu, adieu, 
+               <lb xml:id="p002_tr_2_tl_16"/>sei tausendmal umarmt von Deinem 
+               <lb xml:id="p002_tr_2_tl_17"/>Kind A.–</p>
+
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l_50"/><hi rendition="#u">Beschämte Grüsse für Medi</hi> der 
+               <lb xml:id="p002_l_54"/>ich im[m]er noch nicht geschrieben 
+               <lb xml:id="p002_l_58"/>habe! Für Bibi, 
+               <lb xml:id="p002_l_62"/>u. an Therese bitte ebenfalls!</p>
+</div>
+       </body>
+    </text>
+ </TEI>
