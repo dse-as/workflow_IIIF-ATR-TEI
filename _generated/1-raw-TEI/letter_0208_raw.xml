@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0208"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0208</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0208_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0208_001"
+                facs="https://www.monacensia-digital.de/i3f/v20/415635"/>
+            <milestone unit="textregion" xml:id="letter_0208_001_tr_1"/>
+            <lb xml:id="letter_0208_001_tr_1_tl_1"/>Dienstag<CONV tag="p">
+<lb xml:id="letter_0208_001_tr_1_tl_2"/>Eri-Lieb – es steht fest dass Faist in jedem
+<lb xml:id="letter_0208_001_tr_1_tl_3"/>Fall u. Jerry [Jenny?] gegenüber ganz besonders
+<lb xml:id="letter_0208_001_tr_1_tl_4"/>verabscheuungswürdig gehandelt hat –
+<lb xml:id="letter_0208_001_tr_1_tl_5"/>den[n] hätte Geltner [Gellner?] ohne ihn auch nur
+<lb xml:id="letter_0208_001_tr_1_tl_6"/>meinen Namen gewußt oder es gewagt
+<lb xml:id="letter_0208_001_tr_1_tl_7"/>den Hund mitten in der Nacht einfach
+<lb xml:id="letter_0208_001_tr_1_tl_8"/>abzuholen? Ich war sehr traurig – ich
+<lb xml:id="letter_0208_001_tr_1_tl_9"/>gesteh es ein.</CONV><CONV tag="p">
+<lb xml:id="letter_0208_001_tr_1_tl_10"/>Die Adresse von Bruno Séquin ist
+<lb xml:id="letter_0208_001_tr_1_tl_11"/>Maienburgweg 20 – das zarten Mädchen
+<lb xml:id="letter_0208_001_tr_1_tl_12"/>hiess Alma Staub – ein anderes
+<lb xml:id="letter_0208_001_tr_1_tl_13"/>(dessen Begabungsgrad ich nicht ermessen,
+<lb xml:id="letter_0208_001_tr_1_tl_14"/>kann) Trudi Stössel – ein drittes ist
+<lb xml:id="letter_0208_001_tr_1_tl_15"/>besonders komisch, klein, drollig, affen¬
+<lb xml:id="letter_0208_001_tr_1_tl_16"/>haft u. ebenso blond wie Trudy Schoop [Schweizer Tänzerin] –
+<lb xml:id="letter_0208_001_tr_1_tl_17"/>doch weiss ich den Namen nicht.
+<lb xml:id="letter_0208_001_tr_1_tl_18"/>Bruno wird sie schon erken[n]en –</CONV><pb xml:id="letter_0208_002"
+                facs="https://www.monacensia-digital.de/i3f/v20/415636"/>
+            <milestone unit="textregion" xml:id="letter_0208_002_tr_1"/>
+            <lb xml:id="letter_0208_002_tr_1_tl_1"/>Ich fuhr übrigens glatt – wen[n] auch sehr
+<lb xml:id="letter_0208_002_tr_1_tl_2"/>schläfrig – in einem Tag nach Berlin
+<lb xml:id="letter_0208_002_tr_1_tl_3"/>u. war um 9 Uhr da – nachdem
+<lb xml:id="letter_0208_002_tr_1_tl_4"/>schnell, in Leipzig, noch ein Kabel
+<lb xml:id="letter_0208_002_tr_1_tl_5"/>durchgebrannt war. Inzwischen fuhr ich
+<lb xml:id="letter_0208_002_tr_1_tl_6"/>Marias Ford – der ein Wundertier ist,
+<lb xml:id="letter_0208_002_tr_1_tl_7"/>aber nicht recht harmonisch im
+<lb xml:id="letter_0208_002_tr_1_tl_8"/>Verhältnis von Motor u. Karosserie –
+<lb xml:id="letter_0208_002_tr_1_tl_9"/>mit Stuck probierte ich heute einen
+<lb xml:id="letter_0208_002_tr_1_tl_10"/>Man[n]heim [Automarke, ev. Heim &amp; Cie Badische Automobilfabrik Mannheim, wobei auch Mercedes in Mannheim produzierte] – den ich mir sehr zu
+<lb xml:id="letter_0208_002_tr_1_tl_11"/>besitzen wünschte. Was denkst zu davon?
+<lb xml:id="letter_0208_002_tr_1_tl_12"/>Ich freue mich so we[n] Du bald kom[m]st.
+<lb xml:id="letter_0208_002_tr_1_tl_13"/>E. – Sag Klaus, dass, im[m]er noch, Abegg
+<lb xml:id="letter_0208_002_tr_1_tl_14"/>friedlich bei mir wohnt – für Dich
+<lb xml:id="letter_0208_002_tr_1_tl_15"/>ist aber (wen[n] es Dir angenehm ist)
+<lb xml:id="letter_0208_002_tr_1_tl_16"/>im[m]er Platz, weil ich ja leicht in der
+<lb xml:id="letter_0208_002_tr_1_tl_17"/>Diele oder bei Maria nächtigen kan[n].
+<lb xml:id="letter_0208_002_tr_1_tl_18"/>Ich traf Lisl Frank [Tochter von Bruno Frank] im schlechten
+<lb xml:id="letter_0208_002_tr_1_tl_19"/>Shaw – sie fand ihn, <PAGE tag="strikethrough">l</PAGE> versteht
+<lb xml:id="letter_0208_002_tr_1_tl_20"/>sich, <PAGE tag="underlined">noch</PAGE> schlechter –<pb xml:id="letter_0208_003"
+                facs="https://www.monacensia-digital.de/i3f/v20/415637"/>
+            <milestone unit="textregion" xml:id="letter_0208_003_tr_1"/>
+            <lb xml:id="letter_0208_003_tr_1_tl_1"/>Adieu, E.– ich habe die Gast¬
+<lb xml:id="letter_0208_003_tr_1_tl_2"/>freundschaft nicht vergessen
+<lb xml:id="letter_0208_003_tr_1_tl_3"/>u. pflege den "Hurensold" [?] mit
+<lb xml:id="letter_0208_003_tr_1_tl_4"/>Zärtlichkeit zu <PAGE tag="strikethrough">de</PAGE> tragen –
+<lb xml:id="letter_0208_003_tr_1_tl_5"/>Grüsse den Klaus, die Theres,
+<lb xml:id="letter_0208_003_tr_1_tl_6"/>u. komm nur bald wie im[m]er
+<lb xml:id="letter_0208_003_tr_1_tl_7"/>Dein Herz sich auch zu Berlin
+<lb xml:id="letter_0208_003_tr_1_tl_8"/>stellen mag –
+<lb xml:id="letter_0208_003_tr_1_tl_9"/>Sei gegrüsst von
+<lb xml:id="letter_0208_003_tr_1_tl_10"/>A.</div>
+      </body>
+   </text>
+</TEI>
