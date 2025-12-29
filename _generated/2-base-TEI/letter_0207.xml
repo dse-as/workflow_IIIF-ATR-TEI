@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0207" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0207#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0207</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0207_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415633"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Dienstag Nacht –</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_2"/>E. – Liebe, eben schrieb ich, ein kleines Kapitel, kaum 
+               <lb xml:id="p001_tr_1_tl_3"/>glaub ich es selbst, ich wollte Dir einen Brief schreiben, 
+               <lb xml:id="p001_tr_1_tl_4"/>ob Du den Schlüssel wieder gefunden hast, wer weiss wo 
+               <lb xml:id="p001_tr_1_tl_5"/>Du ihn in Salzburg hingesteckt haben sollst, ich hatte ihn 
+               <lb xml:id="p001_tr_1_tl_6"/>zw. meinen Taschentüchern u. gab ihn Dir nicht ohne inneren 
+               <lb xml:id="p001_tr_1_tl_7"/>Widerstand. Jetzt schreib ich ein winziges Kapitel u. bin 
+               <lb xml:id="p001_tr_1_tl_8"/>froh darüber.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_9"/>Welch ein Glück, welche tief Beruhigung dass man sich 
+               <lb xml:id="p001_tr_1_tl_10"/>hier um 9 Uhr gute Nacht sagt, dass man Stille, ein eigenes 
+               <lb xml:id="p001_tr_1_tl_11"/>Zimmer, viele Bücher hat</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_12"/>dass man plötzlich wieder schreiben kan[n], den[n] das ist wie 
+               <lb xml:id="p001_tr_1_tl_13"/>eine Bestätigung des Lebens. Eine ganz irrationale 
+               <lb xml:id="p001_tr_1_tl_14"/>Bestätigung.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_15"/>Erika, E. –, seit Sonntag u. noch viel mehr seit der 
+               <lb xml:id="p001_tr_1_tl_16"/>Ankunft hier schütze ich mich durch Deinen lieben Namen 
+               <lb xml:id="p001_tr_1_tl_17"/>es ist unablässig notwendig</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_18"/>Welche Atmosphäre herrscht, welche Veränderung, welches 
+               <lb xml:id="p001_tr_1_tl_19"/><hi rendition="#u">gründliche</hi> Abgeschnittensein! Und wohin gehöre ich? Warum 
+               <lb xml:id="p001_tr_1_tl_20"/><hi rendition="#u">sprechen mich weder Papa noch Mama eigentlich an</hi>? 
+               <lb xml:id="p001_tr_1_tl_21"/>Warum vermeiden sie das, warum übersehen Sie mich, 
+               <lb xml:id="p001_tr_1_tl_22"/>fragen kein Wort u. sind wieder einmal schmerzvoll 
+               <lb xml:id="p001_tr_1_tl_23"/>nicht einverstanden? Mit was, mit was! 
+               <lb xml:id="p001_tr_1_tl_24"/>Das ist nicht einmal ein Kompromiss, 
+               <lb xml:id="p001_tr_1_tl_25"/>das ist viel mehr u. für mich die Hölle.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_26"/>Ich frage mich auch etwa warum des süssen 
+               <lb xml:id="p001_tr_1_tl_27"/>Hasis Reitgeschichtlein bin u. Fredi in Lyon u. allsowas 
+               <lb xml:id="p001_tr_1_tl_28"/>richtiger, wichtiger, angehender sein soll?</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415634"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p> 
+               <lb xml:id="p002_tr_1_tl_1"/>Und meine sehr liebe Grossmama äussert sich 
+               <lb xml:id="p002_tr_1_tl_2"/>beküm[m]ert u. dass eben gegen soviel unnötige 
+               <lb xml:id="p002_tr_1_tl_3"/>Erschwernis u. Verbitterung, <hi rendition="#u">nichts</hi> helfen wolle 
+               <lb xml:id="p002_tr_1_tl_4"/>dass ich aber trotzdem bleiben möge.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_5"/>Wobei wir höchst vergnügt mit blonden 
+               <lb xml:id="p002_tr_1_tl_6"/>Vettern u. Cousinen Quadrille [Gemeinschaftstanz] üben was 
+               <lb xml:id="p002_tr_1_tl_7"/>ja auch hinwiederum was ganz Nettes hat 
+               <lb xml:id="p002_tr_1_tl_8"/>mit Bowle u. Kuchen u. die Kinder meiner 
+               <lb xml:id="p002_tr_1_tl_9"/>Schwester sind unwahrscheinlich süss.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_10"/>Genug, was fängt man mit solchen Berichten 
+               <lb xml:id="p002_tr_1_tl_11"/>an, Du bist hoffe ich ins Haus gekom[m]en u. 
+               <lb xml:id="p002_tr_1_tl_12"/>ich weiss vor lauter Verwirrung nur dass ich 
+               <lb xml:id="p002_tr_1_tl_13"/>gern, sehr gern bei Dir wäre was doch das 
+               <lb xml:id="p002_tr_1_tl_14"/>"Bocken" nicht ändern, nicht einmal 
+               <lb xml:id="p002_tr_1_tl_15"/>erleichtern kön[n]te. 
+               <lb xml:id="p002_tr_1_tl_16"/>(Wer geht mich etwas an)</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_17"/>Morgen probst Du mit Bert, u. ich habe 
+               <lb xml:id="p002_tr_1_tl_18"/>Dir noch gar nicht gesagt 
+               <lb xml:id="p002_tr_1_tl_19"/>wie schön es am Achensee war, 
+               <lb xml:id="p002_tr_1_tl_20"/>(Sag nur <hi rendition="#u">was</hi> ich meinen Eltern so 
+               <lb xml:id="p002_tr_1_tl_21"/>Abgrundschlechtes angetan habe?)</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_22"/>Küsse für Frau Giehse 
+               <lb xml:id="p002_tr_1_tl_23"/>Der Victory lief vortrefflich u. lässt 
+               <lb xml:id="p002_tr_1_tl_24"/>sich bescheiden empfehlen 
+               <lb xml:id="p002_tr_1_tl_25"/>Ich bleibe sehr Dein 
+               <lb xml:id="p002_tr_1_tl_26"/>Kind A.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
