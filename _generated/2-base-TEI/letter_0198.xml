@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0198" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0198#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0198</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0198_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415557"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>12. Oktober – [1931 – nach Niederschrift von Cromwell und vor Ricki Hallgartens Tod]</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_2"/>Eri-Liebling – die Eva hat sich, laut Telefon, enorm über deinen 
+               <lb xml:id="p001_tr_1_tl_3"/>und Klausens Brief gefreut. es geht ihr recht ordentlich, und mir <del rend="overstrike">sch</del> 
+               <lb xml:id="p001_tr_1_tl_4"/>schien es auch ganz als ob sie diese Art langwieriger Krankheit 
+               <lb xml:id="p001_tr_1_tl_5"/>als ein begründendes Ausfluchtmittel mehr oder weniger bewusst 
+               <lb xml:id="p001_tr_1_tl_6"/>gewählt hätte – es steht ihr auch so gut, und sie ist, gerade in diesem 
+               <lb xml:id="p001_tr_1_tl_7"/>Zustand sehr lieb – eine seltsame Verbindung von arm und hübsch und 
+               <lb xml:id="p001_tr_1_tl_8"/>traurig. Die Sybille Binder ist dauernd bei ihr – und natürlich die 
+               <lb xml:id="p001_tr_1_tl_9"/>andere Sybille aus Bandol – rührendes Geschöpf, und alles zusammen ist 
+               <lb xml:id="p001_tr_1_tl_10"/>recht grotesk und ein klein wenig betrüblich. Sehr freue ich mich 
+               <lb xml:id="p001_tr_1_tl_11"/>über Ricki zu lesen –</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_12"/>Sybille Binder hat übrigens sehr schön und ergreifend gespielt in 
+               <lb xml:id="p001_tr_1_tl_13"/>dem schrecklich dummen Stück vom 17. April – aber natürlich ist sie 
+               <lb xml:id="p001_tr_1_tl_14"/>keineswegs so drollig wie du – (Musst du dich gerade so und nicht 
+               <lb xml:id="p001_tr_1_tl_15"/>anders nennen?) Jch habe, meinerseits, dem Viechelscher ganz anderes und 
+               <lb xml:id="p001_tr_1_tl_16"/>sehr Vielseitiges von Dir vorerzählt, er muss es glauben, und auch vom 
+               <lb xml:id="p001_tr_1_tl_17"/>Kinderstück [Jans Wunderhündchen, verfasst 1931, Uraufführung am 14. Dez. 1932] und Darmstadt <hi rendition="#g">heute</hi> noch bringe ich ihm die Pho 
+               <lb xml:id="p001_tr_1_tl_18" break="no"/>tographie – Kennst du ihn, nebenbei? Er ist ein grosser Schwätzer, aber 
+               <lb xml:id="p001_tr_1_tl_19"/>auf gutmütige Weise – und er möchte mich gern "entdecken" – wenn nur ich 
+               <lb xml:id="p001_tr_1_tl_20"/>meinerseits von der Richtigkeit aller seiner Ratschläge über 
+               <lb xml:id="p001_tr_1_tl_21" break="no"/>zeugt wäre – und wenn ich, den Cromwell überlesend, nicht schon wieder 
+               <lb xml:id="p001_tr_1_tl_22"/>trotz grosser Sympathien für Text und Personen und ihe Redensarten – 
+               <lb xml:id="p001_tr_1_tl_23"/>überzeugt wäre dass man es eben nicht spielen wird – Und ich kann 
+               <lb xml:id="p001_tr_1_tl_24"/>mir nicht einmal darüber klar werden ob das nun meine unverzeihliche 
+               <lb xml:id="p001_tr_1_tl_25"/>Faulheit gegenüber dem Aerger, den Anpreisungen und Verhandlungen ist 
+               <lb xml:id="p001_tr_1_tl_26"/>oder ein halbwegs ernster und kritischer Einwand gegen meine 
+               <lb xml:id="p001_tr_1_tl_27"/>Befähigung – Jch möchte deshalb sehr gern, und auch überhaupt, dass ich 
+               <lb xml:id="p001_tr_1_tl_28"/>dir das Stück in München vorlese – Wann? Jch denke, in acht Tagen wird 
+               <lb xml:id="p001_tr_1_tl_29"/>alles so weit sein – denn schliesslich muss ich ja auch wieder nach 
+               <lb xml:id="p001_tr_1_tl_30"/>Berlin um meine Wohnung zeitig zu künden (<del rend="overstrike">ç</del> – schon scheint mir <PAGE tag="length">nä</PAGE> 
+               <lb xml:id="p001_tr_1_tl_31" break="no"/>lich – trotz reizender Menschen – der dortige Aufenthalt ins Provi 
+               <lb xml:id="p001_tr_1_tl_32" break="no"/>sorische zu neigen – E. – damit unsere Unterhaltungen über die provi 
+               <lb xml:id="p001_tr_1_tl_33" break="no"/>sorischen Situationen nur immer recht behalten –</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_34"/>Was schreibt der Klaus? Jch habe zwei Gedichte gemacht – ein ganz 
+               <lb xml:id="p001_tr_1_tl_35"/>dummer Einfall war das – mir scheint aber, ich habe dir das erste, <del rend="overstrike">gena</del> 
+               <lb xml:id="p001_tr_1_tl_36"/>genannt "Madonna von der Bergung" [das Gedicht ist m.W. nicht erhalten] – schon geschickt? Sonst bringe 
+               <lb xml:id="p001_tr_1_tl_37"/>ich es mit – wie auch den Branntwein aus dem Baur – [gemeint ist wohl das Hotel/Restaurant Baur auch Lac in Zürich]</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_38"/>Jnzwischen sah ich mit Fredi Trudi Schoop samt sehr schweizerischer 
+               <lb xml:id="p001_tr_1_tl_39"/>und tatsächlich verdientermassen drollig zu nennender Schülerschar – 
+               <lb xml:id="p001_tr_1_tl_40"/>das Kleintheater ist dauernd für sie ausverkauft, und morgen verreist 
+               <lb xml:id="p001_tr_1_tl_41"/>sie nach Paris wo sie im Casino weitere sechs Wochen tanzen soll – 
+               <lb xml:id="p001_tr_1_tl_42"/>jemand also, den man "arriviert" nennt, es sei ihr gegönnt –wenn man, 
+               <lb xml:id="p001_tr_1_tl_43"/>nach einem solchen Anlass, sich nur nicht wieder Sorgen machen 
+               <lb xml:id="p001_tr_1_tl_44"/>müsste über die Geheimnisse dessen was man ein "Ziel" oder innere 
+               <lb xml:id="p001_tr_1_tl_45"/>(innere?) Befriedigung nennt –</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_46"/>Adieu Eri – lass dich nicht quälen, auch vom Zahnkünstler nicht,</p>
+
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l"/>und sei geküsst von</p>
+
+            <milestone unit="textregion" xml:id="p001_r_112"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l_111"/>A.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
