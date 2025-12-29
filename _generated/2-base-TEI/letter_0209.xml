@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0209" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0209#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0209</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0209_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415638"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Don[n]erstag</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_2"/>E– sollte man's glauben – <hi rendition="#u">wie</hi> der Faist 
+               <lb xml:id="p001_tr_1_tl_3"/>die Hannah anruft u. ihr versichert 
+               <lb xml:id="p001_tr_1_tl_4"/>wie böse Ihr – u. wie gar nicht böse 
+               <lb xml:id="p001_tr_1_tl_5"/>er sei, u. wie doch keine Verstim[m]ung 
+               <lb xml:id="p001_tr_1_tl_6"/>aufkom[m]en soll wegen des Geldes – u. 
+               <lb xml:id="p001_tr_1_tl_7"/><hi rendition="#u">wie</hi> schreibfaul ich bin – Eri, u. wie 
+               <lb xml:id="p001_tr_1_tl_8"/>betrübt dass Du, Liebe, samt Klaus, 
+               <lb xml:id="p001_tr_1_tl_9"/>schon wieder fort bist – damals, 
+               <lb xml:id="p001_tr_1_tl_10"/>bei Stöckler, war ich von der 
+               <lb xml:id="p001_tr_1_tl_11"/>Lebensgefahr in die ich Dich gestürzt 
+               <lb xml:id="p001_tr_1_tl_12"/>hatte (Tramschiene) noch ganz 
+               <lb xml:id="p001_tr_1_tl_13"/>verstört, u., natürlich, der 
+               <lb xml:id="p001_tr_1_tl_14"/><hi rendition="#u">Schweizer</hi> Herkunft wegen, von 
+               <lb xml:id="p001_tr_1_tl_15"/>Schuldgefühl zernagt –</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_16"/>so dass ich Dir gar nicht mehr 
+               <lb xml:id="p001_tr_1_tl_17"/>begreiflich machen konnte wie 
+               <lb xml:id="p001_tr_1_tl_18"/>mies u. traurig mir wegen Eurer 
+               <lb xml:id="p001_tr_1_tl_19"/>Abreise zu Mute war –</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_20"/>Inzwischen war ich mit Faist u. 
+               <lb xml:id="p001_tr_1_tl_21"/>Dame Bernstein aus – u. traf 
+               <lb xml:id="p001_tr_1_tl_22"/>dabei den Wolfgang Hellmert, 
+               <lb xml:id="p001_tr_1_tl_23"/><hi rendition="#u">so</hi> blass u. krank, worauf er 
+               <lb xml:id="p001_tr_1_tl_24"/>mir auch erzählte, dass er 
+               <lb xml:id="p001_tr_1_tl_25"/>(mangels M?) [unfreiwilliger Morphium-Entzug?] einen rechten 
+               <lb xml:id="p001_l"/>Zusam[m]enbruch hinter sich habe –</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415639"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>Morgen abend kom[m]t er hierher – u. wir 
+               <lb xml:id="p002_tr_1_tl_2"/>werden uns still Eurer erinnern – [ev. Andeutung gemeinsamen Morphiumkonsums] 
+               <lb xml:id="p002_tr_1_tl_3"/><hi rendition="#u">Wie</hi> Du mir fehlen kannst, Eri-Liebling – 
+               <lb xml:id="p002_tr_1_tl_4"/>u. wie mir, augenblicklich, die Menschen 
+               <lb xml:id="p002_tr_1_tl_5"/>hier öde u. ganz u. gar unzulänglich 
+               <lb xml:id="p002_tr_1_tl_6"/>vorkom[m]en – mit Ausnahmen natürlich,</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_7"/>Aber gestern, beispielsweise, dinierte ich 
+               <lb xml:id="p002_tr_1_tl_8"/>wider mit Regendanz [Wilhelm Regendanz, Eigentümer Transmare-Verlag, siehe auch letter_0199] – u. <hi rendition="#u">will es nicht 
+                  <lb xml:id="p002_tr_1_tl_9"/>wieder tun</hi>; ich glaube, kurz u. offen, der 
+               <lb xml:id="p002_tr_1_tl_10"/>Mann verwechselt mich mit Inge [wahrscheinlich Ingeborg von Königswald, Mitarbeiterin Transmare] – 
+               <lb xml:id="p002_tr_1_tl_11"/>u. ich bin noch im[m]er nicht so weit, mich 
+               <lb xml:id="p002_tr_1_tl_12"/>richtig meiner Haut zu wehren –</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_13"/>Obwohl ich schon weiss wie unentbehrlich 
+               <lb xml:id="p002_tr_1_tl_14"/>es für die Würde u. Zuträglichkeit der 
+               <lb xml:id="p002_tr_1_tl_15"/>Daseins ist.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_16"/>Maria hat immens zu tun, u. ich 
+               <lb xml:id="p002_tr_1_tl_17"/>beschäftige mich mit in mich gekehrter 
+               <lb xml:id="p002_tr_1_tl_18"/>Leidenschaft allein, ohne sichtliches 
+               <lb xml:id="p002_tr_1_tl_19"/>Resultat, ziemlich traurig u. über 
+               <lb xml:id="p002_tr_1_tl_20" break="no"/>zeugt davon, mit dem Leben nur halb 
+               <lb xml:id="p002_tr_1_tl_21"/>fertig zu werden –</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_22"/>Wie treibt Ihr es indessen in Paris? 
+               <lb xml:id="p002_tr_1_tl_23"/>Gefällt es Dir in Deinem stillen 
+               <lb xml:id="p002_tr_1_tl_24"/>Zimmer? Gehst Du auch <hi rendition="#u">bestim[m]t nie</hi> 
+               <lb xml:id="p002_tr_1_tl_25"/>aus sondern bleibst ruhig bei Deiner 
+               <lb xml:id="p002_l"/>Tätigkeit – Grüsse für Klaus –</p>
+
+            <pb xml:id="p003" facs="https://www.monacensia-digital.de/i3f/v20/415640"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_1"/>und sag ihm, dass die Medikamente [Morphium] 
+               <lb xml:id="p003_tr_1_tl_2"/>noch in mir nachwirken – als 
+               <lb xml:id="p003_tr_1_tl_3"/>starke Versuchung – schreibe es aber 
+               <lb xml:id="p003_tr_1_tl_4"/>nicht Mama –! Sondern sei 
+               <lb xml:id="p003_tr_1_tl_5"/>versichert – dass die Versuchung 
+               <lb xml:id="p003_tr_1_tl_6"/>zu sehr an der Erinnerung 
+               <lb xml:id="p003_tr_1_tl_7"/>deiner Gegenwart haftet – 
+               <lb xml:id="p003_tr_1_tl_8"/>und sei geküsst von A. –</p>
+</div>
+       </body>
+    </text>
+ </TEI>
