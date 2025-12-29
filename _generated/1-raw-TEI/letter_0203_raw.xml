@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0203"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0203</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0203_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0203_001"
+                facs="https://www.monacensia-digital.de/i3f/v20/415610"/>
+            <milestone unit="textregion" xml:id="letter_0203_001_tr_1"/>
+            <lb xml:id="letter_0203_001_tr_1_tl_1"/>Bocken / Horgen
+<lb xml:id="letter_0203_001_tr_1_tl_2"/>Dienstag<CONV tag="p">
+<lb xml:id="letter_0203_001_tr_1_tl_3"/>Immer noch im Bett, undeutlich kritzelnd
+<lb xml:id="letter_0203_001_tr_1_tl_4"/>und ganz erschöpft durch ein Telefon mit
+<lb xml:id="letter_0203_001_tr_1_tl_5"/>Eva weil ich dazu aufstehen zuhören,
+<lb xml:id="letter_0203_001_tr_1_tl_6"/>laut sprechen musste – Es ist wirklich
+<lb xml:id="letter_0203_001_tr_1_tl_7"/>ein unwürdiger Zustand!</CONV><CONV tag="p">
+<lb xml:id="letter_0203_001_tr_1_tl_8"/>Soviel erfuhr ich:</CONV> <CONV tag="p">
+<lb xml:id="letter_0203_001_tr_1_tl_9"/>Dass Du heute Abend nach München fährst,
+<lb xml:id="letter_0203_001_tr_1_tl_10"/>aber noch nicht so bald wie ursprünglich
+<lb xml:id="letter_0203_001_tr_1_tl_11"/>geplant an den Waldensee –
+<lb xml:id="letter_0203_001_tr_1_tl_12"/>sondern sehr bald, um zu filmen (?) [ev. Filmaufnahmen zu Mädchen in Uniform (1931 in dem EM eine Nebenrolle spielte] wieder
+<lb xml:id="letter_0203_001_tr_1_tl_13"/>nach Berlin –</CONV><CONV tag="p">
+<lb xml:id="letter_0203_001_tr_1_tl_14"/>Und, da dies alles etwa 3 Wochen in
+<lb xml:id="letter_0203_001_tr_1_tl_15"/>Anspruch nehmen wird – willst Du
+<lb xml:id="letter_0203_001_tr_1_tl_16"/>wohl erst um den 1. Juli Schätzungs¬
+<lb xml:id="letter_0203_001_tr_1_tl_17"/>weise ins Gebirge reisen? Und willst Du
+<lb xml:id="letter_0203_001_tr_1_tl_18"/>mich dann immer noch, trotzdem,
+<lb xml:id="letter_0203_001_tr_1_tl_19"/>gleicherweise, mitnehmen?</CONV> [vertical space]<CONV tag="p">
+<lb xml:id="letter_0203_001_tr_1_tl_20"/>Was ich bis dahin unternehme, ist mir
+<lb xml:id="letter_0203_001_tr_1_tl_21"/>in meinem heutigen Zustand, völlig
+<lb xml:id="letter_0203_001_tr_1_tl_22"/>gleichgültig. Eigentlich sollte ich
+<lb xml:id="letter_0203_001_tr_1_tl_23"/>ja, wie ich Dir gestern schrieb, Hanna
+<lb xml:id="letter_0203_001_tr_1_tl_24"/>demnächst in München treffen. Aber ich
+<lb xml:id="letter_0203_001_tr_1_tl_25"/>glaube, so schnell werde ich gar nicht
+<lb xml:id="letter_0203_001_tr_1_tl_26"/>reisefähig sein.</CONV><pb xml:id="letter_0203_002"
+                facs="https://www.monacensia-digital.de/i3f/v20/415611"/>
+            <milestone unit="textregion" xml:id="letter_0203_002_tr_2"/><CONV tag="p">
+<lb xml:id="letter_0203_002_l_1"/>Was Eva plant, habe ich nicht ganz
+<lb xml:id="letter_0203_002_l_2"/>verstanden. (Sie hat es mir wohl
+<lb xml:id="letter_0203_002_tr_2_tl_7"/>auch gar nicht gesagt.) Sie fragte ob ich
+<lb xml:id="letter_0203_002_tr_2_tl_8"/>wirklich vielleicht an den Ammersee
+<lb xml:id="letter_0203_002_tr_2_tl_9"/>kom[m]en würde, woraus ich schliesse dass
+<lb xml:id="letter_0203_002_tr_2_tl_10"/>Evi sich mit Ricki nicht recht
+<lb xml:id="letter_0203_002_tr_2_tl_11"/>geeinigt hat. Ob ich ihr raten soll, vorher
+<lb xml:id="letter_0203_002_tr_2_tl_12"/>nach Zürich zu fahren – mit Rücksicht
+<lb xml:id="letter_0203_002_tr_2_tl_13"/>auf Dr. Katzenstein, aber nicht auf mich,
+<lb xml:id="letter_0203_002_tr_2_tl_14"/>den[n] ich bin, fürchte ich, zu trösten jetzt
+<lb xml:id="letter_0203_002_tr_2_tl_15"/>ganz schlecht geeignet, wen[n] auch voll guter
+<lb xml:id="letter_0203_002_tr_2_tl_16"/>Absicht.</CONV><CONV tag="p">
+<lb xml:id="letter_0203_002_tr_2_tl_17"/>Warum lassen sich die Menschen auch auf
+<lb xml:id="letter_0203_002_tr_2_tl_18"/>so viel Komplikationen ein. Ich denke im[m]er
+<lb xml:id="letter_0203_002_tr_2_tl_19"/>dass man sich das angesichts dessen was wirklich
+<lb xml:id="letter_0203_002_tr_2_tl_20"/>u. ernst ist, abgewöhnen könnte. Aber man
+<lb xml:id="letter_0203_002_tr_2_tl_21"/>weiss ja nicht was den Anderen Wirklichkeit ist.</CONV> [vertical space]<CONV tag="p">
+<lb xml:id="letter_0203_002_tr_2_tl_22"/>Schreib recht bald, Seidenprinz, wie für Dich
+<lb xml:id="letter_0203_002_tr_2_tl_23"/>die nächsten Wochen aussehen. Und wie
+<lb xml:id="letter_0203_002_tr_2_tl_24"/>demnach, schätzungsweise, für mich. Es
+<lb xml:id="letter_0203_002_tr_2_tl_25"/>betrübt mich eigentlich dass ich Dich
+<lb xml:id="letter_0203_002_tr_2_tl_26"/>vielleicht gar nicht so bald sehen soll,
+<lb xml:id="letter_0203_002_tr_2_tl_27"/>aber ich lasse mich nicht betrüben,
+<lb xml:id="letter_0203_002_tr_2_tl_28"/>ganz einfach. Mir liegt sogar mit Fieber, sehr
+<lb xml:id="letter_0203_002_tr_2_tl_29"/>daran Deine Zufriedenheit zu erringen.
+<lb xml:id="letter_0203_002_tr_2_tl_30"/>Nur dass sich dafür augenblicklich so
+<lb xml:id="letter_0203_002_tr_2_tl_31"/>gar nichts tun lässt!</CONV>
+<lb xml:id="letter_0203_002_tr_2_tl_32"/>Adieu E.-Liebling, hast Du eigentlich den
+<lb xml:id="letter_0203_002_tr_2_tl_33"/>"Bernhard" indessen bekommen? Sehr
+<lb xml:id="letter_0203_002_tr_2_tl_34"/>Deiner eingedenk –
+<lb xml:id="letter_0203_002_l_237"/>A.
+<lb xml:id="letter_0203_002_l"/>Bib u. Mädy lasse ich sehr grüssen, eben habe ich für sie
+<lb xml:id="letter_0203_002_l_46"/>Zeitungsbilder meines Reiterbruders Hansi bestellt.
+<lb xml:id="letter_0203_002_l_50"/>Und Grüße für Klaus!</div>
+      </body>
+   </text>
+</TEI>
