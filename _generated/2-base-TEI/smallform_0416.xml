@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0416" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0416#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0416</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0416"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0416_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211940_016%21zui-001_1940_016_0548.jpg"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l"/>Zwei Trachtenmädchen auf Schiff</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_2_tl_1"/>Tessiner und Bündner Tracht unter amerikanischer Flagge</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_2_tl_2"/>Diese beiden Trachtenmädchen spielen Bordtennis an Deck eines amerikanischen Dampfers; sie gehören 
+               <lb xml:id="p001_r_2_tl_3"/>zu einer Gruppe von sechzehn jungen Schweizerinnen, die im Schweizer Pavillon der New-Yorker 
+               <lb xml:id="p001_r_2_tl_4"/>Weltausstellung als Serviertöchter, Kassiererinnen, Empfangsdamen tätig sein werden.</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_2_tl_5"/>Sur le pont d'un navire américain, deux jeunes filles en costumes tessinois et grison jouant au tennis. Il s'agit 
+               <lb xml:id="p001_r_2_tl_6"/>de jeunes Suissesses, faisant partie d'un groupe de seize de nos compatriotes qui étaient occupées comme 
+               <lb xml:id="p001_r_2_tl_7"/>serveuses, caissières ou demoiselles de réception au Pavillon suisse de l'Exposition mondiale de New-York.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
