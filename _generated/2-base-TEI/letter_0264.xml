@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0264" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0264#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0264</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0264_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415340"/>
+            <milestone unit="textregion" xml:id="p001_tr_3"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_3_tl_1"/>[Kreuz] Siasconset, P.B. 66 
+               <lb xml:id="p001_tr_3_tl_2"/>[Kreuz] Nantucket Island, Mass. 
+               <lb xml:id="p001_tr_3_tl_3"/>23. Juli 1940</p>
+            <p> 
+               <lb xml:id="p001_tr_3_tl_4"/>das Datum, das ich soeben ausfindig machen musste, erschreckt 
+               <lb xml:id="p001_tr_3_tl_5"/>mich nicht wenig. Da sitze ich also schon wieder seit Wochen im vom Golf 
+               <lb xml:id="p001_tr_3_tl_6" break="no"/>strom gespeisten Insel-Nebel, und habe Dir noch nicht einmal geschrieben, 
+               <lb xml:id="p001_tr_3_tl_7"/>auch keinen Prospekt und keine Geldgeber-Liste der Zeitschrift von Dir 
+               <lb xml:id="p001_tr_3_tl_8"/>erhalten, und gleich wird es Herbst sein. Wüsste ich nur, ob ich nach Alaska 
+               <lb xml:id="p001_tr_3_tl_9"/>oder in die Mongolei fahre, aber auch darüber weiss ich nichts. Und ich 
+               <lb xml:id="p001_tr_3_tl_10"/>fing mehrmals an, Dir einen Brief zu schreiben, es wurde nichts daraus. Ich 
+               <lb xml:id="p001_tr_3_tl_11"/>weiss nicht, wie Dir, der Du im sonnigen Brentwood vielleicht und hoffent 
+               <lb xml:id="p001_tr_3_tl_12" break="no"/>lich doch ein äusserlich und innerlich ordnungsmässiges Leben führst, 
+               <lb xml:id="p001_tr_3_tl_13"/>erzählen, was bei immer alles <hi rendition="#g">nicht</hi> stimmt. Es wäre natürlich ganz 
+               <lb xml:id="p001_tr_3_tl_14"/>und gar verfehlt, das aufzuschreiben, worüber Margot und ich halbe Tage u. 
+               <lb xml:id="p001_tr_3_tl_15"/>Nächte lang reden, so intensiv und ehrlich b[sic]on beiden Seiten, dass man sich 
+               <lb xml:id="p001_tr_3_tl_16"/>fast um Kopf und Kragen redet. Denn was von allen minor difficulties und 
+               <lb xml:id="p001_tr_3_tl_17"/>allen im Moment empfindlich schmerzenden Anlässen schliesslich übrig 
+               <lb xml:id="p001_tr_3_tl_18"/>bleibt, ist doch: dass ich in der so oder so gearteten Umgebung mich zwar 
+               <lb xml:id="p001_tr_3_tl_19"/>leicht adaptiere, auch nichts entgegen zu setzen habe, aber unglücklich 
+               <lb xml:id="p001_tr_3_tl_20"/>bin, weil ich noch nicht sesshaft, auch wiederum von keiner Umgebung über 
+               <lb xml:id="p001_tr_3_tl_21" break="no"/>zeugt bin, sie sei die meinige. Und vielleicht ist es wirklich so, dass ich 
+               <lb xml:id="p001_tr_3_tl_22"/>"unglücklich sein will", d.h. die Spannungen von aussen brauche, und darum 
+               <lb xml:id="p001_tr_3_tl_23"/>schon wieder auf die Landstrasse möchte. Es handelt sich nicht darum, ob 
+               <lb xml:id="p001_tr_3_tl_24"/>Margot nach Alaska oder die Wüstenei mitgehen <hi rendition="#g">würde</hi>, den               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l_149"/>Today first news from E A 
+               <lb xml:id="p001_l_135"/>Hotel Mayfair L. very 
+               <lb xml:id="p001_l_142"/>gay and <del rend="overstrike">optimistic</del> stop 
+               <lb xml:id="p001_l_128"/>confident 
+               <lb xml:id="p001_l"/>letter [?] I shall be [?] Clark middle 
+               <lb xml:id="p001_l_121"/>of Sept. writing you 
+               <lb xml:id="p001_l_156"/>love K. [womöglich Hand von KM selbst, Handschrift scheint seine]</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415341"/>
+            <milestone unit="textregion" xml:id="p002_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_2_tl_1"/> </p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+            <p> 
+               <lb xml:id="p002_tr_2_tl_1"/>denn dann wäre es für mich, ja nicht der Aufbruch und das von Allem 
+               <lb xml:id="p002_tr_2_tl_2"/>weggehen, – wohl aber ist in mir der Verdacht wach, dieses Weggehen sei 
+               <lb xml:id="p002_tr_2_tl_3"/>eine Neigung, dem Schicksal auszuweichen. – – Nein, ich kann mich nicht 
+               <lb xml:id="p002_tr_2_tl_4"/>darauf einlassen, der Sache nach – und auf den Grund zu gehen. Jedenfalls 
+               <lb xml:id="p002_tr_2_tl_5"/>aber ist es doch klar, dass für den Anderen, für Margot, nur übrig bleibt: 
+               <lb xml:id="p002_tr_2_tl_6"/>ich sei zum Zusammenleben und zur Liebe nicht fähig und nicht bereit. 
+               <lb xml:id="p002_tr_2_tl_7"/>Am Wenigsten wirst Du verstehen, dass der Anlass zu einer so intensiven 
+               <lb xml:id="p002_tr_2_tl_8"/>Krise jenes Mädchen Carson Mac[sic] Cullers war, die schwer krank ist, und in 
+               <lb xml:id="p002_tr_2_tl_9"/>einer so merkwürdig abseitigen Vorstellungswelt lebt, dass man ihr mit 
+               <lb xml:id="p002_tr_2_tl_10"/>keiner Realität auch nur beikommen kann. Und während ich glaube, mit aller 
+               <lb xml:id="p002_tr_2_tl_11"/>behandelnden, erwägenden Vorsicht vorgegangen zu sein, erwartet sie, ich 
+               <lb xml:id="p002_tr_2_tl_12"/>würde, da ich doch ihr Schicksal sei, morgen oder eines Tages kommen. Ihr 
+               <lb xml:id="p002_tr_2_tl_13"/>Mann hat sie nun deswegen verlassen. Margot hat natürlich recht, zu sagen, 
+               <lb xml:id="p002_tr_2_tl_14"/>an solchen Dingen <hi rendition="#g">sei</hi> man nicht unschuldig.</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_15"/>Nun, genug. Solche Stichworte können Dir nur spanisch vorkommen. Ich lege 
+               <lb xml:id="p002_tr_2_tl_16"/>auch erneut Gewicht darauf, diese Vorkommnisse seien nur der Anlass, warum 
+               <lb xml:id="p002_tr_2_tl_17"/>ich einerseits meine kleinen Arbeiten nur mit der linken Hand tu, und das 
+               <lb xml:id="p002_tr_2_tl_18"/>ist abscheulich deprimierend, denn ich werde nichts Gutes schreiben, wenn 
+               <lb xml:id="p002_tr_2_tl_19"/>ich nicht glaube, jede Seite sei wichtiger als alles andere auf der Welt. 
+               <lb xml:id="p002_tr_2_tl_20"/>Und warum ich andererseits so hart nachdenken muss, über die Umstände mei 
+               <lb xml:id="p002_tr_2_tl_21" break="no"/>nes Lebens, sodass alles ins Wanken kommt. Ich fürchte mich und bin ratlos. 
+               <lb xml:id="p002_tr_2_tl_22"/>In anderen Zeiten wäre ich schnell in die Schweiz gefahren. Jetzt wäre das 
+               <lb xml:id="p002_tr_2_tl_23"/>doch mindestens unvernünftig. Wie lange bleibt Ihr, E. und Du, denn im Westen? 
+               <lb xml:id="p002_tr_2_tl_24"/>Ich sitze am Schweizer Aufsatz, – bin überhaupt, nebenbei, fleissig. Und nun 
+               <lb xml:id="p002_tr_2_tl_25"/>berichte, bitte, grüsse allerseits aufs' Innigste und Herzlichste, –</p>
+
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l"/>und wundere Dich nicht allzu sehr [handschriftlich ergänzt auf der Seite &gt; add] 
+               <lb xml:id="p002_l_92"/>über mich. In aller Zärtlichkeit 
+               <lb xml:id="p002_l_99"/>à toi. 
+               <lb xml:id="p002_l_106"/>Miro</p>
+</div>
+       </body>
+    </text>
+ </TEI>
