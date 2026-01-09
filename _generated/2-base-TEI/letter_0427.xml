@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0427" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0427#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0427</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0427_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.e-manuscripta.ch/i3f/v20/5289948"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>7. Mai [1934] 
+               <lb xml:id="p001_tr_1_tl_2"/>Lieber Hasi! Deine Sorge um den 
+               <lb xml:id="p001_tr_1_tl_3"/>Haushalt ist verständlich, doch 
+               <lb xml:id="p001_tr_1_tl_4"/>wird Mama Dich morgen davon 
+               <lb xml:id="p001_tr_1_tl_5"/>befreien. Dass es dem Victory u. Dir 
+               <lb xml:id="p001_tr_1_tl_6"/>wohl ergeht, freut mich. Von mir ist 
+               <lb xml:id="p001_tr_1_tl_7"/>dasselbe zu sagen. Seit ich von 
+               <lb xml:id="p001_tr_1_tl_8"/>Berlin weg bin, schlafe ich täglich 
+               <lb xml:id="p001_tr_1_tl_9"/>einige Stunden länger. Wie soll das 
+               <lb xml:id="p001_tr_1_tl_10"/>noch enden! Leider leider habe ich 
+               <lb xml:id="p001_tr_1_tl_11"/>noch keine rechte Nachricht ob ich 
+               <lb xml:id="p001_tr_1_tl_12"/>nun in Berlin im Rundfunk 
+               <lb xml:id="p001_tr_1_tl_13" break="no"/>bureau sehr fein sitzen oder mich 
+               <lb xml:id="p001_tr_1_tl_14"/>mit gar nicht feinen Zeitungs 
+               <lb xml:id="p001_tr_1_tl_15" break="no"/>schreibern abplagen soll. Doch ist das 
+               <lb xml:id="p001_tr_1_tl_16"/>gar nicht so wichtig, ich lerne 
+               <lb xml:id="p001_tr_1_tl_17"/>bereits dass es die Hauptsache ist, 
+               <lb xml:id="p001_tr_1_tl_18"/>das <hi rendition="#u">wirklich</hi> Wichtige anständig 
+               <lb xml:id="p001_tr_1_tl_19"/>u. still zu tun, das nämlich 
+               <lb xml:id="p001_tr_1_tl_20"/>wozu man ein bischen Talent hat, 
+               <lb xml:id="p001_tr_1_tl_21"/>verstärkt durch Entschlusskraft.</p>
+
+            <pb xml:id="p002" facs="https://www.e-manuscripta.ch/i3f/v20/5289949"/>
+            <milestone unit="textregion" xml:id="p002_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_2_tl_1"/>So man gesund u. vergnügt ist u. 
+               <lb xml:id="p002_tr_2_tl_2"/>ein paar gute Freunde hat, darf 
+               <lb xml:id="p002_tr_2_tl_3"/>man von "Sorgen" überhaupt nicht 
+               <lb xml:id="p002_tr_2_tl_4"/>reden.</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_5"/>So weit das Geschäftliche. Nun das 
+               <lb xml:id="p002_tr_2_tl_6"/>Liebliche.</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_7"/>Krachs gar nicht in Frage, denke ich. 
+               <lb xml:id="p002_tr_2_tl_8"/>Erika lässt Dich grüssen. Sie macht 
+               <lb xml:id="p002_tr_2_tl_9"/>in 8 Tagen die mächtige 10 000 km 
+               <lb xml:id="p002_tr_2_tl_10"/>Fahrt mit [vgl. Briefe an Erika Mann], das ist verrückt, aber 
+               <lb xml:id="p002_tr_2_tl_11"/>vielleicht hält sie es aus. Ich fahre 
+               <lb xml:id="p002_tr_2_tl_12"/>von hier möglichst rasch nach Frank 
+               <lb xml:id="p002_tr_2_tl_13" break="no"/>reich um Hanna Kiel zu treffen. Dan[n] 
+               <lb xml:id="p002_tr_2_tl_14"/>schlafe ich im Auto noch 4 Wochen. 
+               <lb xml:id="p002_tr_2_tl_15"/>Dan[n] sollte ich wieder arbeitsfähig 
+               <lb xml:id="p002_tr_2_tl_16"/>sein. Schreib wen[n] Du die Autoprüfung 
+               <lb xml:id="p002_tr_2_tl_17"/>hast. Schreib jetzt gleich ein Kärtchen 
+               <lb xml:id="p002_tr_2_tl_18"/>was für Nachrichten Ihr von Paps 
+               <lb xml:id="p002_tr_2_tl_19"/>habt. Und Grüsse Mameli u. 
+               <lb xml:id="p002_tr_2_tl_20"/>Em[m]y tausendmal.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_2_tl_21"/>Ich Grüsse Dich als treue Schwester 
+               <lb xml:id="p002_tr_2_tl_23"/>Annemarie 
+               <lb xml:id="p002_tr_2_tl_22"/>Grüsse in Zürich an Willes 
+               <lb xml:id="p002_tr_2_tl_24"/>u. Arndts! 
+               <lb xml:id="p002_l"/>Marken u. Kuss für Nono!</p>
+</div>
+       </body>
+    </text>
+ </TEI>
