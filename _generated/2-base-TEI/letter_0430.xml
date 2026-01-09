@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0430" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0430#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0430</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0430_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.e-manuscripta.ch/i3f/v20/5289963"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Estoril-Lisboa, 28. April [1942] 
+               <lb xml:id="p001_tr_1_tl_2"/>Pensao Boa Ventura 
+               <lb xml:id="p001_tr_1_tl_3"/>Mein lieber Hasi,</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_4"/>ich habe die Anweisung der Bank über Schw. frs. 1000.- 
+               <lb xml:id="p001_tr_1_tl_5"/>(in Escudos) bekom[m]en, u. danke Dir herzlich für die rasche 
+               <lb xml:id="p001_tr_1_tl_6"/>Übersendung. Ich werde damit, wie gesagt, gerade auskom[m]en 
+               <lb xml:id="p001_tr_1_tl_7"/>können, einschliesslich der Reise nach Tetouan, u. hoffentlich 
+               <lb xml:id="p001_tr_1_tl_8"/>auch der Reise von dort bis in die Schweiz, - obwohl in der Zwischenzeit 
+               <lb xml:id="p001_tr_1_tl_9"/>der Dollar noch stark gefallen ist, u. ich, aus eher angenehmen 
+               <lb xml:id="p001_tr_1_tl_10"/>Gründen, meinen Aufenthalt hier auf Wunsch von Herrn Minister 
+               <lb xml:id="p001_tr_1_tl_11"/>Martin um ca 2 Wochen verlängere: er war offenbar über meine 2 
+               <lb xml:id="p001_tr_1_tl_12"/>Artikel über Transportfragen sehr zufrieden, sodass er mich letzte Woche 
+               <lb xml:id="p001_tr_1_tl_13"/>durch einen mir ungemein günstigen Brief beim hiesigen Leiter der 
+               <lb xml:id="p001_tr_1_tl_14"/>Propagande Nationale eingeführt hat, einem sehr wichtigen Herrn 
+               <lb xml:id="p001_tr_1_tl_15"/>der zu einem Besuch in die Schwier eingeladen ist. In diesem Zusam 
+               <lb xml:id="p001_tr_1_tl_16" break="no"/>menhang hatten M. Martin u. er mit Herrn Bittel (Office Suisse du 
+               <lb xml:id="p001_tr_2_tl_1"/>Tourismo) ein Program[m] zur "Intensifierung der Bezieuhungen beider 
+               <lb xml:id="p001_tr_2_tl_2"/>Länder" besprochen, in dessen Ausführung – Artikel über Portugal – 
+               <lb xml:id="p001_tr_2_tl_3"/>ich nun vorgeschlagen wurde. Dies bedeutet zwar viel Ehre – aber enorm 
+               <lb xml:id="p001_tr_2_tl_4"/>viel Arbeit. Aber selbst wen[n] ich es hätte wollen (den[n] ich möchte 
+               <lb xml:id="p001_tr_2_tl_5"/>endlich in die Schweiz) – hätte ich diesen Vorschlag nicht Ablehnen 
+               <lb xml:id="p001_tr_2_tl_6"/>können, ohne M. Martin u. viele Leute zu enttäuschen, die hier so 
+               <lb xml:id="p001_tr_2_tl_7"/>viel für mich getan haben. Ich hoffe also, dass mir das Visum 
+               <lb xml:id="p001_tr_2_tl_8"/>verlängert wird. Da gerade Dr. Hartman[n] von den NZ.Z. für 14 Tage 
+               <lb xml:id="p001_tr_2_tl_9"/>eintraf, habe ich auch noch eine Art Konkurrenzkampf betreffs 
+               <lb xml:id="p001_tr_2_tl_10"/>Schnelligkeit, Berichungen etc auszufechten, der mich recht ermüdet.</p>
+            <p> 
+               <lb xml:id="p001_tr_2_tl_11"/>Ja, Hasi, – aber oft, wen[n] ich hier so 
+               <lb xml:id="p001_tr_2_tl_12"/>verwöhnt werde, - u. wen[n] ich solches Heimweh nach der Schwiez 
+               <lb xml:id="p001_tr_2_tl_13"/>habe, – frage ich mich, was mich dort wohl erwantet. Ich bin 
+               <lb xml:id="p001_tr_2_tl_14"/>oft sehr, sehr bekümmert, – mehr als jemals während noch so 
+               <lb xml:id="p001_tr_2_tl_15"/>ernster Schwierigkeiten in Afrika: u. wen[n] ich mir Rechenschaft 
+               <lb xml:id="p001_tr_2_tl_16"/>gebe, was der Grund dazu ist, weiss ich, dass es einzig das 
+               <lb xml:id="p001_tr_2_tl_17"/>Verhalten ist, das ich von zu Hause erfahre, von Mama, – 
+               <lb xml:id="p001_l"/>u. jetzt etwa auch von Dir?</p>
+
+            <pb xml:id="p002" facs="https://www.e-manuscripta.ch/i3f/v20/5289964"/>
+            <pb xml:id="p003" facs="https://www.e-manuscripta.ch/i3f/v20/5289965"/>
+            <milestone unit="textregion" xml:id="p003_r_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_l_2"/><hi rendition="#u">2</hi></p>
+
+            <milestone unit="textregion" xml:id="p003_r"/>            <p> 
+               <lb xml:id="p003_tr_2_tl_1"/>Lieber Hasi, ich habe lange gezögert Dir etwas darüber zu sagen, 
+               <lb xml:id="p003_tr_2_tl_2"/>u. falls ich Dir Unrecht tue, falls z. B. Briefe verloren gegangen, 
+               <lb xml:id="p003_tr_2_tl_3"/>sind, dann bitte ich im Voraus um Entschuldigung. Aber ich 
+               <lb xml:id="p003_l_1"/>bin jetzt fast 4 Wochen hier, – u. nach welcher Abwesenheit, – 
+               <lb xml:id="p003_tr_2_tl_7"/>wie ist es möglich, dass alle Freunde mir berichten, nur 
+               <lb xml:id="p003_tr_2_tl_8"/>ausgerechnet Ihr nicht, die Ihr mir am nächsten steht? 
+               <lb xml:id="p003_tr_2_tl_9"/>Alte freuen sich, – freuen sich, mich gesund zu wissen, – u. verstehen 
+               <lb xml:id="p003_tr_2_tl_10"/>u. schätzen es irgendwie, dass ich mich, nun schon seit langer 
+               <lb xml:id="p003_tr_2_tl_11"/>Zeit, aus grössten moralischen u. gesundheitlichen Krisen befreit 
+               <lb xml:id="p003_tr_2_tl_12"/>habe. Nur von zu Hause nie ein freundliches Wort.</p>
+            <p> 
+               <lb xml:id="p003_tr_2_tl_13"/>Und wie lange ist es schon so. Im Jahre1935 habe ich offiziell 
+               <lb xml:id="p003_tr_2_tl_14"/>geheiratet. Die Ehe bestand nie wirklich, u. schon im Herbst habe 
+               <lb xml:id="p003_tr_1_tl_1"/>ich meinen Irrtum erkan[n]t: dass ich nicht auf einer falschen 
+               <lb xml:id="p003_tr_1_tl_2"/>Basis leben kan[n], selbst wie diese mich äusserlich vor den Schwrierig 
+               <lb xml:id="p003_tr_1_tl_3" break="no"/>keiten geschützt hätte, die schon damals wegen meines so schon kom 
+               <lb xml:id="p003_tr_1_tl_4" break="no"/>plizierten Verhältnisses mit Mama bestanden. Aber obwohl Mama 
+               <lb xml:id="p003_tr_1_tl_5"/>dies genau übersah, – u. es hätte nichtig finden sollen, dass ich in 
+               <lb xml:id="p003_l"/>die Schweiz zurückkehrte, – wird heute noch diese Ehe herange 
+               <lb xml:id="p003_tr_1_tl_8" break="no"/>zogen, we[n] es sich darum handelt, mir meine ganz natürlichen 
+               <lb xml:id="p003_tr_1_tl_9"/>Rechte in der Schweiz u. in der Familie abzustreiten. u. Niemand [sic] 
+               <lb xml:id="p003_tr_1_tl_10"/>denkt daran, mir zu helfen, um meine Tage wieder zu normalisieren. 
+               <lb xml:id="p003_tr_1_tl_11"/>In Amerika habe ich dan[n] einen letzten Fehler gemacht: Aber als 
+               <lb xml:id="p003_tr_1_tl_12"/>ich im Oktober fort wollte, – womit die spätere Katastrophe ver 
+               <lb xml:id="p003_tr_1_tl_13" break="no"/>meiden werden wäre, – hat Mama mir "verboten", in die Schweiz 
+               <lb xml:id="p003_tr_1_tl_14"/>zu Reisen ... Als ich dan[n], noch sehr erschöpft, aber voll guten 
+               <lb xml:id="p003_tr_1_tl_15"/>Wilens, endlich "zurückgeschickt" wurde u. heim kam, – welcher 
+               <lb xml:id="p003_tr_1_tl_16"/>Empfang! Vorwürfe, – falsche Beschuldigungen, – u. ich musste 
+               <lb xml:id="p003_tr_1_tl_17"/>bei Busy wohnen, musste Sils durch fremde, hilfsbereite Menschen 
+               <lb xml:id="p003_tr_1_tl_18"/>mieten lassen, um diesen einzigen Ort nicht zu verlieren, wo ich 
+               <lb xml:id="p003_tr_3_tl_1"/>so etwas wie zuhause bin.</p>
+            <p> 
+               <lb xml:id="p003_tr_3_tl_2"/>Und jetzt? Ich war schlecht beraten, als ich die Afrika-Reise unter 
+               <lb xml:id="p003_tr_3_tl_3"/>heutigen Umständen wagte. Aber ich habe mich in schwierigsten Lagen 
+               <lb xml:id="p003_tr_3_tl_4"/>– die Du vielleicht nicht ganz ermisst – so gehalten u. durchgesetzt, 
+               <lb xml:id="p003_tr_3_tl_5"/>dass ich gesund, mit einem Manuskript, zurückgekommen bin: dank 
+               <lb xml:id="p003_tr_3_tl_6"/>der Hilfe von Menschen, die mich offenbar genügend geschätzt 
+               <lb xml:id="p003_tr_3_tl_7"/>haben.</p>
+
+            <pb xml:id="p004" facs="https://www.e-manuscripta.ch/i3f/v20/5289966"/>
+            <pb xml:id="p005" facs="https://www.e-manuscripta.ch/i3f/v20/5289967"/>
+            <milestone unit="textregion" xml:id="p005_r_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p005_l"/><hi rendition="#u">3</hi></p>
+
+            <milestone unit="textregion" xml:id="p005_r"/>            <p> 
+               <lb xml:id="p005_tr_2_tl_1"/>Ich bedaure dieses Jahr in Afrika nicht, – den[n] we[n] es [add above line: mich] auch äusserlich 
+               <lb xml:id="p005_tr_2_tl_3"/>in eine sehr prekäre Situation, u. in Gefahr gebracht hat (wegen meiner 
+               <lb xml:id="p005_tr_2_tl_4"/>"deutschen" Herkunft, u. meiner rechtlichen Schutzlosigkeit als Frau eines Franzosen 
+               <lb xml:id="p005_tr_2_tl_5"/>im Dienst v. Vichy) habe ich persönlich durch diese Erfahrung viel gelernt, 
+               <lb xml:id="p005_tr_2_tl_6"/>viele Ansichten revidiert, viele persönliche Schwächen überwunden, die mich 
+               <lb xml:id="p005_tr_2_tl_7"/>früher oft so unglücklich gemacht haben. Es machte mir nur Kum[m]er, 
+               <lb xml:id="p005_tr_2_tl_8"/>dass ich Euch vielleicht Sorgen bereiten würde – u. ich schrieb Dir 
+               <lb xml:id="p005_tr_2_tl_9"/>darüber ja genug, auch von Lissabon aus: Aber jetzt frage ich mich, ob 
+               <lb xml:id="p005_tr_2_tl_10"/>ich mir diesen Kummer nicht lieber hätte ersparen sollen: Macht Mama sich 
+               <lb xml:id="p005_tr_2_tl_11"/>– machst Du Dir meinetwegen überhaupt zuweilen Gedanken?</p>
+            <p> 
+               <lb xml:id="p005_tr_2_tl_12"/>Ach Hasi, es ist wohl falsch, eine solche Frage zu stellen. Ich müsste seit 
+               <lb xml:id="p005_tr_2_tl_13"/>Jahren wissen, dass ich immer mit einer unkorrigierbaren Liebe an Euch 
+               <lb xml:id="p005_tr_2_tl_14"/>u. besonders an Mama hing, u. immer, bei jeder Heinkehr, wie man so 
+               <lb xml:id="p005_tr_2_tl_15"/>sagt, "eines auf den Kopf bekam" –</p>
+            <p> 
+               <lb xml:id="p005_tr_2_tl_16"/>Dass man vielleicht glaubte, mit mir in Manchem, was ich tat, nicht 
+               <lb xml:id="p005_tr_2_tl_17"/>einverstanden zu sein, ist keine Erklärung. Den[n] was ich vielleicht falsch 
+               <lb xml:id="p005_tr_2_tl_18"/>machte, habe ich am bittersten selber bezahlt, u. habe in meinem 
+               <lb xml:id="p005_tr_1_tl_1"/>schwierigen leben von zuhause nicht viel Rat u. Hilfe gehabt. Mir würde 
+               <lb xml:id="p005_tr_1_tl_2"/>es nie einfallen, meine Geschwister jemals zu "kritisieren", noch kan[n] 
+               <lb xml:id="p005_tr_1_tl_3"/>ich mir vorstellen, je so gleichgültig u. kalt gegen sie zu sein, wie ich 
+               <lb xml:id="p005_tr_1_tl_4"/>es jetzt wieder an mir erfahren muss: Kein Gruss, kein Rat, keine Hilfe. 
+               <lb xml:id="p005_tr_1_tl_5"/>Schau, Hasi: falls Du mir etwas vorzuwerfen hart, so musst Du es 
+               <lb xml:id="p005_tr_1_tl_6"/>deutlich sagen. Aber einem Anderen, auch der eigenen Schwester, 
+               <lb xml:id="p005_tr_1_tl_7"/>kan man nur Vorwürfe machen nach dem Mass der Liebe, das man 
+               <lb xml:id="p005_tr_1_tl_8"/>ihr gibt ...</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p005_tr_1_tl_9"/>Aber lassen wir das alles - es ist zu traurig, u. darüber nachzudenken, 
+               <lb xml:id="p005_tr_1_tl_10"/>bedrückt u. entmutigt mich, nachdem ich ein Jahr lang, ganz allein, 
+               <lb xml:id="p005_tr_1_tl_11"/>immer mutig war, immer für mich einstehen kon[n]te. – Aber denk Du 
+               <lb xml:id="p005_tr_1_tl_12"/>vielleicht einmal nach, wie ich eigentlich mein Leben einrichten soll, 
+               <lb xml:id="p005_tr_1_tl_13"/>um es erträglich zu machen, u. zugleich so, dass es Euch passt: 
+               <lb xml:id="p005_tr_1_tl_14"/>ich habe es Dir klar genug geschildert, dass ich nirgens eine Aufent 
+               <lb xml:id="p005_tr_1_tl_15" break="no"/>haltserlaubnis, noch die Mittel habe, um zu bleiben, – u. dies wegen 
+               <lb xml:id="p005_tr_1_tl_16"/>einer falschen Nationalität, zu der ich keinerlei Beziehung habe – 
+               <lb xml:id="p005_tr_1_tl_17"/>Claude schrieb mir, in seiner zutiefst loyaten u. humanen Art, 
+               <lb xml:id="p005_tr_1_tl_18"/>er werde alles dazu beitragen, um die von mir gewünschte Tren[n]ung 
+               <lb xml:id="p005_tr_1_tl_19"/>zu erreichen – aber es wird lange dauern. Inzwischen muss ich</p>
+
+            <pb xml:id="p006" facs="https://www.e-manuscripta.ch/i3f/v20/5289968"/>
+            <pb xml:id="p007" facs="https://www.e-manuscripta.ch/i3f/v20/5289969"/>
+            <milestone unit="textregion" xml:id="p007_r_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p007_l_1"/>4</p>
+
+            <milestone unit="textregion" xml:id="p007_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p007_tr_2_tl_1"/>irgendwo leben, – u. selbstverständlich in der Schweiz, wohin 
+               <lb xml:id="p007_tr_2_tl_2"/>ich gehöre, u. wozu meine Bindungen immer stärker wurden. 
+               <lb xml:id="p007_tr_2_tl_3"/>Ich nehme, nach der Ansicht der Leute auf der Gesandtschaft, 
+               <lb xml:id="p007_tr_2_tl_4"/>an, dass ich das Visum für längere Dauer leicht erhalten 
+               <lb xml:id="p007_tr_2_tl_5"/>werde – u. werde Dir über die Daten meiner Abreise von 
+               <lb xml:id="p007_tr_2_tl_6"/>hier, dann von Tetouan, noch berichten.</p>
+            <p> 
+               <lb xml:id="p007_tr_2_tl_7"/>Inzwischen entschließt Du Dich vielleicht doch, mir 
+               <lb xml:id="p007_tr_2_tl_8"/>zu schreiben, u. mir auch zu erklären, was das Still 
+               <lb xml:id="p007_tr_2_tl_9" break="no"/>schweigen von Mama zu bedeuten hat. Schau, ich habe 
+               <lb xml:id="p007_tr_1_tl_1"/>geglaubt, nach so viel Schwerem fähig zu sein, schlichthin 
+               <lb xml:id="p007_tr_1_tl_2"/>jede äussere Lage zu ertragen, – u. ich glaube, dass ich 
+               <lb xml:id="p007_tr_1_tl_3"/>für mich hicht viel beanspruche. Aber es gibt Dinge, 
+               <lb xml:id="p007_tr_1_tl_4"/>die mir mehr antun als alles, – u. dazu gehört diese 
+               <lb xml:id="p007_tr_1_tl_5"/>entsetzliche Lieblosigkeit, die ich empfinde – vielleicht 
+               <lb xml:id="p007_tr_1_tl_6"/>täusche ich mich? Du denkst vielleicht nur nicht darüber 
+               <lb xml:id="p007_tr_1_tl_7"/>nach, weil Du verwöhnt bist, akzeptiert, in einem sicheren 
+               <lb xml:id="p007_tr_1_tl_8"/>Leben? – Jedenfalls, lieber Hasi, wünsche ich Dir, Adrienne 
+               <lb xml:id="p007_tr_1_tl_9"/>u. Euren Kindern inzwischen alles Gute, u. hoffe, Euch 
+               <lb xml:id="p007_l"/>bald gesund alle wiederzusehen. An Mama schreibe ich 
+               <lb xml:id="p007_tr_1_tl_12"/>bald.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p007_tr_1_tl_13"/>Herzlichst wie stets 
+               <lb xml:id="p007_tr_1_tl_14"/>Deine 
+               <lb xml:id="p007_tr_1_tl_15"/>An[n]emarie</p>
+
+            <pb xml:id="p008" facs="https://www.e-manuscripta.ch/i3f/v20/5289970"/></div>
+       </body>
+    </text>
+ </TEI>
