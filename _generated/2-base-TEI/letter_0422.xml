@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0422" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0422#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0422</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0422_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.e-manuscripta.ch/i3f/v20/5289907"/>
+            <milestone unit="textregion" xml:id="p001_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_2_tl_1"/>[Jan / Feb. 1936] 
+               <lb xml:id="p001_tr_2_tl_2"/>PALACE HOTEL [ACHTUNG: Es handelt sich hier wohl nicht um den Schreibort, da sie unten schreibt, dass sie in Sils-Baselgia alleine ist und dort das Telefon nicht hört!] 
+               <lb xml:id="p001_tr_2_tl_3"/>HANS BADRUTT 
+               <lb xml:id="p001_tr_2_tl_4"/>S<hi rendition="#sup">T</hi> MORITZ 
+               <lb xml:id="p001_tr_2_tl_5"/><hi rendition="#u">Son[n]tag</hi></p>
+
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Liebster Hasi, ich kom[m]e gerade von der 
+               <lb xml:id="p001_tr_1_tl_2"/>Corviglia zurück u. warte auf Leute, 
+               <lb xml:id="p001_tr_1_tl_3"/>die mit dem Bähnchen herunterkom[m]en 
+               <lb xml:id="p001_tr_1_tl_4"/>(das gibt es auch!) u. meinen Merzedes 
+               <lb xml:id="p001_tr_1_tl_5" break="no"/>schlüssel in der Tasche haben. Es ist 
+               <lb xml:id="p001_tr_1_tl_6"/>jetzt mit dem Schnee u. der Son[n]e 
+               <lb xml:id="p001_tr_1_tl_7"/>wunderbar, mich habe einen 
+               <lb xml:id="p001_tr_1_tl_8"/>englischen Captain geschlagen, der 
+               <lb xml:id="p001_tr_1_tl_9"/>im[m]er so angibt als wolle er mich 
+               <lb xml:id="p001_tr_1_tl_10"/>den Berg heruntertragen, es ist wirklich, 
+               <lb xml:id="p001_tr_1_tl_11"/>pure Angabe. Du musst Dir aber nicht 
+               <lb xml:id="p001_tr_1_tl_12"/>vorstellen dass ich deswegen sehr gut 
+               <lb xml:id="p001_tr_1_tl_13"/>auf Skie bin, aber hier ist das 
+               <lb xml:id="p001_tr_1_tl_14"/>Niveau ja lächerlich. Jedenfalls 
+               <lb xml:id="p001_l"/>merke ich (<hi rendition="#u">endlich</hi>!) dass es nur jetzt</p>
+
+            <pb xml:id="p002" facs="https://www.e-manuscripta.ch/i3f/v20/5289908"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>ganz gut geht. Margot war nur <hi rendition="#u">4</hi> 
+               <lb xml:id="p002_tr_1_tl_2"/>Tage da, weil sie irgendwo anders 
+               <lb xml:id="p002_tr_1_tl_3"/>eine kränkere Dame, u. ihre Schwester, 
+               <lb xml:id="p002_tr_1_tl_4"/>treffen musste. Sie ist jetzt Hotel 
+               <lb xml:id="p002_tr_1_tl_5"/>Du Parc., Montana, Wallis. Wegen dem 
+               <lb xml:id="p002_tr_1_tl_6"/>Pullower [sic] <del rend="overstrike">s</del> macht es nichts, ich lasse 
+               <lb xml:id="p002_tr_1_tl_7"/>ihn ihr nachschicken. Sie, Margot, 
+               <lb xml:id="p002_tr_1_tl_8"/>war wieder haarig nett. Das Allein 
+               <lb xml:id="p002_tr_1_tl_9" break="no"/>wohnen in Sils ist aber ganz 
+               <lb xml:id="p002_tr_1_tl_10"/>angenehm, weil ich dann besser 
+               <lb xml:id="p002_tr_1_tl_11"/>arbeiten kan, das tu ich vormittags 
+               <lb xml:id="p002_tr_2_tl_1"/>bis halb 2 Uhr, u. dan[n] wieder 
+               <lb xml:id="p002_tr_2_tl_2"/>abends. In der Zwischenzeit ergehe 
+               <lb xml:id="p002_tr_2_tl_3"/>ich mich auf Skies u. mit allerlei 
+               <lb xml:id="p002_tr_2_tl_4"/>Volk. Dass Mein Telefon nie 
+               <lb xml:id="p002_tr_2_tl_5"/>antwortet, höre ich allgemein, 
+               <lb xml:id="p002_tr_2_tl_6"/>man hört es eben nur in <hi rendition="#u">einer</hi> 
+               <lb xml:id="p002_l"/>Stube, das ist ein Manko.</p>
+
+            <pb xml:id="p003" facs="https://www.e-manuscripta.ch/i3f/v20/5289909"/>
+            <milestone unit="textregion" xml:id="p003_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_1"/>PALACE HOTEL 
+               <lb xml:id="p003_tr_1_tl_2"/>HANS BADRUTT 
+               <lb xml:id="p003_tr_1_tl_3"/>S<hi rendition="#sup">T</hi> MORITZ 
+               <lb xml:id="p003_tr_1_tl_4"/>Dass Du für die Olympiade trainierst, 
+               <lb xml:id="p003_tr_1_tl_5"/>finde ich fein. Es macht mich 
+               <lb xml:id="p003_tr_1_tl_6"/>immer neidisch, wen jemand auf 
+               <lb xml:id="p003_tr_1_tl_7"/>einem so hübschen Gebiet wie 
+               <lb xml:id="p003_tr_1_tl_8"/>Sport soviel kan[n], es muss ein 
+               <lb xml:id="p003_tr_1_tl_9"/>glattes Leben sein! Aber, seitdem 
+               <lb xml:id="p003_tr_1_tl_10"/>ich wieder richtig arbeite, steigt, 
+               <lb xml:id="p003_tr_1_tl_11"/>sowieso mein moralisches Wohl 
+               <lb xml:id="p003_tr_1_tl_12" break="no"/>befinden auch. Hast Du gesehen, 
+               <lb xml:id="p003_tr_2_tl_1"/>ich hatte in 3 Wochen 2 Serien [hier gemeint: Fotoserie in einer Fotoreportage] 
+               <lb xml:id="p003_l"/>in der Zürcher Illustrierten, 
+               <lb xml:id="p003_tr_2_tl_4"/>ein Flussübergang, wo Claude 
+               <lb xml:id="p003_tr_2_tl_5"/>mit Beduinen am gleichen Seil 
+               <lb xml:id="p003_l_2"/>zieht, u. dan[n] "Libanon im Schnee".</p>
+
+            <pb xml:id="p004" facs="https://www.e-manuscripta.ch/i3f/v20/5289910"/>
+            <milestone unit="textregion" xml:id="p004_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_2_tl_1"/>Claude wird übrigens vielleicht 
+               <lb xml:id="p004_tr_2_tl_2"/>nach Bern versetzt, aber Du 
+               <lb xml:id="p004_tr_2_tl_3"/>musst Nicht darüber reden, 
+               <lb xml:id="p004_tr_2_tl_4"/>u. Papa findet es nur mittel 
+               <lb xml:id="p004_tr_2_tl_5" break="no"/>günstig.</p>
+            <p> 
+               <lb xml:id="p004_tr_2_tl_6"/>Vorgestern ist der Merzedes in 
+               <lb xml:id="p004_tr_2_tl_7"/>der "Garage" eingefroren, trotz 
+               <lb xml:id="p004_tr_2_tl_8"/>Glysantino, aber der Kühler 
+               <lb xml:id="p004_tr_1_tl_1"/>ist nicht geplatzt.</p>
+            <p> 
+               <lb xml:id="p004_tr_1_tl_2"/>Frl. Jäger (Beth) lässt Dich grüssen, 
+               <lb xml:id="p004_tr_1_tl_3"/>ich habe bei ihnen in Celerina 
+               <lb xml:id="p004_tr_1_tl_4"/>gegessen. Sie u. ihr Bruder fahren 
+               <lb xml:id="p004_tr_1_tl_5"/>gut Skie.</p>
+            <p> 
+               <lb xml:id="p004_tr_1_tl_6"/>So, adieu – Du hast doch sicher 
+               <lb xml:id="p004_tr_1_tl_7"/>fast nicht Zeit zum Briefelesen. 
+               <lb xml:id="p004_tr_1_tl_8"/>Was für Pferde hast Du?</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_1_tl_9"/>Alles liebe, u. noch viel Glück</p>
+
+            <milestone unit="textregion" xml:id="p004_r_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_l"/>Deine Schwester 
+               <lb xml:id="p004_l_1"/>Annemarie</p>
+</div>
+       </body>
+    </text>
+ </TEI>
