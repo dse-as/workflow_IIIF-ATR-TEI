@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0408"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0408</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0408_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0408_001"
+                facs="https://www.e-manuscripta.ch/i3f/v20/5289819"/>
+            <milestone unit="textregion" xml:id="letter_0408_001_tr_1"/>
+            <lb xml:id="letter_0408_001_tr_1_tl_1"/>6. Nov. 28.<CONV tag="p">
+<lb xml:id="letter_0408_001_l_4"/>Mein lieber Hasi, Dein Brief hat
+<lb xml:id="letter_0408_001_l_2"/>mich furchtbar gefreut, es ist
+<lb xml:id="letter_0408_001_l_3"/>glaube ich zum ersten Mal dass
+<lb xml:id="letter_0408_001_l_5"/>einer von Euch mir schreibt
+<lb xml:id="letter_0408_001_l_7"/>ohne auf ein Karte oder einen
+<lb xml:id="letter_0408_001_l_1"/>Brief von mir zu antworten!
+<lb xml:id="letter_0408_001_l_9"/>Wie dun[n] dass ich Brunos Geburtstag
+<lb xml:id="letter_0408_001_l_6"/>vergessen habe, ich habe geglaubt
+<lb xml:id="letter_0408_001_l"/>es sei 30. November! Nun
+<lb xml:id="letter_0408_001_l_8"/>denkt er ich sei sehr nachlässig
+<lb xml:id="letter_0408_001_l_12"/>Frau Matta [?] kan[n]st Du bitte bei
+<lb xml:id="letter_0408_001_l_11"/>Gelegenheit grüssen, ich schreibe ihr
+<lb xml:id="letter_0408_001_l_10"/>bald auf ihren lieben Brief.
+<lb xml:id="letter_0408_001_l_13"/>Auch Pfr. Merz grüsse von mir.</CONV>
+<lb xml:id="letter_0408_001_l_15"/>Je Deinem Blinddarm¬
+<lb xml:id="letter_0408_001_l_16"/>freund würde ich entschieden<pb xml:id="letter_0408_002"
+                facs="https://www.e-manuscripta.ch/i3f/v20/5289820"/>
+            <milestone unit="textregion" xml:id="letter_0408_002_tr_2"/>
+            <lb xml:id="letter_0408_002_tr_2_tl_1"/>schreiben, aber Du musst aufpassen
+<lb xml:id="letter_0408_002_tr_2_tl_2"/>dass er nicht sich an Dich
+<lb xml:id="letter_0408_002_tr_2_tl_3"/>hängt wie an einen Anker,
+<lb xml:id="letter_0408_002_l_1"/>sonst geht er Dir nur auf die
+<lb xml:id="letter_0408_002_tr_2_tl_7"/>Nerven.<CONV tag="p">
+<lb xml:id="letter_0408_002_l_2"/>Wie geht es Fredi in der Schule?
+<lb xml:id="letter_0408_002_tr_2_tl_11"/>Und was macht Meme?</CONV><CONV tag="p">
+<lb xml:id="letter_0408_002_tr_2_tl_12"/>Die Kramer – u. solche
+<lb xml:id="letter_0408_002_l_3"/>Affären habe ich vergessen, das<PAGE tag="strikethrough">s</PAGE>
+<lb xml:id="letter_0408_002_l"/>sind Klatschgeschichten, nicht wert
+<lb xml:id="letter_0408_002_tr_2_tl_18"/>sich Energie damit zu verschwenden!</CONV><CONV tag="p">
+<lb xml:id="letter_0408_002_l_4"/>ich schaffe interessante
+<lb xml:id="letter_0408_002_l_6"/>Sachen, heute morgen habe ich
+<lb xml:id="letter_0408_002_l_8"/>"Klinische Psychologie" in einem
+<lb xml:id="letter_0408_002_tr_2_tl_28"/>Spital. Heute Abend gehe ich mit
+<lb xml:id="letter_0408_002_l_5"/>einer Russin, einer Dänin u. einer
+<lb xml:id="letter_0408_002_l_15"/>deutschen in ein Konzert. Haarig
+<lb xml:id="letter_0408_002_l_9"/>nette Leute sind hier. So, für
+<lb xml:id="letter_0408_002_l_11"/>heute Schluss. Auf Wiedersehen
+<lb xml:id="letter_0408_002_tr_2_tl_41"/>Hasiman[n]!</CONV>
+<lb xml:id="letter_0408_002_l_10"/>Deine An[n]emarie<milestone unit="textregion" xml:id="letter_0408_002_r"/>
+            <lb xml:id="letter_0408_002_l_12"/>Grüsse <PAGE tag="underlined">alle</PAGE> auf Bocken
+<lb xml:id="letter_0408_002_l_13"/>u. sag Meme ich schreibe
+<lb xml:id="letter_0408_002_l_14"/>auch bald!</div>
+      </body>
+   </text>
+</TEI>
