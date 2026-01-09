@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0428"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0428</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0428_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0428_001"
+                facs="https://www.e-manuscripta.ch/i3f/v20/5289953"/>
+            <milestone unit="textregion" xml:id="letter_0428_001_tr_1"/>
+            <lb xml:id="letter_0428_001_tr_1_tl_1"/>Adr. ab Ende Mai:
+<lb xml:id="letter_0428_001_tr_1_tl_2"/>Consulat de France
+<lb xml:id="letter_0428_001_tr_1_tl_4"/>Tetouan, Maroc Espagnol.
+<lb xml:id="letter_0428_001_tr_1_tl_3"/>Estoril bei Lissabon,
+<lb xml:id="letter_0428_001_tr_1_tl_5"/>20. Mai 1942
+<lb xml:id="letter_0428_001_tr_1_tl_6"/>Mein lieber Hasi!<CONV tag="p">
+<lb xml:id="letter_0428_001_tr_1_tl_7"/>Ich bekam Deinen zweiten Brief gestern auf der
+<lb xml:id="letter_0428_001_tr_1_tl_8"/>Gesandtschaft, zusammen mit einem lieben Brief
+<lb xml:id="letter_0428_001_tr_1_tl_9"/>von Mama, u. danke Die vielmals, mir Deine
+<lb xml:id="letter_0428_001_tr_1_tl_10"/>Bedenken noch schnell mitgeteilt zu haben. Du
+<lb xml:id="letter_0428_001_l"/>siehst ja aus meinen gestrigen langen Brief, dass
+<lb xml:id="letter_0428_001_l_1"/>ich mir keine ungerechten Hoffnungen mache u.
+<lb xml:id="letter_0428_001_l_2"/>mir einfach von meiner Seite Mühe geben werde.</CONV><CONV tag="p">
+<lb xml:id="letter_0428_001_tr_1_tl_17"/>Inzwischen habe ich also meinen
+<lb xml:id="letter_0428_001_tr_1_tl_18"/>Pass u. bekom[m]e heute das Schweizer Visum: Sobald
+<lb xml:id="letter_0428_001_l_3"/>im Flugplatz zu haben ist, fliege ich – via Madrid
+<lb xml:id="letter_0428_001_tr_1_tl_21"/>Sevilla, vielleicht bis Sevilla mit Bumy Lüscher, –
+<lb xml:id="letter_0428_001_tr_1_tl_22"/>nach Tetouan u. berichte dann wieder, bevor ich von
+<lb xml:id="letter_0428_001_tr_1_tl_23"/>dort nach der Schweiz abreise.</CONV><CONV tag="p">
+<lb xml:id="letter_0428_001_l_4"/>Gestern wurde ich bei Dr. Antonio Ferro empfangen,
+<lb xml:id="letter_0428_001_tr_1_tl_26"/>welcher als der bedeutendste Mann des Staates nach
+<lb xml:id="letter_0428_001_tr_1_tl_27"/>Dr. Salazar gilt – er sagte mir sehr nett, er habe
+<lb xml:id="letter_0428_001_l_5"/>von allen Seiten gehört, "wie sehr man mich liebe", u.
+<lb xml:id="letter_0428_001_tr_1_tl_30"/>dass ich die Eroberung von Lissabon gemacht hätte:
+<lb xml:id="letter_0428_001_tr_1_tl_31"/>das freute mich den[n] doch – Und jedenfalls steht mir
+<lb xml:id="letter_0428_001_tr_1_tl_32"/>die Möglichkeit offen, hier zu arbeiten, wenn ich will –</CONV>
+<lb xml:id="letter_0428_001_tr_1_tl_33"/>In Eile – Geburtstagswünsche – u. alles
+<lb xml:id="letter_0428_001_tr_1_tl_34"/>Liebe, auch an Adrienne!
+<lb xml:id="letter_0428_001_tr_1_tl_35"/>Deine
+<lb xml:id="letter_0428_001_tr_1_tl_36"/>An[n]emarie<pb xml:id="letter_0428_002"
+                facs="https://www.e-manuscripta.ch/i3f/v20/5289954"/>
+         </div>
+      </body>
+   </text>
+</TEI>
