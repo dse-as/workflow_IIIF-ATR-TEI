@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0425" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0425#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0425</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0425_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.e-manuscripta.ch/i3f/v20/5289934"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Lieber Mömann!</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_2"/>Mama dankt Dir für das Telegram[m] 
+               <lb xml:id="p001_tr_1_tl_3"/>doch ist es sehr schade, dass Du nicht 
+               <lb xml:id="p001_tr_1_tl_4"/>auf Weihnacht kom[m]st! Mama tele 
+               <lb xml:id="p001_tr_1_tl_5" break="no"/>graphierte Ma, doch diese antwortete, 
+               <lb xml:id="p001_tr_1_tl_6"/>sie könne leider nicht kommen. – Da 
+               <lb xml:id="p001_tr_1_tl_7"/>komm doch wenigstens Du. Es wäre 
+               <lb xml:id="p001_tr_1_tl_8"/>fein, wen Du mit uns nach Zuoz 
+               <lb xml:id="p001_tr_1_tl_9"/>gingest. Das würde so lustig. Du 
+               <lb xml:id="p001_tr_1_tl_10"/>kan[n]st einfach plötzlich erscheinen vor 
+               <lb xml:id="p001_tr_1_tl_11"/>Weihnacht.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_12"/>Morgen haben wir Pagen-Weih¬</p>
+
+            <pb xml:id="p002" facs="https://www.e-manuscripta.ch/i3f/v20/5289935"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1" break="no"/>nacht hier in Bocken! Das wird 
+               <lb xml:id="p002_tr_1_tl_2"/>hoffentlich fein. Wir sind jetzt 
+               <lb xml:id="p002_tr_1_tl_3"/>schon 12. 
+               <lb xml:id="p002_tr_1_tl_4"/>Gell, Du kom[m]st? 
+               <lb xml:id="p002_tr_1_tl_5"/>Viele Grüße von Annemarie. 
+               <lb xml:id="p002_tr_1_tl_6"/>(auch die Buben u. alle andern grüßen)</p>
+</div>
+       </body>
+    </text>
+ </TEI>
