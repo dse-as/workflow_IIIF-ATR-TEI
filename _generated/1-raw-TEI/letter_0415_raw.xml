@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0415"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0415</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0415_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0415_001"
+                facs="https://www.e-manuscripta.ch/i3f/v20/5289860"/>
+            <milestone unit="textregion" xml:id="letter_0415_001_r"/>
+            <lb xml:id="letter_0415_001_l"/>A.S [Papier-Prägung/letterhead]
+<lb xml:id="letter_0415_001_tr_1_tl_1"/>Boeren, 10. Febr. 2[unleserlich].
+<lb xml:id="letter_0415_001_tr_1_tl_2"/>[von anderer Hand:]24
+<lb xml:id="letter_0415_001_l_1"/>Lieber Mömann!<CONV tag="p">
+<lb xml:id="letter_0415_001_l_2"/>Jetzt ist es schon wieder
+<lb xml:id="letter_0415_001_l_3"/>eine halbe Ewigkeit her,
+<lb xml:id="letter_0415_001_tr_1_tl_9"/>seit ich Dir geschrieben
+<lb xml:id="letter_0415_001_tr_2_tl_1"/>habe, ich weiss zwar nicht
+<lb xml:id="letter_0415_001_tr_2_tl_2"/>genau wan[n] das war!</CONV><CONV tag="p">
+<lb xml:id="letter_0415_001_tr_2_tl_3"/>Habt Ihr noch Schnee in Schweden?
+<lb xml:id="letter_0415_001_tr_2_tl_4"/>Ich denke schon, <PAGE tag="strikethrough">ab</PAGE> den[n] bei
+<lb xml:id="letter_0415_001_tr_2_tl_5"/>uns ist wieder alles weiss.</CONV>
+<lb xml:id="letter_0415_001_tr_2_tl_6"/>Vorgestern hatte ich Vortragsübung<pb xml:id="letter_0415_002"
+                facs="https://www.e-manuscripta.ch/i3f/v20/5289861"/>
+            <milestone unit="textregion" xml:id="letter_0415_002_r"/>
+            <lb xml:id="letter_0415_002_l_1"/>un Konservatorium. Ich habe
+<lb xml:id="letter_0415_002_tr_1_tl_4"/>zweimal etwas Verkehrtes gespielt
+<lb xml:id="letter_0415_002_tr_1_tl_5"/>u. wäre fast steckengeblieben, aber
+<lb xml:id="letter_0415_002_tr_1_tl_6"/>die Leute, u. auch Mama u.
+<lb xml:id="letter_0415_002_l"/>Em[m]y, haben gefunden, es sei
+<lb xml:id="letter_0415_002_tr_1_tl_9"/>sehr schön gewesen!<CONV tag="p">
+<lb xml:id="letter_0415_002_l_3"/>Ich war aber doch froh, als es
+<lb xml:id="letter_0415_002_tr_1_tl_13"/>vorbei war!</CONV><CONV tag="p">
+<lb xml:id="letter_0415_002_l_2"/>Pedy war über eine Woche im
+<lb xml:id="letter_0415_002_l_4"/>Bett, als er von Zuoz heim¬
+<lb xml:id="letter_0415_002_l_5"/>kam. Aber jetzt sind alle
+<lb xml:id="letter_0415_002_tr_2_tl_7"/>gesund.</CONV>
+<lb xml:id="letter_0415_002_l_6"/>Suz will im Frühling für die<pb xml:id="letter_0415_003"
+                facs="https://www.e-manuscripta.ch/i3f/v20/5289862"/>
+            <milestone unit="textregion" xml:id="letter_0415_003_tr_1"/>
+            <lb xml:id="letter_0415_003_l"/>Ferien nach England "z.[um] englisch
+<lb xml:id="letter_0415_003_l_1"/>lernen", gell, die ist anfangs
+<lb xml:id="letter_0415_003_tr_1_tl_5"/>unternehmungslustig. Mich
+<lb xml:id="letter_0415_003_l_3"/>nimmt sie nicht mit, trotz¬
+<lb xml:id="letter_0415_003_l_2"/>dem Ich auch englisch
+<lb xml:id="letter_0415_003_tr_1_tl_11"/>lerner sollte –,
+<lb xml:id="letter_0415_003_l_8"/>[p]Und in 2 Wochen reist Emmy
+<lb xml:id="letter_0415_003_l_4"/>ab nach Amerika, <PAGE tag="strikethrough">gl</PAGE> es
+<lb xml:id="letter_0415_003_l_6"/>ist jetzt bestimmt. (Aber ohne
+<lb xml:id="letter_0415_003_tr_1_tl_19"/>Herr Schniegraf[?], weißt Du
+<lb xml:id="letter_0415_003_l_5"/>noch die Fledermaus?)
+<lb xml:id="letter_0415_003_tr_1_tl_22"/>Fredi hat seine elektrische
+<lb xml:id="letter_0415_003_l_7"/>Lokomotive noch nicht<pb xml:id="letter_0415_004"
+                facs="https://www.e-manuscripta.ch/i3f/v20/5289863"/>
+            <milestone unit="textregion" xml:id="letter_0415_004_tr_1"/>
+            <lb xml:id="letter_0415_004_tr_1_tl_1"/>fertig. Aber er baut sonst
+<lb xml:id="letter_0415_004_l"/>schöne Bahnen mit Beleuchtung,
+<lb xml:id="letter_0415_004_tr_1_tl_4"/>u. Hasi macht den ganzen
+<lb xml:id="letter_0415_004_l_1"/>Tag Indianerpfeile –.
+<lb xml:id="letter_0415_004_l_2"/>Also viele Grüße, auch
+<lb xml:id="letter_0415_004_tr_1_tl_9"/>an Herrn u. Frau Öhman[n]
+<lb xml:id="letter_0415_004_tr_1_tl_10"/>u. Ma, u. dan[n] an Gerda
+<lb xml:id="letter_0415_004_tr_1_tl_11"/>natürlich,
+<lb xml:id="letter_0415_004_tr_1_tl_12"/>von Zwerg
+<lb xml:id="letter_0415_004_tr_1_tl_13"/>[hs Suszanne]Auch viele Grüße Sus.<pb xml:id="letter_0415_005"
+                facs="https://www.e-manuscripta.ch/i3f/v20/5289864"/>
+            <milestone unit="textregion" xml:id="letter_0415_005_tr_1"/>
+            <lb xml:id="letter_0415_005_tr_1_tl_1"/>10.2.1929
+<lb xml:id="letter_0415_005_tr_1_tl_2"/>Herrn T. E. Ohman
+<lb xml:id="letter_0415_005_tr_1_tl_3"/>Saltsjø - Dufnas
+<lb xml:id="letter_0415_005_tr_1_tl_4"/>bei Stodchohn
+<lb xml:id="letter_0415_005_tr_1_tl_5"/>Schweden<pb xml:id="letter_0415_006"
+                facs="https://www.e-manuscripta.ch/i3f/v20/5289865"/>
+         </div>
+      </body>
+   </text>
+</TEI>
