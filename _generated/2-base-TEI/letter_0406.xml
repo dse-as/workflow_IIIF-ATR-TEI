@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0406" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0406#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0406</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0406_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.e-manuscripta.ch/i3f/v20/5289805"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l"/>Fotografie eines Jungen, der mit einem Feldstecher in einen See hinausblickt.</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Cher Papa qui c'est sa? avec ces lunettes 
+               <lb xml:id="p001_tr_1_tl_2"/>qui regarde su le lac? Moi je suis allé à 
+               <lb xml:id="p001_tr_1_tl_3"/>Arn chez le Schmied pour faire mon Velo – 
+               <lb xml:id="p001_tr_1_tl_4"/>alors demain je vais chez le Schmied à 
+               <lb xml:id="p001_tr_1_tl_5"/>Horgen; il doit faire mon Velo; il est 
+               <lb xml:id="p001_l_1"/>cassé. – Chez nous il a pleu – Et en</p>
+
+            <pb xml:id="p002" facs="https://www.e-manuscripta.ch/i3f/v20/5289806"/>
+            <milestone unit="textregion" xml:id="p002_r_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l"/>baise ton Pedy. – 
+               <lb xml:id="p002_l_1"/>Che Pape – gestern hab' ich meine Soldatene 
+               <lb xml:id="p002_l_2"/>geholt;  Am u. morgen i. d. 4t machen 
+               <lb xml:id="p002_l_3"/>wir die erste Schlacht. – Ich thu dem 
+               <lb xml:id="p002_l_4"/>Hasi sei Pferd scheeren. - Liebe Grüsse 
+               <lb xml:id="p002_l_5"/>theine Annemarie 
+               <lb xml:id="p002_l_6"/>Un baise, 
+               <lb xml:id="p002_l_7"/>Hasi. –</p>
+
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l_8"/>An den 
+               <lb xml:id="p002_l_9"/>Comandanten d. Bat. 56 ad. ist. 
+               <lb xml:id="p002_l_10"/>Herr Magri : Gst. Schwarzenbach 
+               <lb xml:id="p002_l_11"/><hi rendition="#u">Bat. 56</hi></p>
+</div>
+       </body>
+    </text>
+ </TEI>
