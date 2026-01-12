@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0433"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0433</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0433_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0433_001"
+                facs="https://www.e-manuscripta.ch/i3f/v20/5294150"/>
+            <milestone unit="textregion" xml:id="letter_0433_001_tr_1"/>
+            <lb xml:id="letter_0433_001_tr_1_tl_3"/>Bocken den 12 [unleserlich] [add from Above: Sept.]
+<lb xml:id="letter_0433_001_tr_1_tl_4"/>Lieber Papa!
+<lb xml:id="letter_0433_001_tr_1_tl_5"/>Wir waren Sonntag
+<lb xml:id="letter_0433_001_tr_1_tl_6"/>in Meilen. Süzannee <PAGE tag="strikethrough">S</PAGE>strickt
+<lb xml:id="letter_0433_001_tr_1_tl_7"/>für den Ameisenverein eine
+<lb xml:id="letter_0433_001_tr_1_tl_8"/>kleine Hose. Ich habe von
+<lb xml:id="letter_0433_001_tr_1_tl_9"/>Mama eine Karte. Ich danke
+<lb xml:id="letter_0433_001_tr_1_tl_10"/>Dir viel mal für den Brief
+<lb xml:id="letter_0433_001_tr_1_tl_11"/>Peterli hat jetzt nicht mehr
+<lb xml:id="letter_0433_001_tr_1_tl_12"/>die Mauser. Ich kann Wello<pb xml:id="letter_0433_002"
+                facs="https://www.e-manuscripta.ch/i3f/v20/5294151"/>
+            <milestone unit="textregion" xml:id="letter_0433_002_tr_1"/>
+            <lb xml:id="letter_0433_002_tr_1_tl_1"/>fahren, Suzanne auch;
+<lb xml:id="letter_0433_002_tr_1_tl_2"/>aber weist Du ich komm
+<lb xml:id="letter_0433_002_tr_1_tl_4"/>nicht auf den Boden [add from above: Pedalle] und
+<lb xml:id="letter_0433_002_tr_1_tl_5"/>muss fahren wie mann [sic] auf
+<lb xml:id="letter_0433_002_tr_1_tl_6"/>Damenwello aufsteigt, und dann
+<lb xml:id="letter_0433_002_tr_1_tl_7"/><PAGE tag="strikethrough">si</PAGE> bin ich etwas schief we¬
+<lb xml:id="letter_0433_002_tr_1_tl_8"/>gez der Stan<PAGE tag="strikethrough">t</PAGE>ge. Gestern Mor¬
+<lb xml:id="letter_0433_002_tr_1_tl_9"/>gen bin ich fe<PAGE tag="strikethrough">s</PAGE>st hinge¬
+<lb xml:id="letter_0433_002_tr_1_tl_10"/>fallen, wo ich vor Fräulein
+<lb xml:id="letter_0433_002_tr_1_tl_11"/>Straub rundergefahren bin
+<lb xml:id="letter_0433_002_tr_1_tl_12"/>ich kann mein Knie kaum<pb xml:id="letter_0433_003"
+                facs="https://www.e-manuscripta.ch/i3f/v20/5294152"/>
+            <milestone unit="textregion" xml:id="letter_0433_003_tr_1"/>
+            <lb xml:id="letter_0433_003_tr_1_tl_1"/>bigen u. Vorgestern hat mich
+<lb xml:id="letter_0433_003_tr_1_tl_2"/>Fredi an die Mauer gestossen
+<lb xml:id="letter_0433_003_tr_1_tl_4"/>das ich <PAGE tag="strikethrough">es</PAGE> [add from above: dises auch] nich bigen konnte
+<lb xml:id="letter_0433_003_tr_1_tl_5"/>mann siet nichts aber es tut weh
+<lb xml:id="letter_0433_003_tr_1_tl_6"/>ich hab allein gellernt fahren
+<lb xml:id="letter_0433_003_tr_1_tl_7"/>Viele Grüsse Dein
+<lb xml:id="letter_0433_003_tr_1_tl_8"/>Fritz<pb xml:id="letter_0433_004"
+                facs="https://www.e-manuscripta.ch/i3f/v20/5294153"/>
+         </div>
+      </body>
+   </text>
+</TEI>
