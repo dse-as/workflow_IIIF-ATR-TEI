@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0328"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0328</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0328_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0328_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0328_001.tif"/>
+            <milestone unit="textregion" xml:id="letter_0328_001_tr_1"/>
+            <lb xml:id="letter_0328_001_tr_1_tl_1"/>Lieber Onkel Georg!<CONV tag="p">
+<lb xml:id="letter_0328_001_tr_1_tl_2"/>Ich danke Dir für alles, was Du
+<lb xml:id="letter_0328_001_tr_1_tl_3"/>mir geschickt hast, es ist ganz
+<lb xml:id="letter_0328_001_tr_1_tl_4"/>fabelhaft. Die Leute hier meinen
+<lb xml:id="letter_0328_001_tr_1_tl_5"/>ich sei verrückt. Aber durch die
+<lb xml:id="letter_0328_001_tr_1_tl_6"/>neu eingerichtete Ecke ist doch ein
+<lb xml:id="letter_0328_001_tr_1_tl_7"/>kleines Heiligtum entstanden, dass
+<lb xml:id="letter_0328_001_tr_1_tl_8"/>nichts von der Banalität all meiner
+<lb xml:id="letter_0328_001_tr_1_tl_9"/>Aufgaben hat.</CONV><CONV tag="p">
+<lb xml:id="letter_0328_001_tr_1_tl_10"/>Im Gegenteil: Sie wirft einen roten
+<lb xml:id="letter_0328_001_tr_1_tl_11"/>Schein von Mystik gerade auf die
+<lb xml:id="letter_0328_001_tr_1_tl_12"/>Formeln, die ich – nicht verstehe.</CONV><CONV tag="p">
+<lb xml:id="letter_0328_001_tr_1_tl_13"/>Morgen werde ich ein Räucherstäbchen
+<lb xml:id="letter_0328_001_tr_1_tl_14"/>anbrennen (bei Neumond) –
+<lb xml:id="letter_0328_001_l"/>übrigens verstehe ich nicht ganz , das
+<lb xml:id="letter_0328_001_tr_1_tl_17"/>Bär <PAGE tag="underlined">so</PAGE> gern hier war. Es
+<lb xml:id="letter_0328_001_tr_1_tl_18"/>gefällt mir ja so weit ganz gut,<!--FML: this needs attention (was tagged as "fml" in Transkribus)--></CONV><pb xml:id="letter_0328_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0328_002.tif"/>
+            <milestone unit="textregion" xml:id="letter_0328_002_tr_1"/><CONV tag="p">
+<lb xml:id="letter_0328_002_tr_1_tl_1"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->aber es sind furchtbar wenig
+<lb xml:id="letter_0328_002_tr_1_tl_2"/>intelligente Mädchen da. Die meisten
+<lb xml:id="letter_0328_002_tr_1_tl_3"/>interressieren sich für nichts, begnü¬
+<lb xml:id="letter_0328_002_tr_1_tl_4"/>gen sich mit ihrer Faulheit, ihren
+<lb xml:id="letter_0328_002_tr_1_tl_5"/>kleinen Arbeiten und ihren kleinen
+<lb xml:id="letter_0328_002_tr_1_tl_6"/>Freuden.</CONV><CONV tag="p">
+<lb xml:id="letter_0328_002_tr_1_tl_7"/>Ein paar Deutsche haben mir gefallen,
+<lb xml:id="letter_0328_002_tr_1_tl_8"/>nicht nur, weil sie originell sind,
+<lb xml:id="letter_0328_002_tr_1_tl_9"/>sondern weil die ganze Schule sie
+<lb xml:id="letter_0328_002_tr_1_tl_10"/>mit ihrer Zurückhaltung beehrt, und
+<lb xml:id="letter_0328_002_tr_1_tl_11"/>weil eine unter ihnen auffallend klug
+<lb xml:id="letter_0328_002_tr_1_tl_12"/>ist. Die haben mich zum Glück
+<lb xml:id="letter_0328_002_tr_1_tl_13"/>in ihren Kreis einbezogen, und bei
+<lb xml:id="letter_0328_002_tr_1_tl_14"/>unserem heutigen Geburtstagsfest atmete
+<lb xml:id="letter_0328_002_tr_1_tl_15"/>man zum ersten Mal auf. Allerdings
+<lb xml:id="letter_0328_002_tr_1_tl_16"/>haben uns die Anderen fast die
+<lb xml:id="letter_0328_002_tr_1_tl_17"/>Scheibenen eingeschlagen. Natürlich hatten
+<lb xml:id="letter_0328_002_tr_1_tl_18"/>sie Angst, es ganz zu tun.</CONV>
+<lb xml:id="letter_0328_002_tr_1_tl_19"/>Viele herzliche Grüße von Annemarie.
+<lb xml:id="letter_0328_002_tr_1_tl_20"/>Dass ich Dir ewigen Dank schwöre,
+<lb xml:id="letter_0328_002_tr_1_tl_21"/>ist selbstverständlich.</div>
+      </body>
+   </text>
+</TEI>
