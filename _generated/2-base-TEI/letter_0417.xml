@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0417" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0417#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0417</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0417_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.e-manuscripta.ch/i3f/v20/5289874"/>
+            <milestone unit="textregion" xml:id="p001_r_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l"/>Bank-Konto: 
+               <lb xml:id="p001_l_1"/>Bayer. Vereinsbank 
+               <lb xml:id="p001_l_2"/>Weinhandlung 
+               <lb xml:id="p001_l_3"/>Auto-Garage 
+               <lb xml:id="p001_l_4"/>Telefon Nr. 196 
+               <lb xml:id="p001_l_5"/>Auto-Garage. 
+               <lb xml:id="p001_l_6"/>Boxes 
+               <lb xml:id="p001_l_7"/>Zentral-Heizung 
+               <lb xml:id="p001_l_8"/>Elektrisches Licht 
+               <lb xml:id="p001_l_9"/>Ausstellungs-Zimmer 
+               <lb xml:id="p001_l_10"/>Bahnhof-Hotel "Reichsadler" Bayreuth 
+               <lb xml:id="p001_l_11"/>Bes.: Carl Albrecht.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l_12"/>Bayreuth, den 15. Aug. 1925 
+               <lb xml:id="p001_l_13"/>Meine liebe Meme! 
+               <lb xml:id="p001_l_42"/>Wir haben gefunden, wir mussten bis <hi rendition="#u">nach</hi> der 
+               <lb xml:id="p001_l_14"/>Walküre warten, um Dir einen Brief zu 
+               <lb xml:id="p001_l_15"/>schreiben. Weil Du doch die Walküre auch so 
+               <lb xml:id="p001_l_16"/>liebst. Also: Es war einfach wundervoll! 
+               <lb xml:id="p001_l_22"/>Der ganze 1. Akt, angefangen bei Sigmunds 
+               <lb xml:id="p001_l_17"/>prachtvoller Erzählung u. dann, als der 
+               <lb xml:id="p001_l_18"/>olle Hunding schlafen gegangen war – es 
+               <lb xml:id="p001_l_28"/>war ein ganzer Jubel von Musik und 
+               <lb xml:id="p001_l_19"/>*Schönheit! Im 2. Akt war der Anfang, 
+               <lb xml:id="p001_l_20"/>die "häusliche" Szene der (sehr bösen) Frida 
+               <lb xml:id="p001_l_23"/>etwas langweilig. Auch Blomè, will sagen 
+               <lb xml:id="p001_l_37"/>die Brünhilde, war so furchtbar fett, 
+               <lb xml:id="p001_l_21"/>dass man darüber beinah die Musik 
+               <lb xml:id="p001_l_40"/>verekelt bekam. Aber auch dies ging vorüber, 
+               <lb xml:id="p001_l_41"/>* die Schönheit vertrat Em[m]y ganz allein!</p>
+
+            <pb xml:id="p002" facs="https://www.e-manuscripta.ch/i3f/v20/5289875"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l"/>und als Sigmund u. Siglinde wieder 
+               <lb xml:id="p002_l_1"/>kamen, war es wieder großartig. 
+               <lb xml:id="p002_l_2"/>In der Wahnsin[n]sscene war man immer 
+               <lb xml:id="p002_l_3"/>gespan[n]t bis in die Fingerspitzen, es war 
+               <lb xml:id="p002_tr_2_tl_9"/>als wage im ganzen Haus niemand zu 
+               <lb xml:id="p002_tr_2_tl_10"/>atmen –</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_1"/>Auch betreffs Regie war z.B. der Kampf 
+               <lb xml:id="p002_l_4"/>fabelhaft insceniert.</p>
+            <p> 
+               <lb xml:id="p002_l_5"/>Das Walkürenensemble im 3. Akt war 
+               <lb xml:id="p002_tr_1_tl_6"/>prachtsvoll, auch neue Scenerien, eine ganz 
+               <lb xml:id="p002_tr_1_tl_7"/>starke, ganz überwältigende Wirkung. 
+               <lb xml:id="p002_l_6"/>Und hier vor allem kam nun 
+               <lb xml:id="p002_tr_1_tl_10"/>Schorr (Wotan) zur Wirkung. Du machst 
+               <lb xml:id="p002_l_8"/>Dir keinen Begriff wie dieser Mensch 
+               <lb xml:id="p002_l_7"/>(ein absoluter Jude) einen Wotan singt, der 
+               <lb xml:id="p002_tr_1_tl_16"/>nicht mehr langweilig, nicht mehre, wei 
+               <lb xml:id="p002_l_9" break="no"/>bisch, nur noch groß u. traurig ist! 
+               <lb xml:id="p002_l_11"/>Ich habe nie eine solchee vollendet ausgebil 
+               <lb xml:id="p002_tr_1_tl_22" break="no"/>dete Stim[m]e gehört! (d.h. Män[n]rstimme) [vgl. dazu auch Alexis 2008, S. 34]</p>
+            <p> 
+               <lb xml:id="p002_l_10"/>Der ganze Feuerzauber war wie ein 
+               <lb xml:id="p002_l_12"/>wirkliches Feuermeer, man war ganz über 
+               <lb xml:id="p002_l_13" break="no"/>strömt, von Klang u. Flam[m]en.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_29"/>So, da war die Walküre fertig. Und so was 
+               <lb xml:id="p002_tr_1_tl_30"/>gibt es nur in Bayreuth. Nun muss ich Mama 
+               <lb xml:id="p002_tr_1_tl_31"/>Platz lassen. Es grüsst Dich u. alle in[n]ig, An[n]emarie.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l_14"/>[Handschrift Rene S.]Der Portier hier frug mich: "eine <hi rendition="#u">Wille</hi>? – Das ist Diamant, das ist 
+               <lb xml:id="p002_tr_1_tl_34"/>der Itoh-J-Nor [?] !" – u. grüsst nun doppelt 
+               <lb xml:id="p002_tr_1_tl_35"/>ehrerbietig –</p>
+
+            <pb xml:id="p003" facs="https://www.e-manuscripta.ch/i3f/v20/5289876"/>
+            <milestone unit="textregion" xml:id="p003_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_2_tl_1"/>Bahnhof-Hotel Reichsadler 
+               <lb xml:id="p003_tr_2_tl_2"/>Besitz.: Carl Albrecht Bayreuth Fernsprecher Nr. 190 
+               <lb xml:id="p003_tr_2_tl_3"/>Elektrisches Licht &amp; Zentralheizung 
+               <lb xml:id="p003_l_3"/>BAYREUTH 2 
+               <lb xml:id="p003_l"/>15 
+               <lb xml:id="p003_l_1"/>AUG 
+               <lb xml:id="p003_l_2"/>25 
+               <lb xml:id="p003_l_4"/>BAYREUTH 2 
+               <lb xml:id="p003_l_5"/>15.  
+               <lb xml:id="p003_l_6"/>AUG 
+               <lb xml:id="p003_l_7"/>25 
+               <lb xml:id="p003_tr_2_tl_4"/>Frau General Wille 
+               <lb xml:id="p003_l_8"/>Feldmeilen 
+               <lb xml:id="p003_tr_1_tl_7"/>Zürichsee 
+               <lb xml:id="p003_tr_1_tl_8"/>Schwarz.</p>
+
+            <pb xml:id="p004" facs="https://www.e-manuscripta.ch/i3f/v20/5289877"/>
+            <milestone unit="textregion" xml:id="p004_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_l"/>Meilen 
+               <lb xml:id="p004_l_1"/>17. VIII. 25 – 7</p>
+</div>
+       </body>
+    </text>
+ </TEI>
