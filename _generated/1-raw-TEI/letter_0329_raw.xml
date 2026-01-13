@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0329"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0329</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0329_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0329_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0329_001.tif"/>
+            <milestone unit="textregion" xml:id="letter_0329_001_tr_1"/>
+            <lb xml:id="letter_0329_001_tr_1_tl_1"/>Bocken, 28. XII.
+<lb xml:id="letter_0329_001_l"/>Mein lieber Onkel Georg!<CONV tag="p">
+<lb xml:id="letter_0329_001_l_1"/>Ich danke Dir vielmals für
+<lb xml:id="letter_0329_001_l_2"/>Dein Paket. Wieviel Macht Du
+<lb xml:id="letter_0329_001_tr_1_tl_8"/>mit seinem Inhalt in meine
+<lb xml:id="letter_0329_001_l_4"/>Hände legst, weißt Du natürlich
+<lb xml:id="letter_0329_001_l_3"/>gar nicht. Ich werde z. B.
+<lb xml:id="letter_0329_001_tr_1_tl_14"/>sämtliche Fetaner Gerüche mit
+<lb xml:id="letter_0329_001_l_5"/>Hilfe indischer Räucherstäbchen aus
+<lb xml:id="letter_0329_001_tr_1_tl_17"/>meinem Zimmer verbannen – ich
+<lb xml:id="letter_0329_001_tr_1_tl_18"/>werde ferner die Illusion einer
+<lb xml:id="letter_0329_001_l_6"/>Indienreise in Rauch aufsteigen
+<lb xml:id="letter_0329_001_tr_1_tl_21"/>sehen –</CONV><CONV tag="p">
+<lb xml:id="letter_0329_001_tr_1_tl_22"/>Gemeinhin glauben die Leute, es
+<lb xml:id="letter_0329_001_tr_1_tl_23"/>sei etwas recht Betrübliches,
+<lb xml:id="letter_0329_001_tr_1_tl_24"/>wen[n] irgend eine Angelegenheit<!--FML: this needs attention (was tagged as "fml" in Transkribus)--></CONV><pb xml:id="letter_0329_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0329_002.tif"/>
+            <milestone unit="textregion" xml:id="letter_0329_002_tr_1"/><CONV tag="p">
+<lb xml:id="letter_0329_002_tr_1_tl_1"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->in Rauch aufgeht. Als ob es
+<lb xml:id="letter_0329_002_tr_1_tl_2"/>nicht schön wäre, den <PAGE tag="underlined">Gedanken</PAGE>,
+<lb xml:id="letter_0329_002_l"/>jeder prosaischen Verwirklichung
+<lb xml:id="letter_0329_002_tr_1_tl_5"/>entkleidet, der Weisheit einer
+<lb xml:id="letter_0329_002_tr_1_tl_6"/>solchen aufsteigenden Rauchsäule
+<lb xml:id="letter_0329_002_tr_1_tl_7"/>anzuvertrauen! –</CONV><CONV tag="p">
+<lb xml:id="letter_0329_002_tr_1_tl_8"/>Bitte sage mir irgendwan[n], was
+<lb xml:id="letter_0329_002_l_2"/>für eine Münze (?) Du mir
+<lb xml:id="letter_0329_002_l_1"/>geschickt hast. Sie ist sehr schön
+<lb xml:id="letter_0329_002_tr_1_tl_14"/>u. sehr geheimnisvoll. Aber da
+<lb xml:id="letter_0329_002_l_3"/>ich jetzt ihr Besitzer bin, opfere
+<lb xml:id="letter_0329_002_tr_1_tl_17"/>ich gern einen Teil ihrer Geheim¬
+<lb xml:id="letter_0329_002_tr_1_tl_18"/>nisse, <PAGE tag="strikethrough">einer</PAGE> um zu erfahren woher
+<lb xml:id="letter_0329_002_l_4"/>Sie stam[m]t, wer sie einmal in
+<lb xml:id="letter_0329_002_tr_1_tl_21"/>Händen hielt und wofür sie
+<lb xml:id="letter_0329_002_tr_1_tl_22"/>bestimmt war.</CONV>
+<lb xml:id="letter_0329_002_tr_1_tl_23"/>Ich lasse alle grüßen u. wünsche
+<lb xml:id="letter_0329_002_tr_1_tl_24"/>Dir für Deine Indienfahrt alles,
+<lb xml:id="letter_0329_002_tr_1_tl_25"/>was Dir angenehm ist.
+<lb xml:id="letter_0329_002_tr_1_tl_26"/>An[n]emarie.</div>
+      </body>
+   </text>
+</TEI>
