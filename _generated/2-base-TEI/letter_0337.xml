@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0337" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0337#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0337</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0337_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0337_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_2_tl_1"/>15. Juni 
+               <lb xml:id="p001_tr_2_tl_2"/>Bocken 
+               <lb xml:id="p001_tr_2_tl_3"/>OB HORGEN. ZÜRICHSEE.</p>
+
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Mein lieber Onkel Georg! Hier schicke ich 
+               <lb xml:id="p001_tr_1_tl_2"/>Dir die anatolischen Riesenpilze du mir 
+               <lb xml:id="p001_tr_1_tl_3"/>des Formates wegen, besonderes Vergnügen 
+               <lb xml:id="p001_tr_1_tl_4"/>bereiten. Doch Schreibe ich nicht deswegen, 
+               <lb xml:id="p001_tr_1_tl_5"/>Sondern um Dir mitzuteilen dass Herr u. 
+               <lb xml:id="p001_tr_1_tl_6"/>Frau Professor Mann Anfang nächsten Woche 
+               <lb xml:id="p001_tr_1_tl_7"/>aus N. York zurückkommen. Ich habe dann 
+               <lb xml:id="p001_tr_1_tl_8"/>vor ihrer Abweise, Deinen Auftrag übermittelt 
+               <lb xml:id="p001_tr_1_tl_9"/>u. sie wurden sich besonders freuen</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0337_002.tif"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>nach Winterthur zu kommen u. Eure 
+               <lb xml:id="p002_tr_1_tl_2"/>Bekaufschaft zu machen, ebenso auch Herrmann 
+               <lb xml:id="p002_tr_1_tl_3"/>Dubs in sehen. Vielleicht schreibst Du Professor 
+               <lb xml:id="p002_tr_1_tl_4"/>Mann, da er jetzt unvermiert ist? Er 
+               <lb xml:id="p002_tr_1_tl_5"/>Wünscht sich übrigens auch sehr, die 
+               <lb xml:id="p002_tr_1_tl_6"/>Sammlung von Oskar Reinhardt zu sehen. 
+               <lb xml:id="p002_tr_1_tl_7"/>Ich gebe Dir jedenfalls der Advasse: 
+               <lb xml:id="p002_tr_1_tl_8"/>Schiethaldenstrasse 33 
+               <lb xml:id="p002_tr_1_tl_9"/>Küsnacht. 
+               <lb xml:id="p002_tr_1_tl_10"/>u. bin, mit vielen herzlichen Grüssen 
+               <lb xml:id="p002_tr_1_tl_11"/>Deine 
+               <lb xml:id="p002_tr_1_tl_12"/>Annemann</p>
+</div>
+       </body>
+    </text>
+ </TEI>
