@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0330"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0330</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0330_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0330_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0330_001.tif"/>
+            <milestone unit="textregion" xml:id="letter_0330_001_r"/>
+            <lb xml:id="letter_0330_001_tr_1_tl_1"/>Bocken
+<lb xml:id="letter_0330_001_tr_1_tl_2"/>am 13. III.
+<lb xml:id="letter_0330_001_l_1"/>Lieber Onkel Georg,
+<lb xml:id="letter_0330_001_tr_1_tl_6"/>ich möchte mein Zimmer wieder
+<lb xml:id="letter_0330_001_l"/>einmal durchräuchern, ich habe
+<lb xml:id="letter_0330_001_l_2"/>nämlich die Beobachtung gemacht
+<lb xml:id="letter_0330_001_tr_1_tl_11"/>dass ich dann viel deutlicher
+<lb xml:id="letter_0330_001_tr_1_tl_12"/>und interressanter träume. Wen[n]
+<lb xml:id="letter_0330_001_tr_1_tl_13"/>Du also noch Stäbchen hast
+<lb xml:id="letter_0330_001_l_3"/>u. wen[n] es nicht ein zu
+<lb xml:id="letter_0330_001_tr_1_tl_16"/>großes Opfer ist, einige davon
+<lb xml:id="letter_0330_001_tr_1_tl_17"/>abzugeben, so würde ich Dich
+<lb xml:id="letter_0330_001_tr_1_tl_18"/>gern darum bitten. Meine Königin
+<lb xml:id="letter_0330_001_tr_1_tl_19"/>Nofretete schliesst sich an, sie
+<lb xml:id="letter_0330_001_tr_2_tl_1"/>fühlt sich bei der neuerdings
+<lb xml:id="letter_0330_001_tr_2_tl_2"/>eingetretenen Kälte nicht wohl
+<lb xml:id="letter_0330_001_l_6"/>und wäre dankbar für östliche<pb xml:id="letter_0330_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0330_002.tif"/>
+            <milestone unit="textregion" xml:id="letter_0330_002_r"/>
+            <lb xml:id="letter_0330_002_tr_2_tl_1"/>Düfte die sie an ihre wärmere
+<lb xml:id="letter_0330_002_tr_2_tl_2"/>und sonnigere Heimat erinnern.
+<lb xml:id="letter_0330_002_tr_2_tl_3"/>(Ich glaube sie hat wirklich
+<lb xml:id="letter_0330_002_l"/>Heimweh, aber das haben wir ja
+<lb xml:id="letter_0330_002_tr_2_tl_6"/>uneingestanden alle).
+<lb xml:id="letter_0330_002_l_1"/>Thea Frenssen schrieb mir einmal
+<lb xml:id="letter_0330_002_l_2"/>sie habe mit Dir über mich
+<lb xml:id="letter_0330_002_tr_2_tl_11"/>gesprochen. (Das fehlte ja gerade
+<lb xml:id="letter_0330_002_tr_1_tl_1"/>noch!) Aber ich hoffe dass sie
+<lb xml:id="letter_0330_002_l_3"/>Dir nicht ein zu schwarzes Bild
+<lb xml:id="letter_0330_002_tr_1_tl_4"/>von mir entworfen hat – es
+<lb xml:id="letter_0330_002_l_6"/>gibt allerdings Dinge die für
+<lb xml:id="letter_0330_002_tr_1_tl_7"/>feinfühlende<PAGE tag="strikethrough">n</PAGE> Frauen ein plus [sic]
+<lb xml:id="letter_0330_002_l_4"/>bedeuten, während sie im All¬
+<lb xml:id="letter_0330_002_tr_3_tl_3"/>gemeinen sehr streng, (oder vielleicht
+<lb xml:id="letter_0330_002_l_5"/>nur oberflächlich?) beurteilt
+<lb xml:id="letter_0330_002_l_7"/>werden. Thea Frenssen weiss
+<lb xml:id="letter_0330_002_l_9"/>dass ich Dich von dieser<pb xml:id="letter_0330_003"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0330_003.tif"/>
+            <milestone unit="textregion" xml:id="letter_0330_003_r"/>
+            <lb xml:id="letter_0330_003_l_1"/>Allgemeinheit ausnehme, an
+<lb xml:id="letter_0330_003_l_3"/>deren Urteil mir <PAGE tag="underlined">gar nichts</PAGE>
+<lb xml:id="letter_0330_003_l_2"/>liegt. Deshalb ist es begreiflich
+<lb xml:id="letter_0330_003_l_4"/>dass sie zu Dir offen geredet hat.<CONV tag="p">
+<lb xml:id="letter_0330_003_l"/>Übrigens kommt sie
+<lb xml:id="letter_0330_003_l_6"/>jetzt, etwa am 18. III. voraussichtlich,
+<lb xml:id="letter_0330_003_l_5"/>nach Zürich. Ich freue mich.</CONV> [vertical space]<CONV tag="p">
+<lb xml:id="letter_0330_003_tr_1_tl_1"/>Sind die letzten
+<lb xml:id="letter_0330_003_l_7"/>Aufnahmen in St. Moritz nichts
+<lb xml:id="letter_0330_003_l_8"/>geworden? Es wäre schade, an¬
+<lb xml:id="letter_0330_003_l_9"/>scheinend eigne ich mich nicht
+<lb xml:id="letter_0330_003_tr_1_tl_8"/>zum Photographen. Und kön[n]te ich
+<lb xml:id="letter_0330_003_tr_1_tl_9"/>wohl eine Photo von Balz mit
+<lb xml:id="letter_0330_003_tr_1_tl_10"/>Regenschirmen bekom[m]en?</CONV>
+<lb xml:id="letter_0330_003_tr_1_tl_11"/>Viele Grüsse am Tante Olga,
+<lb xml:id="letter_0330_003_tr_1_tl_12"/>Vrene u. weitere Cousinen u. Vettern
+<lb xml:id="letter_0330_003_l_10"/>Deine Annemarie.</div>
+      </body>
+   </text>
+</TEI>
