@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0429" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0429#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0429</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0429_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.e-manuscripta.ch/i3f/v20/5289958"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/><hi rendition="#u">Jan 27</hi></p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_2"/>Meine liebe Suz – 
+               <lb xml:id="p001_tr_1_tl_3"/>jetzt haben sich unsere Briefe gekreuzt 
+               <lb xml:id="p001_tr_1_tl_4"/>u. ich nehme alle Vorwürfe zurück 
+               <lb xml:id="p001_tr_1_tl_5"/>wegen fehlender Nachrichten!</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_6"/>Über unsere Familie zu berichten? 
+               <lb xml:id="p001_tr_1_tl_7"/>Oha! Also – die Hochzeit war 
+               <lb xml:id="p001_l_1"/>langweilig / obwohl Lucy soweit 
+               <lb xml:id="p001_tr_1_tl_11"/>nett war. Aber Edwin's Grass 
+               <lb xml:id="p001_tr_1_tl_12" break="no"/>hopper Freunde, vermischt mit den 
+               <lb xml:id="p001_tr_1_tl_13"/>ehrwürdigen Teilen elterlicher Bekan[n]t 
+               <lb xml:id="p001_tr_1_tl_14" break="no"/>schaften, war unerfreulich. Fredi 
+               <lb xml:id="p001_l"/>Hasi u. ich unterhielten uns 
+               <lb xml:id="p001_tr_1_tl_17"/>mit Bär nach Möglichkeit bei 
+               <lb xml:id="p001_l_2"/>Kaviarbrötchen. – Ein nettes Paar sind 
+               <lb xml:id="p001_tr_1_tl_20"/>Ruth u. Charly. Sie ist rührend 
+               <lb xml:id="p001_l_4"/>jung u. doch schon sehr bewusst 
+               <lb xml:id="p001_tr_1_tl_24"/>u. überlegen – natürlich. Die Natür 
+               <lb xml:id="p001_l_3" break="no"/>lichkeit überwiegt. Charly strahlt</p>
+
+            <pb xml:id="p002" facs="https://www.e-manuscripta.ch/i3f/v20/5289959"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l"/>ehrlich – als Unterschied zu seinem 
+               <lb xml:id="p002_tr_1_tl_3"/>Bruder.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_4"/>Vreni ist – ich weiss nicht wie. Man 
+               <lb xml:id="p002_l_1"/>möchte gern mit ihr reden aber 
+               <lb xml:id="p002_l_2"/>sie ist ziemlich verstellt, u. kein 
+               <lb xml:id="p002_tr_1_tl_9"/>Mensch kom[m]t draus, ob sie es will, 
+               <lb xml:id="p002_l_3"/>oder nicht. Sie sieht schön aus. 
+               <lb xml:id="p002_l_4"/>Lotti ist ziemlich still u. auffallend 
+               <lb xml:id="p002_l_5"/>hübsch auf die Entfernung. Sie 
+               <lb xml:id="p002_tr_1_tl_16"/>sind mir fremd, Magde bemahlte 
+               <lb xml:id="p002_l_6"/>uns ympathisch. Unsere Onkels, auch 
+               <lb xml:id="p002_tr_1_tl_19"/>Papa mögen Ruth u. nehmen Charly 
+               <lb xml:id="p002_l_7"/>sehr ernst. Tante <del rend="overstrike">Elis</del> Elsie ist 
+               <lb xml:id="p002_l_11"/>sehr krank – Tante Olga ist furcht 
+               <lb xml:id="p002_l_10" break="no"/>bar nett u. weniger selbstkritisch 
+               <lb xml:id="p002_l_9"/>als früher. Tante Em[m]y – eine 
+               <lb xml:id="p002_l_8"/>blühende Witwe, die vergisst, 
+               <lb xml:id="p002_tr_1_tl_32"/>Magde auf die Finger zu schauen. 
+               <lb xml:id="p002_tr_1_tl_33"/>Peter gefällt mir. Er fährt Skie, 
+               <lb xml:id="p002_tr_1_tl_34"/>arbeitet u. läßt Familienfeste 
+               <lb xml:id="p002_l_12"/>bei Seite. Soo – adieu</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_37"/>An[n]emarie</p>
+</div>
+       </body>
+    </text>
+ </TEI>
