@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0338" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0338#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0338</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0338_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0338_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_2_tl_1"/>[foreign Hand:](Sommer 34?) 
+               <lb xml:id="p001_tr_2_tl_2"/>Berlin-Charlottenburg 
+               <lb xml:id="p001_tr_2_tl_3"/>Königin Elisabethstr. 40</p>
+
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Mein lieber Onkel Georg –</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_2"/>Du wirst wohl in Bocken erfahren haben 
+               <lb xml:id="p001_tr_1_tl_3"/>dass sich meine immer wieder verschobene 
+               <lb xml:id="p001_tr_1_tl_4"/>Abreise am Ende etwas plötzlich vollzog, 
+               <lb xml:id="p001_tr_1_tl_5"/>wodurch ich um das Vergnügen 
+               <lb xml:id="p001_tr_1_tl_6"/>gebracht wurde, wie verabredet im 
+               <lb xml:id="p001_tr_1_tl_7"/>Tössertobel [Reinharts Villa in Winterthur] Mittag zu essen u. mich mit 
+               <lb xml:id="p001_tr_1_tl_8"/>Dir noch ein bischen über Filmpläne 
+               <lb xml:id="p001_tr_1_tl_9"/>zu unterhalten.</p>
+
+            <milestone unit="textregion" xml:id="p001_tr_3"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_3_tl_1"/>Inzwischen habe ich darüber hier schon 
+               <lb xml:id="p001_tr_3_tl_2"/>etliche Besprechungen gehabt. Dr. Petersen 
+               <lb xml:id="p001_tr_3_tl_3"/>u. ich haben gestern beschlossen, 
+               <lb xml:id="p001_tr_3_tl_4"/>vorläufig auf eine Gründung in der 
+               <lb xml:id="p001_tr_3_tl_5"/>Schweiz zu verzichten. Hingegen interessiert 
+               <lb xml:id="p001_tr_3_tl_6"/>sich die "Ufa" stark für das Kolo 
+               <lb xml:id="p001_tr_3_tl_7" break="no"/>nialthema. Leider ist sie aber eine 
+               <lb xml:id="p001_tr_3_tl_8"/>recht widerliche u. unerfreuliche</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0338_002.tif"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>Firma bei der persönliche Einfälle 
+               <lb xml:id="p002_tr_1_tl_2"/>u. Leistungen unfehlbar zerquetscht 
+               <lb xml:id="p002_tr_1_tl_3"/>u. in die übliche Marktware verwan 
+               <lb xml:id="p002_tr_1_tl_4" break="no"/>delt werden – auf dem Umweg über 
+               <lb xml:id="p002_tr_1_tl_5"/>zehn halb verantwortliche "Kollektiv" 
+               <lb xml:id="p002_tr_1_tl_6" break="no"/>instanzen. Und ausserdem machen sie 
+               <lb xml:id="p002_tr_1_tl_7"/>jetzt, der üblen Konjunktur gemäss, 
+               <lb xml:id="p002_tr_1_tl_8"/>nur dünne soldatische Filme – 
+               <lb xml:id="p002_tr_1_tl_10"/>so dass ein <del rend="overstrike">Kollektiv</del>[add above line: Kolonial]-Film sicher ganz 
+               <lb xml:id="p002_tr_1_tl_11"/>anders herauskäme als Petersen u. ich 
+               <lb xml:id="p002_tr_1_tl_12"/>uns das wünschen. Angenom[m]en dass 
+               <lb xml:id="p002_tr_2_tl_1"/>wir das Geld bekom[m]en (etwa 100 000 R.M., 
+               <lb xml:id="p002_tr_2_tl_2"/>wovon 50 000 schon gezeichnet sind) 
+               <lb xml:id="p002_tr_2_tl_3"/>würden wir daher den Film selbständig 
+               <lb xml:id="p002_tr_2_tl_4"/>machen. 
+               <lb xml:id="p002_tr_2_tl_5"/>Ich ergänze Dir das so ausführlich 
+               <lb xml:id="p002_tr_2_tl_6"/>weil ich denke dass es Dir vielleicht 
+               <lb xml:id="p002_tr_2_tl_7"/>Spass macht – besonders weil Du sich 
+               <lb xml:id="p002_tr_2_tl_8"/>ja sowohl für grosse Reisen, Expeditionen 
+               <lb xml:id="p002_tr_2_tl_9"/>und dergleichen interessierst. Mit 
+               <lb xml:id="p002_tr_2_tl_10"/>meinem Ausgrabungs-Film werde</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0338_003.tif"/>
+            <milestone unit="textregion" xml:id="p003_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_l"/>ich allerdings hauptsächlich Geduld 
+               <lb xml:id="p003_tr_2_tl_3"/>haben müssen – die Einstellung der 
+               <lb xml:id="p003_tr_2_tl_4"/>Leute hier ist, wie gesagt, von grotesker 
+               <lb xml:id="p003_tr_2_tl_5"/>Unkultur u. niemand unternimmt 
+               <lb xml:id="p003_tr_2_tl_6"/>es, Geld in eine Sache zu stecken die nicht 
+               <lb xml:id="p003_tr_2_tl_7"/>ganz in der üblichen, erprobten Linie 
+               <lb xml:id="p003_tr_2_tl_8"/>liegt.</p>
+            <p> 
+               <lb xml:id="p003_tr_2_tl_9"/>Inzwischen erzählt mir ein Freund von 
+               <lb xml:id="p003_tr_1_tl_1"/>mir dass er Vreni u. Enti gesehen 
+               <lb xml:id="p003_tr_1_tl_2"/>hat. leider vergass er, zu um ihre 
+               <lb xml:id="p003_tr_1_tl_3"/>Adresse oder Telefonnum[m]er zu bitten. 
+               <lb xml:id="p003_tr_1_tl_4"/>Würdest Du <del rend="overstrike">il</del> mir bitte die Adresse 
+               <lb xml:id="p003_tr_1_tl_5"/>gleich schicken – oder eventuell ihnen 
+               <lb xml:id="p003_tr_1_tl_6"/>meine Telefonnummer (Westend 12-50) 
+               <lb xml:id="p003_tr_1_tl_7"/>schreiben?</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_8"/>Mit vielen herzlichen Grüssen 
+               <lb xml:id="p003_tr_1_tl_9"/>an Tante Olga u. Dich 
+               <lb xml:id="p003_tr_1_tl_10"/>Deine 
+               <lb xml:id="p003_tr_1_tl_11"/>Annemarie</p>
+</div>
+       </body>
+    </text>
+ </TEI>
