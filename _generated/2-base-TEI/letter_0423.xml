@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0423" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0423#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0423</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0423_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.e-manuscripta.ch/i3f/v20/5289914"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l"/><hi rendition="#u">Fetan</hi> Jan. 27 
+               <lb xml:id="p001_tr_1_tl_3"/>Meine hiebe Suzi!</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_4"/>Warum schreibst Du mir solange 
+               <lb xml:id="p001_l_2"/>nicht. Es ist gar nicht nett 
+               <lb xml:id="p001_l_3"/>von Dir! Ich habe auf direktem 
+               <lb xml:id="p001_tr_1_tl_11"/>Wege noch nie etwas über meinen 
+               <lb xml:id="p001_tr_1_tl_12"/>Neffen Lars Erik gehört.</p>
+            <p> 
+               <lb xml:id="p001_l_4"/>Fährst Du Skie? Wir haben heute 
+               <lb xml:id="p001_l_1"/>eine Tour gemacht. Nur 6 Leute. 
+               <lb xml:id="p001_l_5"/>Es gibt hier wenige, die etwas 
+               <lb xml:id="p001_l_6"/>anständig fahren kön[n]en. Schön 
+               <lb xml:id="p001_l_7"/>war es u. austrengend.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l_8"/>Ich lese jetzt Cicero, Livius u. 
+               <lb xml:id="p001_l_9"/>Vergil. Mit Plinius u. Sallust 
+               <lb xml:id="p001_tr_1_tl_28"/>höre ich auf, trotzdem ich sie lieber 
+               <lb xml:id="p001_l_10"/>u. besser lese als den geschraub 
+               <lb xml:id="p001_l_11" break="no"/>ten Sti<del rend="overstrike">e</del>l Virgils, den ich nicht 
+               <lb xml:id="p001_l_12"/>ausstehen kan[n]. Klopstock ist 
+               <lb xml:id="p001_l_13"/>heilig daneben. Wir machen viel</p>
+
+            <pb xml:id="p002" facs="https://www.e-manuscripta.ch/i3f/v20/5289915"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>französsche u. englische Literatur. 
+               <lb xml:id="p002_l"/>Ich will vielleicht einen Vortrag 
+               <lb xml:id="p002_l_1"/>über Athalie [Tragödie von Racine] halten. In Deutsch 
+               <lb xml:id="p002_tr_1_tl_6"/>machen wir 2. Teil Faust. Hie 
+               <lb xml:id="p002_l_2"/>u. da haben wir abends 
+               <lb xml:id="p002_tr_1_tl_9"/>Philosophie. Und man lernt viel, 
+               <lb xml:id="p002_tr_1_tl_10"/>aber man muss im[m]er furchtbar 
+               <lb xml:id="p002_tr_1_tl_11"/>aufpassen, um alles zu verstehen. 
+               <lb xml:id="p002_tr_1_tl_12"/>Leider muss ich immer am meisten 
+               <lb xml:id="p002_tr_1_tl_13"/>Mathematik schaffen. Ich werfe 
+               <lb xml:id="p002_l_3"/>analythische [sic] Geometrie, Algebra 
+               <lb xml:id="p002_l_5"/>u. Stereometrie durcheinanderm 
+               <lb xml:id="p002_l_4"/>verstehe Zweck u. Grund nicht, 
+               <lb xml:id="p002_l_7"/>hasse Chemie u. Physik 
+               <lb xml:id="p002_l_6"/>u. langweile mich im Labor. 
+               <lb xml:id="p002_tr_1_tl_26"/>Es ist mir unmöglich, mich 
+               <lb xml:id="p002_tr_1_tl_27"/>dafür zu interessieren. Aber 
+               <lb xml:id="p002_tr_1_tl_28"/>man gewöhnt sich daran, 
+               <lb xml:id="p002_tr_1_tl_29"/>den[n] ich habe 16 Stunden in</p>
+
+            <pb xml:id="p003" facs="https://www.e-manuscripta.ch/i3f/v20/5289916"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_l"/><hi rendition="#u">2</hi> 
+               <lb xml:id="p003_l_1"/>der Woche mathematische 
+               <lb xml:id="p003_tr_1_tl_3"/>Facher. Und nur 8 Stunden 
+               <lb xml:id="p003_tr_1_tl_4"/>Laten!</p>
+            <p> 
+               <lb xml:id="p003_l_3"/>Ich arbeite im[m]er viel in 
+               <lb xml:id="p003_tr_1_tl_8"/>Klavier. Mindestens 3 Stunden. 
+               <lb xml:id="p003_l_2"/>Aber ich habe zu wenig Zeit. 
+               <lb xml:id="p003_tr_1_tl_11"/>Ich bringe es kaum über 3 1/2 
+               <lb xml:id="p003_tr_1_tl_12"/>Std. hinaus.</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_13"/>Ich will Euch besuchen, 
+               <lb xml:id="p003_tr_1_tl_14"/>wenn ich frei bin. Wenigstens 
+               <lb xml:id="p003_l_4"/>dan[n], wen[n] Ihr mich haben 
+               <lb xml:id="p003_tr_1_tl_17"/>wollt. Aber wan[n] ist man frei. 
+               <lb xml:id="p003_tr_1_tl_18"/>Sicher kom[m]t Ihr vorher zu mir. 
+               <lb xml:id="p003_l_5"/>Darauf freue ich mich! 
+               <lb xml:id="p003_tr_1_tl_21"/>Hoffentlich müßt Ihr nicht 
+               <lb xml:id="p003_tr_1_tl_22"/>wieder nach Samaden fahren, 
+               <lb xml:id="p003_tr_1_tl_23"/>um mich zu sehen! –</p>
+
+            <pb xml:id="p004" facs="https://www.e-manuscripta.ch/i3f/v20/5289917"/>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_1_tl_1"/>Gleich läutet es wieder zum 
+               <lb xml:id="p004_tr_1_tl_2"/>Essen: Nachher muss ich 
+               <lb xml:id="p004_tr_1_tl_3"/>Napoleon studieren – ich liebe 
+               <lb xml:id="p004_tr_1_tl_4"/>ihn sehr. Vielleicht gehe 
+               <lb xml:id="p004_l_1"/>ich ins Bett. Aber es 
+               <lb xml:id="p004_l"/>nützt nichts, ich bleibe müde. 
+               <lb xml:id="p004_l_3"/>So, jetzt mache ich mit 
+               <lb xml:id="p004_l_2"/>Deinem herzigen Kerzenhalter 
+               <lb xml:id="p004_tr_1_tl_17"/>ein großes Siegel – 
+               <lb xml:id="p004_tr_1_tl_18"/>An[n]emarie</p>
+</div>
+       </body>
+    </text>
+ </TEI>
