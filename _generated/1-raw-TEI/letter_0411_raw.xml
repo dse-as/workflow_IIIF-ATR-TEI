@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0411"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0411</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0411_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0411_001"
+                facs="https://www.e-manuscripta.ch/i3f/v20/5289834"/>
+            <milestone unit="textregion" xml:id="letter_0411_001_tr_1"/>
+            <lb xml:id="letter_0411_001_l"/>Mein liebes Suzeli!
+<lb xml:id="letter_0411_001_l_1"/>Ich habe Dein Tintenfass noch
+<lb xml:id="letter_0411_001_tr_1_tl_5"/>nicht bekom[m]en, aber ich
+<lb xml:id="letter_0411_001_l_3"/>freue mich darauf u.
+<lb xml:id="letter_0411_001_l_2"/>als erstes will ich Dir
+<lb xml:id="letter_0411_001_l_5"/>für Deinen Brief danken
+<lb xml:id="letter_0411_001_l_6"/>in den freien Augen¬
+<lb xml:id="letter_0411_001_l_7"/>blicken die ich ergattere –
+<lb xml:id="letter_0411_001_l_8"/>Ich habe ja viel zu lernen
+<lb xml:id="letter_0411_001_l_9"/>u. es ist alles andere
+<lb xml:id="letter_0411_001_l_11"/>als lustig – Aber dafür
+<lb xml:id="letter_0411_001_l_10"/>sind nette, frische Mädel
+<lb xml:id="letter_0411_001_l_13"/>hier – und ich werde
+<lb xml:id="letter_0411_001_l_4"/>sehr verwöhnt. Weißt [langes und kurzes S in der Folge zu ß – muss besprochen werden!] du<pb xml:id="letter_0411_002"
+                facs="https://www.e-manuscripta.ch/i3f/v20/5289835"/>
+            <milestone unit="textregion" xml:id="letter_0411_002_tr_1"/>
+            <lb xml:id="letter_0411_002_l"/>das war nun immer
+<lb xml:id="letter_0411_002_tr_1_tl_3"/>der Fall, u. manchmal
+<lb xml:id="letter_0411_002_tr_1_tl_4"/>wundere ich mich
+<lb xml:id="letter_0411_002_l_1"/>darüber – aber es er¬
+<lb xml:id="letter_0411_002_l_2"/>leichtert vieles. Besonders
+<lb xml:id="letter_0411_002_tr_1_tl_9"/>von den Lehrern wollte
+<lb xml:id="letter_0411_002_tr_1_tl_10"/>ich doch lieber nicht
+<lb xml:id="letter_0411_002_l_3"/>als Schulkind traktiert
+<lb xml:id="letter_0411_002_tr_1_tl_13"/>werden –
+<lb xml:id="letter_0411_002_tr_1_tl_14"/>[p]Bei Dr. Fischer ging es
+<lb xml:id="letter_0411_002_l_5"/>fein. Aber jetzt ist
+<lb xml:id="letter_0411_002_tr_1_tl_18"/>es wieder schrecklich
+<lb xml:id="letter_0411_002_l_4"/>schwer, u. die Stunden
+<lb xml:id="letter_0411_002_l_6"/>mühsam – u. der Arm
+<lb xml:id="letter_0411_002_l_7"/>tut weh, u. ich mag
+<lb xml:id="letter_0411_002_l_9"/>Klavier nicht aufgeben –<pb xml:id="letter_0411_003"
+                facs="https://www.e-manuscripta.ch/i3f/v20/5289836"/>
+            <milestone unit="textregion" xml:id="letter_0411_003_tr_1"/>
+            <lb xml:id="letter_0411_003_l"/>2)<CONV tag="p">
+<lb xml:id="letter_0411_003_l_2"/>Und die Lehrer denken
+<lb xml:id="letter_0411_003_tr_1_tl_4"/>ich klappe um –</CONV><CONV tag="p">
+<lb xml:id="letter_0411_003_l_1"/>und und –</CONV> <CONV tag="p">
+<lb xml:id="letter_0411_003_l_4"/>also jetzt habe ich
+<lb xml:id="letter_0411_003_l_3"/>ziemlich alles geklagt.
+<lb xml:id="letter_0411_003_tr_1_tl_12"/>Daneben geht mir
+<lb xml:id="letter_0411_003_tr_1_tl_13"/>"usgezeichnet" [Zürichdeutsch für ausgezeichnet]. –</CONV><CONV tag="p">
+<lb xml:id="letter_0411_003_tr_1_tl_14"/>Ja, Du – nach der Matur
+<lb xml:id="letter_0411_003_tr_1_tl_15"/>kom[m]e ich bald nach
+<lb xml:id="letter_0411_003_l_6"/>Schweden – aber –, wär es
+<lb xml:id="letter_0411_003_tr_1_tl_19"/>mir so weit!</CONV>
+<lb xml:id="letter_0411_003_l_7"/>Viele liebe Grüße, Torgny
+<lb xml:id="letter_0411_003_tr_1_tl_23"/>u. Lars –
+<lb xml:id="letter_0411_003_tr_1_tl_24"/>Deine An[n]emarie<pb xml:id="letter_0411_004"
+                facs="https://www.e-manuscripta.ch/i3f/v20/5289837"/>
+         </div>
+      </body>
+   </text>
+</TEI>
