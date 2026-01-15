@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0414" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0414#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0414</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0414_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.e-manuscripta.ch/i3f/v20/5289853"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Bocken am 3. Nov. 
+               <lb xml:id="p001_tr_1_tl_2"/>[ev. hs RS:][1927]  
+               <lb xml:id="p001_l"/>Mein liebes Suzeli! Ich weiss nicht 
+               <lb xml:id="p001_tr_1_tl_5"/>ob Meme Dir schon Näheres über 
+               <lb xml:id="p001_tr_1_tl_6"/>meine Examen berichtet hat, aber 
+               <lb xml:id="p001_tr_1_tl_7"/>ich weiss dass es Dich interressiert 
+               <lb xml:id="p001_tr_1_tl_8"/>u. es sieht also nicht nach 
+               <lb xml:id="p001_tr_1_tl_9"/>"Ufschnitt" [Zürichdeutsch für Aufschneiden] aus, wen[n] ich Dir die 
+               <lb xml:id="p001_tr_1_tl_10"/>Noten aufschreibe 
+               <lb xml:id="p001_tr_1_tl_13"/>Deutsch m.[ündlich] 5 
+               <lb xml:id="p001_tr_1_tl_16"/>schrifftl. 5 
+               <lb xml:id="p001_l_4"/>Franz. m. 6 
+               <lb xml:id="p001_tr_1_tl_22"/>schr. 6 
+               <lb xml:id="p001_tr_1_tl_27"/>Engl. 5 
+               <lb xml:id="p001_tr_1_tl_28"/>Latein m. schr. 5 
+               <lb xml:id="p001_l_6"/>Geschichte I (6) 
+               <lb xml:id="p001_l_7"/>II <hi rendition="#u">5</hi> 
+               <lb xml:id="p001_l_1"/>Geographie 6 
+               <lb xml:id="p001_l_2"/>Naturk. 6 
+               <lb xml:id="p001_tr_1_tl_17"/>Physik 5 
+               <lb xml:id="p001_tr_1_tl_21"/>Chemie 5 
+               <lb xml:id="p001_l_3"/>Mathem. in 6 
+               <lb xml:id="p001_l_5"/>schriftl. 6 
+               <lb xml:id="p001_tr_1_tl_29"/>Zeichnen 5 
+               <lb xml:id="p001_l_8"/>Halbe Noten gibt es leider incht. 
+               <lb xml:id="p001_tr_1_tl_34"/>Die beiden Geschichtsnoten beziehen sich 
+               <lb xml:id="p001_tr_1_tl_35"/>auf das Vorjahr (6) u. dies Jahr 5. 
+               <lb xml:id="p001_l_9"/>Ich weiss nicht was in Deutsch u. 
+               <lb xml:id="p001_tr_1_tl_38"/>Geschichte los war. Es kam 
+               <lb xml:id="p001_l_10"/>nicht in Gang. Ich war 
+               <lb xml:id="p001_tr_1_tl_41"/>unglücklich u. entmutigt. Ganz 
+               <lb xml:id="p001_l_11"/>fein ging Mathi  [Zürichdeutsch für Mathematik]. 6 Aufgaben, aus 
+               <lb xml:id="p001_l_13"/>Algebra 2, aus Analyt. 2, aus</p>
+
+            <pb xml:id="p002" facs="https://www.e-manuscripta.ch/i3f/v20/5289854"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l_1"/>Trigo 1, u. eine leichtere mit 
+               <lb xml:id="p002_l"/>Differential. Alle waren einfach 
+               <lb xml:id="p002_l_2"/>u. ich löste sie indem ich sehr 
+               <lb xml:id="p002_l_4"/>vergnügt u. fleissi 3 1/2 Stunden 
+               <lb xml:id="p002_l_5"/>studierte, Log.[arithmen] aufsuchte, Kon 
+               <lb xml:id="p002_l_3" break="no"/>struktionen machte. Es war 
+               <lb xml:id="p002_l_6"/>direkt "amüsant". Im Münd 
+               <lb xml:id="p002_l_7" break="no"/>lichen ging es wie geschmiert. 
+               <lb xml:id="p002_tr_1_tl_20"/>Latein hatte ich Livius u. machte 
+               <lb xml:id="p002_tr_1_tl_21"/>anscheinend einige Fehler daher 
+               <lb xml:id="p002_l_15"/>die 5. Mein Deutsch Aufsatz über 
+               <lb xml:id="p002_l_9"/>den Erlösungsgedanken in der 
+               <lb xml:id="p002_l_10"/>Iphigenie war für mein Gefühl 
+               <lb xml:id="p002_l_11"/>mässig, hingegen nicht nach 
+               <lb xml:id="p002_l_12"/>dem Geschmack des Professors. 
+               <lb xml:id="p002_tr_1_tl_33"/>Mehr zu erzählen ist sehr 
+               <lb xml:id="p002_l_14"/>langweilig, es war nicht 
+               <lb xml:id="p002_tr_1_tl_37"/>aufregend, nur ermündend. Ich 
+               <lb xml:id="p002_tr_1_tl_38"/>merkte am Schluss nicht, das 
+               <lb xml:id="p002_l_13"/>die Sache für mich wichtig ist</p>
+
+            <pb xml:id="p003" facs="https://www.e-manuscripta.ch/i3f/v20/5289855"/>
+            <milestone unit="textregion" xml:id="p003_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_l"/>II</p>
+
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_l_2"/>Von Fetan weg zu gehen war 
+               <lb xml:id="p003_l_3"/>ungleich schwerer u. wirkt<hi rendition="#u">e</hi> 
+               <lb xml:id="p003_l_1"/>viel mehr nach. (Ich kan[n] auch 
+               <lb xml:id="p003_l_6"/>Presens [sic] gebrauchen).[das e von wirkte ist doppelt unterstrichen, unter dem Wort verweist ein Pfeil auf den Satz in Parenthese.] Zu Mama's 
+               <lb xml:id="p003_l_4"/>Entsetzen habe ich heute wieder 
+               <lb xml:id="p003_tr_1_tl_15"/>mal 8 Briefe bekom[m]en.</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_16"/>– Heute wurde ich immatrikuliert. Es 
+               <lb xml:id="p003_tr_1_tl_17"/>ist ein nettes Gefühl, stud phil I 
+               <lb xml:id="p003_tr_1_tl_18"/>zu sein, Legitimationskarte u. 
+               <lb xml:id="p003_tr_1_tl_19"/>Testatbüchlein zu besitzen, Kollegien 
+               <lb xml:id="p003_tr_1_tl_20" break="no"/>hefte spazieren zu tragen u. 
+               <lb xml:id="p003_l_5"/>dem Rektor die Hand zu 
+               <lb xml:id="p003_l_7"/>drücken. Die Kollege (versch. 
+               <lb xml:id="p003_tr_1_tl_25"/>Geschichtskollege bei Meyer sowie 
+               <lb xml:id="p003_l_8"/>Wölfflin) waren beinahe an 
+               <lb xml:id="p003_l_11" break="no"/>regend. Vorläufig fahre ich 
+               <lb xml:id="p003_l_10"/>mit Mama nach ﻿Genf u. 
+               <lb xml:id="p003_l_9"/>höre erst in 10 Tagen, und 
+               <lb xml:id="p003_tr_1_tl_39"/>Philosophie etc.</p>
+
+            <pb xml:id="p004" facs="https://www.e-manuscripta.ch/i3f/v20/5289856"/>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_1_tl_3"/>So, jetzt hab ich den 
+               <lb xml:id="p004_l"/>­Schreibkrampf.</p>
+            <p> 
+               <lb xml:id="p004_tr_1_tl_4"/>Wen[n] ich kan[n], besuche ich 
+               <lb xml:id="p004_tr_1_tl_5"/>Ilda in Lausanne. 
+               <lb xml:id="p004_tr_1_tl_6"/>Marghrita [?] war da u. erzählte 
+               <lb xml:id="p004_l_2"/>Lars habe 8 Zähne. Wie 
+               <lb xml:id="p004_tr_1_tl_10"/>geht es denn Ma?</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_l_4"/>Adieu, schreibe bald, gell? 
+               <lb xml:id="p004_l_5"/>Und Grüße Torgny vielmals! 
+               <lb xml:id="p004_tr_1_tl_19"/>Deine An[n]emarie</p>
+</div>
+       </body>
+    </text>
+ </TEI>
