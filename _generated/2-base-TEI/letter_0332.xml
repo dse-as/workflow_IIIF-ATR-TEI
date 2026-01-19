@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0332" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0332#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0332</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0332_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0332_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Studentenschaft 
+               <lb xml:id="p001_tr_1_tl_3"/>der Universität Zürich. 
+               <lb xml:id="p001_tr_1_tl_2"/>Zürich, den 23. X. 30 
+               <lb xml:id="p001_tr_1_tl_4"/>Lieber Onkel Georg!</p>
+            <p> 
+               <lb xml:id="p001_l"/>Mittwoch, den 29. Okt. spricht auf 
+               <lb xml:id="p001_tr_1_tl_7"/>unsere [Pfeil verweist auf "Studentenschaft"] Einladung hin Prof. 
+               <lb xml:id="p001_tr_1_tl_8"/>Emil Praetorius von München über 
+               <lb xml:id="p001_tr_1_tl_9"/>"Weltbild und Weltgehalt, zur Krise 
+               <lb xml:id="p001_tr_1_tl_10"/>Künstlerischen Schaffens" – Ich sah in 
+               <lb xml:id="p001_tr_1_tl_11"/>München seine unerhört schöne Sam[m]lung 
+               <lb xml:id="p001_tr_1_tl_12"/>ostasiatischer Kunst –</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_13"/>Falls Dich u. Tante Olga der Vortrag 
+               <lb xml:id="p001_tr_1_tl_14"/>interessiert, würde ich mich freuen 
+               <lb xml:id="p001_tr_1_tl_15"/>wen[n] Ihr kom[m]t. (8¼ <hi rendition="#sup">h</hi> im Aud.[itorium] III 
+               <lb xml:id="p001_tr_1_tl_16"/>der techn. Hochschule)</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_17"/>Heute essen Hasi u. ich bei Vrene!</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_18"/>Viele herzliche Grüsse 
+               <lb xml:id="p001_tr_1_tl_19"/>Deine 
+               <lb xml:id="p001_tr_1_tl_20"/>An[n]emarie 
+               <lb xml:id="p001_tr_1_tl_21"/>P.S. Für etwas Propaganda für den 
+               <lb xml:id="p001_tr_1_tl_22"/>Vortrag sind wir dankbar!</p>
+</div>
+       </body>
+    </text>
+ </TEI>
