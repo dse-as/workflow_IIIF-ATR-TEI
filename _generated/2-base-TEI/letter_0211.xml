@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0211" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0211#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0211</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0211_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415644"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Schloss Kolbsheim / Elsass 
+               <lb xml:id="p001_tr_1_tl_2"/>Montag 
+               <lb xml:id="p001_tr_1_tl_3"/>E.-Liebling, ich habe es sehr erwogen, 
+               <lb xml:id="p001_tr_1_tl_4"/>nach München zu fahren u. von dort 
+               <lb xml:id="p001_tr_1_tl_5"/>erst nach Berlin, inzwischen wurde ich 
+               <lb xml:id="p001_tr_1_tl_6"/>auf freundliche Weise hierher verschlagen, 
+               <lb xml:id="p001_tr_1_tl_7"/>wo man fürstlich empfangen, samt 
+               <lb xml:id="p001_tr_1_tl_8"/>Victory versorgt u. verwöhnt wird wie 
+               <lb xml:id="p001_tr_1_tl_9"/>es sonst in Büchern zu lesen ist. Ich 
+               <lb xml:id="p001_tr_1_tl_10"/>war, eben Münchens wegen, mit Wider 
+               <lb xml:id="p001_tr_1_tl_11" break="no"/>streben gewappnet was durchaus nicht 
+               <lb xml:id="p001_tr_2_tl_1"/>freundlich von mir war – aber hier vor 
+               <lb xml:id="p001_tr_2_tl_2"/>grossem Feuer in der Bibliothek zu 
+               <lb xml:id="p001_tr_2_tl_3"/>lesen, u. durch herbstlich gefärbte 
+               <lb xml:id="p001_tr_2_tl_4"/>Gartenwege zu gehen, oder zwischen, 
+               <lb xml:id="p001_tr_2_tl_5"/>Weinreben u. Obstbäumen, stim[m]t 
+               <lb xml:id="p001_tr_2_tl_6"/>versöhnlich – 
+               <lb xml:id="p001_tr_2_tl_7"/>ich werde also, fügsam, morgen nach</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415645"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_2_tl_1"/>Freiburg u. von dort Mittwoch gegen 
+               <lb xml:id="p002_tr_2_tl_2"/>Berlin fahren, u. dort in 
+               <lb xml:id="p002_tr_2_tl_3"/><hi rendition="#u">Fronau</hi>, Fischtalweg, bei meiner 
+               <lb xml:id="p002_tr_2_tl_4"/>Cousine <hi rendition="#u">Frau Dr. Albers-Schönberg</hi> 
+               <lb xml:id="p002_tr_2_tl_5"/>wohnen – Wenn Du gar keine Miene 
+               <lb xml:id="p002_tr_2_tl_6"/>machen solltest in abzusehender 
+               <lb xml:id="p002_tr_2_tl_7"/>Zeit nach Berlin kom[m]en zu müssen, 
+               <lb xml:id="p002_tr_2_tl_8"/>lass es mich bitte wissen. Ich bin, Du 
+               <lb xml:id="p002_tr_2_tl_9"/>merkst es übrigens selbst, zum Briefe 
+               <lb xml:id="p002_tr_1_tl_1"/>Schreiben nicht recht fährig. Die Welt 
+               <lb xml:id="p002_tr_1_tl_2"/>ist mir vollständig unbegreiflich, ein 
+               <lb xml:id="p002_tr_1_tl_3"/>Chaos ohne Halt, u. das setzt sich 
+               <lb xml:id="p002_tr_1_tl_4"/>bis in das Leben des Einzelnen fort 
+               <lb xml:id="p002_tr_1_tl_5"/>dessen Sin[n] u. Richtigkeit in keiner Weise, 
+               <lb xml:id="p002_tr_1_tl_6"/>einzusehen ist – 
+               <lb xml:id="p002_tr_1_tl_7"/>Das sind Probleme der 18 jährigen, 
+               <lb xml:id="p002_tr_1_tl_8"/>die plötzlich ordnungslos wiederkehren – 
+               <lb xml:id="p002_tr_1_tl_9"/>Aber jenes Gespräch mit Klaus: ob in so 
+               <lb xml:id="p002_tr_1_tl_10"/>gefährdeter Zeit die Bemühungen des 
+               <lb xml:id="p002_tr_1_tl_11"/>Einzelnen noch berechtigt seien, 
+               <lb xml:id="p002_l"/>sein Leben überhaupt am Platz</p>
+
+            <pb xml:id="p003" facs="https://www.monacensia-digital.de/i3f/v20/415646"/>
+            <milestone unit="textregion" xml:id="p003_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_2_tl_2"/>– ist geeignet, jede private Existenz in 
+               <lb xml:id="p003_tr_2_tl_3"/>zweifelhaftes Licht zu setzen – 
+               <lb xml:id="p003_tr_2_tl_4"/>Du weisst ja wie das zugeht: Irgendeine 
+               <lb xml:id="p003_tr_2_tl_5"/>Frage ergreift Dich, dan[n] siehst Du 
+               <lb xml:id="p003_tr_2_tl_6"/>sie <hi rendition="#u">überall</hi> u. ständig auftauchen – [vertical space] 
+               <lb xml:id="p003_tr_1_tl_1"/>Jetzt lese ich Französische Literateur, mit 
+               <lb xml:id="p003_tr_1_tl_2"/>viel Verwunderung übrigens, genau wie 
+               <lb xml:id="p003_tr_1_tl_3"/>mich die trotz besten Willens vorhandene 
+               <lb xml:id="p003_tr_1_tl_4"/>Kluft, die französische u. deutsche 
+               <lb xml:id="p003_tr_1_tl_5"/>Denkungsart tren[n]t, in der täglichen 
+               <lb xml:id="p003_tr_1_tl_6"/>Konversation hier erstaunt [im Elsass] – [vertical space] 
+               <lb xml:id="p003_tr_1_tl_7"/>Werde ich die Adr. v. Klaus in Berlin 
+               <lb xml:id="p003_tr_1_tl_8"/>finden? Was macht inzwischen 
+               <lb xml:id="p003_tr_1_tl_9"/>"Plagiat" [gemeinsame Stück von EM und KM]? 
+               <lb xml:id="p003_tr_1_tl_10"/>ich schwanke, in meiner jetzigen 
+               <lb xml:id="p003_tr_1_tl_11"/>harmlosen Existenz, zwischen</p>
+
+            <pb xml:id="p004" facs="https://www.monacensia-digital.de/i3f/v20/415647"/>
+            <milestone unit="textregion" xml:id="p004_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_2_tl_1"/>Entschliessungen der extremsten 
+               <lb xml:id="p004_tr_2_tl_2"/>Art – zuweilen fühle ich mich 
+               <lb xml:id="p004_tr_2_tl_3"/>gleichsam blind u. lebe als 
+               <lb xml:id="p004_tr_2_tl_4"/>sei alles ringsum von grosser 
+               <lb xml:id="p004_tr_2_tl_5"/>Gleichgültigkeit 
+               <lb xml:id="p004_tr_2_tl_6"/>dabei regt sich irgendwo eine 
+               <lb xml:id="p004_tr_2_tl_7"/>merkwürdige Aktivität – 
+               <lb xml:id="p004_tr_2_tl_8"/>Man sollte vielleicht doch 
+               <lb xml:id="p004_tr_2_tl_9"/>"sein Leben einsetzen" dürfen. 
+               <lb xml:id="p004_tr_2_tl_10"/>Aber für was – [vertical space] 
+               <lb xml:id="p004_tr_1_tl_1"/>Grüsse für Therese – 
+               <lb xml:id="p004_tr_1_tl_2"/>für Medi u. Bibi (ich <hi rendition="#u">sollte</hi> ihnen 
+               <lb xml:id="p004_tr_1_tl_3"/>doch für ihren Brief danken) 
+               <lb xml:id="p004_tr_1_tl_4"/>für Dich in erneuter Anhänglichkeit 
+               <lb xml:id="p004_tr_1_tl_5"/>von 
+               <lb xml:id="p004_tr_1_tl_6"/>A. – 
+               <lb xml:id="p004_tr_1_tl_7"/>Für Klaus: 
+               <lb xml:id="p004_tr_1_tl_8"/>Telefon Tegel 24.13</p>
+</div>
+       </body>
+    </text>
+ </TEI>
