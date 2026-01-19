@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0342" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0342#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0342</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0342_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0342_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>14. März 1928 
+               <lb xml:id="p001_tr_1_tl_2"/>Liebe Annemarie, 
+               <lb xml:id="p001_tr_1_tl_3"/>ich danke dir 
+               <lb xml:id="p001_tr_1_tl_4"/>für deinen Brief und werde 
+               <lb xml:id="p001_tr_1_tl_5"/>dir mit Vergnügen von meinen 
+               <lb xml:id="p001_tr_1_tl_6"/>Räucherstäbchen abtreten. Es 
+               <lb xml:id="p001_tr_1_tl_7"/>würde mich aber freuen, wenn 
+               <lb xml:id="p001_tr_2_tl_1"/>an sie dir selber holen würdest, 
+               <lb xml:id="p001_tr_2_tl_2"/>damit wir uns wieder einmal 
+               <lb xml:id="p001_l"/>sehen. Vrene sagte neulich, 
+               <lb xml:id="p001_tr_2_tl_5"/>du hättert die Absicht nach 
+               <lb xml:id="p001_tr_2_tl_6"/>Winterthur zu kommen, also 
+               <lb xml:id="p001_tr_2_tl_7"/>ist meine Bitte nicht zu un¬</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0342_002.tif"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1" break="no"/>bescheiden. 
+               <lb xml:id="p002_tr_1_tl_2"/>Die Aufnahmen vom Eisfeld 
+               <lb xml:id="p002_tr_1_tl_3"/>sind nicht gerade beinlunt [?]. 
+               <lb xml:id="p002_tr_1_tl_4"/>Anbei zwei der besten. Von 
+               <lb xml:id="p002_tr_1_tl_5"/>den Regenschirmphoto will ich 
+               <lb xml:id="p002_tr_1_tl_6"/>dir sobald wie möglich eine 
+               <lb xml:id="p002_tr_1_tl_7"/>Kopie machen. 
+               <lb xml:id="p002_tr_1_tl_8"/>Also hoffentlich auf baldiges 
+               <lb xml:id="p002_tr_1_tl_9"/>Wiedersehen! 
+               <lb xml:id="p002_tr_1_tl_10"/>Dein Onkel.</p>
+
+            <milestone unit="textregion" xml:id="p002_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_2_tl_1"/>Ich habe kürzlich die schöne 
+               <lb xml:id="p002_tr_2_tl_2"/>Sammlung von 37 alten japanischen 
+               <lb xml:id="p002_tr_2_tl_3"/>No-Tanzmaschen des verstorbenen Prof. Grosse 
+               <lb xml:id="p002_tr_2_tl_4"/>in Freiburg, mit dem ich befreundet war, von 
+               <lb xml:id="p002_tr_2_tl_5"/>seiner Wittwe erworben. Da sind Stücke 
+               <lb xml:id="p002_tr_2_tl_6"/>drunter, die dir sicher gefallen werden. –</p>
+</div>
+       </body>
+    </text>
+ </TEI>
