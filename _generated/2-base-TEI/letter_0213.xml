@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0213" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0213#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0213</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0213_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415653"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>bei Dr. Albers-Schönberg. 
+               <lb xml:id="p001_tr_1_tl_3"/>Frohnau 
+               <lb xml:id="p001_tr_1_tl_2"/>Son[n]tag 
+               <lb xml:id="p001_tr_1_tl_4"/>Fischgrund 9 
+               <lb xml:id="p001_tr_1_tl_5"/>(Tegel 24.13)</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_6"/>E. – danke für Deinen Brief den ich erst 
+               <lb xml:id="p001_tr_1_tl_7"/>hier bekam, aber der liebe, sehr liebe u. 
+               <lb xml:id="p001_tr_1_tl_8"/>frisch gemalte Victory ist <hi rendition="#u">doch</hi> kein schlechter 
+               <lb xml:id="p001_tr_1_tl_9"/>Wagen, ich fuhr z. B. mittags 12 Uhr in 
+               <lb xml:id="p001_tr_1_tl_10"/>Fulda weg, was um 8 Uhr in Berlin, 420 km, 
+               <lb xml:id="p001_tr_1_tl_11"/>was doch recht brav von ihm u. mir war. 
+               <lb xml:id="p001_tr_1_tl_12"/>Aber wie Du es gemacht hast gleich in einer 
+               <lb xml:id="p001_tr_1_tl_13"/>Nacht von hier bis München zu fahren? 
+               <lb xml:id="p001_tr_1_tl_14"/>Den Klaus sehe ich morgen u. esse mit ihm, 
+               <lb xml:id="p001_tr_1_tl_15"/>worüber ich sehr befriedigt bin (ihn gefunden 
+               <lb xml:id="p001_tr_1_tl_16"/>zu haben) Im Übrigen habe ich Halsweh 
+               <lb xml:id="p001_tr_1_tl_17"/>u. hoffe, dass ich bloss deswegen so abgründig 
+               <lb xml:id="p001_tr_1_tl_18"/>mutlos bin. Ich habe allerlei erfolglos versucht, 
+               <lb xml:id="p001_tr_1_tl_19"/>das ist es was man vermeiden sollte – 
+               <lb xml:id="p001_tr_1_tl_20"/>soll, darf, kan[n] ich für 2 Tage nach München 
+               <lb xml:id="p001_tr_1_tl_21"/>reisen? Das wäre mir <del rend="overstrike">f</del> sehr erwünscht, 
+               <lb xml:id="p001_tr_1_tl_22"/>aber schreibe doch gleich ob Du nicht indessen 
+               <lb xml:id="p001_tr_1_tl_23"/>weggefahren, mit dem Amerikaner [ev. ist EMs Auto, ein Ford, gemeint] etwa 
+               <lb xml:id="p001_tr_1_tl_24"/>verreist bist –</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_25"/>Und wie ich Grippe habe, kann ich auch 
+               <lb xml:id="p001_tr_1_tl_26"/>nicht reisen – ich habe sie wirklich, 
+               <lb xml:id="p001_tr_1_tl_27"/>unabänderlich. Grüsse für Medi!</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_28"/>Sehr u. stets die Deine 
+               <lb xml:id="p001_tr_1_tl_29"/>A.–</p>
+</div>
+       </body>
+    </text>
+ </TEI>
