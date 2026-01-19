@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0345" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0345#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0345</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0345_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0345_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>10. Juli 1932 
+               <lb xml:id="p001_tr_1_tl_2"/>Liebe Annemarie 
+               <lb xml:id="p001_tr_1_tl_3"/>es ist sehr freundlich 
+               <lb xml:id="p001_tr_1_tl_4"/>von dir, daß du mir dein mit 
+               <lb xml:id="p001_tr_1_tl_5"/>H. R. Schmid gemeinsam ver 
+               <lb xml:id="p001_tr_1_tl_6" break="no"/>fasstes Buch zugestellt hast. [Winter in Vorderasien - dass Schmid daran beteiligt war, ist wohl ein Missverständnis] 
+               <lb xml:id="p001_tr_1_tl_7"/>Ich danke dir herzlich dafür 
+               <lb xml:id="p001_tr_1_tl_8"/>und werde mich gleich an die 
+               <lb xml:id="p001_l"/>Lektüre machen. Als Gegengabe</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0345_002.tif"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>bitte ich dich das beiliegende 
+               <lb xml:id="p002_tr_1_tl_2"/>Büchlein entgegen nehmen zu 
+               <lb xml:id="p002_tr_1_tl_3"/>wollen, dessen Existenz dir 
+               <lb xml:id="p002_tr_1_tl_4"/>wahrscheinlich bereits bekannt 
+               <lb xml:id="p002_l"/>ist [seine Memoiren]. Ich bitte um nachsichtige 
+               <lb xml:id="p002_tr_1_tl_7"/>Beurteilung da ich nicht zur 
+               <lb xml:id="p002_tr_1_tl_8"/>Zunft gehöre. 
+               <lb xml:id="p002_tr_1_tl_9"/>Herzlich dein Onkel 
+               <lb xml:id="p002_tr_1_tl_10"/>Georg</p>
+</div>
+       </body>
+    </text>
+ </TEI>
