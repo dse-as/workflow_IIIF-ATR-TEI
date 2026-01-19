@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0344"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0344</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0344_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0344_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0344_001.tif"/>
+            <milestone unit="textregion" xml:id="letter_0344_001_tr_1"/>
+            <lb xml:id="letter_0344_001_tr_1_tl_1"/>24. Oktober 1930
+<lb xml:id="letter_0344_001_tr_1_tl_2"/>Liebe Annemarie,
+<lb xml:id="letter_0344_001_tr_1_tl_3"/>ich bin dir dankbar,
+<lb xml:id="letter_0344_001_tr_1_tl_4"/>dass du mich auf den Vortrag von
+<lb xml:id="letter_0344_001_tr_1_tl_5"/>Praetorius aufmerksam gemacht
+<lb xml:id="letter_0344_001_tr_1_tl_6"/>hast. Ich habe den Herren vor
+<lb xml:id="letter_0344_001_tr_1_tl_7"/>einigen Jahren in Frankfurt kennen
+<lb xml:id="letter_0344_001_tr_1_tl_8"/>gelernt und einen Vortrag von ihm
+<lb xml:id="letter_0344_001_tr_1_tl_9"/>bei einer Tagung des China-Instituts
+<lb xml:id="letter_0344_001_tr_1_tl_10"/>gehört, der sehr gehaltvoll, aber reich¬
+<lb xml:id="letter_0344_001_tr_1_tl_11"/>lich schwer zu verstehen war.
+<lb xml:id="letter_0344_001_tr_1_tl_12"/>Das Thema seines Zürcher-Vortrags
+<lb xml:id="letter_0344_001_tr_1_tl_13"/>interessiert mich sehr, aber ich kann
+<lb xml:id="letter_0344_001_tr_1_tl_14"/>noch nicht sagen, ob es mir möglich
+<lb xml:id="letter_0344_001_tr_1_tl_15"/>sein wird, zu dem Vortrag zu kommen,
+<lb xml:id="letter_0344_001_tr_1_tl_16"/>da ich Mitte nächster Woche den Besuch
+<lb xml:id="letter_0344_001_tr_1_tl_17"/>meines Freundes Frans Masereel [belgischer Maler] erwarte.<pb xml:id="letter_0344_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0344_002.tif"/>
+            <milestone unit="textregion" xml:id="letter_0344_002_tr_1"/>
+            <lb xml:id="letter_0344_002_tr_1_tl_1"/>Kommt Masereel erst nach Mittwoch,
+<lb xml:id="letter_0344_002_tr_1_tl_2"/>so wurde ich nicht verfehlen nach
+<lb xml:id="letter_0344_002_tr_1_tl_3"/>Zürich zu fahren.
+<lb xml:id="letter_0344_002_tr_1_tl_4"/>Hier geht wieder allerlei vor sich.
+<lb xml:id="letter_0344_002_tr_1_tl_5"/>Im Sonnenbad sind sechs der drei¬
+<lb xml:id="letter_0344_002_tr_1_tl_6"/>zehn Mosaïken gesetzt worden, die
+<lb xml:id="letter_0344_002_tr_1_tl_7"/>nach Entwürfen von Masereel durch
+<lb xml:id="letter_0344_002_tr_1_tl_8"/>einen Genfer Mosaicisten ausgeführt
+<lb xml:id="letter_0344_002_tr_1_tl_9"/>wurden. Gegenwärtig wird das Sonnen¬
+<lb xml:id="letter_0344_002_tr_1_tl_10"/>bad neu gestrichen und zwar in einem
+<lb xml:id="letter_0344_002_tr_1_tl_11"/>dunklen Rot, wodurch es ein ziemluch
+<lb xml:id="letter_0344_002_tr_1_tl_12"/>anderes Aussehen bekommt. Auch im
+<lb xml:id="letter_0344_002_tr_1_tl_13"/>Garten davor wird allerlei verbessert.
+<lb xml:id="letter_0344_002_tr_1_tl_14"/>Im nächsten Sommer, nachdem die
+<lb xml:id="letter_0344_002_tr_1_tl_15"/>letzten Mosaiken gesetzt worden sind,
+<lb xml:id="letter_0344_002_tr_1_tl_16"/>möchte ich dann zur Einweihung
+<lb xml:id="letter_0344_002_tr_1_tl_17"/>ein grosses Gartenfest geben.
+<lb xml:id="letter_0344_002_tr_1_tl_18"/>Inzwischen habe ich auch meine<pb xml:id="letter_0344_003"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0344_003.tif"/>
+            <milestone unit="textregion" xml:id="letter_0344_003_tr_1"/>
+            <lb xml:id="letter_0344_003_tr_1_tl_1"/>"Erinnerungen" fertig zu Papier ge¬
+<lb xml:id="letter_0344_003_tr_1_tl_2"/>bracht, etwa 250 Seiten Typoscript.
+<lb xml:id="letter_0344_003_tr_1_tl_3"/>Ich habe im Sinne, sie in einer ganz
+<lb xml:id="letter_0344_003_tr_1_tl_4"/>kleinen Auflage drucken zu lassen
+<lb xml:id="letter_0344_003_tr_1_tl_5"/>um einige Verwandte und Freunde
+<lb xml:id="letter_0344_003_tr_1_tl_6"/>damit zu "beglücken". (Dies soll
+<lb xml:id="letter_0344_003_tr_1_tl_7"/>aber vortäufig noch nicht ausposaumt
+<lb xml:id="letter_0344_003_tr_1_tl_8"/>werden!)
+<lb xml:id="letter_0344_003_tr_1_tl_9"/>Meinem Arm geht es recht gut. Nach
+<lb xml:id="letter_0344_003_tr_1_tl_10"/>einer Röntgenaufnahme, die ich dieser
+<lb xml:id="letter_0344_003_tr_1_tl_11"/>Tage machen liess, scheint sich wieder
+<lb xml:id="letter_0344_003_tr_1_tl_12"/>ein neuer Gelenkknopf zu bilden!
+<lb xml:id="letter_0344_003_tr_1_tl_13"/>Was die Magie nicht alles vermag!
+<lb xml:id="letter_0344_003_tr_1_tl_14"/>Herzlich dein alter
+<lb xml:id="letter_0344_003_tr_1_tl_15"/>Onkel Georg.
+<lb xml:id="letter_0344_003_tr_1_tl_16"/>Du solltest wieder einmal hieher [sic]
+<lb xml:id="letter_0344_003_tr_1_tl_17"/>kommen. Die gegenwärtige Aus¬
+<lb xml:id="letter_0344_003_tr_1_tl_18"/>stellung "das Pferd in der Kunst" ist
+<lb xml:id="letter_0344_003_tr_1_tl_19"/>wirklich sehr sehenswert. Auch deine
+<lb xml:id="letter_0344_003_tr_1_tl_20"/>Mutter dürfte diese Aufstellung interessieren
+<lb xml:id="letter_0344_003_tr_1_tl_21"/>(Sieben Sääle nichts alt Rösser!!)</div>
+      </body>
+   </text>
+</TEI>
