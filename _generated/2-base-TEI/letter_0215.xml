@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0215" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0215#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0215</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0215_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415662"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_2_tl_1"/>Hohenzollernstr. 23/24 
+               <lb xml:id="p001_tr_2_tl_2"/><hi rendition="#u">Freitag –</hi> 
+               <lb xml:id="p001_tr_2_tl_3"/>E.-Liebling, es ist, kurz gesagt, die beste 
+               <lb xml:id="p001_tr_2_tl_4"/>aller Überraschungen, Dich in Dresden 
+               <lb xml:id="p001_tr_2_tl_5"/>oder Prag oder im böhmischen Wald 
+               <lb xml:id="p001_tr_2_tl_6"/>bei Schneesturm u. Rübezahl zu glauben 
+               <lb xml:id="p001_tr_2_tl_7"/>u. statt dessen Dein Bild gleich aus 
+               <lb xml:id="p001_tr_2_tl_8"/>München zu bekom[m]en. Natürlich ist es 
+               <lb xml:id="p001_tr_1_tl_1"/>dem Photographen nur halb gelungen, 
+               <lb xml:id="p001_tr_1_tl_2"/>nur viertels, aber trotz allem, das Bild, 
+               <lb xml:id="p001_tr_1_tl_3"/>macht sich an meiner Wand ganz wunder 
+               <lb xml:id="p001_tr_1_tl_4" break="no"/>schön u. beruhigt mich durch seine Gegen 
+               <lb xml:id="p001_tr_1_tl_5" break="no"/>wart. Wie es mir geht, fragst Du – ich bin 
+               <lb xml:id="p001_tr_1_tl_6"/>doch 10 Tage im Bett geblieben, aber das 
+               <lb xml:id="p001_tr_1_tl_7"/>war gut, notwendig u. richtig. Jetzt weiss 
+               <lb xml:id="p001_tr_1_tl_8"/>ich dass "Ariane" [laut Fleischmann: "sog. Damenlokal in Berlin", gemeint ist wohl eine Lesben-Bar, ev. diejenige, in der Ursula arbeitet, siehe auch KM Tagebuch 1931-33, S. 11 - 18.X.31.] ein Komplex, u. 
+               <lb xml:id="p001_tr_1_tl_9"/>das Dasein in Berlin nur möglich ist, wen[n] 
+               <lb xml:id="p001_tr_1_tl_10"/>man sich sehr streng beschränkt was 
+               <lb xml:id="p001_tr_1_tl_12"/>Zeit, Menschen u. Reden anbetrifft.</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415663"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>Ich mache es also mindestens wie unser 
+               <lb xml:id="p002_tr_1_tl_2"/>Klaus, der auch ruhig an seinem Schreib 
+               <lb xml:id="p002_tr_1_tl_3" break="no"/>tisch bleibt abgesehen von einer Mittags 
+               <lb xml:id="p002_tr_1_tl_4" break="no"/>pause, u. erst ab 7 Uhr bin ich dann für 
+               <lb xml:id="p002_tr_1_tl_5"/>Verabredungen zu haben.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_6"/>Es braucht Dich u. mich eigentlich gar nicht zu 
+               <lb xml:id="p002_tr_1_tl_7"/>verwundern dass der psychische Reinfall den 
+               <lb xml:id="p002_tr_1_tl_8"/><del rend="overstrike">psychischen</del> [add above line: physischen] so rasch hervorgerufen hat: man 
+               <lb xml:id="p002_tr_1_tl_10"/>nen[n]t das, scheint mir, Flucht in die Krankheit, 
+               <lb xml:id="p002_tr_1_tl_11"/>u. es war ja auch so dass <del rend="overstrike">g</del> die ganz unmässige 
+               <lb xml:id="p002_tr_1_tl_12"/>Leidenschaft für Ursula noch viel unmässigere 
+               <lb xml:id="p002_tr_1_tl_13"/>physische Austrengungen, Alkohol u. Nächte 
+               <lb xml:id="p002_tr_1_tl_14"/>ohne Schlafen u. jene Ausfahrt [gemeint ist vermutlich Rheinsberg, das in lyrische Novelle verarbeitet wird] – mit sich 
+               <lb xml:id="p002_tr_1_tl_15"/>brachte. – [sehr langer Strich]</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_16"/>Ich weiss auch, leider, heute so wenig als vorher, 
+               <lb xml:id="p002_tr_1_tl_17"/>was daraus wird, es ist alles recht unge 
+               <lb xml:id="p002_tr_2_tl_1" break="no"/>schickt, u. Klaus hat es mit seinem Kind [damaliger Freund v. KM recherchieren] 
+               <lb xml:id="p002_tr_2_tl_2"/>viel leichter. Ursula war zweimal bei mir, 
+               <lb xml:id="p002_tr_2_tl_3"/>es liess sich freundlich an, u. gelegentliche 
+               <lb xml:id="p002_tr_2_tl_4"/>Ariane-Besuche werden mir auch nicht 
+               <lb xml:id="p002_tr_2_tl_5"/>mehr den Hals kosten. Aber alles Andere 
+               <lb xml:id="p002_tr_2_tl_6"/>muss ich wohl abwarten, etwas muss sich 
+               <lb xml:id="p002_tr_2_tl_7"/>eben ändern, Ursula oder ich, oder die 
+               <lb xml:id="p002_tr_2_tl_8"/>äusseren Umstände. Indessen kom[m]e ich mit</p>
+
+            <pb xml:id="p003" facs="https://www.monacensia-digital.de/i3f/v20/415664"/>
+            <milestone unit="textregion" xml:id="p003_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_1"/>den fürsorglichen Speyers, u. auch mit 
+               <lb xml:id="p003_tr_1_tl_2"/>Frau von Schmidt-Pauli, sehr freundlich 
+               <lb xml:id="p003_tr_1_tl_3"/>aus u. denke, mehr an Bücher, an alle 
+               <lb xml:id="p003_tr_1_tl_4"/>Art von Arbeit, als an die letztlich unleidigen 
+               <lb xml:id="p003_tr_1_tl_5"/>Herzenszustände. So sehr hat mich, E., 
+               <lb xml:id="p003_tr_1_tl_6"/>der Satz über die "Damen in meinem Herzen" 
+               <lb xml:id="p003_tr_1_tl_7"/>beschämt u. Deine kurze Gegenwart von 
+               <lb xml:id="p003_tr_1_tl_8"/>allerhand tiefen Missverständnissen u. 
+               <lb xml:id="p003_tr_1_tl_9"/>falschen Ellenmassen befreit.</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_10"/>Ricki war nicht sehr irrsin[n]ig, (wieviel, ungeheuer 
+               <lb xml:id="p003_tr_1_tl_11"/>viel lieber ist mir aber sein Irresein als Evas 
+               <lb xml:id="p003_tr_1_tl_12"/>Klugheit) u. Klaus sehe ich hoffentlich morgen. 
+               <lb xml:id="p003_tr_1_tl_13"/>Bald gehen wir auch in Franks [Bruno Frank?] Première u. 
+               <lb xml:id="p003_tr_2_tl_1"/>fragen uns warum die Leute nicht lieber 
+               <lb xml:id="p003_tr_2_tl_2"/>"Plagiat" spielen wollen – –</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_2_tl_3"/>Gute Nacht, grüsse alle u. die Theres 
+               <lb xml:id="p003_tr_2_tl_4"/>insbesondere, schreibe bitte bald. Ich gebe 
+               <lb xml:id="p003_tr_2_tl_5"/>mir grosse, allergrösste Mühe Dir nicht 
+               <lb xml:id="p003_tr_2_tl_6"/>allzuviel mehr über Kinderkrankheiten 
+               <lb xml:id="p003_tr_2_tl_7"/>berichten zu müssen. 
+               <lb xml:id="p003_tr_2_tl_8"/>Es liebt Dich sehr Dein 
+               <lb xml:id="p003_tr_2_tl_9"/>Kind A.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
