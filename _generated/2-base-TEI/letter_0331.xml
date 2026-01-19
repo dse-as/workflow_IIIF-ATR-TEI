@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0331" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0331#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0331</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0331_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0331_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>REICHENAU 
+               <lb xml:id="p001_tr_1_tl_2"/>GRAUBÜNDEN 
+               <lb xml:id="p001_tr_1_tl_3"/>2. Aug. 30 
+               <lb xml:id="p001_tr_1_tl_4"/>Lieber Onkel Georg! 
+               <lb xml:id="p001_tr_1_tl_5"/>Es war wirklich nett von 
+               <lb xml:id="p001_tr_1_tl_6"/>Dir dass Du Zeit fandest 
+               <lb xml:id="p001_tr_1_tl_7"/>mir einen so langen Brief 
+               <lb xml:id="p001_tr_1_tl_8"/>zu schreiben – den[n] wen[n] Du 
+               <lb xml:id="p001_tr_1_tl_9"/>mitten in einer Arbeit 
+               <lb xml:id="p001_l"/>befangen bist [seine Mémoiren (s.u.), die 1931 erschienen] die Deine 
+               <lb xml:id="p001_tr_1_tl_12"/>Gedanken sicher sehr in 
+               <lb xml:id="p001_tr_1_tl_13"/>Anspruch nimmt, denke 
+               <lb xml:id="p001_tr_1_tl_14"/>ich mir dass jedes Um 
+               <lb xml:id="p001_tr_1_tl_15" break="no"/>stellen auf andere Dinge 
+               <lb xml:id="p001_tr_1_tl_16"/>eine kleine Überwindung 
+               <lb xml:id="p001_tr_1_tl_17"/>benötigt! – ich habe mich</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0331_002.tif"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l"/>schon wieder erholt, habe 
+               <lb xml:id="p002_tr_1_tl_3"/>meine Bücher zusam[m]engepackt 
+               <lb xml:id="p002_tr_1_tl_4"/>u. bin hierher gefahren. 
+               <lb xml:id="p002_tr_1_tl_5"/>Mit meinem Auto fahre ich 
+               <lb xml:id="p002_tr_1_tl_6"/>jeden Vormittag nach Chur 
+               <lb xml:id="p002_l_1"/>wo ich im Staatsarchiv 
+               <lb xml:id="p002_l_2"/>arbeite, daneben bleibt Zeit 
+               <lb xml:id="p002_l_3"/>genug den Spuren der Vergan 
+               <lb xml:id="p002_tr_1_tl_13" break="no"/>genheit auf anderen Wegen 
+               <lb xml:id="p002_tr_1_tl_14"/>nachzugehen, u. die Freund 
+               <lb xml:id="p002_l_4" break="no"/>lichkeit der Bündner Adligen 
+               <lb xml:id="p002_tr_1_tl_17"/>öffnet mir ihre Burgen und 
+               <lb xml:id="p002_tr_1_tl_18"/>Schlösser, die noch ganz voll 
+               <lb xml:id="p002_l_5"/>lebendiger Geschichte sind – 
+               <lb xml:id="p002_tr_1_tl_21"/>An besonders schönen Tagen gehen 
+               <lb xml:id="p002_l_6"/>wir auf irgend eine weltverlorene 
+               <lb xml:id="p002_l_7"/>Alp mit südlichem Him[m]el –</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0331_003.tif"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_1"/>Das Leben ist so sehr schön, 
+               <lb xml:id="p003_tr_1_tl_2"/>ich bin viel allein und 
+               <lb xml:id="p003_tr_1_tl_3"/>ungestört in Plänen und 
+               <lb xml:id="p003_tr_1_tl_4"/>Gedanken, und die patriarchalische 
+               <lb xml:id="p003_tr_1_tl_5"/>Ordnung des Hauses bewahrt 
+               <lb xml:id="p003_tr_1_tl_6"/>mich vor aller Unruhe – [vertical space] 
+               <lb xml:id="p003_tr_1_tl_7"/>Hoffentlich geht es Dir eben 
+               <lb xml:id="p003_tr_1_tl_8"/>so gut, ich wünsche Dir 
+               <lb xml:id="p003_tr_1_tl_9"/>besonders auch für Deine 
+               <lb xml:id="p003_tr_1_tl_10"/>Mémoiren – alles Gelingen! 
+               <lb xml:id="p003_tr_1_tl_11"/>Viele herzliche Grüsse 
+               <lb xml:id="p003_tr_1_tl_12"/>Deine 
+               <lb xml:id="p003_tr_1_tl_13"/>Annemarie</p>
+</div>
+       </body>
+    </text>
+ </TEI>
