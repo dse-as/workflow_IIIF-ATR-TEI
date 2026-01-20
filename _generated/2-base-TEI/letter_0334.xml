@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0334" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0334#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0334</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0334_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0334_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Bocken bei Horgen, 27. Sept. 32. 
+               <lb xml:id="p001_tr_1_tl_2"/>Mein lieber Onkel Georg! 
+               <lb xml:id="p001_tr_1_tl_3"/>Ich habe mich in den letzten Wochen mit 
+               <lb xml:id="p001_tr_1_tl_4"/>dem Projekt einer Schweizer Filmgesellschaft 
+               <lb xml:id="p001_tr_1_tl_5"/>beschäftigt – einem Projekt das<del rend="overstrike">s</del> allerdings noch 
+               <lb xml:id="p001_tr_1_tl_6"/><hi rendition="#u">sehr</hi> in den Anfängen steckt – aber doch 
+               <lb xml:id="p001_tr_1_tl_7"/>schon nach allen Seiten hin erwogen 
+               <lb xml:id="p001_tr_1_tl_8"/>ist – so dass ich es Dir ruhigen Gewissens 
+               <lb xml:id="p001_tr_1_tl_9"/>vortragen kan[n]. Ich weiss nicht ob Du durch 
+               <lb xml:id="p001_tr_1_tl_10"/>Zufall erfahren hast dass ich mich mit 
+               <lb xml:id="p001_tr_1_tl_11"/>Archäologie abgebe. ich tue das einzig zu 
+               <lb xml:id="p001_tr_1_tl_12"/>dem Zweck, einmal die <hi rendition="#u">Herstellung eines 
+                  <lb xml:id="p001_tr_1_tl_13"/>Ausgrabungsfilms</hi> zu veranlassen – der 
+               <lb xml:id="p001_tr_1_tl_14"/>ebenso gut u. passionierend sein soll wie 
+               <lb xml:id="p001_tr_1_tl_15"/>die Kulturfilme der Russen – u. der die 
+               <lb xml:id="p001_tr_1_tl_16"/>gemeinsame Grundlage u. Herkunft der 
+               <lb xml:id="p001_tr_1_tl_17"/>europäischen Kultur darstellen u. das 
+               <lb xml:id="p001_tr_1_tl_18"/>Gefühl dafür wieder wecken soll – Du 
+               <lb xml:id="p001_tr_1_tl_19"/>begreifst dass mir das gerade heute sehr 
+               <lb xml:id="p001_l"/>wichtig vorkom[m]t. Es handelt sich doch</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0334_002.tif"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>um eines der wenigen Gebiete, wo dem 
+               <lb xml:id="p002_tr_1_tl_2"/>Nationalismus Grenzen gesetzt sind, und 
+               <lb xml:id="p002_tr_1_tl_3"/>wo noch Raum ist für wohlfundierte 
+               <lb xml:id="p002_tr_1_tl_4"/>europäische Gefühle. 
+               <lb xml:id="p002_tr_1_tl_5"/>Aber darum handelt es sich zunächst 
+               <lb xml:id="p002_tr_1_tl_6"/>nicht. Hingegen habe ich einen Bekannten, 
+               <lb xml:id="p002_tr_1_tl_7"/>den ich für sehr begabt, vielseitig und 
+               <lb xml:id="p002_tr_1_tl_8"/>klug halte: <hi rendition="#u">Dr. Ernst Petersen</hi>, Natur 
+               <lb xml:id="p002_tr_1_tl_9" break="no"/>wissenschaftler u. Architekt, Neffe von 
+               <lb xml:id="p002_tr_1_tl_10"/>Fauck [?], auch in der Filmbranche tätig. 
+               <lb xml:id="p002_tr_1_tl_11"/>Dieser Mann hat die Absicht eine Film- 
+               <lb xml:id="p002_tr_1_tl_12"/>Gesellschaft zu gründen u. als erstes einen 
+               <lb xml:id="p002_tr_1_tl_13"/>Montblanc-Film (<hi rendition="#u">ohne</hi> Leni Riefenstahl) 
+               <lb xml:id="p002_tr_1_tl_14"/>zu drehen – als zweiten eventuell den 
+               <lb xml:id="p002_tr_1_tl_15"/>besagten Ausgrabungs- u. Expeditions 
+               <lb xml:id="p002_tr_1_tl_16" break="no"/>film. Verleih u. Verkauf, sowie Atelier 
+               <lb xml:id="p002_tr_1_tl_17" break="no"/>aufnahmen, würden in Verbindung 
+               <lb xml:id="p002_tr_1_tl_18"/>mit Ufa oder Paramount gemacht – 
+               <lb xml:id="p002_tr_1_tl_19"/>Petersen hat sich mit verschiedenen 
+               <lb xml:id="p002_tr_1_tl_20"/>Industriellen in der Schweiz in 
+               <lb xml:id="p002_tr_1_tl_21"/>Verbindung gesetzt, weil er hofft,</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0334_003.tif"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_1"/>schweizerisches Aktienkapital zu finden, 
+               <lb xml:id="p003_tr_1_tl_2"/>indem er speziell schweizerische 
+               <lb xml:id="p003_tr_1_tl_3"/>Interessen berücksichtigt. 
+               <lb xml:id="p003_tr_1_tl_4"/>Ich schreibe Dir das in großen Zügen, 
+               <lb xml:id="p003_tr_1_tl_5"/>weil ich an[n]ehme dass Petersen 
+               <lb xml:id="p003_tr_1_tl_6"/>Dir selbst in nächster Zeit ausführlich 
+               <lb xml:id="p003_tr_1_tl_7"/>schreiben wird. [vertical space] 
+               <lb xml:id="p003_tr_1_tl_8"/>Was meine Stellung zu diesem Projekt 
+               <lb xml:id="p003_tr_1_tl_9"/>betrifft: Ich habe vor, wen[n] möglich mit 
+               <lb xml:id="p003_tr_1_tl_10"/>Petersen zu arbeiten (wir wollen statt 
+               <lb xml:id="p003_tr_1_tl_11"/>Engagements für die Beteiligten mit Gagen 
+               <lb xml:id="p003_tr_1_tl_12"/>das Prinzip der <hi rendition="#u">Gewin[n]beteiligung </hi>durchführen) 
+               <lb xml:id="p003_tr_1_tl_13"/>– In Zürich existiert aber eine Filmgesell 
+               <lb xml:id="p003_tr_1_tl_14" break="no"/>schaft, <hi rendition="#u">Praesens-Film</hi> unter Direktor 
+               <lb xml:id="p003_tr_1_tl_15"/><hi rendition="#u">Wechsler</hi>, mit der man vielleicht 
+               <lb xml:id="p003_tr_1_tl_16"/>verhandeln kön[n]te. <del rend="overstrike">D</del>Ich halte es für 
+               <lb xml:id="p003_tr_1_tl_17"/>sehr schwierig, das nötige Kapital zu 
+               <lb xml:id="p003_tr_1_tl_18"/>finden um eine selbständige Gesellschaft 
+               <lb xml:id="p003_tr_1_tl_19"/>zu gründen – doch glaube ich, man würde</p>
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0334_004.tif"/>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_1_tl_1"/>wohl das Geld auftreiben, um einen 
+               <lb xml:id="p004_tr_1_tl_2"/>einzelnen Film (natürlich am liebsten 
+               <lb xml:id="p004_tr_1_tl_3"/>gleich "meinen" Archäolog. Film!) drehne 
+               <lb xml:id="p004_tr_1_tl_4"/>zu können. Wen[n] dieser Film Erfolg 
+               <lb xml:id="p004_tr_1_tl_5"/>hat, ist die Weiterarbeit leicht.</p>
+            <p> 
+               <lb xml:id="p004_tr_1_tl_6"/>– Interessierst Du Dich aber überhaupt 
+               <lb xml:id="p004_tr_1_tl_7"/>in weiterem Masse für Film?</p>
+            <p> 
+               <lb xml:id="p004_tr_1_tl_8"/>Würdest Du Dir die Zeit nehmen, unsere 
+               <lb xml:id="p004_tr_1_tl_9"/>Pläne etwas ausführlicher zu hören? 
+               <lb xml:id="p004_tr_1_tl_10"/>Ich nehme an dass Du am Besten 
+               <lb xml:id="p004_tr_1_tl_11"/>beurteilen kan[n]st, wie weit in der Schweiz 
+               <lb xml:id="p004_tr_1_tl_12"/>überhaupt Möglichkeiten für solche 
+               <lb xml:id="p004_tr_1_tl_13"/>Pläne vorhanden sind –</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_1_tl_14"/>Viele herzliche Grüsse, auch an 
+               <lb xml:id="p004_tr_1_tl_15"/>Tante Olga – von Deiner 
+               <lb xml:id="p004_tr_1_tl_16"/>Annemarie</p>
+</div>
+       </body>
+    </text>
+ </TEI>
