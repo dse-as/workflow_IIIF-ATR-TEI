@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0335" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0335#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0335</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0335_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0335_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Sanary-Var, II. Mai 33 
+               <lb xml:id="p001_tr_1_tl_2"/>Mein lieber Onkel Georg, 
+               <lb xml:id="p001_tr_1_tl_3"/>ich schreibe Dir mit Maschine weil Du es dann leichter lesen kannst 
+               <lb xml:id="p001_tr_1_tl_4"/>und weil es etwas Geschäftliches ist, oder doch, dummer Weise, mit 
+               <lb xml:id="p001_tr_1_tl_5"/>Geschäften zu tun hat. Jch möchte Dich nämlich für eine Sache in 
+               <lb xml:id="p001_tr_1_tl_6" break="no"/>teressieren, die mir und vielen meiner Freunde sehr am Herzen liegt 
+               <lb xml:id="p001_tr_1_tl_7"/>sowohl beruflich wie menschlich. Wir sind im Begriff eine Halbmo 
+               <lb xml:id="p001_tr_1_tl_8" break="no"/>natsschrift zu gründen, literarisch, unpolitisch, in deutscher Sprache 
+               <lb xml:id="p001_tr_1_tl_9"/>aber mit französischen und englischen Beiträgen. So ganz zum Ver 
+               <lb xml:id="p001_l" break="no"/>gnügen tun wir das nicht, denn es macht ja viel Arbeit – aber es ist 
+               <lb xml:id="p001_tr_1_tl_12"/>eben notwendig geworden, weil in der ganzen deutschen Presse die 
+               <lb xml:id="p001_l_1"/>emigrierten jungen Leute, aber auch sehr gewichtige und geachtete 
+               <lb xml:id="p001_tr_1_tl_15"/>Namen keinen Raum mehr haben. Die "Sammlung" so soll die Zeitschrift 
+               <lb xml:id="p001_tr_1_tl_16"/>heissen – wird also zwar von jungen Leuten gemacht werden,aber sie 
+               <lb xml:id="p001_tr_1_tl_17"/>wird sich auf Namen berufen, die wir achten und lieben – und in jeder 
+               <lb xml:id="p001_l_2"/>Nummer einen Beitrag von einem bekannten Deutschen – etwa Schickele, 
+               <lb xml:id="p001_tr_1_tl_20"/>Zweig, Thomas Mann – bringen, und einen von einem Franzosen, zuerst 
+               <lb xml:id="p001_tr_1_tl_21"/>André Gide, Maurois, etc. Von Jüngeren sind für die ersten Nummern 
+               <lb xml:id="p001_tr_1_tl_22"/>unter anderen Josef Roth, Breitbach, René Crevel vorgesehen, und 
+               <lb xml:id="p001_tr_1_tl_23"/>ich glaube es wird alles ganz respektabel europäisch werden, jeden 
+               <lb xml:id="p001_tr_1_tl_24" break="no"/>falls machen wir uns mit grossem Ernst an die Arbeit. Denn, gerade 
+               <lb xml:id="p001_tr_1_tl_25"/>während man in Berlin die Bücher vor der Universität verbrennt und 
+               <lb xml:id="p001_tr_1_tl_26"/>Kraut und Rüben so abscheulich durcheinander wirft, müssen wir, in</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0335_002.tif"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>der geistigen Opposition, immer strenger in der Auswahl werden und 
+               <lb xml:id="p002_tr_1_tl_2"/>unsere Sache so rein wie möglich halten.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_3"/>Die Redaktion der "Sammlung" wird logischer Weise wohl in Zürich 
+               <lb xml:id="p002_tr_1_tl_4"/>sein, ein junger Farnzose und ein Deutscher, Klaus Mann, werden mit 
+               <lb xml:id="p002_tr_1_tl_5"/>mir dafür arbeiten. Nun aber – brauchen wir etwas Geld, etwa 6000 Frs 
+               <lb xml:id="p002_tr_1_tl_6"/>im Ganzen, um die ersten Nummern sicher zu stellen – denn die Leute 
+               <lb xml:id="p002_tr_1_tl_7"/>die sich uns zur Verfügung stellen, verpflichten uns, die Sache nicht 
+               <lb xml:id="p002_tr_1_tl_8"/>leichtsinnig zu inszenieren und gleich kläglich scheitern zu 
+               <lb xml:id="p002_tr_1_tl_9"/>lassen. Ob Du Dich ein wenig dafür ineressier<del rend="overstrike">ts</del>st? Für mich ist es ja e [sic] 
+               <lb xml:id="p002_tr_1_tl_10"/>eine richtige Aufgabe,und ich muss schon auf ein wenig Hilfe und 
+               <lb xml:id="p002_tr_1_tl_11"/>Wohlwollen am Anfang hoffen. Herr Schwab, p. A. Rob. Schwarzenbach &amp; Co, 
+               <lb xml:id="p002_tr_1_tl_12"/>in Thalwil, ist so freundlich, eventuelle Beiträge mit dem Vermerk 
+               <lb xml:id="p002_tr_1_tl_13"/>es sei für mich – in Empfang zu nehmen und zu verwalten. Mitte Juni 
+               <lb xml:id="p002_tr_1_tl_14"/>komme ich dann selbst nach Zürich, und Mitte Juli soll die erste 
+               <lb xml:id="p002_tr_1_tl_15"/>Nummer herauskommen. Es wäre wunderbar für mich und die ganze Sache 
+               <lb xml:id="p002_tr_1_tl_16"/>wenn Du ein wenig helfen würdest. Jch weiss nicht ob ich auch an 
+               <lb xml:id="p002_tr_1_tl_17"/>Deinen Bruder Hans Reinhardt schreiben darf – vielleicht berichtest 
+               <lb xml:id="p002_tr_1_tl_18"/>Du mir ganz kurz nach <hi rendition="#u">Pamplona</hi>, Poste Restante –</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l"/>Und nun viele Herzliche Grüsse an Tante Olga und Dich – 
+               <lb xml:id="p002_tr_1_tl_21"/>ich hoffe Du verzeihst dass ich Dich so oft in Anspruch nehme – 
+               <lb xml:id="p002_tr_1_tl_22"/>Deine 
+               <lb xml:id="p002_tr_1_tl_23"/>Annemarie 
+               <lb xml:id="p002_tr_1_tl_24"/>Bitte über den Plan der Zeitschrift noch nicht zu sprechen!</p>
+</div>
+       </body>
+    </text>
+ </TEI>
