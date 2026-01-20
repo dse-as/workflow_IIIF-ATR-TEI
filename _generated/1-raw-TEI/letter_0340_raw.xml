@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0340"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0340</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0340_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0340_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0340_001.tif"/>
+            <milestone unit="textregion" xml:id="letter_0340_001_tr_1"/>
+            <lb xml:id="letter_0340_001_l"/>Gut Pekhala/Ruhala, Fin[n]land
+<lb xml:id="letter_0340_001_tr_1_tl_5"/>27 Juli
+<lb xml:id="letter_0340_001_tr_1_tl_7"/>Lieber Onkel Schorsch!
+<lb xml:id="letter_0340_001_tr_1_tl_8"/>ich danke Dir vielmals
+<lb xml:id="letter_0340_001_tr_1_tl_10"/>für Dein schönes Buch [Reinharts Mémoiren erschienen 1931]. Ich
+<lb xml:id="letter_0340_001_tr_1_tl_12"/>habe in Berlin noch viel
+<lb xml:id="letter_0340_001_tr_1_tl_13"/>darin gelesen u. mich sehr darüber
+<lb xml:id="letter_0340_001_tr_1_tl_14"/>gefreut. Jetzt im hohen Norden
+<lb xml:id="letter_0340_001_tr_1_tl_15"/>sam[m]le ich neue Erfahrungen –
+<lb xml:id="letter_0340_001_tr_1_tl_17"/>Die Leute essen hier zu einer Mahl¬
+<lb xml:id="letter_0340_001_tr_1_tl_18"/>zeit 600 Krebse. Auch sonst haben
+<lb xml:id="letter_0340_001_tr_1_tl_19"/>sie gute Eigenschaft u. Viele Grüsse<milestone unit="textregion" xml:id="letter_0340_001_r"/>
+            <lb xml:id="letter_0340_001_l_1"/>Schweiz
+<lb xml:id="letter_0340_001_l_2"/>Herrn Georg Reinhart
+<lb xml:id="letter_0340_001_l_3"/>Tössertobel
+<lb xml:id="letter_0340_001_l_4"/>Winterthur<pb xml:id="letter_0340_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0340_002.tif"/>
+            <milestone unit="textregion" xml:id="letter_0340_002_tr_1"/>
+            <lb xml:id="letter_0340_002_tr_1_tl_1"/>an Tante Olga u. Dich! Herzlichst Deine
+<lb xml:id="letter_0340_002_tr_1_tl_2"/>Annemarie</div>
+      </body>
+   </text>
+</TEI>
