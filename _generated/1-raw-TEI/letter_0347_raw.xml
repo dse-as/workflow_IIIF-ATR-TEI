@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0347"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0347</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0347_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0347_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0347_001.tif"/>
+            <milestone unit="textregion" xml:id="letter_0347_001_r"/>
+            <lb xml:id="letter_0347_001_tr_1_tl_1"/>7. November 1932
+<lb xml:id="letter_0347_001_tr_1_tl_2"/>Liebe Annemarie
+<lb xml:id="letter_0347_001_tr_1_tl_3"/>herzlichen Dank
+<lb xml:id="letter_0347_001_tr_1_tl_4"/>für deinen Brief. Hafters [?]
+<lb xml:id="letter_0347_001_tr_1_tl_5"/>Adresse lautet: Griegstrasse 4
+<lb xml:id="letter_0347_001_tr_1_tl_6"/>(vermutlich Berlin – Dahlem). Sie
+<lb xml:id="letter_0347_001_tr_1_tl_7"/>sind soeben eingezogen und noch
+<lb xml:id="letter_0347_001_tr_1_tl_8"/>mit einrichten [sic] beschäftigt. Tante
+<lb xml:id="letter_0347_001_tr_1_tl_9"/>Olga wird mit dem kleinen vor¬
+<lb xml:id="letter_0347_001_tr_1_tl_10"/>aussichtlich anfangs nächster woche
+<lb xml:id="letter_0347_001_tr_2_tl_1"/>nach Berlin reisen und 8-14 Tage
+<lb xml:id="letter_0347_001_tr_2_tl_2"/>bleiben.
+<lb xml:id="letter_0347_001_tr_2_tl_3"/>Du schreibst plötzlich von einem
+<lb xml:id="letter_0347_001_tr_2_tl_4"/>„Kolonialfilm" von dem bisher
+<lb xml:id="letter_0347_001_tr_2_tl_5"/>nie die Rede war. Schade daß<pb xml:id="letter_0347_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0347_002.tif"/>
+            <milestone unit="textregion" xml:id="letter_0347_002_r"/>
+            <lb xml:id="letter_0347_002_tr_2_tl_1"/>wir uns nicht mehr gesehen
+<lb xml:id="letter_0347_002_tr_2_tl_2"/>haben. Mündlich kann man
+<lb xml:id="letter_0347_002_tr_2_tl_3"/>so viel besser eine solche Sache
+<lb xml:id="letter_0347_002_tr_2_tl_4"/>diskutieren als brieflich. Ich
+<lb xml:id="letter_0347_002_tr_2_tl_5"/>bleibe sehr skeptisch betreffs des
+<lb xml:id="letter_0347_002_tr_2_tl_6"/>materiellen Erfolgs einer Unter-
+<lb xml:id="letter_0347_002_tr_2_tl_7"/>nehmung in "eigener Regie"[.]
+<lb xml:id="letter_0347_002_tr_2_tl_8"/>Besonders das Kommerzielle Aus¬
+<lb xml:id="letter_0347_002_tr_2_tl_9"/>beuten des Films, nachdem er
+<lb xml:id="letter_0347_002_tr_2_tl_10"/>einmal überhaupt hergestellt ist,
+<lb xml:id="letter_0347_002_tr_1_tl_1"/>scheint mir eine sehr schwierige
+<lb xml:id="letter_0347_002_tr_1_tl_2"/>Sache für Leute, die nicht "im
+<lb xml:id="letter_0347_002_tr_1_tl_3"/>trade" sind. Die <PAGE tag="underlined">ideelle</PAGE> Seite
+<lb xml:id="letter_0347_002_tr_1_tl_4"/>kommt aber auch nicht zur Geltung
+<lb xml:id="letter_0347_002_tr_1_tl_5"/>wenn der Film nicht genügend
+<lb xml:id="letter_0347_002_tr_1_tl_6"/>aufgeführt wird.
+<lb xml:id="letter_0347_002_tr_1_tl_7"/>Herzlich dein Onkel
+<lb xml:id="letter_0347_002_tr_1_tl_8"/>Georg</div>
+      </body>
+   </text>
+</TEI>
