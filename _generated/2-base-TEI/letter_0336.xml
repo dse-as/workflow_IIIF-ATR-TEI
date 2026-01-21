@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0336" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0336#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0336</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0336_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0336_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_tr_3"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_3_tl_1"/>Pamplona 
+               <lb xml:id="p001_tr_3_tl_2"/>23. Mai</p>
+
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_2_tl_1"/>DIRECCIÓN TELEGRÁFICA 
+               <lb xml:id="p001_tr_2_tl_2"/>Y TELEFÓNICA: HOTEL ANDRIA 
+               <lb xml:id="p001_tr_2_tl_3"/>TELÉFONO, 37 
+               <lb xml:id="p001_tr_2_tl_4"/>Mein lieber Onkel Georg!</p>
+            <p> 
+               <lb xml:id="p001_tr_2_tl_5"/>Selbstverständlich bin ich froh 
+               <lb xml:id="p001_tr_2_tl_6"/>u. Dir dankbar dass Du mir gleich 
+               <lb xml:id="p001_tr_2_tl_7"/>Deine Ansicht so u. nicht anders 
+               <lb xml:id="p001_tr_2_tl_8"/>geschrieben hast – aber es war ein 
+               <lb xml:id="p001_tr_2_tl_9"/>arger Schlag (nicht wegen der Zeit 
+               <lb xml:id="p001_tr_2_tl_10" break="no"/>schrift, davon nachher mehr) – den[n] 
+               <lb xml:id="p001_tr_2_tl_11"/>ich war einfach nicht in der Lage, 
+               <lb xml:id="p001_tr_1_tl_1"/>die Wirkung von zwei aufeinander 
+               <lb xml:id="p001_tr_1_tl_2"/>folgenden "Pumpbriefen" zu erfassen. 
+               <lb xml:id="p001_tr_1_tl_3"/>So kam es dazu: als meine Freunde u. 
+               <lb xml:id="p001_tr_1_tl_4"/>ich den Plan der Zeitschrift erwogen, 
+               <lb xml:id="p001_tr_1_tl_5"/>wollten wir zunächst feststellen 
+               <lb xml:id="p001_tr_1_tl_6"/>ob wir überhaupt auf Interesse 
+               <lb xml:id="p001_tr_1_tl_7"/>u. Hilfe rechnen könten. Und na 
+               <lb xml:id="p001_tr_1_tl_8" break="no"/>türlich fielst Du mir dabei ein. 
+               <lb xml:id="p001_tr_1_tl_9"/>Andererseits liegt es mir fern, Dich 
+               <lb xml:id="p001_tr_1_tl_10"/>ausnutzen in wollen – u. ich bitte 
+               <lb xml:id="p001_tr_1_tl_11"/>Dich, mir das Ansin[n]en nicht 
+               <lb xml:id="p001_tr_1_tl_12"/>nachzutragen.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_13"/>Nun aber ein paar Worte zu 
+               <lb xml:id="p001_tr_1_tl_14"/>dem Plan an sich: Was Dich so 
+               <lb xml:id="p001_tr_1_tl_15"/>deutlich dagegen ein[n]ahm, ist</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0336_002.tif"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>der Name meines Freundes Klaus 
+               <lb xml:id="p002_tr_1_tl_2"/>Mann – Ich hätte gern die Gelegenheit 
+               <lb xml:id="p002_tr_1_tl_3"/>erfasst, gerade durch die ernste 
+               <lb xml:id="p002_tr_1_tl_4"/>Tätigkeit dieser Zeitschrift die 
+               <lb xml:id="p002_tr_1_tl_5"/>schlechte Meinung über ihn zu 
+               <lb xml:id="p002_tr_1_tl_6"/>verbessern – den[n] er verdient sie 
+               <lb xml:id="p002_tr_1_tl_7"/>nicht, selbst wenn seine Bücher sie 
+               <lb xml:id="p002_tr_1_tl_8"/>verdienen (Er ist noch sehr jung) – 
+               <lb xml:id="p002_tr_1_tl_9"/>auf der anderen Seite sehe ich jetzt 
+               <lb xml:id="p002_tr_1_tl_10"/>ein, dass eine Zeitschrift so 
+               <lb xml:id="p002_tr_1_tl_11"/>prekärer Art nicht belastet sein 
+               <lb xml:id="p002_tr_1_tl_12"/>darf durch die Namen der He 
+               <lb xml:id="p002_tr_1_tl_13" break="no"/>rausgeber. Den[n] es handelt sich ja 
+               <lb xml:id="p002_tr_1_tl_14"/>um ein ernstes Unternehmen: Du 
+               <lb xml:id="p002_tr_1_tl_15"/>musst bedenken, in welcher ver 
+               <lb xml:id="p002_tr_2_tl_1" break="no"/>zweifelles Tage sich die Schrift 
+               <lb xml:id="p002_tr_2_tl_2" break="no"/>stellergeneration befindet, die 
+               <lb xml:id="p002_tr_2_tl_3"/><hi rendition="#u">deutsch</hi> ist u. es nicht mehr sein 
+               <lb xml:id="p002_tr_2_tl_4"/>darf – ihr ein Organ zu schaffen, 
+               <lb xml:id="p002_tr_2_tl_5"/>war unsere absolut ehrliche u. 
+               <lb xml:id="p002_tr_2_tl_6"/>nicht zum Spass erfundene Absicht. 
+               <lb xml:id="p002_tr_2_tl_7"/>Inzwischen ist es uns klar geworden, 
+               <lb xml:id="p002_tr_2_tl_8"/>dass wir die Verantwortung 
+               <lb xml:id="p002_tr_2_tl_9"/>nicht tragen können, vielmehr: 
+               <lb xml:id="p002_tr_2_tl_10"/>dass man so junge leute – u. darunter 
+               <lb xml:id="p002_tr_2_tl_11"/>einen leider so unötig belasteten 
+               <lb xml:id="p002_tr_2_tl_12"/>Namen wie Klaus Mann – nicht 
+               <lb xml:id="p002_tr_2_tl_13"/>als "Repräsentant" der deutschen 
+               <lb xml:id="p002_tr_2_tl_14"/>(jetzt in Deutschland unerwünschten)</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0336_003.tif"/>
+            <milestone unit="textregion" xml:id="p003_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_2_tl_1"/>Schrifttums haben will – Es 
+               <lb xml:id="p003_tr_2_tl_2"/>war sehr bitter, es einzusehen. 
+               <lb xml:id="p003_tr_2_tl_3"/>Aber es ist im[m]erhin möglich, 
+               <lb xml:id="p003_tr_2_tl_4"/>dass gewichtigere Leute sich des 
+               <lb xml:id="p003_tr_2_tl_5"/>Gedankens einer solchen 
+               <lb xml:id="p003_tr_2_tl_6"/>Zeitschrift annehmen, u. 
+               <lb xml:id="p003_tr_2_tl_7"/>dann macht es ja nichts.</p>
+            <p> 
+               <lb xml:id="p003_tr_2_tl_8"/>– Jetzt, glaube ich, sind die 
+               <lb xml:id="p003_tr_2_tl_9"/>Missverständnisse zwischen 
+               <lb xml:id="p003_tr_2_tl_10"/>uns beseitigt – es tut mir 
+               <lb xml:id="p003_tr_1_tl_1"/>schrecklich leid, überhaupt 
+               <lb xml:id="p003_tr_1_tl_2"/>Anlass dazu gegeben zu haben – 
+               <lb xml:id="p003_tr_1_tl_3"/>aber Du verstehst sicher wie 
+               <lb xml:id="p003_tr_1_tl_4"/>schwer unsere Lage augenblicklich 
+               <lb xml:id="p003_tr_1_tl_5"/>ist, u. dass man aus Rat 
+               <lb xml:id="p003_tr_1_tl_6" break="no"/>losigkeit manchmal falsche 
+               <lb xml:id="p003_tr_1_tl_7"/>Auswege sucht –</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_8"/>Im Übrigen habe ich ja hier 
+               <lb xml:id="p003_tr_1_tl_9"/>mit Artikeln vollauf zu 
+               <lb xml:id="p003_tr_1_tl_10"/>tun, die Reise ist herrlich, 
+               <lb xml:id="p003_tr_1_tl_11"/>u. die Pyrenäen sehr 
+               <lb xml:id="p003_tr_1_tl_12"/>viel abenteuerlicher als</p>
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0336_004.tif"/>
+            <milestone unit="textregion" xml:id="p004_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_l"/>ich es mir gedacht habe – 
+               <lb xml:id="p004_l_1"/>Entschuldige bitte die 
+               <lb xml:id="p004_l_2"/>Kaffehaus-Schrift und die 
+               <lb xml:id="p004_l_3"/>langatmigen Erklärungen. 
+               <lb xml:id="p004_l_4"/>Ich bleibe, mit vielen herzlichen 
+               <lb xml:id="p004_l_5"/>Grüssen, Deine 
+               <lb xml:id="p004_l_6"/>An[n]emarie</p>
+</div>
+       </body>
+    </text>
+ </TEI>
