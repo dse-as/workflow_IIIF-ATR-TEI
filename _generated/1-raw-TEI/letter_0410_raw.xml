@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0410"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0410</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0410_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0410_001"
+                facs="https://www.e-manuscripta.ch/i3f/v20/5289829"/>
+            <milestone unit="textregion" xml:id="letter_0410_001_tr_1"/>
+            <lb xml:id="letter_0410_001_tr_1_tl_1"/>10. März [1934?]
+<lb xml:id="letter_0410_001_tr_1_tl_2"/>[hs v. RS?]vor Hochzeit
+<lb xml:id="letter_0410_001_tr_1_tl_3"/>Liebstes Mameli!<CONV tag="p">
+<lb xml:id="letter_0410_001_tr_1_tl_4"/>Da Edith am Telefon gefragt hat, wie lange
+<lb xml:id="letter_0410_001_tr_1_tl_5"/>wir in Bocken bleiben, schien es mir
+<lb xml:id="letter_0410_001_tr_1_tl_6"/>am besten, wirklich <PAGE tag="underlined">nur vom 13. zum 15.</PAGE>
+<lb xml:id="letter_0410_001_tr_1_tl_7"/>zu sagen, weil das vielfache Ankom[m]en u.
+<lb xml:id="letter_0410_001_tr_1_tl_8"/>Abreisen doch zuviel Unruhe macht!
+<lb xml:id="letter_0410_001_tr_1_tl_9"/>Und ich bin ja dan[n] ab 1. April noch
+<lb xml:id="letter_0410_001_tr_1_tl_10"/>etwas länger da. Mein Hündchen gebe ich
+<lb xml:id="letter_0410_001_tr_1_tl_11"/>während der Abwesenheit am besten in
+<lb xml:id="letter_0410_001_tr_1_tl_12"/>Dressur, er hat es sehr nötig.</CONV>
+<lb xml:id="letter_0410_001_tr_1_tl_13"/>Nun wollte ich Dir noch erzählen, dass
+<lb xml:id="letter_0410_001_tr_1_tl_14"/>Margot Lind mit mir nach Teheran
+<lb xml:id="letter_0410_001_tr_1_tl_15"/>kom[m]t. Da sie erst jetzt ihre Eltern darüber
+<lb xml:id="letter_0410_001_tr_1_tl_16"/>fragen kon[n]te, u. ich auch nicht glaubte,
+<lb xml:id="letter_0410_001_tr_1_tl_17"/>dass sie es tun würde, habe ich vorher
+<lb xml:id="letter_0410_001_tr_1_tl_18"/>nichts davon geschrieben. Ich bin sehr froh
+<lb xml:id="letter_0410_001_tr_1_tl_19"/>darüber, besonders weil Frau v. Blücher<pb xml:id="letter_0410_002"
+                facs="https://www.e-manuscripta.ch/i3f/v20/5289830"/>
+            <milestone unit="textregion" xml:id="letter_0410_002_tr_1"/>
+            <lb xml:id="letter_0410_002_tr_1_tl_1"/>doch nicht mehr in Teheran sein wird, und ich
+<lb xml:id="letter_0410_002_tr_1_tl_2"/>dan[n] überhaupt keine Freundin in der Nähe
+<lb xml:id="letter_0410_002_tr_1_tl_3"/>hätte. Claude ist selbst sehr glücklich wen[n]
+<lb xml:id="letter_0410_002_tr_1_tl_4"/>Margot mitkommt, er kennt ja jetzt das Leben,
+<lb xml:id="letter_0410_002_tr_1_tl_5"/>dort oben u. weiss, wie schwer es für mich
+<lb xml:id="letter_0410_002_tr_1_tl_6"/>ist. Nun, ich werde mich dann schon zusammen¬
+<lb xml:id="letter_0410_002_tr_1_tl_7"/>nehmen damit ich diesmal gesund bleibe!
+<lb xml:id="letter_0410_002_tr_1_tl_8"/>Ich habe Hans Meiss geschrieben, dass er – falls
+<lb xml:id="letter_0410_002_tr_1_tl_9"/>Ihr schon Schiffsplätze für den 13. bestellt
+<lb xml:id="letter_0410_002_tr_1_tl_10"/>habt, einen mehr reservieren soll. Margot
+<lb xml:id="letter_0410_002_tr_1_tl_11"/>muss vor de Abreise natürlich noch nach
+<lb xml:id="letter_0410_002_tr_1_tl_12"/>Hause.<CONV tag="p">
+<lb xml:id="letter_0410_002_tr_1_tl_13"/>Wir müssen den Wagen verladen, wegen Lawinen
+<lb xml:id="letter_0410_002_tr_1_tl_14"/>am Julier [warum müssen sie für die Fahrt von Holland, wo sie noch EM besuchte, über den Julier/unter dem Julier durch?]. Wir kön[n]en also nicht sehr früh,
+<lb xml:id="letter_0410_002_tr_1_tl_15"/>in Bocken sein am Mittwoch, — hoffentlich
+<lb xml:id="letter_0410_002_tr_1_tl_16"/>bevor Du ins Volkshaus fährst? Aber wartet
+<lb xml:id="letter_0410_002_tr_1_tl_17"/>bitte nicht mit dem Thee. Also auf Wider¬
+<lb xml:id="letter_0410_002_tr_1_tl_18"/>sehen, Mamli – u. gell, zu weisst, wie fein ich es
+<lb xml:id="letter_0410_002_tr_1_tl_19"/>finde dass Du die Reise nach Beyrouth
+<lb xml:id="letter_0410_002_tr_1_tl_20"/>machst wegen mir!</CONV>
+<lb xml:id="letter_0410_002_tr_1_tl_21"/>Dein
+<lb xml:id="letter_0410_002_l"/>Zwerg</div>
+      </body>
+   </text>
+</TEI>
