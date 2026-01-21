@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0432" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0432#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0432</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0432_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.e-manuscripta.ch/i3f/v20/5294145"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Paris, 21. März [1934] 
+               <lb xml:id="p001_tr_1_tl_2"/>vor Hochzeit [hs Hinzufügung, ev. von Alexis] 
+               <lb xml:id="p001_tr_1_tl_3"/>Mein lieber Paps! Ich fahre nun heute 
+               <lb xml:id="p001_tr_1_tl_4"/>schon weg, weil ich ausser nach Nantes 
+               <lb xml:id="p001_tr_1_tl_5"/>noch in den Haag fahren will um Erika 
+               <lb xml:id="p001_tr_1_tl_6"/>Mann adieu zu sagen, u. die drei Tage bis 
+               <lb xml:id="p001_tr_1_tl_7"/>Du hierher kom[m]st, hätte ich praktisch in 
+               <lb xml:id="p001_tr_1_tl_8"/>Paris gar nichts zu tun – We[n] die Zeit weniger 
+               <lb xml:id="p001_tr_1_tl_9"/>knapp wäre, u. ich nicht fürchtete sonst zu 
+               <lb xml:id="p001_tr_1_tl_10"/>spät nach Bocken zurück zu kom[m]en vor der 
+               <lb xml:id="p001_tr_1_tl_11"/>Abreise, hätte ich noch so gern hier noch 
+               <lb xml:id="p001_tr_1_tl_12"/>ein paar Tage zugebracht u. auf Dich 
+               <lb xml:id="p001_tr_1_tl_13"/>gewartet! Aber, Du wirst ja wohl nur einen 
+               <lb xml:id="p001_tr_1_tl_14"/>Abend hier sein. Ich wünseln Dir eine 
+               <lb xml:id="p001_tr_1_tl_15"/>recht gute Reise, das Wetter ist jetzt so 
+               <lb xml:id="p001_tr_1_tl_16"/>herrlich u. die Seereise wird sicher herrlich – 
+               <lb xml:id="p001_tr_1_tl_17"/>In N. York grüsse bitte Freddy u. Itala 
+               <lb xml:id="p001_tr_1_tl_18"/>Viehnals. Ich werde Dir früh genug schreiben 
+               <lb xml:id="p001_tr_1_tl_19"/>wen[n] Claude u. ich uns verheiraten, es 
+               <lb xml:id="p001_tr_1_tl_20"/>wird wohl etwa der 20. oder 22. sein, da 
+               <lb xml:id="p001_tr_1_tl_21"/>Mama am 24. wieder von Beyrouth abfährt.</p>
+
+            <pb xml:id="p002" facs="https://www.e-manuscripta.ch/i3f/v20/5294146"/>
+            <milestone unit="textregion" xml:id="p002_tr_4"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l_3"/><del rend="overstrike">8 1/2k. </del>[unleserlich] Claude schrieb mir, dass Du ihm 
+               <lb xml:id="p002_tr_4_tl_3"/>so nett geschrieben hattest. Wen[n] er Dir darauf 
+               <lb xml:id="p002_tr_4_tl_4"/>Noch nicht geantwortet hat, so ist das eine 
+               <lb xml:id="p002_tr_4_tl_5"/>Grosse Schlamperei von ihm! Für einen Diplo 
+               <lb xml:id="p002_tr_4_tl_6" break="no"/>maten <hi rendition="#u">ist</hi> er ja etwas nachlässig u. unbesorgt. 
+               <lb xml:id="p002_tr_4_tl_7"/>Ich bin jetzt recht gespannt, wie er Mama gefallen 
+               <lb xml:id="p002_tr_4_tl_8"/>wird. Vielleicht, wen[n] sie ihn gern hat, wird 
+               <lb xml:id="p002_tr_4_tl_9"/>sie das allgemein beruhigen u. "entspannen" – 
+               <lb xml:id="p002_tr_4_tl_10"/>Sie ist ja gegen mich mehr den[n] je mit Widerspruch 
+               <lb xml:id="p002_tr_4_tl_11"/>u. Misstrauen gewappnet, was ich eigentlich gar 
+               <lb xml:id="p002_l_5"/>nicht verstehen kan[n] – den[n] in Samaden waren 
+               <lb xml:id="p002_l_4"/>wir doch fest entschlossen, dass dies sich ändern 
+               <lb xml:id="p002_tr_4_tl_17"/>sollte. Ich hoffe, dass es noch mit der Zeit 
+               <lb xml:id="p002_tr_4_tl_18"/>besser wird, besonders wenn ich ihr keine neuen 
+               <lb xml:id="p002_tr_4_tl_19"/>Anlass gebe – Dir, Papsli, danke ich sehr für alles, 
+               <lb xml:id="p002_tr_4_tl_20"/>es war schön dass wir wenigstens <hi rendition="#u">ein bisschen</hi> 
+               <lb xml:id="p002_tr_4_tl_21"/>zusammen sprechen kon[n]ten. Zu wirst sehen das ich 
+               <lb xml:id="p002_tr_4_tl_22"/>Von Persien dies mal ganz gesund u. munter wiederkom[m]e! 
+               <lb xml:id="p002_tr_4_tl_23"/>Margot Lind lässt Dich auch vielmals grüssen, 
+               <lb xml:id="p002_tr_4_tl_24"/>sie Fährt heute mit ihren Auto nach Deutschland 
+               <lb xml:id="p002_tr_4_tl_25"/>zurück. Nun nochmals eine gute Reise, mein 
+               <lb xml:id="p002_tr_4_tl_26"/>lieber, lieber Papsli – u. viele Wünsche u. Grüsse – 
+               <lb xml:id="p002_tr_4_tl_27"/>von Deiner 
+               <lb xml:id="p002_tr_4_tl_28"/>An[n]nemarie</p>
+
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l"/>P.S. In 8 Tagen kom[m]e ich wieder nach Paris (bei M. Bourdet, 47 Av. D' Jena[)] 
+               <lb xml:id="p002_l_1"/>– um meine inzwischen fertiggemachten Sachen abzuholen, u. fahre dan[n]  
+               <lb xml:id="p002_l_2"/>nach Bocken .– Claude Bourdet lässt Dich auch sehr grüssen! –</p>
+</div>
+       </body>
+    </text>
+ </TEI>
