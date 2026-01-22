@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0443"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0443</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0443_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0443_001"
+                facs="https://www.e-manuscripta.ch/i3f/v20/5508018"/>
+            <milestone unit="textregion" xml:id="letter_0443_001_tr_1"/>
+            <lb xml:id="letter_0443_001_tr_1_tl_1"/>Oberst D<PAGE tag="superscript">r.</PAGE> Alfr. Schwarzenbach-Wille, Thalwil
+<lb xml:id="letter_0443_001_l"/>[unleserlich]
+<lb xml:id="letter_0443_001_tr_1_tl_2"/>Thalwil, den 8. Januar 1735.
+<lb xml:id="letter_0443_001_tr_1_tl_3"/>Meine liebe Annemarie,<CONV tag="p">
+<lb xml:id="letter_0443_001_tr_1_tl_4"/>Besten Dank für Deinen gestrigen Brief. Ich habe
+<lb xml:id="letter_0443_001_tr_1_tl_5"/>mich natürlich etwas gewundert, dass Du zu Dr. Ruppaner
+<lb xml:id="letter_0443_001_tr_1_tl_6"/>gegangen ist, aber es ist wohl das beste für Dich. Ich hoffe
+<lb xml:id="letter_0443_001_tr_1_tl_7"/>nur, dass Du seine Rathschläge befolgst und das unsinnige
+<lb xml:id="letter_0443_001_tr_1_tl_8"/>Leben aufgiebst, das Du in den letzten Jahren geführt hast.
+<lb xml:id="letter_0443_001_tr_1_tl_9"/>Was mich am meisten von allem betrübt hat, ist, dass Du mit
+<lb xml:id="letter_0443_001_tr_1_tl_10"/>Spritzen operiert hast und es noch tust. Wenn man sich
+<lb xml:id="letter_0443_001_tr_1_tl_11"/>schon an Morphium und dergleichen gewöhnt, so ist das nach
+<lb xml:id="letter_0443_001_tr_1_tl_12"/>meiner Erfahrung ganz entsetzlich, und ich komme dadurch
+<lb xml:id="letter_0443_001_tr_1_tl_13"/>eigentlich erst auf den Gedanken, dass Deine Mutter doch
+<lb xml:id="letter_0443_001_tr_1_tl_14"/>in Vielem recht hatte, und dass Du auf der schiefen Ebene
+<lb xml:id="letter_0443_001_tr_1_tl_15"/>schon viel weiter heruntergekommen bist, als ich ahnte, und
+<lb xml:id="letter_0443_001_tr_1_tl_16"/>als ich glauben möchte. Das hast Du doch alles Deinen
+<lb xml:id="letter_0443_001_tr_1_tl_17"/>Freundinnen zu verdanken, und es wundert mich nur, ob und
+<lb xml:id="letter_0443_001_tr_1_tl_18"/>wenn Du einzusehen beginnst, wie falsch Deine Einstellung war
+<lb xml:id="letter_0443_001_tr_1_tl_19"/>und noch ist. Ich gebe beinahe die Hoffnung auf, dass Du je <PAGE tag="strikethrough">w</PAGE>
+<lb xml:id="letter_0443_001_tr_1_tl_20"/>wieder in ein richtiges Fahrwasser kommst und das tut mir
+<lb xml:id="letter_0443_001_tr_1_tl_21"/>unendlich leid für Dich und fast noch meht für Deinen
+<lb xml:id="letter_0443_001_tr_1_tl_22"/>zukünftigen Mann, der besseres verdiente als eine Morphinistin
+<lb xml:id="letter_0443_001_tr_1_tl_23"/>zu heiraten. Ob Du mit Erika Mann mehr Glück hast, als mit
+<lb xml:id="letter_0443_001_tr_1_tl_24"/>Deinen früheren Freundinnen, bleibe dahingestellt. Nach den
+<lb xml:id="letter_0443_001_tr_1_tl_25"/>bisherigen Erfahrungen zweifle ich an Deiner Menschenkenntnis,
+<lb xml:id="letter_0443_001_tr_1_tl_26"/>und ich frage mich auch, woher Du das Recht ableitest, über
+<lb xml:id="letter_0443_001_tr_1_tl_27"/>das Niveau von Jimmi [James Schwarzenbach] und vielen andern in Zürich herzuziehen.
+<lb xml:id="letter_0443_001_tr_1_tl_28"/>Sie sind jedenfalls moralisch gesünder als Du.</CONV><CONV tag="p">
+<lb xml:id="letter_0443_001_tr_1_tl_29"/>Ich habe bisher immer zu Dir gestanden, aber die
+<lb xml:id="letter_0443_001_tr_1_tl_30"/>letzten Erfahrungen haben mich erschreckt, und ich weiss nicht
+<lb xml:id="letter_0443_001_tr_1_tl_31"/>mehr, was ich denken soll. Du wirst wohl gemerkt haben, dass
+<lb xml:id="letter_0443_001_tr_1_tl_32"/>ich nicht so herzlich zu Dir war, wie es sein sollte, und ich
+<lb xml:id="letter_0443_001_tr_1_tl_33"/>fange an, mich an den Gedanken zu gewöhnen, dass Du nicht zu
+<lb xml:id="letter_0443_001_tr_1_tl_34"/>uns gehörst, sondern in ein anderes Milieu, und zwar ein
+<lb xml:id="letter_0443_001_tr_1_tl_35"/>schlechtetes. Denke einmal darüber nach und dann schreibe
+<lb xml:id="letter_0443_001_tr_1_tl_36"/>mir wieder.</CONV>
+<lb xml:id="letter_0443_001_tr_1_tl_37"/>Dein
+<lb xml:id="letter_0443_001_tr_1_tl_38"/>Papa<pb xml:id="letter_0443_002"
+                facs="https://www.e-manuscripta.ch/i3f/v20/5508019"/>
+         </div>
+      </body>
+   </text>
+</TEI>
