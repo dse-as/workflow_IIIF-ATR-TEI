@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0402" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0402#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0402</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0402_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.e-manuscripta.ch/i3f/v20/5289779"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_3"/>CHESA D<hi rendition="#sup">R</hi> RUPPANNER 
+               <lb xml:id="p001_tr_1_tl_4"/>SAMADEN 
+               <lb xml:id="p001_tr_1_tl_5"/>ENGADIN 
+               <lb xml:id="p001_tr_1_tl_1"/>[1935 
+               <lb xml:id="p001_tr_1_tl_2"/>Jan] 
+               <lb xml:id="p001_tr_1_tl_6"/>Sonntag morgen 
+               <lb xml:id="p001_tr_1_tl_7"/>Mein liebes Mameli! 
+               <lb xml:id="p001_tr_1_tl_8"/>Also unser Telefon war ja ein wenig 
+               <lb xml:id="p001_tr_1_tl_9"/>knapp, wie auch Dein Abschied am 
+               <lb xml:id="p001_tr_1_tl_10"/>Don[n]erstag – aber ich dachte mir schon, 
+               <lb xml:id="p001_tr_1_tl_11"/>dass es Dir im letzten Augenblick 
+               <lb xml:id="p001_tr_1_tl_12"/>noch einmal schwer vorkam, dass es 
+               <lb xml:id="p001_tr_1_tl_13"/>ausgeradmet Erika war, die mich 
+               <lb xml:id="p001_tr_1_tl_14"/>dazu überredet hat, mich richtig zu 
+               <lb xml:id="p001_tr_1_tl_15"/>pflegen u. unter die Kontrolle eines 
+               <lb xml:id="p001_tr_1_tl_16"/>Doktors in begeben! Anderen teils 
+               <lb xml:id="p001_tr_1_tl_17"/>ist es doch schon lange so, dass 
+               <lb xml:id="p001_tr_1_tl_18"/>unter meinen vielen Freunden sie 
+               <lb xml:id="p001_l"/>du Einzige ist, auf die sich im 
+               <lb xml:id="p001_tr_1_tl_21"/>Ernstfall höre – und, da ich mit 
+               <lb xml:id="p001_tr_1_tl_22"/>Dir ja besprochen hatte, dass ich</p>
+
+            <pb xml:id="p002" facs="https://www.e-manuscripta.ch/i3f/v20/5289782"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l"/>mich anlässlich dieser Frontenskandale 
+               <lb xml:id="p002_l_1"/>nach allem Vorgefallenen einfach <hi rendition="#u">nicht</hi> 
+               <lb xml:id="p002_l_2"/>hatte gegen Sie entschliessen kön[n]en – 
+               <lb xml:id="p002_l_4"/>was mit meiner ganzen menschlichen 
+               <lb xml:id="p002_l_11"/>wie politischen Einstellung zusammen 
+               <lb xml:id="p002_tr_1_tl_12" break="no"/>hängt – so muss es doch wohl jetzt 
+               <lb xml:id="p002_tr_1_tl_13"/>dabei bleiben, dass ich mit Erika 
+               <lb xml:id="p002_l_3"/>befreundet bin; – Du weisst, Mama,  
+               <lb xml:id="p002_tr_1_tl_16"/>ich werde deshalb Deine Ein 
+               <lb xml:id="p002_tr_1_tl_17" break="no"/>stellung nicht weniger achten, wie 
+               <lb xml:id="p002_tr_1_tl_18"/>ich es ja auf der Polizei bewiesen 
+               <lb xml:id="p002_tr_1_tl_19"/>habe, u. vor allem, Dich nicht 
+               <lb xml:id="p002_tr_1_tl_20"/>weniger lieb haben! Übrigens war 
+               <lb xml:id="p002_l_5"/>es wirklich sehr gut dass Erika 
+               <lb xml:id="p002_tr_1_tl_23"/>mich überredet hat, hierher zu 
+               <lb xml:id="p002_l_9"/>gehen, ich bin zu ganz erlöst. 
+               <lb xml:id="p002_l_6"/>Dr. Ruppauer untersuchte mich 
+               <lb xml:id="p002_l_8"/>gestern u. sagte, ich sei eben. 
+               <lb xml:id="p002_l_7"/>ganz herunter, abgemagert, u. 
+               <lb xml:id="p002_l_10"/>habe schlechtes Blut. Ich darf</p>
+
+            <pb xml:id="p003" facs="https://www.e-manuscripta.ch/i3f/v20/5289780"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_l_1"/><hi rendition="#u">zunächst</hi> nicht Skielaufen, muss eine 
+               <lb xml:id="p003_l"/>Liegekur machen, ganz Diät essen. 
+               <lb xml:id="p003_l_2"/>Gestern gab er mir für die Nacht 
+               <lb xml:id="p003_tr_1_tl_8"/>ein Mittel, u. zum ersten Mal 
+               <lb xml:id="p003_tr_1_tl_9"/>fühle ich mich heute wie neu 
+               <lb xml:id="p003_tr_1_tl_10"/>geboren. Nach St. Moritz darf ich 
+               <lb xml:id="p003_l_3"/>selten – die ein ganz kurzer 
+               <lb xml:id="p003_tr_1_tl_13"/>Besuch gestern (Maud Thyssen ist 
+               <lb xml:id="p003_tr_1_tl_14"/>für einige Tage dort) mich ganz 
+               <lb xml:id="p003_tr_1_tl_15"/>erledigt hat, so dass ich vor dem 
+               <lb xml:id="p003_tr_1_tl_16"/>Essen ins Bett musste.</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_17"/>Ein Glück, dass Inge Westendarp 
+               <lb xml:id="p003_tr_1_tl_18"/>da ist, wir werden im[m]er zusammen 
+               <lb xml:id="p003_tr_1_tl_19"/>liegen u. essen, etc. Erika muss ja 
+               <lb xml:id="p003_tr_1_tl_20"/>heute schon fort.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_l_4"/>Ich denke, Mameli, ich werde 
+               <lb xml:id="p003_l_5"/>Dir bald wieder telephonieren 
+               <lb xml:id="p003_l_6"/>u. schön einen besseren 
+               <lb xml:id="p003_l_7"/>Bericht geben kön[n]en. Du kan[n]st</p>
+
+            <pb xml:id="p004" facs="https://www.e-manuscripta.ch/i3f/v20/5289781"/>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_1_tl_1"/>ja auch einmal selbst bei Dr. 
+               <lb xml:id="p004_tr_1_tl_2"/>Ruppan[n]er anfragen. Ich finde ihn 
+               <lb xml:id="p004_tr_1_tl_3"/><hi rendition="#u">sehr</hi> nett. Er ken[n]t meine Disser 
+               <lb xml:id="p004_tr_1_tl_4" break="no"/>tation u. hat gesagt "Es wäre ja 
+               <lb xml:id="p004_tr_1_tl_5"/>schade, wenn ein so junges Fräulein 
+               <lb xml:id="p004_tr_1_tl_6"/>nicht wieder gesund würde, welches 
+               <lb xml:id="p004_l_3"/>in seinem Leben schon mehr geschafft 
+               <lb xml:id="p004_l"/>hat als mancher Mann".</p>
+            <p> 
+               <lb xml:id="p004_tr_1_tl_11"/>Ich hoffe, in 10-14 Tagen kann ich 
+               <lb xml:id="p004_tr_1_tl_12"/>dan[n] nach Sils.</p>
+            <p> 
+               <lb xml:id="p004_l_1"/>Wie geht es die Dir, liebes Mameli? 
+               <lb xml:id="p004_tr_1_tl_15"/>Du solltest Dich ja nach den Weih 
+               <lb xml:id="p004_l_2" break="no"/>nachtstagen auch erholen! Grüß 
+               <lb xml:id="p004_l_4"/>bitte die liebe Meme u. Papa, u. sei 
+               <lb xml:id="p004_tr_1_tl_21"/>bitte <hi rendition="#u">gar</hi> nicht besorgt. Hier ist 
+               <lb xml:id="p004_tr_1_tl_22"/>ja alles auf solche Serbel [Zürchdeutsch für kränkelnde/magere Person] wie mich 
+               <lb xml:id="p004_tr_1_tl_23"/>eingerichtet. Ich küsse Dich fest 
+               <lb xml:id="p004_tr_1_tl_24"/>u. schicke Dir <hi rendition="#u">alles Liebe</hi>.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_1_tl_25"/>Dein 
+               <lb xml:id="p004_tr_1_tl_26"/>Zwerg</p>
+</div>
+       </body>
+    </text>
+ </TEI>
