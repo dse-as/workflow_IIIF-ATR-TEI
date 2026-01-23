@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0426" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0426#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0426</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0426_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.e-manuscripta.ch/i3f/v20/5289939"/>
+            <milestone unit="textregion" xml:id="p001_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_2_tl_2"/>Estoril bei Lissabon, 
+               <lb xml:id="p001_tr_2_tl_3"/>20. Mai 
+               <lb xml:id="p001_tr_2_tl_4"/>Mein liebes Mameli,</p>
+            <p> 
+               <lb xml:id="p001_tr_2_tl_5"/>ich war sehr, sehr froh, als ich 
+               <lb xml:id="p001_tr_2_tl_6"/>gestern Deinen lieben Brief bekam, und 
+               <lb xml:id="p001_tr_2_tl_7"/>danke Dir vielmals dafür.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_2_tl_8"/>Wie Du es vermutet hast, ist meine Scheidung 
+               <lb xml:id="p001_tr_2_tl_9"/>wirklich auch wegen des Passes eine Notwendigkeit 
+               <lb xml:id="p001_tr_2_tl_10"/>geworden. Nach dem letzten Brief von Claude Carac, 
+               <lb xml:id="p001_tr_2_tl_11"/>ist sie aber recht schwierig zu erreichen. Dafür 
+               <lb xml:id="p001_tr_2_tl_12"/>habe ich wenigstens vor ein paar Tagen einen neuen 
+               <lb xml:id="p001_tr_2_tl_13"/>Pass u. die Visas für Tetouan erhalten, u. kan[n] 
+               <lb xml:id="p001_tr_2_tl_14"/>nächste Woche, sobald ein Flugplatz via Madrid bei 
+               <lb xml:id="p001_tr_2_tl_15"/>der Lufthansa frei ist, abreisen. Wahrscheinliche reisen 
+               <lb xml:id="p001_tr_2_tl_16"/>Bumy Lüscher u. ich bis Sevilla zusam[m]en – sie kam 
+               <lb xml:id="p001_tr_2_tl_17"/>gerade aus New York an u. fährt zunächst zu ihrem 
+               <lb xml:id="p001_tr_2_tl_18"/>Vater. Mit dem gleichen "Diplomaten- Schiff" aus Amerika 
+               <lb xml:id="p001_tr_2_tl_19"/>kam auch die Journalistin Frl. Margrit Boveri von 
+               <lb xml:id="p001_tr_2_tl_20"/>der "Frankfurter Zeitung", die ein schönes Buch über 
+               <lb xml:id="p001_tr_2_tl_21"/>"Oeltürme u. Minarette" im AItantis- Verlag geschrieben 
+               <lb xml:id="p001_tr_2_tl_22"/>hat, u. mit der ich gestern eine sehr gute Unter 
+               <lb xml:id="p001_tr_2_tl_23" break="no"/>haltung hatte. Sonst wimmelt es hier weiterhin 
+               <lb xml:id="p001_tr_2_tl_24"/>von Diplomaten-Diners u. dergleichen, u. obwohl 
+               <lb xml:id="p001_tr_2_tl_25"/>es nach der Isolierung in Afrika interessant 
+               <lb xml:id="p001_tr_2_tl_26"/>für mich ist, u. auch angenehm, so verwöhnt 
+               <lb xml:id="p001_tr_2_tl_27"/>zu werden, – verlangt es mich doch sehr, wieder</p>
+
+            <pb xml:id="p002" facs="https://www.e-manuscripta.ch/i3f/v20/5289940"/>
+            <pb xml:id="p003" facs="https://www.e-manuscripta.ch/i3f/v20/5289941"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_l"/><hi rendition="#u">2</hi> 
+               <lb xml:id="p003_tr_1_tl_2"/>in ein stilleres Leben zu komm, das ich in Sils 
+               <lb xml:id="p003_tr_1_tl_3"/>finden werde. Man sieht ja, wohin die Menschen 
+               <lb xml:id="p003_tr_1_tl_4"/>es mit dem vielen Reden gebracht haben, u. die 
+               <lb xml:id="p003_tr_1_tl_5"/>Diplomaten besonders.</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_6"/>Wenn hichts dazwischen kom[m]t, würde ich also Ende 
+               <lb xml:id="p003_tr_1_tl_7"/>Juni in die Schwiez abreisen können – worüber 
+               <lb xml:id="p003_tr_1_tl_8"/>ich Dir natürlich noch berichte.</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_9"/>Grüsse mir das liebe Memeli vielmals, – und 
+               <lb xml:id="p003_tr_1_tl_10"/>einen Gruss an die [?] Bocken, an die ich so 
+               <lb xml:id="p003_tr_1_tl_11"/>oft denke.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_12"/>Mit allen lieben Grüssen – ich Schreibe 
+               <lb xml:id="p003_tr_1_tl_13"/>heute nur kurz, Du hast ja inzwischen 
+               <lb xml:id="p003_tr_1_tl_14"/>wohl meinen letzten Brief bekom[m]en. 
+               <lb xml:id="p003_tr_1_tl_15"/>immer Deine Treue 
+               <lb xml:id="p003_tr_1_tl_16"/>An[n]emarie 
+               <lb xml:id="p003_tr_1_tl_17"/>P.S. Meine Adresse wird ab nächster Woche sein: 
+               <lb xml:id="p003_tr_1_tl_18"/>Consulat de France, 
+               <lb xml:id="p003_tr_1_tl_19"/>TETOUAN, 
+               <lb xml:id="p003_tr_1_tl_20"/>Maroc Espagnol</p>
+
+            <pb xml:id="p004" facs="https://www.e-manuscripta.ch/i3f/v20/5289942"/>
+            <pb xml:id="p005" facs="https://www.e-manuscripta.ch/i3f/v20/5289943"/>
+            <milestone unit="textregion" xml:id="p005_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p005_tr_1_tl_1"/>Por avio</p>
+
+            <milestone unit="textregion" xml:id="p005_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p005_l_1"/>24. Mai. 42 
+               <lb xml:id="p005_l_3"/>Estoril</p>
+
+            <milestone unit="textregion" xml:id="p005_r_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p005_l"/>Madame Renée Schwarzenbach 
+               <lb xml:id="p005_l_2"/>Bocken 
+               <lb xml:id="p005_l_7"/>Horgen – Zurich 
+               <lb xml:id="p005_l_6"/>Suiça</p>
+
+            <pb xml:id="p006" facs="https://www.e-manuscripta.ch/i3f/v20/5289944"/>
+            <milestone unit="textregion" xml:id="p006_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p006_tr_1_tl_1"/>Exp. A. Clarac, c/o Légation de 
+               <lb xml:id="p006_tr_1_tl_2"/>Lisbonne, Portugal</p>
+
+            <milestone unit="textregion" xml:id="p006_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p006_l"/>COREID AÉREO 
+               <lb xml:id="p006_l_1"/>PORTUGAL 
+               <lb xml:id="p006_l_2"/>25. MAI. 24 – 2H 
+               <lb xml:id="p006_l_3"/>LISBOA</p>
+</div>
+       </body>
+    </text>
+ </TEI>
