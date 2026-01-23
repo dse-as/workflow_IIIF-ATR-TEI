@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0401" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0401#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0401</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0401_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.e-manuscripta.ch/i3f/v20/5289772"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_2"/>Estoril bei Lissabon 
+               <lb xml:id="p001_tr_1_tl_3"/>23. Mai 1908 [sic - ihr Geburtsdatum, also wohl kein Fehler] 
+               <lb xml:id="p001_tr_1_tl_4"/>Mein liebstes Mameli,</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_5"/>ich bekam Deinen lieben Brief gerade noch zum 
+               <lb xml:id="p001_tr_1_tl_6"/>Geburtstag, u. gerade noch vor der morgigen Abreise, 
+               <lb xml:id="p001_tr_1_tl_7"/>hab vielen innigen Dank, Du weisst nicht welche Freude 
+               <lb xml:id="p001_tr_1_tl_8"/>mir jedes Zeichen u. jeder Gruss von Dir macht!</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_9"/>Naürlich musste ich lächeln, mit 
+               <lb xml:id="p001_tr_1_tl_10"/>welcher sicheren Kenntnis von mir Du jeden schwachen 
+               <lb xml:id="p001_tr_1_tl_11"/>Punkt spürst: Tatsächlich sieht das angeregte, sowohl 
+               <lb xml:id="p001_tr_1_tl_12"/>beruflich wie gesellschaftlich ausgefüllte Leben, wie ich es hier 
+               <lb xml:id="p001_tr_1_tl_13"/>jetzt 6 Wochen führte, im denkbar stärksten Gegensatz zu 
+               <lb xml:id="p001_tr_1_tl_14"/>meiner Einsamkeit, die ich in Afrika über alles Leid 
+               <lb xml:id="p001_tr_1_tl_15"/>hinweg als ein Tiefes, ernstes Glück empfand. Aber die Wahl 
+               <lb xml:id="p001_tr_1_tl_16"/>– oder gar der Kompromiss – ist nicht leicht: Hier tat ich 
+               <lb xml:id="p001_tr_1_tl_17"/>genau das, was man, als Journalist oder überhaupt, tun 
+               <lb xml:id="p001_tr_1_tl_18"/>muss, um erfolgreich zu sein – Und ich erfahre es von allen 
+               <lb xml:id="p001_tr_1_tl_19"/>Seiten, dass ich hier den grössten Erfolg hatte – u. zwar 
+               <lb xml:id="p001_tr_1_tl_20"/>bei sehr rechten, gescheiten u. anständigen Menschen ebenso 
+               <lb xml:id="p001_tr_1_tl_21"/>bei in schlichthin offiziellen Kreisen. Wen[n] man aber erstaunt 
+               <lb xml:id="p001_tr_1_tl_22"/>war über meine guten Nerven, meine Ruhe, u. Selbst 
+               <lb xml:id="p001_tr_1_tl_23" break="no"/>disziplin, ... dann wusste ich, dass ich dies Alles nur 
+               <lb xml:id="p001_tr_1_tl_24"/>dort in der Stille gelernt habe. Mehr noch, am Ende 
+               <lb xml:id="p001_tr_1_tl_25"/>eines jeden "erfolgreichen" Tages wusste ich, dass ich selber 
+               <lb xml:id="p001_tr_1_tl_26"/>dieses Leben, diese Erfolge so wenig ernst nehme wie die 
+               <lb xml:id="p001_tr_1_tl_27"/>entsprechenden Niederlagen im Kongo, wo man mich für 
+               <lb xml:id="p001_tr_1_tl_28"/>einen Spitzel hielt. Täglich spürte ich, dass ich – nach 
+               <lb xml:id="p001_tr_1_tl_29"/>Aussen lebend u. kämpfend – niemals mehr fähig wäre, 
+               <lb xml:id="p001_tr_1_tl_30"/>mich so zu befreien, zu konzentrieren – u. so schön u. 
+               <lb xml:id="p001_tr_1_tl_31"/>rein zu schreiben wie damals. Und täglich denke ich 
+               <lb xml:id="p001_l"/>an jenes andere Leben wie an ein verlorenes Paradies, zu 
+               <lb xml:id="p001_tr_1_tl_34"/>dem ich zurückfinden muss.</p>
+
+            <pb xml:id="p002" facs="https://www.e-manuscripta.ch/i3f/v20/5289773"/>
+            <pb xml:id="p003" facs="https://www.e-manuscripta.ch/i3f/v20/5289774"/>
+            <milestone unit="textregion" xml:id="p003_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_l"/><hi rendition="#u">2</hi></p>
+
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p> 
+               <lb xml:id="p003_tr_1_tl_2"/>Deine kleine Bemerkung hat also den wundesten Punkt in 
+               <lb xml:id="p003_tr_1_tl_3"/>mir angerührt – denn ich frage mich, ob ich auf alle 
+               <lb xml:id="p003_tr_1_tl_4"/>äussere Karriere verzichten kann, u. so leben wie mein 
+               <lb xml:id="p003_tr_1_tl_5"/>tiefstes, bestes Wissen es verlangt ... Als kürzlich die 
+               <lb xml:id="p003_tr_1_tl_6"/>lich Frau Margrit Boveri mit mir über unsere 
+               <lb xml:id="p003_tr_1_tl_7"/>Beschäftigungen sprach u. mir sozusagen gratulierte 
+               <lb xml:id="p003_tr_1_tl_8"/>zu dem was ich hier leiste, – da konnte ich nicht 
+               <lb xml:id="p003_tr_1_tl_9"/>anders als ihr meine Zweifel sagen – Und <del rend="overstrike">si</del> ich 
+               <lb xml:id="p003_tr_1_tl_10"/>merkte bald, dass wir die gleiche Sprache reden. Dann 
+               <lb xml:id="p003_tr_1_tl_11"/>sagte Sie mir: "Ja, dan[n] kom[m]en Sie eben nicht nach 
+               <lb xml:id="p003_tr_1_tl_12"/>Lissabon zurück ... ja, es ist halb so wichtig!</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [vertical space]</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_13"/>Mameli, Du musst mein Buch lesen, da steht alles 
+               <lb xml:id="p003_tr_1_tl_14"/>drin. Jetzt aber muss ich packen, – u. vielleicht schon 
+               <lb xml:id="p003_tr_1_tl_15"/>in Tetouan, sicher in Sils, werde ich die Ruhe 
+               <lb xml:id="p003_tr_1_tl_16"/>finden, um zu einem Entschluss zu kom[m]en.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [vertical space] 
+               <lb xml:id="p003_tr_1_tl_17"/>Inzwischen sind meine innigsten Gedanken bei Dir 
+               <lb xml:id="p003_l_2"/>u. in Bocken – Grüsse das liebe Memeli, Em[m]y in 
+               <lb xml:id="p003_l_1"/>einem Brief u. sei fest umarmt 
+               <lb xml:id="p003_tr_1_tl_22"/>von Deiner 
+               <lb xml:id="p003_tr_1_tl_23"/>Annemarie</p>
+
+            <pb xml:id="p004" facs="https://www.e-manuscripta.ch/i3f/v20/5289775"/>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_1_tl_1"/>obil s 
+               <lb xml:id="p004_tr_1_tl_2"/>.3 
+               <lb xml:id="p004_tr_1_tl_3"/>vird 
+               <lb xml:id="p004_tr_1_tl_4"/>tirer 
+               <lb xml:id="p004_tr_1_tl_5"/>d'où ils nous 
+               <lb xml:id="p004_tr_1_tl_6"/>. 
+               <lb xml:id="p004_tr_1_tl_7"/>18- 
+               <lb xml:id="p004_tr_1_tl_8"/>de 
+               <lb xml:id="p004_tr_1_tl_9"/>de 
+               <lb xml:id="p004_tr_1_tl_10"/>voir 
+               <lb xml:id="p004_tr_1_tl_11"/>plaire 3 soire. 
+               <lb xml:id="p004_tr_1_tl_12"/>de ma 
+               <lb xml:id="p004_tr_1_tl_13"/>gisw1is o2 d 
+               <lb xml:id="p004_tr_1_tl_14"/>212 26 
+               <lb xml:id="p004_tr_1_tl_15"/>" 
+               <lb xml:id="p004_tr_1_tl_16"/>2641, 62 15 
+               <lb xml:id="p004_tr_1_tl_17"/>-p-n 
+               <lb xml:id="p004_tr_1_tl_18"/>or mn</p>
+
+            <milestone unit="textregion" xml:id="p004_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_2_tl_1"/>is</p>
+
+            <milestone unit="textregion" xml:id="p004_tr_3"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_3_tl_1"/>18</p>
+
+            <milestone unit="textregion" xml:id="p004_tr_4"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_4_tl_1"/>22 Nov.</p>
+
+            <milestone unit="textregion" xml:id="p004_tr_5"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_5_tl_1"/>adres. 
+               <lb xml:id="p004_tr_5_tl_2"/>de me 
+               <lb xml:id="p004_tr_5_tl_3"/>lesd. 
+               <lb xml:id="p004_tr_5_tl_4"/>ynoit 
+               <lb xml:id="p004_tr_5_tl_5"/>Gew Z Ihr darst 
+               <lb xml:id="p004_tr_5_tl_6"/>de 
+               <lb xml:id="p004_tr_5_tl_7"/>1801 
+               <lb xml:id="p004_tr_5_tl_8"/>wesent 
+               <lb xml:id="p004_tr_5_tl_9"/>1702 
+               <lb xml:id="p004_tr_5_tl_10"/>de 
+               <lb xml:id="p004_tr_5_tl_11"/>.. 
+               <lb xml:id="p004_tr_5_tl_12"/>nrdos 
+               <lb xml:id="p004_tr_5_tl_13"/>de vos 
+               <lb xml:id="p004_tr_5_tl_14"/>e 2 i</p>
+</div>
+       </body>
+    </text>
+ </TEI>
