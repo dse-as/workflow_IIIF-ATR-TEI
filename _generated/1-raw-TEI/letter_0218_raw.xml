@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0218"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0218</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0218_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0218_001"
+                facs="https://www.monacensia-digital.de/i3f/v20/415671"/>
+            <milestone unit="textregion" xml:id="letter_0218_001_tr_1"/>
+            <lb xml:id="letter_0218_001_tr_1_tl_1"/>CHALET CANOLS
+<lb xml:id="letter_0218_001_tr_1_tl_2"/>LENZERHEIDE-SEE
+<lb xml:id="letter_0218_001_tr_1_tl_3"/><PAGE tag="underlined">Sonntag</PAGE>
+<lb xml:id="letter_0218_001_tr_1_tl_4"/>Was für ein betrübliches Telegram[m],
+<lb xml:id="letter_0218_001_tr_1_tl_5"/>ich dachte, Gallen, Grippen [sic] u.
+<lb xml:id="letter_0218_001_tr_1_tl_6"/>dergleichen seien ganz allein für
+<lb xml:id="letter_0218_001_tr_1_tl_7"/>mich reserviert – Aber E. – wenn
+<lb xml:id="letter_0218_001_tr_1_tl_8"/>Du einigermassen wieder auf den
+<lb xml:id="letter_0218_001_tr_1_tl_9"/>Beinen u. reisefähig bist, setz Dich
+<lb xml:id="letter_0218_001_tr_1_tl_10"/>gleich in den genan[n]ten Frühzug
+<lb xml:id="letter_0218_001_tr_1_tl_11"/>(den[n] später als 6 Uhr geht abends
+<lb xml:id="letter_0218_001_tr_1_tl_12"/>kein Postauto mehr ab Chur
+<lb xml:id="letter_0218_001_tr_1_tl_13"/>in unsere einsame Gegend hinauf)
+<lb xml:id="letter_0218_001_tr_1_tl_14"/>– Du wirst Dich hier in die
+<lb xml:id="letter_0218_001_tr_1_tl_15"/>program[m]gemäss strahlende Sonne
+<lb xml:id="letter_0218_001_tr_1_tl_16"/>legen u. sehr rasch gesund
+<lb xml:id="letter_0218_001_tr_1_tl_17"/>werden. Ich bleibe auf jeden Fall
+<lb xml:id="letter_0218_001_tr_1_tl_18"/>bis Ende des Monats.<pb xml:id="letter_0218_002"
+                facs="https://www.monacensia-digital.de/i3f/v20/415672"/>
+            <milestone unit="textregion" xml:id="letter_0218_002_tr_1"/>
+            <lb xml:id="letter_0218_002_tr_1_tl_4"/>Ich war mittlerweile in
+<lb xml:id="letter_0218_002_tr_1_tl_5"/>Arosa u. in St. Moritz
+<lb xml:id="letter_0218_002_tr_1_tl_6"/>u. die Vorlesung in
+<lb xml:id="letter_0218_002_tr_1_tl_7"/>St. Gallen war erspriesslicher
+<lb xml:id="letter_0218_002_tr_1_tl_8"/>als ich vermutet hätte –
+<lb xml:id="letter_0218_002_tr_1_tl_9"/>Grüsse in Eile die Theres,
+<lb xml:id="letter_0218_002_tr_1_tl_10"/>Klaus (oder ist er im
+<lb xml:id="letter_0218_002_tr_1_tl_11"/>Süden?) Mädi u. die
+<lb xml:id="letter_0218_002_tr_1_tl_12"/>verehrte Familie –
+<lb xml:id="letter_0218_002_tr_1_tl_13"/>Werde <PAGE tag="underlined">raschestens</PAGE> gesund,
+<lb xml:id="letter_0218_002_tr_1_tl_14"/>ob du Mittwoch kom[m]st?
+<lb xml:id="letter_0218_002_tr_1_tl_15"/>Bitte nicht später!
+<lb xml:id="letter_0218_002_tr_1_tl_16"/>Sei zärtlich umsorgt
+<lb xml:id="letter_0218_002_tr_1_tl_17"/>u. dringlich erwartet
+<lb xml:id="letter_0218_002_l_2"/>von
+<lb xml:id="letter_0218_002_l"/>A
+<lb xml:id="letter_0218_002_tr_1_tl_19"/>P.S. Postauto bis Valbella – Lenzerheide – <PAGE tag="underlined">See</PAGE> [doppelt unterstrichen]
+<lb xml:id="letter_0218_002_tr_1_tl_20"/>nicht bis Lenzerheide! Telefon
+<lb xml:id="letter_0218_002_tr_1_tl_21"/>Lenzerheide 7267</div>
+      </body>
+   </text>
+</TEI>
