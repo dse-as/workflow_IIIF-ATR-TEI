@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0400" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0400#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0400</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0400_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.e-manuscripta.ch/i3f/v20/5289767"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l"/>ROMAS VIESNICA 
+               <lb xml:id="p001_l_1"/>RESTORANS 
+               <lb xml:id="p001_l_2"/>OTTO SCHWARZ 
+               <lb xml:id="p001_l_3"/>TEL. ADR.: ROMASVIESNICA 
+               <lb xml:id="p001_l_4"/>TEL. CENTR. 
+               <lb xml:id="p001_l_5"/>RIGA 3525 
+               <lb xml:id="p001_l_6"/>HÔTEL DE ROME 
+               <lb xml:id="p001_l_7"/>RESTAURANT 
+               <lb xml:id="p001_l_8"/>OTTO SCHWARZ 
+               <lb xml:id="p001_l_9"/>TEL. ADR.: ROMEHOTEL RIGA 
+               <lb xml:id="p001_l_10"/>TEL. CENT. 
+               <lb xml:id="p001_l_11"/>RIGA 3525</p>
+
+            <milestone unit="textregion" xml:id="p001_r_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l_12"/>RIGA, 20. Mai</p>
+            <p> 
+               <lb xml:id="p001_l_13"/>Liebste Suz, – ich bekam hier einen Brief von Claude, – sein 
+               <lb xml:id="p001_l_14"/>neuer Minister ist – wirklich – – eingetroffen, Claude traut sich aber 
+               <lb xml:id="p001_l_15"/>bis Anfang Juni nicht, von seinem wohlverdienten Urlaub zu spre 
+               <lb xml:id="p001_l_16" break="no"/>chen, wird also wohl erst am 20. oder später in Europa eintreffen. 
+               <lb xml:id="p001_l_17"/>Jch bin fast froh, – weil es auf zehn Tage auch nicht ankommt, wäh 
+               <lb xml:id="p001_l_18" break="no"/>rend es inbezug auf Besuch bei Euch, und für meine beiden Ameri 
+               <lb xml:id="p001_l_19" break="no"/>kaner, ganz katastophal geworden wäre, wenn ich keine Zeit gehabt hätte, 
+               <lb xml:id="p001_l_20"/>in Schweden etwas zu bleiben. Die Amerikaner haben mir nämlich telegra 
+               <lb xml:id="p001_l_21" break="no"/>phiert, dass sie am 10. in Götaborg einlaufen, und mich in Stockholm zu tre 
+               <lb xml:id="p001_l_22" break="no"/>fen gedenken. Und in einem Brief von Barbara schreibt sie mir von lauter 
+               <lb xml:id="p001_l_23"/>entsetzlich seriösen Plänen und Aufträgen in Schweden ... und flucht schon 
+               <lb xml:id="p001_l_24"/>im Voraus, falls <hi rendition="#g">ich</hi> meine Zeit und Kräfte sollte im Baltikum veraus 
+               <lb xml:id="p001_l_25" break="no"/>gabt haben! Also höre – Du <hi rendition="#g">musst</hi> mir da ein wenig helfen, – beide, Michel 
+               <lb xml:id="p001_l_26"/>und Barbara, sind ja reizende Menschen – und auch völlig anspruchslos – 
+               <lb xml:id="p001_l_27"/>wirst Du sie denn kurze Zeit (eine Woche längstens) beherbergen können?</p>
+            <p> 
+               <lb xml:id="p001_l_28"/>Jch bearbeite inzwischen mein Baltikum 
+               <lb xml:id="p001_l_29"/>fleissig wie ein Pferd – gestern habe ich noch in Kaunas, Litauen, ein be- 
+               <lb xml:id="p001_l_30"/>merkenswertes Gespräch mit dem Grafen Keyserling gehabt (bemerkenswert v.<hi rendition="#g"> 
+                  <lb xml:id="p001_l_31"/>seiner</hi> Seite!) – und heute habe ich schon irgendwo auf dem Rigaer 
+               <lb xml:id="p001_l_32"/>Land stundenlang lettische Bauern und Schulkinder geknipst – und übermor 
+               <lb xml:id="p001_l_33" break="no"/>gen reise ich an den Peipus-See. Eigentlich ist es ja viel zu schnell 
+               <lb xml:id="p001_l_34"/>– aber auch "lehrreich"!</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l_35"/>Tschau – und gell, Du berichtest nach Talinn, wie ich</p>
+
+            <pb xml:id="p002" facs="https://www.e-manuscripta.ch/i3f/v20/5289768"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>Dich in Helsinki erreichen kann? – Wahrscheinlich schicke ich von hier aus 
+               <lb xml:id="p002_tr_1_tl_2"/>einen Koffer nach Stockholm, es ist so heiss, dass ich doch nichts ausser 
+               <lb xml:id="p002_tr_1_tl_3"/>ein paar alten Hemden tragen kann –  
+               <lb xml:id="p002_tr_1_tl_4"/>Dieser Brief (siehe vorige Seite) ist im Halbschlaf getippt – 
+               <lb xml:id="p002_tr_1_tl_5"/>Grü<del rend="overstrike">ü</del>s[add in lin: s]e den lieben Torgny – 
+               <lb xml:id="p002_tr_1_tl_6"/>Deine 
+               <lb xml:id="p002_l"/>A</p>
+</div>
+       </body>
+    </text>
+ </TEI>
