@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0216" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0216#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0216</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0216_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415665"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Adr. Berlin provisorisch 
+               <lb xml:id="p001_tr_1_tl_4"/>bei Maria Daelen 
+               <lb xml:id="p001_tr_1_tl_5"/>Königin Elisabethstr. 39 
+               <lb xml:id="p001_tr_1_tl_6"/>Charlottenburg 
+               <lb xml:id="p001_tr_1_tl_2"/>CHALET CANOLS 
+               <lb xml:id="p001_tr_1_tl_3"/>LENZERHEIDE-SEE 
+               <lb xml:id="p001_tr_1_tl_7"/>E. Liebling, das ist eine 
+               <lb xml:id="p001_tr_1_tl_8"/>verteufelte Sache [die Gelbsucht v. EM, s.u.] u. ich werde 
+               <lb xml:id="p001_tr_1_tl_9"/>mit Dir nach Persien oder 
+               <lb xml:id="p001_tr_1_tl_10"/>nach Mexiko fahren um meinen 
+               <lb xml:id="p001_tr_1_tl_11"/>Ärger darüber zu vergessen. 
+               <lb xml:id="p001_tr_1_tl_12"/>Was hälst [sic] Du von Mexiko, 
+               <lb xml:id="p001_tr_1_tl_13"/>sollte nicht ein Verlag oder eine 
+               <lb xml:id="p001_tr_1_tl_14"/>Zeitung Geld finden unsere 
+               <lb xml:id="p001_tr_1_tl_15"/>Artikel u. Aufnahmen alter 
+               <lb xml:id="p001_tr_1_tl_16"/>Indianergräber zu finanzieren? 
+               <lb xml:id="p001_tr_1_tl_17"/>Hanna sagt sie interessiert sich 
+               <lb xml:id="p001_tr_1_tl_18"/>(prinzipiell?) nur für Europa 
+               <lb xml:id="p001_tr_1_tl_19"/>u. ist deshalb für Spanien 
+               <lb xml:id="p001_tr_1_tl_20"/>oder Südfrankreich. Im Übrigen</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415666"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>lässt Hanna sagen, Canols 
+               <lb xml:id="p002_tr_1_tl_2"/>stehe Dir jeder Zeit offen, u. 
+               <lb xml:id="p002_tr_1_tl_3"/>ich füge bei dass ich jetzt zwar 
+               <lb xml:id="p002_tr_1_tl_4"/>allerpünktlichst am <hi rendition="#u">1. Febr.</hi> 
+               <lb xml:id="p002_tr_1_tl_5"/>in Berlin sein sollte, u. nur 
+               <lb xml:id="p002_tr_1_tl_6"/>deshalb den Umweg über München 
+               <lb xml:id="p002_tr_1_tl_7"/>einsparen muss – dass ich 
+               <lb xml:id="p002_tr_1_tl_8"/>aber halb u. halb erhoffe 
+               <lb xml:id="p002_tr_1_tl_9"/>schon in 2 der 3 Wochen zurück 
+               <lb xml:id="p002_tr_1_tl_10" break="no"/>zu fahren. Deshalb lasse ich 
+               <lb xml:id="p002_tr_1_tl_11"/>mir auch heute noch teure 
+               <lb xml:id="p002_tr_1_tl_12"/>Stahlkanten an die Skier 
+               <lb xml:id="p002_tr_1_tl_13"/>schlagen u. tue überhaupt recht 
+               <lb xml:id="p002_tr_1_tl_14"/>fachmän[n]isch, so dass der 
+               <lb xml:id="p002_tr_1_tl_15"/>Führer hier meine Rückkehr 
+               <lb xml:id="p002_tr_1_tl_16"/>u. meine Teilnahme am 
+               <lb xml:id="p002_tr_1_tl_17"/>Lenzerheide-Ren[n]en für 
+               <lb xml:id="p002_tr_1_tl_18"/>unumgänglich nötig hält.</p>
+
+            <pb xml:id="p003" facs="https://www.monacensia-digital.de/i3f/v20/415667"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_2"/>CHALET CANOLS 
+               <lb xml:id="p003_tr_1_tl_3"/>LENZERHEIDE-SEE [Briefpapier, ev. löschen und/oder in Kommentar behandeln] 
+               <lb xml:id="p003_tr_1_tl_4"/>Und – falls dies alles nichts, 
+               <lb xml:id="p003_tr_1_tl_5"/>mein Aufenthalt in Berlin 
+               <lb xml:id="p003_tr_1_tl_6"/>aber länger wird – wolltest 
+               <lb xml:id="p003_tr_1_tl_7"/>(solltest) nicht auch Du dorthin 
+               <lb xml:id="p003_tr_1_tl_8"/>fahren? Und dan[n] wohnst Du 
+               <lb xml:id="p003_tr_1_tl_9"/>in meiner inzwischen eingerichteten 
+               <lb xml:id="p003_tr_1_tl_10"/>Minimal-Wohnung. 
+               <lb xml:id="p003_tr_1_tl_11"/>Aber, Eri, in erster Linie sollst 
+               <lb xml:id="p003_tr_1_tl_12"/>Du Dich von der Gelben Sucht 
+               <lb xml:id="p003_tr_1_tl_13"/>befreien u. erholen. Ist den[n] das 
+               <lb xml:id="p003_tr_1_tl_14"/>ein Jahresanfang! Soll das Jahr 
+               <lb xml:id="p003_tr_1_tl_15"/>etwa so übel werden wie das 
+               <lb xml:id="p003_tr_1_tl_16"/>vergangene! 
+               <lb xml:id="p003_tr_1_tl_17"/>Wie geht es Klaus, wie seinen 
+               <lb xml:id="p003_tr_1_tl_18"/>Plänen. Ich bin hier zum 
+               <lb xml:id="p003_tr_1_tl_19"/>Optimisten geworden u. erin[n]ere 
+               <lb xml:id="p003_tr_1_tl_20"/>mich mehr den[n] je an seinen 
+               <lb xml:id="p003_tr_1_tl_21"/>überaus netten Brief von dem</p>
+
+            <pb xml:id="p004" facs="https://www.monacensia-digital.de/i3f/v20/415668"/>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_1_tl_3"/>er behauptet ich hätte ihn 
+               <lb xml:id="p004_tr_1_tl_4"/>unbeachtet u. unbeantwortet 
+               <lb xml:id="p004_tr_1_tl_5"/>gelassen. [vertical space] 
+               <lb xml:id="p004_tr_1_tl_6"/>Hast Du, ausser Schnee u. 
+               <lb xml:id="p004_tr_1_tl_7"/>Lenzerleide u. Gesundwerden, 
+               <lb xml:id="p004_tr_1_tl_8"/>etwas vor? Aussichten zu 
+               <lb xml:id="p004_tr_1_tl_9"/>spielen u. ähnlich lästige 
+               <lb xml:id="p004_tr_1_tl_10"/>Pflichten? Wirklich etwa 
+               <lb xml:id="p004_tr_1_tl_11"/>grosse Reisen? 
+               <lb xml:id="p004_tr_1_tl_12"/>Dies alles wird sich für mich 
+               <lb xml:id="p004_tr_1_tl_13"/>erst in Berlin erweisen. Ich 
+               <lb xml:id="p004_tr_1_tl_14"/>hoffe es mindestens, u. Han[n]a 
+               <lb xml:id="p004_tr_1_tl_15"/>wird recht behalten dass ich 
+               <lb xml:id="p004_tr_1_tl_16"/>besser hier geblieben wäre. [vertical space] 
+               <lb xml:id="p004_tr_1_tl_17"/>E. – ich hätte Dich brennend gern 
+               <lb xml:id="p004_tr_1_tl_18"/>in M.[ünchen] besucht. Schreibe bald. 
+               <lb xml:id="p004_tr_1_tl_19"/>– Wünsche, Zärtlichkeit, 
+               <lb xml:id="p004_tr_1_tl_20"/>treue Anhänglichkeit von 
+               <lb xml:id="p004_l"/>A. –</p>
+</div>
+       </body>
+    </text>
+ </TEI>
