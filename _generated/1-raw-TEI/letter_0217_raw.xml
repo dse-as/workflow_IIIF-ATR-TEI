@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0217"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0217</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0217_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0217_001"
+                facs="https://www.monacensia-digital.de/i3f/v20/415669"/>
+            <milestone unit="textregion" xml:id="letter_0217_001_tr_1"/>
+            <lb xml:id="letter_0217_001_tr_1_tl_1"/>CHALET CANOLS
+<lb xml:id="letter_0217_001_tr_1_tl_2"/>LENZERHEIDE-SEE
+<lb xml:id="letter_0217_001_tr_1_tl_3"/>Lieblings-E, wenn Prof. Burckhardt
+<lb xml:id="letter_0217_001_tr_1_tl_4"/>nicht einen anderen Bericht
+<lb xml:id="letter_0217_001_tr_1_tl_5"/>schickt u. wen[n] ich keinen
+<lb xml:id="letter_0217_001_tr_1_tl_6"/>Son[n]enstich oder einen glück¬
+<lb xml:id="letter_0217_001_tr_1_tl_7"/>lichen Einfall bekomme, sollte
+<lb xml:id="letter_0217_001_tr_1_tl_8"/>ich am 31. nach Berlin fahren,
+<lb xml:id="letter_0217_001_tr_1_tl_9"/>aber Deine gelbsüchtige Galle
+<lb xml:id="letter_0217_001_tr_1_tl_10"/>musst Du doch hier oben
+<lb xml:id="letter_0217_001_tr_1_tl_11"/>ausheilen, Han[n]a freut sich,
+<lb xml:id="letter_0217_001_tr_1_tl_12"/>sagt sie, wen[n] Du bleibst,
+<lb xml:id="letter_0217_001_tr_1_tl_13"/>u. wen[n] Du am 25. kom[m]st –
+<lb xml:id="letter_0217_001_tr_1_tl_14"/>was Du wagen solltest –<pb xml:id="letter_0217_002"
+                facs="https://www.monacensia-digital.de/i3f/v20/415670"/>
+            <milestone unit="textregion" xml:id="letter_0217_002_tr_1"/>
+            <lb xml:id="letter_0217_002_tr_1_tl_2"/>wen[n] es irgendwie möglich
+<lb xml:id="letter_0217_002_tr_1_tl_3"/>ist – bleibt immer noch
+<lb xml:id="letter_0217_002_tr_1_tl_4"/>eine knappe Woche für
+<lb xml:id="letter_0217_002_tr_1_tl_5"/>meinen Egoismus, ich möchte
+<lb xml:id="letter_0217_002_tr_1_tl_6"/>Dich wirklich so gern sehen
+<lb xml:id="letter_0217_002_tr_1_tl_7"/>dass ein endgültiges Scheitern
+<lb xml:id="letter_0217_002_tr_1_tl_8"/>wegen Gelbsucht mich fürchterlich
+<lb xml:id="letter_0217_002_tr_1_tl_9"/>kränken würde. Grüss die Theres,
+<lb xml:id="letter_0217_002_tr_1_tl_10"/>den Klaus, den Ricki, u. an
+<lb xml:id="letter_0217_002_tr_1_tl_11"/>Mädi will ich selber schreiben.
+<lb xml:id="letter_0217_002_tr_1_tl_12"/>Leider fange ich immer erst an zu
+<lb xml:id="letter_0217_002_tr_1_tl_13"/>schreiben wen[n] unsere Donna
+<lb xml:id="letter_0217_002_tr_1_tl_14"/>eigentlich schon vor der Tür
+<lb xml:id="letter_0217_002_tr_1_tl_15"/>steht u. zur Post will. Das Wetter
+<lb xml:id="letter_0217_002_tr_1_tl_16"/>die Landschaft die Aussicht alles
+<lb xml:id="letter_0217_002_l"/>ist zauberhaft. Sei umarmt
+<lb xml:id="letter_0217_002_l_1"/>und bald geheilt. Hanna grüsst sehr,
+<lb xml:id="letter_0217_002_l_2"/>– tausend Zärtlichkeiten von A.</div>
+      </body>
+   </text>
+</TEI>
