@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0404" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0404#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0404</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0404_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.e-manuscripta.ch/i3f/v20/5289793"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_2"/>New York City, 16. Dez. 40 
+               <lb xml:id="p001_tr_1_tl_3"/>The Bedford Hotel, 118 East 40 St. 
+               <lb xml:id="p001_tr_1_tl_4"/>Mein Mameli,</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_5"/>Dir schreiben, das ist das Einzige, was ich in diesen Weihnachts 
+               <lb xml:id="p001_tr_1_tl_6" break="no"/>tagen tun kann, um Dir meine Liebe und Zärtlichkeit zu schicken. 
+               <lb xml:id="p001_tr_1_tl_7"/>Wir feiern kein Fest diesmal, – und ich versuche, mir vorzustellen, 
+               <lb xml:id="p001_tr_1_tl_8"/>wie es für Dich sein wird, mit Hasi, Adrienne, mit Meme, und dem 
+               <lb xml:id="p001_tr_1_tl_9"/>kleinen Enkel, und ganz Bocken, zum ersten Mal im Esszimmer beim 
+               <lb xml:id="p001_tr_1_tl_10"/>Baum versammelt ohne Paps. Ja, Du wirst nicht allein sein, Mameli, – 
+               <lb xml:id="p001_tr_1_tl_11"/>aber alles wird auf Dir ruhen, und alle werden auf Dich schauen, und 
+               <lb xml:id="p001_tr_1_tl_12"/>auf Dich vertrauen.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_13"/>Diese letzten Wochen sind vorbei gegangen ohne jede Wirklichkeit. 
+               <lb xml:id="p001_tr_1_tl_14"/>Ich habe versucht, mich daran zu gewöhnen, und mich zu erholen. In 
+               <lb xml:id="p001_tr_1_tl_15"/>New York mit seiner ewig lastenden Dämmerung ist es mir nicht 
+               <lb xml:id="p001_tr_1_tl_16"/>gelungen. Jetzt bin ich in Greenwich, in einer Art von Sanatorium, 
+               <lb xml:id="p001_tr_1_tl_17"/>und werde noch 8-14 Tage bleiben, bis ich mich besser und sicherer 
+               <lb xml:id="p001_tr_1_tl_18"/>fühle. Dann gehe ich vielleicht nach Princeton, und muss mir einen 
+               <lb xml:id="p001_tr_1_tl_19"/>Ruck geben, um wieder in die Arbeit hinein zu kommen. Es ist sehr 
+               <lb xml:id="p001_tr_1_tl_20"/>schwer für mich geworden. Es ist, als hätte ich keinen Boden mehr 
+               <lb xml:id="p001_tr_1_tl_21"/>unter meinen Füssen. Papa's Tod hat mir meine Lage erst recht zum 
+               <lb xml:id="p001_tr_1_tl_22"/>Bewusstsein gebracht.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_23"/>Aber ich will Dir jetzt nicht viel schreiben, liebes Mameli. Ich 
+               <lb xml:id="p001_tr_1_tl_24"/>weiss, dass es mir bald besser gehen wird, und dann ist man auch 
+               <lb xml:id="p001_tr_1_tl_25"/>wieder mutiger. Und Jeder wählt doch bis zu einem hohen Grade sein 
+               <lb xml:id="p001_tr_1_tl_26"/>Schicksal selbst.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_27"/>Ich bin übrigens ziemlich nahe von Freddy, der mich Samstag sehr 
+               <lb xml:id="p001_tr_1_tl_28"/>lieb hier besuchte. Frau v. Opel kam heute noch, bevor sie abreiste, 
+               <lb xml:id="p001_tr_1_tl_29"/>um ihren Mann im Süden zu treffen. Sie hätte Dir gern geschrieben, 
+               <lb xml:id="p001_tr_1_tl_30"/>aber meinte dann, vielleicht sei es Dir lieber nicht, da Du sie ja 
+               <lb xml:id="p001_tr_1_tl_31"/>kaum kennst.</p>
+
+            <pb xml:id="p002" facs="https://www.e-manuscripta.ch/i3f/v20/5289794"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p> 
+               <lb xml:id="p002_tr_1_tl_1"/>Wie geht es wohl Emmy? – Du solltest mir einmal schreiben, Mama, 
+               <lb xml:id="p002_tr_1_tl_2"/>– ich habe seit so langer Zeit nichts mehr direkt von Dir gehört. 
+               <lb xml:id="p002_tr_1_tl_3"/>Manchmal denke ich fast, Du hast etwas gegen mich. Aber ich 
+               <lb xml:id="p002_tr_1_tl_4"/>besinne mich vergebens, was es sein könnte. Ich habe es nicht 
+               <lb xml:id="p002_tr_1_tl_5"/>leicht im Leben, Mama, – und wenn ich es Dir oft schwer gemacht 
+               <lb xml:id="p002_tr_1_tl_6"/>habe, dann bitte denke daran, dass ich sicher selber am meisten 
+               <lb xml:id="p002_tr_1_tl_7"/>für alles und alles bezahlen muss.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_8"/>Willst Du bitte den beiliegenden kleinen Brief an Meme geben? – 
+               <lb xml:id="p002_tr_1_tl_9"/>Und noch eine Bitte, da ich gerade am schreiben bin: ich fand in 
+               <lb xml:id="p002_tr_1_tl_10"/>meinem Notizbuch von der Afghanistan-Reise eine Liste meiner 
+               <lb xml:id="p002_tr_1_tl_11"/>Sachen, darunter: dass ich den Brillantring von Claude (schmaler 
+               <lb xml:id="p002_tr_1_tl_12"/>Reif, ein ziemlich grosser einzelner Brillant oder Diamant) Mama 
+               <lb xml:id="p002_tr_1_tl_13"/>für den eisernen Schrank gegeben habe. Erinnerst Du Dich, wir fan 
+               <lb xml:id="p002_tr_1_tl_14" break="no"/>den ihn im Mai nicht, – würdest Du nochmals nachsehen? Ich hätte 
+               <lb xml:id="p002_tr_1_tl_15"/>den Ring so gern wieder.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_16"/>Schreib auch, wie es dem Dokterli bei Onkel Erlach geht. Und wie 
+               <lb xml:id="p002_tr_1_tl_17"/>Deinen lieben Pferden? –</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_18"/>Ich höre jetzt auf,  und wünsche aus ganzem Herzen, dass diese 
+               <lb xml:id="p002_tr_1_tl_19"/>Tage für Dich nicht zu schwer sind, mein Mameli, und dass wir 
+               <lb xml:id="p002_tr_1_tl_20"/>uns im kommenden Jahr wiedersehen, –</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_21"/>einen sehr innigen Kuss 
+               <lb xml:id="p002_tr_1_tl_22"/>von Deiner 
+               <lb xml:id="p002_tr_1_tl_23"/>Annemarie</p>
+</div>
+       </body>
+    </text>
+ </TEI>
