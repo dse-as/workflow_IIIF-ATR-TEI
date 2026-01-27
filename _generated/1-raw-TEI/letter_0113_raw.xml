@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0113"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0113</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0113_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0113_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0113_001.tif"/>
+            <milestone unit="textregion" xml:id="letter_0113_001_r_35"/>
+            <lb xml:id="letter_0113_001_tr_2_tl_2"/>Lissabon, 17. Februar 1941
+<lb xml:id="letter_0113_001_tr_2_tl_3"/>c/o Légation de Suisse
+<lb xml:id="letter_0113_001_tr_2_tl_4"/>Lieber Professor Burckhardt,<CONV tag="p">
+<lb xml:id="letter_0113_001_tr_2_tl_5"/>–es liegt mir daran, Sie meine Rückkehr in die Schweiz im
+<lb xml:id="letter_0113_001_tr_2_tl_6"/>Voraus wissen zu lassen, denn ich möchte Sie so bald als möglich in
+<lb xml:id="letter_0113_001_tr_2_tl_7"/>Genf aufsuchen. Es ist ein Jahr her, seitdem ich Sie zuletzt sah, und ich
+<lb xml:id="letter_0113_001_tr_2_tl_8"/>habe von Ihren damaligen, freundschaftlichen Vorschlägen keinen Gebrauch
+<lb xml:id="letter_0113_001_tr_2_tl_9"/>zu machen gewusst. Sie wissen, dass ich nach Amerika fuhr, wo ich auch im
+<lb xml:id="letter_0113_001_tr_2_tl_10"/>Juni meinen Vater zum letzten Mal sah. Er hielt es für richtig, dass ich
+<lb xml:id="letter_0113_001_tr_1_tl_1"/>vorläufig dort bleibe, – und ich habe es ehrlich versucht. Teilweise war
+<lb xml:id="letter_0113_001_tr_1_tl_2"/>der Aufenthalt sehr interessant, und lehrreich für mich, –aber obwohl ich
+<lb xml:id="letter_0113_001_tr_1_tl_3"/>auch Einiges gearbeitet, vor allem Artikel für unsere Schweizer Blätter
+<lb xml:id="letter_0113_001_tr_1_tl_4"/>geschrieben habe, war es aus manchen Gründen alles in allem ein sehr
+<lb xml:id="letter_0113_001_tr_1_tl_5"/>wenig glückliches Jahr. –Mein Bruder, mit dem ich mich ausgezeichnet ver¬
+<lb xml:id="letter_0113_001_tr_1_tl_6"/>stand, –und ich sind schliesslich einig darüber gewesen, dass ich zurück
+<lb xml:id="letter_0113_001_tr_1_tl_7"/>fahren soll. Und so bin ich seit acht Tagen an dieser äussersten Küste
+<lb xml:id="letter_0113_001_tr_1_tl_8"/>Europas ...</CONV><CONV tag="p">
+<lb xml:id="letter_0113_001_tr_1_tl_9"/>Soeben habe ich mit unserer gemeinsamen Freundin Annette geluncht, und
+<lb xml:id="letter_0113_001_tr_1_tl_10"/>mit unserem Minister Henri Martin, der ebenfalls ein alter Freund von
+<lb xml:id="letter_0113_001_tr_1_tl_11"/>mir ist. Herr Martin hat mich mit Oberst Iselin vom C.I.C.R. zusammenge¬
+<lb xml:id="letter_0113_001_tr_1_tl_12"/>bracht, der mir Grüsse an Sie und Professor Huber auftrug, da ich ihm
+<lb xml:id="letter_0113_001_tr_1_tl_13"/>sagte, ich würde sofort nach Genf reisen.</CONV><CONV tag="p">
+<lb xml:id="letter_0113_001_tr_1_tl_14"/>Inzwischen habe ich mich aber insbesondere mit Herrn Martin dahin geei¬
+<lb xml:id="letter_0113_001_tr_1_tl_15"/>nigt, dass sich ein Aufenthalt in Portugal in diesem Augenblick durchaus
+<lb xml:id="letter_0113_001_tr_1_tl_16"/>lohnen würde. Ich bleibe also die nächsten acht bis vierzehn Tage hier,
+<lb xml:id="letter_0113_001_tr_1_tl_17"/>und werde mit ihm, ferner unserem Hafenkommissar, Herrn Berlocher, und mit<!--FML: this needs attention (was tagged as "fml" in Transkribus)--></CONV><pb xml:id="letter_0113_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0113_002.tif"/>
+            <milestone unit="textregion" xml:id="letter_0113_002_r"/>
+            <lb xml:id="letter_0113_002_tr_2_tl_1"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)--><CONV tag="p">
+<lb xml:id="letter_0113_002_tr_2_tl_1"/>den Herren vom C.I.B.R. zusammenarbeiten, um den einen oder anderen
+<lb xml:id="letter_0113_002_tr_2_tl_2"/>Artikel über solche Fragen wie "Le ravitaillement ..." etc. gut fundiert
+<lb xml:id="letter_0113_002_tr_2_tl_3"/>zu Papier zu bringen.</CONV><CONV tag="p">
+<lb xml:id="letter_0113_002_tr_2_tl_4"/>Um aber zum besonderen Thema dieses Briefes zu kommen, – ich habe an Sie
+<lb xml:id="letter_0113_002_tr_2_tl_5"/>ein nicht geringes Anliegen, und glaube, mich an keinen besseren Freund
+<lb xml:id="letter_0113_002_tr_2_tl_6"/>wenden zu können als an Sie. –Ich komme nicht ohne bestimmte Absicht in
+<lb xml:id="letter_0113_002_tr_2_tl_7"/>die Schweiz, sondern in der Hoffnung, nach schwersten persönlichen Erfah¬
+<lb xml:id="letter_0113_002_tr_2_tl_8"/>rungen und bitteren Enttäuschungen an dem Punkt wieder anzuknüpfen, wo
+<lb xml:id="letter_0113_002_tr_2_tl_9"/>ich vor einem Jahr "desertierte". Ich <CONV tag="g">brauche</CONV> aber nicht nur Arbeit,
+<lb xml:id="letter_0113_002_tr_2_tl_10"/>–ich glaube auch, sie besser leisten zu können als damals, und inzwischen
+<lb xml:id="letter_0113_002_tr_2_tl_11"/>viel gelernt zu haben. Es wird mir aber immer deutlicher, dass ich heute als
+<lb xml:id="letter_0113_002_tr_2_tl_12"/>freier Journalist nicht in dem Sinn und dem Mass nützlich sein kann, wie ich
+<lb xml:id="letter_0113_002_tr_1_tl_1"/>es möchte. Ich finde es bestätigt, z. B. nach den Gesprächen mit Martin, Oberst
+<lb xml:id="letter_0113_002_tr_1_tl_2"/>Iselin, und anderen kompetenten Menschen, dass das C.I.C.R. der richtige Rück¬
+<lb xml:id="letter_0113_002_tr_1_tl_3"/>halt für mich sein würde. –Am liebsten würde ich in irgendeiner Funktion nah[überschriebeb:c]h
+<lb xml:id="letter_0113_002_tr_1_tl_4"/>Aegypten, Marseille, oder in den Nahen Osten gehen. Ich würde aber auch zunächst
+<lb xml:id="letter_0113_002_tr_1_tl_5"/>in der Schweiz bleiben. –Da ich Sie vielleicht schon in zwei Wochen, oder wenig
+<lb xml:id="letter_0113_002_tr_1_tl_6"/>später, in Genf aufsuchen werde, –würden Sie sich vielleicht zu meinen Gunst[en]
+<lb xml:id="letter_0113_002_tr_1_tl_7"/>schon mit Professor Huber in Verbindung setzen, –und von sich aus überlegen,
+<lb xml:id="letter_0113_002_tr_1_tl_8"/>ob und wie Sie mich am besten verwenden können? –Sie hatten darüber vor einem
+<lb xml:id="letter_0113_002_tr_1_tl_9"/>Jahr Pläne, –das gibt mir Hoffnung. –Ja, ich komme also ein bischen wie der
+<lb xml:id="letter_0113_002_tr_1_tl_10"/>verlorene Sohn zurück ...</CONV><CONV tag="p">
+<lb xml:id="letter_0113_002_tr_1_tl_11"/>Unserer Freundin A. geht es recht gut. Sie trug mir natürlich die herzlichsten
+<lb xml:id="letter_0113_002_tr_1_tl_12"/>Grüsse an Sie und Ihre Frau auf. Wann sie weiter reist, ist noch unbestimmt.
+<lb xml:id="letter_0113_002_tr_1_tl_13"/>–Ich freue mich <CONV tag="g">sehr</CONV>, Sie bald zu sehen, lieber Professor Burckhardt, –nicht
+<lb xml:id="letter_0113_002_tr_1_tl_14"/>nur wegen künftiger Arbeitspläne, sondern auch ganz persönlich.</CONV>
+<lb xml:id="letter_0113_002_tr_1_tl_15"/>Inzwischen meine herzlichsten Grüsse, bitte auch an Ihre Frau,
+<lb xml:id="letter_0113_002_tr_1_tl_16"/>Empfehlungen an Professor Huber,– und Grüsse an Martin Bodmer,–
+<lb xml:id="letter_0113_002_tr_1_tl_17"/>Ihre [handschriftlich]
+<lb xml:id="letter_0113_002_tr_1_tl_18"/>Annemarie</div>
+      </body>
+   </text>
+</TEI>
