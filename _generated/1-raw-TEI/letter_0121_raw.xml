@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0121"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0121</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0121_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0121_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0121_001.tif"/>
+            <milestone unit="textregion" xml:id="letter_0121_001_tr_2"/>
+            <lb xml:id="letter_0121_001_tr_2_tl_1"/>Nantucket Island,
+<lb xml:id="letter_0121_001_tr_2_tl_2"/>15. September 1940
+<lb xml:id="letter_0121_001_tr_2_tl_3"/>Lieber Herr Dr. Kleiber,<CONV tag="p">
+<lb xml:id="letter_0121_001_tr_2_tl_4"/>es ist genau einen Monat her, dass ich Ihnen zum letzten Mal ein
+<lb xml:id="letter_0121_001_tr_2_tl_5"/>Feuilleton schickte, – ja, und ich bin noch immer weder in Alaska noch in einer ande¬
+<lb xml:id="letter_0121_001_tr_2_tl_6"/>ren interessanten und weltfernen Gegend, sondern auf dieser kleinen Insel Nan¬
+<lb xml:id="letter_0121_001_tr_2_tl_7"/>tucket, auf der es jetzt herbstlich geworden ist, und sehr still. Die Feriengäste
+<lb xml:id="letter_0121_001_tr_2_tl_8"/>sind abgereist, die Geschäfte schliessen, bald muss man sogar die Milch und die
+<lb xml:id="letter_0121_001_tr_2_tl_9"/>Butter selber von der Farm holen, weil es sich für die Bauern nicht mehr lohnt, mit
+<lb xml:id="letter_0121_001_tr_2_tl_10"/>dem Lieferwagen in das Städtchen zu fahren. Da wohnen im Winter nur etwa siebzig
+<lb xml:id="letter_0121_001_tr_2_tl_11"/>Leute, –meistens sind es Fischer. Sogar die Pferde vom Jagdstall hat man auf das
+<lb xml:id="letter_0121_001_tr_2_tl_12"/>Festland transportiert. Draussen regnet es, und liegt viel Nebel, und ich sitze an
+<lb xml:id="letter_0121_001_tr_2_tl_13"/>diesem Sonntagnachmittag an der Maschine, nicht um für Sie einen Artikel zu schrei¬
+<lb xml:id="letter_0121_001_tr_2_tl_14"/>ben, sondern einen ganz persönlichen Brief. Sicher wundern Sie sich darüber, –ich
+<lb xml:id="letter_0121_001_tr_2_tl_15"/>glaube, Sie haben noch nie einen Brief von mir bekommen, ausser kleinen, einem Aufsatz
+<lb xml:id="letter_0121_001_tr_2_tl_16"/>beigelegten Grüssen. Ich war nie ein guter Briefschreiber, – wahrscheinlich, weil ich,
+<lb xml:id="letter_0121_001_tr_2_tl_17"/>was ich zu sagen hatte, immer in einem Artikel oder Bericht unterbringen konnte.
+<lb xml:id="letter_0121_001_tr_2_tl_18"/>Darum besitze ich auch keine Reisetagebücher, – Geheimnisse hatte ich nicht, ich
+<lb xml:id="letter_0121_001_tr_2_tl_19"/>glaubte immer, was an Erlebnissen, Eindrücken und Meinungen wichtig genug sei, um auf¬
+<lb xml:id="letter_0121_001_tr_2_tl_20"/>geschrieben zu werden, müsse sich auch in einer Form niederschlagen, die es der Um¬
+<lb xml:id="letter_0121_001_tr_2_tl_21"/>welt, den Lesern, zugänglich mache.</CONV><CONV tag="p">
+<lb xml:id="letter_0121_001_tr_2_tl_22"/>Und jetzt habe ich seit Wochen keinen einzigen Aufsatz geschrieben, –und habe Wochen
+<lb xml:id="letter_0121_001_tr_2_tl_23"/>gebraucht, um mich zu entschliessen, dann eben an Sie einen Brief zu schreiben. Sie
+<lb xml:id="letter_0121_001_tr_2_tl_24"/>glauben mir, nicht wahr, dass dies besondere Gründe haben muss, und ich darf Sie um
+<lb xml:id="letter_0121_001_tr_2_tl_25"/>die Geduld bitten, mir zuzuhören?–</CONV><CONV tag="p">
+<lb xml:id="letter_0121_001_tr_2_tl_26"/>Zuerst muss ich mich dafür entschuldigen, dass ich entgegen unserer Abmachung und
+<lb xml:id="letter_0121_001_tr_2_tl_27"/>meinen eigenen Vorschlag, gar nicht nach Britisch Columbien und Alaska gefahren bin
+<lb xml:id="letter_0121_001_tr_2_tl_28"/>und Ihnen also auch die versprochenen Artikel nicht schickte. Sie haben mir zum
+<lb xml:id="letter_0121_001_tr_2_tl_29"/>ersten Mal einen Vorschuss bezahlt, und ich halte zum ersten Mal meine Verpflich¬
+<lb xml:id="letter_0121_001_tr_2_tl_30"/>tungen nicht ein, das bedrückt mich sehr. Aber es ist nicht ganz meine Schuld, son¬
+<lb xml:id="letter_0121_001_tr_2_tl_31"/>dern liegt an den aussergewöhnlichen heutigen Umständen. Auf britisches Gebiet, –
+<lb xml:id="letter_0121_001_tr_2_tl_32"/>nach Kanada, Yukon, Columbien, könnte ich mit meinem Pass nicht, oder nur mit schwer
+<lb xml:id="letter_0121_001_tr_2_tl_33"/>zu erhaltener spezieller Genehmigung, ausserdem würde man keinesfalls die Rückreise
+<lb xml:id="letter_0121_001_tr_2_tl_34"/>in die Vereinigten Staaten zugesichert bekommen. Nach Alaska hätte ich schliesslich
+<lb xml:id="letter_0121_001_tr_2_tl_35"/>fliegen können, –wenn ich es absolut gewollt hätte, –aber ohne das Yukon territory
+<lb xml:id="letter_0121_001_tr_2_tl_36"/>und ohne die jetzt als Festungsgebiet erklärten Teile wäre es gar nicht so sehr
+<lb xml:id="letter_0121_001_tr_2_tl_37"/>interessant gewesen. Vor allem war mir aber in diesen Monaten so wenig darnach
+<lb xml:id="letter_0121_001_tr_2_tl_38"/>zumute, mich auf so abwegige und abenteuerliche Reisen zu konzentrieren. Ich weiss
+<lb xml:id="letter_0121_001_tr_2_tl_39"/>schon, dass ich im April selber die Ansicht vertreten habe, es handle sich um
+<lb xml:id="letter_0121_001_tr_2_tl_40"/>Zukunftsgebiete, und auf jeden Fall sei es richtig, über Teile der Welt zu schrei¬
+<lb xml:id="letter_0121_001_tr_2_tl_41"/>ben, die mit dem Krieg und dem täglichen Geschehen nichts zu tun hätten.
+<lb xml:id="letter_0121_001_tr_2_tl_42"/>–Ja, das glaubte ich damals selbst. Ich glabute noch, dieser Krieg sei zwar die not¬
+<lb xml:id="letter_0121_001_tr_2_tl_43"/>wendige und unvermeidliche Folge eines in Deutschland bis zu seinem Höhepunkt
+<lb xml:id="letter_0121_001_tr_2_tl_44"/>gediehenen, aber über Deutschland hinaus europäischen spectaculums, das ja zum Beis¬
+<lb xml:id="letter_0121_001_tr_2_tl_45"/>piel im "Untergang des Abendlandes" vorausgesehen und als gewaltige Krise gedeutet
+<lb xml:id="letter_0121_001_tr_2_tl_46"/>worden ist, –und ich glaubte auch, dass wir, so wenig wie alle anderen abendländi¬
+<lb xml:id="letter_0121_001_tr_2_tl_47"/>schen Nationen, in diesem Spektakel nur Zuschauer bleiben könnten, – – denn hier war ja
+<lb xml:id="letter_0121_001_tr_2_tl_48"/>die Auseinandersetzung, das Kind endlich beim Namen genannt. – Ella M. und ich brauch¬
+<lb xml:id="letter_0121_001_tr_2_tl_49"/>ten nicht mehr zu den Nomaden zu fahren, um dort in der asiatischen Fremde, in ei¬
+<lb xml:id="letter_0121_001_tr_2_tl_50"/>nem kargen, aber unproblematischen, ja beinahe "schuldlosen", beinahe paradiesischen
+<lb xml:id="letter_0121_001_tr_2_tl_51"/>Leben, in Europa verlorene Tugenden wieder zu finden, und zu begreifen, wo <PAGE tag="strikethrough">der</PAGE>
+<lb xml:id="letter_0121_001_tr_2_tl_52"/>bei uns der Krankheitskeim stecke, – woran wir Europäer eigentlich Mangel litten.
+<lb xml:id="letter_0121_001_tr_2_tl_53"/>Nein, jetzt war, mitten unter uns, eine Macht aufgestanden, die es sich anmasst, diesen<!--FML: this needs attention (was tagged as "fml" in Transkribus)--></CONV><pb xml:id="letter_0121_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0121_002.tif"/>
+            <milestone unit="textregion" xml:id="letter_0121_002_tr_2"/>
+            <lb xml:id="letter_0121_002_tr_2_tl_2"/>\fml<CONV tag="p">Mangel zu decken, und ein Heilkraut gegen den Krankheitskeim zu besitzen. Die Noma¬
+<lb xml:id="letter_0121_002_tr_2_tl_3"/>den, –sehen Sie, die haben uns ja nichts zu sagen, ihre primitiven Tugenden können
+<lb xml:id="letter_0121_002_tr_2_tl_4"/>wir nicht erlernen, so wenig wie man den Sündenfall rückgängig machen kann, –und
+<lb xml:id="letter_0121_002_tr_2_tl_5"/>so wenig, wie indische oder chinesische Weisheitslehrer uns erlösen. Nein. Wir ha¬
+<lb xml:id="letter_0121_002_tr_2_tl_6"/>ben den Feind nötig, den aus der eigenen Mitte, –den, der aus dem eigenen Krank¬
+<lb xml:id="letter_0121_002_tr_2_tl_7"/>heitsherd genährt wurde. Wissen Sie, ich glaube ja, dass die echte Krankheit immer
+<lb xml:id="letter_0121_002_tr_2_tl_8"/>der Bruder einer echten Tugend ist, –so wie der echte Feind auch nur ein abgefalle¬
+<lb xml:id="letter_0121_002_tr_2_tl_9"/>ner Bruder ist, und Satan ein gefallener Engel. Ferner glaube ich, dass der abend¬
+<lb xml:id="letter_0121_002_tr_2_tl_10"/>ländische Mensch wirklich ein moralisches Wesen ist, –das heisst: dass er ein Gewis¬
+<lb xml:id="letter_0121_002_tr_2_tl_11"/>sen hat, ein paar Voraussetzungen, wie die christlichen Gebote, – und dass er nicht
+<lb xml:id="letter_0121_002_tr_2_tl_12"/>ungestraft das Wissen um Gut und Böse, und die Idee von Gerechtigkeit, ersetzen
+<lb xml:id="letter_0121_002_tr_2_tl_13"/>kann durch eine zweckbestimmte, also irdische, und relativ gültige Moral. Gut also, –
+<lb xml:id="letter_0121_002_tr_2_tl_14"/>nun war der Teufel losgelassen, und es würde sich erweisen, –die Gegenkräfte der
+<lb xml:id="letter_0121_002_tr_2_tl_15"/>Krankheit würden in diesem grausamen Prozess erwachen, sich erneuern. Das glaube
+<lb xml:id="letter_0121_002_tr_2_tl_16"/>ich auch heute noch. Nur meinte ich bisher, zum Beispiel ein Land wie die Schweiz
+<lb xml:id="letter_0121_002_tr_2_tl_17"/>werde nur gewissermassen am Rande betroffen sein, so etwa, wie Einer sich mitschul¬
+<lb xml:id="letter_0121_002_tr_2_tl_18"/>dig macht, –denn da sei doch soviel mehr glückliche Integrität, so viel weniger
+<lb xml:id="letter_0121_002_tr_2_tl_19"/>Zerfall, –und jene Voraussetzungen, jener natürliche moralische Bestand, der sei bei
+<lb xml:id="letter_0121_002_tr_2_tl_20"/>uns soviel weniger angetastet. Ich meinte auch, überhaupt würden in Europa die
+<lb xml:id="letter_0121_002_tr_2_tl_21"/>Gegenkräfte mächtig sich regen, –zum Beispiel in einer französischen Nation, –und
+<lb xml:id="letter_0121_002_tr_2_tl_22"/>wir würden also nie isoliert und ohne Rückendeckung sein. Kurz, –ich meinte dieser
+<lb xml:id="letter_0121_002_tr_2_tl_23"/>Krieg sei der Höhepunkt, die Prüfung, aber auch schon die Krise und das Ende, die
+<lb xml:id="letter_0121_002_tr_2_tl_24"/>Heilung würde dann beginnen, und uns ständen dann grosse Zukunftsaufgaben bevor.</CONV><CONV tag="p">
+<lb xml:id="letter_0121_002_tr_2_tl_25"/>Es ist nicht angenehm, dies aufzuschreiben, –man kommt
+<lb xml:id="letter_0121_002_tr_2_tl_26"/>sich heute, wenige Monate später, wie ein Narr/<PAGE tag="strikethrough">a</PAGE> vor. Aber sehen Sie, ich beging ja
+<lb xml:id="letter_0121_002_tr_2_tl_27"/>nicht allein diesen Irrtum, –wir Schweizer hatten immer ein Gefühl besonderer Sicher¬
+<lb xml:id="letter_0121_002_tr_2_tl_28"/>heit, und meinten, von gewissen Gesetzen ausgenommen zu sein, vor gewissen Gefahren
+<lb xml:id="letter_0121_002_tr_2_tl_29"/>geschützt. Hätte ich gewusst, wie unerbittlich es diesmal zugehen würde in Europa,
+<lb xml:id="letter_0121_002_tr_2_tl_30"/>wie schonungslos, –dann wäre ich wahrscheinlich nicht weggefahren.</CONV> [space]<CONV tag="p">
+<lb xml:id="letter_0121_002_tr_2_tl_31"/>Verstehen Sie mich recht: nicht dass ich mir den Vorwurf mache, in der Stunde der
+<lb xml:id="letter_0121_002_tr_2_tl_32"/>Gefahr sei ich weggelaufen und hätte mich in Sicherheit gebracht. Der Gefahr in die¬
+<lb xml:id="letter_0121_002_tr_2_tl_33"/>sem Sinne ist die Schweiz entgangen, vom Krieg blieb sie verschont. Trotzdem hat sich
+<lb xml:id="letter_0121_002_tr_2_tl_34"/>dort Vieles verändert, –und dass ich während der Monate seit der französischen Nie¬
+<lb xml:id="letter_0121_002_tr_2_tl_35"/>derlage nicht dabei war, das lässt sich vielleicht schon nicht mehr gut machen.
+<lb xml:id="letter_0121_002_tr_2_tl_36"/>Kämpfen müssen, –so wie die Finnen gekämpft haben, gegen einen Feind, den man beim
+<lb xml:id="letter_0121_002_tr_2_tl_37"/>Namen nennt, –kämpfen, wenn es keine Wahl mehr gibt und man genau weiss, was man ver¬
+<lb xml:id="letter_0121_002_tr_2_tl_38"/>teidigt, –das ist ja gut, selbst wenn es das Leben kostet, –man verkauft doch seine
+<lb xml:id="letter_0121_002_tr_2_tl_39"/>Seele nicht. Die Schweizer bei Marignano haben ihre Grossmachtstellung eingebüsst,
+<lb xml:id="letter_0121_002_tr_2_tl_40"/>–wenige Jahre später tat Macchiavelli den Ausspruch "Svizzeri, liberissimi, bravi¬
+<lb xml:id="letter_0121_002_tr_2_tl_41"/>ssimi", –und davon, vom geradezu selbstverständlichen Glauben an solche Tugenden,
+<lb xml:id="letter_0121_002_tr_2_tl_42"/>haben wir gelebt, noch bei der Mobilmachung 1939. In solchen Traditionen bin ich
+<lb xml:id="letter_0121_002_tr_2_tl_43"/>aufgewachsen, –vor mir, und mit mir Generationen von Schweizern. Als ich noch fast
+<lb xml:id="letter_0121_002_tr_2_tl_44"/>ein Kind war, schrieb ich in die "Studenten Zeitschrift" der Züricher Universität
+<lb xml:id="letter_0121_002_tr_2_tl_45"/>einen Artikel, "Lob der Freiheit", – worin ich behauptete, die Folgen von technischen
+<lb xml:id="letter_0121_002_tr_2_tl_46"/>Errungenschaften hätten es soweit gebracht, dass die natürliche freie Konkurrenz
+<lb xml:id="letter_0121_002_tr_2_tl_47"/>im Wirtschaftsleben in ein Faustrecht des Stärkeren ausgeartet sei, –und die natür¬
+<lb xml:id="letter_0121_002_tr_2_tl_48"/>liche Befreiung des Menschen, Humanismus, Aufklärung, französische Revolution, –und
+<lb xml:id="letter_0121_002_tr_2_tl_49"/>die natürlichen Sätze des Christentums, –die Nächstenliebe, die Toleranz, –dies alles
+<lb xml:id="letter_0121_002_tr_2_tl_50"/>scheine sich jetzt selbst zu widerlegen. Aber der einzelne Freie wisse doch, dass er
+<lb xml:id="letter_0121_002_tr_2_tl_51"/>kein Gott sei, sondern als Mensch unter Menschen lebe, –und gebunden sei an die
+<lb xml:id="letter_0121_002_tr_2_tl_52"/>"CONDITION HUMAINE", –dass er die Mitmenschen lieben müsse, wenn auch nur im Symbol der
+<lb xml:id="letter_0121_002_tr_2_tl_53"/>Liebe zu einer Frau, –und Liebe sei immer auch Gebundenheit gewesen, immer Verantwor¬
+<lb xml:id="letter_0121_002_tr_2_tl_54"/>tung. Die wirkliche Einsamkeit, –diese Ueberheblichkeit, man sei ausgenommen vom gemei¬
+<lb xml:id="letter_0121_002_tr_2_tl_55"/>nen irdischen Los, frei, ein Tytan,ein Genius, –oder Weiser, –dieser vom Griechen erfun¬
+<lb xml:id="letter_0121_002_tr_2_tl_56"/>dene Gegensatz zwischen dem an Felsen geketten Tytanen und dem Bürger der athenischen<!--FML: this needs attention (was tagged as "fml" in Transkribus)--></CONV><pb xml:id="letter_0121_003"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0121_003.tif"/>
+            <milestone unit="textregion" xml:id="letter_0121_003_tr_1"/>
+            <lb xml:id="letter_0121_003_tr_1_tl_3"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)--><CONV tag="p">
+<lb xml:id="letter_0121_003_tr_1_tl_3"/><CONV tag="g">Civitas</CONV>,–Republik,Demokratie, –diese gigantische Sorte von Einsamkeit, glauben
+<lb xml:id="letter_0121_003_tr_1_tl_4"/>Sie mir, die mag erlaubt sein, in dem griechischen Sinn: dass ein Mensch sich lossagen
+<lb xml:id="letter_0121_003_tr_1_tl_5"/>kann von irdischen Gesetzen (der eben genannten condition humaine), –dass er ein
+<lb xml:id="letter_0121_003_tr_1_tl_6"/>Götterliebling sein kann, ausgenommen von den irdischen Gesetzen, ausgenommen vom
+<lb xml:id="letter_0121_003_tr_1_tl_7"/>Sündenfall, gefeit gegen den Bruderverrat Kain's, –vielleicht war der junge Mozart
+<lb xml:id="letter_0121_003_tr_1_tl_8"/>unschuldig, er wurde von seinem Gönner, dem Bischof von Salzburg, wie ein Diener behan¬
+<lb xml:id="letter_0121_003_tr_1_tl_9"/>delt, ass in der Küche, und empörte sich nur dagegen, weil er unter solchen Bedingungen
+<lb xml:id="letter_0121_003_tr_1_tl_10"/>seine Musik nicht niederschreiben konnte, –während dann Armut und Hunger, Krankheit,
+<lb xml:id="letter_0121_003_tr_1_tl_11"/>früher Tod, ihn zu keiner Empörung bewegen konnten. Was er nämlich brauchte, war nicht
+<lb xml:id="letter_0121_003_tr_1_tl_12"/>eine sichere Existenz, –die hatte er ja als Hofnarr in Salzburg, –auch nicht irgendein
+<lb xml:id="letter_0121_003_tr_1_tl_13"/>soziales Ideal, Brüderschaft, die Gemeinschaft mit gl ichgesinnten Menschen, –nur Frei¬
+<lb xml:id="letter_0121_003_tr_1_tl_14"/>heit, um Noten zu schreiben. Ach, –lieber Dr. Kleiber, –er hat doch Himmelsmusik nieder¬
+<lb xml:id="letter_0121_003_tr_1_tl_15"/>geschrieben! –Gewiss, heute wird man uns sagen, zuerst komme das Fressen, dann die Mo¬
+<lb xml:id="letter_0121_003_tr_1_tl_16"/>ral, –und da ich kein Mozart bin, und solange ich genug zu essen habe, –wage ich dieser
+<lb xml:id="letter_0121_003_tr_1_tl_17"/>These <CONV tag="g">nichts</CONV> entgegen zu setzen. Mozart starb mit sechsunddreissig Jahren,–falls
+<lb xml:id="letter_0121_003_tr_1_tl_18"/>der Bischof von Salzburg einen guten Leibarzt hatte, und wenn dieser eigensinnige
+<lb xml:id="letter_0121_003_tr_1_tl_19"/>junge Mozart seinen Trotz nicht damit bezahlt hätte, in Wien zu hungern, hätte er,
+<lb xml:id="letter_0121_003_tr_1_tl_20"/>theoretisch gesprochen, eine Sinfonie mehr, eine andere Melodie niedergeschrieben, wäre
+<lb xml:id="letter_0121_003_tr_1_tl_21"/>siebzig Jahre alt geworden. Beethoven wäre nicht ertaubt. Schubert hätte keine unvol¬
+<lb xml:id="letter_0121_003_tr_1_tl_22"/>lændete Sinfonie hinterlassen. Uebrigens hätte man diesen trunksüchtigen Vater Beet¬
+<lb xml:id="letter_0121_003_tr_1_tl_23"/>hovens sterilisiert, Schubert hätte den Staatsauftrag, einen Triumphmarsch oder
+<lb xml:id="letter_0121_003_tr_1_tl_24"/>eine vollendete Sinfonie schreibend ausgeführt. –Ja, ich darf nichts behaupten, –wenn
+<lb xml:id="letter_0121_003_tr_1_tl_25"/>man mir sagt, vielleicht hätte ein glücklicherer Mozart, –ein von milderen irdischen
+<lb xml:id="letter_0121_003_tr_1_tl_26"/>Umständen gesegneter, von einer irdischen, zarten, tiefen Liebe getrösteter Wo[f&gt;l][l&gt;f]gang
+<lb xml:id="letter_0121_003_tr_1_tl_27"/>A[add inline handschriftlich:m]adaeus noch ganz andere Musik geschrieben, –vielleicht eine seiner himmlisch
+<lb xml:id="letter_0121_003_tr_1_tl_28"/>heiteren Melodien, statt mit den über alle menschliche Verstrickung erhabenen, gütig
+<lb xml:id="letter_0121_003_tr_1_tl_29"/>ironischen Lächeln wie mit Tränen benetzt<PAGE tag="strikethrough">en</PAGE>, <PAGE tag="strikethrough">–statt fromm, trauernd,</PAGE> wäre diese Melodie
+<lb xml:id="letter_0121_003_tr_1_tl_30"/>vielleicht jubelnd aufgestiegen, ein Triumphlied des Glücks. Aber ich glaube es eigent¬
+<lb xml:id="letter_0121_003_tr_1_tl_31"/>lich nicht. Ich glaube, die Heroen und die Götterlieblinge[Trennstrich]sind tragische Figuren, und
+<lb xml:id="letter_0121_003_tr_1_tl_32"/>stehen ausserhalb des gemeinen Verbandes der civitas, und bezahlen ihre aussergewöhn¬
+<lb xml:id="letter_0121_003_tr_1_tl_33"/>lichen Gaben teuer. Aber eine einzige Melodie mag es wieder gut machen. Aber die<CONV tag="g">
+<lb xml:id="letter_0121_003_tr_1_tl_34"/>Schuld</CONV> solcher Titanennaturen fängt an, wenn Einer <PAGE tag="strikethrough">sich anmass,</PAGE> die Freihei¬
+<lb xml:id="letter_0121_003_tr_1_tl_35"/>ten und Verpflichtungen der menschlichen Gesellschaft nicht tragen kann, so, wie
+<lb xml:id="letter_0121_003_tr_1_tl_36"/>Künstler es manchmal nicht können, –und dann einsam sind, –aber er ist kein Künstler,
+<lb xml:id="letter_0121_003_tr_1_tl_37"/>kennt keine befreiende Tat, und die Qualen in seiner Brust sind nur Unfrieden, Unfähig¬
+<lb xml:id="letter_0121_003_tr_1_tl_38"/>keit, dämo[i überschrieben]nische Kräfte. Aber mag das noch so sein, –mag sich so Einer noch selbst
+<lb xml:id="letter_0121_003_tr_1_tl_39"/>zerstören, es ist die bekannte Nachbarschaft von Genie und Krankheit, die bekannte
+<lb xml:id="letter_0121_003_tr_1_tl_40"/>Beziehung zwischen der Hemmungslosigkeit einer genialen Tat und des gemeinen Verbre¬
+<lb xml:id="letter_0121_003_tr_1_tl_41"/>chens. Aerzte, und Richter, haben damit längst gerechnet, und in einer zivilisierten
+<lb xml:id="letter_0121_003_tr_1_tl_42"/>Gesellschaft wusste man längst, das Recht zu verurteilen und zu strafen, leite sich nur
+<lb xml:id="letter_0121_003_tr_1_tl_43"/>ab von der Voraussetzung, es gebe eine solche menschliche Gesellschaft, aufgebaut auf
+<lb xml:id="letter_0121_003_tr_1_tl_44"/>dem "moralischen Gesetz in unserer Brust", –bestimmt, in dieser Welt, innerhalb unserer
+<lb xml:id="letter_0121_003_tr_1_tl_45"/>CONDITION HUMAINE, dem Menschen gerecht zu werden. Den Verbrecher straft man also
+<lb xml:id="letter_0121_003_tr_1_tl_46"/>nicht, weil man glaubt, man sei auch vor Gott der hierzu befugte Richter. Man merzt ihn
+<lb xml:id="letter_0121_003_tr_1_tl_47"/>nur aus, weil er "gemeingefährlich" ist.</CONV><CONV tag="p">
+<lb xml:id="letter_0121_003_tr_1_tl_48"/>Sehen Sie, –innerhalb dieser Einschränkung ist ja auch erst der Begriff des Tragischen
+<lb xml:id="letter_0121_003_tr_1_tl_49"/>möglich, der auf der Gebundenheit des Menschen beruht. Ein Richter, der nicht begreift,
+<lb xml:id="letter_0121_003_tr_1_tl_50"/>"alles verstehen sei alles verzeihen", ist ein schlechter Richter, weil er von der
+<lb xml:id="letter_0121_003_tr_1_tl_51"/>Idee der Gerechtigkeit keine Ahnung hat.<PAGE tag="strikethrough"> Aber ein</PAGE>Ein guter Richter begreift diesen
+<lb xml:id="letter_0121_003_tr_1_tl_52"/>Satz wohl, weiss wohl, dass im Grunde kein Mensch über seinen Bruder, selbst den gefalle¬
+<lb xml:id="letter_0121_003_tr_1_tl_53"/>nen Bruder, aburteilen darf, –und fällt sein Urteil trotzdem, und weiss, dass jedes
+<lb xml:id="letter_0121_003_tr_1_tl_54"/>Urteil, um jeder Verantwortung willen, Schuld bedeutet.</CONV><pb xml:id="letter_0121_004"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0121_004.tif"/>
+            <milestone unit="textregion" xml:id="letter_0121_004_tr_2"/><CONV tag="p">
+<lb xml:id="letter_0121_004_tr_2_tl_1"/>Ich merke eben, dass ich über Selbstverständlichkeiten rede. Aber ich weiss schon,
+<lb xml:id="letter_0121_004_tr_2_tl_2"/>warum ich mich gerade mit "Selbstverständlichkeiten" so pedantisch und gründlich
+<lb xml:id="letter_0121_004_tr_2_tl_3"/>auseinandersetze. Ich fing damit an, dass der abendländische Mensch ein moralisches
+<lb xml:id="letter_0121_004_tr_2_tl_4"/>Wesen sei, gebunden an ein paar moralische Voraussetzungen, und an ein absolutes
+<lb xml:id="letter_0121_004_tr_2_tl_5"/>Gewissen, das Wissen um Gut und Böse. Ich weiss schon, dass unsere "Idee" von Gerech¬
+<lb xml:id="letter_0121_004_tr_2_tl_6"/>tigkeit oder von Freiheit sich mit der Wirklichkeit nie gedeckt hat, aber zu unseren
+<lb xml:id="letter_0121_004_tr_2_tl_7"/>Voraussetzungen gehört es, dass unsere Gesetze und Institutionen diese Idee zur
+<lb xml:id="letter_0121_004_tr_2_tl_8"/>Grundlage haben, und ihre Verwirklichung innerhalb der uns gezogenen Grenzen an¬
+<lb xml:id="letter_0121_004_tr_2_tl_9"/>streben. Und zu unserem Glauben gehört es, der dieses Leben erst ertragbar macht, –
+<lb xml:id="letter_0121_004_tr_2_tl_10"/>dass es eine Quelle gibt, ein Wunder der Liebe, welches Menschen untereinander, und
+<lb xml:id="letter_0121_004_tr_2_tl_11"/>mit ihrem Schicksal, ihrer Gebundenheit aussöhnt. Ich möchte einen Schritt weiter
+<lb xml:id="letter_0121_004_tr_2_tl_12"/>gehen, –ist es nicht so, dass die Menschen, wo immer sie bis zum Bewusstsein ihres
+<lb xml:id="letter_0121_004_tr_2_tl_13"/>"göttlichen Wesens" vorgedrungen waren, dies als moralische Befreiung empfanden,
+<lb xml:id="letter_0121_004_tr_2_tl_14"/>und dann immer die Form des Zusammenlebens anstrebten, die schliesslich zur Konzeption
+<lb xml:id="letter_0121_004_tr_2_tl_15"/>der Demokratie führte? –Schien es uns nicht selbstverständlich, dass der Mensch, –
+<lb xml:id="letter_0121_004_tr_2_tl_16"/>oder sagen wir einschränkend, der abendländische Mensch, sich zwar fügen könne, aber
+<lb xml:id="letter_0121_004_tr_2_tl_17"/>nicht blind fügen, und auch nicht dem Unrecht sich fügen, –dass seine Würde und Frei¬
+<lb xml:id="letter_0121_004_tr_2_tl_18"/>heit darin bestehe, abwägen zu können zwischen den Notwendigkeiten der Wirklichkeit
+<lb xml:id="letter_0121_004_tr_2_tl_19"/>und den uns eingeborenen moralischen Begriffen, –und dass Einer für seine Handlungen
+<lb xml:id="letter_0121_004_tr_2_tl_20"/>einstehen wolle, –und endlich, dass Einer, der zu einer Gemeinschaft, einer Kommune,
+<lb xml:id="letter_0121_004_tr_2_tl_21"/>einem Staatsverband gehört, auch für die Handlungen dieser Gemeinschaft einsteht, –
+<lb xml:id="letter_0121_004_tr_2_tl_22"/>nämlich für die Gesetze eines Staats, und für dessen Regierung? –Lauter Selbstver¬
+<lb xml:id="letter_0121_004_tr_2_tl_23"/>ständlichkeiten. Auch dass ein Knecht für die Ansichten und Taten seines Herrn
+<lb xml:id="letter_0121_004_tr_2_tl_24"/>nicht verantwortlich ist, und dass diese paar Sätze schon zu den Voraussetzungen
+<lb xml:id="letter_0121_004_tr_2_tl_25"/>der Demokratie gehören.</CONV><CONV tag="p">
+<lb xml:id="letter_0121_004_tr_2_tl_26"/>Davon allein handelte übrigens mein Aufsatz in der Studentenzeitung,"Lob der
+<lb xml:id="letter_0121_004_tr_2_tl_27"/>Freiheit", –ich bin abgeschweift, und möchte jetzt darauf zurückkommen. Das Thema
+<lb xml:id="letter_0121_004_tr_2_tl_28"/>war damals, vor ungefähr zehn Jahren, aktuell, –wenn auch nur unter uns Studenten.
+<lb xml:id="letter_0121_004_tr_2_tl_29"/>Sie sehen, –wenn ich heute reden will, muss ich es schon deutlich machen, dass ich
+<lb xml:id="letter_0121_004_tr_2_tl_30"/>mich von jenen moralischen Voraussetzungen nicht frei machen kann, die ich als
+<lb xml:id="letter_0121_004_tr_2_tl_31"/>selbstverständlich betrachte, –die aber in ihrer Konsequenz bis zu einem demokra¬
+<lb xml:id="letter_0121_004_tr_2_tl_32"/>tischen Bekenntnis führen, und das ist heute nicht mehr selbstverständlich. Damals
+<lb xml:id="letter_0121_004_tr_2_tl_33"/>dachte noch kein Mensch in unserem Land daran, die Demokratie in Europa könnte
+<lb xml:id="letter_0121_004_tr_2_tl_34"/>untergraben werden,–und doch war man schon emsig dabei, es zu tun. Der Theologe
+<lb xml:id="letter_0121_004_tr_2_tl_35"/>Prof. Emil Brunner hatte in jenen Jahren in der Zürcher Studentenschaft einen
+<lb xml:id="letter_0121_004_tr_2_tl_36"/>sehr grossen Einfluss, –er bekannte sich zu Barth und Heidegger und zur Schule
+<lb xml:id="letter_0121_004_tr_2_tl_37"/>des Neoprotestantismus, die einstmals zu den geistigen Vorbereitern des National¬
+<lb xml:id="letter_0121_004_tr_2_tl_38"/>sozialismus zählen werden, obwohl einige <PAGE tag="strikethrough">sei</PAGE> ihrer führenden Köpfe sich wegen der
+<lb xml:id="letter_0121_004_tr_2_tl_39"/>Autarkie des Religiösen <PAGE tag="strikethrough">sich</PAGE> seither in Gegensatz zum Staat Adolf Hitlers gesetzt
+<lb xml:id="letter_0121_004_tr_2_tl_40"/>haben. Brunner ist, wie Sie wissen, inzwischen zur Oxford-Bewegung übergetreten und
+<lb xml:id="letter_0121_004_tr_2_tl_41"/>sehr milde geworden, –er versucht, alle sozialen, wirtschaftlichen und politischen
+<lb xml:id="letter_0121_004_tr_2_tl_42"/>Probleme unserer Zeit zu lösen, –indem er sie zuerst in mildem Lichte zeigt, und
+<lb xml:id="letter_0121_004_tr_2_tl_43"/>ihre Existenz schliesslich leugnet, denn es genüge, die geängstigten Menschen wie
+<lb xml:id="letter_0121_004_tr_2_tl_44"/>Kinder zu behandeln und bei guter Laune zu erhalten. Damals war Brunner ganz anders.
+<lb xml:id="letter_0121_004_tr_2_tl_45"/>Die Studenten aller Fakultäten fanden sich in seinem Kolleg ein, das er meistens
+<lb xml:id="letter_0121_004_tr_2_tl_46"/>morgens um sieben Uhr las, denn zunächst einmal handelte es sich darum, Härte und
+<lb xml:id="letter_0121_004_tr_2_tl_47"/>Disziplin zu beweisen, –Absenzen wurden unerbittlich festgestellt. Ich erinnere mich
+<lb xml:id="letter_0121_004_tr_2_tl_48"/>gut an diese Vorlesungen im unwirklichen, grauen Frühlicht. Zwei Stunden lang, ohne
+<lb xml:id="letter_0121_004_tr_2_tl_49"/>Pause, scharf, klar, logisch, in dialektisch meisterhaften Sätzen denen man nur mit
+<lb xml:id="letter_0121_004_tr_2_tl_50"/>gespanntester Aufmerksamkeit folgen konnte, prasselte es auf die faszinierte Zuhö¬
+<lb xml:id="letter_0121_004_tr_2_tl_51"/>rerschaft nieder wie mit Peitschenhieben. Kurz gesagt, ging es mir um ein Thema:
+<lb xml:id="letter_0121_004_tr_2_tl_52"/>nach zu weisen, dass der Mensch sündig ist, sein Glaube an seine göttliche Natur
+<lb xml:id="letter_0121_004_tr_2_tl_53"/>ein anmassender Irrtum, –und dass er bereuen und büssen müsse im Diesseits, um viel¬
+<lb xml:id="letter_0121_004_tr_2_tl_54"/>leicht Gnade zu finden. Und immer kam dann der schreckliche und vernichtende
+<lb xml:id="letter_0121_004_tr_2_tl_55"/>Höhepunkt, jeder einzelne Hörer wusste es, –und Jeder wartete doch immer wieder
+<lb xml:id="letter_0121_004_tr_2_tl_56"/>darauf, zitternd, und doch begierig, –fast, schien es, mit einem dumpfen Empfinden von
+<lb xml:id="letter_0121_004_tr_2_tl_57"/>Lust:<!--FML: this needs attention (was tagged as "fml" in Transkribus)--></CONV><pb xml:id="letter_0121_005"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0121_005.tif"/>
+            <milestone unit="textregion" xml:id="letter_0121_005_tr_1"/><CONV tag="p">
+<lb xml:id="letter_0121_005_tr_1_tl_3"/>Dieser Höhepunkt war die zentrale These des Neoprotestantismus, der Satz von der
+<lb xml:id="letter_0121_005_tr_1_tl_4"/>"Gnadenwahl": die Logik des Menschen stimmt, das Gesetz von Schuld und Sühne stimmt,
+<lb xml:id="letter_0121_005_tr_1_tl_5"/>wie das von Ursache und Wirkung, –die Erkenntnis von Gut und Böse stimmt und führt
+<lb xml:id="letter_0121_005_tr_1_tl_6"/>auch notwendig zum Glauben an die Gewissensfreiheit, –aber zuletzt, ganz zuletzt,
+<lb xml:id="letter_0121_005_tr_1_tl_7"/>ist der Mensch ja eben sündig, und deshalb verloren, –die "Gnade" aber ist göttlich,
+<lb xml:id="letter_0121_005_tr_1_tl_8"/>steht ausserhalb der Gesetze, die wir begreifen können, –wir müssen alles opfern um
+<lb xml:id="letter_0121_005_tr_1_tl_9"/>unseres Gewissens willen, und können zugleich nichts tun um unsere Seele zu retten,
+<lb xml:id="letter_0121_005_tr_1_tl_10"/>denn die Gnadenwahl steht bei Gott, und uns bleibt keine andere Hoffnung als das
+<lb xml:id="letter_0121_005_tr_1_tl_11"/>"credo quia absurdum".</CONV><CONV tag="p">
+<lb xml:id="letter_0121_005_tr_1_tl_12"/>Da ich wohl weiss, die Gnade sei jenseits aller Dialektik, und es damals auch wusste,
+<lb xml:id="letter_0121_005_tr_1_tl_13"/>hatten meine wachsenden Zweifel gegen Herrn Brunner andere Gründe. Ich hörte ihm zu,
+<lb xml:id="letter_0121_005_tr_1_tl_14"/>aber statt wie die Anderen in einen Taumel von Demut, Bewunderung, Zerknirschung zu
+<lb xml:id="letter_0121_005_tr_1_tl_15"/>geraten, fühlte ich eine grimmige Ohnmacht, – und die Wirkung, die dieser Mann ausübte,
+<lb xml:id="letter_0121_005_tr_1_tl_16"/>ekelte mich. Ich dachte immer, wenn diese Studenten endlich nach zwei Stunden ins
+<lb xml:id="letter_0121_005_tr_1_tl_17"/>Freie gingen, in diese milde Sommerluft, und Himmel und See und den Zürichberg sehen
+<lb xml:id="letter_0121_005_tr_1_tl_18"/>und wieder untereinander schwyzerdütsch reden würden, –dann müsse ihre unwürdige
+<lb xml:id="letter_0121_005_tr_1_tl_19"/>Ekstase vergehen wie ein böser Traum. Aber sie versuchten es gar nicht, die donnernde
+<lb xml:id="letter_0121_005_tr_1_tl_20"/>Sündenpredigt ihres Meisters in eine Beziehung zu setzen zu diesem schönen Tag und
+<lb xml:id="letter_0121_005_tr_1_tl_21"/>zu ihrem normalen, täglichen Leben. Ich begriff dann, wo Brunner angreifbar war: er
+<lb xml:id="letter_0121_005_tr_1_tl_22"/>verwendete ja die dialektische Logik, um uns bis zu jenem "absurdum" zu führen, und
+<lb xml:id="letter_0121_005_tr_1_tl_23"/>uns dann zu zerschmettern mit dem immer noch logisch geführten Nachweis, dass alle
+<lb xml:id="letter_0121_005_tr_1_tl_24"/>unsere Gesetze der Vernunft inklusive der Logik begrenzt seien[,&gt;nÜberschreibung]– und also unsere
+<lb xml:id="letter_0121_005_tr_1_tl_25"/>Freiheit ein Irrtum. Das ist ja ein Taschenspielertrick. Und die Lehre des Protes¬
+<lb xml:id="letter_0121_005_tr_1_tl_26"/>tantismus, welche die Gewissensfreiheit voraussetzt und dadurch allerdings die
+<lb xml:id="letter_0121_005_tr_1_tl_27"/>Kirche als Vermittler zwischen Mensch und Gott überflüssig macht, –und die demokra¬
+<lb xml:id="letter_0121_005_tr_1_tl_28"/>tische Lehre, die die Freiheit und Verantwortlichkeit des Menschen voraussetzt, –
+<lb xml:id="letter_0121_005_tr_1_tl_29"/>diese beiden, aus gleichen Quellen sich nährenden Lehrenhaben es sich, nicht ange¬
+<lb xml:id="letter_0121_005_tr_1_tl_30"/>masst, mit unseren begrenzten Mitteln der Vernunft die Geheimnisse von Tod und
+<lb xml:id="letter_0121_005_tr_1_tl_31"/>ewigem Leben zu deuten. Sie setzten nur voraus, dass unsere Vernunft und unsere
+<lb xml:id="letter_0121_005_tr_1_tl_32"/>Kräfte des Glaubens sich nicht widersprechen, so wenig wie etwa die von uns einge¬
+<lb xml:id="letter_0121_005_tr_1_tl_33"/>standene Begrenztheit der von Menschen in dieser Welt ausgeübten Gerechtigkeit
+<lb xml:id="letter_0121_005_tr_1_tl_34"/>und unsere Idee von der absoluten Gerechtigkeit sich "widersprechen". Ferner
+<lb xml:id="letter_0121_005_tr_1_tl_35"/>begriff ich, dass dieser Mann die Menschen erniedrigte, indem er sie zu hilflosen
+<lb xml:id="letter_0121_005_tr_1_tl_36"/>Sündern machte, –und diese erniedrigten Kreaturen, denen er die Wertmasstäbe aus der
+<lb xml:id="letter_0121_005_tr_1_tl_37"/>Hand genommen hatte, konnten dann natürlich auch an alles andere nicht mehr glauben,
+<lb xml:id="letter_0121_005_tr_1_tl_38"/>womit sie sonst ihr Leben nach bestem Wissen und Gewissen geführt hatten. Jetzt
+<lb xml:id="letter_0121_005_tr_1_tl_39"/>brauchten sie einen Priester, Magier, Führer, –sie waren entrechtet und blind, und woll[sic]
+<lb xml:id="letter_0121_005_tr_1_tl_40"/>ten einen Glaubenssatz, auch wenn er absurd war, und Befehle, denen sie blind folgen
+<lb xml:id="letter_0121_005_tr_1_tl_41"/>konnten.</CONV><CONV tag="p">
+<lb xml:id="letter_0121_005_tr_1_tl_42"/>In der gleichen Zeit tauchten an der U<PAGE tag="strikethrough">n</PAGE>[i]iversität zum ersten Mal Leute auf, die sich
+<lb xml:id="letter_0121_005_tr_1_tl_43"/>in einer "Eisernen Front" zusammenschlossen. Sie wissen was aus diesen Ansätzen
+<lb xml:id="letter_0121_005_tr_1_tl_44"/>geworden ist, in der anderen "Front". Ihre Schlagworte waren politisch, und bezogen
+<lb xml:id="letter_0121_005_tr_1_tl_45"/>sich hauptsächlich auf die Schwächen demokratischer Einrichtungen. Sie verliessen
+<lb xml:id="letter_0121_005_tr_1_tl_46"/>sich darauf, dass sie als Bürger eines demokratischen Staates alle Rechte freier
+<lb xml:id="letter_0121_005_tr_1_tl_47"/>Bürger genossen, um die Pflichten freier Bürger ungestraft zu verletzen, und miss¬
+<lb xml:id="letter_0121_005_tr_1_tl_48"/>brauchten die Meinungsfreiheit, um d<PAGE tag="strikethrough">e</PAGE>[i]e einzige<PAGE tag="strikethrough">n</PAGE> Staatsform zu bekämpfen, in welcher
+<lb xml:id="letter_0121_005_tr_1_tl_49"/>es solche Freiheiten geben kann.</CONV><CONV tag="p">
+<lb xml:id="letter_0121_005_tr_1_tl_50"/>Ich schrieb in meinem Aufsatz, dass man das Kind nicht mit dem Bade ausschütten
+<lb xml:id="letter_0121_005_tr_1_tl_51"/>solle, und die Freiheit, welche die Menschen immer wieder anstreben werden, nicht
+<lb xml:id="letter_0121_005_tr_1_tl_52"/>deshalb entwerten, weil einige freiheitliche Institutionen sich als unvollkommen
+<lb xml:id="letter_0121_005_tr_1_tl_53"/>erweisen.</CONV> [space]<CONV tag="p">
+<lb xml:id="letter_0121_005_tr_1_tl_54"/>So einfach war es damals noch. –Aber sehen Sie jenen Professor, –und sehen Sie jene
+<lb xml:id="letter_0121_005_tr_1_tl_55"/>Menschen, die im griechischen Sinne "dämonische Naturen" sind, –unfähig, sich den
+<lb xml:id="letter_0121_005_tr_1_tl_56"/>notwendigen und selbstverständlichen Gesetzen einer freien Gemeinschaft zu fügen.</CONV><pb xml:id="letter_0121_006"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0121_006.tif"/>
+            <milestone unit="textregion" xml:id="letter_0121_006_tr_2"/><CONV tag="p">
+<lb xml:id="letter_0121_006_tr_2_tl_2"/>und erinnern Sie sich vielleicht noch an jenen kleinen Aufsatz von Th. Mann
+<lb xml:id="letter_0121_006_tr_2_tl_3"/><PAGE tag="strikethrough">"Brader [?]</PAGE>"[welcher Aufsatz, nicht gut lesbar]. Erinnern Sie sich an jene Formulierung des unserem alle Begriffe
+<lb xml:id="letter_0121_006_tr_2_tl_4"/>entwertenden Zeitalter vorbehaltenen "negativen Genie"...
+<lb xml:id="letter_0121_006_tr_2_tl_5"/>Ja, an jenen Aufsatz "Mein Bruder H... " muss ich oft denken. Sein Autor wurde damals
+<lb xml:id="letter_0121_006_tr_2_tl_6"/>viel angegriffen, auch von Freunden, –man fand den Titel zynisch, und die Nebeneinan¬
+<lb xml:id="letter_0121_006_tr_2_tl_7"/>derstellung des schöpferischen Künstlers, des Hochstaplers, des asozialen genialen
+<lb xml:id="letter_0121_006_tr_2_tl_8"/>Kriminellen, und endlich jenes anderen, sowohl selbstzerstörerischen wie asozialen
+<lb xml:id="letter_0121_006_tr_2_tl_9"/>Phänomens das wir als den grossen Zerstörer in Perioden politischen Zerfalls und
+<lb xml:id="letter_0121_006_tr_2_tl_10"/>historischen Niedergangs kennen, –man fand es spielerisch, virtuos, intellektuell..
+<lb xml:id="letter_0121_006_tr_2_tl_11"/>wie ja überhaupt die ironische Heiterkeit und irgendwie noch gefasste, <PAGE tag="strikethrough">lächelnde</PAGE>
+<lb xml:id="letter_0121_006_tr_2_tl_12"/>Haltung tiefer Resignation dieses <PAGE tag="strikethrough">zutiefst</PAGE> ernsten und moralischen Autors oft
+<lb xml:id="letter_0121_006_tr_2_tl_13"/>nicht verstanden, oder missverstanden wurde. In jenem Aufsatz hat er noch einmal
+<lb xml:id="letter_0121_006_tr_2_tl_14"/>das Thema seiner Jugend angeschlagen, –den tiefen Zweifel an der Rolle u. Berechti¬
+<lb xml:id="letter_0121_006_tr_2_tl_15"/>gung des Künstlers, –als eines asozialen Elements, das im Handumdrehen, durch das Feh¬
+<lb xml:id="letter_0121_006_tr_2_tl_16"/>len einer geheimnisvollen Integrität, antisozial werden kann. Da gab es doch schon
+<lb xml:id="letter_0121_006_tr_2_tl_17"/>alle Variationen von dem jungen Tonio Kröger, der "neben dem Leben stand", dem Erben
+<lb xml:id="letter_0121_006_tr_2_tl_18"/>der Buddenbrooks, dessen höhere Verletzlichkeit nur die bürgerliche Sicherheit durch¬
+<lb xml:id="letter_0121_006_tr_2_tl_19"/>bricht, aber aus dieser Schwäche nichts zu gewinnen weiss als den melancholischen
+<lb xml:id="letter_0121_006_tr_2_tl_20"/>Tod, –bis zum Hochstapler Krull. Ja, wenn wir den Begriff des Genialen nun verwenden
+<lb xml:id="letter_0121_006_tr_2_tl_21"/>wollen ohne damit einemoralische Qualität zu verbinden,–nur im Sinne des "ausseror¬
+<lb xml:id="letter_0121_006_tr_2_tl_22"/>dentlichen", –und also auch das Kriminelle eventuell als genial bezeichnen, –dann
+<lb xml:id="letter_0121_006_tr_2_tl_23"/>ist in jenem Aufsatz nur Eines neu, und bestürzend: dass einem Genie, dessen Qualitä¬
+<lb xml:id="letter_0121_006_tr_2_tl_24"/>ten in jeder Hinsicht und zweifellos negativer Art sind, –und das<PAGE tag="strikethrough">s</PAGE> sich negativ und
+<lb xml:id="letter_0121_006_tr_2_tl_25"/>zerstörerisch auswirken muss, weil es in das Gebiet des politisch Sozialen einbricht,
+<lb xml:id="letter_0121_006_tr_2_tl_26"/>dass ihm heute, in unserer Zeit, ungeheure Möglichkeiten offen stehen!–Es gab doch
+<lb xml:id="letter_0121_006_tr_2_tl_27"/>verwandte Phänomene, einen Thomas Münzer und falsche Propheten in Amerika. Neu, –uns
+<lb xml:id="letter_0121_006_tr_2_tl_28"/>vorbehalten, –bleibt nur, dass unsere ganze Welt dem nichts entgegenzusetzen hat, und
+<lb xml:id="letter_0121_006_tr_2_tl_29"/>es hinweggehen kann über alle Werte, Gesetze, moralischen Bindungen, die man eben noch
+<lb xml:id="letter_0121_006_tr_2_tl_30"/>für selbstverständlich hielt.</CONV> [space]<CONV tag="p">
+<lb xml:id="letter_0121_006_tr_2_tl_31"/>Nun sind wir also so weit. Sie finden sicher, ich hätte lange gebraucht, um zu eine<PAGE tag="strikethrough">n</PAGE>[r]
+<lb xml:id="letter_0121_006_tr_2_tl_32"/>so schlichten Feststellung zu kommen. Aber wissen Sie, ich traue mir manchmal selber
+<lb xml:id="letter_0121_006_tr_2_tl_33"/>nicht mehr. Wenn es sich immer mehr erweist, nicht nur, dass eine rohe Gewalt, welche
+<lb xml:id="letter_0121_006_tr_2_tl_34"/>die Ziele und die Kampfmethoden gesetzt hat, nun auch der überlegene Sieger ist in
+<lb xml:id="letter_0121_006_tr_2_tl_35"/>diesem Kampf, –sondern dass die Anderen, die weder diese Ziele noch diese Kampfmethoden
+<lb xml:id="letter_0121_006_tr_2_tl_36"/>wollten, nun, als Besiegte, plötzlich vergessen, aus welchen doch offensichtlichen
+<lb xml:id="letter_0121_006_tr_2_tl_37"/>Gründen sie unterlegen sind, –und plötzlich genau diese Ziele anerkennen, genau diese
+<lb xml:id="letter_0121_006_tr_2_tl_38"/>Methoden sich zu eigen machen. Ja, dann war ja der Kampf überflüssig. Dann gab es ja
+<lb xml:id="letter_0121_006_tr_2_tl_39"/>gar nichts zu verteidigen. Dann ist die Niederlage nicht tragisch, sondern nur grotesk.
+<lb xml:id="letter_0121_006_tr_2_tl_40"/>–Was heisst denn falsche Propheten, –was sind die öffentlichen Verleumder? –Falsch
+<lb xml:id="letter_0121_006_tr_2_tl_41"/>sind die, welche das Volk betrogen haben. Irgendwo schrieb ich Ihnen: man werde mir
+<lb xml:id="letter_0121_006_tr_2_tl_42"/>heute sagen, zuerst komme das Fressen, dann die Moral. Und solange ich genug zu essen
+<lb xml:id="letter_0121_006_tr_2_tl_43"/>hätte, wagte ich es nicht, eine<PAGE tag="strikethrough">n</PAGE>[r] solchen These etwas entgegen zu setzen. Ja, die Men¬
+<lb xml:id="letter_0121_006_tr_2_tl_44"/>schen haben zuerst Anspruch auf Arbeit und Brot und dies bischen Sicherheit...
+<lb xml:id="letter_0121_006_tr_2_tl_45"/>Wie aber, wenn gerade diese selbstverständlichen Forderungen nur erfüllbar sind wenn
+<lb xml:id="letter_0121_006_tr_2_tl_46"/>alle sie anerkennen, wenn alle guten Willens sind, und ein Jeder dem Anderen das
+<lb xml:id="letter_0121_006_tr_2_tl_47"/>Recht zu leben zuerkennt?  –Wenn gerade hier, schon hier, die moralische Voraussetzung
+<lb xml:id="letter_0121_006_tr_2_tl_48"/>beginnt? –Und wer glaubt denn, dass wir jetzt besseren Zeiten entgegen gehen? –Und wer
+<lb xml:id="letter_0121_006_tr_2_tl_49"/>wagt denn <PAGE tag="strikethrough">zu behaupten</PAGE> einem Skandinavier zu sagen, er habe sich auch nur Brot
+<lb xml:id="letter_0121_006_tr_2_tl_50"/>und Sicherheit erkauft? –Und was wollten wir Schweizer denn von der neuen Herrlich¬
+<lb xml:id="letter_0121_006_tr_2_tl_51"/>keit? –Nein, nein, nein, –und selbst wenn wir jetzt schon nur einer Hungersnot in
+<lb xml:id="letter_0121_006_tr_2_tl_52"/>Europa entgegengehen, damit ist noch nichts gesagt über falsche und richtige Pro¬
+<lb xml:id="letter_0121_006_tr_2_tl_53"/>phetie, und erwiesen ist nichts, und zu begreifen höchstens dies: dass Niemand sich
+<lb xml:id="letter_0121_006_tr_2_tl_54"/>ausschliessen und von Schuld freisprechen kann. Sehen Sie, darum bin ich vorsichtig: w[sic]
+<lb xml:id="letter_0121_006_tr_2_tl_55"/>weil man mir vielleicht heute schon antwortet: wieso Schuld? –Genau dies wollten wir
+<lb xml:id="letter_0121_006_tr_2_tl_56"/>ja,–besiegt? –wir sind nicht besiegt, –nur du,–und die, die uns in diesen Krieg ge¬<!--FML: this needs attention (was tagged as "fml" in Transkribus)--></CONV><pb xml:id="letter_0121_007"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0121_007.tif"/>
+            <milestone unit="textregion" xml:id="letter_0121_007_tr_1"/>
+            <lb xml:id="letter_0121_007_tr_1_tl_3"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)--><CONV tag="p">
+<lb xml:id="letter_0121_007_tr_1_tl_3"/>trieben haben,  –warum? –offenbar zu ihrem Vorteil, denn wir, wir wollten den Krieg ja
+<lb xml:id="letter_0121_007_tr_1_tl_4"/>nicht", – – –Sie kennen doch diese Sprache, zum Beispiel stimmen alle neutralen Bericht¬
+<lb xml:id="letter_0121_007_tr_1_tl_5"/>erstatter überein, dass der "Mann von der Strasse" in Paris und ganz Frankreich nicht
+<lb xml:id="letter_0121_007_tr_1_tl_6"/>genau weiss, wen er mehr hasst, –Adolf Hitler, oder die Engländer, oder Reynaud, Laval,
+<lb xml:id="letter_0121_007_tr_1_tl_7"/>Marschall Pétain, oder den General de Gaulle in London.</CONV> [space]<CONV tag="p">
+<lb xml:id="letter_0121_007_tr_1_tl_8"/>Sicher will ich nicht behaupten, auch in unserem Land werde es so weit kommen. Ich
+<lb xml:id="letter_0121_007_tr_1_tl_9"/>weiss nicht, ob Sie einen meiner Aufsätze in Händen hatten, den ich anlässlich des
+<lb xml:id="letter_0121_007_tr_1_tl_10"/>ersten August geschrieben habe. Darin sagte ich nur, –wenn in ganz Europa keine ein¬
+<lb xml:id="letter_0121_007_tr_1_tl_11"/>zige Macht mehr vorhanden sein werde, welche die gleichen Grundsätze und Lebensfor¬
+<lb xml:id="letter_0121_007_tr_1_tl_12"/>men anerkenne wie wir, dann erübrige sich bei uns ein Widerstand der in diesem Falle
+<lb xml:id="letter_0121_007_tr_1_tl_13"/>blanker Selbstmord wäre. Und weiter, –dass wir dann in tragischer Weise mitbesiegt
+<lb xml:id="letter_0121_007_tr_1_tl_14"/>seien, –selbst wenn über die Bereitschaft unserer Armee und die Integrität unserer
+<lb xml:id="letter_0121_007_tr_1_tl_15"/>Nation kein Zweifel bestehe, –denn man fordere uns ja nicht einmal den Beweis, den
+<lb xml:id="letter_0121_007_tr_1_tl_16"/>Krieg habe man uns erspart, und uns doch die Waffen aus der Hand geschlagen. Ferner, –
+<lb xml:id="letter_0121_007_tr_1_tl_17"/>vielleicht würden wir dank glücklicher Umstände Niemanden stören, und dürften weiter
+<lb xml:id="letter_0121_007_tr_1_tl_18"/>existieren: als unabhängiger Staat, als Demokratie,als freies Volk. Aber eine auf
+<lb xml:id="letter_0121_007_tr_1_tl_19"/>Abruf, zufällig, gnädig, <CONV tag="g">gewährte</CONV> Unabhängigkeit sei ja natürlich nur eine Fik¬
+<lb xml:id="letter_0121_007_tr_1_tl_20"/>tion. Eine Demokratie sei nur eine Fiktion, sobald ihre Grundsätze nur geduldet würden,
+<lb xml:id="letter_0121_007_tr_1_tl_21"/>wohl wissend, sie könne keine diesen Grundsätzen widersprechende Forderung ablehnen.
+<lb xml:id="letter_0121_007_tr_1_tl_22"/>Und die Freiheit sei nur eine Fiktion, das Ideal oder Prinzip der Freiheit sei ver¬
+<lb xml:id="letter_0121_007_tr_1_tl_23"/>letzt, sobald einem Volk nur eine Summe von Freiheiten gewährt würden, nicht nach dem
+<lb xml:id="letter_0121_007_tr_1_tl_24"/>Ermessen dieses Volks und seiner Regierung, sondern nach dem Ermessen und im Interesse
+<lb xml:id="letter_0121_007_tr_1_tl_25"/>einer anderen Instanz.</CONV><CONV tag="p">
+<lb xml:id="letter_0121_007_tr_1_tl_26"/>Sind das nicht selbstverständliche Wahrheiten?–Ferner sagte ich, –aber wir wüssten ja
+<lb xml:id="letter_0121_007_tr_1_tl_27"/>darüber Bescheid, –und ein solches tragisches Schicksal sei keine moralische Nieder¬
+<lb xml:id="letter_0121_007_tr_1_tl_28"/>lage. Und wie in jedem von diesem Schicksal heute betroffenen Volk, könnten auch bei
+<lb xml:id="letter_0121_007_tr_1_tl_29"/>uns die tief in unserem Boden verwurzelten, nicht von unserem moralischen Bewusst¬
+<lb xml:id="letter_0121_007_tr_1_tl_30"/>sein zu trennenden Kräfte einen Winter überdauern und sich erneuern und wachsen.</CONV><CONV tag="p">
+<lb xml:id="letter_0121_007_tr_1_tl_31"/>Das war ungefähr mein letzter Aufsatz, vielleicht konnte man ihn nicht mehr drucken.
+<lb xml:id="letter_0121_007_tr_1_tl_32"/>Aber das hätte mich nicht erschreckt, damit hatte ich ja eben gerechnet, es gerade
+<lb xml:id="letter_0121_007_tr_1_tl_33"/>noch ausgesprochen. Und ich hätte Ihnen gern andere Artikel geschickt, vielleicht
+<lb xml:id="letter_0121_007_tr_1_tl_34"/>über Alaska, wenn ich dorthin könnte, oder über Mexiko, wenn ich jetzt überhaupt über
+<lb xml:id="letter_0121_007_tr_1_tl_35"/>die amerikanische Grenze könnte. Oder ich hätte erwogen, zurück zu reisen, und hättet
+<lb xml:id="letter_0121_007_tr_1_tl_36"/>dafür mit allerhand Kompromissen gezahlt, um nicht in die Isolierung zu geraten,son¬
+<lb xml:id="letter_0121_007_tr_1_tl_37"/>dern mit Gleichbetroffenen und Gleichgesinnten jene Kräfte <PAGE tag="strikethrough">zu</PAGE> am Leben zu erhalten.</CONV><CONV tag="p">
+<lb xml:id="letter_0121_007_tr_1_tl_38"/>Statt dessen hatte ich plötzlich das Gefühl,
+<lb xml:id="letter_0121_007_tr_1_tl_39"/>es gäbe nichts mehr zu sagen, nichts mehr zu tun, –und wenn ich Ihnen einen Brief
+<lb xml:id="letter_0121_007_tr_1_tl_40"/>schreibe, dann ist es, wie man sich an einen Freund wendet. Vielleicht können Sie mir
+<lb xml:id="letter_0121_007_tr_1_tl_41"/>antworten, und mir Entschlüsse erleichtern, die von hier aus schwer zu fassen sind.
+<lb xml:id="letter_0121_007_tr_1_tl_42"/>Oder vielleicht, wenn ich einen Entschluss fasse, der bei uns heute nicht mehr statt¬
+<lb xml:id="letter_0121_007_tr_1_tl_43"/>haft ist, und ich könnte dann keine Briefe mehr schicken, dann wissen Sie wenigstens,
+<lb xml:id="letter_0121_007_tr_1_tl_44"/>warum ich es tat, und dass ich nicht einfach desertiert bin.</CONV><CONV tag="p">
+<lb xml:id="letter_0121_007_tr_1_tl_45"/>Ja, warum, –sehen Sie, den ersten Schrecken empfand ich, als ich ein paar Reaktionen
+<lb xml:id="letter_0121_007_tr_1_tl_46"/>von Lesern, Redaktionen, und von Freunden auf den genannten Aufsatz über die Schweiz
+<lb xml:id="letter_0121_007_tr_1_tl_47"/>erfuhr. Da dachte ich zum ersten Mal, vielleicht bleibe Einem keine Wahl als so fol¬
+<lb xml:id="letter_0121_007_tr_1_tl_48"/>genschwere Entscheidungen, –der offene Kampf, und dann, im Falle einer Niederlage, sei
+<lb xml:id="letter_0121_007_tr_1_tl_49"/>man dann wirklich besiegt, nämlich abgeschnitten und ohne Stimme. Wahrscheinlich
+<lb xml:id="letter_0121_007_tr_1_tl_50"/>wissen Sie, welcher Art jene Kommentare waren, –eigentlich waren es wohl Warnungen,
+<lb xml:id="letter_0121_007_tr_1_tl_51"/>sogar gut gemeint, etwa dahin gehend, ich sollte mir den Rückweg nicht abschneiden.
+<lb xml:id="letter_0121_007_tr_1_tl_52"/>Die Kommentare der Gegner kenne ich, –und dass die heute in der Lage sind, mir den
+<lb xml:id="letter_0121_007_tr_1_tl_53"/>Mund zu verbieten, ist nicht überraschend noch kann es mich verletzen. Die sach¬
+<lb xml:id="letter_0121_007_tr_1_tl_54"/>liche Warnung von interessierten Stellen, über Zensurvorschriften zum Beispiel,<!--FML: this needs attention (was tagged as "fml" in Transkribus)--></CONV><pb xml:id="letter_0121_008"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0121_008.tif"/>
+            <milestone unit="textregion" xml:id="letter_0121_008_tr_1"/>
+            <lb xml:id="letter_0121_008_tr_1_tl_3"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)--><CONV tag="p">
+<lb xml:id="letter_0121_008_tr_1_tl_3"/>sind auch nur selbstverständlich. Und die Freunde, – die genau wissen, wie ich denke,
+<lb xml:id="letter_0121_008_tr_1_tl_4"/>und dass ich nie anders denken werde, –die können mich auch warnen, und mir sagen,
+<lb xml:id="letter_0121_008_tr_1_tl_5"/>es handle sich jetzt nicht darum, sich möglichst laut zu bekennen, um möglichst
+<lb xml:id="letter_0121_008_tr_1_tl_6"/>sicher u. schnell auch mundtot zu sein, –sondern um den inneren Zusammenhalt, die Be¬
+<lb xml:id="letter_0121_008_tr_1_tl_7"/>wahrung. Aber da war ja etwas ganz anderes vorgegangen. Wissen Sie, –diese Gutge¬
+<lb xml:id="letter_0121_008_tr_1_tl_8"/>sinnten, Wohlmeinenden, –die mir mitteilen, sie würden ja zu mir stehen u.mich ver¬
+<lb xml:id="letter_0121_008_tr_1_tl_9"/>teidigen, auch wenn es schwer sei, –vielmehr: obwohl es <CONV tag="g">ihnen schwer falle</CONV>
+<lb xml:id="letter_0121_008_tr_1_tl_10"/>... aber nun müsse ich mich auch aufraffen, zum Beispiel nach Alaska fahren, oder mög¬
+<lb xml:id="letter_0121_008_tr_1_tl_11"/>lichst dorthin, wo sich die ganz Harmlosen gute Nacht sagen, zum Beispiel müsste ich
+<lb xml:id="letter_0121_008_tr_1_tl_12"/>endlich das Meine tun u.über Flora und Fauna der Arktis schreiben, statt grübelnd
+<lb xml:id="letter_0121_008_tr_1_tl_13"/>meine Zeit und meinen guten Ruf zu verlieren. Aber es war deutlich, dass ich den Ruf
+<lb xml:id="letter_0121_008_tr_1_tl_14"/>nicht etwa einbüsse, weil ich nicht nach Alaska fuhr (denn wenn es mir auch sehr leid
+<lb xml:id="letter_0121_008_tr_1_tl_15"/>tut, meine Verpflichtungen Ihnen u. anderen Redaktionen gegenüber nicht eingehalten
+<lb xml:id="letter_0121_008_tr_1_tl_16"/>zu haben, –so kann mir doch Keiner erzählen, gerade Alaska sei gerade heute so uner¬
+<lb xml:id="letter_0121_008_tr_1_tl_17"/>setzlich wichtig, und man verstehe nicht dass gerade heute die Umstände mich an
+<lb xml:id="letter_0121_008_tr_1_tl_18"/>dieser Reise verhindert haben), –nein, der Vorwurf war: dass ich mich mit Fragen be¬
+<lb xml:id="letter_0121_008_tr_1_tl_19"/>fasse, die mich nichts angehen und Keinen interessieren, –nämlich etwa die Zukunft
+<lb xml:id="letter_0121_008_tr_1_tl_20"/>der Schweiz, der Demokratie, die Rolle Amerikas, unsere Hoffnungen, –und dergleichen
+<lb xml:id="letter_0121_008_tr_1_tl_21"/>unzeitgemässe Fragen mehr. Ich sollte keine privaten Ansichten äussern, hiess es, –
+<lb xml:id="letter_0121_008_tr_1_tl_22"/>und es war deutlich, dass man meinte: (denn ich habe nicht mehr oder andere Ansich¬
+<lb xml:id="letter_0121_008_tr_1_tl_23"/>ten geäussert als es seit Jahren recht und üblich war), –meine Voraussetzungen seien
+<lb xml:id="letter_0121_008_tr_1_tl_24"/>jetzt nicht mehr gültig, u. nicht erwünscht, –zum Beispiel die Voraussetzung, die Ge¬
+<lb xml:id="letter_0121_008_tr_1_tl_25"/>schehnisse in Frankreich seien tragisch, oder der Krieg sei noch nicht entschieden,
+<lb xml:id="letter_0121_008_tr_1_tl_26"/>oder man wisse, es gehe jetzt um die Zukunft Europas und betreffe uns alle.</CONV><CONV tag="p">
+<lb xml:id="letter_0121_008_tr_1_tl_27"/>Vor allem sagte man mir: meine Aeusserungen über die Schweiz seien defaitistisch, wir
+<lb xml:id="letter_0121_008_tr_1_tl_28"/>seien doch ein demokratisches, freies, unabhängiges Volk, bereit, jeden Feind zu schla-
+<lb xml:id="letter_0121_008_tr_1_tl_29"/>gen, und ich müsse stolz sein darauf und den Amerikanern sagen, bei uns sei alles beim
+<lb xml:id="letter_0121_008_tr_1_tl_30"/>Alten, das sei die Aufgabe eines aufrechten Schweizer. Im Uebrigen müsse ich die neue
+<lb xml:id="letter_0121_008_tr_1_tl_31"/>Zensur bedenken, –es gehe nicht an, dass man als Demokrat sich in Gegensatz bringe
+<lb xml:id="letter_0121_008_tr_1_tl_32"/>zu den Ideen des totalitären Staates, oder Kritik daran übe.</CONV><CONV tag="p">
+<lb xml:id="letter_0121_008_tr_1_tl_33"/>Zum Schluss sagte man mir, ausführlich, –man habe doch immer an mich geglaubt und
+<lb xml:id="letter_0121_008_tr_1_tl_34"/>möchte sich nicht jetzt meiner schämen müssen, –man wolle mir auch die Enttäuschung
+<lb xml:id="letter_0121_008_tr_1_tl_35"/>ersparen, –nämlich dass ich auf Abwege geriete und dann eines Tages über mich selbst
+<lb xml:id="letter_0121_008_tr_1_tl_36"/>enttäuscht sei, an meinem Talent zweifelnd, und zu spät bereuend, dass ich mir und
+<lb xml:id="letter_0121_008_tr_1_tl_37"/>meiner Bestimmung untreu geworden sei. Ich sollte also fleissig Flora und Fauna sam¬
+<lb xml:id="letter_0121_008_tr_1_tl_38"/>meln, –dann würde ich stolz und mit mir zufrieden heimkehren, und die verdiente Aner¬
+<lb xml:id="letter_0121_008_tr_1_tl_39"/>kennung finden. ... Lieber Herr Dr. Kleiber, das war wörtlich so formuliert, und war
+<lb xml:id="letter_0121_008_tr_1_tl_40"/>gut gemeint, –soviel Unrat schon, Verlogenheit, Selbstbetrug, –soviel Schamlosigkeit.
+<lb xml:id="letter_0121_008_tr_1_tl_41"/>_Es war auch ein Schweizer, der mir sagte, ich richtete doch nur Schaden an, –wozu die
+<lb xml:id="letter_0121_008_tr_1_tl_42"/>Volksmassen aufhetzen, die es [sic] doch zufrieden wären, mit Fahnen und Liedern die Freiheit
+<lb xml:id="letter_0121_008_tr_1_tl_43"/>zu loben, ohne so genau hinzusehen, –wozu meine Trauer auf Andere übertragen, und mich
+<lb xml:id="letter_0121_008_tr_1_tl_44"/>in Ungelegenheiten bringen? –Ja, wozu also... Es fiel ihm auch nicht auf, dass der Begriff
+<lb xml:id="letter_0121_008_tr_1_tl_45"/>"Masse", und ihre Herabwürdigung, die könne man leicht täuschen und füttern und bei
+<lb xml:id="letter_0121_008_tr_1_tl_46"/>Laune erhalten, –dass dies nicht sehr schweizerisch ist. Ja, diese Grundlage der Demo¬
+<lb xml:id="letter_0121_008_tr_1_tl_47"/>kratie hatte ich vergessen zu nennen: der Respekt vor dem Menschen, –aber der ist ja
+<lb xml:id="letter_0121_008_tr_1_tl_48"/>gleichbedeutend mit dem Glauben an sein moralisches Wesen. Sehen Sie, ich glaube im¬
+<lb xml:id="letter_0121_008_tr_1_tl_49"/>mer noch daran. Ich glaube, nur darum geht es, –nicht um eine politische Vormacht oder
+<lb xml:id="letter_0121_008_tr_1_tl_50"/>eine wirtschaftliche Ordnung oder eine soziale Revolution.</CONV><CONV tag="p">
+<lb xml:id="letter_0121_008_tr_1_tl_51"/>Und es wird immer noch gekämpft. Aber wenn die Prüfung noch nicht genügt, und es muss
+<lb xml:id="letter_0121_008_tr_1_tl_52"/>die völlige Niederlage kommen, und vielleicht eine lange Nacht, –und vorher wäre es<!--FML: this needs attention (was tagged as "fml" in Transkribus)--></CONV><pb xml:id="letter_0121_009"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0121_009.tif"/>
+            <milestone unit="textregion" xml:id="letter_0121_009_tr_2"/>
+            <lb xml:id="letter_0121_009_tr_2_tl_1"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)--><CONV tag="p">
+<lb xml:id="letter_0121_009_tr_2_tl_1"/>einfach vergebens, diese Menschen bewegen zu wollen, –dann will auch die friedliche
+<lb xml:id="letter_0121_009_tr_2_tl_2"/>Heimkehr lieber nicht erkaufen, –der Preis scheint ja schon jetzt ziemlich hoch zu
+<lb xml:id="letter_0121_009_tr_2_tl_3"/>sein,... Aber ich halte eine solche Resignation für einen Irrtum. Solange noch ir¬
+<lb xml:id="letter_0121_009_tr_2_tl_4"/>gendwo gekämpft wird, – solange kann auch die völlige Entwertung und Entstellung
+<lb xml:id="letter_0121_009_tr_2_tl_5"/>aller Menschheitswerte, wie sie etwa aus jenem betrüblichen Brief tönte, nicht
+<lb xml:id="letter_0121_009_tr_2_tl_6"/>ganz überhand nehmen, –solange können die Menschen nämlich nicht ganz vergessen,
+<lb xml:id="letter_0121_009_tr_2_tl_7"/>dass es andere Kräfte gibt, dass eine Gegnerschaft möglich ist, dass man sich einem
+<lb xml:id="letter_0121_009_tr_2_tl_8"/>Feind stellen kann.</CONV><CONV tag="p">
+<lb xml:id="letter_0121_009_tr_2_tl_9"/>Wenn ich jetzt schon so weit bin, zu glauben, man müsse sich stellen, –dann ist das
+<lb xml:id="letter_0121_009_tr_2_tl_10"/>ein sehr schwerer Entschluss, –denn wer von uns glaubte denn, Menschenschicksale
+<lb xml:id="letter_0121_009_tr_2_tl_11"/>sollten so ausgetragen werden? –Und man ist kaum dazu geeignet, und wird vielleicht
+<lb xml:id="letter_0121_009_tr_2_tl_12"/>nie mehr damit fertig, und hat sich nur eine furchtbare Form des Opfers ausgesucht.
+<lb xml:id="letter_0121_009_tr_2_tl_13"/>Aber es handelt sich da höchstens um die Form, –und wenn heute keine andere Form
+<lb xml:id="letter_0121_009_tr_2_tl_14"/>des Einsatzes mehr möglich ist, wenn jeder andere Weg nur zu wirkungslosen und
+<lb xml:id="letter_0121_009_tr_2_tl_15"/>vergeblichen Kompromissen führt, und schliesslich zu einer Selbstaufgabe, –dann
+<lb xml:id="letter_0121_009_tr_2_tl_16"/>bliebe mir keine andere Wahl. Ich spreche nur von mir, –denn das Verhalten, die
+<lb xml:id="letter_0121_009_tr_2_tl_17"/>Form des Einsatzes, –das ist die Sache jedes Einzelnen. Aber soviel möchte ich
+<lb xml:id="letter_0121_009_tr_2_tl_18"/>Ihnen doch sagen: ich sehe den Anlass nicht, um sich verzweifelt in sein Schwert
+<lb xml:id="letter_0121_009_tr_2_tl_19"/>stürzen zu müssen, –und selbst wenn ich persönlich mit den Waffen, die jetzt wirk¬
+<lb xml:id="letter_0121_009_tr_2_tl_20"/>sam sind, nicht zurecht kommen sollte, –das wäre nur meine private Niederlage,
+<lb xml:id="letter_0121_009_tr_2_tl_21"/>–denn ich glaube auf jeden Fall daran, dass dies kein Ende ist, und der Kampf
+<lb xml:id="letter_0121_009_tr_2_tl_22"/>gerade erst anhebt.</CONV><CONV tag="p">
+<lb xml:id="letter_0121_009_tr_2_tl_23"/>Aber das ist ja kein Brief mehr, –ich schreibe seit Tagen
+<lb xml:id="letter_0121_009_tr_2_tl_24"/>daran, ohne Sie auch nur zu fragen, ob Sie sich einen solchen Monolog anhören
+<lb xml:id="letter_0121_009_tr_2_tl_25"/>wollen! –Aber ich habe so viele Aufsätze für Sie geschrieben, –vielleicht wird
+<lb xml:id="letter_0121_009_tr_2_tl_26"/>das jetzt immer schwieriger werden, oder gar nicht mehr möglich sein. Da müssen
+<lb xml:id="letter_0121_009_tr_2_tl_27"/>Sie verstehen, dass ich gerade an Sie dachte, –als es sich darum handelte, doch zu
+<lb xml:id="letter_0121_009_tr_2_tl_28"/>einem Menschen in der Schweiz noch einmal so zu reden, wie man es früher gewohnt
+<lb xml:id="letter_0121_009_tr_2_tl_29"/>war.</CONV>
+<lb xml:id="letter_0121_009_tr_2_tl_30"/>Und ich bleibe, mit vielen Grüssen und Wünschen,
+<lb xml:id="letter_0121_009_tr_2_tl_31"/>Ihre stets dankbare
+<lb xml:id="letter_0121_009_tr_2_tl_32"/>Annemarie Clark [ab hier handschriftlich ergänzt]
+<lb xml:id="letter_0121_009_l_1"/>Adr. vorläufig: To Schwarzenbach Huber Co.
+<lb xml:id="letter_0121_009_tr_2_tl_35"/>498 Seventh Ave
+<lb xml:id="letter_0121_009_tr_2_tl_36"/>New York City</div>
+      </body>
+   </text>
+</TEI>
