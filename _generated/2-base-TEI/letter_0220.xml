@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0220" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0220#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0220</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0220_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415685"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/><hi rendition="#u">Mittwoch</hi> 
+               <lb xml:id="p001_tr_1_tl_2"/>E. – Dein Brief kam sehr rasch von der 
+               <lb xml:id="p001_tr_1_tl_3"/>Landärztin her, u. ich will über ihre u. 
+               <lb xml:id="p001_tr_1_tl_4"/>Marias Vortrefflichkeit überhaupt kein 
+               <lb xml:id="p001_tr_1_tl_5"/>Wort verlieren nachdem ich ohnehin 
+               <lb xml:id="p001_tr_1_tl_6"/>schon vier kostbare mit "Bocken" geprägte 
+               <lb xml:id="p001_tr_1_tl_7"/>Briefbögen mit unfruchtbaren Brief 
+               <lb xml:id="p001_tr_1_tl_8" break="no"/>anfängen verschwendet habe. Die Tage in 
+               <lb xml:id="p001_tr_1_tl_9"/>Lugano waren eine rechte Pracht u. wir haben 
+               <lb xml:id="p001_tr_1_tl_10"/>sehr viel Benzin verfahren. Jetzt, in Bocken, 
+               <lb xml:id="p001_tr_1_tl_11"/>gefällt es mir auch ausgezeichnet mit 
+               <lb xml:id="p001_tr_1_tl_12"/>richtigem Frühling, Reiten u. Plänemachen. 
+               <lb xml:id="p001_tr_1_tl_13"/>Dass ich Han[n]a mit dem Tauschgeschäft der 
+               <lb xml:id="p001_tr_1_tl_14"/>Balkanreise <hi rendition="#u">nicht</hi> verletze u. erschrecke, wäre 
+               <lb xml:id="p001_tr_1_tl_15"/>mir sehr am Herzen gelegen. Ich meine auch 
+               <lb xml:id="p001_tr_1_tl_16"/>in vollem Ernst dass ich in Canols mehrere 
+               <lb xml:id="p001_tr_1_tl_17"/>Wochen, in Bocken in paar Tage war u. dass 
+               <lb xml:id="p001_tr_1_tl_18"/>man, in solchen Fällen, im[m]er den Eltern mehr 
+               <lb xml:id="p001_tr_1_tl_19"/>Rücksicht schulden sollte. Balkanbücher habe 
+               <lb xml:id="p001_tr_1_tl_20"/>ich in Menge studiert, auch Strassen u. 
+               <lb xml:id="p001_tr_1_tl_21"/>Karten, u. mir scheint dass man von 
+               <lb xml:id="p001_tr_1_tl_22"/>Sofia aus unbedingt nach Bucarest u. 
+               <lb xml:id="p001_tr_1_tl_23"/>an das Schwarze Meer statt gleich nach 
+               <lb xml:id="p001_tr_1_tl_24"/>Konstantinopel fahren sollte. Aber das 
+               <lb xml:id="p001_tr_1_tl_25"/>brauchen wir wohl noch nicht so genau zu 
+               <lb xml:id="p001_tr_1_tl_26"/>wissen.</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415686"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>Heute Abend kommt Lili, wen[n] sie zwischen 
+               <lb xml:id="p002_tr_1_tl_2"/>Berlin u. Zürich nirgens [sic] stecken 
+               <lb xml:id="p002_tr_1_tl_3"/>geblieben ist. Und am nächsten 
+               <lb xml:id="p002_tr_1_tl_4"/>Mittwoch möchte ich, mit Maria D.[aelen], 
+               <lb xml:id="p002_tr_1_tl_5"/>nach Berlin zurück fahren. Wie 
+               <lb xml:id="p002_tr_1_tl_6"/>lang willst Du den[n] in Canols bleiben? 
+               <lb xml:id="p002_tr_1_tl_7"/>Aber darüber telephonieren wir bald u. 
+               <lb xml:id="p002_tr_1_tl_8"/>besprechen alles ausführlich. 
+               <lb xml:id="p002_tr_1_tl_9"/>Ich war über Deinen Brief sehr froh, 
+               <lb xml:id="p002_tr_1_tl_10"/>Lieblings-E., denn ich habe eine schlechte 
+               <lb xml:id="p002_tr_1_tl_11"/>Zeit u. weiss noch immer nicht, wie man 
+               <lb xml:id="p002_tr_1_tl_12"/>sich aus von solchen Anfällen uner 
+               <lb xml:id="p002_tr_1_tl_13" break="no"/>laubter u. überflüssiger Entmutigung 
+               <lb xml:id="p002_tr_1_tl_14"/>befreit. Es ist nicht angenehm, sich für 
+               <lb xml:id="p002_tr_1_tl_15"/>restlos unbefähigt zu halten, u. so 
+               <lb xml:id="p002_tr_1_tl_16"/>weit bin ich gerade jetzt gekommen (des 
+               <lb xml:id="p002_tr_1_tl_17" break="no"/>halb schreibe ich auch 4 Briefe um den 
+               <lb xml:id="p002_tr_1_tl_18"/>Fünften verärgert abzuschicken!) 
+               <lb xml:id="p002_tr_1_tl_19"/>Adieu, Grüsse Hanna, samt Leu, 
+               <lb xml:id="p002_tr_1_tl_20"/>u. sei mit Zärtlichkeit umarmt 
+               <lb xml:id="p002_tr_1_tl_21"/>von Deiner 
+               <lb xml:id="p002_tr_1_tl_22"/>A.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
