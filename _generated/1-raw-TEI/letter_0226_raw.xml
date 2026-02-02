@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0226"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0226</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0226_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0226_001"
+                facs="https://www.monacensia-digital.de/i3f/v20/415707"/>
+            <milestone unit="textregion" xml:id="letter_0226_001_tr_1"/>
+            <lb xml:id="letter_0226_001_tr_1_tl_1"/>E. — Du sollst, wen[n] das denkbar, wünschbar
+<lb xml:id="letter_0226_001_tr_1_tl_2"/>u. möglich ist, zwischen Anfang u. 24.
+<lb xml:id="letter_0226_001_tr_1_tl_3"/>Januar auf der Lenzerheide Skielaufen –
+<lb xml:id="letter_0226_001_tr_1_tl_4"/>ich denke dass ich am 3. oder 4. hinauf¬
+<lb xml:id="letter_0226_001_tr_1_tl_5"/>fahre, am 24. lese ich in St. Gallen –
+<lb xml:id="letter_0226_001_tr_1_tl_6"/>Das teilt Dir in Eile zum reiflichen
+<lb xml:id="letter_0226_001_tr_1_tl_7"/>Überlegen mit
+<lb xml:id="letter_0226_001_tr_1_tl_8"/>Dein Kind A –
+<lb xml:id="letter_0226_001_tr_1_tl_9"/>P. S.
+<lb xml:id="letter_0226_001_tr_1_tl_10"/>Ist der von uns zärtlich beförderte Klaus
+<lb xml:id="letter_0226_001_tr_1_tl_11"/>gut angelangt? Ich triffe nächsten Montag
+<lb xml:id="letter_0226_001_tr_1_tl_12"/>an wen[n] nichts dagegen geschieht.</div>
+      </body>
+   </text>
+</TEI>
