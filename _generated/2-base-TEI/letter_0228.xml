@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0228" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0228#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0228</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0228_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415710"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_2_tl_1"/>Dein Brief kam E. – u. wichtiger ist dass Du 
+               <lb xml:id="p001_tr_2_tl_2"/>samt Klaus bald kom[m]st. <hi rendition="#u">Mein</hi> schöner Brief (er 
+               <lb xml:id="p001_tr_2_tl_3"/>war besonders gelungen) ist also verloren wie meine 
+               <lb xml:id="p001_tr_2_tl_4"/>Hausschlüssel ... 
+               <lb xml:id="p001_tr_2_tl_5"/>Es geht mir schlecht, E., so schlecht als nur 
+               <lb xml:id="p001_tr_2_tl_6"/>denkbar. Ich wollte Dir u. niemandem auch nur ein 
+               <lb xml:id="p001_tr_2_tl_7"/>Wörtlein davon schreiben: Es scheint so zu sein, dass 
+               <lb xml:id="p001_tr_2_tl_8"/>im <hi rendition="#u">Ernstfall</hi> jede Sentimentalität sich beschämt 
+               <lb xml:id="p001_tr_1_tl_1"/>verkriecht, man gibt keinen Laut mehr von sich 
+               <lb xml:id="p001_tr_1_tl_2"/>(u. fährt sich nur um ein Haar morgens zwischen 
+               <lb xml:id="p001_tr_1_tl_3"/>4 u. 7 Uhr auf der Avus zu Tode) 
+               <lb xml:id="p001_tr_1_tl_4"/>Es gibt, Gott seis gedankt, recht süsse Menschen hier 
+               <lb xml:id="p001_tr_1_tl_5"/>die sich meiner im rechten Augenblick an[n]ahmen, 
+               <lb xml:id="p001_tr_1_tl_6"/>manchmal ist <del rend="overstrike">D</del> doch mit Essen u. Schlafenlegen 
+               <lb xml:id="p001_tr_1_tl_7"/>schon viel geholfen. Schluss davon, 
+               <lb xml:id="p001_tr_1_tl_8"/>adieu E.-liebling, Faist sagt dass Du auch in der 
+               <lb xml:id="p001_l"/>Rauhestr. wohnen willst. Wenn Du kom[m]st, E., habe</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415711"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>ich mich sicher gebessert, ich hatte zum ersten 
+               <lb xml:id="p002_tr_1_tl_2"/>Mal in meinem ereigniskurzen Leben einen 
+               <lb xml:id="p002_tr_1_tl_3"/>"Nervenzusammenbruch", das war sehr übel 
+               <lb xml:id="p002_tr_1_tl_4"/>u. soll sich nicht widerholen. Bekomme 
+               <lb xml:id="p002_tr_1_tl_5"/>ich ein Bild, hast Dus endlich für mich 
+               <lb xml:id="p002_tr_1_tl_6"/>bestellt? Zwei Bilder am Besten, eines 
+               <lb xml:id="p002_tr_1_tl_7"/>auch von Klaus Heinrich. 
+               <lb xml:id="p002_tr_1_tl_8"/>Adieu, nochmals, Gruss an Theres, 
+               <lb xml:id="p002_tr_1_tl_9"/>Medi u. die verehrte Familie 
+               <lb xml:id="p002_tr_1_tl_10"/>Du bist sehr erwartet 
+               <lb xml:id="p002_tr_1_tl_11"/>von 
+               <lb xml:id="p002_tr_2_tl_1"/>A.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
