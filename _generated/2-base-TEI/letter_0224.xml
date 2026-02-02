@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0224" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0224#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0224</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0224_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415699"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p> 
+               <lb xml:id="p001_tr_1_tl_1"/>Ihr Armen, Dein Brief kam eben und 
+               <lb xml:id="p001_tr_1_tl_2"/>die schlechte Geschäftsordnung die Euch 
+               <lb xml:id="p001_tr_1_tl_3"/>um das Honorar bringen will beküm[m]ert 
+               <lb xml:id="p001_tr_1_tl_4"/>mich sehr. In frühester Stunde <del rend="overstrike">woll</del> 
+               <lb xml:id="p001_tr_1_tl_5"/>will ich mich morgen erkundigen 
+               <lb xml:id="p001_tr_1_tl_6"/>ob das Geld inzwischen abging, sonst 
+               <lb xml:id="p001_tr_1_tl_7"/>soll es schleunigst geschehen. Klaus aber 
+               <lb xml:id="p001_tr_1_tl_8"/>soll das Geliehene selbst an Faesi zurück 
+               <lb xml:id="p001_tr_1_tl_9" break="no"/>senden, sonst wird die Sache zu kom 
+               <lb xml:id="p001_tr_1_tl_10" break="no"/>pliziert –</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_11"/>Dass Du Schuhe u. Fläschchen an Dame 
+               <lb xml:id="p001_tr_1_tl_12"/>Krüger so prompt gesandt [vermutlich hat Renée Schwarzenbach etwas für Emmy Krüger nach München mitgegeben], hat Dir 
+               <lb xml:id="p001_tr_1_tl_13"/>das Herz meiner Mama sicher noch 
+               <lb xml:id="p001_tr_1_tl_14"/>völliger erobert, u. dass Du stecken geblieben 
+               <lb xml:id="p001_tr_1_tl_15"/>bist sichert Dir das begeisterte Andenken 
+               <lb xml:id="p001_tr_1_tl_16"/>Deiner Hörer. Überhaupt, Euer Erfolg 
+               <lb xml:id="p001_tr_1_tl_17"/>war unbestritten, niemand würde pfeifen 
+               <lb xml:id="p001_tr_1_tl_18"/>führtet Ihr hier die "Geschwister" auf –</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_19"/>Christbaum schmücken 
+               <lb xml:id="p001_tr_1_tl_20"/>muss Hansi ganz allein tun, ebenso 
+               <lb xml:id="p001_l"/>wie Pferde reiten. Den[n] mich packt</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415700"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l"/>(frage warum!) ein neuer u. nicht zu 
+               <lb xml:id="p002_tr_1_tl_3"/>dämpfender Fleiss, Morgen noch werde 
+               <lb xml:id="p002_tr_1_tl_4"/>ich in einer Repetitionsstunde glänzen, 
+               <lb xml:id="p002_tr_1_tl_5"/>u. selbst die schonmals beschimpfte 
+               <lb xml:id="p002_tr_1_tl_6"/>Korrektur der Dissertation führe ich 
+               <lb xml:id="p002_tr_1_tl_7"/>geduldig fort. Wen[n] dies bis Neujahr 
+               <lb xml:id="p002_tr_1_tl_8"/>geschehen ist – da weilst Du schon mit 
+               <lb xml:id="p002_tr_1_tl_9"/>Klaus u. Ford in Paris oder in noch 
+               <lb xml:id="p002_tr_1_tl_10"/>zauberhafteren Gegenden – will ich im 
+               <lb xml:id="p002_tr_1_tl_11"/>Skieanzug auf einige Tage zu Hanna Kiel [d.h. nach Lenzerheide-See] 
+               <lb xml:id="p002_tr_1_tl_12"/>fahren um neue Kräfte zur sammeln. 
+               <lb xml:id="p002_tr_1_tl_13"/>Täglich spiegele ich mir Mut vor, denn 
+               <lb xml:id="p002_tr_1_tl_14"/>wie dürfte man in der Weihnachtszeit 
+               <lb xml:id="p002_tr_1_tl_15"/>betrübt sein!</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_16"/>Hast Du Fred gesehen? Ich bekam einen 
+               <lb xml:id="p002_tr_1_tl_17"/>Arief von <hi rendition="#u">Bonin</hi>, der Dich gerne einmal 
+               <lb xml:id="p002_tr_1_tl_18"/>sehen möchte wie mir scheint. Aber 
+               <lb xml:id="p002_tr_1_tl_19"/>er wird sich gedulden müssen bis Du 
+               <lb xml:id="p002_tr_1_tl_20"/>zurück kommst, die Weihnachten fährt 
+               <lb xml:id="p002_tr_1_tl_21"/>er nach Berlin. Ich glaube, er u. ich 
+               <lb xml:id="p002_tr_1_tl_22"/>werden uns über die komplizierten 
+               <lb xml:id="p002_tr_1_tl_23"/>Dinge wie meine Tätigkeit in 
+               <lb xml:id="p002_tr_1_tl_24"/>München wunderbar einigen,               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <pb xml:id="p003" facs="https://www.monacensia-digital.de/i3f/v20/415701"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p> 
+               <lb xml:id="p003_tr_1_tl_1"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+er schreibt sehr klug u. angenehm, 
+               <lb xml:id="p003_tr_1_tl_2"/>auch versteht er genau was ich will 
+               <lb xml:id="p003_tr_1_tl_3"/>u. brauche.</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_4"/>– Feire schöne Weihnachten mit Rauhreif 
+               <lb xml:id="p003_tr_1_tl_5" break="no"/>bäumchen und Winterabend, hast Du 
+               <lb xml:id="p003_tr_1_tl_6"/>schon gemerkt wie der Kies knirscht 
+               <lb xml:id="p003_tr_1_tl_7"/>wen[n] man nach Hause kom[m]t –</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_8"/>ich über stundenlang Klavier u. morgen 
+               <lb xml:id="p003_tr_1_tl_9"/>haben wir Hauptprobe, mein Vetter 
+               <lb xml:id="p003_tr_1_tl_10"/>u. ich (der Bruder dessen der nach 
+               <lb xml:id="p003_tr_1_tl_11"/>Hause reiten musste) –</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [vertical space]</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_12"/>Vergiss nicht mir gleich u. stets zu 
+               <lb xml:id="p003_tr_1_tl_13"/>berichten wo Du zu erreichen 
+               <lb xml:id="p003_tr_1_tl_14"/>bist, Du weist dass ich es ganz 
+               <lb xml:id="p003_tr_1_tl_15"/>unerträglich finde wen[n] mein 
+               <lb xml:id="p003_tr_1_tl_16"/>älterer Bruder plötzlich irgendwo 
+               <lb xml:id="p003_tr_1_tl_17"/>in dieser lächerlich kleinen 
+               <lb xml:id="p003_tr_1_tl_18"/>Welt verschollen ist!</p>
+
+            <pb xml:id="p004" facs="https://www.monacensia-digital.de/i3f/v20/415702"/>
+            <milestone unit="textregion" xml:id="p004_tr_2"/>            <p> 
+               <lb xml:id="p004_tr_2_tl_1"/>Mit dieser dringenden Bitte sei den[n] 
+               <lb xml:id="p004_tr_2_tl_2"/>für heute genug geschrieben: Aber 
+               <lb xml:id="p004_tr_2_tl_3"/>welche unvollkom[m]ene Angelegenheit 
+               <lb xml:id="p004_tr_2_tl_4"/>ist doch ein Brief übertroffen nur 
+               <lb xml:id="p004_tr_2_tl_5"/>durch das barbarischste u. alle 
+               <lb xml:id="p004_tr_2_tl_6"/>Seelenqualen in sich bergende 
+               <lb xml:id="p004_tr_2_tl_7"/>"Verständigungsmittel", das Telefon – 
+               <lb xml:id="p004_tr_2_tl_8"/>480 920 – bös, als sei damit 
+               <lb xml:id="p004_tr_2_tl_9"/>geholfen, böse u. betrügerisch –</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [vertical space]</p>
+            <p> 
+               <lb xml:id="p004_tr_2_tl_10"/>Morgen müssen Hansi u. ich zum 
+               <lb xml:id="p004_tr_2_tl_11"/>letzten Mal um 7 Uhr aufstehen. 
+               <lb xml:id="p004_tr_2_tl_12"/>Nachher schlafen wir solange wir 
+               <lb xml:id="p004_tr_2_tl_13"/>wollen, den ganzen Tag, niemand 
+               <lb xml:id="p004_tr_2_tl_14"/>kümmert sich darum. Und Du 
+               <lb xml:id="p004_tr_2_tl_15"/>fährst nach Süden.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_2_tl_16"/>Sei geküsst und vergiss nicht 
+               <lb xml:id="p004_tr_2_tl_17"/>die restlose u. bescheidene 
+               <lb xml:id="p004_tr_2_tl_18"/>Anhänglichkeit Deines Kindes A</p>
+</div>
+       </body>
+    </text>
+ </TEI>
