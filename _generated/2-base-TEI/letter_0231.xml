@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0231" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0231#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0231</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0231_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415717"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Sofia, c/o Mrs. Brenau, British Consulate 
+               <lb xml:id="p001_tr_1_tl_2"/>June 14<hi rendition="#sup">th</hi></p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_3"/>Erika, meine Liebste, – Dein Telegram[m] hat mich in Genf 
+               <lb xml:id="p001_tr_1_tl_4"/>noch erreicht u. recht gerührt, – sollte es also so 
+               <lb xml:id="p001_tr_1_tl_5"/>sein, das ich Dich knapp verfehle u. dann gleich sehr 
+               <lb xml:id="p001_tr_1_tl_6"/>lang, fast auf unabsehbare Dauer, nicht mehr sehe? 
+               <lb xml:id="p001_tr_1_tl_7"/>– Es liess sich nicht ändern, – Kini Maillart u. ich 
+               <lb xml:id="p001_tr_1_tl_8"/>haben zu viel vor uns, in der Türkei, in Persien u. 
+               <lb xml:id="p001_tr_1_tl_9"/>Afghanistan, – bevor wir uns, etwa im Oktober, 
+               <lb xml:id="p001_tr_1_tl_10"/>spezielleren Aufgaben widmen: Sie will im Hindukusch 
+               <lb xml:id="p001_tr_1_tl_11"/>in sogar für Maultiere unzugänglichen Talschaften 
+               <lb xml:id="p001_tr_1_tl_12"/>überwintern, das mute ich mir nicht zu, sondern 
+               <lb xml:id="p001_tr_1_tl_13"/>begleite sie nur eine erste Etappe weit, gehe dan[n] nach 
+               <lb xml:id="p001_tr_1_tl_14"/>Indien oder Afghanisch Turkestan, um einige Monate 
+               <lb xml:id="p001_tr_1_tl_15"/>sesshaft, jedoch weit von allem Vertrauten, zu 
+               <lb xml:id="p001_tr_1_tl_16"/>leben –</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_17"/>Solche Pläne, ja die ganze Unternehmung, so herben 
+               <lb xml:id="p001_tr_1_tl_18"/>Charakters u. mit so enormen Anforderungen 
+               <lb xml:id="p001_tr_1_tl_19"/>u. Entbehrungen jeder Art verbunden, muss Dir 
+               <lb xml:id="p001_tr_1_tl_20"/>u. Klaus absonderlich scheinen – Dass ich einen 
+               <lb xml:id="p001_tr_1_tl_21"/>teilweise vorbezahlten Buch-Auftrag habe, u. 
+               <lb xml:id="p001_tr_1_tl_22"/>dass für meine "Karriere" eine gemeinsame Reise 
+               <lb xml:id="p001_tr_1_tl_23"/>mit Kini Maillart viel bedeutet, genügt nicht 
+               <lb xml:id="p001_tr_1_tl_24"/>als Motivierung –</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_25"/>Es hätte in Europa journalistisch genug zu tun 
+               <lb xml:id="p001_tr_1_tl_26"/>gegeben. Ein paar Silser Wochen mit Euch 
+               <lb xml:id="p001_tr_1_tl_27"/>hätten mir so viel bedeutet an heimlichem 
+               <lb xml:id="p001_tr_1_tl_28"/>Herzenswunsch, – kurz: nach einem schon in 
+               <lb xml:id="p001_tr_1_tl_29"/>äusserster Isolierung verbrachten Winter</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415718"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>fällt es mir nicht leicht, mich ein langes Jahr in die 
+               <lb xml:id="p002_tr_1_tl_2"/>Wüste zu begeben –</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_3"/>Man frägt sich ja den[n] auch, ob es, heut zu Tage, erlaubt 
+               <lb xml:id="p002_tr_1_tl_4"/>sei, – ob man sich nicht einer dringenden Aufgabe 
+               <lb xml:id="p002_tr_1_tl_5"/>entziehe, –</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_6"/>Aber: Chauffieren für den Kriegsfall, arbüten in einem 
+               <lb xml:id="p002_tr_1_tl_7"/>Comité für Flüchtlingshilfe, oder politischer Journalismus: 
+               <lb xml:id="p002_tr_1_tl_8"/>was es auch sei, – ich bin nicht unersetzlich, – u. ich 
+               <lb xml:id="p002_tr_1_tl_9"/>habe böse Zeiten hinter mir, aus denen ich gelernt 
+               <lb xml:id="p002_tr_1_tl_10"/>habe what was wrong about me ... Verspätete Kindheits 
+               <lb xml:id="p002_tr_1_tl_11" break="no"/>fehler. Und wir wissen: die Tränen der Reue genügen 
+               <lb xml:id="p002_tr_1_tl_12"/>nicht. Ich würde, bliebe ich jetzt im Silser Frieden 
+               <lb xml:id="p002_tr_1_tl_13"/>oder im vertrauten Umkreis, anlehnungsbedürftig 
+               <lb xml:id="p002_tr_1_tl_14"/>bleiben u. ein halbes Krisendasein fristen, wie bisher. 
+               <lb xml:id="p002_tr_1_tl_15"/>(Du weisst nicht wie ich seit März gestrauchelt bin, 
+               <lb xml:id="p002_tr_1_tl_16"/>u. in welcher Todesangst ich vegetierte ... genug, genug) 
+               <lb xml:id="p002_tr_1_tl_17"/>Deshalb entschloss ich mich, mir eine Chance zu geben, 
+               <lb xml:id="p002_tr_1_tl_18"/>die einer Reifeprüfung gleicht. Die Gelegenheit bot sich, die 
+               <lb xml:id="p002_tr_1_tl_19"/>Reise mit Kini zu machen. Ich tu es gewiss nicht 
+               <lb xml:id="p002_tr_1_tl_20"/>"for fun" – aber ich glaube, die Arbeit, die Balkanstrassen 
+               <lb xml:id="p002_tr_1_tl_21"/>(teuflisch bis anhin!), die Nächte im Schlafsack auf 
+               <lb xml:id="p002_tr_1_tl_22"/>blosser Erde, dieses strenge Leben, reich u. neu, aber ohne 
+               <lb xml:id="p002_tr_1_tl_23"/>Zärtlichkeit, – es kom[m]t mich hart an, u. da es kein Zurück 
+               <lb xml:id="p002_tr_1_tl_24"/>u. kein Versagen gibt (die Kontrakte, die Verpflichtung gegenüber 
+               <lb xml:id="p002_tr_1_tl_25"/>Kini) – so wird es gut für mich sein. –</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_26"/>– Lassen wir es dabei bewenden. – Und zu Dir : Du triffst 
+               <lb xml:id="p002_tr_1_tl_27"/>ein, in Europa, ohne Schiethaldenstrasse [recte: Schiedhaldenstrasse, Wohnort der Familie Mann in Küsnacht, 1933-1938] – Sollte Dir 
+               <lb xml:id="p002_tr_1_tl_28"/>an Ferienwochen in Sils liegen: mein Freund Dr. Hubert 
+               <lb xml:id="p002_tr_1_tl_29"/>Weisbrod, Bleicherweg 10, Zürich, der sich um das 
+               <lb xml:id="p002_tr_1_tl_30"/>Vermieten des Häuschus küm[m]ert, ist dahin</p>
+
+            <pb xml:id="p003" facs="https://www.monacensia-digital.de/i3f/v20/415719"/>
+            <milestone unit="textregion" xml:id="p003_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_1"/>informiert, es Dir wenn irgendmöglich zu überlassen, 
+               <lb xml:id="p003_tr_1_tl_2"/>wan[n] Du es bewohnen magst – die Giebski [?] weiss 
+               <lb xml:id="p003_tr_1_tl_3"/>genauer Bescheid. –</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_4"/>Euer Buch habe ich noch zur Hand genom[m]en, es 
+               <lb xml:id="p003_tr_1_tl_5"/>ist eine stattliche Arbeit, u. voll von schönen 
+               <lb xml:id="p003_tr_1_tl_6"/>Einzelheiten, begabten Streiflichtern auf viele 
+               <lb xml:id="p003_tr_1_tl_7"/>Schicksale – Glaub nicht, E.-Herz, dass mir Gefühl 
+               <lb xml:id="p003_tr_1_tl_8"/>dafür u. Kontakt damit abhanden kom[m]en, weil 
+               <lb xml:id="p003_tr_1_tl_9"/>ich mich für eine Zeitspan[n]e davon entfernen muss! –</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_10"/>Mein kleines Buch "Das "Grückliche Tal" 
+               <lb xml:id="p003_tr_1_tl_11"/>kom[m]t im September heraus, – ich wüsste gern jetzt schon, 
+               <lb xml:id="p003_tr_1_tl_12"/>was Du davon halten wirst –</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_13"/>Ach, noch so viel, wovon sich reden möchte, – aber 
+               <lb xml:id="p003_tr_1_tl_14"/>ich bin kränklich, allzu müde, – u. um 5 Uhr früh 
+               <lb xml:id="p003_tr_1_tl_15"/>fahren wir meistens –</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_16"/>Schreib halt einmal nach Caboul (Afghanistan) 
+               <lb xml:id="p003_tr_1_tl_17"/>c/o Légation de France, Airmail via British India, – [Paragraph ev. von EM hervorgehoben]</p>
+            <p> 
+               <lb xml:id="p003_tr_2_tl_1"/>Grüsse mir alle Lieben, umarme den 
+               <lb xml:id="p003_tr_2_tl_2"/>Klaus, –</p>
+            <p> 
+               <lb xml:id="p003_tr_2_tl_3"/>Dein Kabel trage ich bei mir, u. 
+               <lb xml:id="p003_tr_2_tl_4"/>küsse Dich, u. erhoffe so viel für 
+               <lb xml:id="p003_tr_2_tl_5"/>Dich, – ich stelle mir Dein Leben 
+               <lb xml:id="p003_tr_2_tl_6"/>nicht leicht vor u. denke an Dich 
+               <lb xml:id="p003_tr_2_tl_7"/>in zärtlichster Sorge!</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_2_tl_8"/>Deine 
+               <lb xml:id="p003_tr_2_tl_9"/>Miro</p>
+</div>
+       </body>
+    </text>
+ </TEI>
