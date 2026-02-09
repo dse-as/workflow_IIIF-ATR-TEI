@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0230" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0230#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0230</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0230_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415715"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>E. – jetzt bist Du, denke ich, von der 
+               <lb xml:id="p001_tr_1_tl_2"/>kleinen Eisesfahrt wieder zurück, ist 
+               <lb xml:id="p001_tr_1_tl_3"/>Dir der Ford nirgens [sic] eingefroren? 
+               <lb xml:id="p001_tr_1_tl_4"/>Mein Victory wollte beinahe in 
+               <lb xml:id="p001_tr_1_tl_5"/>Dampf u. Flam[m]en aufgehen als ich 
+               <lb xml:id="p001_tr_1_tl_6"/>ihn nachts ganz allein stehen liess 
+               <lb xml:id="p001_tr_1_tl_7"/>u. mich mit Roby Frey im Kellner 
+               <lb xml:id="p001_tr_1_tl_8" break="no"/>club herumtrieb – was, nebenbei, 
+               <lb xml:id="p001_tr_1_tl_9"/>sehr aufregend war weil ich doch so 
+               <lb xml:id="p001_tr_1_tl_10"/>ausgesprochen u. im[m]er noch Angst vor 
+               <lb xml:id="p001_tr_1_tl_11"/>Transvestiten habe die wie grosse 
+               <lb xml:id="p001_tr_1_tl_12"/>Nachtvögel herumirren u. dort 
+               <lb xml:id="p001_tr_1_tl_13"/>aber geradezu scharenweise eintrafen. 
+               <lb xml:id="p001_tr_1_tl_14"/>Auch Hansi Sturm war dabei die 
+               <lb xml:id="p001_tr_1_tl_15"/>ein Auge auf mich warf – u. mir 
+               <lb xml:id="p001_tr_1_tl_16"/>sogar gefiel solange sie nicht in 
+               <lb xml:id="p001_tr_1_tl_17"/>die Nähe kam. – Ich sitze bei Doris um 
+               <lb xml:id="p001_tr_1_tl_18"/>nur ja dem Jack Ripper zu entgehen 
+               <lb xml:id="p001_tr_1_tl_19"/>der mich dauernd besuchen will, 
+               <lb xml:id="p001_tr_1_tl_20"/>der schreckliche Mensch.</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415716"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_4"/>Und heute ist schon Dezember. Ja, vor 
+               <lb xml:id="p002_tr_1_tl_5"/>Weihnachten möchte ich, wenn es sich 
+               <lb xml:id="p002_tr_1_tl_6"/>mit Deinen Plänen vereinen lässt – 
+               <lb xml:id="p002_tr_1_tl_7"/>ganz unumgänglich nach München 
+               <lb xml:id="p002_tr_1_tl_8"/>kommen, u. zwar am 21.– dan[n] fahre 
+               <lb xml:id="p002_tr_1_tl_9"/>ich am 23. früh nach Hause. Hast Du 
+               <lb xml:id="p002_tr_1_tl_10"/>schon an Skiefahren u. Lenzerheide 
+               <lb xml:id="p002_tr_1_tl_11"/>im Januar gedacht? Tu es ernstlich – 
+               <lb xml:id="p002_tr_1_tl_12"/>– Uns geht es sonst recht gut, nur bin ich 
+               <lb xml:id="p002_tr_1_tl_13"/>noch nicht viel gesünder trotzdem sich 
+               <lb xml:id="p002_tr_1_tl_14"/>Ursula sehr nett u. fürsorglich zu mir 
+               <lb xml:id="p002_tr_1_tl_15"/>beträgt. Sie ist sehr schwierig für mich. 
+               <lb xml:id="p002_tr_1_tl_16"/>Und hast Du schon an ernstliches Weg 
+               <lb xml:id="p002_tr_1_tl_17" break="no"/>fahren im Som[m]er gedacht? Warum sollte 
+               <lb xml:id="p002_tr_1_tl_18"/>man es <hi rendition="#u">nicht</hi> tun, E. – 
+               <lb xml:id="p002_tr_1_tl_19"/>ich denke sehr viel nach u. arbeite so viel 
+               <lb xml:id="p002_tr_1_tl_20"/>wie es eben geht. Ich habe eine Novelle 
+               <lb xml:id="p002_tr_1_tl_21"/>angefangen [wahrscheinlich lyrische Novelle], der Roman [ev. Flucht nach oben] ist fertig (grossen 
+               <lb xml:id="p002_tr_1_tl_22" break="no"/>teils neu geschrieben) bis auf zwei letzte 
+               <lb xml:id="p002_tr_1_tl_23"/>Abschnitte – 
+               <lb xml:id="p002_tr_1_tl_24"/>Ist Kathrin Holland begabt? Ist Gabrielle Tergit 
+               <lb xml:id="p002_tr_1_tl_25"/>begabt? Ist Hellmert – oder Ebermayer begabt 
+               <lb xml:id="p002_tr_1_tl_26"/>oder Doris, oder ich? 
+               <lb xml:id="p002_l_2"/>Adieu E., denke daran dass der Ford</p>
+
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l"/>uns erhalten bleiben muss. 
+               <lb xml:id="p002_l_1"/>Grüss den Klaus. Theres ebenso, von Herzen 
+               <lb xml:id="p002_l_3"/>Unverändert 
+               <lb xml:id="p002_l_4"/>Dein Kind A</p>
+</div>
+       </body>
+    </text>
+ </TEI>
