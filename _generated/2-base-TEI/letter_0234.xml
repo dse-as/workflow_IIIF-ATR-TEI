@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0234" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0234#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0234</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0234_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415726"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_3"/>Hotel Matignon 
+               <lb xml:id="p001_tr_1_tl_4"/>6, AVENUE MATIGNON 
+               <lb xml:id="p001_tr_1_tl_5"/>ROND-Point des Champs-ELYSÉES Paris (8e) 
+               <lb xml:id="p001_tr_1_tl_7"/>TÉLÉPH: Elysées 28-46 / Elysées 34-76 
+               <lb xml:id="p001_tr_1_tl_8"/>R. du C. Seine 255041</p>
+            <p> 
+               <lb xml:id="p001_l"/>E. – Ärgerlich, abscheulich 
+               <lb xml:id="p001_tr_1_tl_11"/>unerträglich dass man 
+               <lb xml:id="p001_tr_3_tl_1"/>Dir nicht sagen kann – 
+               <lb xml:id="p001_tr_3_tl_2"/>dass ...</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_3_tl_3"/>Nun, Du weisst schon: dass 
+               <lb xml:id="p001_tr_3_tl_4"/>Du der beste Charakter 
+               <lb xml:id="p001_tr_3_tl_5"/>der Welt bist und dass 
+               <lb xml:id="p001_tr_3_tl_6"/>man Dich sehr liebt, 
+               <lb xml:id="p001_tr_2_tl_1"/>geben wir uns damit zufrieden, 
+               <lb xml:id="p001_tr_2_tl_2"/>da Du ja auch dazu so 
+               <lb xml:id="p001_l_1"/>klug bist (besprachen wir 
+               <lb xml:id="p001_tr_2_tl_5"/>es nicht ausführlich?) 
+               <lb xml:id="p001_l_2"/>alles sofort zu erraten</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415727"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>was zu Papier zu bringen 
+               <lb xml:id="p002_tr_1_tl_2"/>man sich versagt.</p>
+            <p> 
+               <lb xml:id="p002_l"/>Völlig recht hast Du mit 
+               <lb xml:id="p002_l_1"/>dem Bernhard ich faules 
+               <lb xml:id="p002_tr_1_tl_7"/>Ei. Aber die Falschmünzer [Roman von Andé Gide] – 
+               <lb xml:id="p002_l_2"/>Hand aufs Herz was Du 
+               <lb xml:id="p002_tr_1_tl_10"/>sagst wird schon richtig 
+               <lb xml:id="p002_tr_1_tl_11"/>sein, doch habe ich es sehr 
+               <lb xml:id="p002_tr_1_tl_12"/>unterbewusst so gemacht 
+               <lb xml:id="p002_tr_1_tl_13"/>den[n] seit vielen Jahren habe 
+               <lb xml:id="p002_l_3"/>ich die Falschmünzer nicht 
+               <lb xml:id="p002_l_4"/>mehr gelesen. Inzwischen sah 
+               <lb xml:id="p002_tr_1_tl_18"/>ich, dass darin ein Junge 
+               <lb xml:id="p002_tr_1_tl_19"/>Bernard heisst. Oh oh! ... 
+               <lb xml:id="p002_tr_1_tl_20"/>Was macht der Ford? 
+               <lb xml:id="p002_l_5"/>Seid Ihr den[n] schon tüchtig 
+               <lb xml:id="p002_l_6"/>fahrtbereit?</p>
+
+            <pb xml:id="p003" facs="https://www.monacensia-digital.de/i3f/v20/415728"/>
+            <milestone unit="textregion" xml:id="p003_r_230"/>            <p> 
+               <lb xml:id="p003_l_12"/>– ich war indessen 
+               <lb xml:id="p003_l_14"/>richtig krank mit 
+               <lb xml:id="p003_tr_1_tl_1"/>Fieber u. Nichtsprechen 
+               <lb xml:id="p003_tr_1_tl_2" break="no"/>können. Und Hanna geht 
+               <lb xml:id="p003_tr_1_tl_3"/>es überhaupt nicht 
+               <lb xml:id="p003_tr_1_tl_4"/>sonderlich gut. Ihr ist schwer 
+               <lb xml:id="p003_tr_1_tl_5"/>zu helfen, ein kleiner Affe 
+               <lb xml:id="p003_l"/>aus der Schweiz taugt 
+               <lb xml:id="p003_tr_1_tl_9"/>dazu gar nicht.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [vertical space] 
+               <lb xml:id="p003_l_1"/>Weisst Du schon dass ich 
+               <lb xml:id="p003_l_3"/>Freitag zu Klaus fahre? 
+               <lb xml:id="p003_l_4"/>Und da bis etwa Mittwoch</p>
+
+            <pb xml:id="p004" facs="https://www.monacensia-digital.de/i3f/v20/415729"/>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_l"/>bleibe, dan[n] für 8 Tage nach 
+               <lb xml:id="p004_tr_1_tl_3"/>Bocken u. endlich wieder 
+               <lb xml:id="p004_tr_1_tl_4"/>nach Deutschland – (Hoffentlich 
+               <lb xml:id="p004_tr_1_tl_5"/>bald Dich sehend) [vertical space] 
+               <lb xml:id="p004_tr_1_tl_6"/>Eigentlich – u. Dir darf ichs 
+               <lb xml:id="p004_tr_1_tl_7"/>ja sagen – geht es mir traurig, 
+               <lb xml:id="p004_l_1"/>ich lerne nämlich jeden Tag 
+               <lb xml:id="p004_tr_1_tl_10"/>dass ich verwöhnt bin (!) u. 
+               <lb xml:id="p004_l_2"/>dass das Leben ganz anders 
+               <lb xml:id="p004_l_3"/>aussieht. Und vor allem kann. 
+               <lb xml:id="p004_tr_1_tl_15"/>ich mich nicht beklagen 
+               <lb xml:id="p004_l_4"/>sondern spiele Bleisoldat. 
+               <lb xml:id="p004_tr_1_tl_18"/>(Warum soll man es den[n] 
+               <lb xml:id="p004_tr_1_tl_19"/>nicht endlich schwer haben.) 
+               <lb xml:id="p004_l_5"/>Ich wusste gar nicht, dass 
+               <lb xml:id="p004_tr_1_tl_22"/>Kum[m]er u. Schrecken u. alles 
+               <lb xml:id="p004_tr_1_tl_23"/>was ich bisher kannte, mit</p>
+
+            <pb xml:id="p005" facs="https://www.monacensia-digital.de/i3f/v20/415730"/>
+            <milestone unit="textregion" xml:id="p005_r_137"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p005_l_1"/>Schwer haben gar 
+               <lb xml:id="p005_l_12"/>nichts zu tun hat. 
+               <lb xml:id="p005_l"/>Das lerne ich jetzt. 
+               <lb xml:id="p005_l_2"/>Tausend Grüsse. von Hanna, 
+               <lb xml:id="p005_l_34"/>für Dich u. für den Ricki. 
+               <lb xml:id="p005_l_35"/>Und überhaupt gehören 
+               <lb xml:id="p005_l_36"/>Euch u. Eurem Erfolg [die gewonnenene Europa Ralley?] 
+               <lb xml:id="p005_l_37"/>unsere vereinten Wünsche. 
+               <lb xml:id="p005_l_38"/>Du weisst doch von Klaus 
+               <lb xml:id="p005_l_39"/>dass Du versichtig sein 
+               <lb xml:id="p005_tr_1_tl_1"/>musst u. wozu Du nicht 
+               <lb xml:id="p005_tr_1_tl_2"/>das Recht hast. Überlege 
+               <lb xml:id="p005_l_4"/>Dir recht, dass es glücklich 
+               <lb xml:id="p005_l_3"/>u. tröstend ist Dich auf</p>
+
+            <pb xml:id="p006" facs="https://www.monacensia-digital.de/i3f/v20/415731"/>
+            <milestone unit="textregion" xml:id="p006_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p006_tr_1_tl_1"/>der Welt zu wissen – 
+               <lb xml:id="p006_tr_1_tl_2"/>Und sei sehr umarmt 
+               <lb xml:id="p006_tr_1_tl_3"/>von 
+               <lb xml:id="p006_tr_1_tl_4"/>A. –</p>
+</div>
+       </body>
+    </text>
+ </TEI>
