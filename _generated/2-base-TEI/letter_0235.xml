@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0235" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0235#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0235</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0235_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415733"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>nicht. Wie geht das Einfahren, bewährt 
+               <lb xml:id="p001_tr_1_tl_2"/>sich der Ford (ich will ihn nicht beleidigen) 
+               <lb xml:id="p001_tr_1_tl_3"/>u. der Ricki? Trinkt Ihr hoffentlich keinen 
+               <lb xml:id="p001_tr_1_tl_4"/>Alkohol? Ich möchte wirklich, auf 
+               <lb xml:id="p001_tr_1_tl_5" break="no"/>richtig, Ihr wärt schon wieder zurück. 
+               <lb xml:id="p001_tr_1_tl_6"/>Den Eltern <del rend="overstrike">der</del>, den hier stürmisch 
+               <lb xml:id="p001_tr_1_tl_7"/>gefeierten, habe ich telephoniert u. von 
+               <lb xml:id="p001_tr_1_tl_8"/>Dir Grüsse gesagt. Doch – begreiflich – ein 
+               <lb xml:id="p001_tr_1_tl_9"/>"Rendez-vous" konnte ich diesmal nicht 
+               <lb xml:id="p001_tr_1_tl_10"/>erlangen! 
+               <lb xml:id="p001_tr_1_tl_11"/>Hanna grüsst sehr. Auch meine Mama 
+               <lb xml:id="p001_tr_1_tl_12"/>mit der ich heute morgen gegen 9 Uhr 
+               <lb xml:id="p001_tr_1_tl_13"/>Ferngespräch hatte. Ob Du wohl trotz 
+               <lb xml:id="p001_tr_1_tl_14"/>der aufregenden Zeit mir noch ein paar 
+               <lb xml:id="p001_tr_2_tl_1"/>Wörtlein schreibst? Das wäre freundlich 
+               <lb xml:id="p001_tr_2_tl_2"/>getan von Dir in Anbetracht dass meine 
+               <lb xml:id="p001_tr_2_tl_3"/>in[n]igsten Gedanken ständig bei Dir sind. 
+               <lb xml:id="p001_tr_2_tl_4"/>Grüsse an Ricki. Sonst siehst Du wohl von 
+               <lb xml:id="p001_tr_2_tl_5"/>Potsdam aus niemand nen[n]enswerten? 
+               <lb xml:id="p001_tr_2_tl_6"/>Sei selbst tausendmal gegrüsst und 
+               <lb xml:id="p001_tr_2_tl_7"/>bedankt von Deinem 
+               <lb xml:id="p001_tr_2_tl_8"/>Kind A</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415734"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_2_tl_1"/>[Seite ist nicht transkribiert, da identisch mit letter_0167_001]Rheinsberg. Hotel Seelenweise Fürstenhof 
+               <lb xml:id="p002_tr_2_tl_2"/>9. Nov. 31 
+               <lb xml:id="p002_tr_2_tl_3"/>E.-Liebling, wir fahren also, Doris u. ich, nicht 
+               <lb xml:id="p002_tr_2_tl_4"/>nach München: denn Doris ist wieder versöhnt u. froh 
+               <lb xml:id="p002_tr_2_tl_5"/>u. bleibt in Berlin, bei mir dafür handelt es sich 
+               <lb xml:id="p002_tr_2_tl_6"/>um keine Aussöhnung u. deshalb bin ich gestern 
+               <lb xml:id="p002_tr_2_tl_7"/>in der Dunkelheit, ganz gegen meinen Wunsch u. gegen 
+               <lb xml:id="p002_tr_2_tl_8"/>meine Feigheit, hierher gefahren – wo ich alsbald 14 
+               <lb xml:id="p002_tr_2_tl_9"/>Stunden geschlafen, dazwischen ein wenig über meinen 
+               <lb xml:id="p002_tr_2_tl_10"/>Einsamkeit geweint habe. Aber trotzdem ist es ganz recht 
+               <lb xml:id="p002_tr_2_tl_11"/>dass ich nicht nach fründen gekommen bin, was hatte 
+               <lb xml:id="p002_tr_2_tl_12"/>ich dort anderes getan als Dir meine 17 jährigen Komplexe 
+               <lb xml:id="p002_tr_2_tl_13"/>vorzutragen, das aber kann ich genau so gut in Berlin tun 
+               <lb xml:id="p002_tr_1_tl_1"/>Ob es mir wohl endlich gelingen wird, E., erwachsen zu 
+               <lb xml:id="p002_tr_1_tl_2"/>werden? Das sehr kluge Kind Ursula hat mir gesagt 
+               <lb xml:id="p002_tr_1_tl_3"/>ich sollte kein zweites Buch wie den "Bernhard" schreiben 
+               <lb xml:id="p002_tr_1_tl_4"/>u. wenn ich nicht so masslos verwöhnt u. verzogen wäre, hätte 
+               <lb xml:id="p002_tr_1_tl_5"/>ich es wohl nicht gedruckt. Hingegen sagte mir Speyer 
+               <lb xml:id="p002_tr_1_tl_6"/>ich würde wohl nie ein besseres Buch schreiben als eben 
+               <lb xml:id="p002_tr_1_tl_7"/>diesen "Bernhard." Worauf ich hellsichtig u. erschrocken 
+               <lb xml:id="p002_tr_1_tl_8"/>daran dachte, dass Speizer tatsächlich nie etwas 
+               <lb xml:id="p002_tr_1_tl_9"/>Besseres geschrieben hat als "Schwermut der Jahreszeiten" 
+               <lb xml:id="p002_tr_1_tl_10"/>"ein Buch dass den Bernhard" an Qualitäten sehr über- 
+               <lb xml:id="p002_tr_1_tl_11"/>trifft, an 17 jährigen Komplexen aber mit ihm kon 
+               <lb xml:id="p002_tr_1_tl_12" break="no"/>kurrieren kan. 
+               <lb xml:id="p002_tr_1_tl_13"/>Ich möchte gern, dass nicht Speizer recht behält sondern 
+               <lb xml:id="p002_tr_1_tl_14"/>Ursula deren Ausspruch vom "Masslos verwöhnt sein" ich 
+               <lb xml:id="p002_tr_1_tl_15"/>von Dir auch einmal gehört habe. - Sie sagte mir übrigens 
+               <lb xml:id="p002_tr_1_tl_16"/>dass ich, wie ich weiter Gahn mich in dieser Kritiklosen 
+               <lb xml:id="p002_tr_1_tl_17"/>Weise tausend leuten zu weiszugeben – zwar meine verwöhnte 
+               <lb xml:id="p002_tr_1_tl_18"/>Matrosenrolle noch einige Jahre liebenswürdig weiter¬</p>
+</div>
+       </body>
+    </text>
+ </TEI>
