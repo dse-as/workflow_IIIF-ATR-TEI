@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0420" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0420#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0420</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0420"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0420_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0420_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_tl_1"/>Carson McCullers, 
+               <lb xml:id="p001_r_tl_2"/>eine junge Amerikanerin<hi rendition="#g"> 
+                  <lb xml:id="p001_r_tl_3"/>New York</hi></p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">. 18. Juni. </p>
+            <p> 
+               <lb xml:id="p001_r_tl_4"/><hi rendition="#g">Carson McCullers</hi> ist zweiundzwanzig Jahre 
+               <lb xml:id="p001_r_tl_5"/>alt. Sie hat vor vier Jahren einen blonden Jungen 
+               <lb xml:id="p001_r_tl_6"/>geheiratet, der noch jünger und kindlicher wirkt als 
+               <lb xml:id="p001_r_tl_7"/>sie selbst. Er ist nicht ehrgeizig, aber er fühlt sich für 
+               <lb xml:id="p001_r_tl_8"/>sie verantwortlich, und ist jetzt mit ihr nach New York 
+               <lb xml:id="p001_r_tl_9"/>gezogen und sucht eine Stelle, nachdem ihr Verleger 
+               <lb xml:id="p001_r_tl_10"/>beschlossen hat, sie aus der kleinen Stadt in den Süd 
+               <lb xml:id="p001_r_tl_11" break="no"/>staaten, wo sie bisher gelebt haben, nach New York 
+               <lb xml:id="p001_r_tl_12"/>kommen zu lassen. Carson hat ihr Buch. – natürlich 
+               <lb xml:id="p001_r_tl_13"/>war es ihr erstes – vor einem Jahr fertig geschrieben, 
+               <lb xml:id="p001_r_tl_14"/>und nannte es "The heart is a lonely hunter" – aber 
+               <lb xml:id="p001_r_tl_15"/>der Verleger, dem sie das Manuskript schickte, ver 
+               <lb xml:id="p001_r_tl_16" break="no"/>langte von ihr, dass sie mehrere Stellen ändere. Die 
+               <lb xml:id="p001_r_tl_17"/>Stellen handelten zum Beispiel von einem jungen 
+               <lb xml:id="p001_r_tl_18"/>Neger, der nach einer betrunkenen Rauferei um ein 
+               <lb xml:id="p001_r_tl_19"/>weisses Mädchen in ein Kettensträflings-Gefängnis ge 
+               <lb xml:id="p001_r_tl_20" break="no"/>schickt, und dort wegen eines angeblichen Fluchtver 
+               <lb xml:id="p001_r_tl_21" break="no"/>suches so misshandelt wird, dass ihm nachher beide 
+               <lb xml:id="p001_r_tl_22"/>Füsse amputiert werden müssen. Von einem armseli 
+               <lb xml:id="p001_r_tl_23" break="no"/>gen Phantasten, der zuweilen der Trancksucht verfällt, 
+               <lb xml:id="p001_r_tl_24"/>und zuweilen die Welt aufrütteln möchte, und nicht 
+               <lb xml:id="p001_r_tl_25"/>genau zwischen religiösen Sprüchen und kommu 
+               <lb xml:id="p001_r_tl_26" break="no"/>nistischen Verbrüderungsprogrammen zu unterscheiden 
+               <lb xml:id="p001_r_tl_27"/>weiss. Oder von einem taubstummen, menschenfreund 
+               <lb xml:id="p001_r_tl_28" break="no"/>lichen Mann, der nachdem sein einziger Freund in 
+               <lb xml:id="p001_r_tl_29"/>einem Asyl für Geisteskranke gestorben ist, plötzlich 
+               <lb xml:id="p001_r_tl_30"/>genug hat und sich eine Kugel durch das Herz schiesst. 
+               <lb xml:id="p001_r_tl_31"/>Und endlich von einem kleinen, begabten, trotzigen 
+               <lb xml:id="p001_r_tl_32"/>und lebenshungrigen Mädchen, das Musik studieren 
+               <lb xml:id="p001_r_tl_33"/>und Klavierstunden haben möchte, und mit sechzehn 
+               <lb xml:id="p001_r_tl_34"/>Jahren eine Stelle als Verkäuferin bei Woolworth an 
+               <lb xml:id="p001_r_tl_35" break="no"/>tritt, um seinen arbeitslosen Vater und seine hungrigen 
+               <lb xml:id="p001_r_tl_36"/>Brüder zu unterstützen. Sie fühlt sich <hi rendition="#g">betrogen</hi>, 
+               <lb xml:id="p001_r_tl_37"/>aber sie weiss, dass niemand sie betrogen hat und 
+               <lb xml:id="p001_r_tl_38"/>niemand dafür verantwortlich ist, und dass sie nie 
+               <lb xml:id="p001_r_tl_39" break="no"/>manden angreifen und dafür verantwortlich machen 
+               <lb xml:id="p001_r_tl_40"/>kann. Dieses kleine, vom Leben betrogene Mädchen 
+               <lb xml:id="p001_r_tl_41"/>trägt sicher die Züge von Carson McCullers, jedenfalls 
+               <lb xml:id="p001_r_tl_42"/>musste ich, während ich das Buch las, immer an das 
+               <lb xml:id="p001_r_tl_43"/>blasse Kindergesicht, die phantasievollen, weiten, 
+               <lb xml:id="p001_r_tl_44"/>grauen Augen, und den klugen und kindlichen, zu 
+               <lb xml:id="p001_r_tl_45" break="no"/>gleich traurigen und tapferen Ausdruck der jungen 
+               <lb xml:id="p001_r_tl_46"/>Autorin denken. Natürlich weigerte sie sich, irgend 
+               <lb xml:id="p001_r_tl_47" break="no"/>eine Stelle in ihrem Buch zu ändern. Der Verleger 
+               <lb xml:id="p001_r_tl_48"/>fürchtete offenbar, dies oder jenes könnte als "soziale", 
+               <lb xml:id="p001_r_tl_49"/>d. h. revolutionäre Propaganda und Tendenz aufgefasst 
+               <lb xml:id="p001_r_tl_50"/>werden, und das ist im heutigen Amerika, das 
+               <lb xml:id="p001_r_tl_51"/>Rüstungsprogramme und nationale Einigkeit vorbe 
+               <lb xml:id="p001_r_tl_52" break="no"/>reitet, nicht erwünscht. Schliesslich sagte er, dass er das 
+               <lb xml:id="p001_r_tl_53"/>Buch von Carson McCullers trotzdem drucken wolle, 
+               <lb xml:id="p001_r_tl_54"/>aber unter diesen Umständen könne er keinen Vor 
+               <lb xml:id="p001_r_tl_55" break="no"/>schuss zahlen – und Carson ging auf die Bedingungen 
+               <lb xml:id="p001_r_tl_56"/>ein, obwohl sie und ihr Mann dringend ein wenig Geld 
+               <lb xml:id="p001_r_tl_57"/>brauchten. Jetzt ist das Buch erschienen und wurde 
+               <lb xml:id="p001_r_tl_58"/>ein grosser Erfolg – ja, es erhielt den Preis, der dem 
+               <lb xml:id="p001_r_tl_59"/>sogenannten "Buch des Monats" zuerkannt wird, und 
+               <lb xml:id="p001_r_tl_60"/>Carson gehört nun zu den berühmten Dichterinnen 
+               <lb xml:id="p001_r_tl_61"/>Amerikas. Sie sagte mir, eigentlich seien sie und ihr 
+               <lb xml:id="p001_r_tl_62"/>Mann gern nach New York gekommen. Natürlich 
+               <lb xml:id="p001_r_tl_63"/>werde es schwierig sein, in dieser Stadt, in desem 
+               <lb xml:id="p001_r_tl_64"/>Verkehr, diesem unentwegten Lärm, inmitten von so 
+               <lb xml:id="p001_r_tl_65" break="no"/>viel Cocktail-Parties, Verpflichtungen, Telephonanrufen, 
+               <lb xml:id="p001_r_tl_66"/>inmitten dieser neurotischen, geschäftigen, von Mil 
+               <lb xml:id="p001_r_tl_67" break="no"/>lionen Strömungen geladenen Atmosphäre zu arbeiten, 
+               <lb xml:id="p001_r_tl_68"/>sich zu konzentrieren. Aber es sei besser, als in einer 
+               <lb xml:id="p001_r_tl_69"/>Kleinstadt des Südens zu vegetieren. "Denn das kön 
+               <lb xml:id="p001_r_tl_70" break="no"/>nen Sie sich nicht vorstellen", sagte sie mir. Sie hatte 
+               <lb xml:id="p001_r_tl_71"/>vor sich, auf dem schmierigen Tisch des kleinen Bar- 
+               <lb xml:id="p001_r_tl_72"/>Restaurants, ein Glas Milch und ein Butterbrot – das 
+               <lb xml:id="p001_r_tl_73"/>hatte sie sich als Lunch bestellt, und rührte es nicht 
+               <lb xml:id="p001_r_tl_74"/>an. "Dort unten habe ich jahrelang allein mit meinem 
+               <lb xml:id="p001_r_tl_75"/>Mann gelebt", fuhr sie fort – "unter Textilarbeitern 
+               <lb xml:id="p001_r_tl_76"/>und Baumwollpflückern. Seit Jahren ist es das erste 
+               <lb xml:id="p001_r_tl_77" break="no"/>mal, dass ich mit einer Frau spreche."</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space]</p>
+            <p> 
+               <lb xml:id="p001_r_tl_78"/>Ich hatte Lust, über ihr Buch zu schreiben. Dar 
+               <lb xml:id="p001_r_tl_79" break="no"/>über, dass es in Amerika, in einer kleinen Stadt der 
+               <lb xml:id="p001_r_tl_80"/>amerikanischen Südstaaten – irgendwo auf der Welt 
+               <lb xml:id="p001_r_tl_81"/>– begabte Kinder gibt, Mädchen, Zweiundzwanzig 
+               <lb xml:id="p001_r_tl_82" break="no"/>jährige – und dass sie schreiben, dichten, Musik lie 
+               <lb xml:id="p001_r_tl_83" break="no"/>ben – und durch einen Zufall, den Weitblick eines 
+               <lb xml:id="p001_r_tl_84"/>Verleger wie Houghton Mifflin, anerkannt, bezahlt, 
+               <lb xml:id="p001_r_tl_85"/>mit einem Preis ausgezeichnet werden. – Aber ich 
+               <lb xml:id="p001_r_tl_86"/>traute mich nicht. – Schreiben über junge amerika 
+               <lb xml:id="p001_r_tl_87" break="no"/>nische Talente? Fremde Zukunftshoffnungen? – Künst 
+               <lb xml:id="p001_r_tl_88" break="no"/>ler? – Während bei uns die Toten sich häufen, und 
+               <lb xml:id="p001_r_tl_89"/>die namenlosen Flüchtlinge auf den Landstrassen sich 
+               <lb xml:id="p001_r_tl_90"/>stauen?</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space]</p>
+            <p> 
+               <lb xml:id="p001_r_tl_91"/>Im selben Augenblick sagte mir Carson McCullers, 
+               <lb xml:id="p001_r_tl_92"/>dass sie genau wisse und es verstehe, dass wir – die 
+               <lb xml:id="p001_r_tl_93"/>Flüchtlinge, die Ueberlebenden Europas – etwas 
+               <lb xml:id="p001_r_tl_94"/>gegen sie, die Amerikanerin, hätten, nichts von ihr 
+               <lb xml:id="p001_r_tl_95"/>hielten, – und ich stutzte, verteidigte mich.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space]</p>
+            <p> 
+               <lb xml:id="p001_r_tl_96"/>Ich dachte an alles, was ich in fünf Wochen in 
+               <lb xml:id="p001_r_tl_97"/>Amerika erlebt, und gehört hatte. Ich dachte daran, 
+               <lb xml:id="p001_r_tl_98"/>wie gewaltig überraschend die öffentliche Meinung
+               <milestone unit="textregion" xml:id="p001_r_9"/> 
+               <lb xml:id="p001_r_9_tl_1"/>dieses Landes sich verändert, vom starken bisheri 
+               <lb xml:id="p001_r_9_tl_2" break="no"/>gen Glauben an die "amerikanische Isolation" sich 
+               <lb xml:id="p001_r_9_tl_3"/>gewandelt, in der Annahme, dies sei <hi rendition="#g">eine</hi> Welt und 
+               <lb xml:id="p001_r_9_tl_4"/>dieselbe – was immer geschehe, in diesem Krieg, und 
+               <lb xml:id="p001_r_9_tl_5"/>heute und morgen, es betreffe uns alle – und dachte 
+               <lb xml:id="p001_r_9_tl_6"/>dann an den Schrecken, meine verzweifelte Depression, 
+               <lb xml:id="p001_r_9_tl_7"/>wenn sagenannt gutgesinnte und sogenannt gewiss 
+               <lb xml:id="p001_r_9_tl_8"/>wohl informierte Leute in New York, in Washington, 
+               <lb xml:id="p001_r_9_tl_9"/>ihre Lunchs und Sitzungen und Comité-Besprechungen 
+               <lb xml:id="p001_r_9_tl_10"/>und wohltätigen Sammlungen abhielten und auch mich 
+               <lb xml:id="p001_r_9_tl_11"/>dazu einluden – um den Alliierten, den kleinen De 
+               <lb xml:id="p001_r_9_tl_12" break="no"/>mokratien zu helfen – oder hier, in Amerika bel 
+               <lb xml:id="p001_r_9_tl_13" break="no"/>gische Kinder unterzubringen, hier in Amerika, viel 
+               <lb xml:id="p001_r_9_tl_14" break="no"/>leicht vielleicht, genug Flugzeuge zu fabrizieren. In 
+               <lb xml:id="p001_r_9_tl_15" break="no"/>zwischen geschieht, gewiss, etwas. Alte Damen lernen 
+               <lb xml:id="p001_r_9_tl_16"/>schiessen. Vielleicht bereitet sich wirklich die allge 
+               <lb xml:id="p001_r_9_tl_17" break="no"/>meine Wehrpflicht vor, vielleicht werden wirklich, wie 
+               <lb xml:id="p001_r_9_tl_18"/>es heute in der Zeitung steht, 200,000 englische Kinder 
+               <lb xml:id="p001_r_9_tl_19"/>nach Amerika gebracht, und ich bin fern davon, ein 
+               <lb xml:id="p001_r_9_tl_20"/>Saboteur zu sein.</p>
+            <p> 
+               <lb xml:id="p001_r_9_tl_21"/>Aber wie kommt es, während man mir in diesem
+               <milestone unit="textregion" xml:id="p001_r_10"/> 
+               <lb xml:id="p001_r_10_tl_1"/>anders gewordenen Amerika so freundlich entgegen 
+               <lb xml:id="p001_r_10_tl_2" break="no"/>kommt, und ich wohl begreifen muss, dass von dieser 
+               <lb xml:id="p001_r_10_tl_3"/>noch sicheren, reichen, demokratischen Küste aus 
+               <lb xml:id="p001_r_10_tl_4"/>vieles zu tun, vieles zu tun <hi rendition="#g">möglich</hi> wäre – wie 
+               <lb xml:id="p001_r_10_tl_5"/>kommt es, dass ich gerade hier so gelähmt bin und 
+               <lb xml:id="p001_r_10_tl_6"/>mich so vereinsamt fühle, dass dieses von Wallstreet- 
+               <lb xml:id="p001_r_10_tl_7"/>Börsenkursen und Zeitungsüberschriften geschüttelte 
+               <lb xml:id="p001_r_10_tl_8"/>New York mich hoffnungsloser stimmt als damals die 
+               <lb xml:id="p001_r_10_tl_9"/>weltfernen Schafweiden, die Nomadenzelte, die unbe 
+               <lb xml:id="p001_r_10_tl_10" break="no"/>rührten Wüsten und Hochebenen Afghanistans? – In 
+               <lb xml:id="p001_r_10_tl_11"/>fünf Wochen habe ich hier in Amerika täglich und 
+               <lb xml:id="p001_r_10_tl_12"/>stündlich und ununterbrochen gehört und gelernt – 
+               <lb xml:id="p001_r_10_tl_13"/>und wollte mich nie an die Schreibmaschine setzen, 
+               <lb xml:id="p001_r_10_tl_14"/>um es drüben, zu Hause, in der Schweiz, mitzuteilen. 
+               <lb xml:id="p001_r_10_tl_15"/>Carson McCullers, meine blutjunge amerikanische 
+               <lb xml:id="p001_r_10_tl_16"/>Freundin, wird sehr erstaunt sein darüber, dass ich 
+               <lb xml:id="p001_r_10_tl_17"/>über sie, ihretwegen, oder dank meiner Begegnung mit 
+               <lb xml:id="p001_r_10_tl_18"/>ihr, einen Artikel schrieb. – Aber so ist es. Wir sol 
+               <lb xml:id="p001_r_10_tl_19" break="no"/>len leben, und uns in langen Umnachtungen nicht fra 
+               <lb xml:id="p001_r_10_tl_20" break="no"/>gen, welches sanfte Sternenlicht uns tröstet und nährt.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"><hi rendition="#g"> 
+                  <lb xml:id="p001_r_10_tl_21"/>Annemarie Clark-Schwarzenbach.</hi></p>
+</div>
+       </body>
+    </text>
+ </TEI>
