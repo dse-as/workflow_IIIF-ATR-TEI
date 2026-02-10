@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0066" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0066#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0066</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0066_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0066_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_3"/>hotel jacob 
+               <lb xml:id="p001_tr_1_tl_7"/>et d'angleterre 
+               <lb xml:id="p001_tr_1_tl_9"/>44. rue jacob 
+               <lb xml:id="p001_tr_1_tl_10"/>paris 
+               <lb xml:id="p001_tr_1_tl_13"/>littré 87-91. 
+               <lb xml:id="p001_tr_1_tl_14"/>tél. 
+               <lb xml:id="p001_tr_1_tl_15"/>87-92 
+               <lb xml:id="p001_tr_1_tl_16"/>Mademoiselle Marian[n]e Breslauer 
+               <lb xml:id="p001_tr_1_tl_17"/>Hôtel St. Peter 
+               <lb xml:id="p001_tr_1_tl_18"/>Zürich 
+               <lb xml:id="p001_tr_1_tl_19"/>Suisse 
+               <lb xml:id="p001_l"/>PARIS – 115 
+               <lb xml:id="p001_l_2"/>15<hi rendition="#sup">30</hi> 
+               <lb xml:id="p001_l_3"/>2 · VI 
+               <lb xml:id="p001_tr_1_tl_11"/>1933 
+               <lb xml:id="p001_l_1"/>R. DES SAINTS-PERES</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0066_002.tif"/>
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0066_003.tif"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_1"/>Paris Hotel Jacob 
+               <lb xml:id="p003_tr_1_tl_2"/>am 2.Juni (beinahe sollten wir in Dax sein) 
+               <lb xml:id="p003_tr_1_tl_3"/>Ja, Marianne-heute sollst du also in meiner lieben umstritte 
+               <lb xml:id="p003_tr_1_tl_4" break="no"/>nen Vaterstadt einlaufen-samt dem Wagen. <hi rendition="#g">Natürlich</hi></p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> ist es 
+               <lb xml:id="p003_tr_1_tl_5"/>gut gegangen, nun aber kein Wort mehr vom Schutzblech-ausser dass 
+               <lb xml:id="p003_tr_1_tl_6"/>Du dem Muff einschärfst, dass eben die Versicherung und nicht ich 
+               <lb xml:id="p003_tr_1_tl_7"/>es bezahle-und auch sonst dürfe die Rechnung nicht gross werden 
+               <lb xml:id="p003_tr_1_tl_8"/>weil ja dem Wagen nichts Wichtiges fehle. Gell? 
+               <lb xml:id="p003_tr_1_tl_9"/>Unsere Lillyagentin <hi rendition="#g">hat</hi></p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> geschrieben,weiss Gott-und der Photomann 
+               <lb xml:id="p003_tr_1_tl_10"/>sei zufrieden, ja angetan von den Bildern. Nur: Mehr Typen...ich ant 
+               <lb xml:id="p003_tr_1_tl_11" break="no"/>wortete ihr dass die Typen beim Regenwetter in Mauselöchern säsen 
+               <lb xml:id="p003_tr_1_tl_12"/>und wir hären (sic) ,auch in Loyola, eben unser Bestes getan. Im Uebrigen 
+               <lb xml:id="p003_tr_1_tl_13"/>schreib ihr doch selbst noch. Paris ist natürlich ganz herrlich, 
+               <lb xml:id="p003_tr_1_tl_14"/>und um die Zeitschrift wird gekämpft. Es wird wohl mit einem 
+               <lb xml:id="p003_tr_1_tl_15"/>Versuch auf die Dauer eines Quartals enden, aber alles säuberlich 
+               <lb xml:id="p003_tr_1_tl_16"/>festgelegt damit auch ich quasi gesichert bin.Die Voraussetzungen 
+               <lb xml:id="p003_tr_1_tl_17"/>sind eben im Moment zu günstig, das stimmt schon-und einwenig Mut 
+               <lb xml:id="p003_tr_1_tl_18"/>gehört auch dazu. Nun bespreche ich alles morgen noch mit dem Jean 
+               <lb xml:id="p003_tr_1_tl_19"/>Schlumberger, und mit Verlegern der Klaus-dann wird man sehen. 
+               <lb xml:id="p003_tr_1_tl_20"/>Wie geht es F. und Dir, Herzchen, schreib doch noch hierher. Und 
+               <lb xml:id="p003_tr_1_tl_21"/>vielleicht rufst du doch meine Mutter mal an,erzählst tüchtig vom 
+               <lb xml:id="p003_tr_1_tl_22"/>Wagenmalheur und von der Seriosität meiner Pariser Reise-Beweggrün 
+               <lb xml:id="p003_tr_1_tl_23" break="no"/>de (von Manns tunlich nichts) und wie schön wir gearbeitet hätten, 
+               <lb xml:id="p003_tr_1_tl_24"/>wahrheitsgemäss. Tel. Zürich 16924 169-aber nur wenns dir recht ist. 
+               <lb xml:id="p003_tr_1_tl_25"/>Hat das Geld gelangt? Mir schon, aber knapp. Und adieu-es war <hi rendition="#g">sehr</hi></p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_26"/>schön, der Erfolg darf nicht ausbleiben --- 
+               <lb xml:id="p003_tr_1_tl_27"/>Deine 
+               <lb xml:id="p003_tr_1_tl_28"/>Annemarie 
+               <lb xml:id="p003_tr_1_tl_29"/>P.S. Die Zeitschrift wird nur mit einem 
+               <lb xml:id="p003_tr_1_tl_30"/>guten Verlag gemacht. Ev. in Holland.</p>
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0066_004.tif"/></div>
+       </body>
+    </text>
+ </TEI>
