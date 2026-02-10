@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0065" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0065#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0065</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0065_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0065_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_2"/>Fräulein Marian[n]e Breslauer 
+               <lb xml:id="p001_tr_1_tl_3"/>Rheinbabenallee 29 
+               <lb xml:id="p001_tr_1_tl_4"/>Berlin-Dahlem 
+               <lb xml:id="p001_tr_1_tl_1"/>ZÜRICH</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0065_002.tif"/>
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0065_003.tif"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_1"/>Bocken bei Horgen 
+               <lb xml:id="p003_tr_1_tl_2"/>20. Dez. 32 
+               <lb xml:id="p003_tr_1_tl_3"/>Marianne, wie sind wohl unsere 
+               <lb xml:id="p003_tr_1_tl_4"/>Aufnahmen auf der Landstrasse 
+               <lb xml:id="p003_tr_1_tl_5"/>geworden? Der "Dame" würdig? 
+               <lb xml:id="p003_tr_1_tl_6"/>Es ging mit der Zeit nicht mehr, 
+               <lb xml:id="p003_tr_1_tl_7"/>sonst hätte ich Dich noch angerufen, 
+               <lb xml:id="p003_tr_1_tl_8"/>mit dem alten Wagen bin ich dan[n] 
+               <lb xml:id="p003_tr_1_tl_9"/>hinter Bayreuth ziemlich verun 
+               <lb xml:id="p003_tr_1_tl_10" break="no"/>glückt – der Wagen sieht scheusslich 
+               <lb xml:id="p003_tr_1_tl_11"/>aus u. musste dort stehen bleiben. 
+               <lb xml:id="p003_tr_1_tl_12"/>Ich wurde, leicht verstört, nach 
+               <lb xml:id="p003_tr_1_tl_13"/>Nürnberg gebracht u. kam erst gestern 
+               <lb xml:id="p003_tr_1_tl_14"/>nach Hause. Sehr ärgerlich war es, 
+               <lb xml:id="p003_tr_1_tl_15"/>u. traurig wegen dem braven alten Wagen. 
+               <lb xml:id="p003_tr_1_tl_16"/>Wie geht es Claudia? Ich habe mich 
+               <lb xml:id="p003_tr_1_tl_17"/>ungern damit abgefunden sie nicht 
+               <lb xml:id="p003_tr_1_tl_18"/>selbst empfangen u. haben zu dürfen.</p>
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0065_004.tif"/>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_1_tl_1"/>Ich will jetzt, ganz ungestört, an 
+               <lb xml:id="p004_tr_1_tl_2"/>Jerry arbeiten. Es wird doch 
+               <lb xml:id="p004_tr_1_tl_3"/>ein schönes Buch – 
+               <lb xml:id="p004_tr_1_tl_4"/>Bitte, kan[n]st Du mir die Photos 
+               <lb xml:id="p004_tr_1_tl_5"/>schicken? Und gern noch ein 
+               <lb xml:id="p004_tr_1_tl_6"/>paar Abzüge von jener Aufnahme 
+               <lb xml:id="p004_tr_1_tl_7"/>im Ullstein-Atelier (die ich aber, 
+               <lb xml:id="p004_tr_1_tl_8"/>endlich, auch bezahlen werde!) 
+               <lb xml:id="p004_tr_1_tl_9"/>Geht es Dir gut? Ich wünsche Dir 
+               <lb xml:id="p004_tr_1_tl_10"/>recht schöne Weitmachtstage. Und 
+               <lb xml:id="p004_tr_1_tl_11"/>vielen Dank für die Photos. 
+               <lb xml:id="p004_tr_1_tl_12"/>Deine 
+               <lb xml:id="p004_tr_1_tl_13"/>An[n]emarie 
+               <lb xml:id="p004_tr_1_tl_14"/>P.S. Ich denke noch an das Dorf Dahlem.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
