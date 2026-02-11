@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0068"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0068</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0068_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0068_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0068_001.tif"/>
+            <milestone unit="textregion" xml:id="letter_0068_001_r"/>
+            <lb xml:id="letter_0068_001_l"/>HORGEN
+<lb xml:id="letter_0068_001_l_1"/>27.VII.33. 18
+<lb xml:id="letter_0068_001_l_2"/>VIII
+<lb xml:id="letter_0068_001_l_3"/>(ZÜRICH)<milestone unit="textregion" xml:id="letter_0068_001_tr_1"/>
+            <lb xml:id="letter_0068_001_tr_1_tl_1"/>[hs später]20 nach Nr. 4
+<lb xml:id="letter_0068_001_tr_1_tl_2"/>Frl. Marianne Breslauer
+<lb xml:id="letter_0068_001_tr_1_tl_3"/>Rhein Gabenallee [?] 29
+<lb xml:id="letter_0068_001_tr_1_tl_4"/>Berlin-Dahlem<pb xml:id="letter_0068_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0068_002.tif"/>
+            <pb xml:id="letter_0068_003"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0068_003.tif"/>
+            <milestone unit="textregion" xml:id="letter_0068_003_r"/>
+            <lb xml:id="letter_0068_003_tr_1_tl_1"/>BOCKEN
+<lb xml:id="letter_0068_003_tr_1_tl_2"/>OB HORGEN. ZÜRICHSEE.
+<lb xml:id="letter_0068_003_tr_1_tl_3"/>26. Juli
+<lb xml:id="letter_0068_003_tr_1_tl_4"/>Meine liebste Marianne, nun ist der
+<lb xml:id="letter_0068_003_tr_1_tl_5"/>Archäologische Aufsatz doch
+<lb xml:id="letter_0068_003_tr_1_tl_6"/>fertig geworden, u. voller Fach¬
+<lb xml:id="letter_0068_003_tr_1_tl_7"/>ausdruche u. neuer Ken[n]tnisse,
+<lb xml:id="letter_0068_003_tr_1_tl_8"/>u. so sachlich-journalistisch,
+<lb xml:id="letter_0068_003_tr_1_tl_9"/>so ohne schmückendes Beiwort
+<lb xml:id="letter_0068_003_tr_1_tl_10"/>die selbst Lilly es nicht
+<lb xml:id="letter_0068_003_tr_1_tl_11"/>besser täte! Aber, was den
+<lb xml:id="letter_0068_003_tr_2_tl_1"/>Herz-Fehler betrifft: wie
+<lb xml:id="letter_0068_003_tr_2_tl_2"/>käme ich bloss dazu? Wem
+<lb xml:id="letter_0068_003_tr_2_tl_3"/>soll ich das erzählt und
+<lb xml:id="letter_0068_003_tr_2_tl_4"/>behauptel haben: Kreidest du
+<lb xml:id="letter_0068_003_tr_2_tl_5"/>mich nicht ganz unrecht
+<lb xml:id="letter_0068_003_tr_2_tl_6"/>an?! Aber tu es nur, süsse
+<lb xml:id="letter_0068_003_tr_2_tl_7"/>Marianne, Dein süsser F.<pb xml:id="letter_0068_004"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0068_004.tif"/>
+            <milestone unit="textregion" xml:id="letter_0068_004_r"/>
+            <lb xml:id="letter_0068_004_tr_2_tl_1"/>macht nämlich alles
+<lb xml:id="letter_0068_004_tr_2_tl_2"/>wieder wett, so in
+<lb xml:id="letter_0068_004_tr_2_tl_3"/>Eintracht u. vortrefflich
+<lb xml:id="letter_0068_004_tr_2_tl_4"/>haben wir gestern zu
+<lb xml:id="letter_0068_004_tr_2_tl_5"/>Nacht gespeist, im Thalwil
+<lb xml:id="letter_0068_004_tr_2_tl_6"/>Rebstock, u. wir sind auch
+<lb xml:id="letter_0068_004_tr_2_tl_7"/>nicht schuld wen[n] Dir die
+<lb xml:id="letter_0068_004_tr_2_tl_8"/>Ohren nicht klingen, Du
+<lb xml:id="letter_0068_004_tr_2_tl_9"/>ulkiges Mädchen –<CONV tag="p">
+<lb xml:id="letter_0068_004_tr_2_tl_10"/>– Nun fahre ich gleich allein
+<lb xml:id="letter_0068_004_tr_1_tl_1"/>über den Gotthard, u. man
+<lb xml:id="letter_0068_004_tr_1_tl_2"/>kön[n]te so schön hintereinander
+<lb xml:id="letter_0068_004_tr_1_tl_3"/>u. zu zweit u. zu dritt fahen,
+<lb xml:id="letter_0068_004_tr_1_tl_4"/>... mach alles gut, sei fleissig
+<lb xml:id="letter_0068_004_tr_1_tl_5"/>wo ich es nicht bin —</CONV><CONV tag="p">
+<lb xml:id="letter_0068_004_tr_1_tl_6"/>doch liefere ich <PAGE tag="underlined">jeden</PAGE> Aufsatz
+<lb xml:id="letter_0068_004_tr_1_tl_7"/>prompt nach!</CONV><CONV tag="p">
+<lb xml:id="letter_0068_004_tr_1_tl_8"/>Schreibes gleich (hierher)</CONV>
+<lb xml:id="letter_0068_004_tr_1_tl_9"/>Verehrung, Deinen Eltern
+<lb xml:id="letter_0068_004_tr_1_tl_10"/>Zärtlichkeit Dir
+<lb xml:id="letter_0068_004_tr_1_tl_11"/>An[n]emarie<pb xml:id="letter_0068_005"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0068_005.tif"/>
+            <pb xml:id="letter_0068_006"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0068_006.tif"/>
+         </div>
+      </body>
+   </text>
+</TEI>
