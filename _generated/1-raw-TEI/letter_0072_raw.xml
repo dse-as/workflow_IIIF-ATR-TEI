@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0072"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0072</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0072_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0072_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0072_001.tif"/>
+            <milestone unit="textregion" xml:id="letter_0072_001_tr_1"/>
+            <lb xml:id="letter_0072_001_l"/>21 nach Nr. 7
+<lb xml:id="letter_0072_001_l_1"/>LENZERH[Verlust]
+<lb xml:id="letter_0072_001_l_2"/>28 34 [34 nachträglich mit pencil]
+<lb xml:id="letter_0072_001_tr_1_tl_4"/>Frl.. Marianne Breslauer
+<lb xml:id="letter_0072_001_tr_1_tl_5"/>Rheinbabenallee 29
+<lb xml:id="letter_0072_001_tr_1_tl_6"/><PAGE tag="underlined">Berlin-Dahlem</PAGE><pb xml:id="letter_0072_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0072_002.tif"/>
+            <pb xml:id="letter_0072_003"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0072_003.tif"/>
+            <milestone unit="textregion" xml:id="letter_0072_003_tr_1"/>
+            <lb xml:id="letter_0072_003_tr_1_tl_1"/>1934 [nachträglich, medium pencil - könnte stimmen, Dollfuss-Mord war am 25. Juli]<milestone unit="textregion" xml:id="letter_0072_003_tr_2"/>
+            <lb xml:id="letter_0072_003_tr_2_tl_1"/>Lenzerheide, 28. Juli<CONV tag="p">
+<lb xml:id="letter_0072_003_tr_2_tl_2"/>Liebes Mariannchen, bist Du wirklich in der Grosstadt, magst
+<lb xml:id="letter_0072_003_tr_2_tl_3"/>Du sie wirklich? Ich zweifle an ihr, nicht an Dir, mein Herzens¬
+<lb xml:id="letter_0072_003_tr_2_tl_4"/>kind – und glaube nach wie vor, für mich war das nichts. Jch
+<lb xml:id="letter_0072_003_tr_2_tl_5"/>muss nicht so in die Versuchungen <PAGE tag="strikethrough">zu</PAGE> rennen. Dafür bekommt der
+<lb xml:id="letter_0072_003_tr_2_tl_6"/>Kind natürlich jetzt, d.h. in acht Tagen, viele gute Photos, und
+<lb xml:id="letter_0072_003_tr_2_tl_7"/>hat als Auskunftgeber den Fred. Jch meinerseits reise ja nach
+<lb xml:id="letter_0072_003_tr_2_tl_8"/>Osten, und habe wieder viel vor. Es ist gut. Es ist gut. Rede ich
+<lb xml:id="letter_0072_003_tr_2_tl_9"/>mir ein.</CONV><CONV tag="p">
+<lb xml:id="letter_0072_003_tr_2_tl_10"/>Hör zu – es ist wieder <CONV tag="g">grässlich</CONV> zugegangen, und was in
+<lb xml:id="letter_0072_003_tr_2_tl_11"/>Wien geschah hat uns tief verstört. Was lest Jhr darüber? Was
+<lb xml:id="letter_0072_003_tr_2_tl_12"/>wird <CONV tag="g">demnächst</CONV> aus der Welt?</CONV><CONV tag="p">
+<lb xml:id="letter_0072_003_tr_2_tl_13"/>Noch reise ich, teil allein, teils mit E. – und dem Niederländer,
+<lb xml:id="letter_0072_003_tr_2_tl_15"/>Pässe und Täler auf- und ab. Und so ist das Leben schön ...</CONV><CONV tag="p">
+<lb xml:id="letter_0072_003_tr_2_tl_16"/>Nein, ich will Deinen Neid nicht erwecken.</CONV> <CONV tag="p">
+<lb xml:id="letter_0072_003_tr_2_tl_17"/>Liebstes, kannst Du mit von <CONV tag="g">dem</CONV> Bild, Du weisst, das Wölfflin'¬
+<lb xml:id="letter_0072_003_tr_2_tl_18"/>sche ist gemeint, nun endgültig gegen Abrechnung, noch zehn
+<lb xml:id="letter_0072_003_tr_2_tl_19"/>kleinere Kopien senden, etwa in Postkartengrösse – und dann einige
+<lb xml:id="letter_0072_003_tr_2_tl_20"/>etwa vier – vom Wagen, in ganzer Längsseite. Das wäre reizend
+<lb xml:id="letter_0072_003_tr_2_tl_21"/>von Dir, doch müsst ich es jetzt, vor dem 14. August haben.</CONV>
+<lb xml:id="letter_0072_003_tr_2_tl_22"/>Grüsse wen Du magst. Sei bedacht von Herzen. Einmal tun wir es
+<lb xml:id="letter_0072_003_tr_2_tl_23"/>dann wieder zusammen, die Reise und Arbeit. Jch bin Dir treu
+<lb xml:id="letter_0072_003_tr_2_tl_24"/>gesinnt. Grüsse die Deinen und ihn –
+<lb xml:id="letter_0072_003_tr_2_tl_25"/>Deine
+<lb xml:id="letter_0072_003_tr_2_tl_26"/>An[n]emarie<pb xml:id="letter_0072_004"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0072_004.tif"/>
+         </div>
+      </body>
+   </text>
+</TEI>
