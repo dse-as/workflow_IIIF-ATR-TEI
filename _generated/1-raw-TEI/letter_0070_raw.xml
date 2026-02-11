@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0070"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0070</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0070_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0070_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0070_001.tif"/>
+            <milestone unit="textregion" xml:id="letter_0070_001_tr_2"/>
+            <lb xml:id="letter_0070_001_tr_2_tl_4"/>24. [restlicher Stempel unleserlich]<milestone unit="textregion" xml:id="letter_0070_001_tr_1"/>
+            <lb xml:id="letter_0070_001_tr_1_tl_1"/>Frl. Marianne Breslauer
+<lb xml:id="letter_0070_001_tr_1_tl_2"/>Rhein habenallee 29
+<lb xml:id="letter_0070_001_tr_1_tl_3"/><PAGE tag="underlined">Berlin-Dahlem</PAGE>
+<lb xml:id="letter_0070_001_tr_1_tl_4"/>Allemagne<pb xml:id="letter_0070_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0070_002.tif"/>
+            <milestone unit="textregion" xml:id="letter_0070_002_tr_2"/>
+            <lb xml:id="letter_0070_002_tr_2_tl_2"/>Istanbul
+<lb xml:id="letter_0070_002_tr_2_tl_1"/>25.11.1933<pb xml:id="letter_0070_003"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0070_003.tif"/>
+            <milestone unit="textregion" xml:id="letter_0070_003_r"/>
+            <lb xml:id="letter_0070_003_tr_2_tl_1"/>Ankara 22. Nov. 33<CONV tag="p">
+<lb xml:id="letter_0070_003_tr_2_tl_2"/>Meine liebste Marianne! Wie geht es Dir
+<lb xml:id="letter_0070_003_tr_2_tl_3"/>den[n], warum haben wir die Türkei-Reise
+<lb xml:id="letter_0070_003_tr_2_tl_4"/>nicht zusam[m]en unternom[m]en? Obwohl
+<lb xml:id="letter_0070_003_tr_2_tl_5"/>die Plotos – es <PAGE tag="underlined">muss</PAGE> gesagt sein - gar
+<lb xml:id="letter_0070_003_tr_2_tl_6"/>nicht einmal schlecht werden – ja, aus
+<lb xml:id="letter_0070_003_tr_2_tl_7"/>den anatolischen will Dr. Kübler schon
+<lb xml:id="letter_0070_003_tr_2_tl_8"/>etwas zusam[m]enstellen, so schreibt er ...</CONV><CONV tag="p">
+<lb xml:id="letter_0070_003_tr_2_tl_9"/>Ich bin schon 4½ Wochen in der Hochebenen-
+<lb xml:id="letter_0070_003_tr_2_tl_10"/>Hauptstadt u. lebe wie ein alteingewohnter
+<lb xml:id="letter_0070_003_tr_2_tl_11"/>Ancyraner, ken[n]e jede Mauer, reite jeden Tag, fahre
+<lb xml:id="letter_0070_003_tr_2_tl_12"/>den Ford meiner Gastgeber die mir bei einem
+<lb xml:id="letter_0070_003_tr_2_tl_13"/>Fieberanfällchen das Leben gerettet haben ...</CONV><CONV tag="p">
+<lb xml:id="letter_0070_003_tr_1_tl_1"/>Weisst Du, zum Photo ist es ein <PAGE tag="underlined">grosses</PAGE> Land:
+<lb xml:id="letter_0070_003_tr_1_tl_2"/>Kamele gegen leere Him[m]el, halie [heilige ?] Berge, Ruinen,
+<lb xml:id="letter_0070_003_tr_1_tl_3"/>mächtige Mauern, Kurdenfrauen mit hohen
+<lb xml:id="letter_0070_003_tr_1_tl_4"/>Turbanen –</CONV><CONV tag="p">
+<lb xml:id="letter_0070_003_tr_1_tl_5"/>Seit 2 Tagen hundeelend-kalt. Wir natürlich nicht
+<lb xml:id="letter_0070_003_tr_1_tl_6"/>dafür angezogen. Aber in 8 Tagen bin ich in Syrien,
+<lb xml:id="letter_0070_003_tr_1_tl_7"/>da soll es besser sein. Wen[n] Du mir zu
+<lb xml:id="letter_0070_003_tr_1_tl_8"/>Weihnachten nach
+<lb xml:id="letter_0070_003_tr_1_tl_9"/>BEYROUTH – Service des Antiquités – einen
+<lb xml:id="letter_0070_003_tr_1_tl_10"/>Brief mit Palästina-Empfehlungen spendieren,
+<lb xml:id="letter_0070_003_tr_1_tl_11"/>kön[n]test?</CONV><CONV tag="p">
+<lb xml:id="letter_0070_003_tr_1_tl_12"/>Ausserdem, bitte schön einige mittelgrosse Kopien
+<lb xml:id="letter_0070_003_tr_1_tl_14"/>des Ullstein-Glanz-Bildes [add from above: an mich], – u. eine grosse
+<lb xml:id="letter_0070_003_l"/>an meine Grossmama:</CONV><CONV tag="p">
+<lb xml:id="letter_0070_003_tr_1_tl_17"/>Frau General Wille, Bocken bei Horgen.</CONV><pb xml:id="letter_0070_004"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0070_004.tif"/>
+            <milestone unit="textregion" xml:id="letter_0070_004_r"/><CONV tag="p">
+<lb xml:id="letter_0070_004_tr_2_tl_1"/>u. – wen[n] es geht – mir auch noch vom <PAGE tag="continued">Wagen</PAGE>
+<lb xml:id="letter_0070_004_tr_2_tl_2"/><PAGE tag="continued">mit mir im Reiseanzug</PAGE> ein paar Abzüge – ich
+<lb xml:id="letter_0070_004_tr_2_tl_3"/>brauche beständig Plotos u. habe nie
+<lb xml:id="letter_0070_004_tr_2_tl_4"/>welche!</CONV><CONV tag="p">
+<lb xml:id="letter_0070_004_tr_2_tl_5"/>Marian[n]chen, ich hoffe natürlich, dass wir
+<lb xml:id="letter_0070_004_tr_2_tl_6"/>im April meine Photos zusam[m]en
+<lb xml:id="letter_0070_004_tr_2_tl_7"/>vergrössern – u. ausschneide – was bis Januar
+<lb xml:id="letter_0070_004_tr_2_tl_9"/><PAGE tag="strikethrough">gemacht</PAGE> [add from above: geknipst]  wird, verarbeitet Ganz u. Co. in
+<lb xml:id="letter_0070_004_tr_2_tl_10"/>Zürich u. Fred Pasternek (der im Jan. nach
+<lb xml:id="letter_0070_004_tr_2_tl_11"/>Deutschl. fährt) in Berlin –</CONV> [vertical space]<CONV tag="p">
+<lb xml:id="letter_0070_004_tr_1_tl_1"/>Wo treibst Du Dich umher? Ich möchte, in
+<lb xml:id="letter_0070_004_tr_1_tl_2"/>der Schweiz. Hörst zu Erikas Pheffer¬
+<lb xml:id="letter_0070_004_tr_1_tl_3"/>mühlen erfolg? Ist das schön!?</CONV><CONV tag="p">
+<lb xml:id="letter_0070_004_tr_1_tl_4"/>Adieu, sag dem F. ein gutes Essen mit
+<lb xml:id="letter_0070_004_tr_1_tl_5"/>ihm wäre zu wünschen – schreib
+<lb xml:id="letter_0070_004_tr_1_tl_6"/>nach Beyrouth, liebes Mädchen Marian[n]e,
+<lb xml:id="letter_0070_004_tr_1_tl_7"/>u. sei umarmt!</CONV><CONV tag="p">
+<lb xml:id="letter_0070_004_tr_1_tl_8"/>[Der Ignazius begleitet mich mit dem
+<lb xml:id="letter_0070_004_tr_1_tl_9"/>Pilgerstab]</CONV>
+<lb xml:id="letter_0070_004_tr_1_tl_10"/>Deine
+<lb xml:id="letter_0070_004_tr_1_tl_11"/>An[n]emarie</div>
+      </body>
+   </text>
+</TEI>
