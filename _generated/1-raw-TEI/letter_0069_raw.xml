@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0069"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0069</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0069_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0069_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0069_001.tif"/>
+            <milestone unit="textregion" xml:id="letter_0069_001_r"/>
+            <lb xml:id="letter_0069_001_l"/>ZÜRICH HORGEN
+<lb xml:id="letter_0069_001_l_1"/>28. VIII. 33 · 17<milestone unit="textregion" xml:id="letter_0069_001_tr_1"/>
+            <lb xml:id="letter_0069_001_tr_1_tl_1"/>Frl. Marianne Breslauer
+<lb xml:id="letter_0069_001_tr_1_tl_2"/>Rheinbahrenallee 29
+<lb xml:id="letter_0069_001_tr_1_tl_3"/>Berlin-Dahlem<pb xml:id="letter_0069_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0069_002.tif"/>
+            <pb xml:id="letter_0069_003"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0069_003.tif"/>
+            <milestone unit="textregion" xml:id="letter_0069_003_r"/>
+            <lb xml:id="letter_0069_003_tr_2_tl_1"/>Bocken am 27.8.33<CONV tag="p">
+<lb xml:id="letter_0069_003_tr_2_tl_2"/>Marianne, Allerliebste: ich war gleich am ersten
+<lb xml:id="letter_0069_003_tr_2_tl_3"/>Vormittag bei der Zürcher Ill. – u. weil nun
+<lb xml:id="letter_0069_003_tr_2_tl_4"/>das Scheussliche mit Ullstein vorbei ist,
+<lb xml:id="letter_0069_003_tr_2_tl_5"/>war der freundliche Chefredakteur gerade
+<lb xml:id="letter_0069_003_tr_2_tl_6"/>muntergelaunt aus den Ferien zurück.
+<lb xml:id="letter_0069_003_tr_1_tl_1"/>Er hat loyola angenom[m]en u. eine
+<lb xml:id="letter_0069_003_tr_1_tl_2"/>Kinderserie die ich ihm morgen beschriftet
+<lb xml:id="letter_0069_003_tr_1_tl_3"/>ins Haus trage. An die Schweiz. Ill. sandte
+<lb xml:id="letter_0069_003_tr_1_tl_4"/>ich Andorra weil das doch toll aktuell
+<lb xml:id="letter_0069_003_tr_1_tl_5"/>ist augenblicklich. Ich arbeite auch seit
+<lb xml:id="letter_0069_003_tr_1_tl_6"/>2 Tagen nur darüber, habe die neuen
+<lb xml:id="letter_0069_003_tr_1_tl_7"/>Times–Berichte u. mache einen aufregenden
+<lb xml:id="letter_0069_003_tr_1_tl_8"/>Aufsatz für den Radio.</CONV>
+<lb xml:id="letter_0069_003_tr_1_tl_9"/>F. sah ich erst ganz Schuell in E.s Vortrag
+<lb xml:id="letter_0069_003_tr_1_tl_10"/>der sehr hübsch war, u. den Leuten
+<lb xml:id="letter_0069_003_tr_1_tl_11"/>gefielen Eris Kindergeschichten enorm.<pb xml:id="letter_0069_004"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0069_004.tif"/>
+            <milestone unit="textregion" xml:id="letter_0069_004_tr_1"/>
+            <lb xml:id="letter_0069_004_tr_1_tl_1"/>Sonst bin ich aber nicht vergnügt
+<lb xml:id="letter_0069_004_tr_1_tl_2"/>weil alles so düster aussieht, u.
+<lb xml:id="letter_0069_004_tr_1_tl_3"/>wir sind die verlorenen Kinder
+<lb xml:id="letter_0069_004_tr_1_tl_4"/>im Wald ...<CONV tag="p">
+<lb xml:id="letter_0069_004_tr_1_tl_5"/>Kom[m] <PAGE tag="underlined">recht</PAGE> <PAGE tag="underlined">bald</PAGE>, Marian[n]e, aber vom
+<lb xml:id="letter_0069_004_tr_1_tl_6"/>6. bis circa 15. bin ich gar nicht
+<lb xml:id="letter_0069_004_tr_1_tl_7"/>da. Telefoniere doch der Lilly
+<lb xml:id="letter_0069_004_tr_1_tl_8"/>meine Taten u. nun müsse sie das
+<lb xml:id="letter_0069_004_tr_1_tl_9"/>ihre tun, ich schicke das Restmaterial
+<lb xml:id="letter_0069_004_l"/>bald zurück. Was macht die
+<lb xml:id="letter_0069_004_tr_1_tl_12"/>Serie der Berl. Ill.?</CONV>
+<lb xml:id="letter_0069_004_tr_1_tl_13"/>Adieu, liebste Marianne, ich bin Dir
+<lb xml:id="letter_0069_004_tr_1_tl_14"/>zärtlich gesinnt!
+<lb xml:id="letter_0069_004_tr_1_tl_15"/>Deine
+<lb xml:id="letter_0069_004_tr_1_tl_16"/>Annemarie</div>
+      </body>
+   </text>
+</TEI>
