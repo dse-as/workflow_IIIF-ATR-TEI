@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0071" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0071#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0071</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0071_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0071_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l"/>[stamp place unclear, ev. Jerusalem; Marke: Palestine] 
+               <lb xml:id="p001_l_1"/>[stamp date unclear] 
+               <lb xml:id="p001_tr_1_tl_2"/>Fräulein Marianne Breslauer 
+               <lb xml:id="p001_tr_1_tl_3"/>Rheinbabenallee [?] 29 
+               <lb xml:id="p001_tr_1_tl_4"/>Berlin-Dahlem 
+               <lb xml:id="p001_tr_1_tl_5"/>Allemagne</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0071_002.tif"/>
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0071_003.tif"/>
+            <milestone unit="textregion" xml:id="p003_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_l"/>Jerusalem, 25.1.34 
+               <lb xml:id="p003_l_1"/>Adr. Bagdad, c/o Th. Cook 
+               <lb xml:id="p003_l_2"/>Mein geliebtes Marian[n]chen,</p>
+            <p> 
+               <lb xml:id="p003_l_3"/>es hat sich, zu meiner Freude, doch ergeben dass ich 
+               <lb xml:id="p003_l_4"/>für 2 Tage Jerusalem die Goldene sah – u. es sei 
+               <lb xml:id="p003_l_5"/>Dir sehr gedankt, dass Du mich zu Dr. Reifenberg 
+               <lb xml:id="p003_l_6"/>geschickt hast den[n] nun weiss ich schon dass 
+               <lb xml:id="p003_l_7"/>ich, wenn nichts sehr Wichtiges mich zurück 
+               <lb xml:id="p003_l_8" break="no"/>ruft, von Persien aus hierher fahren werde. 
+               <lb xml:id="p003_l_9"/>Du weisst, man liebt Gerona [=Girona] u. hast [hasst?] Huesca 
+               <lb xml:id="p003_l_10"/>u. es bleibt geheimnisvoll weshalb – so 
+               <lb xml:id="p003_l_11"/>weiss ich noch nicht oder musste nachdenken, 
+               <lb xml:id="p003_l_12"/>weshalb es mich hier so anzieht u. mit 
+               <lb xml:id="p003_l_13"/>Fieber der Zuneigung erfüllt – Aber so ist's.</p>
+            <p> 
+               <lb xml:id="p003_l_14"/>Ich fliege jetzt nach Bagdad. 
+               <lb xml:id="p003_l_15"/>Der Osten ist noch weit u. gross, u. ich liebe 
+               <lb xml:id="p003_l_16"/>ihn. Aber nach Euch, versteht sich, habe ich 
+               <lb xml:id="p003_l_17"/>oft Heimweh.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_l_18"/>Adieu, Grüsse, Umarmung 
+               <lb xml:id="p003_l_19"/>Deein 
+               <lb xml:id="p003_l_20"/>An[n]emarie 
+               <lb xml:id="p003_l_21"/>Liebe Marianne</p>
+            <p> 
+               <lb xml:id="p003_l_22"/>Ihre Freundin ist reizend, und ich freue mich über die 
+               <lb xml:id="p003_l_23"/>Gelegenheit einmal wieder an Sie schreiben zu können.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_l_24"/>Lassen Sie es sich recht gut gehen! 
+               <lb xml:id="p003_l_25"/>Ihr 
+               <lb xml:id="p003_l_26"/>A.R.</p>
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0071_004.tif"/></div>
+       </body>
+    </text>
+ </TEI>
