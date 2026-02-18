@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0073" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0073#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0073</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0073_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0073_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_2_tl_1"/>THE JOINT EXPEDITION TO PERSIA 
+               <lb xml:id="p001_tr_2_tl_2"/>AMERICAN LEGATION 
+               <lb xml:id="p001_tr_2_tl_3"/>TEHERAN, PERSIA 
+               <lb xml:id="p001_l"/>TEHERAN 
+               <lb xml:id="p001_l_1"/>13. X [lost] 
+               <lb xml:id="p001_tr_2_tl_4"/>Via U.S. S. R. 
+               <lb xml:id="p001_tr_2_tl_5"/>[arabischer Schriftzug: Via USSR] 
+               <lb xml:id="p001_tr_2_tl_6"/>An Frl. Marianne Breslauer 
+               <lb xml:id="p001_tr_2_tl_7"/><del rend="overstrike">Rheinbabenallee 29</del> 
+               <lb xml:id="p001_tr_1_tl_1"/><hi rendition="#u">Berlin</hi>-Dahlem [Zeile durchgestrichen] 
+               <lb xml:id="p001_tr_1_tl_2"/>Hotel Paris-Dinard 
+               <lb xml:id="p001_tr_1_tl_4"/>29 Rue Lassette 29. 
+               <lb xml:id="p001_tr_1_tl_6"/><hi rendition="#u">Paris.</hi> 
+               <lb xml:id="p001_tr_1_tl_3"/><del rend="overstrike">Allemagne</del> 
+               <lb xml:id="p001_tr_1_tl_5"/>Frankreich</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0073_002.tif"/>
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0073_003.tif"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_1"/>THE RAY EXPEDITION 
+               <lb xml:id="p003_tr_1_tl_2"/>American Legation 
+               <lb xml:id="p003_tr_1_tl_3"/>Teheran, Persia 
+               <lb xml:id="p003_tr_1_tl_4"/>12. Okt. 34</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_5"/>Nicht als ob ich fein u. zivilisiert in der Gesandt 
+               <lb xml:id="p003_tr_1_tl_6" break="no"/>schaft wohnte – unsere som[m]erlichen Häuser liegen 
+               <lb xml:id="p003_tr_1_tl_7"/>vielmehr draussen in einem persischen Obstgarten, 
+               <lb xml:id="p003_tr_1_tl_8"/>Pavillons, recht kühl schon in der vorgerückten Jahres 
+               <lb xml:id="p003_tr_1_tl_9" break="no"/>zeit – u. die Grosstadt besuchen wir nur zum 
+               <lb xml:id="p003_tr_1_tl_10"/>Moham[m]edanischen Week-end. Sonst wird von früh 
+               <lb xml:id="p003_tr_1_tl_11"/>morgens (– um halb 6 Uhr begin[n]t die Tätigkeit) bis 
+               <lb xml:id="p003_tr_1_tl_12"/>zum Son[n]untergang gegraben u. klassifiziert, u. 
+               <lb xml:id="p003_tr_1_tl_13"/>ich kom[m]e mir eben so gelehrt wie fleissig vor. Hast 
+               <lb xml:id="p003_tr_1_tl_14"/>Du mich schon für verschollen erklärt u. in 
+               <lb xml:id="p003_tr_1_tl_15"/>Deinem Herzen aufgegeben? Ich war auch einen 
+               <lb xml:id="p003_tr_1_tl_16"/>Monat lang <del rend="overstrike">im [unleserlich]</del> in Russland, zuletzt 
+               <lb xml:id="p003_tr_1_tl_17"/>im Kaukasus, u. habe dürftige Photos 
+               <lb xml:id="p003_tr_1_tl_18"/>gemacht –</p>
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0073_004.tif"/>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>            <p> 
+               <lb xml:id="p004_tr_1_tl_1"/>Es ging ein wenig strapaziös zu, bis ich hier 
+               <lb xml:id="p004_tr_1_tl_2"/>landete – und heimreisen (den[n] unsere 
+               <lb xml:id="p004_tr_1_tl_3"/>Arbeit endet am 15. Nov.) will ich wohl 
+               <lb xml:id="p004_tr_1_tl_4"/>über das vertraute Baghdad u. Syrien – 
+               <lb xml:id="p004_tr_1_tl_5"/>Wo sehen wir uns den[n] wieder? Im 
+               <lb xml:id="p004_tr_1_tl_6"/>St. Peter [Hotel St. Peter (Zürich)]? In Sils beim Skilaufen? 
+               <lb xml:id="p004_tr_1_tl_7"/>Den[n] ein anderer Ort darf diesen Winter 
+               <lb xml:id="p004_tr_1_tl_8"/>zu sportlichen- u. beschaulichen Zwecken 
+               <lb xml:id="p004_tr_1_tl_9"/>nicht in Frage kom[m]en, nim[m] Dir das zu 
+               <lb xml:id="p004_tr_1_tl_10"/>Herzen! Grüsse Veilchen auch –</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_1_tl_11"/>u. sei geküsst,, liebes Marian[n]chen – 
+               <lb xml:id="p004_tr_1_tl_12"/>von Deiner 
+               <lb xml:id="p004_tr_1_tl_13"/>An[n]emarie</p>
+</div>
+       </body>
+    </text>
+ </TEI>
