@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0076"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0076</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0076_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0076_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0076_001.tif"/>
+            <milestone unit="textregion" xml:id="letter_0076_001_r"/>
+            <lb xml:id="letter_0076_001_l"/>Lahrtal 9. Aug.1935<pb xml:id="letter_0076_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0076_002.tif"/>
+            <milestone unit="textregion" xml:id="letter_0076_002_tr_1"/>
+            <lb xml:id="letter_0076_002_tr_1_tl_1"/>[del:]8032 ZÜRICH
+<lb xml:id="letter_0076_002_tr_1_tl_2"/>[del:]FREIESTR. 116<pb xml:id="letter_0076_003"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0076_003.tif"/>
+            <milestone unit="textregion" xml:id="letter_0076_003_tr_1"/>
+            <lb xml:id="letter_0076_003_tr_1_tl_1"/>Zeltlager im Lahr-Tal,
+<lb xml:id="letter_0076_003_tr_1_tl_2"/>2500 m. ü. M. 9. Aug. 35<CONV tag="p">
+<lb xml:id="letter_0076_003_tr_1_tl_3"/>Meine liebste Marian[n]e! Es ist ja ein richtiges, grosses
+<lb xml:id="letter_0076_003_tr_1_tl_4"/>u. freudiges Vergnügen, Dir zu schreiben u. Deinen
+<lb xml:id="letter_0076_003_tr_1_tl_5"/>Brief zu bekom[m]en, mit allen Som[m]er- u. Mädchen-
+<lb xml:id="letter_0076_003_tr_1_tl_6"/>Nachrichten. Auch bei Boni [Erich Maria Remarque] wart Ihr inzwischen?
+<lb xml:id="letter_0076_003_tr_1_tl_7"/>Er schreibt mir natürlich nicht, ich auch ihm nicht,
+<lb xml:id="letter_0076_003_tr_1_tl_8"/>– so als seien wir böse miteinander bis wir uns
+<lb xml:id="letter_0076_003_tr_1_tl_9"/>den nächste Mal sehen u. uns dann sehr freuen! –
+<lb xml:id="letter_0076_003_tr_1_tl_10"/>Von Margot hörte ich längen Zeit nichts, sie schreibt selten,
+<lb xml:id="letter_0076_003_tr_1_tl_11"/>aber dann ungemein liebe Briefe. Ach Ihr Lieben. Es
+<lb xml:id="letter_0076_003_tr_1_tl_12"/>scheint, dass ein etwas [unterstr.:]verwöhntes ? Wesen meiner Art
+<lb xml:id="letter_0076_003_tr_1_tl_13"/>um einmal nicht auskom[m]en kan[n] ohne einige zärtliche
+<lb xml:id="letter_0076_003_tr_1_tl_14"/>Gegenwart – u. deshalb ist es so, dass es mir immer
+<lb xml:id="letter_0076_003_tr_1_tl_15"/>weniger gut geht, u. ich schrecklich niedergeschlagen
+<lb xml:id="letter_0076_003_tr_1_tl_16"/>bin, u. dem Tag nur mit äusserstem Kräfteverbrauch
+<lb xml:id="letter_0076_003_tr_1_tl_17"/>etwas Leidliches, (einige gute geschriebene Seiten etwa)
+<lb xml:id="letter_0076_003_tr_1_tl_18"/>abgewin[n]en kann. Dazu das Malariagift in den Knochen,
+<lb xml:id="letter_0076_003_tr_1_tl_19"/>u. dass man nicht fort [unterstr.:]kan[n], niemanden sehen [unterstr.:]kan[n],
+<lb xml:id="letter_0076_003_tr_1_tl_20"/>– wen[n] man es noch so sehr braucht!</CONV>
+<lb xml:id="letter_0076_003_tr_1_tl_21"/>Meine englischen Freunde, (ja: die [unterstr.:]sind reizend zu mir u.
+<lb xml:id="letter_0076_003_tr_1_tl_22"/>überhaupt) haben mich in dieses Zeltlager verschleppt –
+<lb xml:id="letter_0076_003_tr_1_tl_23"/>was für ein Tal, Marian[n]e, him[m]lisch u. in entzückender
+<lb xml:id="letter_0076_003_tr_1_tl_24"/>Weise irdisch – voll von Nomaden u. abendlichen
+<lb xml:id="letter_0076_003_tr_1_tl_25"/>Herden. Ich habe fischen gelernt – u. auch wieder<pb xml:id="letter_0076_004"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0076_004.tif"/>
+            <milestone unit="textregion" xml:id="letter_0076_004_tr_1"/>
+            <lb xml:id="letter_0076_004_tr_1_tl_1"/>viel Geduld. Ich werde ein kleines Buch machen.
+<lb xml:id="letter_0076_004_tr_1_tl_2"/>das glückliche Tal“ – u. möchte, wie wurden es
+<lb xml:id="letter_0076_004_tr_1_tl_3"/>zusammen mit Deinen Bildern machen! —<CONV tag="p">
+<lb xml:id="letter_0076_004_tr_1_tl_4"/>Ende des Monats kom[m]t ein[del:]e amerikanisches Mädchen
+<lb xml:id="letter_0076_004_tr_1_tl_5"/>von Claude – wen[n] ich es mit der Gesundheit machen
+<lb xml:id="letter_0076_004_tr_1_tl_6"/>kan[n], hole ich sie in Baghdad – Später kom[m]t vielleicht
+<lb xml:id="letter_0076_004_tr_1_tl_7"/>Klaus – u. noch später fahre ich heim. (Claude würde
+<lb xml:id="letter_0076_004_tr_1_tl_8"/>dan[n] im März nachkom[m]en). Höre, wirst Du im Winter,
+<lb xml:id="letter_0076_004_tr_1_tl_9"/>zwischen Januar u. März, nach Sils kom[m]en? Oder in
+<lb xml:id="letter_0076_004_tr_1_tl_10"/>die Nähe, mit F. – so dass wir oft zusam[m]en sein
+<lb xml:id="letter_0076_004_tr_1_tl_11"/>kön[n]en? Ich hoffe sehr auf Margot – ja, dies süsse Mädchen
+<lb xml:id="letter_0076_004_tr_1_tl_12"/>– sie sollte etwas [unterstr.:]vorhaben, aber vielleicht braucht zu
+<lb xml:id="letter_0076_004_tr_1_tl_13"/>einfache sehr viel Zeit.</CONV><CONV tag="p">
+<lb xml:id="letter_0076_004_tr_1_tl_14"/>Denke an Sils, Marian[n]e! Im Winter ist es doch herrlich
+<lb xml:id="letter_0076_004_tr_1_tl_15"/>dort oben – u. dass ich, wenn ich in Europas Ländern bin,
+<lb xml:id="letter_0076_004_tr_1_tl_16"/>Dich wiedersehen will, ist doch nur selbstredend, Du
+<lb xml:id="letter_0076_004_tr_1_tl_17"/>Liebe! –</CONV><CONV tag="p">
+<lb xml:id="letter_0076_004_tr_1_tl_18"/>Ich bekom[m]e zuweilen ein gekritzendes Briefchen von Inge –
+<lb xml:id="letter_0076_004_tr_1_tl_19"/>– es ist scheusslich, scheusslich, u. dass man nichts tun
+<lb xml:id="letter_0076_004_tr_1_tl_20"/>kan[n] – hoffentlich ist ihre Freundin Jen[n]y Palffy bei ihr —</CONV> [vertical space]
+<lb xml:id="letter_0076_004_tr_1_tl_21"/>Adieu, Liebste – grüsse den F. sehr, u. schreibe
+<lb xml:id="letter_0076_004_tr_1_tl_22"/>bald wieder. Ich tu es auch –
+<lb xml:id="letter_0076_004_tr_1_tl_23"/>Deine
+<lb xml:id="letter_0076_004_tr_1_tl_24"/>Annemarie</div>
+      </body>
+   </text>
+</TEI>
