@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0079" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0079#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0079</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0079_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0079_003.tif"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Sils-Baselgia, 26. Juni 
+               <lb xml:id="p001_tr_1_tl_2"/>Liebste Marianne,</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_3"/>wir sind ja noch enorm herumgereist, haben den Streik in 
+               <lb xml:id="p001_tr_1_tl_4"/>Marseille und allerhand Aerger in Jtalien erlebt,bevor wir 
+               <lb xml:id="p001_tr_1_tl_5"/>hier im Frieden dieses überirdischen Tales landen durften, – 
+               <lb xml:id="p001_tr_1_tl_6"/>dafür geniessen wir es <hi rendition="#g">sehr</hi>, die Giehse und Erika wohnen 
+               <lb xml:id="p001_tr_1_tl_7"/>noch hier, ich bin fleissig wie seit langem nicht, und auch 
+               <lb xml:id="p001_tr_1_tl_8"/>optimistisch, ohne rechten Grund, –unsere gemeinsame Publikation 
+               <lb xml:id="p001_tr_1_tl_9"/>in der Zürcher Jll. freute mich auch sehr, –aber <hi rendition="#g">bitte</hi>, Du<hi rendition="#g"> 
+                  <lb xml:id="p001_tr_1_tl_10"/>musst</hi> mir doch sämtliche neuen Bildchen, sowohl im Kostüm 
+               <lb xml:id="p001_tr_1_tl_11"/>wie im Abendkleid,schicken ...</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_12"/>Jch bleibe vorläufig hier, fahre nur, um Papa zu sehen (dem es 
+               <lb xml:id="p001_tr_1_tl_13"/>viel besser geht!) einmal kurz nach Zürich, auch wegen 
+               <lb xml:id="p001_tr_1_tl_14"/>Verlagsärger. Jch werde Kübler vorschlagen, ob man, statt einer 
+               <lb xml:id="p001_tr_1_tl_15"/>Schweizer Nummer, sich nicht mit Engadiner Beiträgen, sowohl 
+               <lb xml:id="p001_tr_1_tl_16"/>alten wie neuen Sachen (also auch Photos von Dir eventuell) 
+               <lb xml:id="p001_tr_1_tl_17"/>begnügen könnte, –d.h. uns[handschriftlich unterstrichen] nur diesen Teil übertragen, denn 
+               <lb xml:id="p001_tr_1_tl_18"/>für die ganze Nummer und entsprechend die ganze Schweiz wür 
+               <lb xml:id="p001_tr_1_tl_19" break="no"/>den wir mindestens sechs Wochen brauchen, und ich möchte 
+               <lb xml:id="p001_tr_1_tl_20"/>ungern hier weg, weil ich an einem Roman arbeite. Jch berichte 
+               <lb xml:id="p001_tr_1_tl_21"/>Dir dann gleich, ob er darauf einging, –das Engadin kenne ich 
+               <lb xml:id="p001_tr_1_tl_22"/>so gut, dass dadurch die Arbeit für uns erleichtert würde, 
+               <lb xml:id="p001_tr_1_tl_23"/>hättest Du Lust zu etwas dieser Art? Adieu, <hi rendition="#g">liebe</hi> Marianne, 
+               <lb xml:id="p001_tr_1_tl_24"/>natürlich müssen wir uns ja bald sehen–</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_25"/>Sei gegrüsst u. geküsst![ab hier handschriftlich] 
+               <lb xml:id="p001_tr_1_tl_26"/>Deine 
+               <lb xml:id="p001_tr_1_tl_27"/>An[n]emarie</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0079_004.tif"/>
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0079_001.tif"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_2"/>Frau Marianne Breslauer–Feilchenfeld 
+               <lb xml:id="p003_tr_1_tl_3"/>Keizersgracht 109 
+               <lb xml:id="p003_l_1"/>Holland 
+               <lb xml:id="p003_l_2"/><hi rendition="#u">Amsterdam</hi></p>
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0079_002.tif"/></div>
+       </body>
+    </text>
+ </TEI>
