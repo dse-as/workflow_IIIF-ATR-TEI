@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0077"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0077</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0077_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0077_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0077_001.tif"/>
+            <milestone unit="textregion" xml:id="letter_0077_001_r"/>
+            <lb xml:id="letter_0077_001_l"/>CHUR 1
+<lb xml:id="letter_0077_001_l_2"/>30 · XII
+<lb xml:id="letter_0077_001_l_3"/>1935<milestone unit="textregion" xml:id="letter_0077_001_tr_1"/>
+            <lb xml:id="letter_0077_001_tr_1_tl_1"/>Frl. Marianne Breslauer
+<lb xml:id="letter_0077_001_tr_1_tl_2"/>Jägerallee 25
+<lb xml:id="letter_0077_001_tr_1_tl_3"/>Berlin-<PAGE tag="underlined">Potsdam</PAGE><pb xml:id="letter_0077_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0077_002.tif"/>
+            <pb xml:id="letter_0077_003"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0077_003.tif"/>
+            <milestone unit="textregion" xml:id="letter_0077_003_tr_1"/>
+            <lb xml:id="letter_0077_003_tr_1_tl_1"/>Chur – 30 – 12 – 35<CONV tag="p">
+<lb xml:id="letter_0077_003_tr_1_tl_2"/>Liebste Marianne, nun fahre ich mit Hündchen Doktor
+<lb xml:id="letter_0077_003_tr_1_tl_3"/>nach Sils, u. dort soll u. muss es mir besser
+<lb xml:id="letter_0077_003_tr_1_tl_4"/>gehen. Sicher sehen wir uns bald wieder, Du
+<lb xml:id="letter_0077_003_tr_1_tl_5"/>u. Margot, u. ich – Margot, so hoffe ich, taucht am
+<lb xml:id="letter_0077_003_tr_1_tl_6"/>15. auf. Basel war sehr hübsch, u. wohltuend,
+<lb xml:id="letter_0077_003_tr_1_tl_7"/>ich bin heute früh gar nicht gern weg gefahren.
+<lb xml:id="letter_0077_003_tr_1_tl_8"/>Eri ist sehr gerührt wegen des Körbchens, ich
+<lb xml:id="letter_0077_003_tr_1_tl_9"/>auch wegen Bemühung – leider kan[n] ich keinen
+<lb xml:id="letter_0077_003_tr_1_tl_10"/>Brief schreiben, ich habe solche Rückenschmerzen
+<lb xml:id="letter_0077_003_tr_1_tl_11"/>u. muss mich einfach hinlegen. Pyrenäen ist eben
+<lb xml:id="letter_0077_003_tr_1_tl_12"/>sehr lange her ...</CONV><CONV tag="p">
+<lb xml:id="letter_0077_003_tr_1_tl_13"/>Heute mittags war ich schnell bei Kübler, natürlich
+<lb xml:id="letter_0077_003_tr_1_tl_14"/>sprachung wir reizend von Dir.</CONV>
+<lb xml:id="letter_0077_003_tr_1_tl_15"/>Liebste ich wünsche Dir, was Dein Herz für
+<lb xml:id="letter_0077_003_tr_1_tl_16"/>1936 begehrt. Grüsse auch den Guten –
+<lb xml:id="letter_0077_003_tr_1_tl_17"/>Boni würde ich auch sehr gern wiedersehen.
+<lb xml:id="letter_0077_003_tr_1_tl_18"/>Umarmung, u. Kuss.
+<lb xml:id="letter_0077_003_tr_1_tl_19"/>Annemarie
+<lb xml:id="letter_0077_003_tr_1_tl_20"/>bitte kom[m] nach Sils oder ganz in unsere Nähe!<pb xml:id="letter_0077_004"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0077_004.tif"/>
+         </div>
+      </body>
+   </text>
+</TEI>
