@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0078" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0078#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0078</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0078_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0078_003.tif"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>HOTEL 
+               <lb xml:id="p001_tr_1_tl_2"/>TIXAIRE 
+               <lb xml:id="p001_l"/>PUIGCERDA [Der Ortsname ist mit einem Pfeil unterstrichen, der auf ein Ausrufezeichne und ein herzumrandetes M zeigt] 
+               <lb xml:id="p001_tr_1_tl_3"/>DIRECTOR PROPIETARIO: 
+               <lb xml:id="p001_tr_1_tl_4"/>JOSÉ M. VIDAL 
+               <lb xml:id="p001_tr_1_tl_5"/>TELÉFONO N° 24</p>
+
+            <milestone unit="textregion" xml:id="p001_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_2_tl_1"/>25. Mai 1936 
+               <lb xml:id="p001_tr_2_tl_3"/>Meine liebste Marianne,</p>
+            <p> 
+               <lb xml:id="p001_tr_2_tl_4"/>Wir wollten eigentlich nach Marokko fahren, statt 
+               <lb xml:id="p001_tr_2_tl_5"/>dessen habe ich 10 Tage in Paris–Dinard – ohne 
+               <lb xml:id="p001_tr_2_tl_6"/>Dich u. F.- gewohnt u. auf Eri gewartet, u. jetzt 
+               <lb xml:id="p001_tr_2_tl_7"/>stehen der holländische Ford u. der gelbe Merzedes 
+               <lb xml:id="p001_tr_2_tl_8"/>– wo denn wohl: in Puigcerda, ganz nahe von 
+               <lb xml:id="p001_tr_2_tl_9"/>Andorra u. [Seo de Urgel] [Ort namens: La Seu d'Urgell?] u. unseren lieblichen 
+               <lb xml:id="p001_tr_2_tl_10"/>Gegenden ... Weil ich nun natürlich so sehr 
+               <lb xml:id="p001_tr_2_tl_11"/>an Dich denken muss, bei spätem Abendessen 
+               <lb xml:id="p001_tr_2_tl_12"/>mit 10 Gängen u. Rotwein, muss ich es Dich 
+               <lb xml:id="p001_tr_2_tl_13"/>auch wissen lassen ! Dank auch für Kärtchen, 
+               <lb xml:id="p001_tr_2_tl_14"/>ich gratuliere Euch sehr, Ihr lieben, Alten, 
+               <lb xml:id="p001_tr_2_tl_15"/>Verheirateten, Ehrbaren – Wo sehen wir uns 
+               <lb xml:id="p001_tr_2_tl_16"/>wieder? Wir, Eri, ich u. Anverwandte, 
+               <lb xml:id="p001_l_2"/>sind wohl ab 15. od. 20. Juni in Sils,               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0078_004.tif"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/> </p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+            <p> 
+               <lb xml:id="p002_tr_1_tl_1"/>morgen in Barcelona, u. dan[n] auf Majorha 
+               <lb xml:id="p002_tr_1_tl_2"/>in einem feinen Hotel dessen Name ich 
+               <lb xml:id="p002_tr_1_tl_3"/>nicht so genau weiss – schreibe mir doch 
+               <lb xml:id="p002_tr_1_tl_4"/>über Bocken, wenn Du mich etwas 
+               <lb xml:id="p002_tr_1_tl_5"/>wissen lassen willst.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_6"/>LIEBE Marian[n]e – 
+               <lb xml:id="p002_tr_1_tl_7"/>u. wir reisen auch wieder einmal zusam[m]en! 
+               <lb xml:id="p002_tr_1_tl_8"/>Adios 
+               <lb xml:id="p002_tr_1_tl_9"/>Annemarie</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0078_001.tif"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_1"/>Frau Marianne <hi rendition="#u">Breslauer</hi> 
+               <lb xml:id="p003_tr_1_tl_2"/>Jägerallee 25 
+               <lb xml:id="p003_tr_1_tl_3"/><hi rendition="#u">Berlin–Potsdam</hi> 
+               <lb xml:id="p003_tr_1_tl_4"/>Allemagne</p>
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0078_002.tif"/>
+            <milestone unit="textregion" xml:id="p004_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_l"/>HOTEL 
+               <lb xml:id="p004_l_1"/>TIXAIRE 
+               <lb xml:id="p004_l_2"/>PUIGCERDA</p>
+</div>
+       </body>
+    </text>
+ </TEI>
