@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0074" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0074#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0074</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0074_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0074_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_2"/><hi rendition="#u">Via URSS</hi> 
+               <lb xml:id="p001_l"/>[lost]AN [TEHERAN] 
+               <lb xml:id="p001_l_1"/>18. VI. 35 
+               <lb xml:id="p001_tr_1_tl_7"/>Frl. Marianne Breslauer 
+               <lb xml:id="p001_tr_1_tl_9"/>Jägerallee 25 
+               <lb xml:id="p001_tr_1_tl_10"/><hi rendition="#u">Potsdam</hi> bei Berlin 
+               <lb xml:id="p001_tr_1_tl_11"/><hi rendition="#u">Allemagne.</hi></p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0074_002.tif"/>
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0074_003.tif"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_1"/>Teheran, Iran 
+               <lb xml:id="p003_tr_1_tl_3"/>Legation de France 
+               <lb xml:id="p003_tr_1_tl_2"/>17. Juni</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_4"/>Liebste, <hi rendition="#u">allerliebste</hi> Marian[n]e! Ich hatte einfach keine 
+               <lb xml:id="p003_tr_1_tl_5"/>Adresse von Dir, ein dum[m]er Zustand – u. wie Du 
+               <lb xml:id="p003_tr_1_tl_6"/>es sagst, es war doch keine Glegenheit da, Dich 
+               <lb xml:id="p003_tr_1_tl_7"/>hier oder dort u. dan[n] u. wan[n] zu treffen u. zu 
+               <lb xml:id="p003_tr_1_tl_8"/>umhalsen – es ist traurig genug! Bitte, frage mich 
+               <lb xml:id="p003_tr_1_tl_9"/>über nichts aus, u. tu nicht, als hätte sich 
+               <lb xml:id="p003_tr_1_tl_10"/>allzu viel verändert. Mein Man[n] ist reizend u. ein 
+               <lb xml:id="p003_tr_1_tl_11"/>sehr guter Freund –  aber das Leben hier will 
+               <lb xml:id="p003_tr_1_tl_12"/>ertragen sein. Ich bin zu allein. Und damit genug 
+               <lb xml:id="p003_tr_1_tl_13"/>davon ...</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_14"/>Ich wünsche Dir auch schrecklich viel Gutes, Marian[n]e. 
+               <lb xml:id="p003_tr_1_tl_15"/>Nur dass Du dafür so sehr viel begabter bist 
+               <lb xml:id="p003_tr_1_tl_16"/>als ich – ich bin ja doch nur ein Pilz, oft mit 
+               <lb xml:id="p003_tr_1_tl_17"/>der bekan[n]ten Voraussetzung.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_18"/>Aber, Ihr seid auch alle nicht mehr heiter? Während 
+               <lb xml:id="p003_tr_1_tl_19"/>ich von stillen Hochland Asiens meine Novellen 
+               <lb xml:id="p003_tr_1_tl_20"/>fertig dichte – sie gelingen sehr gut. Findest Du</p>
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0074_004.tif"/>
+            <milestone unit="textregion" xml:id="p004_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_1_tl_1"/>es richtig, den Band "Der Falkenkäfig" (nach einer der Novellen) 
+               <lb xml:id="p004_tr_1_tl_2"/>zu taufen, ihn bei Querido erscheinen zu lassen, u. den 
+               <lb xml:id="p004_tr_1_tl_3"/>Autor "Annemarie Clark" zu taufen, um keine Partei mehr 
+               <lb xml:id="p004_tr_1_tl_4"/>mitaufzurufen u. zu kränken?</p>
+            <p> 
+               <lb xml:id="p004_tr_1_tl_5"/>Dein Bild von Lisa [Cramm] u. ihrer hübschen Kollegin war 
+               <lb xml:id="p004_tr_1_tl_6"/>hinreissend, u. rief Degas wach, fand ich [womöglich ist das gemeint: https://fotostiftung.zetcom.net/de/collection/item/102565/]. Wirst Du 
+               <lb xml:id="p004_tr_1_tl_7"/>diesen netten Boni sehen? Und wan[n] wieder unsere 
+               <lb xml:id="p004_tr_1_tl_8"/>Maria u. Margot? –</p>
+            <p> 
+               <lb xml:id="p004_tr_1_tl_9"/>Schreib eben wieder einmal, u. umarme Feilchen. Wir 
+               <lb xml:id="p004_tr_1_tl_10"/>Wollen doch hoffen, dass Sils eine Insel des Friedens 
+               <lb xml:id="p004_tr_1_tl_11"/>bleibt – nim[m] Dir gleich vor, ab Januar <hi rendition="#u">dort</hi> Ski 
+               <lb xml:id="p004_tr_1_tl_12"/>zu langen. Wir sind doch Freunde –</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_l"/>Aufrichtige Zärtlichkeit sendet Dir: 
+               <lb xml:id="p004_tr_2_tl_2"/>A –</p>
+</div>
+       </body>
+    </text>
+ </TEI>
