@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0082" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0082#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0082</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0082_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0082_003.tif"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>16.3.37 
+               <lb xml:id="p001_tr_1_tl_2"/>Liebste, –</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_3"/>ich danke Dir tausendmal für die 
+               <lb xml:id="p001_tr_1_tl_4"/>Zauber–Bildchen – von der "Magie 
+               <lb xml:id="p001_tr_1_tl_5"/>an der Wand", "Dokterei, "Pibe mit 
+               <lb xml:id="p001_tr_1_tl_6"/>Kinderwagen", u. "Garry Cooper", hätte 
+               <lb xml:id="p001_tr_1_tl_7"/>ich natürlich zu gern noch Kopien – 
+               <lb xml:id="p001_tr_1_tl_8"/>u. ebenso von dem "Schönen" (Sie 
+               <lb xml:id="p001_tr_1_tl_9"/>und Er) das furchtbar viel verlangt 
+               <lb xml:id="p001_tr_1_tl_10"/>wird. Viellnicht kan[n]st Du Absagen 
+               <lb xml:id="p001_tr_1_tl_11"/>oder kleinere Vergrösserungen gleich 
+               <lb xml:id="p001_tr_1_tl_12"/>schicken? Natürlich gegen Bezahlung, 
+               <lb xml:id="p001_tr_1_tl_13"/>de[n]n wir sind doch Geschäftspartner, 
+               <lb xml:id="p001_tr_1_tl_14"/>– hoffe ich: für U. S. A.! –</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_15"/>Vor allem musst Du aber gleich 
+               <lb xml:id="p001_tr_1_tl_16"/>irgendeine feine Vergrösserung 
+               <lb xml:id="p001_tr_1_tl_17"/>von mir schicken an:</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_18"/>S. Excellence Fakhry Pascha 
+               <lb xml:id="p001_l"/>Légation d'Egypte 
+               <lb xml:id="p001_tr_1_tl_21"/>Place des Etats Unis 
+               <lb xml:id="p001_tr_1_tl_22"/>Paris</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0082_004.tif"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p> 
+               <lb xml:id="p002_tr_1_tl_1"/>Das ist furchtbar dringlich u. wichtig 
+               <lb xml:id="p002_tr_1_tl_2"/>– weil dieser Molch u. Moloch nur 
+               <lb xml:id="p002_tr_1_tl_3"/>noch nützlich sein soll, u. furcht 
+               <lb xml:id="p002_tr_1_tl_4" break="no"/>bar böse wird, wen[n] ich mein 
+               <lb xml:id="p002_tr_1_tl_5"/>erstes Versprechen nicht erfülle!</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_6"/>Hast Du Spivy aufgetrieben? Grüsse 
+               <lb xml:id="p002_tr_1_tl_7"/>u. küsse sie, (letzteres wen[n] möglich) 
+               <lb xml:id="p002_tr_1_tl_8"/>sie wohnt: 5, Rue Copernie .u. 
+               <lb xml:id="p002_tr_1_tl_9"/>dort wohnt auch die reizende 
+               <lb xml:id="p002_tr_1_tl_10"/>Margot Taylor, Modell für Vogue, 
+               <lb xml:id="p002_tr_1_tl_11"/>die Du dann wohl gleich photo 
+               <lb xml:id="p002_tr_1_tl_12" break="no"/>graphieren musst!</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_13"/>Ich würde mehr u. lustiger schreiben, 
+               <lb xml:id="p002_tr_1_tl_14"/>bin aber seit dem Tag Deines Telefons 
+               <lb xml:id="p002_tr_1_tl_15"/>richtig krankte – mit zuerst ganz 
+               <lb xml:id="p002_tr_1_tl_16"/>viel Fieber u. jetzt lästig schlei 
+               <lb xml:id="p002_tr_1_tl_17" break="no"/>chender Temperatur – ich war 
+               <lb xml:id="p002_tr_1_tl_18"/>eben zu übermütig u. <hi rendition="#u">protzte</hi> zu viel 
+               <lb xml:id="p002_tr_1_tl_19"/>mit meiner Toll-Gesundheit!! –</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_20"/>Habt es sehr schön – u. 
+               <lb xml:id="p002_tr_1_tl_21"/>kom[m]t bald wieder! 
+               <lb xml:id="p002_tr_1_tl_22"/>Kuss u. Liebe – 
+               <lb xml:id="p002_tr_1_tl_23"/>A</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0082_001.tif"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_2"/>Pays-Bas 
+               <lb xml:id="p003_tr_1_tl_5"/>Madame Marianne Feilchenfeldt 
+               <lb xml:id="p003_tr_1_tl_6"/>Hotel Paris-Dinard 
+               <lb xml:id="p003_tr_1_tl_7"/>29, Rue Cassette 
+               <lb xml:id="p003_tr_1_tl_8"/>Paris 
+               <lb xml:id="p003_tr_1_tl_9"/>109 Keizerspacht 
+               <lb xml:id="p003_tr_1_tl_10"/>Amsterdam 
+               <lb xml:id="p003_l"/>SILS-BASELGIA 
+               <lb xml:id="p003_l_2"/>(GRAUBÜNDEN) 
+               <lb xml:id="p003_l_1"/>17.III.37</p>
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0082_002.tif"/>
+            <milestone unit="textregion" xml:id="p004_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_l"/>PAR[lost] 
+               <lb xml:id="p004_l_1"/>10 * 
+               <lb xml:id="p004_l_2"/>18·III 
+               <lb xml:id="p004_l_3"/>1937</p>
+</div>
+       </body>
+    </text>
+ </TEI>
