@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0085" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0085#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0085</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0085_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0085_003.tif"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>CHESA D<hi rendition="#sup">R</hi> RUPPANNER 
+               <lb xml:id="p001_tr_1_tl_2"/>SAMADEN 
+               <lb xml:id="p001_tr_1_tl_5"/>ENGADIN 
+               <lb xml:id="p001_tr_1_tl_6"/>18. Mai 
+               <lb xml:id="p001_tr_1_tl_7"/>Liebste Marian[n]e,</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_8"/>es ist wirklich nötig u. ernst gemeint: 
+               <lb xml:id="p001_tr_1_tl_9"/><hi rendition="#u">Du musst mir Photos schick</hi>en. 
+               <lb xml:id="p001_tr_1_tl_10"/>Ist es eine grosse Mühe? 
+               <lb xml:id="p001_tr_1_tl_11"/>Ich brauche: 1) 3 Kopien des alten Meister 
+               <lb xml:id="p001_tr_1_tl_12" break="no"/>Stücks aus dem Ullstein–Laboratorium (Du 
+               <lb xml:id="p001_tr_1_tl_13"/>weisst, die berühmte Photo!) nicht zu grosse 
+               <lb xml:id="p001_tr_1_tl_14"/>Abzüge.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_15"/>2) Etwa 6 mittelgrosse Abzüge des neuen 
+               <lb xml:id="p001_tr_1_tl_16"/>Meisterstücks: in Bocken aufgenom[m]en, 
+               <lb xml:id="p001_tr_1_tl_17"/>Profil.</p>
+            <p> 
+               <lb xml:id="p001_l_1"/>3) Eine Serie v. Bildern, die Dir gut 
+               <lb xml:id="p001_tr_1_tl_21"/>erscheinen – auch solche aus Sils, in 
+               <lb xml:id="p001_tr_1_tl_22"/>langen Hosen – u. solche aus dem St. Peter. 
+               <lb xml:id="p001_tr_1_tl_23"/>Jedenfalls einen ansehnlichen Vorrat – 
+               <lb xml:id="p001_tr_1_tl_24"/>Ich brauche sie erstens für Freunde, 
+               <lb xml:id="p001_tr_1_tl_25"/>zweitens dringend für den Verlag der 
+               <lb xml:id="p001_tr_1_tl_26"/>das Saladin–Buch macht, u. für 
+               <lb xml:id="p001_tr_1_tl_27"/>Kübler. Ich <hi rendition="#u">zahle</hi> sie Dir sofort!! –</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0085_004.tif"/>
+            <milestone unit="textregion" xml:id="p002_r_89"/>            <p> 
+               <lb xml:id="p002_tr_2_tl_1"/>Siehst Du: 
+               <lb xml:id="p002_tr_2_tl_2"/>ich bin mütig[?] in ärztliche 
+               <lb xml:id="p002_l"/>Obhut gegangen. Es ist sehr 
+               <lb xml:id="p002_tr_2_tl_5"/>mühsam u. qualvoll, vor allem 
+               <lb xml:id="p002_tr_2_tl_6"/>weil man am Lebensmut 
+               <lb xml:id="p002_tr_2_tl_7"/>verzweifelt – u. blindlings 
+               <lb xml:id="p002_tr_2_tl_8"/>glauben muss, der kom[m]e zurück. 
+               <lb xml:id="p002_tr_3_tl_1"/>Dabei kan[n] ich mit bestem Wissen 
+               <lb xml:id="p002_tr_3_tl_2"/>nicht dichten – d. h. nicht am 
+               <lb xml:id="p002_tr_3_tl_3"/>Buch weiter schreiben, das doch 
+               <lb xml:id="p002_tr_3_tl_4"/>fertig werden soll.</p>
+            <p> 
+               <lb xml:id="p002_tr_3_tl_5"/>Trotzdem: wen[n] auch alles schief 
+               <lb xml:id="p002_tr_3_tl_6"/>geht, bis ich am 15. Juni mit 
+               <lb xml:id="p002_tr_3_tl_7"/>Erika, Klaus, der Giehse im neuen 
+               <lb xml:id="p002_tr_1_tl_1"/>Häuschen in Sils – u. das wird 
+               <lb xml:id="p002_tr_1_tl_2"/>sehr schön.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_3"/>Wan[n] taucht Ihr lieben wieder 
+               <lb xml:id="p002_tr_1_tl_4"/>auf? Oder muss ich vorher nach 
+               <lb xml:id="p002_tr_1_tl_5"/>Amsterdam kom[m]en, wie ich Euch 
+               <lb xml:id="p002_tr_1_tl_6"/>umarmen u. sehen will?</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_7"/>Kuss – auch für F. 
+               <lb xml:id="p002_tr_1_tl_8"/>Dein alle u. liebe 
+               <lb xml:id="p002_tr_1_tl_9"/>An[n]emarie</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0085_005.tif"/>
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0085_006.tif"/>
+            <pb xml:id="p005" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0085_001.tif"/>
+            <milestone unit="textregion" xml:id="p005_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p005_tr_1_tl_1"/>Frau Marianne Feilchenfeldt 
+               <lb xml:id="p005_tr_1_tl_2"/><del rend="overstrike">Keizersgracht 109 
+                  <lb xml:id="p005_tr_1_tl_4"/>Amsterdam 
+                  <lb xml:id="p005_tr_1_tl_6"/>Holland</del> 
+               <lb xml:id="p005_tr_1_tl_3"/>Hotel Paris–Dinard 
+               <lb xml:id="p005_tr_1_tl_5"/>29 Rue Lassette 
+               <lb xml:id="p005_tr_1_tl_7"/><hi rendition="#u">Paris (6</hi><hi rendition="#sup">e</hi><hi rendition="#u">).</hi> 
+               <lb xml:id="p005_tr_1_tl_8"/>Frauderijk.</p>
+
+            <pb xml:id="p006" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0085_002.tif"/></div>
+       </body>
+    </text>
+ </TEI>
