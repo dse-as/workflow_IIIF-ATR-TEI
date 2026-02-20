@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0426" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0426#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0426</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0426"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0426_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0426_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_tl_1"/>Die Vereinigten Staaten 
+               <lb xml:id="p001_r_tl_2"/>und die deutschen Siege 
+               <lb xml:id="p001_r_tl_3"/>Von Dr. Annemarie <hi rendition="#g">Clark</hi></p>
+
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_2_tl_1"/><hi rendition="#b">Nantucket</hi> (USA.), Mitte August.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_2"/>Die politischen Energien der Amerikaner scheinen 
+               <lb xml:id="p001_r_2_tl_3"/>zur Zeit völlig vom Wahlkampf für die im Novem 
+               <lb xml:id="p001_r_2_tl_4" break="no"/>ber fällige Präsidentschaftswahl in Anspruch ge 
+               <lb xml:id="p001_r_2_tl_5" break="no"/>nommen zu sein. Ausländische Beobachter, besonders 
+               <lb xml:id="p001_r_2_tl_6"/>Engländer, stellen dies mit einer gewissen Ent 
+               <lb xml:id="p001_r_2_tl_7" break="no"/>täuschung fest, nachdem es im Mai und Juni einige 
+               <lb xml:id="p001_r_2_tl_8"/>Wochen lang so aussah, als sei dieses Land von der 
+               <lb xml:id="p001_r_2_tl_9"/>Notwendigkeit überzeugt, auf die eine oder andere 
+               <lb xml:id="p001_r_2_tl_10"/>Weise in den "europäischen Konflikt" eingreifen und 
+               <lb xml:id="p001_r_2_tl_11"/>den totalen Sieg der fascistischen Staaten verhindern 
+               <lb xml:id="p001_r_2_tl_12"/>zu müssen. Die Wahl des Präsidenten bringt alle 
+               <lb xml:id="p001_r_2_tl_13"/>vier Jahre eine Periode "fiebriger" politischer Agita 
+               <lb xml:id="p001_r_2_tl_14" break="no"/>tion mit sich. Es schien wirklich ein Glied in der 
+               <lb xml:id="p001_r_2_tl_15"/>Kette der für Hitler glücklichen Umstände zu sein, 
+               <lb xml:id="p001_r_2_tl_16"/>daß die Vereinigten Staaten gerade im Kriegsjahre 
+               <lb xml:id="p001_r_2_tl_17"/>1940 wegen des Wahlkampfes außenpolitisch beinahe 
+               <lb xml:id="p001_r_2_tl_18"/>ausscheiden und lahm gelegt sind. Bis zur Er 
+               <lb xml:id="p001_r_2_tl_19" break="no"/>oberung von Holland und Belgien, – einem Er 
+               <lb xml:id="p001_r_2_tl_20" break="no"/>eignis, welches denn doch die Gemüter wach rüt 
+               <lb xml:id="p001_r_2_tl_21" break="no"/>telte –, hieß es sogar, Roosevelt werde sich, so 
+               <lb xml:id="p001_r_2_tl_22"/>lange seine Wiederwahl nicht gesichert sei, mit keinem 
+               <lb xml:id="p001_r_2_tl_23"/>Rüstungsprogramm hervortrauen, sondern sich als 
+               <lb xml:id="p001_r_2_tl_24"/>traditioneller amerikanischer "Isolationist" aus 
+               <lb xml:id="p001_r_2_tl_25" break="no"/>geben.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_26"/>Dies allerdings erwies sich als unmöglich. Heute 
+               <lb xml:id="p001_r_2_tl_27"/>vertreten beide Präsidentschaftskandidaten, der 
+               <lb xml:id="p001_r_2_tl_28"/>demokratische Roosevelt wie auch sein republikanischer 
+               <lb xml:id="p001_r_2_tl_29"/>Gegenspieler Willkie, den Standpunkt, Amerika 
+               <lb xml:id="p001_r_2_tl_30"/>müsse für alle Eventualitäten gerüstet sein, und die 
+               <lb xml:id="p001_r_2_tl_31"/>Vorwürfe seiner Gegner gegen Roosevelt in diesem 
+               <lb xml:id="p001_r_2_tl_32"/>Punkt erschöpfen sich darin, er habe schlecht gerüstet. 
+               <lb xml:id="p001_r_2_tl_33"/>Die Zeit der "Isolation" ist vorbei, kein Amerikaner 
+               <lb xml:id="p001_r_2_tl_34"/>glaubt mehr, sich auf das Schlagwort "Amerika den 
+               <lb xml:id="p001_r_2_tl_35"/>Amerikanern" zurückziehen und von den Welt 
+               <lb xml:id="p001_r_2_tl_36" break="no"/>händeln fernhalten zu können. Man kann leicht 
+               <lb xml:id="p001_r_2_tl_37"/>feststellen, daß die populären Zeitschriften und Maga 
+               <lb xml:id="p001_r_2_tl_38" break="no"/>zine in jeder Nummer irgendeinen Artikel bringen, 
+               <lb xml:id="p001_r_2_tl_39"/>der über Europa handelt. Die besten amerikanischen 
+               <lb xml:id="p001_r_2_tl_40"/>Journalisten, von Dorothy Thompson zu Vincent 
+               <lb xml:id="p001_r_2_tl_41"/>Sheean, schreiben über die Frage, welches die Wir 
+               <lb xml:id="p001_r_2_tl_42" break="no"/>kung eines totalen Sieges Hitlers auf die Ver 
+               <lb xml:id="p001_r_2_tl_43" break="no"/>einigten Staaten sein würde. Und diese Artikel sind 
+               <lb xml:id="p001_r_2_tl_44"/>es, die den größten Publikumserfolg haben. Ob 
+               <lb xml:id="p001_r_2_tl_45" break="no"/>wohl sich die Amerikaner vom ersten oder zweiten 
+               <lb xml:id="p001_r_2_tl_46"/>Schrecken wieder etwas erholt haben und nicht mehr 
+               <lb xml:id="p001_r_2_tl_47"/>fürchten, daß morgen schon die deutschen Fallschirm 
+               <lb xml:id="p001_r_2_tl_48" break="no"/>springer an ihrer ungeschützten Küste landen könn 
+               <lb xml:id="p001_r_2_tl_49" break="no"/>ten, frägt sich doch jeder Amerikaner: "Wie lange 
+               <lb xml:id="p001_r_2_tl_50"/>sind wir davor sicher? Werden wir uns eines Tages 
+               <lb xml:id="p001_r_2_tl_51"/>verteidigen müssen? Können wir uns überhaupt 
+               <lb xml:id="p001_r_2_tl_52"/>verteidigen?" Und der junge Amerikaner, der nun 
+               <lb xml:id="p001_r_2_tl_53"/>vielleicht im nächsten Jahr zum Militärdienst auf 
+               <lb xml:id="p001_r_2_tl_54" break="no"/>gerufen wird, fragt sich: "Will ich kämpfen? Und 
+               <lb xml:id="p001_r_2_tl_55"/>wenn ich darnach nicht mehr gefragt werde, wenn 
+               <lb xml:id="p001_r_2_tl_56"/>ich eines Tages darum kämpfen muß, um friedlich 
+               <lb xml:id="p001_r_2_tl_57"/>auf meiner Farm im Mittelwesten zu leben, ist 
+               <lb xml:id="p001_r_2_tl_58"/>dann dieses Land überhaupt noch eine Demokratie? 
+               <lb xml:id="p001_r_2_tl_59"/>Ich habe ja mit allerhand gerechnet, mit Sand 
+               <lb xml:id="p001_r_2_tl_60" break="no"/>stürmen, Trockenheit und Heuschreckenplage im 
+               <lb xml:id="p001_r_2_tl_61"/>Westen, mit Arbeitslosigkeit im Osten, mit dem 
+               <lb xml:id="p001_r_2_tl_62"/>Kampf um soziale Rechte in einem kapitalistischen 
+               <lb xml:id="p001_r_2_tl_63"/>Land, aber Krieg? Warum soll ein junger Mensch, 
+               <lb xml:id="p001_r_2_tl_64"/>warum sollen wir alle plötzlich unsere ganzen Kräfte 
+               <lb xml:id="p001_r_2_tl_65"/>für etwas einsetzen, was wir nicht gewollt haben, 
+               <lb xml:id="p001_r_2_tl_66"/>was uns nichts angeht?" Und darum fragen jetzt 
+               <lb xml:id="p001_r_2_tl_67"/>die Amerikaner unablässig: "Wer ist Hitler? Was 
+               <lb xml:id="p001_r_2_tl_68"/>für ein Mann ist er, wie ist es möglich, daß er ein 
+               <lb xml:id="p001_r_2_tl_69"/>ganzes, großes, europäisches Volk dazu brachte, alles 
+               <lb xml:id="p001_r_2_tl_70"/>andere zu vergessen, und jedes Opfer zu bringen, 
+               <lb xml:id="p001_r_2_tl_71"/>um diesen Krieg vorzubereiten? Denn so muß es 
+               <lb xml:id="p001_r_2_tl_72"/>doch sein, in Deutschland müssen sie unablässig mit 
+               <lb xml:id="p001_r_2_tl_73"/>allen Kräften sich gerüstet haben, sonst könnten sie 
+               <lb xml:id="p001_r_2_tl_74"/>ja nicht ein Land nach dem anderen, eine Armee 
+               <lb xml:id="p001_r_2_tl_75"/>nach der anderen besiegen. Die französischen und 
+               <lb xml:id="p001_r_2_tl_76"/>englischen Soldaten haben doch gewiß tapfer ge 
+               <lb xml:id="p001_r_2_tl_77" break="no"/>kämpft, die Belgier, die Norweger liebten doch ihr 
+               <lb xml:id="p001_r_2_tl_78"/>Vaterland und ihre Freiheit auch?"</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_79"/>Da es jeden Tag offensichtlicher wird, daß der 
+               <lb xml:id="p001_r_2_tl_80"/>Krieg sich nicht auf Europa beschränkt und nun schon 
+               <lb xml:id="p001_r_2_tl_81"/>von Indochina, den Philippinen, den Azoren, 
+               <lb xml:id="p001_r_2_tl_82"/>Mexiko die Rede ist, morgen von Neu-Guinea, ist 
+               <lb xml:id="p001_r_2_tl_83"/>es für die Amerikaner nur ein Schritt bis zu der 
+               <lb xml:id="p001_r_2_tl_84"/>entscheidenden und klärenden Frage: "Was würde 
+               <lb xml:id="p001_r_2_tl_85"/>der Sieg Hitlers für uns für Folgen nach sich 
+               <lb xml:id="p001_r_2_tl_86"/>ziehen?" Wie in jedem anderen Land, das bisher 
+               <lb xml:id="p001_r_2_tl_87"/>mit dieser Frage konfrontiert wurde, gibt es auch 
+               <lb xml:id="p001_r_2_tl_88"/>in den Vereinigten Staaten zwei Haltungen. 
+               <lb xml:id="p001_r_2_tl_89"/>Die erste ist die der "Befriedung" (appeasement), 
+               <lb xml:id="p001_r_2_tl_90"/>– Oberst Lindbergh ist dafür der typische Vertreter. 
+               <lb xml:id="p001_r_2_tl_91"/>Er gilt in Amerika als Fascist, ist ein Bewunderer 
+               <lb xml:id="p001_r_2_tl_92"/>der deutschen Luftwaffe, neigt aber gleichzeitig dazu, 
+               <lb xml:id="p001_r_2_tl_93"/>die "Nazigefahr" zu bagatellisieren. Die Lind 
+               <lb xml:id="p001_r_2_tl_94" break="no"/>berghianer erklären gemeinsam mit den Gegnern 
+               <lb xml:id="p001_r_2_tl_95"/>Roosevelts, Amerika sollte viel besser gerüstet sein, 
+               <lb xml:id="p001_r_2_tl_96"/>Präsident Roosevelt habe die für die nationale Ver 
+               <lb xml:id="p001_r_2_tl_97" break="no"/>teidigung bestimmten Gelder verschwendet, und es 
+               <lb xml:id="p001_r_2_tl_98"/>sei eine Schande, daß die Gewerkschaften durch die 
+               <lb xml:id="p001_r_2_tl_99"/>tolerante Haltung des Präsidenten zu solcher Macht 
+               <lb xml:id="p001_r_2_tl_100"/>gelangt seien, daß man jetzt bei der Durchführung 
+               <lb xml:id="p001_r_2_tl_101"/>eines Rüstungsprogramms auf ihren Widerstand 
+               <lb xml:id="p001_r_2_tl_102"/>gefaßt sein müsse, weil die Arbeiterschaft befürchte, 
+               <lb xml:id="p001_r_2_tl_103"/>ihre sozialen Vorrechte könnten unter einem solchen 
+               <lb xml:id="p001_r_2_tl_104"/>Vorwand geschmälert werden. Gleichzeitig ver 
+               <lb xml:id="p001_r_2_tl_105" break="no"/>treten diese Leute die Ansicht, England sei ohnehin 
+               <lb xml:id="p001_r_2_tl_106"/>schon so gut wie besiegt, es sei nutzlos, nach England
+               <milestone unit="textregion" xml:id="p001_r_3"/> 
+               <lb xml:id="p001_r_3_tl_1"/>Kriegsmaterial zu liefern, und warum sollten nicht 
+               <lb xml:id="p001_r_3_tl_2"/>ein starkes Amerika und ein starkes, unter deutscher 
+               <lb xml:id="p001_r_3_tl_3"/>Führung geeintes Europa sich verständigen können? 
+               <lb xml:id="p001_r_3_tl_4"/>Die andere Haltung ist davon bestimmt, daß man 
+               <lb xml:id="p001_r_3_tl_5"/>den deutschen Machtansprüchen und dem Sieg des 
+               <lb xml:id="p001_r_3_tl_6"/>fascistischen, dem demokratischen Gedanken in jedem 
+               <lb xml:id="p001_r_3_tl_7"/>Punkt entgegengesetzten Prinzip Widerstand leisten 
+               <lb xml:id="p001_r_3_tl_8"/>müsse. Wahrend die Lindberghianer sich damit be 
+               <lb xml:id="p001_r_3_tl_9" break="no"/>ruhigen, der Nationalsozialismus bedrohe alle an 
+               <lb xml:id="p001_r_3_tl_10" break="no"/>deren, aber niemals sie selbst und Amerika, realisieren 
+               <lb xml:id="p001_r_3_tl_11"/>ihre Opponenten, daß der Sieg der totalitären Staaten 
+               <lb xml:id="p001_r_3_tl_12"/>in Europa die Welt in zwei durch einen funda 
+               <lb xml:id="p001_r_3_tl_13" break="no"/>mentalen Antagonismus getrennte Hälften spalten 
+               <lb xml:id="p001_r_3_tl_14"/>werde, und daß nach einer englischen Niederlage nur 
+               <lb xml:id="p001_r_3_tl_15"/>noch die Demokratie der Vereinigten Staaten vor 
+               <lb xml:id="p001_r_3_tl_16" break="no"/>handen sein werde, um den unvermeidlichen Kampf 
+               <lb xml:id="p001_r_3_tl_17"/>auszufechten.</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_18"/>Es kann kein Zweifel darüber bestehen, daß die 
+               <lb xml:id="p001_r_3_tl_19"/>Vereinigten Staaten heute schon von der Aus 
+               <lb xml:id="p001_r_3_tl_20" break="no"/>breitung des europäischen Krieges, oder von seinen 
+               <lb xml:id="p001_r_3_tl_21"/>unvermeidlichen Auswirkungen auf die übrige Welt 
+               <lb xml:id="p001_r_3_tl_22"/>bedroht sind. Dieses Land hat in den letzten Jahren 
+               <lb xml:id="p001_r_3_tl_23"/>schon viel von seinem Prestige, dem Prestige einer 
+               <lb xml:id="p001_r_3_tl_24"/>Großmacht, eingebüßt. In Deutschland ist man 
+               <lb xml:id="p001_r_3_tl_25"/>überzeugt, daß Amerika bei der Durchführung der 
+               <lb xml:id="p001_r_3_tl_26"/>deutschen Welteroberungspläne kaum ein ernst 
+               <lb xml:id="p001_r_3_tl_27" break="no"/>haftes Hindernis sein wird. Roosevelt hat zu oft 
+               <lb xml:id="p001_r_3_tl_28"/>europäische Handlungen verurteilt, europäischen 
+               <lb xml:id="p001_r_3_tl_29"/>Staatsmännern in entscheidenden Stunden seinen 
+               <lb xml:id="p001_r_3_tl_30"/>Rat und Segen gegeben, oder seine moralische Miß 
+               <lb xml:id="p001_r_3_tl_31" break="no"/>billigung geäußert, und da Amerika nie gehandelt, 
+               <lb xml:id="p001_r_3_tl_32"/>nicht einmal die Bereitschaft geäußert hat, zu han 
+               <lb xml:id="p001_r_3_tl_33" break="no"/>deln, sind seine Botschaften heute sehr entwertet. 
+               <lb xml:id="p001_r_3_tl_34"/>Anhänger der "Pax Germanica" argumentieren 
+               <lb xml:id="p001_r_3_tl_35"/>denn auch, Europa sei ja auf friedlichem Wege 
+               <lb xml:id="p001_r_3_tl_36"/>nicht zu einigen gewesen, jetzt aber würden die Zoll 
+               <lb xml:id="p001_r_3_tl_37" break="no"/>schranken fallen, und heutzutage genüge eine Luft 
+               <lb xml:id="p001_r_3_tl_38" break="no"/>waffe und gut organisierte Polizeimacht des 
+               <lb xml:id="p001_r_3_tl_39"/>herrschenden Staates, um jede Revolte besiegter 
+               <lb xml:id="p001_r_3_tl_40"/>und entwaffneter Staaten zu verhindern. Dem wird 
+               <lb xml:id="p001_r_3_tl_41"/>entgegengehalten, daß eine auf Gewalt gegründete 
+               <lb xml:id="p001_r_3_tl_42"/>Ordnung nicht segensreich und nicht von Dauer sein 
+               <lb xml:id="p001_r_3_tl_43"/>könne. Ein Amerikaner kann natürlich darauf ant 
+               <lb xml:id="p001_r_3_tl_44" break="no"/>worten, daß es den amerikanischen Automobil 
+               <lb xml:id="p001_r_3_tl_45" break="no"/>fabrikanten, Weizenverkäufern und Arbeitern 
+               <lb xml:id="p001_r_3_tl_46"/>gleichgültig sein könne, ob sie ihre Waren mit einem 
+               <lb xml:id="p001_r_3_tl_47"/>"freien" oder einem von Deutschland dominierten 
+               <lb xml:id="p001_r_3_tl_48"/>Europa austauschen. Aber die Vision eines solchen 
+               <lb xml:id="p001_r_3_tl_49"/>friedlichen Austausches ist vielleicht ein Irrtum. 
+               <lb xml:id="p001_r_3_tl_50"/>Nach einem uneingeschränkten deutschen Sieg wür 
+               <lb xml:id="p001_r_3_tl_51" break="no"/>den Mexiko, das Karibische Meer, wahrscheinlich auch 
+               <lb xml:id="p001_r_3_tl_52"/>die kleinen Staaten Mittelamerikas Deutschland 
+               <lb xml:id="p001_r_3_tl_53"/>mindestens in der Form von "Einflußzonen" zu 
+               <lb xml:id="p001_r_3_tl_54" break="no"/>fallen. Auch die südamerikanischen Märkte würden 
+               <lb xml:id="p001_r_3_tl_55"/>Deutschland offenstehen. Auf den bisher britischen 
+               <lb xml:id="p001_r_3_tl_56"/>Malaiischen Inseln, im bisher französischen Indo 
+               <lb xml:id="p001_r_3_tl_57" break="no"/>china, im bisher holländischen Ostindien strecken die 
+               <lb xml:id="p001_r_3_tl_58"/>Japaner, geschützt durch die Niederlage ihrer euro 
+               <lb xml:id="p001_r_3_tl_59" break="no"/>päischen Partner, bereits die Hand aus. Um auch
+               <milestone unit="textregion" xml:id="p001_r_8"/> 
+               <lb xml:id="p001_r_8_tl_1"/>nur die für den Verkehr mit Ostasien lebenswichtigen 
+               <lb xml:id="p001_r_8_tl_2"/>Philippinen zu schützen, um überhaupt die in fünf 
+               <lb xml:id="p001_r_8_tl_3"/>Jahrzehnten gewonnene Position im Pazifik zu hal 
+               <lb xml:id="p001_r_8_tl_4" break="no"/>ten, müßte Amerika einen Seekrieg mit Japan aus 
+               <lb xml:id="p001_r_8_tl_5" break="no"/>fechten, wobei Japan alle Vorteile der Verkehrs 
+               <lb xml:id="p001_r_8_tl_6" break="no"/>linien und der durch keine französische oder englische 
+               <lb xml:id="p001_r_8_tl_7"/>Macht mehr beeinträchtigten Konzentration der 
+               <lb xml:id="p001_r_8_tl_8"/>Kräfte auf seiner Seite hätte. Diese Auseinander 
+               <lb xml:id="p001_r_8_tl_9" break="no"/>setzung im Osten könnte Amerika teuer zu stehen 
+               <lb xml:id="p001_r_8_tl_10"/>kommen.</p>
+            <p> 
+               <lb xml:id="p001_r_8_tl_11"/>Aber nehmen wir an, Amerika würde auch 
+               <lb xml:id="p001_r_8_tl_12"/>diesem Konflikt ausweichen, Japan würde sich im 
+               <lb xml:id="p001_r_8_tl_13"/>Osten (und bis nach Indien!) ausbreiten wie Deutsch 
+               <lb xml:id="p001_r_8_tl_14" break="no"/>land in Europa, dann wäre Amerika eine "demo 
+               <lb xml:id="p001_r_8_tl_15" break="no"/>kratische, kapitalistische Insel" in einer von totali 
+               <lb xml:id="p001_r_8_tl_16" break="no"/>tären Staaten eroberten Welt [Punkt fehlt] Ein informierter 
+               <lb xml:id="p001_r_8_tl_17"/>amerikanischer Journalist hat kürzlich darauf hin 
+               <lb xml:id="p001_r_8_tl_18" break="no"/>gewiesen, daß es dann den Vereinigten Staaten 
+               <lb xml:id="p001_r_8_tl_19"/>unmöglich sein würde, genau die zehn Prozent 
+               <lb xml:id="p001_r_8_tl_20"/>seines Exports zu verkaufen, die in der amerika 
+               <lb xml:id="p001_r_8_tl_21" break="no"/>nischen Wirtschaft den Unterschied zwischen Gewinn 
+               <lb xml:id="p001_r_8_tl_22"/>und Verlust ausmachen. Amerika ist beinahe autark, 
+               <lb xml:id="p001_r_8_tl_23"/>aber sein ökonomischer Reichtum ist abhängig von 
+               <lb xml:id="p001_r_8_tl_24"/>freien Märkten, von seiner natürlichen, freien, bisher 
+               <lb xml:id="p001_r_8_tl_25"/>friedlichen Ausbreitung.</p>
+            <p> 
+               <lb xml:id="p001_r_8_tl_26"/>Was wird inzwischen in Europa geschehen? Wird 
+               <lb xml:id="p001_r_8_tl_27"/>sich dort ein großer, von Deutschland aus regulierter, 
+               <lb xml:id="p001_r_8_tl_28"/>und in höchstem Maße produktionsfähiger Wirt 
+               <lb xml:id="p001_r_8_tl_29" break="no"/>schaftsraum vorbereiten? Amerika sieht dieser Ent 
+               <lb xml:id="p001_r_8_tl_30" break="no"/>wicklung skeptisch entgegen. Man vermutet hier, 
+               <lb xml:id="p001_r_8_tl_31"/>daß der europäische Kontinent dieses Jahr unbefrie 
+               <lb xml:id="p001_r_8_tl_32" break="no"/>digende Ernten haben wird. Wahrscheinlich werden 
+               <lb xml:id="p001_r_8_tl_33"/>sich dann die humanitären Anstrengungen in Ame 
+               <lb xml:id="p001_r_8_tl_34" break="no"/>rika verdoppeln, und unzählige Liebespakete nach 
+               <lb xml:id="p001_r_8_tl_35"/>Europa geschickt werden. Es sei hier der Kuriosität 
+               <lb xml:id="p001_r_8_tl_36"/>wegen erwähnt, daß man in New Yorker Delikateß 
+               <lb xml:id="p001_r_8_tl_37" break="no"/>geschäften echte importierte deutsche Wurstwaren 
+               <lb xml:id="p001_r_8_tl_38"/>kaufen kann, und daß man in Amerika Nahrungs 
+               <lb xml:id="p001_r_8_tl_39" break="no"/>mittelpakete bestellen und in Devisen bezahlen kann, 
+               <lb xml:id="p001_r_8_tl_40"/>die dann in Deutschland besorgt und an die Emp 
+               <lb xml:id="p001_r_8_tl_41" break="no"/>fänger geliefert werden!</p>
+            <p> 
+               <lb xml:id="p001_r_8_tl_42"/>Kehren wir zu anderen Tatsachen zurück. Es ist 
+               <lb xml:id="p001_r_8_tl_43"/>nicht anzunehmen, daß Amerika eine bewaffnete In 
+               <lb xml:id="p001_r_8_tl_44" break="no"/>vasion befürchten muß. Aber Welteroberungspläne 
+               <lb xml:id="p001_r_8_tl_45"/>können nicht zur Ausführung gelangen, wenn Ame 
+               <lb xml:id="p001_r_8_tl_46" break="no"/>rika nicht "mitmacht", das heißt, sich den not 
+               <lb xml:id="p001_r_8_tl_47" break="no"/>wendigen Maßnahmen fügt, welche nicht nur 
+               <lb xml:id="p001_r_8_tl_48"/>Europa, sondern auch die afrikanischen Kolonien, die 
+               <lb xml:id="p001_r_8_tl_49"/>Besitzungen im Nahen und Fernen Osten, Süd 
+               <lb xml:id="p001_r_8_tl_50" break="no"/>amerika, den Pazifischen Raum, in ein reglemen 
+               <lb xml:id="p001_r_8_tl_51" break="no"/>tiertes Wirtschaftssystem einbauen. Sollten die Ver 
+               <lb xml:id="p001_r_8_tl_52" break="no"/>einigten Staaten damit in Konflikt geraten, etwa, 
+               <lb xml:id="p001_r_8_tl_53"/>weil sie unter ihrem jetzigen demokratischen System 
+               <lb xml:id="p001_r_8_tl_54"/>der natürlichen Tendenz nach Erhöhung des Lebens 
+               <lb xml:id="p001_r_8_tl_55" break="no"/>standards nicht entgegenwirken wollen, und also mit 
+               <lb xml:id="p001_r_8_tl_56"/>Japans und Europas Arbeitsmethoden nicht konkur 
+               <lb xml:id="p001_r_8_tl_57" break="no"/>rieren, sondern mit dieser Konkurrenz den Kampf 
+               <lb xml:id="p001_r_8_tl_58"/>ausfechten wollen, so wird der unvermeidliche Ant 
+               <lb xml:id="p001_r_8_tl_59" break="no"/>agonismus zutage treten: die Welt der Demokratie 
+               <lb xml:id="p001_r_8_tl_60"/>wird sich mit der des totalen Staates nicht friedlich 
+               <lb xml:id="p001_r_8_tl_61"/>einigen können. Hitler hat in "Mein Kampf" deut 
+               <lb xml:id="p001_r_8_tl_62" break="no"/>lich gesagt, daß der "Weltfriede" nur unter deutscher 
+               <lb xml:id="p001_r_8_tl_63"/>Hegemonie zu verwirklichen sei. Amerika setzt sich 
+               <lb xml:id="p001_r_8_tl_64"/>mit dem Gedanken auseinander, daß es diese Hege 
+               <lb xml:id="p001_r_8_tl_65" break="no"/>monie immer noch eindämmen kann, ja, ihr eines 
+               <lb xml:id="p001_r_8_tl_66"/>Tages entgegentreten muß.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
