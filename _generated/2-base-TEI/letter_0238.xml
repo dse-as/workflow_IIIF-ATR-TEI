@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0238" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0238#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0238</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0238_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415740"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/><hi rendition="#u">Sonntag</hi></p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_2"/>E. – ich wollte Dich anrufen, habe aber 
+               <lb xml:id="p001_tr_1_tl_3"/>das Ferngespräche eben noch in andere 
+               <lb xml:id="p001_tr_1_tl_4"/>Richtung abgelenkt, weil das Telefon 
+               <lb xml:id="p001_tr_1_tl_5"/>doch eine barbarische Sache sei <del rend="overstrike">D</del>, 
+               <lb xml:id="p001_tr_1_tl_6"/>Du aber bist wenn möglich ausgegangen 
+               <lb xml:id="p001_tr_1_tl_7"/>u. es bliebe nichts zurück als das 
+               <lb xml:id="p001_tr_1_tl_8"/>Missbehagen ungeklärter Sehnsucht – 
+               <lb xml:id="p001_tr_1_tl_9"/>Aber – weil ich mich inzwischen 
+               <lb xml:id="p001_tr_1_tl_10"/>sehr entschieden wieder der ver 
+               <lb xml:id="p001_tr_1_tl_11" break="no"/>fänglichsten alles Künste, der Musik 
+               <lb xml:id="p001_tr_1_tl_12"/>ergeben habe u. mit meinem Vetter 
+               <lb xml:id="p001_tr_1_tl_13"/>Richard Nachmittage u. Abende dabei 
+               <lb xml:id="p001_tr_1_tl_14"/>zubringen, bin ich innerlich zu finster [?] 
+               <lb xml:id="p001_tr_1_tl_15"/>leise selbstzerstörerischen Gedanken gelangt 
+               <lb xml:id="p001_tr_1_tl_16"/>die der verantwortungsbewusste Mensch 
+               <lb xml:id="p001_tr_1_tl_17"/>u. wahre Weise ebenso von sich fern 
+               <lb xml:id="p001_tr_1_tl_18" break="no"/>hält wie irgendwelche anderen Gifte – 
+               <lb xml:id="p001_tr_1_tl_19"/>(Wobei mir einfällt dass ich von Gert [vermutlich Gertrud Feiß, Freundin von KM aus Odenwald-Zeit (siehe KMTagebuch 31-33, S. 210), Umgang mit Hans Feist, ev. morphiumsüchtig] 
+               <lb xml:id="p001_l"/>einen freundlichen u. an ernsthaften 
+               <lb xml:id="p001_tr_1_tl_22"/>Vorschlägen reichen Brief bekom[m]en 
+               <lb xml:id="p001_tr_1_tl_23"/>habe)</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_24"/>Also, weil ich bei Gert schon angelangt 
+               <lb xml:id="p001_tr_1_tl_25"/>bin –</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_26"/>Es ist doch recht seltsam dass man 
+               <lb xml:id="p001_tr_1_tl_27"/>mit den besten u. jedenfalls leiden¬</p>
+
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415741"/>
+            <milestone unit="textregion" xml:id="p002_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_2_tl_1" break="no"/>schaftlichsten seiner Gefühle so gänzlich 
+               <lb xml:id="p002_tr_2_tl_2"/>unmotivierte Umwege macht –</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_3"/>dass ich, gerade heraus, auf keinen 
+               <lb xml:id="p002_tr_2_tl_4"/>fremden Menschen so recht eingehen 
+               <lb xml:id="p002_tr_2_tl_5"/>kann u. ihn immer schon <del rend="overstrike">Dein</del> um 
+               <lb xml:id="p002_tr_2_tl_6"/>Deinet Willen [sic] irgendwie hasse u. zur Rede 
+               <lb xml:id="p002_tr_2_tl_7"/>stelle, ihn also wegen meiner unzweifel 
+               <lb xml:id="p002_tr_2_tl_8" break="no"/>haften Sehnsucht nach Dir mit Unge 
+               <lb xml:id="p002_tr_2_tl_9" break="no"/>rechtigkeit u. Abweisung quäle u. ihm 
+               <lb xml:id="p002_tr_2_tl_10"/>ungerechte Vorwürfe mache –</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_11"/>Wohingegen ich doch gerade diese Leute 
+               <lb xml:id="p002_tr_2_tl_12"/>notwendig in Anspruch nehme für alle 
+               <lb xml:id="p002_tr_2_tl_13"/><del rend="overstrike">jenen</del> in Unordnung geratenen Gefühle 
+               <lb xml:id="p002_tr_2_tl_14"/>die ich aus tausend Hem[m]ungen gerade 
+               <lb xml:id="p002_tr_2_tl_15"/>Dir E.- niemals zumuten würde –</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [vertical space]</p>
+            <p> 
+               <lb xml:id="p002_tr_2_tl_16"/>Und es gelingt mir obendrein nicht, 
+               <lb xml:id="p002_tr_2_tl_17"/>vor Dir eine <hi rendition="#u">abgeklärte</hi> Figur 
+               <lb xml:id="p002_tr_2_tl_18"/>zu machen!! –)</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [vertical space] 
+               <lb xml:id="p002_tr_2_tl_19"/>Adieu E. – ist dieser Brief besser 
+               <lb xml:id="p002_tr_2_tl_20"/>geraten als ein Telefongespräch? 
+               <lb xml:id="p002_tr_2_tl_21"/>Sollte ich mir das einbilden? Zurück 
+               <lb xml:id="p002_l_2"/>zur Musik. – Sei umarmt von 
+               <lb xml:id="p002_tr_2_tl_24"/>Deinem Kind A. –</p>
+
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l_1"/>Wie lange ist Klaus 
+               <lb xml:id="p002_l"/>in Berlin? Seine Adresse?</p>
+</div>
+       </body>
+    </text>
+ </TEI>
