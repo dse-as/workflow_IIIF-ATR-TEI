@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0471" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0471#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0471</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0471"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0471_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0471_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_tl_1"/>Passagiere nach Lissabon</p>
+
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_2_tl_1"/>An Bord "S. S. Siboney"</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_2"/>Die "S. S. Siboney" ist ein altes und langsames 
+               <lb xml:id="p001_r_2_tl_3"/>Schiff, das früher für die "New York and Cuba 
+               <lb xml:id="p001_r_2_tl_4"/>Mail Steamship Company" zwischen Neuyork 
+               <lb xml:id="p001_r_2_tl_5"/>und den Westindischen Inseln verkehrte, und 
+               <lb xml:id="p001_r_2_tl_6"/>neben Post und Frachten nur eine kleine Anzahl 
+               <lb xml:id="p001_r_2_tl_7"/>von Passagieren beförderte. Das Schiff hat nur 
+               <lb xml:id="p001_r_2_tl_8"/>12 000 Tonnen, führt eine einzige Klasse, und ist 
+               <lb xml:id="p001_r_2_tl_9"/>für moderne Ansprüche recht primitiv eingerich 
+               <lb xml:id="p001_r_2_tl_10" break="no"/>tet. Nach den verschiedenen "Vorschriften", 
+               <lb xml:id="p001_r_2_tl_11"/>"Bordregeln" und "Ratschlägen" zu urteilen, die 
+               <lb xml:id="p001_r_2_tl_12"/>man in den Kabinen und an den Türen des Salons 
+               <lb xml:id="p001_r_2_tl_13"/>und Essaals angeschlagen findet, muss die Ge 
+               <lb xml:id="p001_r_2_tl_14" break="no"/>sellschaft der Passagiere recht gemischt gewesen 
+               <lb xml:id="p001_r_2_tl_15"/>sein. Zum Beispiel heisst es da, ein Offizier werde 
+               <lb xml:id="p001_r_2_tl_16"/>jeden Morgen die Kabinen inspizieren, und die 
+               <lb xml:id="p001_r_2_tl_17"/>Gäste würden daher gebeten, sich auf diese In 
+               <lb xml:id="p001_r_2_tl_18" break="no"/>spektion vorzubereiten. Die Herren werden auf 
+               <lb xml:id="p001_r_2_tl_19" break="no"/>gefordert, während der Mahlzeiten eine Jacke zu 
+               <lb xml:id="p001_r_2_tl_20"/>tragen. Glückspiele sind verboten, und vor Ta 
+               <lb xml:id="p001_r_2_tl_21" break="no"/>schendieben wird gewarnt. – Trotz kleiner Un 
+               <lb xml:id="p001_r_2_tl_22" break="no"/>bequemlichkeiten, wie etwa dass die Wasser 
+               <lb xml:id="p001_r_2_tl_23" break="no"/>leitungen offenbar undicht sind, so dass Duschen 
+               <lb xml:id="p001_r_2_tl_24"/>und Badewasser einen starken Oelgehalt auf 
+               <lb xml:id="p001_r_2_tl_25" break="no"/>weisen, – reisen wir aber auf der "Siboney" auf 
+               <lb xml:id="p001_r_2_tl_26"/>angenehme Art; denn wir sind nicht zahlreich, im 
+               <lb xml:id="p001_r_2_tl_27"/>Speisesaal sind nicht mehr als zehn Tische mit je 
+               <lb xml:id="p001_r_2_tl_28"/>zwei oder drei Personen besetzt, die Bedienung ist 
+               <lb xml:id="p001_r_2_tl_29"/>daher sehr gut, – und da nur vier Frauen an 
+               <lb xml:id="p001_r_2_tl_30"/>Bord sind, breitet sich das gesellschaftliche Leben 
+               <lb xml:id="p001_r_2_tl_31"/>in keinem störenden Masse aus. Die Schiffsoffi 
+               <lb xml:id="p001_r_2_tl_32" break="no"/>ziere sind so wenig beschäftigt, dass sie neben den 
+               <lb xml:id="p001_r_2_tl_33"/>Passagieren auf den Deckstühlen liegen. Sie sagen 
+               <lb xml:id="p001_r_2_tl_34"/>uns aber, dass dafür die Rückfahrt von Lissabon 
+               <lb xml:id="p001_r_2_tl_35"/>nach Neuyork anstrengend sein wird, weil sie 
+               <lb xml:id="p001_r_2_tl_36"/>dann etwa dreihundertfünfzig Leute befördern 
+               <lb xml:id="p001_r_2_tl_37"/>werden, – meistens Flüchtlinge aus den in die 
+               <lb xml:id="p001_r_2_tl_38" break="no"/>sem Krieg besiegten Ländern Europas. Um sie 
+               <lb xml:id="p001_r_2_tl_39"/>unterbringen zu können, hat man die Einrichtun 
+               <lb xml:id="p001_r_2_tl_40" break="no"/>gen der kleinen "Siboney" natürlich etwas ver 
+               <lb xml:id="p001_r_2_tl_41" break="no"/>ändern müssen. Zum Beispiel enthalten bisherige 
+               <lb xml:id="p001_r_2_tl_42"/>Doppelkabinen drei oder vier Betten, und in der 
+               <lb xml:id="p001_r_2_tl_43"/>rings um den Speisesaal führenden Galerie sind 
+               <lb xml:id="p001_r_2_tl_44"/>provisorische Wände aus Sackleinen ausgespannt 
+               <lb xml:id="p001_r_2_tl_45"/>und hundertfünfzig Betten aufgestellt worden. 
+               <lb xml:id="p001_r_2_tl_46"/>Da die Passagiere auf der Rückfahrt den gleichen 
+               <lb xml:id="p001_r_2_tl_47"/>Preis zahlen werden, wie wir für die Ueberfahrt 
+               <lb xml:id="p001_r_2_tl_48"/>von Neuyork nach Lissabon, macht die Schif
+               <milestone unit="textregion" xml:id="p001_r_10"/> 
+               <lb xml:id="p001_r_10_tl_1" break="no"/>fahrtsgesellschaft jedenfalls kein schlechtes Ge 
+               <lb xml:id="p001_r_10_tl_2" break="no"/>schäft. Dieser Preis – 350 Dollar pro Person – 
+               <lb xml:id="p001_r_10_tl_3"/>ist höher als ein Billett erster Klasse vor dem 
+               <lb xml:id="p001_r_10_tl_4"/>Krieg auf Dampfern wie der "Queen Mary" oder 
+               <lb xml:id="p001_r_10_tl_5"/>"Bremen" oder "Normandie".</p>
+            <p> 
+               <lb xml:id="p001_r_10_tl_6"/>Natürlich scheint der Atlantische Ozean sehr 
+               <lb xml:id="p001_r_10_tl_7"/>viel breiter, wenn man, statt in fünf Tagen nach 
+               <lb xml:id="p001_r_10_tl_8"/>Cherbourg zu gelangen, auf einem langsam sich 
+               <lb xml:id="p001_r_10_tl_9"/>durch die Februarstürme und Wellengänge kämp 
+               <lb xml:id="p001_r_10_tl_10" break="no"/>fenden Schiff von bescheidener Grösse unterwegs 
+               <lb xml:id="p001_r_10_tl_11"/>ist, – ausserdem lagen wir vierundzwanzig Stun 
+               <lb xml:id="p001_r_10_tl_12" break="no"/>den im Hafen von Hamilton auf Bermuda, bis die 
+               <lb xml:id="p001_r_10_tl_13"/>britischen Zensurbeamten mit der gründlichen 
+               <lb xml:id="p001_r_10_tl_14"/>Kontrolle unserer Fracht und unserer Papiere 
+               <lb xml:id="p001_r_10_tl_15"/>fertig waren.</p>
+            <p> 
+               <lb xml:id="p001_r_10_tl_16"/>Dieser gleiche Atlantische Ozean, auf dem wir 
+               <lb xml:id="p001_r_10_tl_17"/>so langsam ostwärts vorrücken, dass wir uns fast 
+               <lb xml:id="p001_r_10_tl_18"/>in die Zeiten der Walfischfänger und spanischen 
+               <lb xml:id="p001_r_10_tl_19"/>Goldschiffe zurückversetzt wähnen, – ist gerade 
+               <lb xml:id="p001_r_10_tl_20"/>während der letzten zwölf Monate im Bewusstsein 
+               <lb xml:id="p001_r_10_tl_21"/>der Amerikaner stark zusammengeschrumpft. Die 
+               <lb xml:id="p001_r_10_tl_22"/>vorzüglich informierte Presse der Vereinigten 
+               <lb xml:id="p001_r_10_tl_23"/>Staaten und ihre weitsichtigen Regierungsstellen 
+               <lb xml:id="p001_r_10_tl_24"/>in Washington haben es den letzten Hinterwäld 
+               <lb xml:id="p001_r_10_tl_25" break="no"/>lern unter ihren Bürgern verständlich gemacht, 
+               <lb xml:id="p001_r_10_tl_26"/>dass die Masstäbe der Entfernungen, sogar von 
+               <lb xml:id="p001_r_10_tl_27"/>Weltmeeren, sich dank der technischen Entwick 
+               <lb xml:id="p001_r_10_tl_28" break="no"/>lung der Aviatik ungemein verändert haben, – 
+               <lb xml:id="p001_r_10_tl_29"/> und dass dies für Kampfflugzeuge, Bomber und 
+               <lb xml:id="p001_r_10_tl_30"/>Stukas genau so gilt, wie für Passagierflugzeuge, 
+               <lb xml:id="p001_r_10_tl_31"/>Clipper oder den Sportapparat Colonel Lind 
+               <lb xml:id="p001_r_10_tl_32" break="no"/>berghs. Und dass daher die amerikanische Iso 
+               <lb xml:id="p001_r_10_tl_33" break="no"/>lation fast alles an Realität eingebüsst, dafür aber 
+               <lb xml:id="p001_r_10_tl_34"/>eine neue potentielle Realität gewonnen hat: näm 
+               <lb xml:id="p001_r_10_tl_35" break="no"/>lich die Möglichkeit, dass nach einem deutschen 
+               <lb xml:id="p001_r_10_tl_36"/>Sieg über Grossbritannien der amerikanische 
+               <lb xml:id="p001_r_10_tl_37"/>Kontinent eine grausam isolierte Insel zwischen 
+               <lb xml:id="p001_r_10_tl_38"/>dem totalitären Europa und einem erfolgreich 
+               <lb xml:id="p001_r_10_tl_39"/>imperialistischen Japan in Ostasien werden 
+               <lb xml:id="p001_r_10_tl_40"/>könnte.</p>
+            <p> 
+               <lb xml:id="p001_r_10_tl_41"/>Der Begriff "Europa" ist also den Amerikanern 
+               <lb xml:id="p001_r_10_tl_42"/>in jüngster Zeit vertrauter geworden. In der glei 
+               <lb xml:id="p001_r_10_tl_43" break="no"/>chen Zeitspanne der letzten zwölf Monate habe 
+               <lb xml:id="p001_r_10_tl_44"/>ich mich zuerst, Anfang 1940, auf einem italie 
+               <lb xml:id="p001_r_10_tl_45" break="no"/>nischen Dampfer zwischen Bombay und Genua 
+               <lb xml:id="p001_r_10_tl_46"/>im Indischen Ozean, Suez-Kanal und Mittellän 
+               <lb xml:id="p001_r_10_tl_47" break="no"/>dischen Meer befunden, dann, im Mai, auf der in 
+               <lb xml:id="p001_r_10_tl_48" break="no"/>zwischen in Palm Beach auf Sand gelaufenen               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0471_002.tif"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_r_tl_1"/>Passagiere nach Lissabon<hi rendition="#g"> 
+                  <lb xml:id="p002_r_tl_2"/>FORTSETZUNG VON SEITE <hi rendition="#b">3</hi></hi></p>
+            <p> 
+               <lb xml:id="p002_r_tl_3"/>Die zweite Frau, eine amerikanische Nurse, fährt 
+               <lb xml:id="p002_r_tl_4"/>nur bis Lissabon, um eine amerikanische Pa 
+               <lb xml:id="p002_r_tl_5" break="no"/>tientin abzuholen. Die dritte Frau an Bord ist 
+               <lb xml:id="p002_r_tl_6"/>meine Kollegin Theresa. Sie hat einen amerika 
+               <lb xml:id="p002_r_tl_7" break="no"/>nischen Pass, wurde in Italien geboren und spricht 
+               <lb xml:id="p002_r_tl_8"/>am liebsten französisch. Sie ist Photographin und 
+               <lb xml:id="p002_r_tl_9"/>erschreckt uns manchmal mit Blitzlichtauf 
+               <lb xml:id="p002_r_tl_10" break="no"/>nahmen, die sie abends im Salon, zwischen zwei 
+               <lb xml:id="p002_r_tl_11"/>Gläsern Bier, mit ihrer Rolleyflex macht. Die 
+               <lb xml:id="p002_r_tl_12"/>Filme lässt sie sich am nächsten Tag von ihrem 
+               <lb xml:id="p002_r_tl_13"/>Tischnachbarn entwickeln, – einem jungen 
+               <lb xml:id="p002_r_tl_14"/>Schweizer Architekten, der im Schweizer Pavillon 
+               <lb xml:id="p002_r_tl_15"/>an der Neuyorker Weltausstellung gearbeitet hat. 
+               <lb xml:id="p002_r_tl_16"/>Theresa war als Reporter in Finnland und hat 
+               <lb xml:id="p002_r_tl_17"/>später die Katastrophe der neunten Armee in 
+               <lb xml:id="p002_r_tl_18"/>Frankreich und die Evakuierung in Dünkirchen 
+               <lb xml:id="p002_r_tl_19"/>miterlebt, – zuletzt auf einem Ambulanzwagen. 
+               <lb xml:id="p002_r_tl_20"/>Sie sagt die Kälte während des finnischen Win 
+               <lb xml:id="p002_r_tl_21" break="no"/>terfeldzugs sei schrecklicher gewesen, als die 
+               <lb xml:id="p002_r_tl_22"/>Bomben, die sie zuletzt nur in eine Art von Be 
+               <lb xml:id="p002_r_tl_23" break="no"/>täubung versetzt hätten "wie fünf pure W[sic]isky". 
+               <lb xml:id="p002_r_tl_24"/>Sie trägt immer einen roten Turban, einen roten 
+               <lb xml:id="p002_r_tl_25"/>Sweater, einen schwarzen Ledermantel, und mei 
+               <lb xml:id="p002_r_tl_26" break="no"/>stens dunkle Knickerbockers und hohe Schnür 
+               <lb xml:id="p002_r_tl_27" break="no"/>stiefel. Da sie sehr gesprächig und schlagfertig 
+               <lb xml:id="p002_r_tl_28"/>ist und über eine dröhnende Stimme verfügt, übt 
+               <lb xml:id="p002_r_tl_29"/>sie eine gewisse Tyrannei über uns aus. Man ist 
+               <lb xml:id="p002_r_tl_30"/>nie vor ihr sicher, ausser wenn sie an der Schreib 
+               <lb xml:id="p002_r_tl_31" break="no"/>maschine arbeitet. Sie ist dick, hat ein grosses 
+               <lb xml:id="p002_r_tl_32"/>Gesicht und kleine, gleichzeitig schlau und gut 
+               <lb xml:id="p002_r_tl_33" break="no"/>mütig blitzende Augen, versichert, so stark wie 
+               <lb xml:id="p002_r_tl_34"/>irgendein Mann zu sein (woran niemand zwei 
+               <lb xml:id="p002_r_tl_35" break="no"/>felt), und hält grosse Stücke auf sich. Ihre Pläne 
+               <lb xml:id="p002_r_tl_36"/>hat sie bisher vor uns geheim gehalten und er 
+               <lb xml:id="p002_r_tl_37" break="no"/>klärt nur, sie werde sich auf die nächsten 
+               <lb xml:id="p002_r_tl_38"/>Schlachtfelder begeben. Die vierte Frau bin ich.</p>
+            <p> 
+               <lb xml:id="p002_r_tl_39"/>Im Salon neben mir arbeitet ein junger indi 
+               <lb xml:id="p002_r_tl_40" break="no"/>scher Arzt an einer Artikelfolge über Bombay, 
+               <lb xml:id="p002_r_tl_41"/>Kalkutta, Singapore, Hongkong, Manila, Boston, 
+               <lb xml:id="p002_r_tl_42"/>Baltimore und andere Städte, die er während der 
+               <lb xml:id="p002_r_tl_43"/>letzten zwei Jahre besucht hat, um die Spitäler, 
+               <lb xml:id="p002_r_tl_44"/>Laboratorien, Sanatorien und medizinischen Fa 
+               <lb xml:id="p002_r_tl_45" break="no"/>kultäten zu studieren. Wir tauschen oft unsere 
+               <lb xml:id="p002_r_tl_46"/>Artikel aus, und in den Pausen zwischen der Ar 
+               <lb xml:id="p002_r_tl_47" break="no"/>beit unterhalten wir uns über Themen wie die zu 
+               <lb xml:id="p002_r_tl_48" break="no"/>künftige Entwicklung Indiens und des britischen 
+               <lb xml:id="p002_r_tl_49"/>Weltreichs, welches sich nach unserer gemein 
+               <lb xml:id="p002_r_tl_50" break="no"/>samen Ueberzeugung in ein echtes "Common 
+               <lb xml:id="p002_r_tl_51" break="no"/>wealth" selbständiger, durch das demokratische 
+               <lb xml:id="p002_r_tl_52"/>Ideal mehr als durch politische Gewalt zusammen 
+               <lb xml:id="p002_r_tl_53" break="no"/>geschlossener Länder verwandeln muss. Mein Ge 
+               <lb xml:id="p002_r_tl_54" break="no"/>winnanteil während dieser Gespräche ist viel grös 
+               <lb xml:id="p002_r_tl_55" break="no"/>ser als der meines indischen Freundes, denn er 
+               <lb xml:id="p002_r_tl_56"/>geht auf jede Frage ein, die mich interessiert, und 
+               <lb xml:id="p002_r_tl_57"/>wenn er sie nicht sofort beantworten kann, bringt 
+               <lb xml:id="p002_r_tl_58"/>er mir sicher am nächsten Tag ein englisch ge 
+               <lb xml:id="p002_r_tl_59" break="no"/>schriebenes Manuskript mit genauen, klar und 
+               <lb xml:id="p002_r_tl_60"/>einfach ausgedrückten Informationen.</p>
+            <p> 
+               <lb xml:id="p002_r_tl_61"/>Heute sind wir schon eine volle Woche unter 
+               <lb xml:id="p002_r_tl_62" break="no"/>wegs, – aber das Fähnchen, das auf der Karte 
+               <lb xml:id="p002_r_tl_63"/>unsere Route anzeigt, hat erst etwa die Ozean 
+               <lb xml:id="p002_r_tl_64" break="no"/>mitte zwischen Neuyork und Lissabon erreicht. 
+               <lb xml:id="p002_r_tl_65"/>Merkwürdigerweise ist keiner von uns ungedul 
+               <lb xml:id="p002_r_tl_66" break="no"/>dig: das Ausserordentliche, das dieser Rückkehr 
+               <lb xml:id="p002_r_tl_67"/>in die alte Welt und unsere Heimat anhaftet, 
+               <lb xml:id="p002_r_tl_68"/>scheint die sonst üblichen Gefühle von Freude, 
+               <lb xml:id="p002_r_tl_69"/>Aerger, rascher Reizbarkeit zu dämpfen und in 
+               <lb xml:id="p002_r_tl_70"/>die richtigen Schranken zu weisen. – Am Anfang 
+               <lb xml:id="p002_r_tl_71"/>der Reise, als die Passagiere sich untereinander 
+               <lb xml:id="p002_r_tl_72"/>nicht kannten, wusste man nur, dass man sich 
+               <lb xml:id="p002_r_tl_73"/>auf einem Dampfer nach Lissabon befand. Jetzt 
+               <lb xml:id="p002_r_tl_74"/>wissen wir, dass Lissabon nur eine Station ist, 
+               <lb xml:id="p002_r_tl_75"/>wo wir uns trennen werden, – und die Punkte 
+               <lb xml:id="p002_r_tl_76"/>der Landkarte – Amsterdam, Paris, Griechen 
+               <lb xml:id="p002_r_tl_77" break="no"/>land, Stockholm, Sofia, Zürich, London – gewin 
+               <lb xml:id="p002_r_tl_78" break="no"/>nen ein neues Leben.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_r_tl_79"/>Annemarie Clarac-Schwarzenbach.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
