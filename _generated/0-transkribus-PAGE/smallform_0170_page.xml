@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<validation-wrapper>
+   <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+      <Metadata>
+         <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=14_03_2025_13:39</Creator>
+         <Created>2025-02-21T11:36:46.261+01:00</Created>
+         <LastChange>2025-03-14T13:45:57.744+01:00</LastChange>
+         <TranskribusMetadata docId="7034131"
+                              pageId="91980361"
+                              pageNr="1"
+                              tsid="235174395"
+                              status="FINAL"
+                              userId="295817"
+                              imgUrl="https://files.transkribus.eu/Get?id=RSBIZZYKPSIHECTZYCKQZJCM&amp;fileType=view"
+                              xmlUrl="https://files.transkribus.eu/Get?id=JABQEGGUPILZZTDDOZDVFIZR"
+                              imageId="76774218"/>
+      </Metadata>
+      <Page imageFilename="smallform_0170_001.jpg"
+            imageWidth="4775"
+            imageHeight="6320">
+         <ReadingOrder>
+            <OrderedGroup id="ro_1741956357744" caption="Regions reading order">
+               <RegionRefIndexed index="0" regionRef="r_5"/>
+               <RegionRefIndexed index="1" regionRef="r_6"/>
+               <RegionRefIndexed index="2" regionRef="r"/>
+               <RegionRefIndexed index="3" regionRef="r_4"/>
+               <RegionRefIndexed index="4" regionRef="r_2"/>
+               <RegionRefIndexed index="5" regionRef="r_3"/>
+            </OrderedGroup>
+         </ReadingOrder>
+         <TextRegion id="r_5" custom="readingOrder {index:0;}">
+            <Coords points="226,5125 2958,5125 2958,5542 226,5542"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+               <Coords points="223,5378 1676,5330 1791,5394 2941,5351 2941,5283 223,5300"/>
+               <Baseline points="241,5357 2944,5350"/>
+               <TextEquiv>
+                  <Unicode>Kaspisee-Persischer Golf</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_tl_7" custom="readingOrder {index:1;}">
+               <Coords points="744,5509 1646,5509 1646,5425 1589,5411 1129,5435 967,5408 896,5445 744,5411"/>
+               <Baseline points="761,5490 806,5487 850,5487 895,5487 940,5490 985,5487 1029,5487 1074,5487 1119,5487 1164,5487 1209,5487 1253,5487 1298,5484 1343,5487 1388,5487 1432,5487 1477,5487 1522,5487 1567,5487 1612,5487 1656,5487"/>
+               <TextEquiv>
+                  <Unicode>Die transiranische Bahn</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_tl_6" custom="readingOrder {index:2;}">
+               <Coords points="2025,5499 2907,5503 2903,5415 2745,5462 2640,5408 2545,5452 2471,5425 2407,5459 2021,5445"/>
+               <Baseline points="2041,5484 2086,5484 2131,5484 2176,5487 2221,5487 2265,5487 2310,5487 2355,5487 2400,5487 2445,5487 2489,5487 2534,5487 2579,5490 2624,5490 2668,5487 2713,5490 2758,5490 2803,5490 2848,5490 2892,5490 2913,5487"/>
+               <TextEquiv>
+                  <Unicode>Von Annemarie Clark-Schwarzenbach</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_6" custom="readingOrder {index:1;}">
+            <Coords points="237,5577 2942,5577 2942,5962 237,5962"/>
+            <TextLine id="r_6_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="240,5665 2900,5672 2829,5577 240,5580"/>
+               <Baseline points="259,5657 265,5654 310,5654 355,5654 400,5657 444,5654 489,5654 534,5654 579,5654 623,5654 668,5654 713,5654 758,5654 803,5654 847,5651 892,5651 937,5654 982,5654 1026,5654 1071,5654 1116,5651 1161,5654 1206,5654 1250,5651 1295,5654 1340,5654 1385,5654 1429,5651 1474,5651 1519,5651 1564,5651 1609,5651 1653,5651 1698,5651 1743,5651 1788,5651 1833,5651 1877,5651 1922,5651 1967,5651 2012,5651 2056,5651 2101,5654 2146,5654 2191,5654 2236,5654 2280,5654 2325,5654 2370,5654 2415,5654 2459,5654 2504,5654 2549,5654 2594,5657 2639,5654 2683,5654 2728,5657 2773,5654 2818,5657 2862,5654 2907,5654"/>
+               <TextEquiv>
+                  <Unicode>Persien war lange ein abgeschlossenes Land mit allen Anzeichen einer scheinbar unaufhaltsamen Degeneration:</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="247,5726 2897,5726 2859,5665 247,5665"/>
+               <Baseline points="265,5710 310,5710 355,5710 400,5710 444,5708 489,5710 534,5710 579,5708 623,5708 668,5708 713,5708 758,5708 803,5708 847,5708 892,5708 937,5705 982,5705 1026,5708 1071,5708 1116,5708 1161,5705 1206,5708 1250,5705 1295,5708 1340,5708 1385,5708 1429,5708 1474,5705 1519,5705 1564,5705 1609,5708 1653,5705 1698,5705 1743,5708 1788,5705 1833,5705 1877,5705 1922,5708 1967,5705 2012,5708 2056,5708 2101,5708 2146,5708 2191,5708 2236,5708 2280,5708 2325,5708 2370,5708 2415,5708 2459,5708 2504,5708 2549,5708 2594,5708 2639,5708 2683,5710 2728,5708 2773,5708 2818,5708 2862,5708 2904,5710"/>
+               <TextEquiv>
+                  <Unicode>Positives und Negatives bewiesen diesen Vorgang, Verfeinerung, edle Tradition einerseits, andererseits schwin-</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_tl_3" custom="readingOrder {index:2;}">
+               <Coords points="237,5773 2903,5780 2849,5719 237,5726"/>
+               <Baseline points="256,5764 301,5764 346,5764 391,5761 435,5764 480,5764 525,5764 570,5764 614,5764 659,5761 704,5761 749,5761 794,5761 838,5761 883,5761 928,5761 973,5761 1018,5761 1062,5761 1107,5761 1152,5761 1197,5761 1241,5761 1286,5761 1331,5761 1376,5761 1421,5761 1465,5761 1510,5758 1555,5758 1600,5758 1644,5758 1689,5758 1734,5758 1779,5758 1824,5761 1868,5758 1913,5758 1958,5758 2003,5758 2047,5761 2092,5761 2137,5761 2182,5758 2227,5761 2271,5761 2316,5761 2361,5761 2406,5758 2450,5761 2495,5761 2540,5761 2585,5764 2630,5764 2674,5761 2719,5761 2764,5761 2809,5764 2854,5764 2898,5764 2907,5764"/>
+               <TextEquiv>
+                  <Unicode>dende Gesundheit des Volkes, Opium, Niedergang religiöser Kultur. Oelfelder und Weltkrieg haben Persien in den</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_tl_4" custom="readingOrder {index:3;}">
+               <Coords points="240,5837 2900,5830 2819,5773 240,5776"/>
+               <Baseline points="259,5818 304,5818 349,5818 394,5818 438,5818 483,5818 528,5815 573,5815 617,5815 662,5818 707,5815 752,5815 797,5818 841,5815 886,5815 931,5815 976,5815 1020,5815 1065,5815 1110,5815 1155,5815 1200,5812 1244,5815 1289,5812 1334,5815 1379,5812 1424,5812 1468,5815 1513,5812 1558,5815 1603,5812 1647,5812 1692,5812 1737,5812 1782,5812 1827,5812 1871,5812 1916,5815 1961,5812 2006,5812 2050,5815 2095,5815 2140,5815 2185,5815 2230,5815 2274,5815 2319,5815 2364,5815 2409,5815 2453,5815 2498,5815 2543,5815 2588,5818 2633,5818 2677,5818 2722,5815 2767,5818 2812,5818 2856,5818 2901,5821 2907,5818"/>
+               <TextEquiv>
+                  <Unicode>Strudel der Weltereignisse gezogen, halb schon wurde es als eine Kolonie von England und Rußland betrachtet,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_tl_5" custom="readingOrder {index:4;}">
+               <Coords points="243,5881 2897,5895 2897,5830 243,5834"/>
+               <Baseline points="262,5872 307,5872 352,5872 397,5872 441,5872 486,5872 531,5872 576,5869 620,5872 665,5869 710,5869 755,5869 800,5869 844,5869 889,5866 934,5869 979,5869 1023,5869 1068,5869 1113,5869 1158,5869 1203,5869 1247,5869 1292,5869 1337,5869 1382,5869 1427,5869 1471,5869 1516,5869 1561,5869 1606,5869 1650,5866 1695,5866 1740,5869 1785,5869 1830,5869 1874,5869 1919,5869 1964,5869 2009,5869 2053,5869 2098,5869 2143,5869 2188,5869 2233,5869 2277,5869 2322,5869 2367,5872 2412,5869 2456,5872 2501,5872 2546,5872 2591,5872 2636,5872 2680,5872 2725,5872 2770,5872 2815,5872 2859,5872 2904,5872"/>
+               <TextEquiv>
+                  <Unicode>dann kam die Revolution — und ein militärischer Handstreich brachte einen neuen Schah auf den Thron. Damit</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_tl_6" custom="readingOrder {index:5;}">
+               <Coords points="237,5956 1433,5952 1433,5881 237,5878"/>
+               <Baseline points="256,5928 274,5925 319,5925 364,5925 408,5928 453,5925 498,5925 543,5925 588,5925 632,5925 677,5925 722,5925 767,5925 812,5925 856,5922 901,5922 946,5922 991,5922 1035,5922 1080,5922 1125,5922 1170,5922 1215,5922 1259,5922 1304,5922 1349,5922 1394,5922 1438,5922"/>
+               <TextEquiv>
+                  <Unicode>änderte sich in Persien vieles, und vielleicht zu rasch.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r" custom="readingOrder {index:2;}">
+            <Coords points="34,97 4653,97 4653,4557 34,4557"/>
+            <TextLine id="r_tl_5" custom="readingOrder {index:0;}">
+               <Coords points="1660,4026 1676,4026 1690,4019 1700,4029 1710,4029 1717,4022 1737,4022 1744,4026 1751,3961 1731,3958 1720,3965 1710,3955 1666,3958"/>
+               <Baseline points="1683,4006 1710,4003 1755,4000"/>
+               <TextEquiv>
+                  <Unicode>\f\transiranische Bahn\:f\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="245,4588 2950,4588 2950,4958 245,4958"/>
+            <TextLine id="r_4_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="254,4644 2914,4648 2849,4580 254,4590"/>
+               <Baseline points="271,4636 280,4636 325,4633 370,4633 414,4633 459,4633 504,4633 549,4633 594,4630 638,4630 683,4630 728,4630 773,4630 817,4630 862,4630 907,4627 952,4630 997,4627 1041,4627 1086,4627 1131,4630 1176,4627 1221,4630 1265,4630 1310,4630 1355,4627 1400,4630 1444,4630 1489,4630 1534,4627 1579,4630 1624,4627 1668,4630 1713,4630 1758,4630 1803,4630 1847,4630 1892,4630 1937,4630 1982,4630 2027,4630 2071,4630 2116,4630 2161,4630 2206,4630 2250,4630 2295,4630 2340,4633 2385,4630 2430,4633 2474,4633 2519,4633 2564,4633 2609,4630 2653,4633 2698,4633 2743,4633 2788,4633 2833,4633 2877,4633 2922,4633"/>
+               <TextEquiv>
+                  <Unicode>\fp\Zu den kühnsten Unternehmungen des neuen Staates gehört der Bau der transiranischen Bahn. Mitten im Hochgebirge, am Firuskuh¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="247,4691 2903,4698 2903,4644 247,4648"/>
+               <Baseline points="265,4684 271,4681 316,4681 361,4681 406,4681 450,4681 495,4681 540,4681 585,4681 629,4678 674,4678 719,4678 764,4678 809,4678 853,4678 898,4678 943,4678 988,4675 1032,4675 1077,4678 1122,4675 1167,4678 1212,4675 1256,4675 1301,4675 1346,4675 1391,4678 1435,4678 1480,4678 1525,4675 1570,4675 1615,4675 1659,4675 1704,4675 1749,4678 1794,4678 1838,4678 1883,4678 1928,4678 1973,4678 2018,4678 2062,4678 2107,4678 2152,4678 2197,4678 2242,4678 2286,4678 2331,4678 2376,4678 2421,4681 2465,4681 2510,4678 2555,4681 2600,4681 2645,4681 2689,4681 2734,4681 2779,4681 2824,4681 2868,4681 2913,4681"/>
+               <TextEquiv>
+                  <Unicode>Paß, gibt es nun Brücken, Dämme, Tunnels. Aber unterhalb dieser frei und kühn anmutenden Brücke haben sich die Arbeiter ihr</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_3" custom="readingOrder {index:2;}">
+               <Coords points="250,4742 2910,4746 2856,4685 250,4691"/>
+               <Baseline points="268,4728 313,4728 358,4728 403,4728 447,4728 492,4728 537,4725 582,4725 626,4725 671,4725 716,4722 761,4722 806,4725 850,4725 895,4725 940,4722 985,4725 1029,4722 1074,4722 1119,4722 1164,4722 1209,4725 1253,4725 1298,4725 1343,4722 1388,4722 1432,4725 1477,4725 1522,4725 1567,4722 1612,4722 1656,4725 1701,4725 1746,4725 1791,4725 1835,4725 1880,4725 1925,4725 1970,4725 2015,4725 2059,4728 2104,4728 2149,4728 2194,4725 2239,4728 2283,4725 2328,4728 2373,4725 2418,4728 2462,4728 2507,4728 2552,4728 2597,4728 2642,4728 2686,4728 2731,4728 2776,4728 2821,4728 2865,4728 2910,4731 2919,4728"/>
+               <TextEquiv>
+                  <Unicode>Barackendorf errichtet, — einen schauerlich zusammengewürfelten Haufen von Armut, Krankheit, Schmutz und Elend. Ueber Wert</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_4" custom="readingOrder {index:3;}">
+               <Coords points="247,4783 2914,4793 2674,4732 247,4742"/>
+               <Baseline points="265,4776 310,4776 355,4776 400,4776 444,4776 489,4776 534,4776 579,4776 623,4773 668,4773 713,4776 758,4773 803,4773 847,4773 892,4773 937,4773 982,4773 1026,4773 1071,4773 1116,4770 1161,4770 1206,4770 1250,4770 1295,4773 1340,4773 1385,4770 1429,4773 1474,4773 1519,4773 1564,4773 1609,4770 1653,4773 1698,4773 1743,4773 1788,4773 1833,4773 1877,4773 1922,4773 1967,4773 2012,4773 2056,4773 2101,4773 2146,4773 2191,4773 2236,4773 2280,4773 2325,4773 2370,4773 2415,4776 2459,4776 2504,4776 2549,4776 2594,4776 2639,4776 2683,4776 2728,4776 2773,4776 2818,4776 2862,4776 2907,4779 2922,4776"/>
+               <TextEquiv>
+                  <Unicode>oder Unwert der gewaltigen Unternehmung, die das Kaspische Meer mit dem Persischen Golf verbinden wird, hat man viel diskutiert,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_5" custom="readingOrder {index:4;}">
+               <Coords points="250,4833 2900,4840 250,4786"/>
+               <Baseline points="268,4824 313,4824 358,4824 403,4824 447,4824 492,4824 537,4824 582,4824 626,4821 671,4821 716,4821 761,4821 806,4821 850,4821 895,4821 940,4821 985,4821 1029,4821 1074,4818 1119,4818 1164,4821 1209,4821 1253,4821 1298,4821 1343,4821 1388,4818 1432,4821 1477,4821 1522,4818 1567,4821 1612,4821 1656,4821 1701,4821 1746,4821 1791,4821 1835,4821 1880,4821 1925,4821 1970,4821 2015,4821 2059,4821 2104,4821 2149,4821 2194,4821 2239,4824 2283,4821 2328,4821 2373,4821 2418,4824 2462,4824 2507,4824 2552,4824 2597,4824 2642,4824 2686,4824 2731,4824 2776,4824 2821,4824 2865,4824 2910,4824"/>
+               <TextEquiv>
+                  <Unicode>Truppentransporte oder Handelsverkehr? Vorteil für England, für die Sowjetunion, oder einfach ein Werk, das den Stolz der Iranier</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_6" custom="readingOrder {index:5;}">
+               <Coords points="250,4884 2910,4908 2873,4833 250,4830"/>
+               <Baseline points="268,4872 313,4872 358,4872 403,4872 447,4872 492,4872 537,4872 582,4872 626,4872 671,4872 716,4869 761,4869 806,4869 850,4869 895,4869 940,4869 985,4869 1029,4869 1074,4869 1119,4866 1164,4869 1209,4869 1253,4869 1298,4869 1343,4869 1388,4869 1432,4869 1477,4869 1522,4869 1567,4869 1612,4869 1656,4869 1701,4869 1746,4869 1791,4869 1835,4869 1880,4872 1925,4872 1970,4872 2015,4872 2059,4872 2104,4872 2149,4872 2194,4872 2239,4872 2283,4872 2328,4872 2373,4872 2418,4872 2462,4872 2507,4872 2552,4872 2597,4872 2642,4872 2686,4872 2731,4872 2776,4875 2821,4872 2865,4872 2910,4872 2919,4875"/>
+               <TextEquiv>
+                  <Unicode>befriedigt? Aber sind diese Fragen richtig gestellt? Die Technik ist eine Waffe, — zum Segen gereicht sie nur, wenn sie eingesetzt wird</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_7" custom="readingOrder {index:6;}">
+               <Coords points="250,4942 318,4955 372,4931 463,4955 548,4931 801,4965 838,4935 889,4942 892,4884 254,4894"/>
+               <Baseline points="268,4928 313,4922 358,4922 403,4922 447,4919 492,4919 537,4919 582,4919 626,4919 671,4916 716,4919 761,4919 806,4916 850,4916 895,4916"/>
+               <TextEquiv>
+                  <Unicode>gegen die Leiden der Menschen.\:fp\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_2" custom="readingOrder {index:4;}">
+            <Coords points="3033,4329 4302,4329 4302,5584 3033,5584"/>
+            <TextLine id="r_2_tl_3" custom="readingOrder {index:0;}">
+               <Coords points="3448,5591 3468,5591 3475,5597 3492,5594 3502,5604 3505,5601 3508,5604 3519,5594 3525,5597 3532,5591 3546,5591 3546,5550 3525,5553 3508,5540 3495,5540 3492,5536 3444,5536"/>
+               <Baseline points="3465,5576 3510,5579 3555,5579"/>
+               <TextEquiv>
+                  <Unicode>\f\Hochebene von Firuskuh\:f\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_3" custom="readingOrder {index:5;}">
+            <Coords points="3000,5604 4335,5604 4335,5938 3000,5938"/>
+            <TextLine id="r_3_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="3005,5658 4303,5662 4303,5607 4195,5594 3005,5611"/>
+               <Baseline points="3024,5648 3068,5648 3113,5648 3158,5648 3203,5645 3248,5645 3292,5645 3337,5645 3382,5645 3427,5645 3471,5648 3516,5645 3561,5645 3606,5648 3651,5648 3695,5648 3740,5648 3785,5645 3830,5645 3874,5645 3919,5645 3964,5645 4009,5645 4054,5645 4098,5645 4143,5645 4188,5645 4233,5645 4278,5645 4307,5648"/>
+               <TextEquiv>
+                  <Unicode>\fp\Auf der Hochebene von Firuskuh, sehr weit entfernt von Städten,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="3005,5705 4296,5712 4259,5655 3005,5658"/>
+               <Baseline points="3024,5696 3051,5696 3095,5696 3140,5696 3185,5696 3230,5696 3274,5696 3319,5693 3364,5693 3409,5696 3454,5693 3498,5696 3543,5696 3588,5696 3633,5693 3677,5696 3722,5696 3767,5696 3812,5693 3857,5696 3901,5693 3946,5693 3991,5693 4036,5693 4080,5693 4125,5693 4170,5693 4215,5693 4260,5693 4304,5693"/>
+               <TextEquiv>
+                  <Unicode>Unternehmungen und anderen Menschen, treiben die Nomaden</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_3" custom="readingOrder {index:2;}">
+               <Coords points="3005,5753 4296,5760 4296,5709 4218,5702 3005,5705"/>
+               <Baseline points="3024,5740 3068,5743 3113,5743 3158,5743 3203,5743 3248,5743 3292,5743 3337,5743 3382,5743 3427,5740 3471,5743 3516,5743 3561,5743 3606,5743 3651,5743 3695,5743 3740,5743 3785,5743 3830,5740 3874,5740 3919,5740 3964,5740 4009,5740 4054,5740 4098,5740 4143,5740 4188,5740 4233,5740 4278,5740 4304,5740"/>
+               <TextEquiv>
+                  <Unicode>seit etlichen tausend Jahren ihre Herden auf die Sommerweiden.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_4" custom="readingOrder {index:3;}">
+               <Coords points="3005,5807 4296,5807 4266,5753 3005,5756"/>
+               <Baseline points="3024,5791 3051,5791 3095,5791 3140,5791 3185,5791 3230,5791 3274,5791 3319,5791 3364,5791 3409,5791 3454,5791 3498,5791 3543,5791 3588,5791 3633,5791 3677,5791 3722,5791 3767,5791 3812,5791 3857,5791 3901,5791 3946,5791 3991,5788 4036,5788 4080,5788 4125,5788 4170,5788 4215,5788 4260,5788 4304,5785"/>
+               <TextEquiv>
+                  <Unicode>Dort wurde das große Antlitz Asiens geprägt, — ob es unverän¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_5" custom="readingOrder {index:4;}">
+               <Coords points="3005,5847 4306,5858 4306,5807 4070,5790 3005,5807"/>
+               <Baseline points="3024,5839 3059,5839 3104,5839 3149,5839 3194,5839 3239,5839 3283,5839 3328,5839 3373,5836 3418,5839 3463,5839 3507,5836 3552,5839 3597,5836 3642,5839 3686,5839 3731,5839 3776,5839 3821,5836 3866,5839 3910,5836 3955,5839 4000,5836 4045,5836 4089,5836 4134,5836 4179,5836 4224,5836 4269,5836 4313,5836"/>
+               <TextEquiv>
+                  <Unicode>derlich und ewig ist? — Den kleinen Hirtenbub kümmert es</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_6" custom="readingOrder {index:5;}">
+               <Coords points="3001,5915 4181,5898 4151,5847 3001,5847"/>
+               <Baseline points="3021,5887 3065,5887 3110,5890 3155,5887 3200,5887 3245,5887 3289,5887 3334,5887 3379,5887 3424,5887 3468,5887 3513,5887 3558,5887 3603,5887 3648,5887 3692,5887 3737,5887 3782,5887 3827,5887 3872,5887 3916,5887 3961,5887 4006,5884 4051,5887 4095,5887 4140,5884 4185,5887 4188,5887"/>
+               <TextEquiv>
+                  <Unicode>jedenfalls nicht, daß er an der Scheide zweier Zeitalter lebt.\:fp\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+      </Page>
+   </PcGts>
+</validation-wrapper>
