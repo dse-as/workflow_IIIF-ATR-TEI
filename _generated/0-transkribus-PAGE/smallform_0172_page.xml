@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<validation-wrapper>
+   <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+      <Metadata>
+         <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=14_03_2025_13:49</Creator>
+         <Created>2025-03-11T12:26:56.129+01:00</Created>
+         <LastChange>2025-03-14T14:05:49.289+01:00</LastChange>
+         <TranskribusMetadata docId="7363395"
+                              pageId="93288585"
+                              pageNr="1"
+                              tsid="235178616"
+                              status="FINAL"
+                              userId="295817"
+                              imgUrl="https://files.transkribus.eu/Get?id=IQFFEARUXNPECEGLZQAFQHWM&amp;fileType=view"
+                              xmlUrl="https://files.transkribus.eu/Get?id=QBKNGPSUSDYYJFGAKCDVWHBH"
+                              imageId="78008297"/>
+      </Metadata>
+      <Page imageFilename="smallform_0172_001.jpg"
+            imageWidth="4775"
+            imageHeight="6320">
+         <ReadingOrder>
+            <OrderedGroup id="ro_1741957549289" caption="Regions reading order">
+               <RegionRefIndexed index="0" regionRef="r_3"/>
+               <RegionRefIndexed index="1" regionRef="r_15"/>
+               <RegionRefIndexed index="2" regionRef="r_2"/>
+               <RegionRefIndexed index="3" regionRef="r"/>
+               <RegionRefIndexed index="4" regionRef="r_16"/>
+               <RegionRefIndexed index="5" regionRef="r_17"/>
+            </OrderedGroup>
+         </ReadingOrder>
+         <TextRegion id="r_3" custom="readingOrder {index:0;}">
+            <Coords points="208,3730 4380,3730 4387,4393 208,4393"/>
+            <TextLine id="r_3_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="210,3868 420,3893 455,3863 530,3863 610,3893 681,3853 746,3898 886,3898 886,3768 210,3783"/>
+               <Baseline points="238,3852 328,3858 418,3852 507,3852 597,3852 686,3852 776,3846 866,3852 896,3852"/>
+               <TextEquiv>
+                  <Unicode>Annemarie Clark:</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="290,4208 4303,4198 4303,4043 3873,3943 1746,4058 290,3958"/>
+               <Baseline points="316,4181 406,4175 495,4175 585,4175 675,4175 764,4175 854,4175 943,4175 1033,4175 1123,4181 1212,4181 1302,4181 1391,4181 1481,4181 1571,4181 1660,4175 1750,4175 1839,4175 1929,4181 2019,4175 2108,4175 2198,4175 2287,4169 2377,4175 2467,4175 2556,4181 2646,4181 2735,4181 2825,4181 2915,4181 3004,4181 3094,4175 3183,4175 3273,4175 3363,4175 3452,4181 3542,4181 3631,4181 3721,4163 3811,4169 3900,4169 3990,4175 4079,4181 4169,4181 4259,4187 4318,4193"/>
+               <TextEquiv>
+                  <Unicode>Von Teheran zum Kaspischen Meer</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_3" custom="readingOrder {index:2;}">
+               <Coords points="250,4378 856,4408 1271,4368 1511,4403 1516,4283 255,4278"/>
+               <Baseline points="280,4366 358,4360 448,4360 537,4360 627,4354 716,4360 806,4360 896,4354 985,4360 1075,4360 1164,4360 1254,4360 1344,4354 1433,4354 1523,4354"/>
+               <TextEquiv>
+                  <Unicode>Eine moderne Paßstraße in Iran</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_15" custom="readingOrder {index:1;}">
+            <Coords points="2277,4407 4360,4407 4360,6041 2277,6041"/>
+            <TextLine id="r_15_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="2262,4483 3217,4488 3217,4408 3117,4393 2982,4423 2752,4398 2712,4428 2262,4393"/>
+               <Baseline points="2287,4474 2377,4480 2467,4480 2556,4480 2646,4486 2735,4480 2825,4480 2915,4480 3004,4480 3094,4480 3183,4480 3231,4480"/>
+               <TextEquiv>
+                  <Unicode>Die Ebene der iranischen Hauptstadt Te¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_3" custom="readingOrder {index:1;}">
+               <Coords points="2252,4543 3222,4548 3222,4488 3152,4478 2252,4483"/>
+               <Baseline points="2281,4539 2341,4533 2431,4539 2520,4533 2610,4533 2700,4533 2789,4533 2879,4533 2968,4533 3058,4533 3148,4533 3237,4527"/>
+               <TextEquiv>
+                  <Unicode>heran ist zwölfhundert Meter hoch, die Paß¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_5" custom="readingOrder {index:2;}">
+               <Coords points="2262,4603 3217,4613 3217,4553 3177,4548 2262,4543"/>
+               <Baseline points="2287,4599 2377,4593 2467,4593 2556,4593 2646,4593 2735,4593 2825,4593 2915,4593 3004,4593 3094,4593 3183,4599 3231,4599"/>
+               <TextEquiv>
+                  <Unicode>höhe von Schulus erreicht über dreitausend,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_7" custom="readingOrder {index:3;}">
+               <Coords points="2262,4663 3217,4674 3217,4603 2262,4603"/>
+               <Baseline points="2287,4659 2335,4653 2425,4653 2514,4653 2604,4653 2694,4653 2783,4653 2873,4653 2962,4653 3052,4647 3142,4653 3231,4653"/>
+               <TextEquiv>
+                  <Unicode>das Kaspische Meer jenseits davon liegt</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_9" custom="readingOrder {index:4;}">
+               <Coords points="2262,4719 3222,4724 3222,4663 3117,4653 2262,4663"/>
+               <Baseline points="2287,4713 2377,4707 2467,4707 2556,4713 2646,4707 2735,4707 2825,4707 2915,4707 3004,4707 3094,4707 3183,4707 3237,4713"/>
+               <TextEquiv>
+                  <Unicode>dreißig Meter unter dem Meeresspiegel</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_11" custom="readingOrder {index:5;}">
+               <Coords points="2247,4784 3242,4784 3242,4724 2247,4719"/>
+               <Baseline points="2275,4766 2365,4766 2455,4766 2544,4766 2634,4766 2723,4766 2813,4766 2903,4766 2992,4766 3082,4766 3171,4772 3249,4766"/>
+               <TextEquiv>
+                  <Unicode>Das Elbrusgebirge trennt zwei Welten: das</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_13" custom="readingOrder {index:6;}">
+               <Coords points="2252,4844 3222,4834 3222,4789 3112,4774 2252,4784"/>
+               <Baseline points="2281,4826 2371,4826 2461,4826 2550,4826 2640,4826 2729,4826 2819,4826 2909,4826 2998,4826 3088,4826 3177,4826 3231,4826"/>
+               <TextEquiv>
+                  <Unicode>aride, kontinentale, iranische Hochplateau</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_15" custom="readingOrder {index:7;}">
+               <Coords points="2252,4899 3222,4894 3222,4839 2252,4844"/>
+               <Baseline points="2281,4886 2335,4880 2425,4880 2514,4880 2604,4886 2694,4880 2783,4880 2873,4880 2962,4880 3052,4880 3142,4886 3231,4880"/>
+               <TextEquiv>
+                  <Unicode>mit seinem typisch östlichen Gepräge, sei¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_17" custom="readingOrder {index:8;}">
+               <Coords points="2247,4959 3217,4954 3217,4894 3152,4889 2247,4894"/>
+               <Baseline points="2275,4934 2365,4940 2455,4940 2544,4940 2634,4940 2723,4940 2813,4940 2903,4940 2992,4940 3082,4940 3171,4940 3225,4940"/>
+               <TextEquiv>
+                  <Unicode>nen Lehmbauten, flachen Dächern, riesigen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_19" custom="readingOrder {index:9;}">
+               <Coords points="2247,5004 2382,5029 3222,5014 3222,4949 2247,4959"/>
+               <Baseline points="2275,4993 2365,4999 2455,4999 2544,4999 2634,4999 2723,4999 2813,4999 2903,4999 2992,4999 3082,4999 3171,4999 3237,4999"/>
+               <TextEquiv>
+                  <Unicode>Karawanenstraßen, weitausgedehnten Städ-</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_21" custom="readingOrder {index:10;}">
+               <Coords points="2242,5064 3217,5064 3217,5014 2242,5019"/>
+               <Baseline points="2269,5059 2335,5053 2425,5053 2514,5053 2604,5053 2694,5059 2783,5053 2873,5053 2962,5053 3052,5053 3142,5053 3231,5053"/>
+               <TextEquiv>
+                  <Unicode>ten, — und die Kaspische Senke, einen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_23" custom="readingOrder {index:11;}">
+               <Coords points="2242,5124 3217,5119 3217,5064 2242,5064"/>
+               <Baseline points="2269,5113 2335,5113 2425,5113 2514,5113 2604,5113 2694,5113 2783,5113 2873,5113 2962,5113 3052,5113 3142,5113 3231,5107"/>
+               <TextEquiv>
+                  <Unicode>äußerst fruchtbaren Landstrich mit tropi¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_25" custom="readingOrder {index:12;}">
+               <Coords points="2242,5184 3217,5189 3217,5124 3187,5119 2242,5119"/>
+               <Baseline points="2269,5173 2359,5173 2449,5173 2538,5173 2628,5173 2717,5167 2807,5167 2897,5167 2986,5167 3076,5167 3165,5173 3231,5173"/>
+               <TextEquiv>
+                  <Unicode>schem Klima, reichem Pflanzenwuchs, mit</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_27" custom="readingOrder {index:13;}">
+               <Coords points="2252,5239 3222,5244 3222,5184 3142,5169 2252,5184"/>
+               <Baseline points="2281,5226 2371,5226 2461,5226 2550,5226 2640,5226 2729,5226 2819,5226 2909,5226 2998,5226 3088,5226 3177,5226 3237,5232"/>
+               <TextEquiv>
+                  <Unicode>Häusern aus Holz und mit strohgedeckten</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_29" custom="readingOrder {index:14;}">
+               <Coords points="2262,5304 3222,5299 3222,5244 3172,5234 2262,5239"/>
+               <Baseline points="2287,5286 2377,5286 2467,5286 2556,5286 2646,5280 2735,5286 2825,5286 2915,5286 3004,5286 3094,5286 3183,5286 3237,5286"/>
+               <TextEquiv>
+                  <Unicode>Dächern. Früher war die Trennung fast</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_31" custom="readingOrder {index:15;}">
+               <Coords points="2262,5349 3232,5359 3232,5299 3167,5294 2262,5299"/>
+               <Baseline points="2287,5340 2377,5340 2467,5340 2556,5340 2646,5346 2735,5340 2825,5340 2915,5340 3004,5340 3094,5346 3183,5346 3243,5340"/>
+               <TextEquiv>
+                  <Unicode>vollständig: auf zwei langen Straßen, dem</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_33" custom="readingOrder {index:16;}">
+               <Coords points="2252,5419 3222,5414 3222,5349 2252,5344"/>
+               <Baseline points="2281,5400 2371,5400 2461,5400 2550,5400 2640,5400 2729,5400 2819,5400 2909,5394 2998,5400 3088,5400 3177,5400 3231,5400"/>
+               <TextEquiv>
+                  <Unicode>Kasvin-Paß und dem Paß von Firuskuh,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_35" custom="readingOrder {index:17;}">
+               <Coords points="2252,5464 2427,5459 2467,5489 2607,5464 2712,5494 2867,5454 3222,5469 3222,5419 3172,5409 2252,5414"/>
+               <Baseline points="2281,5459 2335,5459 2425,5453 2514,5453 2604,5453 2694,5453 2783,5453 2873,5453 2962,5453 3052,5453 3142,5453 3231,5453"/>
+               <TextEquiv>
+                  <Unicode>spielte sich ein langsamer Karawanenver¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_37" custom="readingOrder {index:18;}">
+               <Coords points="2262,5524 3217,5534 3217,5474 3167,5469 2262,5464"/>
+               <Baseline points="2287,5519 2335,5513 2425,5513 2514,5513 2604,5513 2694,5513 2783,5513 2873,5513 2962,5513 3052,5513 3142,5513 3231,5507"/>
+               <TextEquiv>
+                  <Unicode>kehr ab, das war alles. Gilan und Mazan¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_39" custom="readingOrder {index:19;}">
+               <Coords points="2267,5579 3237,5589 3237,5529 3202,5524 2267,5519"/>
+               <Baseline points="2293,5573 2383,5573 2473,5573 2562,5573 2652,5573 2741,5573 2831,5573 2921,5573 3010,5573 3100,5567 3189,5573 3243,5573"/>
+               <TextEquiv>
+                  <Unicode>deran, die reichsten persischen Provinzen,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_41" custom="readingOrder {index:20;}">
+               <Coords points="2262,5639 3232,5634 3232,5584 3157,5574 2262,5579"/>
+               <Baseline points="2287,5627 2377,5627 2467,5627 2556,5627 2646,5627 2735,5627 2825,5633 2915,5627 3004,5633 3094,5627 3183,5627 3243,5633"/>
+               <TextEquiv>
+                  <Unicode>lagen abseits, an der ganzen kaspischen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_43" custom="readingOrder {index:21;}">
+               <Coords points="2262,5689 3232,5699 3232,5634 2262,5634"/>
+               <Baseline points="2287,5686 2347,5680 2437,5686 2526,5686 2616,5686 2706,5680 2795,5686 2885,5686 2974,5686 3064,5686 3154,5686 3243,5680"/>
+               <TextEquiv>
+                  <Unicode>Küste gab es einen einzigen Hafen, Enzeli¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_45" custom="readingOrder {index:22;}">
+               <Coords points="2267,5754 3237,5759 3237,5699 3187,5694 2267,5694"/>
+               <Baseline points="2293,5740 2383,5740 2473,5740 2562,5740 2652,5740 2741,5740 2831,5740 2921,5740 3010,5740 3100,5740 3189,5740 3243,5740"/>
+               <TextEquiv>
+                  <Unicode>Pehlevi. Das hat sich in den letzten zehn</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_47" custom="readingOrder {index:23;}">
+               <Coords points="2272,5809 3242,5804 3242,5759 3177,5754 2272,5749"/>
+               <Baseline points="2299,5806 2353,5800 2443,5800 2532,5800 2622,5800 2711,5800 2801,5800 2891,5800 2980,5800 3070,5800 3160,5800 3249,5794"/>
+               <TextEquiv>
+                  <Unicode>Jahren geändert. Die Erschließung des Lan¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_49" custom="readingOrder {index:24;}">
+               <Coords points="2272,5874 3232,5869 3232,5809 2272,5809"/>
+               <Baseline points="2299,5860 2389,5860 2479,5854 2568,5854 2658,5860 2747,5854 2837,5854 2927,5860 3016,5860 3106,5860 3195,5860 3243,5860"/>
+               <TextEquiv>
+                  <Unicode>des durch neue Verkehrswege gehört zu den</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_51" custom="readingOrder {index:25;}">
+               <Coords points="2252,5924 3222,5929 3222,5879 3177,5864 2252,5874"/>
+               <Baseline points="2281,5913 2371,5913 2461,5913 2550,5913 2640,5913 2729,5913 2819,5913 2909,5913 2998,5913 3088,5919 3177,5913 3237,5913"/>
+               <TextEquiv>
+                  <Unicode>wichtigen Aufgaben der Regierung, die</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_53" custom="readingOrder {index:26;}">
+               <Coords points="2267,5994 3162,6010 3237,5984 3237,5924 2267,5929"/>
+               <Baseline points="2293,5973 2383,5973 2473,5973 2562,5973 2652,5973 2741,5973 2831,5973 2921,5973 3010,5973 3100,5973 3189,5973 3249,5973"/>
+               <TextEquiv>
+                  <Unicode>unter bewundernswertem Aufwand an</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_2" custom="readingOrder {index:27;}">
+               <Coords points="3292,4493 4298,4493 4298,4398 4223,4388 4058,4443 3983,4393 3292,4413"/>
+               <Baseline points="3321,4480 3410,4480 3500,4480 3590,4480 3679,4480 3769,4486 3858,4486 3948,4486 4038,4486 4127,4486 4217,4486 4306,4480 4312,4480"/>
+               <TextEquiv>
+                  <Unicode>Energie und Klugheit das asiatische und</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_4" custom="readingOrder {index:28;}">
+               <Coords points="3307,4553 4293,4558 4293,4493 3307,4493"/>
+               <Baseline points="3333,4539 3410,4533 3500,4539 3590,4533 3679,4533 3769,4539 3858,4539 3948,4539 4038,4539 4127,4539 4217,4539 4306,4533"/>
+               <TextEquiv>
+                  <Unicode>rückständige Persien in einen neuen, tech¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_6" custom="readingOrder {index:29;}">
+               <Coords points="3297,4608 4298,4613 4298,4558 4208,4548 3297,4558"/>
+               <Baseline points="3327,4599 3416,4593 3506,4593 3596,4593 3685,4593 3775,4593 3864,4593 3954,4599 4044,4593 4133,4599 4223,4599 4312,4599"/>
+               <TextEquiv>
+                  <Unicode>nisch und kulturell fortschrittlichen Staat</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_8" custom="readingOrder {index:30;}">
+               <Coords points="3312,4674 4293,4674 4293,4618 4163,4598 3312,4608"/>
+               <Baseline points="3339,4659 3410,4653 3500,4653 3590,4653 3679,4653 3769,4653 3858,4653 3948,4653 4038,4653 4127,4653 4217,4653 4306,4653"/>
+               <TextEquiv>
+                  <Unicode>umwandelt: das moderne Iran. Wir haben</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_10" custom="readingOrder {index:31;}">
+               <Coords points="3312,4719 4293,4724 4293,4674 4213,4658 3312,4668"/>
+               <Baseline points="3339,4713 3428,4707 3518,4707 3608,4713 3697,4713 3787,4713 3876,4713 3966,4713 4056,4713 4145,4713 4235,4713 4306,4713"/>
+               <TextEquiv>
+                  <Unicode>schon über den Bau der Transiranischen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_12" custom="readingOrder {index:32;}">
+               <Coords points="3312,4779 4298,4789 4298,4729 4248,4724 3312,4724"/>
+               <Baseline points="3339,4772 3416,4766 3506,4766 3596,4766 3685,4772 3775,4766 3864,4772 3954,4766 4044,4772 4133,4772 4223,4766 4312,4766"/>
+               <TextEquiv>
+                  <Unicode>Bahn berichtet, jener großzügigen Unter¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_14" custom="readingOrder {index:33;}">
+               <Coords points="3297,4839 4283,4844 4283,4789 4228,4779 3297,4784"/>
+               <Baseline points="3327,4826 3416,4826 3506,4826 3596,4826 3685,4826 3775,4826 3864,4826 3954,4826 4044,4826 4133,4826 4223,4826 4294,4826"/>
+               <TextEquiv>
+                  <Unicode>nehmung, die das Kaspische Meer mit dem</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_16" custom="readingOrder {index:34;}">
+               <Coords points="3307,4889 4303,4904 4303,4839 3307,4834"/>
+               <Baseline points="3333,4880 3422,4880 3512,4880 3602,4880 3691,4880 3781,4886 3870,4886 3960,4886 4050,4886 4139,4886 4229,4886 4312,4886"/>
+               <TextEquiv>
+                  <Unicode>Persischen Golf verbinden wird. Die neue</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_18" custom="readingOrder {index:35;}">
+               <Coords points="3307,4949 3488,4974 3658,4944 4293,4954 4293,4899 4218,4894 3307,4889"/>
+               <Baseline points="3333,4940 3422,4940 3512,4940 3602,4940 3691,4940 3781,4940 3870,4940 3960,4940 4050,4940 4139,4940 4229,4940 4306,4946"/>
+               <TextEquiv>
+                  <Unicode>Schalusstraße dient einem verwandten</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_20" custom="readingOrder {index:36;}">
+               <Coords points="3292,5009 4298,5019 4298,4959 4253,4949 3292,4944"/>
+               <Baseline points="3321,4999 3410,4993 3500,4999 3590,4999 3679,4999 3769,4999 3858,4999 3948,4999 4038,4999 4127,4999 4217,4999 4306,4999 4312,4999"/>
+               <TextEquiv>
+                  <Unicode>Zweck. Ohne Rücksicht auf geographische</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_22" custom="readingOrder {index:37;}">
+               <Coords points="3312,5069 4298,5069 4298,5024 4228,5014 3312,5009"/>
+               <Baseline points="3339,5059 3416,5053 3506,5059 3596,5053 3685,5059 3775,5053 3864,5059 3954,5059 4044,5053 4133,5059 4223,5059 4312,5053"/>
+               <TextEquiv>
+                  <Unicode>Schwierigkeiten hat man die kürzeste</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_24" custom="readingOrder {index:38;}">
+               <Coords points="3307,5134 4283,5129 4283,5064 3307,5069"/>
+               <Baseline points="3333,5113 3422,5113 3512,5113 3602,5113 3691,5113 3781,5113 3870,5113 3960,5113 4050,5113 4139,5113 4229,5119 4294,5113"/>
+               <TextEquiv>
+                  <Unicode>Strecke zwischen Teheran und dem Kaspi¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_26" custom="readingOrder {index:39;}">
+               <Coords points="3307,5179 4288,5179 4288,5129 4183,5119 3307,5129"/>
+               <Baseline points="3333,5173 3422,5167 3512,5173 3602,5173 3691,5173 3781,5173 3870,5173 3960,5173 4050,5173 4139,5173 4229,5179 4300,5173"/>
+               <TextEquiv>
+                  <Unicode>schen Meer gewählt und eine Paßstraße ge¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_28" custom="readingOrder {index:40;}">
+               <Coords points="3307,5244 4293,5244 4293,5179 3307,5179"/>
+               <Baseline points="3333,5232 3410,5226 3500,5226 3590,5226 3679,5226 3769,5226 3858,5226 3948,5232 4038,5232 4127,5232 4217,5226 4306,5226"/>
+               <TextEquiv>
+                  <Unicode>baut, die an technischer Kühnheit und land¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_30" custom="readingOrder {index:41;}">
+               <Coords points="3317,5294 4288,5304 4288,5249 4243,5239 3317,5249"/>
+               <Baseline points="3345,5286 3434,5286 3524,5286 3613,5286 3703,5286 3793,5286 3882,5286 3972,5292 4062,5286 4151,5292 4241,5286 4300,5292"/>
+               <TextEquiv>
+                  <Unicode>schaftlicher Schönheit ihresgleichen sucht.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_32" custom="readingOrder {index:42;}">
+               <Coords points="3307,5359 4303,5354 4303,5309 4138,5289 3307,5294"/>
+               <Baseline points="3333,5346 3416,5340 3506,5346 3596,5340 3685,5340 3775,5346 3864,5346 3954,5346 4044,5346 4133,5346 4223,5346 4312,5340"/>
+               <TextEquiv>
+                  <Unicode>Da die Paßhöhe einen großen Teil des Jah-</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_34" custom="readingOrder {index:43;}">
+               <Coords points="3292,5414 4288,5419 4288,5354 4183,5344 3948,5374 3292,5359"/>
+               <Baseline points="3321,5400 3410,5400 3500,5400 3590,5400 3679,5400 3769,5400 3858,5406 3948,5406 4038,5400 4127,5406 4217,5406 4294,5400"/>
+               <TextEquiv>
+                  <Unicode>res von Schnee bedeckt ist, wird sie durch</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_36" custom="readingOrder {index:44;}">
+               <Coords points="3292,5479 4293,5479 4293,5419 4158,5404 3292,5414"/>
+               <Baseline points="3321,5459 3410,5453 3500,5459 3590,5459 3679,5459 3769,5459 3858,5459 3948,5459 4038,5459 4127,5459 4217,5459 4306,5459"/>
+               <TextEquiv>
+                  <Unicode>einen Tunnel durchstochen, und die Haupt¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_38" custom="readingOrder {index:45;}">
+               <Coords points="3312,5529 4288,5529 4283,5474 3307,5474"/>
+               <Baseline points="3333,5519 3422,5513 3512,5513 3602,5513 3691,5513 3781,5519 3870,5519 3960,5519 4050,5519 4139,5519 4229,5519 4300,5519"/>
+               <TextEquiv>
+                  <Unicode>stadt Irans ist jetzt nur noch sechs Auto¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_40" custom="readingOrder {index:46;}">
+               <Coords points="3317,5579 4288,5589 4288,5534 4153,5519 3317,5529"/>
+               <Baseline points="3345,5579 3434,5573 3524,5573 3613,5573 3703,5573 3793,5573 3882,5573 3972,5573 4062,5573 4151,5573 4241,5573 4300,5579"/>
+               <TextEquiv>
+                  <Unicode>stunden vom Meer entfernt. Am nördlichen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_42" custom="readingOrder {index:47;}">
+               <Coords points="3307,5644 4283,5644 4283,5589 3307,5584"/>
+               <Baseline points="3333,5633 3398,5633 3488,5633 3578,5633 3667,5627 3757,5627 3846,5633 3936,5633 4026,5633 4115,5633 4205,5633 4294,5627"/>
+               <TextEquiv>
+                  <Unicode>Ausgangspunkt, wo bereits ein Sommer¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_44" custom="readingOrder {index:48;}">
+               <Coords points="3307,5709 4293,5709 4293,5644 3307,5644"/>
+               <Baseline points="3333,5692 3410,5686 3500,5686 3590,5686 3679,5686 3769,5686 3858,5686 3948,5686 4038,5686 4127,5692 4217,5692 4306,5686"/>
+               <TextEquiv>
+                  <Unicode>palast des Schahs und ein modernes Hotel</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_46" custom="readingOrder {index:49;}">
+               <Coords points="3307,5759 4293,5759 4293,5709 4218,5694 3307,5709"/>
+               <Baseline points="3333,5746 3422,5740 3512,5740 3602,5740 3691,5746 3781,5746 3870,5746 3960,5746 4050,5746 4139,5746 4229,5746 4306,5746"/>
+               <TextEquiv>
+                  <Unicode>stehen, wird von holländischen Ingenieu¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_48" custom="readingOrder {index:50;}">
+               <Coords points="3312,5809 4288,5814 4288,5764 4238,5754 3312,5759"/>
+               <Baseline points="3339,5806 3428,5800 3518,5800 3608,5800 3697,5800 3787,5806 3876,5800 3966,5806 4056,5800 4145,5800 4235,5800 4300,5806"/>
+               <TextEquiv>
+                  <Unicode>ren der Hafen Deno gebaut, der für den</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_50" custom="readingOrder {index:51;}">
+               <Coords points="3312,5874 4298,5869 4298,5814 4088,5799 3833,5829 3312,5809"/>
+               <Baseline points="3339,5866 3416,5860 3506,5854 3596,5860 3685,5860 3775,5860 3864,5860 3954,5860 4044,5860 4133,5860 4223,5860 4312,5860"/>
+               <TextEquiv>
+                  <Unicode>Handelsverkehr mit der Sowjetrepublik</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_52" custom="readingOrder {index:52;}">
+               <Coords points="3307,5919 4018,5919 4098,5964 4303,5934 4303,5874 4268,5864 3307,5869"/>
+               <Baseline points="3333,5913 3422,5913 3512,5913 3602,5913 3691,5913 3781,5913 3870,5913 3960,5913 4050,5919 4139,5919 4229,5919 4312,5925"/>
+               <TextEquiv>
+                  <Unicode>und für den transrussischen Verkehr mit</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_tl_54" custom="readingOrder {index:53;}">
+               <Coords points="3312,5989 3448,6015 3478,5989 3528,6015 3648,5989 3768,6015 3833,5994 3863,6015 4058,6010 4058,5924 4018,5919 3913,5939 3312,5924"/>
+               <Baseline points="3339,5979 3428,5979 3518,5973 3608,5973 3697,5973 3787,5979 3876,5979 3966,5973 4056,5979 4073,5979"/>
+               <TextEquiv>
+                  <Unicode>Europa gleich wichtig sein wird.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_2" custom="readingOrder {index:2;}">
+            <Coords points="911,121 4668,121 4668,3864 911,3864"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+               <Coords points="1168,673 1607,658 1606,628 1167,643"/>
+               <Baseline points="1168,673 1607,658"/>
+               <TextEquiv>
+                  <Unicode>\f\Schalusstraße\:f\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r" custom="readingOrder {index:3;}">
+            <Coords points="228,656 864,656 864,1473 228,1473"/>
+            <TextLine id="r_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="240,761 816,761 816,696 721,706 665,671 630,696 515,696 485,671 345,706 240,696"/>
+               <Baseline points="268,752 358,746 448,746 537,746 627,746 716,752 806,746 830,752"/>
+               <TextEquiv>
+                  <Unicode>\fp\Die neue Schalusstraße, die</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="235,801 811,811 811,756 235,761"/>
+               <Baseline points="262,794 352,794 442,794 531,794 621,800 710,800 800,800 824,794"/>
+               <TextEquiv>
+                  <Unicode>in sechs Autostunden die</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_17" custom="readingOrder {index:2;}">
+               <Coords points="261,855 822,859 822,829 261,825"/>
+               <Baseline points="261,855 822,859"/>
+               <TextEquiv>
+                  <Unicode>iranische Hauptstadt Tehe¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_24" custom="readingOrder {index:3;}">
+               <Coords points="256,912 827,905 827,875 255,882"/>
+               <Baseline points="256,912 827,905"/>
+               <TextEquiv>
+                  <Unicode>ran mit dem Kaspischen Meer</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_31" custom="readingOrder {index:4;}">
+               <Coords points="263,947 824,951 824,921 263,917"/>
+               <Baseline points="263,947 824,951"/>
+               <TextEquiv>
+                  <Unicode>verbindet: eine technisch</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_38" custom="readingOrder {index:5;}">
+               <Coords points="252,995 822,1003 822,973 253,965"/>
+               <Baseline points="252,995 822,1003"/>
+               <TextEquiv>
+                  <Unicode>wichtige Tat, die aber auch</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_45" custom="readingOrder {index:6;}">
+               <Coords points="252,1046 825,1046 825,1016 252,1016"/>
+               <Baseline points="252,1046 825,1046"/>
+               <TextEquiv>
+                  <Unicode>ein außergewöhnliches Er¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_52" custom="readingOrder {index:7;}">
+               <Coords points="247,1095 815,1092 815,1062 247,1065"/>
+               <Baseline points="247,1095 815,1092"/>
+               <TextEquiv>
+                  <Unicode>lebnis vermittelt, denn zwei</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_59" custom="readingOrder {index:8;}">
+               <Coords points="249,1145 822,1145 822,1115 249,1115"/>
+               <Baseline points="249,1145 822,1145"/>
+               <TextEquiv>
+                  <Unicode>geographisch und kulturell</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_66" custom="readingOrder {index:9;}">
+               <Coords points="249,1192 825,1192 825,1162 249,1162"/>
+               <Baseline points="249,1192 825,1192"/>
+               <TextEquiv>
+                  <Unicode>völlig verschiedene Land¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_73" custom="readingOrder {index:10;}">
+               <Coords points="247,1238 829,1238 829,1208 247,1208"/>
+               <Baseline points="247,1238 829,1238"/>
+               <TextEquiv>
+                  <Unicode>schaften, das Iranische Hoch¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_80" custom="readingOrder {index:11;}">
+               <Coords points="259,1286 820,1284 820,1254 259,1256"/>
+               <Baseline points="259,1286 820,1284"/>
+               <TextEquiv>
+                  <Unicode>plateau und die tropische</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_87" custom="readingOrder {index:12;}">
+               <Coords points="256,1342 822,1342 822,1312 256,1312"/>
+               <Baseline points="256,1342 822,1342"/>
+               <TextEquiv>
+                  <Unicode>Kaspische Senke, sind durch</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_94" custom="readingOrder {index:13;}">
+               <Coords points="252,1390 820,1390 820,1360 252,1360"/>
+               <Baseline points="252,1390 820,1390"/>
+               <TextEquiv>
+                  <Unicode>die neue Straße einander</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_101" custom="readingOrder {index:14;}">
+               <Coords points="250,1439 825,1443 826,1413 251,1409"/>
+               <Baseline points="250,1439 825,1443"/>
+               <TextEquiv>
+                  <Unicode>zum erstenmal nahegerückt.\:fp\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_16" custom="readingOrder {index:4;}">
+            <Coords points="288,4454 2177,4454 2177,5699 288,5699"/>
+            <TextLine id="r_16_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="540,5714 716,5724 766,5709 786,5729 811,5709 861,5709 896,5729 951,5724 956,5604 906,5609 881,5589 801,5589 781,5604 766,5589 701,5609 676,5589 605,5624 545,5604"/>
+               <Baseline points="567,5686 603,5686 692,5674 782,5668 872,5668 961,5674"/>
+               <TextEquiv>
+                  <Unicode>\f\Wasserbüffel am Kaspischen Meer\:f\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_17" custom="readingOrder {index:5;}">
+            <Coords points="265,5741 2177,5741 2177,6015 265,6015"/>
+            <TextLine id="r_17_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="245,5794 2142,5789 2142,5744 1941,5714 245,5729"/>
+               <Baseline points="274,5782 364,5788 453,5782 543,5782 633,5782 722,5782 812,5782 902,5782 991,5782 1081,5782 1170,5782 1260,5782 1350,5782 1439,5782 1529,5782 1618,5782 1708,5782 1798,5782 1887,5782 1977,5782 2066,5782 2156,5782"/>
+               <TextEquiv>
+                  <Unicode>\fp\Wasserbüffel am Kaspischen Meer. Eben befand man sich noch im Iranischen Hochland, wo</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:1;}">
+               <Coords points="264,5839 2159,5834 2158,5804 264,5809"/>
+               <Baseline points="264,5839 2159,5834"/>
+               <TextEquiv>
+                  <Unicode>riesige Schafherden rastlos über riesige Steppenweiden ziehen, und Kamelkarawanen den neuen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:2;}">
+               <Coords points="267,5888 2161,5885 2161,5855 267,5858"/>
+               <Baseline points="267,5888 2161,5885"/>
+               <TextEquiv>
+                  <Unicode>Lastwagen Konkurrenz machen. Hier unten ist mit einem Schlage alles verändert. Es gibt keine</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_21" custom="readingOrder {index:3;}">
+               <Coords points="273,5936 2153,5939 2153,5909 273,5906"/>
+               <Baseline points="273,5936 2153,5939"/>
+               <TextEquiv>
+                  <Unicode>Kamele, dafür begegnet man großen Herden von Wasserbüffeln, die in der feuchten, schweren</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_28" custom="readingOrder {index:4;}">
+               <Coords points="273,5990 1335,5990 1335,5960 273,5960"/>
+               <Baseline points="273,5990 1335,5990"/>
+               <TextEquiv>
+                  <Unicode>Mittagshitze in träger Ruhe am Meeresufer stehen ...\:fp\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+      </Page>
+   </PcGts>
+</validation-wrapper>

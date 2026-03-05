@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0172" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0172#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0172</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0172"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0172_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211936_012%21zui-001_1936_012_0632.jpg"/>
+            <milestone unit="textregion" xml:id="p001_r_3"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_3_tl_1"/>Annemarie Clark: 
+               <lb xml:id="p001_r_3_tl_2"/>Von Teheran zum Kaspischen Meer 
+               <lb xml:id="p001_r_3_tl_3"/>Eine moderne Paßstraße in Iran</p>
+
+            <milestone unit="textregion" xml:id="p001_r_15"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_15_tl_1"/>Die Ebene der iranischen Hauptstadt Te 
+               <lb xml:id="p001_r_15_tl_3" break="no"/>heran ist zwölfhundert Meter hoch, die Paß 
+               <lb xml:id="p001_r_15_tl_5" break="no"/>höhe von Schulus erreicht über dreitausend, 
+               <lb xml:id="p001_r_15_tl_7"/>das Kaspische Meer jenseits davon liegt 
+               <lb xml:id="p001_r_15_tl_9"/>dreißig Meter unter dem Meeresspiegel 
+               <lb xml:id="p001_r_15_tl_11"/>Das Elbrusgebirge trennt zwei Welten: das 
+               <lb xml:id="p001_r_15_tl_13"/>aride, kontinentale, iranische Hochplateau 
+               <lb xml:id="p001_r_15_tl_15"/>mit seinem typisch östlichen Gepräge, sei 
+               <lb xml:id="p001_r_15_tl_17" break="no"/>nen Lehmbauten, flachen Dächern, riesigen 
+               <lb xml:id="p001_r_15_tl_19"/>Karawanenstraßen, weitausgedehnten Städ- 
+               <lb xml:id="p001_r_15_tl_21"/>ten, – und die Kaspische Senke, einen 
+               <lb xml:id="p001_r_15_tl_23"/>äußerst fruchtbaren Landstrich mit tropi 
+               <lb xml:id="p001_r_15_tl_25" break="no"/>schem Klima, reichem Pflanzenwuchs, mit 
+               <lb xml:id="p001_r_15_tl_27"/>Häusern aus Holz und mit strohgedeckten 
+               <lb xml:id="p001_r_15_tl_29"/>Dächern. Früher war die Trennung fast 
+               <lb xml:id="p001_r_15_tl_31"/>vollständig: auf zwei langen Straßen, dem 
+               <lb xml:id="p001_r_15_tl_33"/>Kasvin-Paß und dem Paß von Firuskuh, 
+               <lb xml:id="p001_r_15_tl_35"/>spielte sich ein langsamer Karawanenver 
+               <lb xml:id="p001_r_15_tl_37" break="no"/>kehr ab, das war alles. Gilan und Mazan 
+               <lb xml:id="p001_r_15_tl_39" break="no"/>deran, die reichsten persischen Provinzen, 
+               <lb xml:id="p001_r_15_tl_41"/>lagen abseits, an der ganzen kaspischen 
+               <lb xml:id="p001_r_15_tl_43"/>Küste gab es einen einzigen Hafen, Enzeli 
+               <lb xml:id="p001_r_15_tl_45" break="no"/>Pehlevi. Das hat sich in den letzten zehn 
+               <lb xml:id="p001_r_15_tl_47"/>Jahren geändert. Die Erschließung des Lan 
+               <lb xml:id="p001_r_15_tl_49" break="no"/>des durch neue Verkehrswege gehört zu den 
+               <lb xml:id="p001_r_15_tl_51"/>wichtigen Aufgaben der Regierung, die 
+               <lb xml:id="p001_r_15_tl_53"/>unter bewundernswertem Aufwand an 
+               <lb xml:id="p001_r_15_tl_2"/>Energie und Klugheit das asiatische und 
+               <lb xml:id="p001_r_15_tl_4"/>rückständige Persien in einen neuen, tech 
+               <lb xml:id="p001_r_15_tl_6" break="no"/>nisch und kulturell fortschrittlichen Staat 
+               <lb xml:id="p001_r_15_tl_8"/>umwandelt: das moderne Iran. Wir haben 
+               <lb xml:id="p001_r_15_tl_10"/>schon über den Bau der Transiranischen 
+               <lb xml:id="p001_r_15_tl_12"/>Bahn berichtet, jener großzügigen Unter 
+               <lb xml:id="p001_r_15_tl_14" break="no"/>nehmung, die das Kaspische Meer mit dem 
+               <lb xml:id="p001_r_15_tl_16"/>Persischen Golf verbinden wird. Die neue 
+               <lb xml:id="p001_r_15_tl_18"/>Schalusstraße dient einem verwandten 
+               <lb xml:id="p001_r_15_tl_20"/>Zweck. Ohne Rücksicht auf geographische 
+               <lb xml:id="p001_r_15_tl_22"/>Schwierigkeiten hat man die kürzeste 
+               <lb xml:id="p001_r_15_tl_24"/>Strecke zwischen Teheran und dem Kaspi 
+               <lb xml:id="p001_r_15_tl_26" break="no"/>schen Meer gewählt und eine Paßstraße ge 
+               <lb xml:id="p001_r_15_tl_28" break="no"/>baut, die an technischer Kühnheit und land 
+               <lb xml:id="p001_r_15_tl_30" break="no"/>schaftlicher Schönheit ihresgleichen sucht. 
+               <lb xml:id="p001_r_15_tl_32"/>Da die Paßhöhe einen großen Teil des Jah- 
+               <lb xml:id="p001_r_15_tl_34"/>res von Schnee bedeckt ist, wird sie durch 
+               <lb xml:id="p001_r_15_tl_36"/>einen Tunnel durchstochen, und die Haupt 
+               <lb xml:id="p001_r_15_tl_38" break="no"/>stadt Irans ist jetzt nur noch sechs Auto 
+               <lb xml:id="p001_r_15_tl_40" break="no"/>stunden vom Meer entfernt. Am nördlichen 
+               <lb xml:id="p001_r_15_tl_42"/>Ausgangspunkt, wo bereits ein Sommer 
+               <lb xml:id="p001_r_15_tl_44" break="no"/>palast des Schahs und ein modernes Hotel 
+               <lb xml:id="p001_r_15_tl_46"/>stehen, wird von holländischen Ingenieu 
+               <lb xml:id="p001_r_15_tl_48" break="no"/>ren der Hafen Deno gebaut, der für den 
+               <lb xml:id="p001_r_15_tl_50"/>Handelsverkehr mit der Sowjetrepublik 
+               <lb xml:id="p001_r_15_tl_52"/>und für den transrussischen Verkehr mit 
+               <lb xml:id="p001_r_15_tl_54"/>Europa gleich wichtig sein wird.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l"/>Schalusstraße</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_tl_1"/>Die neue Schalusstraße, die 
+               <lb xml:id="p001_r_tl_2"/>in sechs Autostunden die 
+               <lb xml:id="p001_l_17"/>iranische Hauptstadt Tehe 
+               <lb xml:id="p001_l_24" break="no"/>ran mit dem Kaspischen Meer 
+               <lb xml:id="p001_l_31"/>verbindet: eine technisch 
+               <lb xml:id="p001_l_38"/>wichtige Tat, die aber auch 
+               <lb xml:id="p001_l_45"/>ein außergewöhnliches Er 
+               <lb xml:id="p001_l_52" break="no"/>lebnis vermittelt, denn zwei 
+               <lb xml:id="p001_l_59"/>geographisch und kulturell 
+               <lb xml:id="p001_l_66"/>völlig verschiedene Land 
+               <lb xml:id="p001_l_73" break="no"/>schaften, das Iranische Hoch 
+               <lb xml:id="p001_l_80" break="no"/>plateau und die tropische 
+               <lb xml:id="p001_l_87"/>Kaspische Senke, sind durch 
+               <lb xml:id="p001_l_94"/>die neue Straße einander 
+               <lb xml:id="p001_l_101"/>zum erstenmal nahegerückt.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_16"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_r_16_tl_1"/>Wasserbüffel am Kaspischen Meer</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_17"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_17_tl_1"/>Wasserbüffel am Kaspischen Meer. Eben befand man sich noch im Iranischen Hochland, wo 
+               <lb xml:id="p001_l_7"/>riesige Schafherden rastlos über riesige Steppenweiden ziehen, und Kamelkarawanen den neuen 
+               <lb xml:id="p001_l_14"/>Lastwagen Konkurrenz machen. Hier unten ist mit einem Schlage alles verändert. Es gibt keine 
+               <lb xml:id="p001_l_21"/>Kamele, dafür begegnet man großen Herden von Wasserbüffeln, die in der feuchten, schweren 
+               <lb xml:id="p001_l_28"/>Mittagshitze in träger Ruhe am Meeresufer stehen ...</p>
+</div>
+       </body>
+    </text>
+ </TEI>
