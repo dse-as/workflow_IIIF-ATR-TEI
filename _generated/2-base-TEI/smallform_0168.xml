@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0168" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0168#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0168</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0168"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0168_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211936_012%21zui-001_1936_012_0166.jpg"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_tl_1"/>Vom Tonkrug 
+               <lb xml:id="p001_r_tl_2"/>zur Benzinkanne</p>
+
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_2_tl_1"/>Welches ist hier die <hi rendition="#g">" klassische "</hi></p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> Figur? 
+               <lb xml:id="p001_r_2_tl_2"/>Das erste Bild zeigt ein Beduinenmädchen – 
+               <lb xml:id="p001_r_2_tl_3"/>und nicht irgendeines, sondern eine junge 
+               <lb xml:id="p001_r_2_tl_4"/>Einwohnerin des sehr alten, gewiß sehr 
+               <lb xml:id="p001_r_2_tl_5"/>klassischen Palmyra. Sie mag getrost das 
+               <lb xml:id="p001_r_2_tl_6"/>Recht für sich in Anspruch nehmen, stam 
+               <lb xml:id="p001_r_2_tl_7" break="no"/>mesverwandt zu sein mit den stolzen Pal 
+               <lb xml:id="p001_r_2_tl_8" break="no"/>myrenserinnen, deren größte und berühm 
+               <lb xml:id="p001_r_2_tl_9" break="no"/>teste, die Königin Zenobia, von ihrer Wü 
+               <lb xml:id="p001_r_2_tl_10" break="no"/>stenstadt aus dem römischen Weltreich zu 
+               <lb xml:id="p001_r_2_tl_11"/>schaffen machte und sich den halben Orient 
+               <lb xml:id="p001_r_2_tl_12"/>unterwarf. Das ist freilich lange her, – die 
+               <lb xml:id="p001_r_2_tl_13"/>Frauen von Palmyra, die schon damals als 
+               <lb xml:id="p001_r_2_tl_14"/>Wasserträgerinnen zum Brunnen gingen, 
+               <lb xml:id="p001_r_2_tl_15"/>trugen auf ihrem edlen Haupt einen edel 
+               <lb xml:id="p001_r_2_tl_16" break="no"/>und schöngeformten Tonkrug. Inzwischen 
+               <lb xml:id="p001_r_2_tl_17"/>hat sich manches geändert, Skeptiker mögen 
+               <lb xml:id="p001_r_2_tl_18"/>sich empören, daß das kleine Beduinenmäd 
+               <lb xml:id="p001_r_2_tl_19" break="no"/>chen statt des Tongefäßes eine alte Benzin- 
+               <lb xml:id="p001_r_2_tl_20"/>kanne benutzt, – das ist der Einbruch der 
+               <lb xml:id="p001_r_2_tl_21"/>" Zivilisation", das Ende alter Ueberliefe 
+               <lb xml:id="p001_r_2_tl_22" break="no"/>rung. Aber ist dieser Einbruch wirklich so 
+               <lb xml:id="p001_r_2_tl_23"/>katastrophal? – Palmyra wäre ohne die 
+               <lb xml:id="p001_r_2_tl_24"/>Τouristen und Archäologen heute vergessen, 
+               <lb xml:id="p001_r_2_tl_25"/>seine Beduinen würden vielleicht ein elen- 
+               <lb xml:id="p001_r_2_tl_26"/>des Hungerdasein führen, – wir wissen das 
+               <lb xml:id="p001_r_2_tl_27"/>von vielen Stämmen, denn die Zeit der 
+               <lb xml:id="p001_r_2_tl_28"/>freien Wanderungen und fröhlich-schreck 
+               <lb xml:id="p001_r_2_tl_29" break="no"/>lichen Kriegs- und Raubzüge ist vorbei. Da 
+               <lb xml:id="p001_r_2_tl_30" break="no"/>für gibt es friedlichen, einträglichen Auto 
+               <lb xml:id="p001_r_2_tl_31" break="no"/>verkehr, Palmyra blüht auf, – und die 
+               <lb xml:id="p001_r_2_tl_32"/>Benzinkanne ist mindestens nicht tragisch, 
+               <lb xml:id="p001_r_2_tl_33"/>denn das Mädchen trägt sie in derselben 
+               <lb xml:id="p001_r_2_tl_34"/>stolzen und koketten Haltung wie seine 
+               <lb xml:id="p001_r_2_tl_35"/>Vorfahren den Tonkrug. Aestheten aller 
+               <lb xml:id="p001_r_2_tl_36" break="no"/>dings freuen sich noch mehr an der jungen 
+               <lb xml:id="p001_r_2_tl_37"/>Araberin, die unbelastet sowohl von Tradi 
+               <lb xml:id="p001_r_2_tl_38" break="no"/>tion als europäischer Massenware, ihren 
+               <lb xml:id="p001_r_2_tl_39"/>mit den eigenen geschickten Händen ge 
+               <lb xml:id="p001_r_2_tl_40" break="no"/>formten Wasserkrug sorglos auf dem breiten 
+               <lb xml:id="p001_r_2_tl_41"/>Haupte balanciert. Das ist nicht klassisch, 
+               <lb xml:id="p001_r_2_tl_42"/>sondern auf die natürlichste Weise einfach – 
+               <lb xml:id="p001_r_2_tl_43"/>und jedenfalls schön. 
+               <lb xml:id="p001_r_2_tl_44"/>Annemarie Clark-Schwarzenbach</p>
+
+            <milestone unit="textregion" xml:id="p001_r_3"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l"/>Beduinenfrau</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_4"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_4_tl_2"/>Beduinenfrau aus Arabien. 
+               <lb xml:id="p001_r_4_tl_1"/>Aufnahme Klugern</p>
+
+            <milestone unit="textregion" xml:id="p001_r_5"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_13"/>Wasserträgerin</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_6"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_6_tl_1"/>Wasserträgerin aus Palmyra. Aufnahme Clark-Schwarzenbach</p>
+</div>
+       </body>
+    </text>
+ </TEI>
