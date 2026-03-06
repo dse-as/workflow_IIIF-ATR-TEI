@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0488" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0488#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0488</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0488"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0488_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0488_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_tl_1"/>"Die amerikanische Armee braucht Krankenschwestern"</p>
+
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <p> 
+               <lb xml:id="p001_r_2_tl_2"/>Im Januar 1941 forderte Bürgermeister La Guardia 
+               <lb xml:id="p001_r_2_tl_1"/>die Absolventinnen höherer Mädchenschulen in New 
+               <lb xml:id="p001_r_2_tl_3"/>York auf, bei ihrer Berufswahl die Möglichkeiten zu 
+               <lb xml:id="p001_r_2_tl_4"/>erwägen, die ihnen als "Nurses" oder Krankenpflege 
+               <lb xml:id="p001_r_2_tl_5" break="no"/>rinnen geboten würden. Ungefähr zur gleichen Zeit 
+               <lb xml:id="p001_r_2_tl_6"/>erhielten diplomatierte Nurses ein auszufüllendes For 
+               <lb xml:id="p001_r_2_tl_7" break="no"/>mular, mit der Anfrage, ob sie sich freiwillig für 
+               <lb xml:id="p001_r_2_tl_8"/>Dienste bei der Armee oder auf anderen Gebieten 
+               <lb xml:id="p001_r_2_tl_9"/>der Kriegsbereitschaft melden wollten.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_11"/>Die Anforderungen, die in den Vereinigten Staaten 
+               <lb xml:id="p001_r_2_tl_10"/>an die Krankenpflegerinnen gestellt werden, sind ziem 
+               <lb xml:id="p001_r_2_tl_12" break="no"/>lich gross. Als Minimum für die Aufnahme in eine 
+               <lb xml:id="p001_r_2_tl_13"/>Pflegerinnenschule wird, wie für die Aufnahme in ein 
+               <lb xml:id="p001_r_2_tl_14"/>College oder eine Universität, der Bildungsgrad einer 
+               <lb xml:id="p001_r_2_tl_15"/>"Höheren Schule" (High school) verlangt; manche mit 
+               <lb xml:id="p001_r_2_tl_16"/>grossen staatlichen oder privaten Hospitälern und Uni 
+               <lb xml:id="p001_r_2_tl_17" break="no"/>versitäten verbundene "Schools of Nursing" verlangen 
+               <lb xml:id="p001_r_2_tl_18"/>sogar zwei Jahre College-Studium als Vorbildung. In 
+               <lb xml:id="p001_r_2_tl_19"/>diesem letzteren Fall können die Nursing-Studentinnen 
+               <lb xml:id="p001_r_2_tl_20"/>nach drei Jahren den regulären Universitätsgrad eines 
+               <lb xml:id="p001_r_2_tl_21"/>"bachelor of science" erhalten, falls sie das Examen 
+               <lb xml:id="p001_r_2_tl_22"/>mit mindestens 125 Punkten bestehen. Den Nursing- 
+               <lb xml:id="p001_r_2_tl_23"/>Studentinnen ohne College-Vorbildung werden die 
+               <lb xml:id="p001_r_2_tl_24"/>ersten drei Jahre im einer Pflegerinnenschule mit 70 
+               <lb xml:id="p001_r_2_tl_25"/>Punkten angerechnet. Nach diesem ersten Examen er 
+               <lb xml:id="p001_r_2_tl_26" break="no"/>halten sie ein Diplom als ausgebildete Nurse, und es 
+               <lb xml:id="p001_r_2_tl_27"/>steht ihnen frei, nach zwei weiteren Jahren Studium 
+               <lb xml:id="p001_r_2_tl_28"/>durch das 125-Punkte-Examen den Grad des bachelor 
+               <lb xml:id="p001_r_2_tl_29"/>zu erwerben. Damit ist eine Nurse aber erst eine 
+               <lb xml:id="p001_r_2_tl_30"/>sogenannte Assistentin. Um als praktizierende Pflege 
+               <lb xml:id="p001_r_2_tl_31" break="no"/>rin zugelassen zu werden, muss sie noch ein Staats 
+               <lb xml:id="p001_r_2_tl_32" break="no"/>examen, das gefürchtete "State board", bestehen. Dieses 
+               <lb xml:id="p001_r_2_tl_33"/>Examen dauert fünf Tage. Die Resultate der Prüfun 
+               <lb xml:id="p001_r_2_tl_34" break="no"/>gen werden den Kandidatinnen erst nach zwei bis drei 
+               <lb xml:id="p001_r_2_tl_35"/>Monaten mitgeteilt. Das Schulgeld der besseren Schools 
+               <lb xml:id="p001_r_2_tl_36"/>of Nursing ist durchschnittlich 200 Dollars. Die Stu 
+               <lb xml:id="p001_r_2_tl_37" break="no"/>entinnen haben freie Station, Nahrung und Wäsche. 
+               <lb xml:id="p001_r_2_tl_38"/>Uniformen und Studienmaterial müssen selbst bezahlt 
+               <lb xml:id="p001_r_2_tl_39"/>werden; hingegen erhalten die Studentinnen meistens 
+               <lb xml:id="p001_r_2_tl_40"/>ein "Taschengeld" von etwa 20 Dollars im Monat. Sie 
+               <lb xml:id="p001_r_2_tl_41"/>arbeiten acht Stunden täglich; davon sind meistens 
+               <lb xml:id="p001_r_2_tl_42"/>nicht mehr als vier Stunden der Praxis gewidmet; die 
+               <lb xml:id="p001_r_2_tl_43"/>übrige Zeit ist ausgefüllt mit Kursen in Anatomie, 
+               <lb xml:id="p001_r_2_tl_44"/>angewandter Chemie, Biologie, Ernährungskunde, ele 
+               <lb xml:id="p001_r_2_tl_45" break="no"/>nentarer Pharmazeutik. In der Studienzeit von drei, 
+               <lb xml:id="p001_r_2_tl_46"/>respektive fünf Jahren sind Volontäraufenthalte von 
+               <lb xml:id="p001_r_2_tl_47"/>je drei Monaten an verschiedenen Anstalten wie Kinder 
+               <lb xml:id="p001_r_2_tl_48" break="no"/>spitälern, psychiatrischen Kliniken etc. inbegriffen.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_49"/>Die angehenden Pflegerinnen müssen mindestens 
+               <lb xml:id="p001_r_2_tl_50"/>achtzehn Jahre alt sein. Sie legen grossen Wert darauf, 
+               <lb xml:id="p001_r_2_tl_51"/>als "Studentinnen" bezeichnet zu werden. Ihre hüb 
+               <lb xml:id="p001_r_2_tl_52" break="no"/>schen, meistens hellblauen Waschkleider, weissen 
+               <lb xml:id="p001_r_2_tl_53"/>Häubchen und militärisch zugeschnittenen Mäntel oder 
+               <lb xml:id="p001_r_2_tl_54"/>Capee heissen nicht "Tracht", sondern "Uniform". Ihre 
+               <lb xml:id="p001_r_2_tl_55"/>Ausbildungszeit darf man ja nicht mit "Training" ver 
+               <lb xml:id="p001_r_2_tl_56" break="no"/>wechseln; es ist "Studium" oder "Schulung". Die be 
+               <lb xml:id="p001_r_2_tl_57" break="no"/>rühmte Florence Nightingale, eine reiche Engländerin, 
+               <lb xml:id="p001_r_2_tl_58"/>die zur Zeit des Krimkrieges der britischen Armee
+               <milestone unit="textregion" xml:id="p001_r_3"/> 
+               <lb xml:id="p001_r_3_tl_2"/>die ersten Begriffe von Hygiene und Verwundeten 
+               <lb xml:id="p001_r_3_tl_1" break="no"/>pflege beibrachte, wird von den amerikanischen Nurses 
+               <lb xml:id="p001_r_3_tl_3"/>ein wenig verächtlich oder mit Bitterkeit zitiert; denn 
+               <lb xml:id="p001_r_3_tl_4"/>sie neigte dazu, ohne viel Rücksicht auf wissenschaft 
+               <lb xml:id="p001_r_3_tl_5" break="no"/>liche Bildung Pflegerinnen mit praktischen Kenntnis 
+               <lb xml:id="p001_r_3_tl_6" break="no"/>sen zu trainieren.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space]</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_7"/>Die Tendenz, das Ausbildungsniveau der Pflegerin 
+               <lb xml:id="p001_r_3_tl_8" break="no"/>nen zu heben, wird in den Vereinigten Staaten von 
+               <lb xml:id="p001_r_3_tl_9"/>offizieller Seite aus guten Gründen unterstützt; denn 
+               <lb xml:id="p001_r_3_tl_10"/>in den auf den ersten Weltkrieg folgenden Jahren 
+               <lb xml:id="p001_r_3_tl_12"/>plötzlicher Prosperität wurden so reichliche private 
+               <lb xml:id="p001_r_3_tl_11"/>Schenkungen für Hospitäler und Anstalten gemacht, 
+               <lb xml:id="p001_r_3_tl_13"/>dass die Pflegerinnenschulen mehr oder minder seriö 
+               <lb xml:id="p001_r_3_tl_14" break="no"/>ser Art wie Pilze aus dem Boden schossen. Besonders 
+               <lb xml:id="p001_r_3_tl_15"/>kleinere Krankenhäuser und Sanatorien unterhalten 
+               <lb xml:id="p001_r_3_tl_16"/>gern eigene "Nursing schools", um sich möglichst rasch 
+               <lb xml:id="p001_r_3_tl_17"/>möglichst billige Hilfskräfte heranzuziehen. Es ist das 
+               <lb xml:id="p001_r_3_tl_18"/>Bestreben nationaler Organisationen wie der "American 
+               <lb xml:id="p001_r_3_tl_19"/>Nursing Association" und der "League of Nursing Edu 
+               <lb xml:id="p001_r_3_tl_20" break="no"/>cation" (um die beiden wichtigsten zu nennen), die 
+               <lb xml:id="p001_r_3_tl_21"/>Ausbildung von Krankenpflegerinnen in den USA, zu 
+               <lb xml:id="p001_r_3_tl_22"/>vereinheitlichen, und die Kandidatinnen dieser Kar 
+               <lb xml:id="p001_r_3_tl_23" break="no"/>riere versuchen entsprechend, in berühmte Schulen wie 
+               <lb xml:id="p001_r_3_tl_24"/>die "New York School of Nursing" oder die des städti 
+               <lb xml:id="p001_r_3_tl_25" break="no"/>schen Bellevue-Hospitals für Psychiatrie in New York 
+               <lb xml:id="p001_r_3_tl_26"/>aufgenommen zu werden. Fast alle Staaten haben jetzt 
+               <lb xml:id="p001_r_3_tl_27"/>mindestens eine Pflegerinnenschule, die an eine Uni 
+               <lb xml:id="p001_r_3_tl_28" break="no"/>versität angeschlossen ist, und die grössten Universitä 
+               <lb xml:id="p001_r_3_tl_29" break="no"/>ten wie etwa Yale und Harvard haben eine Fakultät 
+               <lb xml:id="p001_r_3_tl_30"/>für Krankenpflege.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space]</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_31"/>In einem anlässlich des Aufrufs von La Guardia an 
+               <lb xml:id="p001_r_3_tl_32"/>die New Yorker Schülerinnen gegebenen Interviews 
+               <lb xml:id="p001_r_3_tl_33"/>erklärte die Leiterin der Bellevue-Pflegerinnenschule, 
+               <lb xml:id="p001_r_3_tl_34"/>hübsch auszusehen gehöre zu den notwendigen Quali 
+               <lb xml:id="p001_r_3_tl_35" break="no"/>täten einer guten Nurse. Die kürzlich in London aus 
+               <lb xml:id="p001_r_3_tl_36" break="no"/>gebrochene Debatte über die Frage, ob Lazarettpflege 
+               <lb xml:id="p001_r_3_tl_37" break="no"/>rinnen Lippenstifte benützen dürften, erregte bei ame 
+               <lb xml:id="p001_r_3_tl_38" break="no"/>rikanischen Nurses nur heiteres Erstaunen.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space]</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_39"/>Angesichts des hohen Ansehens, dessen sich der 
+               <lb xml:id="p001_r_3_tl_40"/>Pflegerinnenberuf in den Vereinigten Staaten erfreut, 
+               <lb xml:id="p001_r_3_tl_41"/>muss man sich wundern, dass die für die neuen Be 
+               <lb xml:id="p001_r_3_tl_42" break="no"/>dürfnisse der Landesverteidigung angeforderten 100 000 
+               <lb xml:id="p001_r_3_tl_43"/>Applikantinnen nicht leichter zu finden sind. Die 
+               <lb xml:id="p001_r_3_tl_44"/>Nurses der Armee werden zum Teil als "Sekonde- 
+               <lb xml:id="p001_r_3_tl_45"/>Lieutnant" qualifiziert; ihr Oberhaupt hat den Grad 
+               <lb xml:id="p001_r_3_tl_46"/>eines Majors und wird auch als "Major Stimson" an 
+               <lb xml:id="p001_r_3_tl_47" break="no"/>geredet. (Sie ist mit dem Kriegsminister Stimson ver 
+               <lb xml:id="p001_r_3_tl_48" break="no"/>wandt.)</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space]</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_50"/>Armee-Nurses erhalten ungefähr die gleiche Bezah 
+               <lb xml:id="p001_r_3_tl_49" break="no"/>lung wie Krankenschwestern in Hospitälern, nämlich 
+               <lb xml:id="p001_r_3_tl_51"/>ein Jahresgehalt von durchschnittlich 1200 bis 1400 
+               <lb xml:id="p001_r_3_tl_52"/>Dollars, bei freier Station und Verpflegung. Auf mein 
+               <lb xml:id="p001_r_3_tl_53"/>Befragen erklärte mir eine Nurse, daß dieses – nach 
+               <lb xml:id="p001_r_3_tl_54"/>unseren Begriffen enorme – Salär nicht genüge, um 
+               <lb xml:id="p001_r_3_tl_55"/>die Strapazen und Entbehrungen wettzumachen, die sie 
+               <lb xml:id="p001_r_3_tl_56"/>im Armeedienst auf sich nehmen müsse ...</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_3_tl_57"/>Annemarie Clarac-Schwarzenbach.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
