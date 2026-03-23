@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0208" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0208#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0208</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0208"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0208_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211937_013%21zui-001_1937_013_0458.jpg"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l"/>Schweizer bekennen ... 
+               <lb xml:id="p001_r_tl_1"/>Bildbericht von der ersten nationalen Tagung der Oxford-Gruppe im Comptoir Suisse in Lausanne am 17. und 18. April</p>
+
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_2_tl_1"/><hi rendition="#i">Le Rassemblement national des groupes d'Oxford à Lausanne</hi><hi rendition="#g"> 
+                  <lb xml:id="p001_r_2_tl_2"/>Photos Schuh-Prisma</hi></p>
+
+            <milestone unit="textregion" xml:id="p001_r_3"/>            <p> 
+               <lb xml:id="p001_r_3_tl_1"/>10 000 Menschen sind zu dieser 
+               <lb xml:id="p001_r_3_tl_2"/>monströsen Massenversammlung 
+               <lb xml:id="p001_r_3_tl_3"/>aus allen Landesteilen nach Lau 
+               <lb xml:id="p001_r_3_tl_4" break="no"/>sanne gereist. Extrazüge, Nacht 
+               <lb xml:id="p001_r_3_tl_5" break="no"/>quartiere, Verpflegung – für alles 
+               <lb xml:id="p001_r_3_tl_6"/>war gesorgt, und alles rollte sich 
+               <lb xml:id="p001_r_3_tl_7"/>ruhig, ohne Aufregung oder Zwi 
+               <lb xml:id="p001_r_3_tl_8" break="no"/>schenfälle ab –, eine bewunderns 
+               <lb xml:id="p001_r_3_tl_9" break="no"/>werte Organisation, die sich, wie 
+               <lb xml:id="p001_r_3_tl_10"/>versichert wurde, fast von selbst, 
+               <lb xml:id="p001_r_3_tl_11"/>dank Gottes Weisung, ergeben 
+               <lb xml:id="p001_r_3_tl_12"/>hatte. Der gute Wille von 10 000 
+               <lb xml:id="p001_r_3_tl_13"/>Teilnehmern war des Rätsels Lö 
+               <lb xml:id="p001_r_3_tl_14" break="no"/>sung – Teilnehmern jeden Alters 
+               <lb xml:id="p001_r_3_tl_15"/>und Charakters, jeden Standes, 
+               <lb xml:id="p001_r_3_tl_16"/>jeder sozialen Klasse. Obwohl von 
+               <lb xml:id="p001_r_3_tl_17"/>den nationalen Problemen nicht 
+               <lb xml:id="p001_r_3_tl_18"/>wirklich die Rede war, wurde das 
+               <lb xml:id="p001_r_3_tl_19"/>Beiwort "national" gerechtfertigt 
+               <lb xml:id="p001_r_3_tl_20"/>durch den erstaunlichen Quer 
+               <lb xml:id="p001_r_3_tl_21" break="no"/>schnitt durch unser Volk, den diese 
+               <lb xml:id="p001_r_3_tl_22"/>Versammlung bot. Und in der 
+               <lb xml:id="p001_r_3_tl_23"/>nicht endenden Reihe von Beken 
+               <lb xml:id="p001_r_3_tl_24" break="no"/>nenden und Zeugen, die unbefan 
+               <lb xml:id="p001_r_3_tl_25" break="no"/>gen vor dem Lautsprecher standen, 
+               <lb xml:id="p001_r_3_tl_26"/>um der riesigen Familie ihrer 
+               <lb xml:id="p001_r_3_tl_27"/>Freunde von ihrem Erlebnis, ihrer 
+               <lb xml:id="p001_r_3_tl_28"/>Umkehr und Bekehrung, und von 
+               <lb xml:id="p001_r_3_tl_29"/>der neuen Freudigkeit ihres Lebens 
+               <lb xml:id="p001_r_3_tl_30"/>zu berichten, sah und hörte man 
+               <lb xml:id="p001_r_3_tl_31"/>die Schicksale von Müttern und 
+               <lb xml:id="p001_r_3_tl_32"/>Kindern, Ehegatten und Freunden 
+               <lb xml:id="p001_r_3_tl_33"/>Lehrern und Schülern, Pfarrern 
+               <lb xml:id="p001_r_3_tl_34"/>und zahm gewordenen Kommuni 
+               <lb xml:id="p001_r_3_tl_35" break="no"/>sten, Arbeitgebern und Arbeiterrn, 
+               <lb xml:id="p001_r_3_tl_36"/>Nachbarn in den engen Wohnun 
+               <lb xml:id="p001_r_3_tl_37" break="no"/>gen von Mietskasernen – eine 
+               <lb xml:id="p001_r_3_tl_38"/>Blitzlichtaufnahme des Alltags, wie 
+               <lb xml:id="p001_r_3_tl_39"/>er sich sonst hinter den Mauern 
+               <lb xml:id="p001_r_3_tl_40"/>verbirgt.</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_41"/><hi rendition="#i">Annemarie Clark</hi>.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_7"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_99"/>5 Mitglieder der Oxford-Gruppe des Quartier du Bachet de Pesay vor Mikrophonen</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_12"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_12_tl_1"/>Das Quartier du Bachet de Pesay 
+               <lb xml:id="p001_r_12_tl_2"/>ist ein proletarischer Häuserblock in der Genfer Vorstadt. 
+               <lb xml:id="p001_r_12_tl_3"/>Etwa hundert Familien wohnen dort, – es gibt in den Mau 
+               <lb xml:id="p001_r_12_tl_4" break="no"/>ern der Bachet viel Streit und Mißgunst, Armut, Familien 
+               <lb xml:id="p001_r_12_tl_5" break="no"/>zwiste, Arbeitslosigkeit ... eine Summe von schwerem Men 
+               <lb xml:id="p001_r_12_tl_6" break="no"/>schenschicksal. Und es gibt dort auch eine Oxford-Gruppe 
+               <lb xml:id="p001_r_12_tl_7"/>die eine Equipe von fünf "Zeugen" an den Lautsprecher 
+               <lb xml:id="p001_r_12_tl_8"/>nach Lausanne entsandt hat. Von links nach rechts: André 
+               <lb xml:id="p001_r_12_tl_9"/>Ferrero ist Chemiker. Er liebte früher die Arbeiter nicht, sie 
+               <lb xml:id="p001_r_12_tl_10"/>waren ihm fremd, er fürchtete sie. Heute aber sind sie, die 
+               <lb xml:id="p001_r_12_tl_11"/>Bewohner des Bachet, seine besten Freunde. Monsieur Junod 
+               <lb xml:id="p001_r_12_tl_12"/>ist von Beruf Magaziner, er hat eine Tochter von 10 Jahren. 
+               <lb xml:id="p001_r_12_tl_13"/>Er ist es, der den Anstoß gegeben, die ersten Freunde gewor 
+               <lb xml:id="p001_r_12_tl_14" break="no"/>ben hat. Frau Rochat gehört zu ihnen, – ihr Mann ist 
+               <lb xml:id="p001_r_12_tl_15"/>arbeitslos, – als sie, durch Armut gezwungen, in das übel 
+               <lb xml:id="p001_r_12_tl_16" break="no"/>beleumdete Bachet ziehen mußten, genierte sie sich, diese 
+               <lb xml:id="p001_r_12_tl_17"/>Adresse zu nennen. Heute ist sie stolz, daß sie zur Equipe 
+               <lb xml:id="p001_r_12_tl_18"/>des Bachet gehört. Jeltsch ist Bauarbeiter, 35 Jahre alt, ver 
+               <lb xml:id="p001_r_12_tl_19" break="no"/>heiratet. Er hat früher getrunken, – man kann sich bei 
+               <lb xml:id="p001_r_12_tl_20"/>seiner Frau erkundigen, wie es damals um sein Familienleben 
+               <lb xml:id="p001_r_12_tl_21"/>und um den Haushalt stand. Er kam zu keiner Mahlzeit 
+               <lb xml:id="p001_r_12_tl_22"/>pünktlich nach Hause. Eines Nachts, auf dem Heimweg 
+               <lb xml:id="p001_r_12_tl_23"/>wurde er beinahe von einem Auto überfahren, – aber Gott
+               <milestone unit="textregion" xml:id="p001_r_17"/> 
+               <lb xml:id="p001_r_17_tl_1"/>zupfte ihn im richtigen Augenblick am Aermel, - und dies wurde auch der Augenblick seiner Bekehrung. Er ließ seine beiden Söhne taufen, trat der Oxford-Gruppe 
+               <lb xml:id="p001_r_17_tl_2"/>bei, und gab das Trinken auf. Der alte Herr Martin war 32 Jahre lang Pfarrer, – er wohnt im feinen Quartier der Eaux Vives, wo man von der Existenz des Bachet 
+               <lb xml:id="p001_r_17_tl_3"/>de Pesay wenig ahnt. Aber sein Freund Junod hat ihn dort hingeführt, – und heute ist er eine Art von Adoptivonkel der Equipe, und legt mit ihnen Zeugnis ab.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_22"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_22_tl_1"/><hi rendition="#i">Le quartier du Bachet de Pesay, à Genève, habite nombre de 
+                  <lb xml:id="p001_r_22_tl_2"/>pauvres gens. Les difficultés matérielles, le chômage, l'alcoo 
+                  <lb xml:id="p001_r_22_tl_3" break="no"/>lisme engendrent un mauvais état d'esprit. Entre locataires 
+                  <lb xml:id="p001_r_22_tl_4"/>les relations étaient tendues. Mais où sévissaient les disputes 
+                  <lb xml:id="p001_r_22_tl_5"/>et les haines, une "Equipe" d'Oxford a changé l'atmosphère. 
+                  <lb xml:id="p001_r_22_tl_6"/>Aujourd'hui tous les habitants de cet immeuble ne forment 
+                  <lb xml:id="p001_r_22_tl_7"/>plus qu'une grande famille. Cinq d'entre eux ont été délé 
+                  <lb xml:id="p001_r_22_tl_8" break="no"/>gués à Lausanne pour apporter leur témoignage. De gauche à 
+                  <lb xml:id="p001_r_22_tl_9"/>droite: MM. André Ferrero, chimiste, Junod, magasinier. Ma 
+                  <lb xml:id="p001_r_22_tl_10" break="no"/>dame Rochat, M. Jeltsch, maçon, et le pasteur des Eaux 
+                  <lb xml:id="p001_r_22_tl_11"/>Vives, M. Martin. C'est Monsieur Junod qui, aidé par le 
+                  <lb xml:id="p001_r_22_tl_12"/>pasteur Martin ("oncle adoptif" de l'Equipe), accomplit cette 
+                  <lb xml:id="p001_r_22_tl_13"/>grande œuvre de solidarité sociale.</hi></p>
+
+            <milestone unit="textregion" xml:id="p001_r_28"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_8"/>Gruppenbild der Oxford-Gruppe aus dem Quartier du Bachet de Pesay</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_29"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_29_tl_1"/>Die Oxford-Gruppe aus dem großen Mietshaus.</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_29_tl_2"/><hi rendition="#i">Les locataires de l'immeuble.</hi></p>
+
+            <milestone unit="textregion" xml:id="p001_r_54"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_12"/>5 Freunde einer Oxford-Gruppe aus Basel</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_59"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_59_tl_1"/>Die fünf Freunde aus Basel: Sie stehen in einer Reihe neben 
+               <lb xml:id="p001_r_59_tl_2" break="no"/>einander, ein Architekt, zwei Geschäftsleute, ein Chemiker, 
+               <lb xml:id="p001_r_59_tl_3"/>ein Bureauvorsteher. Einer von ihnen ist durch den Kontakt 
+               <lb xml:id="p001_r_59_tl_4"/>mit Oxford wieder gläubiger, praktizierender Katholik ge 
+               <lb xml:id="p001_r_59_tl_5" break="no"/>worden. Ein anderer, der früher mit seinen Kameraden nur 
+               <lb xml:id="p001_r_59_tl_6"/>durch den Sport verbunden war, kennt jetzt eine neue freund 
+               <lb xml:id="p001_r_59_tl_7" break="no"/>schaftliche Verbundenheit durch Gott. Jeden Morgen um 
+               <lb xml:id="p001_r_59_tl_8"/>6 Uhr 30 treffen sich die fünf Freunde, besprechen mitein 
+               <lb xml:id="p001_r_59_tl_9" break="no"/>ander ihre Fehler, befreien sich, und befreien so neue Kräfte 
+               <lb xml:id="p001_r_59_tl_10"/>auch für das Berufsleben, "– und das soll nicht nur dem Geschäft, 
+               <lb xml:id="p001_r_59_tl_11"/>sondern der Stadt Basel und unserem Land zugute kommen!"</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_59_tl_12"/><hi rendition="#i">Un architecte, deux commerçants, un chimiste, un chef de 
+                  <lb xml:id="p001_r_59_tl_13"/>bureau. Ces cinq amis, tous Bâlois, commencent chaque jour 
+                  <lb xml:id="p001_r_59_tl_14" break="no"/>née de travail par se réunir à 6 heures ½ pour faire en com 
+                  <lb xml:id="p001_r_59_tl_15" break="no"/>mun leur examen de conscience et leurs spartages". L'un 
+                  <lb xml:id="p001_r_59_tl_16"/>d'eux qui, jusqu'ici, n'était catholique que de nom a, grâce au 
+                  <lb xml:id="p001_r_59_tl_17"/>Mouvement d'Oxford, retrouvé la Foi.</hi></p>
+
+            <milestone unit="textregion" xml:id="p001_r_64"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_r_64_tl_1"/>Portraitaufnahmen einer Tochter und ihrer Mutter, die der Oxford-Gruppe angehören</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_69"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_69_tl_1"/>Tochter und Mutter ... 
+               <lb xml:id="p001_r_69_tl_2"/><hi rendition="#i">La fille et sa mère.</hi>
+               <milestone unit="textregion" xml:id="p001_r_70"/> 
+               <lb xml:id="p001_r_70_tl_1"/>Hedy M., Handelsschülerin 
+               <lb xml:id="p001_r_70_tl_2"/>aus Zürich: "Mein Vater ist 
+               <lb xml:id="p001_r_70_tl_3"/>Jude. Ich bin völlig reli 
+               <lb xml:id="p001_r_70_tl_4" break="no"/>gionslos erzogen worden. 
+               <lb xml:id="p001_r_70_tl_5"/>Aber eines Tages spürten 
+               <lb xml:id="p001_r_70_tl_6"/>wir in unserer Klasse, daß 
+               <lb xml:id="p001_r_70_tl_7"/>eine geheimnisvolle Macht an 
+               <lb xml:id="p001_r_70_tl_8"/>Werke war, uns umzuwandeln 
+               <lb xml:id="p001_r_70_tl_9"/>Sie ging von einem Lehrer aus, 
+               <lb xml:id="p001_r_70_tl_10"/>der zur Gruppe gehörte und 
+               <lb xml:id="p001_r_70_tl_11"/>uns sein Erlebnis mitteilen 
+               <lb xml:id="p001_r_70_tl_12"/>konnte, obwohl lange nicht 
+               <lb xml:id="p001_r_70_tl_13"/>direkt von Oxford oder sol 
+               <lb xml:id="p001_r_70_tl_14" break="no"/>chen Sachen die Rede war. 
+               <lb xml:id="p001_r_70_tl_15"/>Endlich kam es zu einer 
+               <lb xml:id="p001_r_70_tl_16"/>Aussprache mit meinem 
+               <lb xml:id="p001_r_70_tl_17"/>Vater, und der Weg zun 
+               <lb xml:id="p001_r_70_tl_18"/>christlichen Glauben wurde 
+               <lb xml:id="p001_r_70_tl_19"/>mir freigegeben. Ich werde 
+               <lb xml:id="p001_r_70_tl_20"/>ihm dafür immer dankbar 
+               <lb xml:id="p001_r_70_tl_21"/>sein. Dann durfte ich die 
+               <lb xml:id="p001_r_70_tl_22"/>Taufe erleben, – und nun 
+               <lb xml:id="p001_r_70_tl_23"/>möchte ich in meiner Klasse 
+               <lb xml:id="p001_r_70_tl_24"/>weitergeben, was mir ge 
+               <lb xml:id="p001_r_70_tl_25" break="no"/>schehen ist. Heute sind wir 
+               <lb xml:id="p001_r_70_tl_26"/>schon fünf ..."</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_70_tl_27"/><hi rendition="#i">Hedy M., Zurich. "Mon 
+                  <lb xml:id="p001_r_70_tl_28"/>père est juif. J'ai été éle 
+                  <lb xml:id="p001_r_70_tl_29" break="no"/>vée sans principes religieux. 
+                  <lb xml:id="p001_r_70_tl_30"/>L'exemple d'un de mes maî 
+                  <lb xml:id="p001_r_70_tl_31" break="no"/>tres à l'école de commerce 
+                  <lb xml:id="p001_r_70_tl_32"/>m'inspira le désir d'une vie 
+                  <lb xml:id="p001_r_70_tl_33"/>plus spirituelle. J'en fis part 
+                  <lb xml:id="p001_r_70_tl_34"/>à mon père, qui ne s'opposa 
+                  <lb xml:id="p001_r_70_tl_35"/>point à ce que je devins 
+                  <lb xml:id="p001_r_70_tl_36"/>chrétienne. Je lui en garde 
+                  <lb xml:id="p001_r_70_tl_37" break="no"/>rai toujours une grande re 
+                  <lb xml:id="p001_r_70_tl_38" break="no"/>connaissance. Je veux pro 
+                  <lb xml:id="p001_r_70_tl_39" break="no"/>fiter de ce qui m'a été don 
+                  <lb xml:id="p001_r_70_tl_40" break="no"/>né et en faire part autour 
+                  <lb xml:id="p001_r_70_tl_41"/>de moi, à l'école nous som 
+                  <lb xml:id="p001_r_70_tl_42" break="no"/>mes déjà cinq..."</hi></p>
+
+            <milestone unit="textregion" xml:id="p001_r_71"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_71_tl_1"/>Hedys Mutter: "Unser 
+               <lb xml:id="p001_r_71_tl_2"/>Familienleben ist sehr 
+               <lb xml:id="p001_r_71_tl_3"/>schön, obwohl mein 
+               <lb xml:id="p001_r_71_tl_4"/>Mann Jude ist. Es ist 
+               <lb xml:id="p001_r_71_tl_5"/>unser Kind, das etwas 
+               <lb xml:id="p001_r_71_tl_6"/>Neues in unser Haus ge 
+               <lb xml:id="p001_r_71_tl_7" break="no"/>tragen hat. Ihre stille 
+               <lb xml:id="p001_r_71_tl_8"/>Genügsamkeit fiel mir 
+               <lb xml:id="p001_r_71_tl_9"/>auf, niemand konnte sich 
+               <lb xml:id="p001_r_71_tl_10"/>ihrem lieben Wesen ent 
+               <lb xml:id="p001_r_71_tl_11" break="no"/>ziehen. Es war zwin 
+               <lb xml:id="p001_r_71_tl_12" break="no"/>gend. Ich fragte mich 
+               <lb xml:id="p001_r_71_tl_13"/>ob ich in der Erzie 
+               <lb xml:id="p001_r_71_tl_14" break="no"/>hung etwas vernachläs 
+               <lb xml:id="p001_r_71_tl_15" break="no"/>sigt hatte – die Reli 
+               <lb xml:id="p001_r_71_tl_16" break="no"/>gion, – ich wurde un 
+               <lb xml:id="p001_r_71_tl_17" break="no"/>sicher und unglücklich. 
+               <lb xml:id="p001_r_71_tl_18"/>Eine Aussprache mit 
+               <lb xml:id="p001_r_71_tl_19"/>Hedy hat dann Klarheit 
+               <lb xml:id="p001_r_71_tl_20"/>gebracht. Wir haben 
+               <lb xml:id="p001_r_71_tl_21"/>uns unter Gottes Auto 
+               <lb xml:id="p001_r_71_tl_22" break="no"/>rität gestellt. Und heut 
+               <lb xml:id="p001_r_71_tl_23"/>habe ich das Bedürfnis, 
+               <lb xml:id="p001_r_71_tl_24"/>anderen mitzuteilen, was 
+               <lb xml:id="p001_r_71_tl_25"/>wir erfahren durften."</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_71_tl_26"/><hi rendition="#i">La mère d'Hedy. "Nous 
+                  <lb xml:id="p001_r_71_tl_27"/>avons une très belle vie 
+                  <lb xml:id="p001_r_71_tl_28"/>de famille et cependant 
+                  <lb xml:id="p001_r_71_tl_29"/>mon mari est juif. C'est 
+                  <lb xml:id="p001_r_71_tl_30"/>notre enfant qui a ap 
+                  <lb xml:id="p001_r_71_tl_31" break="no"/>porté dans notre maison 
+                  <lb xml:id="p001_r_71_tl_32"/>une nouvelle atmo 
+                  <lb xml:id="p001_r_71_tl_33" break="no"/>sphère."</hi></p>
+
+            <milestone unit="textregion" xml:id="p001_r_88"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_4463"/>Singender Gartenarchitekt M., Mitglied der Oxford-Gruppe</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_89"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_89_tl_1"/>Gartenarchitekt M. aus Zürich. Herr M. tritt zusammen mit einer Gruppe seiner Angestellten auf. Er erzählt, wie der Gärtner 
+               <lb xml:id="p001_r_89_tl_2" break="no"/>bursche F. mit Leuten von der Oxfordgruppe zusammentraf, die ihm vor allem wegen ihrer Fröhlichkeit gefielen. Er wurde 
+               <lb xml:id="p001_r_89_tl_3"/>bekehrt, – und berichtet nun selbst der Versammlung, wie er seinem Arbeitgeber in einem Brief kleine Unehrlichkeiten einge 
+               <lb xml:id="p001_r_89_tl_4" break="no"/>stand, die ihm durch Nachlässigkeit im Beruf passiert waren. Die freundliche und verzeihende Antwort, die er von seinem Chef 
+               <lb xml:id="p001_r_89_tl_5"/>erhielt, war für ihn der Beweis, daß Gott nicht nur ein Sonntags-Gott sei, – und er entschied sich ganz für Christus. – Dann 
+               <lb xml:id="p001_r_89_tl_6"/>erklärt Herr M., wie der ehrliche Brief seines Angestellten für ihn der Anstoß zur Bekehrung war. Heute spricht er mit seinen 
+               <lb xml:id="p001_r_89_tl_7"/>Leuten offen auch über geschäftliche Dinge, – und das scheint ihm die einfache Lösung des "sozialen Problems": Und alle 
+               <lb xml:id="p001_r_89_tl_8"/>Burschen verkünden zum Schluß, daß sie nun fröhliche Gärtner geworden seien.</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_89_tl_9"/><hi rendition="#i">La Révélation est arrivée à l'architecte paysagiste M. de Zurich sous la forme d'une lettre où son jeune employé F. – qui 
+                  <lb xml:id="p001_r_89_tl_10"/>travaillait dans les groupes – s'accusait de négligences. Si la réponse que reçut F. le confirma dans son idée que Dieu 
+                  <lb xml:id="p001_r_89_tl_11"/>n'était pas seulement un dieu du dimanche, cette lettre fit également réaliser à M. M. la nécessité d'une plus large colla 
+                  <lb xml:id="p001_r_89_tl_12" break="no"/>boration sociale et amicale avec ses employés.</hi></p>
+
+            <milestone unit="textregion" xml:id="p001_r_91"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_r_91_tl_1"/>Grosse Menschenmenge der Oxford-Gruppe</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_92"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_92_tl_1"/>Zehntausend Zuhérer in der großen Austellungshalle des Comptoir in Lausanne.</p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_92_tl_2"/><hi rendition="#i">10 000 participants peuplent la grande halle du Comptoir suisse de Lausanne.</hi></p>
+</div>
+       </body>
+    </text>
+ </TEI>
