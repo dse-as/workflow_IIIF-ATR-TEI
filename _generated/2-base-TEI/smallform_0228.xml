@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0228" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0228#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0228</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0228"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0228_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0228_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_2_tl_1"/>Baltisches Tagebuch. 
+               <lb xml:id="p001_l"/>II. 
+               <lb xml:id="p001_r_2_tl_2"/>Ländliches und Städtisches aus Estland.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_3"/>Der Fremde, der in einem schmucken, weißen Ostsee- 
+               <lb xml:id="p001_r_2_tl_4"/>Feriendampfer der baltischen Küste entlang fährt und an 
+               <lb xml:id="p001_r_2_tl_5"/>einem hellen Sommerabend die Silhouette der Barock 
+               <lb xml:id="p001_r_2_tl_6" break="no"/>kirchen und mittelalterlichen Türme von Tallinn auf 
+               <lb xml:id="p001_r_2_tl_7" break="no"/>tauchen sieht, mag zunächst fast enttäuscht sein über soviel 
+               <lb xml:id="p001_r_2_tl_8"/>vertraute Atmosphäre und bekannte Schönheiten: dieser 
+               <lb xml:id="p001_r_2_tl_9"/>Hafen, wo die schweren Segel altmodischer Fischerboote 
+               <lb xml:id="p001_r_2_tl_10"/>neben hochragenden modernen Kranen liegen, wo Holz, 
+               <lb xml:id="p001_r_2_tl_11"/>und immer wieder Holz aus den unerschöpflichen Wäldern 
+               <lb xml:id="p001_r_2_tl_12"/>Estlands in Waggons und auf Bauernkarren herbei 
+               <lb xml:id="p001_r_2_tl_13" break="no"/>geschafft und in die gierig geöffneten Schiffsbäuche 
+               <lb xml:id="p001_r_2_tl_14"/>verfrachtet wird, wo Seeleute mit dunkelbraunen, ge 
+               <lb xml:id="p001_r_2_tl_15" break="no"/>furchten Gesichtern und flachsblondem Haar ihre Pfeifen 
+               <lb xml:id="p001_r_2_tl_16"/>rauchen und den Tabaksaft ins Wasser spucken [Holz- und Warenverladung am Hafen von Talinn, siehe A-5-16/041 – A-5-16/060], – dieser 
+               <lb xml:id="p001_r_2_tl_17"/>Hafen gleicht dem von Riga und von Danzig, und die 
+               <lb xml:id="p001_r_2_tl_18"/>Türme erinnern an Lübeck, die Kirchen an Stockholm oder 
+               <lb xml:id="p001_r_2_tl_19"/>Kopenhagen. Und erst die Stadt mit dem so fremdart 
+               <lb xml:id="p001_r_2_tl_20"/>klingenden Namen Tallinn, die "Dänenburg", – das ist 
+               <lb xml:id="p001_r_2_tl_21"/>nichts anderes als eine unverfälschte, alte Hansestadt, da 
+               <lb xml:id="p001_r_2_tl_22" break="no"/>deutsche Reval, Schwester und Konkurrentin von Danzig 
+               <lb xml:id="p001_r_2_tl_23"/>und Bremen und Hamburg und Wisby, mit den Traulich 
+               <lb xml:id="p001_r_2_tl_24" break="no"/>keiten enger Gassen, schmalbrüstiger Bürgerhäuser, ver 
+               <lb xml:id="p001_r_2_tl_25" break="no"/>steckter Kirchen und Tore, mit Marktplätzen und einem 
+               <lb xml:id="p001_r_2_tl_26"/>hohen Rathaus mit schlankem Glockenturm. Die Sprüche 
+               <lb xml:id="p001_r_2_tl_27"/>im Rathaus, die Grabinschriften im grauen Dom sind 
+               <lb xml:id="p001_r_2_tl_28"/>deutsch, und die Wandgemälde in den dunklen Rats- und 
+               <lb xml:id="p001_r_2_tl_29"/>Trinkstuben sind von Künstlern aus dem Rheinland, von 
+               <lb xml:id="p001_r_2_tl_30"/>einem Hans von Aachen und seinen Gesellen gemalt.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_31"/>Sind wir überhaupt in der Fremde, im Hohen Norden, 
+               <lb xml:id="p001_r_2_tl_32"/>in einem Land, das an die große Sowjetunion grenzt mit 
+               <lb xml:id="p001_r_2_tl_33"/>einsamen Wäldern und der von keinem Schiff befahrenen 
+               <lb xml:id="p001_r_2_tl_34"/>Fläche des Peipus=Sees? Mußten wir eine so weite 
+               <lb xml:id="p001_r_2_tl_35"/>Reise tun, nur um im Gasthaus "Kuld Löwi" zu wohnen,
+               <milestone unit="textregion" xml:id="p001_r_3"/> 
+               <lb xml:id="p001_r_3_tl_1"/>einem sehr angenehmen und modernen Hotel übrigens, 
+               <lb xml:id="p001_r_3_tl_2"/>das aber doch zweifellos noch vor wenigen Jahren "Zum 
+               <lb xml:id="p001_r_3_tl_3"/>Goldenen Löwen" hieß?</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_4"/>Die Esten, so tapfer und entschlossen sie vor nun zwanzig 
+               <lb xml:id="p001_r_3_tl_5"/>Jahren ihre Freiheit gegen Zarenreich und Bolschewisten, 
+               <lb xml:id="p001_r_3_tl_6"/>gegen russische Abenteurer und deutsche Besatzungs 
+               <lb xml:id="p001_r_3_tl_7" break="no"/>armeen erkämpft haben, so echt ihr nationaler Anspruch 
+               <lb xml:id="p001_r_3_tl_8"/>und so wohlbegründet ihr Stolz auf ihr junges, in schwerer 
+               <lb xml:id="p001_r_3_tl_9"/>Zeit gefestigtes Staatswesen sein mag, sind doch keines 
+               <lb xml:id="p001_r_3_tl_10" break="no"/>wegs aggressive Nationalisten, Fremdenhasser und über 
+               <lb xml:id="p001_r_3_tl_11" break="no"/>hebliche Patrioten geworden, – und darin unterscheiden 
+               <lb xml:id="p001_r_3_tl_12"/>sie sich angenehm von ihren lettischen Nachbarn, bei denen 
+               <lb xml:id="p001_r_3_tl_13"/>der begreifliche Haß noch nicht abgekühlt, noch nicht dem 
+               <lb xml:id="p001_r_3_tl_14"/>gleichen, freien und großzügigen Selbstbewußtsein ge 
+               <lb xml:id="p001_r_3_tl_15" break="no"/>wichen ist, der das estnische Volk auszeichnet. Daher konnte 
+               <lb xml:id="p001_r_3_tl_16"/>das alte Reval neben dem neuen Tallinn bestehen bleiben; 
+               <lb xml:id="p001_r_3_tl_17"/>man ehrt und schont die Vergangenheit, auch wenn man 
+               <lb xml:id="p001_r_3_tl_18"/>weiß, daß sie endgültig überwunden sein muß. Denn das 
+               <lb xml:id="p001_r_3_tl_19"/>Neue ist mächtig am Werk, und wird auch in Tallinn 
+               <lb xml:id="p001_r_3_tl_20"/>schon sichtbar in neuen Gebäuden, weiten Plätzen, Schulen 
+               <lb xml:id="p001_r_3_tl_21"/>und Sportanlagen, es hat seinen eigenen Stil gefunden, 
+               <lb xml:id="p001_r_3_tl_22"/>eine moderne Architektur, die der des Nachbarstaates 
+               <lb xml:id="p001_r_3_tl_23"/>Finnland verwandt ist.</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_24"/>Altmodischer ist <hi rendition="#g">Tartu</hi> geblieben, die alte Universitäts 
+               <lb xml:id="p001_r_3_tl_25" break="no"/>stadt Dorpat im Innern des Landes. Dort stehen un 
+               <lb xml:id="p001_r_3_tl_26" break="no"/>verändert die klassizistischen, weißen Gebäude der alten 
+               <lb xml:id="p001_r_3_tl_27"/>"Akademie", die als Nachfolgerin der von Gustav Adolf 
+               <lb xml:id="p001_r_3_tl_28"/>gegründeten im Anfang des 19. Jahrhunderts errichtet 
+               <lb xml:id="p001_r_3_tl_29"/>wurde, – und in den holprig gepflasterten Gassen wehen 
+               <lb xml:id="p001_r_3_tl_30"/>von schönen, alten Häusern die Fahnen der studentischen 
+               <lb xml:id="p001_r_3_tl_31"/>Korporationen. Aber hinter den grünbewachsenen Mauern, 
+               <lb xml:id="p001_r_3_tl_32"/>in den schlichten Hörsälen und gemütlichen Studenten 
+               <lb xml:id="p001_r_3_tl_33" break="no"/>buden spielt sich nicht mehr die alte Burschenherrlichkeit 
+               <lb xml:id="p001_r_3_tl_34"/>der baltischen Adels- und russischen Beamtensöhne ab, 
+               <lb xml:id="p001_r_3_tl_35"/>wenn auch die Formen die gleichen blieben. Denn immer 
+               <lb xml:id="p001_r_3_tl_36"/>noch ist neben dem Fachstudium der Begriff des "studen 
+               <lb xml:id="p001_r_3_tl_37" break="no"/>tischen Lebens" wichtig, immer noch gibt es Füchse und 
+               <lb xml:id="p001_r_3_tl_38"/>Philister, immer noch wird gefochten, gesungen und
+               <milestone unit="textregion" xml:id="p001_r_4"/> 
+               <lb xml:id="p001_r_4_tl_1"/>getrunken, – aber früher war es den wenigen estnischen 
+               <lb xml:id="p001_r_4_tl_2"/>Studenten verboten, eigene Korporationen zu haben, 
+               <lb xml:id="p001_r_4_tl_3"/>und die estnische Sprache war verpönt, – heute hingegen 
+               <lb xml:id="p001_r_4_tl_4"/>sammelt sich in Tartu, der Landesuniversität, die Jugend 
+               <lb xml:id="p001_r_4_tl_5"/>Estlands, die "erste Generation" der neuen Nation! 
+               <lb xml:id="p001_r_4_tl_6"/>Die heute hier lernen, und ein beneidenswertes, an heiteren 
+               <lb xml:id="p001_r_4_tl_7"/>und freundschaftlichen Gepflogenheiten reiches Leben 
+               <lb xml:id="p001_r_4_tl_8"/>führen, sind die zukünftigen Aerzte und Lehrer, Offiziere 
+               <lb xml:id="p001_r_4_tl_9"/>und Oekonomen, die das Land dringend braucht. Die 
+               <lb xml:id="p001_r_4_tl_10"/>meisten von ihnen sind Bauernsöhne, – viele von ihnen 
+               <lb xml:id="p001_r_4_tl_11"/>bilden sich zu Landwirten oder Förstern aus, neben ihnen, 
+               <lb xml:id="p001_r_4_tl_12"/>gleichberechtigt und in eigenen Korporationen organisiert, 
+               <lb xml:id="p001_r_4_tl_13"/>studieren die Mädchen, und leben bei aller neuzeitlichen 
+               <lb xml:id="p001_r_4_tl_14"/>Tüchtigkeit und Selbständigkeit nach fast spießig-bürgerlichen 
+               <lb xml:id="p001_r_4_tl_15"/>Sitten, die bis zum völligen Rauchverbot gehen!</p>
+            <p> 
+               <lb xml:id="p001_r_4_tl_16"/>Man hat Tartu oft das "Baltische Heidelberg" genannt: 
+               <lb xml:id="p001_r_4_tl_17"/>aber nur wenige Stunden von dieser traulichen Kleinstadt 
+               <lb xml:id="p001_r_4_tl_18"/>sind wir weit und gründlich getrennt von allen bekannten 
+               <lb xml:id="p001_r_4_tl_19"/>und heimischen Atmosphären und spüren auf einmal die 
+               <lb xml:id="p001_r_4_tl_20"/>Nähe Rußlands. Was sich in den Städten sammelt, ist 
+               <lb xml:id="p001_r_4_tl_21"/>ja stets schon verwandelt, abgeschliffen durch mancherlei 
+               <lb xml:id="p001_r_4_tl_22"/>Kontakt mit der Umwelt und weltläufigen Gewohnheiten 
+               <lb xml:id="p001_r_4_tl_23"/>Draußen aber, in den Dörfern, die eingestreut zwischen 
+               <lb xml:id="p001_r_4_tl_24"/>den großen Waldbezirken oder auf einsamen Ebenen 
+               <lb xml:id="p001_r_4_tl_25"/>liegen, da ist Estland eine äußerste Region Europas, ein 
+               <lb xml:id="p001_r_4_tl_26"/>nördliches Land, ein Grenzfall geblieben und hat sich in 
+               <lb xml:id="p001_r_4_tl_27"/>den wechselnden Jahrhunderten dänischer und deutscher, 
+               <lb xml:id="p001_r_4_tl_28"/>schwedischer und russischer Herrschaft kaum verändert. 
+               <lb xml:id="p001_r_4_tl_29"/>Da haben die Bauern die energisch-reizvollen Gesichtszüge 
+               <lb xml:id="p001_r_4_tl_30"/>der finnisch-ugrischen Rasse mit schmalen, blitzblauen 
+               <lb xml:id="p001_r_4_tl_31"/>Augen, hervorstehenden Backenknochen und brünettem 
+               <lb xml:id="p001_r_4_tl_32"/>Teint beibehalten, da gehen die Frauen barfuß, die 
+               <lb xml:id="p001_r_4_tl_33"/>Männer in hohen, russischen Stiefeln, da sind die Wege 
+               <lb xml:id="p001_r_4_tl_34"/>noch nicht für Automobile gebaut, und die Kartoffelkarren 
+               <lb xml:id="p001_r_4_tl_35"/>und Leiterwagen wiegen sich bedächtig durch tiefe Lehm 
+               <lb xml:id="p001_r_4_tl_36" break="no"/>betten, da sind die Winter lang und die Sommer heiß, 
+               <lb xml:id="p001_r_4_tl_37"/>und der erstickende Wind scheint den Staub sibirischer 
+               <lb xml:id="p001_r_4_tl_38"/>Steppen mit sich zu führen. Mitten durch ungelichtete
+               <milestone unit="textregion" xml:id="p001_r_1"/> 
+               <lb xml:id="p001_r_1_tl_1"/>Wälder rollen langsam die Züge, deren Geleise das alte, 
+               <lb xml:id="p001_r_1_tl_2"/>breite Ausmaß der russischen Bahnen haben. Die Loko 
+               <lb xml:id="p001_r_1_tl_3" break="no"/>motiven werden mit Oelschiefer [zum Oelschiefer vgl. auch smallform_? und A-5-16/118] geheizt, einem weißlichen 
+               <lb xml:id="p001_r_1_tl_4"/>Stein, den man unten in den Bergwerken von Kohtla 
+               <lb xml:id="p001_r_1_tl_5"/>in der Nähe der Festung Narwa gewinnt. Und für eine 
+               <lb xml:id="p001_r_1_tl_6"/>Strecke von achtzig Kilometer braucht man leicht drei 
+               <lb xml:id="p001_r_1_tl_7"/>Stunden oder mehr. Früher konnte man vom Städtchen 
+               <lb xml:id="p001_r_1_tl_8"/>Valk über Petschur nach Pskow gelangen und dort Anschluß 
+               <lb xml:id="p001_r_1_tl_9"/>nach Moskau finden. Heute ist die russische Grenze ein 
+               <lb xml:id="p001_r_1_tl_10"/>schweigender und leerer Bezirk, den starke Garnisonen 
+               <lb xml:id="p001_r_1_tl_11"/>bewachen, den seit den Revolutionsjahren kein Mensch 
+               <lb xml:id="p001_r_1_tl_12"/>mehr überschreitet. Die Züge machen halt in Petschur, 
+               <lb xml:id="p001_r_1_tl_13"/>das heute <hi rendition="#g">Petsori</hi> heißt: Ein einsames, großes Dorf, um 
+               <lb xml:id="p001_r_1_tl_14"/>ein Kloster und eine Festung entstanden und jahrhunderte 
+               <lb xml:id="p001_r_1_tl_15" break="no"/>lang von russischen Großfürsten und deutschen Ordens 
+               <lb xml:id="p001_r_1_tl_16" break="no"/>rittern hart umkämpft. Eine russische Enklave in Estland; 
+               <lb xml:id="p001_r_1_tl_17"/>und die zwölf Glocken des orthodoxen Klosters schwingen 
+               <lb xml:id="p001_r_1_tl_18"/>im barbarisch-bunten Glockenstuhl, und düstere Mönche 
+               <lb xml:id="p001_r_1_tl_19"/>mit ungeschorenem Bart und Haupthaar wandeln über 
+               <lb xml:id="p001_r_1_tl_20"/>die Brücken stiller Weiher, – nur einige fünfzig Kilometer 
+               <lb xml:id="p001_r_1_tl_21"/>von den sowjetrussischen Kolchosen und Dörfern entfernt.</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_22"/>Aber außer den Wald- und Grenzregionen gibt es auch 
+               <lb xml:id="p001_r_1_tl_23"/>schönes und fruchtbares Bauernland, das einst den deutschen 
+               <lb xml:id="p001_r_1_tl_24"/>Baronen und Gutsherren gehörte, – man findet noch ihre 
+               <lb xml:id="p001_r_1_tl_25"/>Höfe und herrschaftlichen Schlösser, die heute als Museen, 
+               <lb xml:id="p001_r_1_tl_26"/>Schulen, Mustergüter und Versuchsanstalten dienen. Nur 
+               <lb xml:id="p001_r_1_tl_27"/>wenige der früheren Besitzer sind zurückgekommen, als 
+               <lb xml:id="p001_r_1_tl_28"/>man ihnen, im Jahre 1926, einen Teil ihres Bodens 
+               <lb xml:id="p001_r_1_tl_29"/>zurückgab und für den Rest Entschädigungen zahlte. 
+               <lb xml:id="p001_r_1_tl_30"/>Ihre Landarbeiter und Pächter aber bilden heute den 
+               <lb xml:id="p001_r_1_tl_31"/>freien Bauernstand Estlands, und sie bewirtschaften ihre 
+               <lb xml:id="p001_r_1_tl_32"/>kleinen Güter so gut, daß die Produktionszahlen der 
+               <lb xml:id="p001_r_1_tl_33"/>Landwirtschaft beständig steigen, der Viehbestand sich 
+               <lb xml:id="p001_r_1_tl_34"/>mehrt, die Kulturen ergiebiger geworden sind. Die Dörfer 
+               <lb xml:id="p001_r_1_tl_35"/>sehen immer noch "russisch" aus, – mag es an den niedrigen 
+               <lb xml:id="p001_r_1_tl_36"/>Holzhäusern, den breiten ungepflasterten Straßen liegen, 
+               <lb xml:id="p001_r_1_tl_37"/>oder am Charakter der weiten, von einem weißen Himmel 
+               <lb xml:id="p001_r_1_tl_38"/>überwölbten Landschaft. Oder verbinden wir den "russi¬               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0228_002.tif"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p> 
+               <lb xml:id="p002_r_tl_1" break="no"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+schen" Begriff ohne Unterscheidung mit jenem fremden 
+               <lb xml:id="p002_r_tl_2"/>und melancholischen Reiz, mit den großen Winden über 
+               <lb xml:id="p002_r_tl_3"/>traurigen, von keinen Städten belebten, von keinen 
+               <lb xml:id="p002_r_tl_4"/>Bergen unterbrochenen Landstrecken, die sich schon dem 
+               <lb xml:id="p002_r_tl_5"/>monotonen und gefährlichen Zauber der asiatischen 
+               <lb xml:id="p002_r_tl_6"/>Steppen nähern?</p>
+            <p> 
+               <lb xml:id="p002_r_tl_7"/>Aber in Estland, in den Dörfern und auf den Bauern 
+               <lb xml:id="p002_r_tl_8" break="no"/>höfen, in den Städten und Häfen, ist ein junges und tat 
+               <lb xml:id="p002_r_tl_9" break="no"/>kräftiges Volk am Werk, das Land immer besser und 
+               <lb xml:id="p002_r_tl_10"/>intensiver zu erschließen und zu bebauen, und die Zukunft 
+               <lb xml:id="p002_r_tl_11"/>der langen Dämmerung nationaler Unterdrückung zu 
+               <lb xml:id="p002_r_tl_12"/>entreißen.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"><hi rendition="#g"> 
+                  <lb xml:id="p002_r_tl_13"/>Dr. Annemarie Clark</hi></p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
