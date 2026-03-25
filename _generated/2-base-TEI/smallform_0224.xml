@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0224" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0224#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0224</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0224"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0224_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0224_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_2_tl_1"/>Baltisches Tagebuch 
+               <lb xml:id="p001_r_2_tl_2"/>Von <hi rendition="#g">Annemarie Clark</hi></p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"><hi rendition="#g"> 
+                  <lb xml:id="p001_r_2_tl_3"/>Bahnfahrt durch Estland</hi></p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_4"/>Es handelt sich ja um ein kleines Ländchen, um 
+               <lb xml:id="p001_r_2_tl_5"/>einen Kleinstaat von bloß 47,750 Quadratkilometer 
+               <lb xml:id="p001_r_2_tl_6"/>Flächeninhalt. Aber seitdem ich das schöne, westlich 
+               <lb xml:id="p001_r_2_tl_7"/>zivilisierte, großstädtische und gleichsam heimatliche 
+               <lb xml:id="p001_r_2_tl_8"/>Riga verlassen und vier Stunden später die Grenze 
+               <lb xml:id="p001_r_2_tl_9"/>Estlands überschritten habe, – seither hat sich die 
+               <lb xml:id="p001_r_2_tl_10"/>Welt gründlich verändert, und ich bin so gut ein 
+               <lb xml:id="p001_r_2_tl_11"/>Fremder, wie ich es im Herzen Rußlands oder drüber 
+               <lb xml:id="p001_r_2_tl_12"/>in Kleinasien gewesen bin. Daß ich deutsch spreche, 
+               <lb xml:id="p001_r_2_tl_13"/>hilft mir wenig, – von anderen "Weltsprachen" ganz 
+               <lb xml:id="p001_r_2_tl_14"/>zu schweigen. Hier redet man eben estisch, – und wenn 
+               <lb xml:id="p001_r_2_tl_15"/>man es freundlich mit mir meint, will man mir auf 
+               <lb xml:id="p001_r_2_tl_16"/>russisch beistehen. Und die litauischen und lettischen 
+               <lb xml:id="p001_r_2_tl_17"/>Idiome, obwohl ich natürlich auch davon kein Wort 
+               <lb xml:id="p001_r_2_tl_18"/>verstand, klangen geradezu vertraut, verglichen mit 
+               <lb xml:id="p001_r_2_tl_19"/>dieser finnisch-ugrischen Seltsamkeit. An den Esten 
+               <lb xml:id="p001_r_2_tl_20"/>liegt es nicht, – wie kommen diese blonden, hochge 
+               <lb xml:id="p001_r_2_tl_21" break="no"/>wachsenen, blauäugigen Leute dazu, eine so uralt 
+               <lb xml:id="p001_r_2_tl_22"/>asiatische Sprache zu führen? – Sie haben breite 
+               <lb xml:id="p001_r_2_tl_23"/>Backenknochen, und die blauen Augen sind manchmal 
+               <lb xml:id="p001_r_2_tl_24"/>leicht geschlitzt und nach oben gezogen, – das könnte 
+               <lb xml:id="p001_r_2_tl_25"/>sie mir, allenfalls, ein wenig fremdartiger machen. 
+               <lb xml:id="p001_r_2_tl_26"/>Aber sie sind doch ein freundliches, aufgeschlossenes 
+               <lb xml:id="p001_r_2_tl_27"/>recht und schlecht "europäisches" Bauernvolk, – ein 
+               <lb xml:id="p001_r_2_tl_28"/>Volk von bester Qualität, aufrecht und selbstbewußt, 
+               <lb xml:id="p001_r_2_tl_29"/>ohne gleich so nationalistisch-überheblich geworden zu 
+               <lb xml:id="p001_r_2_tl_30"/>sein wie die lettischen Nachbarn. – Dort, in Riga zum 
+               <lb xml:id="p001_r_2_tl_31"/>Beispiel, verstehen nämlich die meisten Leute wirklich 
+               <lb xml:id="p001_r_2_tl_32"/>deutsch, – aber sie wollen es nicht mehr wissen, und 
+               <lb xml:id="p001_r_2_tl_33"/>sehen einem schief und böse an, wenn man darauf aus 
+               <lb xml:id="p001_r_2_tl_34" break="no"/>geht, eine Auskunft zu erhalten ...</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_35"/>Aber zurück, an die Grenze Estlands: ich wollte, im 
+               <lb xml:id="p001_r_2_tl_36"/>Städtchen Valga, aussteigen, – was durchaus in Ord 
+               <lb xml:id="p001_r_2_tl_37" break="no"/>nung und gestattet sein sollte, weil man hier, an der 
+               <lb xml:id="p001_r_2_tl_38"/>Grenze, in die Lokalbahn nach Petseri umsteigt. Aber 
+               <lb xml:id="p001_r_2_tl_39"/>der Zollbeamte, der den Waggon abgeschlossen hatte, 
+               <lb xml:id="p001_r_2_tl_40"/>verstand mich nicht. Daß ich nach Valga oder Petseri 
+               <lb xml:id="p001_r_2_tl_41"/>wolle, kam ihm mit Recht verdächtig vor, – denn 
+               <lb xml:id="p001_r_2_tl_42"/>was will ein so ausgesprochen "Landesunkundiger" 
+               <lb xml:id="p001_r_2_tl_43"/>in diesen vergessenen Orten am Rande der großen 
+               <lb xml:id="p001_r_2_tl_44"/>Sowjet-Union? – Man öffnete die Türe also erst, als 
+               <lb xml:id="p001_r_2_tl_45"/>es eigentlich schon zu spät war, – ich entkam dennoch, 
+               <lb xml:id="p001_r_2_tl_46"/>mit Schreibmaschine und Gepäck unter dem Arm. Und 
+               <lb xml:id="p001_r_2_tl_47"/>dann saß ich in Valk, – "an der Grenze von Estland
+               <milestone unit="textregion" xml:id="p001_r_3"/> 
+               <lb xml:id="p001_r_3_tl_1"/>und Lettland" das wiederholte ich mir tröstend, – so 
+               <lb xml:id="p001_r_3_tl_2"/>als seien Grenzen sichtbare Zeichen, photographierbare 
+               <lb xml:id="p001_r_3_tl_3"/>Sensationen. Und so war es denn auch. Eine Garni 
+               <lb xml:id="p001_r_3_tl_4" break="no"/>son der jungen estischen Armee ist in Valk stationiert, 
+               <lb xml:id="p001_r_3_tl_5"/>uralte, mit Kriegsschutzfarben bemalte Automodelle 
+               <lb xml:id="p001_r_3_tl_6"/>holperten über das Pflaster, auf einem vorbildlich ein 
+               <lb xml:id="p001_r_3_tl_7" break="no"/>gerichteten Springplatz trainierten Offiziere ihre hüb 
+               <lb xml:id="p001_r_3_tl_8" break="no"/>schen Pferde. In der Umgebung der Bahngeleise traf 
+               <lb xml:id="p001_r_3_tl_9"/>man beständig auf Zollwächter in graublauen Unifor 
+               <lb xml:id="p001_r_3_tl_10" break="no"/>men, die mich und meinen Photoapparat mißtrauisch 
+               <lb xml:id="p001_r_3_tl_11"/>musterten. Dann geriet ich in die "Stadt", – wo es 
+               <lb xml:id="p001_r_3_tl_12"/>ein Kino, ein paar Droschken, eine Kirche mit russi 
+               <lb xml:id="p001_r_3_tl_13" break="no"/>schen Zwiebelkuppeln gab, und eine Gasse, wo Fleischer 
+               <lb xml:id="p001_r_3_tl_14"/>wie in orientalischen Bazaren ihre Buden aufgeschla 
+               <lb xml:id="p001_r_3_tl_15" break="no"/>gen hatten. Ein prächtiges weißes Schulgebäude man 
+               <lb xml:id="p001_r_3_tl_16" break="no"/>festierte das neue Estland, das für Zwecke der Er 
+               <lb xml:id="p001_r_3_tl_17" break="no"/>ziehung fast ebensoviel ausgibt wie für die Armee, 
+               <lb xml:id="p001_r_3_tl_18"/>nämlich 15,400,000 Estenkronen jährlich. Im übrigen 
+               <lb xml:id="p001_r_3_tl_19"/>reichte die Stadt nur zwei Straßen weit, vom Bahn 
+               <lb xml:id="p001_r_3_tl_20" break="no"/>hof bis zur Kirche und zum Schulhaus. Dann war es 
+               <lb xml:id="p001_r_3_tl_21"/>ein Dorf. Ein typisch russisches Dorf, soviel ich beur 
+               <lb xml:id="p001_r_3_tl_22" break="no"/>teilen kann, – mit breiten, grasbewachsenen Straßen, 
+               <lb xml:id="p001_r_3_tl_23"/>Reihen niedriger Holzhäuschen mit geschnitzten Gie 
+               <lb xml:id="p001_r_3_tl_24" break="no"/>beln, weiter draußen löste sich das Ganze auf, die 
+               <lb xml:id="p001_r_3_tl_25"/>Häuschen lagen zerstreut und vereinzelt zwischen Obst- 
+               <lb xml:id="p001_r_3_tl_26"/>und Gemüsegärten. Es gab blühende Apfelbäume, 
+               <lb xml:id="p001_r_3_tl_27"/>blühenden Flieder, eine Fülle von Blumen. Und 
+               <lb xml:id="p001_r_3_tl_28"/>schließlich befand ich mich vor einem Bauernhof, 
+               <lb xml:id="p001_r_3_tl_29"/>Schweine trieben sich im Morast herum, Gänse schnat 
+               <lb xml:id="p001_r_3_tl_30" break="no"/>terten und vertraten drohend die Stelle des Hofhunds, 
+               <lb xml:id="p001_r_3_tl_31"/>ein Wagen, hoch mit Holz beladen, schwankte um die 
+               <lb xml:id="p001_r_3_tl_32"/>Ecke, eine freundliche alte Frau in weißem Kopftuch 
+               <lb xml:id="p001_r_3_tl_33"/>verscheuchte die Gänse und erzählte mir lachend etwas 
+               <lb xml:id="p001_r_3_tl_34"/>auf estisch.</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_35"/>Ich antwortete ebenso freundlich, diesmal, zur Ab 
+               <lb xml:id="p001_r_3_tl_36" break="no"/>wechslung, auf französisch. Aehnlich erging es mir, als 
+               <lb xml:id="p001_r_3_tl_37"/>ich in die mächtigen Holzlager vor der Stadt ein 
+               <lb xml:id="p001_r_3_tl_38" break="no"/>drang, und den Arbeitern erklärte, daß ich zu ganz 
+               <lb xml:id="p001_r_3_tl_39"/>harmlosen Zwecken ein paar Aufnahmen vom aufge 
+               <lb xml:id="p001_r_3_tl_40" break="no"/>stapelten Reichtum ihres Landes, von Fichten- und 
+               <lb xml:id="p001_r_3_tl_41"/>weißem Birkenholz machen wolle. Aber immer mußte 
+               <lb xml:id="p001_r_3_tl_42"/>ich mich wundern, daß dieses heitere, freundliche, 
+               <lb xml:id="p001_r_3_tl_43"/>sichere Volk das gleiche ist, das noch vor zwei Genera 
+               <lb xml:id="p001_r_3_tl_44" break="no"/>tionen aus Leibeigenen und einem kleinen Bruchteil 
+               <lb xml:id="p001_r_3_tl_45"/>gedrückter "freier" Bauern bestand. Ein Volk, das 
+               <lb xml:id="p001_r_3_tl_46"/>seine eigene Sprache nicht lernen, geschweige denn als 
+               <lb xml:id="p001_r_3_tl_47"/>Schriftsprache drucken und lesen durfte! – Kurz nach 
+               <lb xml:id="p001_r_3_tl_48" break="no"/>dem das Land, 1721, im Frieden von Nystadt, an
+               <milestone unit="textregion" xml:id="p001_r"/> 
+               <lb xml:id="p001_r_tl_1"/>Rußland gekommen war, ist ein estnischer Bauer zu 
+               <lb xml:id="p001_r_tl_2"/>Fuß nach Petersburg gegangen, um dort sein ver 
+               <lb xml:id="p001_r_tl_3" break="no"/>meintliches Recht zu holen. Er wollte nicht geprügelt 
+               <lb xml:id="p001_r_tl_4"/>werden, wollte von seinen zwei Kühen nicht die bes 
+               <lb xml:id="p001_r_tl_5" break="no"/>sere an seinen Herrn abgeben, und seine Kinder nicht 
+               <lb xml:id="p001_r_tl_6"/>verkaufen lassen. Man schickte ihn zurück, und "empfahl 
+               <lb xml:id="p001_r_tl_7"/>ihn dem Wohlwollen seines Herrn." – Der Fall 
+               <lb xml:id="p001_r_tl_8"/>wurde dann in Riga geprüft, und ein Balte namens 
+               <lb xml:id="p001_r_tl_9"/>Rosen, Vertreter der Interessen des Adels, stellte aus 
+               <lb xml:id="p001_r_tl_10"/>den vorhandenen Urkunden fest, daß der Bauer sich 
+               <lb xml:id="p001_r_tl_11"/>geirrt hatte, und daß er mit Leib und Seele seinem 
+               <lb xml:id="p001_r_tl_12"/>Herrn gehöre.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_14"/>Jahrhundertelang ein rechtloses Volk von geplagten 
+               <lb xml:id="p001_r_tl_13"/>leibeigenen Bauern, – seit 15 Jahren erst eine frei 
+               <lb xml:id="p001_r_tl_15" break="no"/>Republik, – und schon scheinen alle Spuren der Jahr 
+               <lb xml:id="p001_r_tl_17" break="no"/>hunderte ausgelöscht. Und auch die Balten, die eine 
+               <lb xml:id="p001_r_tl_16"/>große Tradition und Kultur und zwei Drittel des Bo 
+               <lb xml:id="p001_r_tl_18" break="no"/>dens ihr eigen nannten, sind verstreut und verschwun 
+               <lb xml:id="p001_r_tl_19" break="no"/>den ... ich stellte solche Ueberlegungen über die 
+               <lb xml:id="p001_r_tl_20"/>Wandelbarkeit unserer Welt mit gemischten Empfin 
+               <lb xml:id="p001_r_tl_22" break="no"/>dungen an. Und dann traf ich, im Städtchen Valk, 
+               <lb xml:id="p001_r_tl_21"/>doch noch eine Zeugin jener schnell vergessenen Zeit: 
+               <lb xml:id="p001_r_tl_23"/>– ich photographierte eine Bäuerin, die mit ihren 
+               <lb xml:id="p001_r_tl_24"/>leuchtend blauen Augen im grobknochigen Gesicht, den 
+               <lb xml:id="p001_r_tl_26"/>fetten, schweren Händen über dem mächtigen Bauch 
+               <lb xml:id="p001_r_tl_25"/>ein Modell für einen Maler abgegeben hätte, der die 
+               <lb xml:id="p001_r_tl_27"/>schlichte Volksseele entdecken will. Kaum hatte ich ge 
+               <lb xml:id="p001_r_tl_28" break="no"/>knipst, als die Alte sich behende erhob, auf mich zu 
+               <lb xml:id="p001_r_tl_29" break="no"/>humpelte, und tief kniend meine Hand küßte. "Gnädi 
+               <lb xml:id="p001_r_tl_30" break="no"/>ges Fräulein", sagte sie, "helfen Sie einer armen 
+               <lb xml:id="p001_r_tl_31"/>treuen Frau!" – "Woher können Sie so gut deutsch?" 
+               <lb xml:id="p001_r_tl_33"/>fragte ich – und schenkte ihr, das muß doch erwähnt 
+               <lb xml:id="p001_r_tl_32"/>sein, von zwei estischen Geldscheinen, die ich besaß, den 
+               <lb xml:id="p001_r_tl_34"/>kleineren mit dem Aufdruck "Fünf", – den von 
+               <lb xml:id="p001_r_tl_35"/>"Hundert" behielt ich, – um dann nachher zu erfah 
+               <lb xml:id="p001_r_tl_36" break="no"/>ren, daß ich fünf Kronen verschenkt, und nur eine be 
+               <lb xml:id="p001_r_tl_37" break="no"/>halten hatte, was für ein sehr bescheidenes Abendessen 
+               <lb xml:id="p001_r_tl_38"/>reichte! – Dafür überschüttete mich die Alte mit Se 
+               <lb xml:id="p001_r_tl_39" break="no"/>genssprüchen in der Art: "Gott soll Dich hundert 
+               <lb xml:id="p001_r_tl_40"/>Jahre alt werden lassen, mein Engelchen, mein Seel 
+               <lb xml:id="p001_r_tl_41" break="no"/>chen, – gleich hab ich gemerkt, daß Du ein gnädiges 
+               <lb xml:id="p001_r_tl_42"/>deutsches Fräulein bist, ich selbst habe kleine deutsche 
+               <lb xml:id="p001_r_tl_43"/>Kinderchen gepflegt!" sie war in der guten alten Zeit 
+               <lb xml:id="p001_r_tl_44"/>Amme bei einer baltischen Familie auf einem großen 
+               <lb xml:id="p001_r_tl_45"/>Gut gewesen, "das jetzt nur noch von dummen Bauern 
+               <lb xml:id="p001_r_tl_46"/>bewohnt ist"...</p>
+            <p> 
+               <lb xml:id="p001_r_tl_47"/>Um vier Uhr bestieg ich mein Lokalbähnchen, dessen 
+               <lb xml:id="p001_r_tl_48"/>Lokomotive schnaufend einfuhr, hinter sich einen Wa¬               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0224_002.tif"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p> 
+               <lb xml:id="p002_r_tl_1" break="no"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+gen, der statt mit Kohle, mit Holz und gelblichen Stei 
+               <lb xml:id="p002_r_tl_2" break="no"/>nen beladen war. Was ich für Steine hielt, ist das 
+               <lb xml:id="p002_r_tl_3"/>in Kohtla bei Narva gewonnene Schiste [gemeint ist ölhaltiges Schiefergestein bzw. Ölschiefer, genauer das in Estland und Nordwest-Russland verbreitete Kuckersit, vgl. https://de.wikipedia.org/wiki/Kuckersit], ein Produkt, 
+               <lb xml:id="p002_r_tl_4"/>das in Estland Kohle, Oel und Petroleum ersetzt, 
+               <lb xml:id="p002_r_tl_5"/>Schiffe, Maschinen, Lokomotiven heizt, Benzin, Asphalt 
+               <lb xml:id="p002_r_tl_6"/>und Teer abgibt, – statt schwarz vom Kohlenstaub 
+               <lb xml:id="p002_r_tl_7"/>wird man in den Bahnen Estlands weiß bepudert, als 
+               <lb xml:id="p002_r_tl_8"/>mache man eine Wüstenreise. Und obwohl wir durch 
+               <lb xml:id="p002_r_tl_9"/>recht nördlich anmutende Wälder rollen, ist auch die 
+               <lb xml:id="p002_r_tl_10"/>Hitze dieses langen Tages geradezu afrikanisch. Wir 
+               <lb xml:id="p002_r_tl_11"/>fahren von Station zu Station, überall liegt Holz in 
+               <lb xml:id="p002_r_tl_12"/>endlosen Reihen aufgestapelt, der Wald nimmt über 
+               <lb xml:id="p002_r_tl_13" break="no"/>hand, kaum daß ein paar Weiden und kleine Aecker in 
+               <lb xml:id="p002_r_tl_14"/>den Lichtungen Platz finden. Die Stunden vergehen, 
+               <lb xml:id="p002_r_tl_15"/>der Tag geht in die helle, nördliche Nacht über, – 
+               <lb xml:id="p002_r_tl_16"/>und vor uns glänzt die Fläche eines Sees auf, des 
+               <lb xml:id="p002_r_tl_17"/>kleineren Bruders des Peipus-Sees, der Grenze Ruß 
+               <lb xml:id="p002_r_tl_18" break="no"/>lands ...</p>
+</div>
+       </body>
+    </text>
+ </TEI>
