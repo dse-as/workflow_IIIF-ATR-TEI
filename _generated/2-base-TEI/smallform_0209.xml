@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0209" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0209#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0209</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0209"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0209_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0209_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_tl_1"/>Gustav Frenssen und Ludendorff</p>
+            <p> 
+               <lb xml:id="p001_r_tl_2"/>Vor kurzem hat zwischen <hi rendition="#g">Adolf Hitler</hi> und <hi rendition="#g"> 
+                  <lb xml:id="p001_r_tl_3"/>Erich Ludendorff</hi> eine "klärende Aussprache" 
+               <lb xml:id="p001_r_tl_4"/>stattgefunden, – das Objekt der Gespräche zwischen 
+               <lb xml:id="p001_r_tl_5"/>dem Führer und Reichskanzler und dem "General des 
+               <lb xml:id="p001_r_tl_6"/>Weltkrieges" war ein religiöses: die Bewegung des 
+               <lb xml:id="p001_r_tl_7"/>"Deutschen Gottglaubens", für die, nach des Generals 
+               <lb xml:id="p001_r_tl_8"/>eigenen Worten, "er und sein Haus" weltanschaulich 
+               <lb xml:id="p001_r_tl_9"/>kämpfen. Während Propagandaminister und Jugend 
+               <lb xml:id="p001_r_tl_10" break="no"/>führer, Volksgenossen und Wotansanbeter den Beweis 
+               <lb xml:id="p001_r_tl_11"/>führen, die christliche Kirche sei morsch und verrottet, 
+               <lb xml:id="p001_r_tl_12"/>der christliche Glaube ein undeutsches Gut jüdischer 
+               <lb xml:id="p001_r_tl_13"/>Provenienz, während ein General den wahren 
+               <lb xml:id="p001_r_tl_14"/>"Deutschen Gottglauben" glaubt erfinden zu müssen, 
+               <lb xml:id="p001_r_tl_15"/>hat die verfemte und abgetane protestantische Kirche 
+               <lb xml:id="p001_r_tl_16"/>im Dritten Reich oft einen erstaunlichen Mut zum 
+               <lb xml:id="p001_r_tl_17"/>Widerstand gezeigt. Während der sozialistische Pastor 
+               <lb xml:id="p001_r_tl_18"/>Tillich in Amerika im Exil lebt, Niemöller in seiner 
+               <lb xml:id="p001_r_tl_19"/>kleinen Dahlemer Kirche noch immer seine rebellisch 
+               <lb xml:id="p001_r_tl_20" break="no"/>tapferen Predigten hält, seine namenlosen Kollegen 
+               <lb xml:id="p001_r_tl_21"/>in den Konzentrationslagern des Dritten Reiches 
+               <lb xml:id="p001_r_tl_23"/>schmachten, hat nun ein anderer ehemaliger Pastor, 
+               <lb xml:id="p001_r_tl_22"/>ein vielgelesener Schriftsteller, <hi rendition="#g">Gustav Frenssen</hi>, 
+               <lb xml:id="p001_r_tl_24"/>ein Glaubensbuch geschrieben, um sich als Mitkämpfer 
+               <lb xml:id="p001_r_tl_25"/>nicht seiner verfolgten Kollegen und Kameraden, son 
+               <lb xml:id="p001_r_tl_26" break="no"/>dern von Erich und Mathilde Ludendorff zu legiti 
+               <lb xml:id="p001_r_tl_27" break="no"/>mieren.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_28"/>Dieses Buch, "<hi rendition="#g">Der Glaube der Nordmark</hi>" 
+               <lb xml:id="p001_r_tl_29"/>ist, obschon es bereits die vierte Auflage mit 20,000 
+               <lb xml:id="p001_r_tl_30"/>Exemplaren erreicht hat, zu wenig gelesen worden.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_31"/>Die deutsche Sprache allerdings, derer sich der ur 
+               <lb xml:id="p001_r_tl_32" break="no"/>deutsche Erzähler bedient, ist verbogen und entstellt, 
+               <lb xml:id="p001_r_tl_33"/>und die anspruchsvoll verwendeten Worte klingen 
+               <lb xml:id="p001_r_tl_34"/>durch nordische Nebelschichten an unser Ohr. Zwar 
+               <lb xml:id="p001_r_tl_35"/>waren Gustav Frenssens Eltern "innerlich seelische 
+               <lb xml:id="p001_r_tl_36"/>Menschen von vornehmer Haltung, die sich auf rassiger 
+               <lb xml:id="p001_r_tl_37"/>angeborener Grundgesinnung gründete" – aber der 
+               <lb xml:id="p001_r_tl_38"/>Sohn gibt zu, daß er "von Natur kein scharfer Den¬               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0209_002.tif"/>
+            <milestone unit="textregion" xml:id="p002_r_2"/>            <p> 
+               <lb xml:id="p002_r_2_tl_1" break="no"/>ker, sondern vielmehr etwas dummerig" war und 
+               <lb xml:id="p002_r_2_tl_2"/>daß er in dieser angeborenen Frömmigkeit hauste, die 
+               <lb xml:id="p002_r_2_tl_3"/>ihm röter als seinen Kameraden im Blut saß. – 
+               <lb xml:id="p002_r_2_tl_4"/>Diese Aufrichtigkeit ist dankenswert. Sie enthebt uns 
+               <lb xml:id="p002_r_2_tl_5"/>der Aufgabe, in dem Wust selbstgefälliger "biogra 
+               <lb xml:id="p002_r_2_tl_6" break="no"/>phischer" Angaben die Entscheidung zu treffen zwi 
+               <lb xml:id="p002_r_2_tl_7" break="no"/>schen biederem Erbgut der Nordmark –, und den Er 
+               <lb xml:id="p002_r_2_tl_8" break="no"/>rungenschaften und Konzessionen, die Gustav Frenssen 
+               <lb xml:id="p002_r_2_tl_9"/>den Ludendorffs zu verdanken hat und seinem Führer 
+               <lb xml:id="p002_r_2_tl_10"/>und Reichskanzler zu machen bereit ist. Darnach folgt 
+               <lb xml:id="p002_r_2_tl_11"/>eine Beweisführung <hi rendition="#g">gegen die christliche Reli 
+                  <lb xml:id="p002_r_2_tl_12" break="no"/>gion</hi> (wobei zwischen religiösem, ethischen Gehalt und 
+               <lb xml:id="p002_r_2_tl_13"/>kirchlichen Dogmen und Institutionen nicht unterschie 
+               <lb xml:id="p002_r_2_tl_14" break="no"/>den wird), die man bestenfalls einfältig nennen 
+               <lb xml:id="p002_r_2_tl_15"/>kann. Es wird dargelegt, daß die Bibel historisch 
+               <lb xml:id="p002_r_2_tl_16"/>nicht einwandfrei sei, daß das Neue Testament in den 
+               <lb xml:id="p002_r_2_tl_17"/>verschiedenen Evangelien Abweichungen zeigt, daß folg 
+               <lb xml:id="p002_r_2_tl_18" break="no"/>lich das Ganze Menschenwerk, historisch anfechtbar,<hi rendition="#g"> 
+                  <lb xml:id="p002_r_2_tl_19"/>und daher für einen wahrhaftigen deut 
+                  <lb xml:id="p002_r_2_tl_20" break="no"/>schen Menschen unerträglich sei</hi>. Obwohl 
+               <lb xml:id="p002_r_2_tl_21"/>Frenssen über andere Völker kein Urteil fällen will, 
+               <lb xml:id="p002_r_2_tl_22"/>fügt er im gleichen Satz hinzu: "der italienische 
+               <lb xml:id="p002_r_2_tl_23"/>Fischer und Weinbauer, der französische Kleinbür 
+               <lb xml:id="p002_r_2_tl_24" break="no"/>ger (!) müht sich nicht um wahr oder unwahr ... 
+               <lb xml:id="p002_r_2_tl_25"/>Die germanische Seele, tiefer, wahrhaftiger, selbstver 
+               <lb xml:id="p002_r_2_tl_26" break="no"/>antwortlicher, frommer ..." Das alles wäre noch 
+               <lb xml:id="p002_r_2_tl_27"/>nicht so arg, – es hat immer fromme Christen ge 
+               <lb xml:id="p002_r_2_tl_28" break="no"/>geben, die durch die historische Bibelforschung tief be 
+               <lb xml:id="p002_r_2_tl_29" break="no"/>unruhigt wurden.</p>
+            <p> 
+               <lb xml:id="p002_r_2_tl_30"/>Aber Gustav Frenssen macht nicht Halt bei der 
+               <lb xml:id="p002_r_2_tl_31"/>historischen Wissenschaft, er vergreift sich (einfältig oder 
+               <lb xml:id="p002_r_2_tl_32"/>skrupellos?), an dem moralisch-ethischen Gehalt einer 
+               <lb xml:id="p002_r_2_tl_33"/>Religion, die durch ihre Verbindung mit der klassi 
+               <lb xml:id="p002_r_2_tl_34" break="no"/>schen Kultur, und dem römisch-zivilisatorischen Rechts 
+               <lb xml:id="p002_r_2_tl_35" break="no"/>gefühl, zu den Grundlagen unserer abendländischen 
+               <lb xml:id="p002_r_2_tl_36"/>Gesittung gehört. Wenn er behauptet, daß Gustav 
+               <lb xml:id="p002_r_2_tl_37"/>Adolf kein Gläubiger der evangelischen Kirche, son 
+               <lb xml:id="p002_r_2_tl_38" break="no"/>dern nur (mit dem Akzent des Lobes natürlich) ein 
+               <lb xml:id="p002_r_2_tl_39"/>Kriegsmann und Eroberer gewesen sei, wenn er die 
+               <lb xml:id="p002_r_2_tl_40"/>sonderbare Beweisführung versucht: "Es ist Preußen, 
+               <lb xml:id="p002_r_2_tl_41"/>das eine schwächliche Kirche gehabt hat, besser ergan 
+               <lb xml:id="p002_r_2_tl_42" break="no"/>gen als Oesterreich, das eine starke, ja herrschende ge 
+               <lb xml:id="p002_r_2_tl_43" break="no"/>habt hat" (!), so mag man dies als Irrtümer grober 
+               <lb xml:id="p002_r_2_tl_44"/>Unbildung hinnehmen. Ebenso, daß ausgerechnet Les 
+               <lb xml:id="p002_r_2_tl_45" break="no"/>sing, der Verfasser des "Nathan", ein geborener Heide 
+               <lb xml:id="p002_r_2_tl_46"/>germanischer Seele genannt wird. Wie aber, wenn 
+               <lb xml:id="p002_r_2_tl_47"/>mit den schönsten und eindringlichsten Formulierun
+               <milestone unit="textregion" xml:id="p002_r_1"/> 
+               <lb xml:id="p002_r_1_tl_1" break="no"/>gen des Neuen Testaments Unfug getrieben wird? An 
+               <lb xml:id="p002_r_1_tl_2"/>einer Stelle sagt er (Christus) von sich selbst mit dür 
+               <lb xml:id="p002_r_1_tl_3" break="no"/>ren Worten, daß er ein Mensch wie alle sei: "Was 
+               <lb xml:id="p002_r_1_tl_4"/>heißt Ihr mich gut? Niemand ist gut, denn der einige 
+               <lb xml:id="p002_r_1_tl_5"/>Gott".[Markus 10,18 und Lukas 18,19]</p>
+            <p> 
+               <lb xml:id="p002_r_1_tl_6"/>Die wundersame und großartige Bescheidenheit 
+               <lb xml:id="p002_r_1_tl_7"/>dieses Ausspruchs muß allerdings Befremden, Ver 
+               <lb xml:id="p002_r_1_tl_8" break="no"/>legenheit, Verachtung erzeugen beim Sprecher eines 
+               <lb xml:id="p002_r_1_tl_9"/>zur politischen und moralischen Ueberheblichkeit er 
+               <lb xml:id="p002_r_1_tl_10" break="no"/>wachten Volkes. Obwohl die angeborene Frömmigkeit 
+               <lb xml:id="p002_r_1_tl_11"/>rot in Frenssens Adern fließt, ist im folgenden seine 
+               <lb xml:id="p002_r_1_tl_12"/>"Dumpfheit" und Tumbheit" der Aufgabe der mora 
+               <lb xml:id="p002_r_1_tl_13" break="no"/>lischen Degradierung der christlichen Lehre nicht mehr 
+               <lb xml:id="p002_r_1_tl_14"/>gewachsen, und er bedient sich immer häufiger des 
+               <lb xml:id="p002_r_1_tl_15"/>moralischen Rüstzeugs seiner Prophetin Mathilde 
+               <lb xml:id="p002_r_1_tl_16"/>Ludendorff, die nach Frenssens Aussage, "selbst in 
+               <lb xml:id="p002_r_1_tl_17"/>Naturwissenschaften und Indienforschung aufs beste 
+               <lb xml:id="p002_r_1_tl_18"/>erfahren, mit einem kritischen, entschiedenen Geist sel 
+               <lb xml:id="p002_r_1_tl_19" break="no"/>ten begabt, ... aus keinem anderen Grund als aus 
+               <lb xml:id="p002_r_1_tl_20"/>Liebe zur Wahrheit und zum deutschen Volk, den 
+               <lb xml:id="p002_r_1_tl_21"/>christlichen Glauben ebenso gelehrt, wie sittlich ernst, 
+               <lb xml:id="p002_r_1_tl_22"/>wie hitzig angegriffen hat."</p>
+            <p> 
+               <lb xml:id="p002_r_1_tl_23"/>Was ist das Resultat dieser Hitzigkeit?</p>
+            <p> 
+               <lb xml:id="p002_r_1_tl_24"/>Es dürfte genügen, einen einzigen Passus wider 
+               <lb xml:id="p002_r_1_tl_25" break="no"/>zugeben:</p>
+            <p> 
+               <lb xml:id="p002_r_1_tl_26"/>"Sowohl seine Person (die Person Christi) ... ist 
+               <lb xml:id="p002_r_1_tl_27"/>einem germanischen Gemüt oft nicht vornehm genug 
+               <lb xml:id="p002_r_1_tl_28"/>seine Lehre auch nicht ... Wenig oder nichts vom Lob 
+               <lb xml:id="p002_r_1_tl_29"/>der Arbeit, des ernsten Voraussehens und Sorgens. 
+               <lb xml:id="p002_r_1_tl_30"/>Wenig oder nichts von Gerechtigkeit und Weitherzig 
+               <lb xml:id="p002_r_1_tl_31" break="no"/>keit gegen Andersgläubige ... Wenig oder nichts von 
+               <lb xml:id="p002_r_1_tl_32"/>der Mütterlichkeit des Weibes. Wenig oder nichts 
+               <lb xml:id="p002_r_1_tl_33"/>vom Zutrauen zum Guten im Menschen." Und, wei 
+               <lb xml:id="p002_r_1_tl_34" break="no"/>ter unten: "viele Tausende schlichter deutscher Sol 
+               <lb xml:id="p002_r_1_tl_35" break="no"/>daten haben sich vor Tod und Sterben heldischer er 
+               <lb xml:id="p002_r_1_tl_36" break="no"/>wiesen als der Jesus von Nazareth der Evangelien".</p>
+            <p> 
+               <lb xml:id="p002_r_1_tl_37"/>Endlich: "Aus allen diesen Gründen ist der christ 
+               <lb xml:id="p002_r_1_tl_38" break="no"/>liche Glaube für germanische Menschen, für das 
+               <lb xml:id="p002_r_1_tl_39"/>deutsche Volk wertlos, ja mehr, schwer schädlich".</p>
+            <p> 
+               <lb xml:id="p002_r_1_tl_40"/>Lassen wir es dabei bewenden. Es versteht sich, daß 
+               <lb xml:id="p002_r_1_tl_41"/>über das "Was nun?" wenig und Dürftiges gesagt 
+               <lb xml:id="p002_r_1_tl_42"/>wird. Gustav Frenssen hat die Evangelien mit dem 
+               <lb xml:id="p002_r_1_tl_43"/>Argument erledigt, daß sie nicht glaubwürdiger seien 
+               <lb xml:id="p002_r_1_tl_44"/>als etwa die Grimmschen Märchen. Am Schluß des 
+               <lb xml:id="p002_r_1_tl_45"/>Buches rät er eine Art von panreligiöser Naturfröm 
+               <lb xml:id="p002_r_1_tl_46" break="no"/>migkeit, und sagt wörtlich: "ich murmle uralte
+               <milestone unit="textregion" xml:id="p002_r_5"/> 
+               <lb xml:id="p002_r_5_tl_1"/>Träume". Dann wird er deutlicher. Er spricht die 
+               <lb xml:id="p002_r_5_tl_2"/>Hitlerjungen an. Er fragt: "Sind wir Heiden? Neu 
+               <lb xml:id="p002_r_5_tl_3" break="no"/>heiden? Nun, warum denn nicht?" – denn 
+               <lb xml:id="p002_r_5_tl_4"/>"Christus selbst war kein Mensch jüdischen Glaubens, 
+               <lb xml:id="p002_r_5_tl_5"/>war <hi rendition="#g">auch kein Mensch christlichen Glau 
+                  <lb xml:id="p002_r_5_tl_6" break="no"/>bens</hi> ... Was war er denn also? Er war wohl auch 
+               <lb xml:id="p002_r_5_tl_7"/>ein Heide, ein frommer Heide. Und so fast alle Edlen 
+               <lb xml:id="p002_r_5_tl_8"/>der Menschheit bis auf diese Tage."</p>
+            <p> 
+               <lb xml:id="p002_r_5_tl_9"/>Wer aber, nach Ansicht der deutschen "Gotterkennt 
+               <lb xml:id="p002_r_5_tl_10" break="no"/>nis" die Edlen der Menschheit waren, erfahren wir 
+               <lb xml:id="p002_r_5_tl_11"/>in einem knappen Satz:</p>
+            <p> 
+               <lb xml:id="p002_r_5_tl_12"/>"Jedes deutsche Kind muß an deutschem Glau 
+               <lb xml:id="p002_r_5_tl_13" break="no"/>bensgut und an deutschen Helden und Patriarchen, 
+               <lb xml:id="p002_r_5_tl_14"/>von Hermann dem Cherusker bis zu Goethe, Hinden 
+               <lb xml:id="p002_r_5_tl_15" break="no"/>burg und Hitler seinen Glauben erleben und bilden."</p>
+            <p> 
+               <lb xml:id="p002_r_5_tl_16"/>Dies also ist der Kern und Gehalt dieser Reli 
+               <lb xml:id="p002_r_5_tl_17" break="no"/>gionsgemeinschaft. Seien wir froh, daß sie von einem<hi rendition="#g"> 
+                  <lb xml:id="p002_r_5_tl_18"/>deutschen</hi> General erfunden, von einem <hi rendition="#g">deu 
+                  <lb xml:id="p002_r_5_tl_19" break="no"/>schen</hi> Pastor propagiert wird. Daß nur deutsche Sol 
+               <lb xml:id="p002_r_5_tl_20" break="no"/>daten im Weltkriege heldenhaft zu sterben wußten, 
+               <lb xml:id="p002_r_5_tl_21"/>daß nur das deutsche Gemüt der neuen Religiosität 
+               <lb xml:id="p002_r_5_tl_22"/>zugänglich ist, daß nur deutsche Kinder den Helden 
+               <lb xml:id="p002_r_5_tl_23"/>und Patriarchen, Ludendorff, Hitler und Frenssen, 
+               <lb xml:id="p002_r_5_tl_24"/>Gefolgschaft leisten dürfen.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_r_5_tl_25"/>Dr. Annemarie Clark.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
