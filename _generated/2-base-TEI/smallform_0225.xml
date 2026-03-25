@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0225" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0225#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0225</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0225"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0225_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0225_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_2_tl_1"/>Baltisches Tagebuch 
+               <lb xml:id="p001_r_2_tl_2"/>Von <hi rendition="#g">Annemarie Clark</hi></p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_2_tl_3"/>Suomi – Land zwischen Ost und West</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_4"/>Finnland heißt heute Suomi, – und die Handels 
+               <lb xml:id="p001_r_2_tl_5" break="no"/>hochschule in Helsinki (nicht Helsingfors!) nennt sich 
+               <lb xml:id="p001_r_2_tl_6"/>Kauppakorkeakoulu. Ich bin solche Klänge und Ab 
+               <lb xml:id="p001_r_2_tl_7" break="no"/>sonderlichkeiten schon aus Estland gewohnt und wun 
+               <lb xml:id="p001_r_2_tl_8" break="no"/>dere mich über nichts. Aber daß man mir an der 
+               <lb xml:id="p001_r_2_tl_9"/>finnisch-russischen Grenze, – es ist eine einsame Sta 
+               <lb xml:id="p001_r_2_tl_10" break="no"/>tion in den großen Wäldern, – weder schweizerisches 
+               <lb xml:id="p001_r_2_tl_11"/>noch estnisches Geld, weder Rubel noch irgendeine 
+               <lb xml:id="p001_r_2_tl_12"/>andere Währung abnehmen will und nur die guten, 
+               <lb xml:id="p001_r_2_tl_13"/>alten amerikanischen Dollars akzeptiert, die ich nicht 
+               <lb xml:id="p001_r_2_tl_14"/>besitze, – das ist, scheint mir, so antiquiert und eigen 
+               <lb xml:id="p001_r_2_tl_15" break="no"/>sinnig-konservativ, wie sonst nur noch das Festhalten 
+               <lb xml:id="p001_r_2_tl_16"/>an der Goldwährung, – vergeblich versuche ich, diesen 
+               <lb xml:id="p001_r_2_tl_17"/>Standpunkt dem freundlichen finnischen Beamten klar 
+               <lb xml:id="p001_r_2_tl_18"/>zu machen, der hinter einem sauberen Schalterfenster 
+               <lb xml:id="p001_r_2_tl_19" break="no"/>chen sitzt und eben nur finnisch versteht. Eindringlich 
+               <lb xml:id="p001_r_2_tl_20"/>und laut, so, als liege das ganze Mißverständnis an 
+               <lb xml:id="p001_r_2_tl_21"/>seiner Schwerhörigkeit, wiederhole ich ihm: "Ich 
+               <lb xml:id="p001_r_2_tl_22"/>komme aus Leningrad. Ich habe Hunger. Ich möchte 
+               <lb xml:id="p001_r_2_tl_23"/>für gutes, schweizerisches Geld ein bißchen von Ihren 
+               <lb xml:id="p001_r_2_tl_24"/>guten Finnenkronen – oder heißt es Finnenmark? – 
+               <lb xml:id="p001_r_2_tl_25"/>kaufen. Nur ein bißchen brauche ich, nur so viel, um 
+               <lb xml:id="p001_r_2_tl_26"/>in Ihrem guten, sauberen, außerordentlich sauberen 
+               <lb xml:id="p001_r_2_tl_27"/>Bahnhofbuffet, gleich hier nebenan, ein Butterbrot 
+               <lb xml:id="p001_r_2_tl_28"/>und eine Tasse Kaffee zu bezahlen." – "Smörgaas 
+               <lb xml:id="p001_r_2_tl_29" break="no"/>brod" versuche ich mich noch auf schwedisch. – Der 
+               <lb xml:id="p001_r_2_tl_30"/>Beamte lächelt. Es nützt nichts. Er ist unbestechlich. 
+               <lb xml:id="p001_r_2_tl_31"/>Er gibt kein Geld her. – Und zahlt gleich darauf zwei 
+               <lb xml:id="p001_r_2_tl_32"/>korpulenten, mit vielen Dollarscheinen bewaffneten 
+               <lb xml:id="p001_r_2_tl_33"/>amerikanischen Touristinnen genug aus, um das ganze 
+               <lb xml:id="p001_r_2_tl_34"/>Buffet aufzukaufen. Die Damen haben außerdem 
+               <lb xml:id="p001_r_2_tl_35"/>unter ihrem vielseitigen Gepäck, – Handtaschen aus 
+               <lb xml:id="p001_r_2_tl_36"/>Krokodil- und feinstem Schweinsleder, Plaidrollen, 
+               <lb xml:id="p001_r_2_tl_37"/>schottisch karierte Reisekissen, – zwei Proviantkörbe 
+               <lb xml:id="p001_r_2_tl_38"/>gefüllt mit den appetitlichst wirkenden Paketchen. Mein 
+               <lb xml:id="p001_r_2_tl_39"/>Mißgeschick amüsiert sie. "Sie werden ja einfach ver 
+               <lb xml:id="p001_r_2_tl_40" break="no"/>hungern, bevor wir nach Helsingfors kommen!" rufen 
+               <lb xml:id="p001_r_2_tl_41"/>sie lustig aus. Es ist zumindestens aufreizend ... aber 
+               <lb xml:id="p001_r_2_tl_42"/>dann sagt neben mir jemand sehr freundlich: "Wie 
+               <lb xml:id="p001_r_2_tl_43"/>wäre es, wenn ich Ihnen einen halben Dollar leihen 
+               <lb xml:id="p001_r_2_tl_44"/>würde?" – Und gleich darauf bin ich glücklicher Be 
+               <lb xml:id="p001_r_2_tl_45" break="no"/>sitzer von finnischen Butterbroten, schlürfe meinen
+               <milestone unit="textregion" xml:id="p001_r_3"/> 
+               <lb xml:id="p001_r_3_tl_1"/>finnischen Kaffee und unterhalte mich mit einer klei 
+               <lb xml:id="p001_r_3_tl_2" break="no"/>nen amerikanischen Lehrerin über dieses schöne Land 
+               <lb xml:id="p001_r_3_tl_3"/>Suomi, mit dem sie mich für den Preis von fünfzig 
+               <lb xml:id="p001_r_3_tl_4"/>Cents ausgesöhnt hat, und das außer Holz ja auch 
+               <lb xml:id="p001_r_3_tl_5"/>vorzügliche Produkte wie Eier, Butter, Heringe und 
+               <lb xml:id="p001_r_3_tl_6"/>Schweizerkäse exportiert. – [Die finnischen Wälder und 
+               <lb xml:id="p001_r_3_tl_7"/>Seen, und die Bäche voll fetter, wohlschmeckender 
+               <lb xml:id="p001_r_3_tl_8"/>Krebse, die man in langen Sommernächten mit Dill 
+               <lb xml:id="p001_r_3_tl_9"/>und Aquavit verzehrte, – und die Schönheit und 
+               <lb xml:id="p001_r_3_tl_10"/>melancholisch-heitere Pracht dieses kurzen, vergäng 
+               <lb xml:id="p001_r_3_tl_11" break="no"/>lichen Sommers, den man mit Volkstänzen und Ge 
+               <lb xml:id="p001_r_3_tl_12" break="no"/>sang schwärmerisch feierte, in der hellen Stadt Hel 
+               <lb xml:id="p001_r_3_tl_13" break="no"/>singfors und auf den Gutshöfen weit draußen in den 
+               <lb xml:id="p001_r_3_tl_14"/>Wäldern, – das ist eigentlich alles, was mir als Er 
+               <lb xml:id="p001_r_3_tl_15" break="no"/>innerung an einen ersten Aufenthalt in Suomi vor 
+               <lb xml:id="p001_r_3_tl_16"/>fünf Jahren geblieben ist[Anspielung auf ihre Finnland-Reise mit KM (genauer Zeitpunkt?), die dieser weiterverarbeitetin 'Flucht in den Norden)]. Jetzt erstaunt und beein 
+               <lb xml:id="p001_r_3_tl_17" break="no"/>druckt mich diese Landschaft von eintönigem Reiz und 
+               <lb xml:id="p001_r_3_tl_18"/>ihrem Zweifarbenspiel von blauem Wasser und grü 
+               <lb xml:id="p001_r_3_tl_19" break="no"/>nem Walddunkel nicht mehr so sehr. In Estland habe 
+               <lb xml:id="p001_r_3_tl_20"/>ich mich daran gewöhnt, und die weißen Nächte beglei 
+               <lb xml:id="p001_r_3_tl_21" break="no"/>ten mich schon seit Wochen. In Tartu und Tallinn, 
+               <lb xml:id="p001_r_3_tl_22"/>und selbst schon in Riga, hat man mir gesagt, daß 
+               <lb xml:id="p001_r_3_tl_23"/>Suomi-Finnland zum Viererbund der Baltischen 
+               <lb xml:id="p001_r_3_tl_24"/>Staaten gehört, – wie es auch, mit Litauen, Lettland 
+               <lb xml:id="p001_r_3_tl_25"/>und Estland, hundert Jahre lang zum russischen 
+               <lb xml:id="p001_r_3_tl_26"/>Zarenreich gehört und sich mit ihnen nach dem Welt 
+               <lb xml:id="p001_r_3_tl_27" break="no"/>krieg zuerst gegen den Zaren, dann gegen die Bolsche 
+               <lb xml:id="p001_r_3_tl_28" break="no"/>wisten erhoben und selbständig gemacht hat. Die Stu 
+               <lb xml:id="p001_r_3_tl_29" break="no"/>denten Estlands [siehe Artikel über die Studenten Estlands] gar wollen die finnischen und die 
+               <lb xml:id="p001_r_3_tl_30"/>ungarischen Kollegen zu engerer Zusammengehörigkeit 
+               <lb xml:id="p001_r_3_tl_31"/>erziehen, – und dies nur, weil sie verwandte, näm 
+               <lb xml:id="p001_r_3_tl_32" break="no"/>lich für die indoeuropäischen Zungen höchst befremd 
+               <lb xml:id="p001_r_3_tl_33" break="no"/>liche und unerlernbare Sprachen sprechen! In Hel 
+               <lb xml:id="p001_r_3_tl_34" break="no"/>sinki erst frage ich mich: gehört Finnland wirklich 
+               <lb xml:id="p001_r_3_tl_35"/>zum Baltikum? Bin ich nicht schon aus der Sphäre 
+               <lb xml:id="p001_r_3_tl_36"/>dieser nationalistischen, neugebackenen und eben erst 
+               <lb xml:id="p001_r_3_tl_37"/>sich konsolidierenden Kleinstaaten hinübergeraten in 
+               <lb xml:id="p001_r_3_tl_38"/>das heitere, vom Weltkrieg kaum berührte, fortschritt 
+               <lb xml:id="p001_r_3_tl_39" break="no"/>liche, prosperierende und aufgeschlossene Skandi 
+               <lb xml:id="p001_r_3_tl_40" break="no"/>navien? Man lehrt mich den Unterschied – und 
+               <lb xml:id="p001_r_3_tl_41"/>Antagonismus – zwischen Finnen und Finnländern. 
+               <lb xml:id="p001_r_3_tl_42"/>Ein schwedischer Bürger Finnlands ist, heute noch – 
+               <lb xml:id="p001_r_3_tl_43"/>oder mehr denn je? – beleidigt, wenn man ihn statt 
+               <lb xml:id="p001_r_3_tl_44"/>als "Finnländer" als Finnen anspricht. Die Finnen 
+               <lb xml:id="p001_r_3_tl_45"/>waren bis vor knapp zwei Jahrzehnten Bauern, die 
+               <lb xml:id="p001_r_3_tl_46"/>sich Samstag abends in ihren Dampfbädern mit Bir 
+               <lb xml:id="p001_r_3_tl_47" break="no"/>kenruten peitschten und weder lesen noch schreiben 
+               <lb xml:id="p001_r_3_tl_48"/>konnten. Die Finnländer hingegen waren die Offiziere
+               <milestone unit="textregion" xml:id="p001_r_4"/> 
+               <lb xml:id="p001_r_4_tl_1"/>und Gutsbesitzer, – manchmal auch gleichzeitig 
+               <lb xml:id="p001_r_4_tl_2"/>Fabrikherren, wenn sie klug genug waren, inmitten 
+               <lb xml:id="p001_r_4_tl_3"/>ihrer Wälder eine Papiermühle oder eine Sägerei zu 
+               <lb xml:id="p001_r_4_tl_4"/>errichten. In den Städten waren sie die großen Kauf 
+               <lb xml:id="p001_r_4_tl_5" break="no"/>leute und die Eigentümer der schönen, weißen Segel 
+               <lb xml:id="p001_r_4_tl_6" break="no"/>jachten, die neben den plumpen Booten der finnischen 
+               <lb xml:id="p001_r_4_tl_7"/>Inselfischer in den Buchten von Helsingfors und Abo 
+               <lb xml:id="p001_r_4_tl_8"/>lagen. Sie, die Schweden, die "Finnländer", waren 
+               <lb xml:id="p001_r_4_tl_9"/>einst vom skandinavischen Ufer herübergekommen, um 
+               <lb xml:id="p001_r_4_tl_10"/>die heidnischen und zurückgebliebenen Finnen zum 
+               <lb xml:id="p001_r_4_tl_11"/>Christentum zu bekehren und zu Leibeigenen zu 
+               <lb xml:id="p001_r_4_tl_12"/>machen, sie haben Kultur und Wohlstand gebracht, die 
+               <lb xml:id="p001_r_4_tl_13"/>Städte gegründet, die schönen Herrenhäuser gebaut. 
+               <lb xml:id="p001_r_4_tl_14"/>Ihre schwedische Sprache war die alleinige Schrift 
+               <lb xml:id="p001_r_4_tl_15" break="no"/>sprache, das Finnische hingegen nur ein unverständ 
+               <lb xml:id="p001_r_4_tl_16" break="no"/>liches Bauernidiom. Die Schweden spielten also, – 
+               <lb xml:id="p001_r_4_tl_17"/>so möchte man schließen, – in Finnland die gleiche 
+               <lb xml:id="p001_r_4_tl_18"/>Rolle wie die deutschen Ordensritter, Barone und 
+               <lb xml:id="p001_r_4_tl_19"/>Hansekaufleute in Estland und Lettland. Aber dann, 
+               <lb xml:id="p001_r_4_tl_20"/>während ich in einem exklusiv schwedischen Segel 
+               <lb xml:id="p001_r_4_tl_21" break="no"/>klub zum Lunch eingeladen bin und mir zwischen 
+               <lb xml:id="p001_r_4_tl_22"/>Smörgaasbrod, geräuchertem Fisch und Kaviar diese 
+               <lb xml:id="p001_r_4_tl_23"/>beleibten und fröhlichen Finnländer anhöre, die sich 
+               <lb xml:id="p001_r_4_tl_24"/>ohne viel Bitterkeit über den wachsenden Nationalis 
+               <lb xml:id="p001_r_4_tl_25" break="no"/>mus und die Ueberheblichkeit der Finnen beklagen, 
+               <lb xml:id="p001_r_4_tl_26"/>welche die Schweden aus ihren angestammten Stel 
+               <lb xml:id="p001_r_4_tl_27" break="no"/>lungen verdrängen, die schwedische Sprache unter 
+               <lb xml:id="p001_r_4_tl_28" break="no"/>drücken und überhaupt so frech geworden sind, daß 
+               <lb xml:id="p001_r_4_tl_29"/>schlaue Leute ihre guten adligen oder bürgerlichen 
+               <lb xml:id="p001_r_4_tl_30"/>Schwedennamen in gräßlich klingende finnische "über 
+               <lb xml:id="p001_r_4_tl_31" break="no"/>setzen", – während ich mir dies alles anhöre, er 
+               <lb xml:id="p001_r_4_tl_32" break="no"/>innere ich mich an greise, verarmte baltische Barone 
+               <lb xml:id="p001_r_4_tl_33"/>und Stiftfräuleins, denen ich etwa in Reval begegnet 
+               <lb xml:id="p001_r_4_tl_34"/>bin, – erinnere mich an den tiefen Haß der Letten 
+               <lb xml:id="p001_r_4_tl_35"/>gegen ihre einstigen Unterdrücker. Der Unterschied ist 
+               <lb xml:id="p001_r_4_tl_36"/>deutlich, die historische Parallele nur bedingt gültig. 
+               <lb xml:id="p001_r_4_tl_37"/>Die Schweden werden von den Finnen nicht gehaßt, 
+               <lb xml:id="p001_r_4_tl_38"/>– sie werden nur sachte, aber entschlossen beiseite ge 
+               <lb xml:id="p001_r_4_tl_39" break="no"/>drängt. Selbst die Agrarreform, diese erste und öko 
+               <lb xml:id="p001_r_4_tl_40" break="no"/>nomisch grundlegende Folge der nationalen Revolu 
+               <lb xml:id="p001_r_4_tl_41" break="no"/>tionen im Baltikum, hat in Finnland mit seiner 
+               <lb xml:id="p001_r_4_tl_42"/>Landreserven, seinem wohlgeordneten und dem selb 
+               <lb xml:id="p001_r_4_tl_43" break="no"/>ständigen Bauerntum schon ähnlichen Pächtersystem, 
+               <lb xml:id="p001_r_4_tl_44"/>nicht zur Aufteilung des gesamten Grundbesitzes und 
+               <lb xml:id="p001_r_4_tl_45"/>also nicht zur völligen Verarmung der bisherigen 
+               <lb xml:id="p001_r_4_tl_46"/>Schicht von Großgrundbesitzern führen müssen. Die 
+               <lb xml:id="p001_r_4_tl_47"/>reichsten Grundherren Suomis sind immer noch 
+               <lb xml:id="p001_r_4_tl_48"/>Schweden, und schwedisches Kapital beherrscht noch
+               <milestone unit="textregion" xml:id="p001_r_1"/> 
+               <lb xml:id="p001_r_1_tl_1"/>immer den größeren Teil der finnischen Industrie. 
+               <lb xml:id="p001_r_1_tl_2"/>Während man aber drüben in den baltischen Nachbar 
+               <lb xml:id="p001_r_1_tl_3" break="no"/>staaten aus Angst vor dem Kommunismus ebenso wie 
+               <lb xml:id="p001_r_1_tl_4"/>vor der "bolschewistischen Gefahr" die Linksparteien 
+               <lb xml:id="p001_r_1_tl_5"/>unterdrückt, den jungen Parlamentarismus zugunsten 
+               <lb xml:id="p001_r_1_tl_6"/>einer nationalistischen "Ein-Partei"-Diktatur vernichtet 
+               <lb xml:id="p001_r_1_tl_7"/>oder doch suspendiert hat, war in Finnland ein so 
+               <lb xml:id="p001_r_1_tl_8" break="no"/>lider Bauern- und Bürgerstand vorhanden, der nach 
+               <lb xml:id="p001_r_1_tl_9"/>Freiheit, Selbständigkeit und Fortschritt strebend, 
+               <lb xml:id="p001_r_1_tl_10"/>solche nationalistische Auswüchse wie die Lapo-Be 
+               <lb xml:id="p001_r_1_tl_11" break="no"/>wegung bald überwand und nun eine zwar starke 
+               <lb xml:id="p001_r_1_tl_12"/>national orientierte, aber doch durchaus demokratische 
+               <lb xml:id="p001_r_1_tl_13"/>und sozial fortschrittliche Entwicklung verbürgt. In 
+               <lb xml:id="p001_r_1_tl_14"/>Suomi regiert eine sozialdemokratische Mehrheit, – 
+               <lb xml:id="p001_r_1_tl_15"/>wie in Schweden, wo man deshalb noch nicht einmal 
+               <lb xml:id="p001_r_1_tl_16"/>die Monarchie zu beseitigen brauchte! Und aus 
+               <lb xml:id="p001_r_1_tl_17"/>Schweden holt man sich auch die Fachleute, um etwa 
+               <lb xml:id="p001_r_1_tl_18"/>die gewerkschaftliche Organisation der Arbeiterschaft 
+               <lb xml:id="p001_r_1_tl_19"/>durchzuführen. Die exklusive Minorität der Finn 
+               <lb xml:id="p001_r_1_tl_20" break="no"/>länder aber mag sich damit trösten, daß sie auch drü 
+               <lb xml:id="p001_r_1_tl_21" break="no"/>ben im Mutterland die Vorzugsstellung nicht mehr 
+               <lb xml:id="p001_r_1_tl_22"/>einnehmen würde, die man ihr in Suomi heute ge 
+               <lb xml:id="p001_r_1_tl_23" break="no"/>nommen hat, – und sie tröstet sich auch: man unter 
+               <lb xml:id="p001_r_1_tl_24" break="no"/>hält rege Beziehungen zu den Königlichen Segelklubs, 
+               <lb xml:id="p001_r_1_tl_25"/>veranstaltet gemeinsame Regatten und Festessen und 
+               <lb xml:id="p001_r_1_tl_26"/>schickt die jungen Leute an die schwedischen Universi 
+               <lb xml:id="p001_r_1_tl_27" break="no"/>täten, damit sie neben der finnischen Sprache, die sie 
+               <lb xml:id="p001_r_1_tl_28"/>ja lernen müssen, die schwedische nicht vergessen! – 
+               <lb xml:id="p001_r_1_tl_29"/>Tröstlich ist es auch, daß jetzt, im Juni, der 
+               <lb xml:id="p001_r_1_tl_30"/>Geburtstag des alten Generals Mannerheim mit soviel 
+               <lb xml:id="p001_r_1_tl_31"/>Jubel gefeiert wird, – des "Befreiers", der die ein 
+               <lb xml:id="p001_r_1_tl_32" break="no"/>dringenden Bolschewisten besiegt hat, – und daß die 
+               <lb xml:id="p001_r_1_tl_33" break="no"/>ser, von Deutschland mit einem besonderen Orden 
+               <lb xml:id="p001_r_1_tl_34"/>ausgezeichnete General auch bei den Finnen den Ruf 
+               <lb xml:id="p001_r_1_tl_35"/>eines Nationalhelden genießt! Und schließlich erzählte 
+               <lb xml:id="p001_r_1_tl_36"/>mir ein alter Schwede, – es war schon spät und man 
+               <lb xml:id="p001_r_1_tl_37"/>hatte ziemlich viel Krebse verzehrt und Aquavit dazu 
+               <lb xml:id="p001_r_1_tl_38"/>getrunken, – daß man ja auch mit den russischen Nach 
+               <lb xml:id="p001_r_1_tl_39" break="no"/>barn gute Geschäfte machen könne, selbst als Finn 
+               <lb xml:id="p001_r_1_tl_40" break="no"/>länder. – ganz wie vor dem Weltkrieg!</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_41"/>Gehört nun eigentlich Suomi zum Baltikum oder 
+               <lb xml:id="p001_r_1_tl_42"/>zu Skandinavien, fragte ich mich vergeblich, – denn 
+               <lb xml:id="p001_r_1_tl_43"/>die baltischen Staaten reklamieren es heftig für sich, 
+               <lb xml:id="p001_r_1_tl_44"/>aber nicht nur die Finnländer winken verächtlich ab, 
+               <lb xml:id="p001_r_1_tl_45"/>auch die finnischen Sozialdemokraten orientieren sich, 
+               <lb xml:id="p001_r_1_tl_46"/>darüber besteht kein Zweifel, mehr nach dem Vorbild 
+               <lb xml:id="p001_r_1_tl_47"/>Schwedens als etwa nach den kleinen Ländern im 
+               <lb xml:id="p001_r_1_tl_48"/>Osten, deren autarkische Tendenzen ja auch nicht allzu               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0225_002.tif"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p> 
+               <lb xml:id="p002_r_tl_1"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+viel Hoffnung auf eine fruchtbare Zusammenarbeit 
+               <lb xml:id="p002_r_tl_2"/>geben, – eher werden sie eines Tages, mit ihren 
+               <lb xml:id="p002_r_tl_3"/>Holz, ihren Eiern, ihren zukünftigen Industrien, zu 
+               <lb xml:id="p002_r_tl_4"/>Konkurrenten werden. Am stärksten verbindet wohl 
+               <lb xml:id="p002_r_tl_5"/>die gemeinsame Furcht vor dem großen Nachbarn 
+               <lb xml:id="p002_r_tl_6"/>Rußland, – die Erinnerung an die Zarenzeit, an die 
+               <lb xml:id="p002_r_tl_7"/>nationale Befreiung. Also "Waffenbrüderschaft", – 
+               <lb xml:id="p002_r_tl_8"/>aber die Finnen sind ein sehr ziviles Volk, auch darin 
+               <lb xml:id="p002_r_tl_9"/>gleichen sie den Schweden. Und fast möchte man sie, 
+               <lb xml:id="p002_r_tl_10"/>auch wenn es nicht genau den Tatsachen entspricht, 
+               <lb xml:id="p002_r_tl_11"/>jenen glücklichen europäischen Nationen zurechnen, die 
+               <lb xml:id="p002_r_tl_12"/>von Weltkrieg, Nachkriegszeit und Krise kaum berühr 
+               <lb xml:id="p002_r_tl_13" break="no"/>wurden und geeignet sind, uns permanenten Pessi 
+               <lb xml:id="p002_r_tl_14" break="no"/>misten eine andere, zu wenig beachtete "europäische 
+               <lb xml:id="p002_r_tl_15"/>Möglichkeit" aufzuzeigen!</p>
+</div>
+       </body>
+    </text>
+ </TEI>
