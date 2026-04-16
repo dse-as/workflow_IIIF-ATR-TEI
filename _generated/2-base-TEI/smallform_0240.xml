@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0240" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0240#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0240</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0240"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0240_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211937_013%21zui-001_1937_013_1162.jpg"/>
+            <milestone unit="textregion" xml:id="p001_r_9"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l"/>Am gleichen 
+               <lb xml:id="p001_l_13"/>Meer 
+               <lb xml:id="p001_l_20"/>Die Hafenstädte des 
+               <lb xml:id="p001_l_27"/>"Imperium Maris Baltici" 
+               <lb xml:id="p001_l_34"/>BILDBERICHT VON DR. ANNEMARIE CLARK</p>
+
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_2_tl_1"/>Ostsee, Baltisches Meer, Bottnischer Meer 
+               <lb xml:id="p001_r_2_tl_2" break="no"/>busen, – es ist fast ein europäisches Bin 
+               <lb xml:id="p001_r_2_tl_3" break="no"/>nenmeer, um das im Verlauf der Welt 
+               <lb xml:id="p001_r_2_tl_4" break="no"/>geschichte unentwegt gekämpft wurde. Seit den 
+               <lb xml:id="p001_r_2_tl_5"/>grauen Vorzeiten, als von der "Bernsteinküste" 
+               <lb xml:id="p001_r_2_tl_6"/>die uralten Handelswege den Flüssen aufwärts 
+               <lb xml:id="p001_r_2_tl_7"/>folgten bis nach Nischni-Nowgorod, Byzanz und 
+               <lb xml:id="p001_r_2_tl_8"/>Samarkand, seit den kühnen Fahrten der Wikin 
+               <lb xml:id="p001_r_2_tl_9" break="no"/>ger bis auf unsere Tage waren die Länderstreifen 
+               <lb xml:id="p001_r_2_tl_10"/>der Baltischen Küste das Ziel kriegerischer Erobe 
+               <lb xml:id="p001_r_2_tl_11" break="no"/>rung, Kolonisation durch Ritter des Deutschen 
+               <lb xml:id="p001_r_2_tl_12"/>Ordens und Hansekaufleute, imperialistischer Po 
+               <lb xml:id="p001_r_2_tl_13" break="no"/>litik von Schweden und Rußland. Bis nach dem 
+               <lb xml:id="p001_r_2_tl_14"/>Weltkrieg blieb aus jenen Zeiten die herrschende 
+               <lb xml:id="p001_r_2_tl_15"/>Schicht der deutsch-baltischen Barone und Guts 
+               <lb xml:id="p001_r_2_tl_16" break="no"/>besitzer und der Bürgerschaft in den Städten 
+               <lb xml:id="p001_r_2_tl_17"/>übrig. Gustav Adolf ebenso wie dem jungen 
+               <lb xml:id="p001_r_2_tl_18"/>Karl XII. schwebte das "Mare Clausum", vor, seit 
+               <lb xml:id="p001_r_2_tl_19"/>Peter dem Großen wurde die schwedische Herr 
+               <lb xml:id="p001_r_2_tl_20" break="no"/>schaft durch die russische abgelöst. Die Kultur 
+               <lb xml:id="p001_r_2_tl_21" break="no"/>sprache war deutsch, die Amtssprache russisch. 
+               <lb xml:id="p001_r_2_tl_22"/>Die nationale Geschichte der Esten, Letten, Li 
+               <lb xml:id="p001_r_2_tl_23" break="no"/>tauer wuchs im Schatten, – eine Geschichte von 
+               <lb xml:id="p001_r_2_tl_24"/>aufeinanderfolgenden Fremdherrschaften. Erst 
+               <lb xml:id="p001_r_2_tl_25"/>die russische Revolution gab auch den unterdrück 
+               <lb xml:id="p001_r_2_tl_26" break="no"/>ten Bauervölkern der "Randstaaten" das Zeichen 
+               <lb xml:id="p001_r_2_tl_27"/>zur Befreiung. Die Interventionsarmeen des 
+               <lb xml:id="p001_r_2_tl_28"/>deutschen Generals Von der Goltz und des russi 
+               <lb xml:id="p001_r_2_tl_29" break="no"/>schen Abenteurers Bermont-Awaloff, welche die 
+               <lb xml:id="p001_r_2_tl_30"/>Bolschewisten besiegten, waren nicht etwa ge 
+               <lb xml:id="p001_r_2_tl_31" break="no"/>kommen, um die Selbständigkeitsbewegung jener 
+               <lb xml:id="p001_r_2_tl_32"/>jungen Nation zu unterstützen, – sie kamen als 
+               <lb xml:id="p001_r_2_tl_33"/>Retter des bedrohten baltischen Adels. Und so 
+               <lb xml:id="p001_r_2_tl_34"/>mußte man sich zuerst die "Befreier", vom Halse 
+               <lb xml:id="p001_r_2_tl_35"/>schaffen, bevor mit der Errichtung selbständiger 
+               <lb xml:id="p001_r_2_tl_36"/>Nationalstaaten ein gänzlich neues Kapitel der 
+               <lb xml:id="p001_r_2_tl_37"/>Geschichte des Baltikums begann... Obwohl 
+               <lb xml:id="p001_r_2_tl_38"/>Litauen, Lettland, Estland und Finnland-Suomi 
+               <lb xml:id="p001_r_2_tl_39"/>vorwiegend Agrarländer sind, konzentriert sich 
+               <lb xml:id="p001_r_2_tl_40"/>doch das Leben auch dort in den Städten, und 
+               <lb xml:id="p001_r_2_tl_41"/>nirgends spiegelt sich die enorme, fast "totale", 
+               <lb xml:id="p001_r_2_tl_42"/>Wandlung deutlicher wider. Reval war eine 
+               <lb xml:id="p001_r_2_tl_43"/>deutsche Handelsstadt, – heute heißt es Tallinn 
+               <lb xml:id="p001_r_2_tl_44"/>und trägt alle Zeichen des jungen Estlands mit 
+               <lb xml:id="p001_r_2_tl_45"/>beginnender Industrialisierung, moderner Archi 
+               <lb xml:id="p001_r_2_tl_46" break="no"/>tektur, aufstrebendem Handel, wachsendem Ha 
+               <lb xml:id="p001_r_2_tl_47" break="no"/>fenverkehr. Und ähnlich ändern sich die anderen 
+               <lb xml:id="p001_r_2_tl_48"/>Hafenstädte des Baltikums und nehmen Charak 
+               <lb xml:id="p001_r_2_tl_49" break="no"/>ter und Eigenart der Nationen an, die seit der 
+               <lb xml:id="p001_r_2_tl_50"/>knappen Dauer einer Generation bereits bewiesen 
+               <lb xml:id="p001_r_2_tl_51"/>haben, daß sie ihre Geschicke selbst leiten kön 
+               <lb xml:id="p001_r_2_tl_52" break="no"/>nen: die Aspirationen und Kämpfe um das "Bal 
+               <lb xml:id="p001_r_2_tl_53" break="no"/>tische Imperium" gehören der Vergangenheit an.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_8"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_8_tl_1"/>L'hégémonie de la Baltique</p>
+            <p> 
+               <lb xml:id="p001_r_8_tl_2"/>Par le feu, le fer et la hart, les Porte-Glaives, les chevaliers 
+               <lb xml:id="p001_r_8_tl_3"/>tentions et borusses apportent au XIIe siècle le christianisme et 
+               <lb xml:id="p001_r_8_tl_4"/>la civilisation aux peuples lives, estes et coures. Ils réduisent 
+               <lb xml:id="p001_r_8_tl_5"/>l'habitant à l'esclavage, s'emparent de sa terre et marquent de 
+               <lb xml:id="p001_r_8_tl_6"/>leurs étendards heraldiques fichés en terre la première croisade 
+               <lb xml:id="p001_r_8_tl_7"/>du "Drang nach Osten" germanique. Au conquérant succède 
+               <lb xml:id="p001_r_8_tl_8"/>le marchand. La Hanse allemande établit ses comptoirs 
+               <lb xml:id="p001_r_8_tl_9"/>élève les façades crénelées de ses maisons patriciennes, le 
+               <lb xml:id="p001_r_8_tl_10"/>tours élancées de ses hôtels de ville. La richesse des ports de la 
+               <lb xml:id="p001_r_8_tl_11"/>Baltique, clés du commerce avec la Russie, excite bientôt la 
+               <lb xml:id="p001_r_8_tl_12"/>convoitise des voisins –. Soudards danois, lanciers polonais 
+               <lb xml:id="p001_r_8_tl_13"/>drabans de Charles XII occupent tour à tour le pays, mais en 
+               <lb xml:id="p001_r_8_tl_14"/>fait ce sont les "Barons", qui gouvernent. Les barons! Le 
+               <lb xml:id="p001_r_8_tl_15"/>noyau primitif de chevaliers allemands s'est complété de sei 
+               <lb xml:id="p001_r_8_tl_16" break="no"/>gneurs scandinaves, de boyards polonais, de réfugiés français, 
+               <lb xml:id="p001_r_8_tl_17"/>d'aventuriers, de proscrits politiques écossais, de marchands 
+               <lb xml:id="p001_r_8_tl_18"/>hollandais ou portugais. Ceux-là sont les fourriers de toutes 
+               <lb xml:id="p001_r_8_tl_19"/>les conquêtes et vendent sans scrupule le pays au plus offrant. 
+               <lb xml:id="p001_r_8_tl_20"/>Charles XII meurt à Pultava. Porté par ses soldats, son corps 
+               <lb xml:id="p001_r_8_tl_21"/>regagne la Suède et c'en est fait de l'hégémonie scandinave. Le 
+               <lb xml:id="p001_r_8_tl_22"/>Russe fait flotter ses aigles bycéphales sur le pays et Pierre le 
+               <lb xml:id="p001_r_8_tl_23"/>Grand décrète la Baltique: un lac russe.</p>
+            <p> 
+               <lb xml:id="p001_r_8_tl_24"/>Ultime effort de l'Allemagne à l'issue du conflit mondial. 
+               <lb xml:id="p001_r_8_tl_25"/>Von der Goltz se pose en libérateur des Baltes en refoulant la 
+               <lb xml:id="p001_r_8_tl_26"/>horde soviétique. Le Prince de Hesse va ceindre la couronne 
+               <lb xml:id="p001_r_8_tl_27"/>de Finlande et le Duc d'Urach celle de Lithuanie, la victoire 
+               <lb xml:id="p001_r_8_tl_28"/>des Alliés vient détruire ces projets. La Baltique ne sera point 
+               <lb xml:id="p001_r_8_tl_29"/>un lac allemand. Les traités créent sur les rives de la Médi 
+               <lb xml:id="p001_r_8_tl_30" break="no"/>terranée du Nord cinq nouveaux Etats: Pologne, Lithuanie, 
+               <lb xml:id="p001_r_8_tl_31"/>Lettonie, Estonie, Finlande, cinq Etats qui ne chercheront 
+               <lb xml:id="p001_r_8_tl_32"/>point à exercer leur prépondérance aux dépens du voisin.</p>
+
+            <milestone unit="textregion" xml:id="p001_r"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_41"/>Fischerdorf</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_3"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_3_tl_1"/>               <p>Gdynia wuchs in den Nachkriegsjahren vom Fischerdorf zum großen 
+                  <lb xml:id="p001_r_3_tl_2"/>Ostseehafen. Gefördert wurde diese Entwicklung durch den englischen 
+                  <lb xml:id="p001_r_3_tl_3"/>Grubenstreik, der schlesische Kohle zu einem wichtigen Ausfuhrgut 
+                  <lb xml:id="p001_r_3_tl_4"/>machte, und durch den polnischen Nationalwillen. Gdynia ist eine Art 
+                  <lb xml:id="p001_r_3_tl_5"/>Nationalheiligtum geworden, und täglich kommen Schulklassen, um die 
+                  <lb xml:id="p001_r_3_tl_6"/>Hafenanlagen am "polnischen Meer" zu bewundern.</p>
+               <p> 
+                  <lb xml:id="p001_r_3_tl_7"/>Les grèves de mineurs anglais nécessitant l'exportation massive du char 
+                  <lb xml:id="p001_r_3_tl_8" break="no"/>bon de Silésie, Gdyna, un modeste village de pêcheurs, devient en fort 
+                  <lb xml:id="p001_r_3_tl_9"/>peu de temps un des grands ports de la Baltique. Gdyna est pour les 
+                  <lb xml:id="p001_r_3_tl_10"/>Polonais le symbole de leur volonté, de leur puissance. Quotidienne 
+                  <lb xml:id="p001_r_3_tl_11" break="no"/>ment des voyages scolaires amènent des écoliers pour visiter le port et 
+                  <lb xml:id="p001_r_3_tl_12"/>regarder "la mer polonaise".</p>
+</p>
+
+            <milestone unit="textregion" xml:id="p001_r_11"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_r_11_tl_1"/>Handelsverkehr</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_10"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_10_tl_1"/>               <p>Helsinki hat einen bedeutenden internationalen und lokalen Handelsverkehr. 
+                  <lb xml:id="p001_r_10_tl_2"/>An den Markttagen kommen die Bauern von den umliegenden Schäreninseln und 
+                  <lb xml:id="p001_r_10_tl_3"/>verkaufen vom Boot aus ihre Produkte: Butter, die in appetitlichen, weißen Töpf 
+                  <lb xml:id="p001_r_10_tl_4" break="no"/>chen zum Verkauf angeboten wird, ist eines der wichtigsten finnischen Erzeugnisse.</p>
+               <p> 
+                  <lb xml:id="p001_r_10_tl_5"/>Au jour du marché, les paysans de l'archipel gagnent en bateau Helsinki, la 
+                  <lb xml:id="p001_r_10_tl_6"/>blanche capitale de la Finlande. Ils tirent leurs embarcations sur la place et 
+                  <lb xml:id="p001_r_10_tl_7"/>débitent leur beurre dans des appétissants petits pots de bois sur ces bancs de 
+                  <lb xml:id="p001_r_10_tl_8"/>marché improvisés.</p>
+</p>
+
+            <milestone unit="textregion" xml:id="p001_r_4"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_48"/>Zwei estnische Bäuerinnen</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_6"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_6_tl_1"/>               <p>Estland ist noch wenig industriali 
+                  <lb xml:id="p001_r_6_tl_2" break="no"/>siert. Die großen Wälder bilden sei 
+                  <lb xml:id="p001_r_6_tl_3" break="no"/>nen Hauptreichtum, und Holz ist 
+                  <lb xml:id="p001_r_6_tl_4"/>das wichtigste Exportgut. Bild: Zwei 
+                  <lb xml:id="p001_r_6_tl_5"/>estische Bäuerinnen, die stark genug 
+                  <lb xml:id="p001_r_6_tl_6"/>sind, um den Hafenarbeitern von 
+                  <lb xml:id="p001_r_6_tl_7"/>Tallinn beim Verladen von Holz zu 
+                  <lb xml:id="p001_r_6_tl_8"/>helfen.</p>
+               <p> 
+                  <lb xml:id="p001_r_6_tl_9"/>Ces deux robustes paysannes débar 
+                  <lb xml:id="p001_r_6_tl_10" break="no"/>dent le bois dans le port de Tal- 
+                  <lb xml:id="p001_r_6_tl_11"/>linn. L'Estonie est un pays essen 
+                  <lb xml:id="p001_r_6_tl_12" break="no"/>tiellement agricole. Ses grandes 
+                  <lb xml:id="p001_r_6_tl_13"/>forêts de pins sont l'une de ses prin 
+                  <lb xml:id="p001_r_6_tl_14" break="no"/>cipales richesses et l'exportation du 
+                  <lb xml:id="p001_r_6_tl_15"/>bois un important facteur de son 
+                  <lb xml:id="p001_r_6_tl_16"/>économie.</p>
+</p>
+
+            <milestone unit="textregion" xml:id="p001_r_5"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_56"/>Boot</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_7"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_7_tl_1"/>               <p>"Frühlingsputzete" auf der Newa. 
+                  <lb xml:id="p001_r_7_tl_2"/>Am letzten Maitag dieses Jahres 
+                  <lb xml:id="p001_r_7_tl_3"/>marschierten in Leningrad die Ma 
+                  <lb xml:id="p001_r_7_tl_4" break="no"/>rineschüler zum Newaufer, wo ihre 
+                  <lb xml:id="p001_r_7_tl_5"/>Uebungsboote liegen, nahmen die 
+                  <lb xml:id="p001_r_7_tl_6"/>Winterhüllen ab, begannen die Boote 
+                  <lb xml:id="p001_r_7_tl_7"/>zu putzen und zu schrubben und für 
+                  <lb xml:id="p001_r_7_tl_8"/>die Sommersaison flottzumachen.</p>
+               <p> 
+                  <lb xml:id="p001_r_7_tl_9"/>Dès que paraissent les premiers 
+                  <lb xml:id="p001_r_7_tl_10"/>beaux jours (cette année à la fin 
+                  <lb xml:id="p001_r_7_tl_11"/>mai) les cadets de marine de Lenin 
+                  <lb xml:id="p001_r_7_tl_12" break="no"/>grad gagnent les bords de la Newa 
+                  <lb xml:id="p001_r_7_tl_13"/>et procèdent à une complète revision 
+                  <lb xml:id="p001_r_7_tl_14"/>et au grand nettoyage de leurs em 
+                  <lb xml:id="p001_r_7_tl_15" break="no"/>barcations d'entraînement.</p>
+</p>
+</div>
+       </body>
+    </text>
+ </TEI>
