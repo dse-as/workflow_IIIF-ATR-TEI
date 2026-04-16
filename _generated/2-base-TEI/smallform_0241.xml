@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0241" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0241#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0241</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0241"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0241_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211937_013%21zui-001_1937_013_1223.jpg"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l"/>Der Schweizer Bergsteiger LORENZ SALADIN ...</p>
+
+            <milestone unit="textregion" xml:id="p001_r_9"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_9_tl_1"/>Der Schweizer Bergsteiger Lorenz Saladin ist vor einem Jahr von seiner Expedition in die Hochgebirge an der russisch-chinesischen Grenze nicht 
+               <lb xml:id="p001_r_9_tl_2"/>wiedergekommen. In Moskau – das erfuhr man nach einiger Zeit – lagen scheinbar unzugänglich seine Tagebücher und Bilder. Unsere Mitarbeiterin 
+               <lb xml:id="p001_r_9_tl_3"/>Frau Annemarie Clark-Schwarzenbach ist zu diesen Bildern hingefahren. Es gelang ihr, Saladins Bergkameraden zu finden. Des einen erfrorene 
+               <lb xml:id="p001_r_9_tl_4"/>Hände zeugten von den Leiden, die Saladin das Leben gekostet haben. Aus tage- und nächtelangen Schilderungen ergab sich für unsere mutige 
+               <lb xml:id="p001_r_9_tl_5"/>und gründliche Berichterstatterin das klare Bild der Geschehisse. Aus Hunderten von Bildern veröffentlichen wir hier auf sechs Seiten einige wenige, 
+               <lb xml:id="p001_r_9_tl_6"/>einige Gipfel nur von den tausenden dieses Gebirges, in das euroäische Menschen bis jetzt noch kaum eingedrungen sind. In einem seiner Täler 
+               <lb xml:id="p001_r_9_tl_7"/>liegt das Grab des Lorenz Saladin, dessen Leben und Tod gleichermaßen Zeugnis ablegen für einen unabhängigen und unerschrockenen Schweizer.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_r_2_tl_7"/>Bergpanorama</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_8"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_8_tl_1"/>               <p>Ausschnitt aus einem Panorama des Kara Su, das Lorenz Saladin von einem von ihm ganz allein bestiegenen namenlosen Viertausender aus auf 
+                  <lb xml:id="p001_r_8_tl_2" break="no"/>nahm. Den namenlosen Viertausender taufte er "Rinzenstock". Der Blick auf diese großartige Gebirgslandschaft wirkt überwältigend. 
+                  <lb xml:id="p001_r_8_tl_3"/>Niemals bestiegen, unerforscht, nicht vermessen und namenlos stehen zu Dutzenden die zackigen Gipfel in den blauen asiatischen Himmel.</p>
+               <p> 
+                  <lb xml:id="p001_r_8_tl_4"/>Au cours d'une "première" qu'il entreprit seul contre un sommer de 4000 m., sommet qu'il nomma "Rinzenstock", L. Saladin prit cette 
+                  <lb xml:id="p001_r_8_tl_5"/>photographie du massif du Kara Su. C'est par centaines que l'on dénombre ici les pics anonymes qu'aucun mortel jamais ne gravit.</p>
+</p>
+
+            <milestone unit="textregion" xml:id="p001_r_11"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_11_tl_1"/>Mort sur le chemin du retour. La dernière expédition du grand explorateur et alpiniste suisse Lorenz Saladin</p>
+
+            <milestone unit="textregion" xml:id="p001_r_12"/>            <p> 
+               <lb xml:id="p001_r_12_tl_1"/>Les expéditions suisses au Caucase de 1933 et 1934 avaient 
+               <lb xml:id="p001_r_12_tl_2"/>attiré l'attention du monde scientifique sur le nom de notre 
+               <lb xml:id="p001_r_12_tl_3"/>compatriote Lorenz Saladin. En 1935, ce remarquable alpi 
+               <lb xml:id="p001_r_12_tl_4" break="no"/>niste était appelé à conduire dans le massif du Pamir, une 
+               <lb xml:id="p001_r_12_tl_5"/>mission russe composée de géologues, géographes et d'alpi 
+               <lb xml:id="p001_r_12_tl_6" break="no"/>nistes. L'année suivante, il reparlait avec quatre camarades 
+               <lb xml:id="p001_r_12_tl_7"/>russes pour la région montagneuse qui sépare les Turkestans 
+               <lb xml:id="p001_r_12_tl_8"/>soviétique et chinois. Saladin mena à chef cette dernière 
+               <lb xml:id="p001_r_12_tl_9"/>expédition, mais hélas il ne devait pas en revenir. Ses notes 
+               <lb xml:id="p001_r_12_tl_10"/>et ses photos se trouvaient à Moscou. Notre éminente col- 
+               <lb xml:id="p001_r_12_tl_11"/>laboratrice et amie, Madame Annemarie Clark-Schwarzen 
+               <lb xml:id="p001_r_12_tl_12" break="no"/>bach, se rendit en Russie. Elle eut la chance de retrouver les
+               <milestone unit="textregion" xml:id="p001_r_13"/> 
+               <lb xml:id="p001_r_13_tl_1"/>collaborateurs de Saladin et de mettre la main sur sa docu 
+               <lb xml:id="p001_r_13_tl_2" break="no"/>mentation.</p>
+            <p> 
+               <lb xml:id="p001_r_13_tl_3"/>Le 2 juillet 1936, Saladin, qui avait obtenu un visa de tou 
+               <lb xml:id="p001_r_13_tl_4" break="no"/>riste pour tout le territoire de l'U.R.S.S., quittait Moscou 
+               <lb xml:id="p001_r_13_tl_5"/>avec 450 kilos de bagages pour le Turkestan. Il serait trop 
+               <lb xml:id="p001_r_13_tl_6"/>long, d'énumérer ici le nombre de difficultés de tous ordres 
+               <lb xml:id="p001_r_13_tl_7"/>que l'expédition rencontra avant de parvenir à pied d'œuvre, 
+               <lb xml:id="p001_r_13_tl_8"/>du Khan Tengri (la montagne des Dieux), un sommet de 
+               <lb xml:id="p001_r_13_tl_9"/>7200 m. Ayant réussit, le 5 septembre 1936, cette magnifique 
+               <lb xml:id="p001_r_13_tl_10"/>ascension, l'expédition s'engagea sur le chemin du retour. Le 
+               <lb xml:id="p001_r_13_tl_11"/>9 septembre, Saladin déclara à ses compagnons ne pas pou 
+               <lb xml:id="p001_r_13_tl_12" break="no"/>voir continuer. Il avait les doigts et les orteils gelés et,
+               <milestone unit="textregion" xml:id="p001_r_14"/> 
+               <lb xml:id="p001_r_14_tl_1"/>s'était coupé, son sang s'empoisonnait. On le laissa donc en 
+               <lb xml:id="p001_r_14_tl_2"/>compagnie d'Ewgeni Abolakow (également malade) dans 
+               <lb xml:id="p001_r_14_tl_3"/>une prairie, tandis que le reste de l'expédition se hâtait de 
+               <lb xml:id="p001_r_14_tl_4"/>chercher des secours. Un avion prévint qu'une colonne de 
+               <lb xml:id="p001_r_14_tl_5"/>secours approchait, mais elle arriva trop tard. Saladin, qui 
+               <lb xml:id="p001_r_14_tl_6"/>s'était remis en marche, mourait le 14 septembre assis sur son 
+               <lb xml:id="p001_r_14_tl_7"/>cheval. Il repose aujourd'hui dans le sol de la presqu'île qui 
+               <lb xml:id="p001_r_14_tl_8"/>sépare les fleuves Sari Djas et Innültschek. Tous les autres 
+               <lb xml:id="p001_r_14_tl_9"/>membres de l'expédition revinrent sains et saufs à l'excep 
+               <lb xml:id="p001_r_14_tl_10" break="no"/>tion d'Ewgeni Abolakow à qui l'on dût amputer plusieurs 
+               <lb xml:id="p001_r_14_tl_11"/>doigts et orteils.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_4"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_20"/>Vater Saladin</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_7"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_7_tl_1"/>               <p>Der Vater Lorenz Saladins. Er war Baumeister und im kleinen solo 
+                  <lb xml:id="p001_r_7_tl_2" break="no"/>thurnischen Dörfchen Nuglar bei Liestal betrieb er eine Sägerei.</p>
+               <p> 
+                  <lb xml:id="p001_r_7_tl_3"/>Entrepreneur de son état, le père de Saladin possédait égale 
+                  <lb xml:id="p001_r_7_tl_4" break="no"/>ment une scierie dans le village de Nuglar (Soleure).</p>
+</p>
+
+            <milestone unit="textregion" xml:id="p001_r_5"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_r_5_tl_1"/>Die Sägerei</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_6"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_6_tl_1"/>               <p>Die Sägerei von Saladins Vater in Nuglar.</p>
+                <p> 
+                  <lb xml:id="p001_r_6_tl_2"/>La scierie du père de Saladin à Nuglar.</p>
+</p>
+
+            <milestone unit="textregion" xml:id="p001_r_3"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_31"/>Lorenz Saladin</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_15"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_15_tl_1"/>               <p>† Lorenz Saladin 
+                  <lb xml:id="p001_r_15_tl_2"/>der bekannte Schweizer Alpinist, 
+                  <lb xml:id="p001_r_15_tl_3"/>geboren 1896, von Beruf Mecha 
+                  <lb xml:id="p001_r_15_tl_4" break="no"/>niker. 1924 ging er nach Süd 
+                  <lb xml:id="p001_r_15_tl_5" break="no"/>amerika und bestieg dort einige 
+                  <lb xml:id="p001_r_15_tl_6"/>Andengipfel. 1933 und 1934 lei 
+                  <lb xml:id="p001_r_15_tl_7" break="no"/>tete er zwei schweizerische Kau 
+                  <lb xml:id="p001_r_15_tl_8" break="no"/>kaus-Expeditionen, und 1935 
+                  <lb xml:id="p001_r_15_tl_9"/>stand er an der Spitze einer gro 
+                  <lb xml:id="p001_r_15_tl_10" break="no"/>ßen russischen Pamir-Expedition. 
+                  <lb xml:id="p001_r_15_tl_11"/>Der vorliegende Bericht erzählt 
+                  <lb xml:id="p001_r_15_tl_12"/>von seiner letzten großen berg 
+                  <lb xml:id="p001_r_15_tl_13" break="no"/>steigerischen Leistung, der Erst 
+                  <lb xml:id="p001_r_15_tl_14" break="no"/>besteigung des 7200 Meter hohen 
+                  <lb xml:id="p001_r_15_tl_15"/>Khan Tengri im asiatischen Tien 
+                  <lb xml:id="p001_r_15_tl_16"/>Schan-Gebirge, bei der er den 
+                  <lb xml:id="p001_r_15_tl_17"/>Tod gefunden hat.</p>
+               <p> 
+                  <lb xml:id="p001_r_15_tl_18"/>† Lorenz Saladin. Né en 1896, ce 
+                  <lb xml:id="p001_r_15_tl_19"/>remarquable alpiniste suisse était 
+                  <lb xml:id="p001_r_15_tl_20"/>de son métier mécanicien. En 
+                  <lb xml:id="p001_r_15_tl_21"/>1933 et 1934, il avait dirigé les 
+                  <lb xml:id="p001_r_15_tl_22"/>deux expéditions suisses au Cau 
+                  <lb xml:id="p001_r_15_tl_23" break="no"/>case. En 1935, il prenait la tête 
+                  <lb xml:id="p001_r_15_tl_24"/>d'une mission russe au Pamir. 
+                  <lb xml:id="p001_r_15_tl_25"/>L'an dernier, à partait avec 
+                  <lb xml:id="p001_r_15_tl_26"/>quatre compagnons russes pour 
+                  <lb xml:id="p001_r_15_tl_27"/>livrer un assaut au Khan Tengri 
+                  <lb xml:id="p001_r_15_tl_28"/>(7200 m). Les photographies que 
+                  <lb xml:id="p001_r_15_tl_29"/>nous publions ici relatent cette 
+                  <lb xml:id="p001_r_15_tl_30"/>expédition, hélas, devait être 
+                  <lb xml:id="p001_r_15_tl_31"/>la dernière de Saladin.</p>
+</p>
+
+            <pb xml:id="p002" facs="https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211937_013%21zui-001_1937_013_1224.jpg"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l"/>.. bezwingt den Khan Tengri im Tien Schan-Gebirge ..</p>
+
+            <milestone unit="textregion" xml:id="p002_r_5"/>            <p> 
+               <lb xml:id="p002_r_5_tl_1"/>Durch die zwei Kaukasus-Expeditionen, die Sala 
+               <lb xml:id="p002_r_5_tl_2" break="no"/>din 1933 und 1934 mit Schweizer Kameraden 
+               <lb xml:id="p002_r_5_tl_3"/>ausführte, war man inner- und außerhalb der Schweiz 
+               <lb xml:id="p002_r_5_tl_4"/>auf seinen Namen aufmerksam geworden. 1935 nahm 
+               <lb xml:id="p002_r_5_tl_5"/>er an der russischen Pamir-Expedition teil, die, aus 
+               <lb xml:id="p002_r_5_tl_6"/>Alpinisten, Geologen und Geographen zusammen 
+               <lb xml:id="p002_r_5_tl_7" break="no"/>gesetzt Forschungen im Pamir und in der Turkestan 
+               <lb xml:id="p002_r_5_tl_8" break="no"/>Kette durchführte.</p>
+            <p> 
+               <lb xml:id="p002_r_5_tl_9"/>Als Saladin im Herbst 1935 in die Schweiz zurück 
+               <lb xml:id="p002_r_5_tl_10" break="no"/>kam, war er schon entschlossen, die Besteigungen im 
+               <lb xml:id="p002_r_5_tl_11"/>Herzen Asiens fortzusetzen. Es war Sven Hedin, der ihn 
+               <lb xml:id="p002_r_5_tl_12"/>auf die beiden unbezwungenen Riesen der chinesischen 
+               <lb xml:id="p002_r_5_tl_13"/>Grenze, den Mustag Ata und den Khan Tengri, auf 
+               <lb xml:id="p002_r_5_tl_14" break="no"/>merksam machte, Allein, mit einer Leica und einem 
+               <lb xml:id="p002_r_5_tl_15"/>Film-Aufnahmeapparat ausgerüstet, kehrte Lorenz 
+               <lb xml:id="p002_r_5_tl_16"/>Saladin im Juni 1936 nach Moskau zurück. Dort er 
+               <lb xml:id="p002_r_5_tl_17" break="no"/>lebte er die erste Enttäuschung: die chinesischen Be 
+               <lb xml:id="p002_r_5_tl_18" break="no"/>hörden verweigerten ihm die Einreise nach Chinesisch- 
+               <lb xml:id="p002_r_5_tl_19"/>Turkestan. Er mußte also den Plan aufgeben, den 
+               <lb xml:id="p002_r_5_tl_20"/>Mustag Ata zu besteigen, der sich auf chinesischem Ge 
+               <lb xml:id="p002_r_5_tl_21" break="no"/>biet befindet. Statt dessen organisierte er mit Hilfe 
+               <lb xml:id="p002_r_5_tl_22"/>seiner russischen Kameraden, die schon an der letzt 
+               <lb xml:id="p002_r_5_tl_23" break="no"/>jährigen Pamir-Expedition teilgenommen hatten, 
+               <lb xml:id="p002_r_5_tl_24"/>eine andere Reise, die sie zuerst in die Turkestan 
+               <lb xml:id="p002_r_5_tl_25" break="no"/>Kette und später in den Tien-Schan zum Khan Tengri 
+               <lb xml:id="p002_r_5_tl_26"/>führen sollte. Saladin erhielt ein Touristenvisum für 
+               <lb xml:id="p002_r_5_tl_27"/>die ganze Sowjet-Union, die Ausrüstung – insgesamt 
+               <lb xml:id="p002_r_5_tl_28"/>zirka 450 kg Gepäck, Apparate und ein Zelt – 
+               <lb xml:id="p002_r_5_tl_29"/>wurde in Moskau besorgt, und am 2. Juli reisten Sala 
+               <lb xml:id="p002_r_5_tl_30" break="no"/>din, Ewgeni Abolakow und Leoni Gutmann nach 
+               <lb xml:id="p002_r_5_tl_31"/>Turkestan ab.</p>
+            <p> 
+               <lb xml:id="p002_r_5_tl_32"/>Nach fünftägiger, ermüdender Fahrt durch Südruß 
+               <lb xml:id="p002_r_5_tl_33" break="no"/>land und durch heiße und einförmige Steppengebiete 
+               <lb xml:id="p002_r_5_tl_34"/>langten die drei Bergsteiger im Städtchen Melnikowa, 
+               <lb xml:id="p002_r_5_tl_35"/>nicht weit von Taschkent, an. Der größere Teil des 
+               <lb xml:id="p002_r_5_tl_36"/>Gepäcks wurde nach Frunse vorausgeschickt, während 
+               <lb xml:id="p002_r_5_tl_37"/>man sich zuerst der Turkestan-Kette zuwandte, wo 
+               <lb xml:id="p002_r_5_tl_38"/>eine Gruppe von Geologen die im Vorjahr begonnene 
+               <lb xml:id="p002_r_5_tl_39"/>Forschungsarbeit fortsetzte, Saldin, Abolakow und 
+               <lb xml:id="p002_r_5_tl_40"/>Gutmann stießen im Tomingen mit ihnen zusammen, 
+               <lb xml:id="p002_r_5_tl_41"/>führten mehrere Besteigungen durch, darunter den 
+               <lb xml:id="p002_r_5_tl_42"/>Südwestgipfel des Archar. Am 27. Juni trennten sich 
+               <lb xml:id="p002_r_5_tl_43"/>die drei Bergsteiger von den Geologen und machten 
+               <lb xml:id="p002_r_5_tl_44"/>sich auf den Weg nach Karakol, von wo aus der Khan 
+               <lb xml:id="p002_r_5_tl_45"/>Tengri in Angriff genommen werden sollte. Die Reise 
+               <lb xml:id="p002_r_5_tl_46"/>war beschwerlich: 75 km Marsch bis zum Dorf Wa 
+               <lb xml:id="p002_r_5_tl_47" break="no"/>ruch, von dort mit einem Lastwagen über Tschiptik 
+               <lb xml:id="p002_r_5_tl_48"/>nach Isfara, einer der größten Städte von Tadschiki 
+               <lb xml:id="p002_r_5_tl_49" break="no"/>stan. Am 31. Juli wurde ein Lastwagen nach Melni 
+               <lb xml:id="p002_r_5_tl_50" break="no"/>kowa gemietet, wo man nach zweitägiger Wartezeit 
+               <lb xml:id="p002_r_5_tl_51"/>den Zug über Taschkent nach Frunse nahm. Dort 
+               <lb xml:id="p002_r_5_tl_52"/>traf man überraschenderweise Mischa Dadiomow, 
+               <lb xml:id="p002_r_5_tl_53"/>einen der besten russischen Bergsteiger, Lehrer an einer 
+               <lb xml:id="p002_r_5_tl_54"/>Alpinisten-Schule im Kaukasus der sich den Freunden 
+               <lb xml:id="p002_r_5_tl_55"/>anschloß. Am 5. August setzte man zu viert die Reise 
+               <lb xml:id="p002_r_5_tl_56"/>fort: zwei Tage im Lastauto, auf sehr schlechten 
+               <lb xml:id="p002_r_5_tl_57"/>Straßen, bis man endlich die Gartenstadt Karakol am 
+               <lb xml:id="p002_r_5_tl_58"/>Issyk Kul-See erreichte.</p>
+            <p> 
+               <lb xml:id="p002_r_5_tl_59"/>Witali Abolakow, der Bruder Ewgenis, traf ein. 
+               <lb xml:id="p002_r_5_tl_60"/>Alles war zum Aufbruch bereit. Aber im letzten 
+               <lb xml:id="p002_r_5_tl_61"/>Augenblick schien die ganze Unternehmung zu schei 
+               <lb xml:id="p002_r_5_tl_62" break="no"/>tern: die Grenzkommandantur in Karakol verweigerte 
+               <lb xml:id="p002_r_5_tl_63"/>dem Ausländer Saladin die Einreise in das strategisch 
+               <lb xml:id="p002_r_5_tl_64"/>wichtige und streng abgeschlossene Grenzgebiet. Nur 
+               <lb xml:id="p002_r_5_tl_65"/>der Energie und dem Einsatz seiner Freunde war es 
+               <lb xml:id="p002_r_5_tl_66"/>zu verdanken, daß – nachdem man zahllose drin¬</p>
+
+            <milestone unit="textregion" xml:id="p002_r_2"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p002_r_2_tl_3" break="no"/>Kirgisenpferd</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p002_r_27"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_27_tl_1"/>               <p>Kleiner Zwischenfall auf dem 75 km langen Innültschek-Geltscher. Eines der Kirgisenpferde ist in eine Eisspalte gestürzt. Von seiner kostbaren Traglast befreit. 
+                  <lb xml:id="p002_r_27_tl_2"/>konnte es mit Seilen und der tatkräftigen Mithilfe aller Expeditionsteilnehmer wieder auf die feste Oberfläche gebracht werden.</p>
+               <p> 
+                  <lb xml:id="p002_r_27_tl_3"/>A 160 kilomètres de Karasol, l'expédition atteint le glacier d'Innültschek qui s'é tend sur 75 kilomètres de long. Au cours du passage de ce glacier, un des chevaux 
+                  <lb xml:id="p002_r_27_tl_4"/>kirghises glisse dans une crevasse. On le décharge aussitôt et grâce aux efforts conjugués de tous les membres de l'expédition, on parvient à le retirer de sa 
+                  <lb xml:id="p002_r_27_tl_5"/>fâcheuse posture.</p>
+</p>
+
+            <milestone unit="textregion" xml:id="p002_r_3"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p002_r_3_tl_10"/>Lager</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p002_r_28"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_28_tl_1"/>               <p>Standlager am Fuße des Khan Tengri. Hier wurden die drei Träger mit den zehn Pfernden bis zur Gletscherzunge zurückgeschickt, und für Saladin und die vier 
+                  <lb xml:id="p002_r_28_tl_2"/>Russen begann die eigentliche Kletterarbeit am "Götterberg".</p>
+               <p> 
+                  <lb xml:id="p002_r_28_tl_3"/>Campement au pied de Khan Tengri. Les trois convoyeurs kirghises et leurs dix chevaux sont repartis vers la pointe du glacier. Saladin et ses quatre compa 
+                  <lb xml:id="p002_r_28_tl_4" break="no"/>gnons s'apprêtent à escalader la "montagne des Dieux".</p>
+</p>
+
+            <milestone unit="textregion" xml:id="p002_r_18"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_r_18_tl_1"/>Die vier russischen Teilnehmer der 
+               <lb xml:id="p002_r_18_tl_2"/>Saladin-Expedition nach der strapa 
+               <lb xml:id="p002_r_18_tl_3" break="no"/>ziösen Besteigung des Khan Tengri 
+               <lb xml:id="p002_r_18_tl_4"/>Les quatre membres russes de l'expé 
+               <lb xml:id="p002_r_18_tl_5" break="no"/>dition au Khan Tengri</p>
+
+            <milestone unit="textregion" xml:id="p002_r_19"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p002_l_13"/>Witali Abolakow</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p002_r_20"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_20_tl_1"/>Witali Abolakow</p>
+
+            <milestone unit="textregion" xml:id="p002_r_21"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p002_l_24"/>Ewgeni Abolakow</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p002_r_22"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_22_tl_1"/>Ewgeni Abolakow</p>
+
+            <milestone unit="textregion" xml:id="p002_r_23"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p002_l_35"/>Mischa Dadiomow</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p002_r_24"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_24_tl_1"/>Mischa Dadiomow</p>
+
+            <milestone unit="textregion" xml:id="p002_r_25"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p002_l_46"/>Leoni Gutmann</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p002_r_26"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_26_tl_1"/>Leoni Gutmann</p>
+
+            <milestone unit="textregion" xml:id="p002_r_4"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p002_r_4_tl_8"/>Pyramide Khan Tengri</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p002_r_6"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_6_tl_1"/>               <p>Das Ziel: die mächtige Pyramide des Khan Tengri, zu 
+                  <lb xml:id="p002_r_6_tl_2"/>deutsch "Gott der Götter", des 7200 m hohen Gipfels im 
+                  <lb xml:id="p002_r_6_tl_3"/>Tien Schan-Gebirge, an der Grenze von Russisch- und 
+                  <lb xml:id="p002_r_6_tl_4"/>Chinesisch-Turkestan, der am 5.September 1936 von 
+                  <lb xml:id="p002_r_6_tl_5"/>Lorenz Saladin, Leoni Gutmann, Mischa Dadiomow, 
+                  <lb xml:id="p002_r_6_tl_6"/>den Brüdern Ewgeni und Witali Abolakow zum ersten 
+                  <lb xml:id="p002_r_6_tl_7"/>bestiegen wurde. Wie viele Menschen wissen von diesem 
+                  <lb xml:id="p002_r_6_tl_8"/>Berg, der nur einer unter den Hunderten von namenlosen 
+                  <lb xml:id="p002_r_6_tl_9"/>asiatischen Gebirgsriesen ist? Um den Khan Tengri und 
+                  <lb xml:id="p002_r_6_tl_10"/>den Mustag Ata zu besteigen, unternahm Lorenz Saladin 
+                  <lb xml:id="p002_r_6_tl_11"/>seine letzte Expedition, von der er nicht mehr zurück 
+                  <lb xml:id="p002_r_6_tl_12" break="no"/>kehren sollte.</p>
+               <p> 
+                  <lb xml:id="p002_r_6_tl_13"/>Le but. La splendide pyramide du Khan Tengri, la "mon 
+                  <lb xml:id="p002_r_6_tl_14" break="no"/>tagne des Dieux" apparaît aux explorateurs. Ce sommet de 
+                  <lb xml:id="p002_r_6_tl_15"/>7200 m., qui se dresse à la frontière des Turkestans russe et 
+                  <lb xml:id="p002_r_6_tl_16"/>chinois, fut vaincu pour la première fois, le 5 septembre 
+                  <lb xml:id="p002_r_6_tl_17"/>1936, par Saladin et ses quatre compagnons russes.</p>
+</p>
+
+            <pb xml:id="p003" facs="https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211937_013%21zui-001_1937_013_1225.jpg"/>
+            <milestone unit="textregion" xml:id="p003_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_l_2"/>... und kehrt nicht mehr zurück 
+               <lb xml:id="p003_l_1"/>Photos Lorenz Saladin (Epic), bearbeitet von Dr. Annemarie Clark-Schwarzenbach</p>
+
+            <milestone unit="textregion" xml:id="p003_r_3"/>            <p> 
+               <lb xml:id="p003_r_3_tl_1"/>gende Telegramme nach Moskau ge 
+               <lb xml:id="p003_r_3_tl_2" break="no"/>schickt hatte – am 17. August schließ 
+               <lb xml:id="p003_r_3_tl_3" break="no"/>lich die Bewilligung für Lorenz Saladin 
+               <lb xml:id="p003_r_3_tl_4"/>eintraf, Sein letzter Brief tragt dieses 
+               <lb xml:id="p003_r_3_tl_5"/>Datum. Zwei Tage später brach die 
+               <lb xml:id="p003_r_3_tl_6"/>kleine Karawane auf: die fünf Bergstei 
+               <lb xml:id="p003_r_3_tl_7" break="no"/>ger, drei kirgisische Träger und zehn 
+               <lb xml:id="p003_r_3_tl_8"/>Packpferde. Es galt, zuerst den Innült 
+               <lb xml:id="p003_r_3_tl_9" break="no"/>schek-Gletscher zu erreichen und dann 
+               <lb xml:id="p003_r_3_tl_10"/>über diesen mächtigen Eisstrom – er 
+               <lb xml:id="p003_r_3_tl_11"/>gehört zu den vier größten Gletschern 
+               <lb xml:id="p003_r_3_tl_12"/>der Welt – bis zum Fuß des Khan 
+               <lb xml:id="p003_r_3_tl_13"/>Tengri vorzudringen.</p>
+            <p> 
+               <lb xml:id="p003_r_3_tl_14"/>Einen Monat später traf in der 
+               <lb xml:id="p003_r_3_tl_15"/>Schweiz die Unglücksbotschaft ein. Es 
+               <lb xml:id="p003_r_3_tl_16"/>folgten ein paar Briefe von Gog Har 
+               <lb xml:id="p003_r_3_tl_17" break="no"/>lampiew, Saladins Freund – und der 
+               <lb xml:id="p003_r_3_tl_18"/>russische Totenschein, der die Tragödie 
+               <lb xml:id="p003_r_3_tl_19"/>bestätigte. Der einzig mögliche Weg, die Ge 
+               <lb xml:id="p003_r_3_tl_20" break="no"/>schichte der letzten Expedition Saladins 
+               <lb xml:id="p003_r_3_tl_21"/>zu erfahren und seine Hinterlassen 
+               <lb xml:id="p003_r_3_tl_22" break="no"/>schaft zu retten, war, nach Moskau zu 
+               <lb xml:id="p003_r_3_tl_23"/>reisen und mit seinen Kameraden in 
+               <lb xml:id="p003_r_3_tl_24"/>Verbindung zu treten. Einige Wochen 
+               <lb xml:id="p003_r_3_tl_25"/>später saß ich in der dürftigen Stu 
+               <lb xml:id="p003_r_3_tl_26" break="no"/>dentenbude von Gog Harlampiew, wo 
+               <lb xml:id="p003_r_3_tl_27"/>Saladin mehrmals mit dem Freund 
+               <lb xml:id="p003_r_3_tl_28"/>gewohnt hatte. Harlampiew bediente
+               <milestone unit="textregion" xml:id="p003_r_10"/> 
+               <lb xml:id="p003_r_10_tl_1"/>den Filmapparat, statt der Leinwand benützten wir die 
+               <lb xml:id="p003_r_10_tl_2"/>weiße Wand des Zimmer, auf der sich in blassen Bildern 
+               <lb xml:id="p003_r_10_tl_3"/>die Besteigung des Khan Tengri abrollte. Neben mir 
+               <lb xml:id="p003_r_10_tl_4"/>das Witali Abolakow – was er auf russisch erzählte, 
+               <lb xml:id="p003_r_10_tl_5"/>wurde mir von Harlampiew auf deutsch übersetzt:</p>
+            <p> 
+               <lb xml:id="p003_r_10_tl_6"/>Die fünf Kameraden hatten die Besteigung in der 
+               <lb xml:id="p003_r_10_tl_7"/>Nacht vom 30. zum 31. August, um zehn Uhr, begon 
+               <lb xml:id="p003_r_10_tl_8" break="no"/>nen. Ein starker Schneesturm zwang sie, bereits im ersten 
+               <lb xml:id="p003_r_10_tl_9"/>Biwak, auf 5700 m Höhe, zwei Tage zu warten. Weitere 
+               <lb xml:id="p003_r_10_tl_10"/>Biwaks folgten auf 6200 m. 6750 m und 7000 m. Am 
+               <lb xml:id="p003_r_10_tl_11"/>5. September erreichten sie den Gipfel von 7200 m und 
+               <lb xml:id="p003_r_10_tl_12"/>stiegen bis zur dritten Eishöhle (7000 m) ab. Am folgen 
+               <lb xml:id="p003_r_10_tl_13" break="no"/>den Tag während des Abstiegs zum ersten Biwak, er 
+               <lb xml:id="p003_r_10_tl_14" break="no"/>eignete sich der verhängnisvolle Unfall: Gutmann, der 
+               <lb xml:id="p003_r_10_tl_15"/>einen fallenden Rucksack aufhalten wollte, stürzte zirka 
+               <lb xml:id="p003_r_10_tl_16"/>200 Meter tief ab. Gezwungen, im ersten Lager auf
+               <milestone unit="textregion" xml:id="p003_r_11"/> 
+               <lb xml:id="p003_r_11_tl_1"/>5700 m Höhe bis zum 8. September auszuharren, brach 
+               <lb xml:id="p003_r_11_tl_2" break="no"/>ten die schon stark erschöpften Bergsteiger eine Nacht 
+               <lb xml:id="p003_r_11_tl_3"/>im Wasser liegend zu, da das Eis in den Höhlen unter 
+               <lb xml:id="p003_r_11_tl_4"/>ihren warmen Körpern schmolz. Alle zogen sich Er 
+               <lb xml:id="p003_r_11_tl_5" break="no"/>frierungen an Händen und Füßen zu, Ewgeni Abolakow 
+               <lb xml:id="p003_r_11_tl_6"/>und Saladin waren besonders stark betroffen. Offenbar 
+               <lb xml:id="p003_r_11_tl_7"/>hatte sich Saldin, als er das erfrorene Fleisch an den 
+               <lb xml:id="p003_r_11_tl_8"/>Händen wegkratzte, vergiftet: während des beschwer 
+               <lb xml:id="p003_r_11_tl_9" break="no"/>lichen Marsches über den Innültschek-Gletscher erklärte 
+               <lb xml:id="p003_r_11_tl_10"/>er am 9. September plötzlich, nicht mehr weitergehen zu 
+               <lb xml:id="p003_r_11_tl_11"/>können. Die Freunde schleppten ihn bis zum Ende des 
+               <lb xml:id="p003_r_11_tl_12"/>Gletschers, ließen ihn dort mit Ewgeni Abolakow auf 
+               <lb xml:id="p003_r_11_tl_13"/>einer Wiese zurück und eilten weiter, um Hilfe zu holen. 
+               <lb xml:id="p003_r_11_tl_14"/>Inzwischen waren die Kirgisen und die Pferde eingetrof 
+               <lb xml:id="p003_r_11_tl_15" break="no"/>fen – und am nächsten Tag fühlte sich Saladin wohl 
+               <lb xml:id="p003_r_11_tl_16"/>genug, um weiterzureiten. Man wußte, daß eine Ret
+               <milestone unit="textregion" xml:id="p003_r_9"/> 
+               <lb xml:id="p003_r_9_tl_1" break="no"/>tungsexpedition aus Alma Ata in der Nähe sei: ein Flug 
+               <lb xml:id="p003_r_9_tl_2" break="no"/>zeug hatte einen Brief mit der Mitteilung abgeworfen. 
+               <lb xml:id="p003_r_9_tl_3"/>Aber am 14. September, bevor man die Retter erreichte, 
+               <lb xml:id="p003_r_9_tl_4"/>starb Saladin, auf seinem Pferd sitzend, in drei Schlaf 
+               <lb xml:id="p003_r_9_tl_5" break="no"/>säcke gehüllt. Ein Kamerad wurde aufmerksam, daß 
+               <lb xml:id="p003_r_9_tl_6"/>Saladin einen Handschuh verloren hatte – als er ihn 
+               <lb xml:id="p003_r_9_tl_7"/>ansprach, antwortete Saladin noch: "Ich verstehe nicht" 
+               <lb xml:id="p003_r_9_tl_8"/>– und sank tot auf den Hals seines Pferdes.</p>
+            <p> 
+               <lb xml:id="p003_r_9_tl_9"/>Er wurde im grünen Delta zwischen dem Innültschek- 
+               <lb xml:id="p003_r_9_tl_10"/>und dem Sari Djas-Fluß begraben. Am nächsten Tage 
+               <lb xml:id="p003_r_9_tl_11"/>trafen seine Kameraden die Rettungskolonne und wur 
+               <lb xml:id="p003_r_9_tl_12" break="no"/>den schon am 20. September mit Flugzeug in das Spital 
+               <lb xml:id="p003_r_9_tl_13"/>von Alma Ata gebracht. Alle erholten sich außer Ewgeni 
+               <lb xml:id="p003_r_9_tl_14"/>Abolakow, dem Finger und Zehen amputiert werden 
+               <lb xml:id="p003_r_9_tl_15"/>mußten.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_r_9_tl_16"/>Dr. Annemarie Clark-Schwarzenbach</p>
+
+            <milestone unit="textregion" xml:id="p003_r_2"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p003_r_2_tl_1"/>Khan Tengri</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p003_r_4"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p003_r_4_tl_1"/>               <p>Gipfelrast auf dem Khan Tengri in 7200 Meter Höhe 
+                  <lb xml:id="p003_r_4_tl_2"/>am 5. September 1936. 40 Minuten blieben die Be 
+                  <lb xml:id="p003_r_4_tl_3" break="no"/>winger des "Götterberges" oben, dann schickten sie sich 
+                  <lb xml:id="p003_r_4_tl_4"/>zum Abstieg an. "Das Wetter am Gipfel war ziemlich 
+                  <lb xml:id="p003_r_4_tl_5"/>ruhig, die Sicht herrlich klar, unten aber tobte ein he 
+                  <lb xml:id="p003_r_4_tl_6"/>tiger Schneesturm", notierte Lorenz Saladin.</p>
+               <p> 
+                  <lb xml:id="p003_r_4_tl_7"/>Victoire! repos de 40 minutes au sommet du Khan 
+                  <lb xml:id="p003_r_4_tl_8"/>Tengri. "Le temps est calme, la visibilité excellente, au 
+                  <lb xml:id="p003_r_4_tl_9" break="no"/>dessous de nous par contre sévit une tempête de neige", 
+                  <lb xml:id="p003_r_4_tl_10"/>note Saladin dans son carnet de bord.</p>
+</p>
+
+            <milestone unit="textregion" xml:id="p003_r_5"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p003_l_13"/>Kartenskizze Saladins</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p003_r_6"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p003_r_6_tl_1"/>               <p>Kartenskizze zur Tien Schan-Expedition Saladins 1936</p>
+                <p> 
+                  <lb xml:id="p003_r_6_tl_2"/>Carte de la région du Tien Schan où gravita l'expédition Saladin 1936.</p>
+</p>
+
+            <milestone unit="textregion" xml:id="p003_r_8"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p003_l_20"/>Sari Djas-Fluss</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p003_r_7"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p003_r_7_tl_1"/> <hi rendition="#g">Unten:</hi>                <p> 
+                  <lb xml:id="p003_r_7_tl_2"/>Überquerung des Sari Djas-Flusses, der wenige Kilo 
+                  <lb xml:id="p003_r_7_tl_3" break="no"/>meter weiter nördlich mit dem Abfluß des Innültschek- 
+                  <lb xml:id="p003_r_7_tl_4"/>Gletschers zusammenfließt. Im grünen Delta, zwischen 
+                  <lb xml:id="p003_r_7_tl_5"/>den beiden Wasserläufen, wurde Lorenz Saladin be 
+                  <lb xml:id="p003_r_7_tl_6" break="no"/>graben.</p>
+               <p> 
+                  <lb xml:id="p003_r_7_tl_7"/>L'expédition traverse le Sari Djas. Notre compatriote 
+                  <lb xml:id="p003_r_7_tl_8"/>venait de mourir à quelques kilomètres de là. On l'en 
+                  <lb xml:id="p003_r_7_tl_9" break="no"/>terra au confluent du Sari Djas et du du fleuve Innültschek.</p>
+</p>
+
+            <milestone unit="textregion" xml:id="p003_r_13"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p003_r_13_tl_6"/>Rückmarsch</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p003_r_14"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p003_r_14_tl_1"/>               <p>Nach dem Sieg über den "Gott der Götter". Die Expedition auf dem Rückmarsch im mittleren Teil des Innültschek-Gletschers.</p>
+                <p> 
+                  <lb xml:id="p003_r_14_tl_2"/>L'expédition sur le chemin du retour sur le glacier d'Innültschek.</p>
+</p>
+</div>
+       </body>
+    </text>
+ </TEI>
