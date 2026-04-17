@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0286" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0286#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0286</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0286"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0286_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0286_001.tif"/>
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0286_002.tif"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l"/>Lorenz Saladin's Last Journey 
+               <lb xml:id="p002_l_1"/>The ascent of Khan Tengri in the Tien Shan 
+               <lb xml:id="p002_r_tl_9"/>by ANNEMARIE CLARK-SCHWARZENBACH</p>
+
+            <milestone unit="textregion" xml:id="p002_r_2"/>            <p> 
+               <lb xml:id="p002_r_2_tl_1"/><hi rendition="#i">Heroes of the past are often divested by later generations of their local labels and promoted to the 
+                  <lb xml:id="p002_r_2_tl_2"/>select group of those whose achievements are acclaimed by humanity at large. Contemporary heroes, 
+                  <lb xml:id="p002_r_2_tl_3"/>however, have a habit of being national; and unless he can get the backing of a single nation, your 
+                  <lb xml:id="p002_r_2_tl_4"/>heroic soul is apt to vanish into oblivion. Lorenz Saladin, as this story shows, was something of a 
+                  <lb xml:id="p002_r_2_tl_5"/>hero, but it would take a less nationalistic age than our own to give so unattached a being his due.</hi></p>
+
+            <milestone unit="textregion" xml:id="p002_r_3"/>            <p> 
+               <lb xml:id="p002_r_3_tl_1"/>At the end of September 1936 a short 
+               <lb xml:id="p002_r_3_tl_2"/>telegram reached Zürich (Switzerland) 
+               <lb xml:id="p002_r_3_tl_3"/>announcing that Lorenz Saladin, during 
+               <lb xml:id="p002_r_3_tl_4"/>or after an ascent of 'Khan Tengri' in 
+               <lb xml:id="p002_r_3_tl_5"/>Russian Tien Shan, near the Chinese 
+               <lb xml:id="p002_r_3_tl_6"/>frontier, had met with an accident and 
+               <lb xml:id="p002_r_3_tl_7"/>lost his life. The telegram had been sent 
+               <lb xml:id="p002_r_3_tl_8"/>by the Moscow correspondent of a little 
+               <lb xml:id="p002_r_3_tl_9"/>Communist newspaper in Switzerland, 
+               <lb xml:id="p002_r_3_tl_10"/><hi rendition="#i">Die Freiheit</hi>, and aroused considerable 
+               <lb xml:id="p002_r_3_tl_11"/>attention. Saladin's name had become 
+               <lb xml:id="p002_r_3_tl_12"/>famous far beyond the borders of his Swiss 
+               <lb xml:id="p002_r_3_tl_13"/>homeland owing to the ascents he had 
+               <lb xml:id="p002_r_3_tl_14"/>made in the Caucasus in the course of his 
+               <lb xml:id="p002_r_3_tl_15"/>two consecutive expeditions of 1933 and 
+               <lb xml:id="p002_r_3_tl_16"/>1934, and owing to his successful part in 
+               <lb xml:id="p002_l_2"/>the Russian Pamir Expedition of 1935. 
+               <lb xml:id="p002_r_3_tl_19"/>The news of his death caused a sensation 
+               <lb xml:id="p002_r_3_tl_20"/>in spite of the facts that few people had 
+               <lb xml:id="p002_r_3_tl_21"/>even known that he had returned in 1936 
+               <lb xml:id="p002_r_3_tl_22"/>to Turkestan, and that Saladin, although 
+               <lb xml:id="p002_r_3_tl_23"/>famous, had never been really popular in 
+               <lb xml:id="p002_r_3_tl_24"/>his native country.</p>
+            <p> 
+               <lb xml:id="p002_r_3_tl_25"/>He was an 'adventurer' – a peasant's 
+               <lb xml:id="p002_r_3_tl_26"/>son, who, born in 1896 in the village of 
+               <lb xml:id="p002_r_3_tl_27"/>Nuglar in the Canton of Solothurn, had 
+               <lb xml:id="p002_r_3_tl_28"/>ran away from home as a small boy, and, 
+               <lb xml:id="p002_r_3_tl_29"/>in spite of poverty, had never endured for 
+               <lb xml:id="p002_r_3_tl_30"/>long in any trade or profession. For years 
+               <lb xml:id="p002_r_3_tl_31"/>he had wandered around in the Pyrenees, 
+               <lb xml:id="p002_r_3_tl_32"/>in South America, in the United States: 
+               <lb xml:id="p002_r_3_tl_33"/>he had been a dish-washer, swimming 
+               <lb xml:id="p002_r_3_tl_34"/>instructor, mechanic, policeman – in short, 
+               <lb xml:id="p002_r_3_tl_35"/>he had raced through the career of 
+               <lb xml:id="p002_r_3_tl_36"/>good-for-nothing and candidate for the 
+               <lb xml:id="p002_r_3_tl_37"/>status of American which tradition has 
+               <lb xml:id="p002_r_3_tl_38"/>rendered almost respectable; but without
+               <milestone unit="textregion" xml:id="p002_r_4"/> 
+               <lb xml:id="p002_l_3"/>becoming a millionaire or anything of 
+               <lb xml:id="p002_r_4_tl_3"/>that kind.</p>
+            <p> 
+               <lb xml:id="p002_r_4_tl_4"/>The only thing that distinguished him 
+               <lb xml:id="p002_r_4_tl_5"/>from his companions in vagabondage was 
+               <lb xml:id="p002_r_4_tl_6"/>his passion for mountains. This passion 
+               <lb xml:id="p002_r_4_tl_7"/>gave meaning to his life; its practical 
+               <lb xml:id="p002_r_4_tl_8"/>aim can scarcely be accorded name or 
+               <lb xml:id="p002_r_4_tl_9"/>value, but it remains, as we know, one 
+               <lb xml:id="p002_r_4_tl_10"/>of the most deeply implanted driving 
+               <lb xml:id="p002_r_4_tl_11"/>forces of mankind, to which we owe the 
+               <lb xml:id="p002_r_4_tl_12"/>accomplishment of many truly great deeds.</p>
+            <p> 
+               <lb xml:id="p002_r_4_tl_13"/>Saladin was an absolutely simple fellow. 
+               <lb xml:id="p002_r_4_tl_14"/>While he was clambering about in South 
+               <lb xml:id="p002_r_4_tl_15"/>America in the Andes, or was (in his own 
+               <lb xml:id="p002_r_4_tl_16"/>words) "doing some fine climbs" in North 
+               <lb xml:id="p002_r_4_tl_17"/>America, it scarcely occurred to him that 
+               <lb xml:id="p002_r_4_tl_18"/>he might become famous just by being a               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <milestone unit="textregion" xml:id="p002_r_5"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p002_r_5_tl_15"/>Karte der Grenzregion Turkestans</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0286_003.tif"/>
+            <milestone unit="textregion" xml:id="p003_r_3"/>            <p> 
+               <lb xml:id="p003_r_3_tl_1"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+master of the alpinist's métier. He pub 
+               <lb xml:id="p003_l" break="no"/>lished in the Alpine Journal of May 1935 
+               <lb xml:id="p003_r_3_tl_4"/>a report on the Caucasus expeditions 
+               <lb xml:id="p003_r_3_tl_5"/>which he had carried out with some Swiss 
+               <lb xml:id="p003_r_3_tl_6"/>comrades; from the Pamir Expedition he 
+               <lb xml:id="p003_r_3_tl_7"/>brought back a meagre diary and a num 
+               <lb xml:id="p003_r_3_tl_8" break="no"/>ber of really excellent Leica photographs. 
+               <lb xml:id="p003_r_3_tl_9"/>His name was now known. But he still 
+               <lb xml:id="p003_r_3_tl_10"/>had no idea of making a career for himself. 
+               <lb xml:id="p003_r_3_tl_11"/>When, in June 1936, he went back to 
+               <lb xml:id="p003_r_3_tl_13"/>Moscow, with the intention of climbing 
+               <lb xml:id="p003_r_3_tl_14"/>Mustagh Ata in the Pamirs or Khan 
+               <lb xml:id="p003_r_3_tl_15"/>Tengri in the Tien Shan, he was merely 
+               <lb xml:id="p003_r_3_tl_16"/>following a suggestion made by Sven 
+               <lb xml:id="p003_r_3_tl_17"/>Hedin, the Swedish explorer, and then 
+               <lb xml:id="p003_r_3_tl_18"/>only because they happened to be two 
+               <lb xml:id="p003_r_3_tl_19"/>'fine' and so far unconquered peaks [das trifft nicht auf den Khan Tengri zu, der bereits zwei Mal zuvor bestiegen wurde (für den Mustag Ata überprüfen)] which 
+               <lb xml:id="p003_r_3_tl_20"/>awoke his mountaineer's ambition.</p>
+            <p> 
+               <lb xml:id="p003_r_3_tl_21"/>The fact that this expedition was to be 
+               <lb xml:id="p003_r_3_tl_22"/>carried out in Russia from Moscow, with 
+               <lb xml:id="p003_r_3_tl_23"/>Russian colleagues, and that Saladin, 
+               <lb xml:id="p003_r_3_tl_24"/>thanks to his earlier feats, was on the best
+               <milestone unit="textregion" xml:id="p003_r_1"/> 
+               <lb xml:id="p003_r_1_tl_1"/>possible terms with Russian mountaineers, 
+               <lb xml:id="p003_r_1_tl_2"/>may be partly to blame for so compara 
+               <lb xml:id="p003_r_1_tl_3" break="no"/>tively little being said elsewhere about his 
+               <lb xml:id="p003_r_1_tl_4"/>ascent of Khan Tengri. The announce 
+               <lb xml:id="p003_r_1_tl_5" break="no"/>ment of his death from Moscow may have 
+               <lb xml:id="p003_r_1_tl_6"/>increased the sensation it caused, but 
+               <lb xml:id="p003_r_1_tl_7"/>made the possibility of ever learning more 
+               <lb xml:id="p003_r_1_tl_8"/>exact details appear distinctly less. In 
+               <lb xml:id="p003_r_1_tl_9"/>Switzerland a few sketchy reports were 
+               <lb xml:id="p003_r_1_tl_10"/>published without even an attempt being 
+               <lb xml:id="p003_r_1_tl_11"/>made to rescue the material which Saladin 
+               <lb xml:id="p003_r_1_tl_12"/>left behind him. So it was that one of the 
+               <lb xml:id="p003_r_1_tl_13"/>really great mountaineering feats of the 
+               <lb xml:id="p003_r_1_tl_14"/>world was scarcely heard of, and might 
+               <lb xml:id="p003_r_1_tl_15"/>almost have passed into oblivion while 
+               <lb xml:id="p003_r_1_tl_16"/>Saladin was being mourned as a hero in 
+               <lb xml:id="p003_r_1_tl_17"/>Moscow.</p>
+            <p> 
+               <lb xml:id="p003_r_1_tl_18"/>By chance I heard Saladin's story – or at 
+               <lb xml:id="p003_r_1_tl_19"/>least the little that was known of it – eight 
+               <lb xml:id="p003_r_1_tl_20"/>months later, in May 1937, in Zürich. I 
+               <lb xml:id="p003_r_1_tl_21"/>came into touch with his brother Peter, a 
+               <lb xml:id="p003_r_1_tl_22"/>taxi driver, who gave me 'Lenzli's' last               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <milestone unit="textregion" xml:id="p003_r"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p003_l_66"/>Martkttag in Karakol, Pferde</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p003_r_2"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p003_r_2_tl_1"/><hi rendition="#i">Photograhps by Lorenz Saladin</hi></p>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p003_r_2_tl_2"/><hi rendition="#i">Market day in Karakol, a 'garden city' of Kirghizia, 5800 feet above sea-level and situated among 
+                  <lb xml:id="p003_r_2_tl_3"/>orchards. Here pack horses were hired for the journey to Khan Tengri, 146 miles away</hi></p>
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0286_004.tif"/>
+            <milestone unit="textregion" xml:id="p004_r_2"/>            <p> 
+               <lb xml:id="p004_r_2_tl_1"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+letters and one from his friend, Gog Har 
+               <lb xml:id="p004_r_2_tl_2" break="no"/>lampiev, from Moscow, to read. As Peter 
+               <lb xml:id="p004_r_2_tl_3"/>himself could not take leave and had no 
+               <lb xml:id="p004_r_2_tl_4"/>money, he was very anxious that someone 
+               <lb xml:id="p004_r_2_tl_5"/>should go to Russia and fetch the belong 
+               <lb xml:id="p004_r_2_tl_6" break="no"/>ings which Saladin had left. So I was 
+               <lb xml:id="p004_r_2_tl_7"/>given the necessary authority by him, 
+               <lb xml:id="p004_r_2_tl_8"/>secured a visa on the way through Berlin 
+               <lb xml:id="p004_r_2_tl_9"/>and went via Tallinn and Leningrad to 
+               <lb xml:id="p004_r_2_tl_10"/>Moscow.</p>
+            <p> 
+               <lb xml:id="p004_r_2_tl_11"/>I there met first of all Gog Harlampiev, 
+               <lb xml:id="p004_r_2_tl_12"/>a young student of music and Saladin's 
+               <lb xml:id="p004_r_2_tl_13"/>best friend. He had not, however, taken 
+               <lb xml:id="p004_r_2_tl_14"/>part in the Khan Tengri Expedition, but 
+               <lb xml:id="p004_l"/>had only flown, on receiving the first 
+               <lb xml:id="p004_r_2_tl_17"/>telegram, to Alma Ata, and taken charge 
+               <lb xml:id="p004_r_2_tl_18"/>of all Saladin's film material. Through 
+               <lb xml:id="p004_r_2_tl_19"/>Harlampiev I met Saladin's companions. 
+               <lb xml:id="p004_r_2_tl_20"/>One of them, Vitaly Abolakov, told me 
+               <lb xml:id="p004_r_2_tl_21"/>the story of the tragic expedition and 
+               <lb xml:id="p004_r_2_tl_22"/>gave me exact information to accompany 
+               <lb xml:id="p004_r_2_tl_23"/>the photographs.</p>
+
+            <milestone unit="textregion" xml:id="p004_r_1"/>            <p> 
+               <lb xml:id="p004_r_1_tl_1"/>These photographs (of which only a few 
+               <lb xml:id="p004_r_1_tl_2"/>can be included here) form a really valu 
+               <lb xml:id="p004_r_1_tl_3" break="no"/>able record – valuable since the scene of 
+               <lb xml:id="p004_r_1_tl_4"/>this mountaineering drama, the Tien Shan, 
+               <lb xml:id="p004_r_1_tl_5"/>is a little-known region; most of its peaks 
+               <lb xml:id="p004_r_1_tl_6"/>are still unnamed; high passes separate 
+               <lb xml:id="p004_r_1_tl_7"/>it from China and from the inhabited 
+               <lb xml:id="p004_r_1_tl_8"/>parts of Kirghizia; strict frontier con 
+               <lb xml:id="p004_r_1_tl_9" break="no"/>trol had up to then made it impossible 
+               <lb xml:id="p004_r_1_tl_10"/>for explorers and mountain climbers to 
+               <lb xml:id="p004_r_1_tl_11"/>penetrate into it, to take photographs or 
+               <lb xml:id="p004_r_1_tl_12"/>to carry out ascents. Saladin himself 
+               <lb xml:id="p004_r_1_tl_13"/>had not secured permission to enter this 
+               <lb xml:id="p004_r_1_tl_14"/>strategic zone without difficulty. When 
+               <lb xml:id="p004_r_1_tl_15"/>he learnt in Moscow that the Chinese 
+               <lb xml:id="p004_r_1_tl_16"/>authorities absolutely refused him ad 
+               <lb xml:id="p004_r_1_tl_17" break="no"/>mittance to Chinese Turkestan, he gave 
+               <lb xml:id="p004_r_1_tl_18"/>up his first plan, to climb Mustagh Ata, a 
+               <lb xml:id="p004_r_1_tl_19"/>peak on Chinese territory, and bent all 
+               <lb xml:id="p004_r_1_tl_20"/>his energies on securing a permit to enter 
+               <lb xml:id="p004_r_1_tl_21"/>Russian Tien Shan. He received a tourist 
+               <lb xml:id="p004_r_1_tl_22"/>visa valid for the whole of the Soviet               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <milestone unit="textregion" xml:id="p004_r_5"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p004_r_5_tl_2"/>Lager zu Reisebeginn, Lorenz Saladin nackt</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p004_r_6"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p004_r_6_tl_1"/><hi rendition="#i">The first part of the journey, through a pleasant mountain region, whose green pastures and abundant 
+                  <lb xml:id="p004_r_6_tl_2"/>streams afforded ideal camping-grounds, was the easiest. Preparing a meal in brilliant August sunshine</hi></p>
+
+            <pb xml:id="p005" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0286_005.tif"/>
+            <milestone unit="textregion" xml:id="p005_r_4"/>            <p> 
+               <lb xml:id="p005_r_4_tl_1"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+Union; the Central Office of the Trade 
+               <lb xml:id="p005_r_4_tl_2"/>Unions' gave the money, about 15,000 
+               <lb xml:id="p005_r_4_tl_3"/>roubles, required by him and his four 
+               <lb xml:id="p005_r_4_tl_4"/>Russian companions; and the expedition 
+               <lb xml:id="p005_r_4_tl_5"/>seemed assured.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p005_r_4_tl_6"/>SALADIN AND THE SOVIET [dieser Teil scheint nicht identisch mit smallform_285]</p>
+            <p> 
+               <lb xml:id="p005_r_4_tl_7"/>Saladin had left Switzerland with the 
+               <lb xml:id="p005_r_4_tl_8"/>most modest equipment imaginable – a 
+               <lb xml:id="p005_r_4_tl_9"/>rucksack, a Leica and another film camera. 
+               <lb xml:id="p005_r_4_tl_10"/>Incidentally, he had not paid for this film 
+               <lb xml:id="p005_r_4_tl_11"/>camera, and his brother Peter had given his 
+               <lb xml:id="p005_r_4_tl_12"/>guarantee for it. When it became known 
+               <lb xml:id="p005_r_4_tl_13"/>later that Saladin had received money 
+               <lb xml:id="p005_r_4_tl_14"/>from the Russians, the rumour immedi 
+               <lb xml:id="p005_r_4_tl_15" break="no"/>ately went round that he had sold himself 
+               <lb xml:id="p005_r_4_tl_16"/>to the Soviet Government: presumably, it 
+               <lb xml:id="p005_r_4_tl_17"/>was said, he had promised as a quid pro 
+               <lb xml:id="p005_r_4_tl_18"/>quo to make strategic observations on the 
+               <lb xml:id="p005_r_4_tl_19"/>Chinese frontier, and in any case to hand 
+               <lb xml:id="p005_r_4_tl_20"/>over his entire photographic material on 
+               <lb xml:id="p005_r_4_tl_21"/>his return.</p>
+
+            <milestone unit="textregion" xml:id="p005_r_1"/>            <p> 
+               <lb xml:id="p005_r_1_tl_1"/>To be sure, the Tien Shan is a district of 
+               <lb xml:id="p005_r_1_tl_2"/>great strategic importance, and certainly 
+               <lb xml:id="p005_r_1_tl_3"/>significance still attaches to those southern 
+               <lb xml:id="p005_r_1_tl_4"/>routes to India', lying further south in the 
+               <lb xml:id="p005_r_1_tl_5"/>Pamirs, for which search was made even 
+               <lb xml:id="p005_r_1_tl_6"/>before the World War. But Saladin the 
+               <lb xml:id="p005_r_1_tl_7"/>Swiss was just as certainly not the right 
+               <lb xml:id="p005_r_1_tl_8"/>person to secure useful information of this 
+               <lb xml:id="p005_r_1_tl_9"/>kind, to draw maps, and do all the various 
+               <lb xml:id="p005_r_1_tl_10"/>other things necessary. He never even 
+               <lb xml:id="p005_r_1_tl_11"/>succeeded in keeping a diary as almost all 
+               <lb xml:id="p005_r_1_tl_12"/>mountaineers do, and the scenes of a large 
+               <lb xml:id="p005_r_1_tl_13"/>number of his photographs could not be 
+               <lb xml:id="p005_r_1_tl_14"/>located on account of inadequate data 
+               <lb xml:id="p005_r_1_tl_15"/>His notes cease at August 17, 1936. That 
+               <lb xml:id="p005_r_1_tl_16"/>was the day on which he and his four com 
+               <lb xml:id="p005_r_1_tl_17" break="no"/>panions set out from Karakol for the Khan 
+               <lb xml:id="p005_r_1_tl_18"/>Tengri.</p>
+            <p> 
+               <lb xml:id="p005_r_1_tl_19"/>Incidentally, we know that the Russian 
+               <lb xml:id="p005_r_1_tl_20"/>Government is very keen about sporting 
+               <lb xml:id="p005_r_1_tl_21"/>achievements, and disburses large sums 
+               <lb xml:id="p005_r_1_tl_22"/>for expeditions, even when they have               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <milestone unit="textregion" xml:id="p005_r"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p005_l"/>Familie kirgisischer Nomaden</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p005_r_2"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p005_r_2_tl_1"/><hi rendition="#i">Kirghiz nomads, grazing their herds during summer on the serts (Alpine meadows) of the Terskei- 
+                  <lb xml:id="p005_r_2_tl_2"/>Alatau range, were frequently met. A Kirghiz with his large family of five wives and their children</hi></p>
+
+            <pb xml:id="p006" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0286_006.tif"/>
+            <milestone unit="textregion" xml:id="p006_r"/>            <p> 
+               <lb xml:id="p006_r_tl_1"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+no immediate practical object. Saladin's 
+               <lb xml:id="p006_r_tl_2"/>friends, Leoni Guttmann, Misha Dadio 
+               <lb xml:id="p006_r_tl_3" break="no"/>mov, Evgeny and Vitaly Abolakov, rank 
+               <lb xml:id="p006_r_tl_4"/>as the best mountaineers of the Soviet 
+               <lb xml:id="p006_r_tl_5"/>Union: Saladin himself had made his 
+               <lb xml:id="p006_l"/>name on the Pamir Expedition of 1935, 
+               <lb xml:id="p006_r_tl_8"/>and was unusually popular with his 
+               <lb xml:id="p006_r_tl_9"/>Russian comrades. It is, therefore, not so 
+               <lb xml:id="p006_r_tl_10"/>surprising that the necessary money should 
+               <lb xml:id="p006_r_tl_11"/>have been made available for the ascent of 
+               <lb xml:id="p006_r_tl_12"/>Khan Tengri. Even more than this was 
+               <lb xml:id="p006_r_tl_13"/>done: Saladin was insured by the Central 
+               <lb xml:id="p006_r_tl_14"/>Office of the Trade Unions for 10,000 
+               <lb xml:id="p006_l_1"/>roubles. This sum is bein held in 
+               <lb xml:id="p006_r_tl_17"/>Moscow at the disposal of his family, but 
+               <lb xml:id="p006_r_tl_18"/>it has so far not been possible to send it to 
+               <lb xml:id="p006_r_tl_19"/>Switzerland owing to exchange regulations.</p>
+            <p> 
+               <lb xml:id="p006_r_tl_20"/>None of Saladin's equipment – with the 
+               <lb xml:id="p006_r_tl_21"/>exception of the two cameras – was bought 
+               <lb xml:id="p006_r_tl_22"/>until he reached Moscow. He enumerates 
+               <lb xml:id="p006_r_tl_23"/>the items: tinned food of all kinds, dried 
+               <lb xml:id="p006_r_tl_24"/>vegetables, <hi rendition="#i">valinki</hi> (felt boots) and clothing 
+               <lb xml:id="p006_r_tl_25"/>for the porters, sleeping-bags, a tent, 
+               <lb xml:id="p006_r_tl_26"/>measuring apparatus, picks and rope – 
+               <lb xml:id="p006_r_tl_27"/>only 450 kilograms in all. On July 2nd 
+               <lb xml:id="p006_r_tl_28"/>Saladin, Leoni Guttmann and Evgeny 
+               <lb xml:id="p006_r_tl_29"/>Abolakov left Moscow and travelled via 
+               <lb xml:id="p006_r_tl_30"/>Tashkent to the Tamingen district in the 
+               <lb xml:id="p006_r_tl_31"/>Turkestan range, which they had visited 
+               <lb xml:id="p006_r_tl_32"/>the previous year in company with a 
+               <lb xml:id="p006_r_tl_33"/>group of scientists, principally geologists, 
+               <lb xml:id="p006_r_tl_34"/>who had been searching for samples of 
+               <lb xml:id="p006_r_tl_35"/>rock and, in particular, for veins of ore. 
+               <lb xml:id="p006_r_tl_36"/>The geologists had established a per 
+               <lb xml:id="p006_r_tl_37" break="no"/>manent camp in the Tamingen and were 
+               <lb xml:id="p006_r_tl_38"/>continuing their work.</p>
+            <p> 
+               <lb xml:id="p006_r_tl_39"/>Saladin and his friends carried out 
+               <lb xml:id="p006_r_tl_40"/>various ascents in this district and on 
+               <lb xml:id="p006_r_tl_41"/>July 27, leaving the Turkestan mountains, 
+               <lb xml:id="p006_r_tl_42"/>made their way to Frunze, the terminus 
+               <lb xml:id="p006_r_tl_43"/>of their railway journey. There they met 
+               <lb xml:id="p006_r_tl_44"/>Misha Dadiomov and Evgeny's brother, 
+               <lb xml:id="p006_r_tl_45"/>Vitaly, and drove in a lorry via Rebatchi, 
+               <lb xml:id="p006_r_tl_46"/>along the shore of Lake Issyk Kul, to 
+               <lb xml:id="p006_r_tl_47"/>Karakol, which they finally reached on 
+               <lb xml:id="p006_r_tl_48"/>August 7, after a very difficult journey 
+               <lb xml:id="p006_r_tl_49"/>owing to the bad roads. A thermometer 
+               <lb xml:id="p006_r_tl_50"/>and an altimeter arrived broken – a loss 
+               <lb xml:id="p006_r_tl_51"/>which of course could not be made good.</p>
+
+            <milestone unit="textregion" xml:id="p006_r_1"/>            <p> 
+               <lb xml:id="p006_r_1_tl_1"/>Karakol is a 'garden city', situated 
+               <lb xml:id="p006_r_1_tl_2"/>5800 feet above sea-level, with a mild 
+               <lb xml:id="p006_r_1_tl_3"/>climate, surrounded by orchards and 
+               <lb xml:id="p006_r_1_tl_4"/>melon and poppy fields. Saladin visited 
+               <lb xml:id="p006_r_1_tl_5"/>the weekly market next morning, and 
+               <lb xml:id="p006_r_1_tl_6"/>recounts with delight all there was to 
+               <lb xml:id="p006_r_1_tl_7"/>buy: raspberries, bilberries, apples, pears, 
+               <lb xml:id="p006_r_1_tl_8"/>radishes, turnips, butter, milk, cheese. 
+               <lb xml:id="p006_r_1_tl_9"/>... The time of the year was favourable 
+               <lb xml:id="p006_r_1_tl_10"/>not only for the fruit market, but for the 
+               <lb xml:id="p006_r_1_tl_11"/>start of the ascent of Khan Tengri as well. 
+               <lb xml:id="p006_r_1_tl_12"/>But when Saladin went with his friends to 
+               <lb xml:id="p006_r_1_tl_13"/>the frontier authorities, in order to have 
+               <lb xml:id="p006_r_1_tl_14"/>their passports visa-ed, he, the foreigner 
+               <lb xml:id="p006_r_1_tl_15"/>of the party, was flatly refused entry into 
+               <lb xml:id="p006_r_1_tl_16"/>the Tien Shan. It was pointed out that 
+               <lb xml:id="p006_r_1_tl_17"/>his tourist visa was not valid for the               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <milestone unit="textregion" xml:id="p006_r_3"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p006_l_285"/>Kirgisisches Mädchen auf Pferd</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p006_r_4"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p006_r_4_tl_1"/>Among the Kirghiz everybody rides–old and 
+               <lb xml:id="p006_r_4_tl_2"/>young, mothers and infants; and 'the little girls, 
+               <lb xml:id="p006_r_4_tl_3"/>silver ornaments round their necks, sitting securely 
+               <lb xml:id="p006_r_4_tl_4"/>and gracefully in the saddle ... look like princesses'</p>
+
+            <pb xml:id="p007" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0286_007.tif"/>
+            <milestone unit="textregion" xml:id="p007_r_2"/>            <p> 
+               <lb xml:id="p007_r_2_tl_1"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+frontier district, and that so far no 
+               <lb xml:id="p007_r_2_tl_2"/>foreigner had ever received this favour. 
+               <lb xml:id="p007_r_2_tl_3"/>Saladin and his friends began wiring to 
+               <lb xml:id="p007_r_2_tl_4"/>Moscow, until the total number of tele 
+               <lb xml:id="p007_r_2_tl_5" break="no"/>grams mounted up to fourteen; one of them 
+               <lb xml:id="p007_r_2_tl_6"/>was addressed personally to Joseph Stalin. 
+               <lb xml:id="p007_r_2_tl_7"/>Soviet Russian bureaucracy works slowly. 
+               <lb xml:id="p007_r_2_tl_8"/>The days went by, the season advanced – 
+               <lb xml:id="p007_r_2_tl_9"/>even Saladin, tough and obstinate though 
+               <lb xml:id="p007_r_2_tl_10"/>he was, became nervous. Release came 
+               <lb xml:id="p007_r_2_tl_11"/>with a telegram from Moscow which 
+               <lb xml:id="p007_r_2_tl_12"/>arrived on August 17; Lorenz Saladin, the 
+               <lb xml:id="p007_r_2_tl_13"/>only foreigner to do so, received a permit 
+               <lb xml:id="p007_r_2_tl_14"/>to enter the Tien Shan.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p007_r_2_tl_15"/>THE ROAD TO KHAN TENGRI</p>
+            <p> 
+               <lb xml:id="p007_r_2_tl_16"/>From this moment he made no further 
+               <lb xml:id="p007_r_2_tl_17"/>notes, wrote no more letters, had no other 
+               <lb xml:id="p007_r_2_tl_18"/>thought in his head but to reach Khan 
+               <lb xml:id="p007_r_2_tl_19"/>Tengri. Saladin's last letter, from Kar 
+               <lb xml:id="p007_l" break="no"/>kol, is dated August 17. "Today we are 
+               <lb xml:id="p007_r_2_tl_22"/>setting out," he writes, "five climbers and 
+               <lb xml:id="p007_r_2_tl_23"/>three Kirghizians, who are staying behind 
+               <lb xml:id="p007_r_2_tl_24"/>with the horses. I shall be in Zürich 
+               <lb xml:id="p007_r_2_tl_25"/>about October 3rd. The report on Khan 
+               <lb xml:id="p007_r_2_tl_26"/>Tengri will follow after our return to 
+               <lb xml:id="p007_r_2_tl_28"/>Karakol ..."</p>
+            <p> 
+               <lb xml:id="p007_r_2_tl_29"/>In actual fact the little expedition did 
+               <lb xml:id="p007_r_2_tl_30"/>not set out until two days later, on August 
+               <lb xml:id="p007_r_2_tl_31"/>19, after all preparations had been care 
+               <lb xml:id="p007_r_2_tl_32" break="no"/>fully made. Compared with the appa 
+               <lb xml:id="p007_r_2_tl_33" break="no"/>ratus and equipment of a Mount Everest 
+               <lb xml:id="p007_r_2_tl_34"/>expedition, these preparations sound more 
+               <lb xml:id="p007_r_2_tl_35"/>like those for a harmless week-end ex 
+               <lb xml:id="p007_r_2_tl_36" break="no"/>cursion. Saladin and his four Russian 
+               <lb xml:id="p007_r_2_tl_37"/>companions had to be content with the 
+               <lb xml:id="p007_r_2_tl_38"/>simplest of equipment, and to rely on their 
+               <lb xml:id="p007_r_2_tl_39"/>own intuition and mountaineering ex 
+               <lb xml:id="p007_r_2_tl_40" break="no"/>perience. Even the route of their approach 
+               <lb xml:id="p007_r_2_tl_41"/>to Khan Tengri was known only in its 
+               <lb xml:id="p007_r_2_tl_42"/>broad outlines. From Karakol they wanted 
+               <lb xml:id="p007_r_2_tl_43"/>to cross the Terskei-Alatau range in a 
+               <lb xml:id="p007_r_2_tl_44"/>south-easterly direction over two 13,000-ft 
+               <lb xml:id="p007_r_2_tl_45"/>passes in order to reach the Sari Djas 
+               <lb xml:id="p007_r_2_tl_46"/>valley. The Sari Djas flows into the 
+               <lb xml:id="p007_r_2_tl_47"/>Innültchek river, which they were to 
+               <lb xml:id="p007_r_2_tl_48"/>follow up in a north-easterly direction as 
+               <lb xml:id="p007_r_2_tl_49"/>far as the Innültchek glacier. This stretch 
+               <lb xml:id="p007_r_2_tl_50"/>is about 100 miles long. Then follows the
+               <milestone unit="textregion" xml:id="p007_r_1"/> 
+               <lb xml:id="p007_r_1_tl_1"/>march over the glacier, which, 46 miles 
+               <lb xml:id="p007_r_1_tl_2"/>long, ends at the foot of Khan Tengri.</p>
+            <p> 
+               <lb xml:id="p007_r_1_tl_3"/>Their rations were apportioned as fol 
+               <lb xml:id="p007_r_1_tl_4" break="no"/>lows: for the journey from Karakol to the 
+               <lb xml:id="p007_r_1_tl_5"/>Innültchek glacier, 2 kilograms per man 
+               <lb xml:id="p007_r_1_tl_6"/>per day, of rice, barley, macaroni, tinned 
+               <lb xml:id="p007_r_1_tl_7"/>milk, with a sheep for fresh meat; tea and 
+               <lb xml:id="p007_r_1_tl_8"/>bread. For the march across the glacier 
+               <lb xml:id="p007_r_1_tl_9"/>1 1/2 kilograms per man per day, of tea, 
+               <lb xml:id="p007_r_1_tl_10"/>dry bread, tinned milk, cocoa, cheese, 
+               <lb xml:id="p007_r_1_tl_11"/>sausage and groats. For the actual ascent 
+               <lb xml:id="p007_r_1_tl_12"/>(on which they wanted to establish only 
+               <lb xml:id="p007_r_1_tl_13"/>one single camp at about 20,000 feet!), 
+               <lb xml:id="p007_r_1_tl_14"/>1 kilogram per man per day, of dry bread, 
+               <lb xml:id="p007_r_1_tl_15"/>nuts, dried fruit, chocolate, tinned milk, 
+               <lb xml:id="p007_l_1"/>tinned meat, semolina, and egg powder. 
+               <lb xml:id="p007_r_1_tl_18"/>They were to take also a Primus stove 
+               <lb xml:id="p007_r_1_tl_19"/>with Meta solid fuel.</p>
+            <p> 
+               <lb xml:id="p007_r_1_tl_20"/>Ten horses with three Kirghizians were 
+               <lb xml:id="p007_l_2"/>hired for transporting the bagage, and 
+               <lb xml:id="p007_r_1_tl_23"/>at nine o'clock on the morning of August 
+               <lb xml:id="p007_r_1_tl_24"/>19 the little caravan left Karakol. The 
+               <lb xml:id="p007_r_1_tl_25"/>actual ascent of Khan Tengri is a moun 
+               <lb xml:id="p007_r_1_tl_26" break="no"/>taineering feat which it is not easy to 
+               <lb xml:id="p007_r_1_tl_27"/>appreciate properly. Apart from the very 
+               <lb xml:id="p007_r_1_tl_28"/>considerable height (the summit is 23,600 
+               <lb xml:id="p007_r_1_tl_29"/>feet high) and from fatigue caused by 
+               <lb xml:id="p007_r_1_tl_30"/>the thin air, it seems not to be a particu 
+               <lb xml:id="p007_r_1_tl_31" break="no"/>larly difficult mountain as far as climbing 
+               <lb xml:id="p007_r_1_tl_32"/>is concerned. Nevertheless this ascent 
+               <lb xml:id="p007_r_1_tl_33"/>must rouse the admiration of every moun 
+               <lb xml:id="p007_r_1_tl_34" break="no"/>taineer.</p>
+            <p> 
+               <lb xml:id="p007_r_1_tl_35"/>When in Switzerland a few sensation 
+               <lb xml:id="p007_r_1_tl_36" break="no"/>loving or careless and ambitious young 
+               <lb xml:id="p007_r_1_tl_37"/>people climb the Eiger Wall, it constitutes 
+               <lb xml:id="p007_r_1_tl_38"/>first a suicidal and secondly, at best, an 
+               <lb xml:id="p007_r_1_tl_39"/>acrobatic undertaking. Experienced Swiss 
+               <lb xml:id="p007_r_1_tl_40"/>guides shake their heads over it, every 
+               <lb xml:id="p007_r_1_tl_41"/>one wonders at the way they risk their 
+               <lb xml:id="p007_r_1_tl_42"/>lives time and again to save people so 
+               <lb xml:id="p007_r_1_tl_43"/>often warned. Then again, doctors and 
+               <lb xml:id="p007_r_1_tl_44"/>nurses, hospitals and hotels, are at their 
+               <lb xml:id="p007_r_1_tl_45"/>disposal.</p>
+            <p> 
+               <lb xml:id="p007_r_1_tl_46"/>Saladin, Dadiomov, Guttmann and the 
+               <lb xml:id="p007_r_1_tl_47"/>two Abolakovs on the other hand went 
+               <lb xml:id="p007_r_1_tl_48"/>alone; they could hope for no help, and 
+               <lb xml:id="p007_r_1_tl_49"/>even their trek to Khan Tengri represented 
+               <lb xml:id="p007_r_1_tl_50"/>a feat of endurance which would have 
+               <lb xml:id="p007_r_1_tl_51"/>shattered the enthusiasm of many young               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <pb xml:id="p008" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0286_008.tif"/>
+            <milestone unit="textregion" xml:id="p008_r_1"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p008_r_1_tl_1"/>Pass im Terskei-Alatu Gebiet mit Gruppe von Pferden</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p008_r_2"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p008_r_2_tl_1"/><hi rendition="#i">A pass (13,000 feet) across the Terskei-Alatau range, difficult even for tough little Kirghiz horses</hi></p>
+
+            <pb xml:id="p009" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0286_009.tif"/>
+            <milestone unit="textregion" xml:id="p009_r_3"/>            <p> 
+               <lb xml:id="p009_r_3_tl_1"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+aspirants to the ascent of the Eiger North 
+               <lb xml:id="p009_r_3_tl_2"/>Wall. A 100-mile journey to the Innült 
+               <lb xml:id="p009_r_3_tl_3" break="no"/>chek glacier and 46 miles over the glacier: 
+               <lb xml:id="p009_r_3_tl_4"/>to cover this distance of 146 miles they 
+               <lb xml:id="p009_r_3_tl_5"/>took ten days, which in itself was a very 
+               <lb xml:id="p009_r_3_tl_6"/>considerable achievement.</p>
+            <p> 
+               <lb xml:id="p009_r_3_tl_7"/>The first part of the way was the easiest. 
+               <lb xml:id="p009_r_3_tl_8"/>The Terskei-Alatau range, which was 
+               <lb xml:id="p009_r_3_tl_9"/>crossed, had ample water and green 
+               <lb xml:id="p009_r_3_tl_10"/>pasture; they met everywhere Kirghiz 
+               <lb xml:id="p009_r_3_tl_11"/>nomads who with their herds were spend 
+               <lb xml:id="p009_r_3_tl_12" break="no"/>ing the summer months on their <hi rendition="#i">serts</hi>, 
+               <lb xml:id="p009_r_3_tl_13"/>as they call the Alpine meadows. Saladin 
+               <lb xml:id="p009_r_3_tl_14"/>took some charming photographs of these 
+               <lb xml:id="p009_r_3_tl_15"/>nomads – the last outpost at the border 
+               <lb xml:id="p009_r_3_tl_16"/>of the inhabited world. The women are 
+               <lb xml:id="p009_r_3_tl_17"/>unveiled, like the women of all nomad 
+               <lb xml:id="p009_r_3_tl_18"/>tribes; a man has three or more wives, who 
+               <lb xml:id="p009_r_3_tl_19"/>all live together with a host of children in 
+               <lb xml:id="p009_r_3_tl_20"/>one of the yurts, which are solidly built and 
+               <lb xml:id="p009_r_3_tl_21"/>give good protection from heat and cold.</p>
+            <p> 
+               <lb xml:id="p009_r_3_tl_22"/>Horses are the most precious possession
+               <milestone unit="textregion" xml:id="p009_r"/> 
+               <lb xml:id="p009_r_tl_1"/>– little, tough animals with thick manes, 
+               <lb xml:id="p009_r_tl_2"/>sure-footed, pony-like. Children and old 
+               <lb xml:id="p009_r_tl_3"/>people, mothers and infants, all ride, and 
+               <lb xml:id="p009_r_tl_4"/>the little girls, silver ornaments round their 
+               <lb xml:id="p009_r_tl_5"/>necks, sitting securely and gracefully in 
+               <lb xml:id="p009_r_tl_6"/>the saddle dressed in their long sheep 
+               <lb xml:id="p009_r_tl_7" break="no"/>skin coats, look like princesses. They had 
+               <lb xml:id="p009_r_tl_8"/>never yet seen any other human beings 
+               <lb xml:id="p009_r_tl_9"/>than the members of their tribe, and the 
+               <lb xml:id="p009_r_tl_10"/>five climbers with their pack-horses and 
+               <lb xml:id="p009_r_tl_11"/>strange baggage aroused delighted curi 
+               <lb xml:id="p009_r_tl_12" break="no"/>osity. They were offered <hi rendition="#i">koumiss</hi>, sour 
+               <lb xml:id="p009_r_tl_13"/>milk, the nomads' chief food. Mares' 
+               <lb xml:id="p009_r_tl_14"/>milk, incidentally, is also drunk.</p>
+            <p> 
+               <lb xml:id="p009_r_tl_15"/>Then followed the steep descent of 
+               <lb xml:id="p009_r_tl_16"/>the Tjus Pass and the Sari Djas valley, 
+               <lb xml:id="p009_r_tl_17"/>the passage of the Sari Djas river, and the 
+               <lb xml:id="p009_r_tl_18"/>way through the Innültchek valley to the 
+               <lb xml:id="p009_r_tl_19"/>glacier. Here human habitation ends. 
+               <lb xml:id="p009_r_tl_20"/>The frontier region between Russia and 
+               <lb xml:id="p009_r_tl_21"/>China, between Russian and Chinese 
+               <lb xml:id="p009_r_tl_22"/>Turkestan, seems to have been designed by               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <milestone unit="textregion" xml:id="p009_r_1"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p009_r_1_tl_3"/>Innültchek-Tal mit Expeditionsgruppe</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p009_r_2"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p009_r_2_tl_1"/><hi rendition="#i">The Innültchek Valley with Petrowskowa, one of the few peaks to have a name in this formidable 
+                  <lb xml:id="p009_r_2_tl_2"/>natural frontier region between Russian and Chinese Turkestan. Here human habitation ends</hi></p>
+
+            <pb xml:id="p010" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0286_010.tif"/>
+            <milestone unit="textregion" xml:id="p010_r_1"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p010_l"/>Innültchek-Gletscher</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p010_r"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p010_r_tl_1"/>Nourished by minor glaciers, the Innültchek glacier, one of the three largest in Central Asia, con 
+               <lb xml:id="p010_r_tl_2" break="no"/>fronted Saladin and his companions with 46 miles of difficult going to the foot of Khan Tengri</p>
+
+            <milestone unit="textregion" xml:id="p010_r_2"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p010_l_7"/>Pferd, im Eis eingebrochen</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p010_r_4"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p010_r_4_tl_1"/><hi rendition="#i">One horse broke through into a crevasse but was recovered uninjured after some hours of work</hi></p>
+
+            <pb xml:id="p011" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0286_011.tif"/>
+            <milestone unit="textregion" xml:id="p011_r_4"/>            <p> 
+               <lb xml:id="p011_r_4_tl_1"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+nature for its purpose. On the glacier the 
+               <lb xml:id="p011_r_4_tl_2"/>Kirghiz pack-horses proved their worth; 
+               <lb xml:id="p011_r_4_tl_3"/>one of the ponies broke through into a cre 
+               <lb xml:id="p011_r_4_tl_4" break="no"/>vasse, but was recovered quite uninjured.</p>
+            <p> 
+               <lb xml:id="p011_r_4_tl_5"/>Horses and porters had at last to be sent 
+               <lb xml:id="p011_r_4_tl_6"/>back; the base camp – a single little tent – 
+               <lb xml:id="p011_r_4_tl_7"/>was established at the foot of Khan Tengri, 
+               <lb xml:id="p011_r_4_tl_8"/>on the snow surface of the glacier. At 
+               <lb xml:id="p011_r_4_tl_9"/>ten o'clock on the night of August 30, 
+               <lb xml:id="p011_r_4_tl_10"/>in calm weather, the ascent was begun. 
+               <lb xml:id="p011_r_4_tl_11"/>Saladin and his friends at first followed 
+               <lb xml:id="p011_r_4_tl_12"/>a chimney which led to the western 
+               <lb xml:id="p011_r_4_tl_13"/>ridge of the Khan Tengri pyramid. At 
+               <lb xml:id="p011_r_4_tl_14"/>18,700 feet they established their first 
+               <lb xml:id="p011_r_4_tl_15"/>bivouac. As they had not taken the tent 
+               <lb xml:id="p011_r_4_tl_16"/>with them, they used a primitive method 
+               <lb xml:id="p011_r_4_tl_17"/>which had already been tried out by 
+               <lb xml:id="p011_r_4_tl_18"/>Saladin in the Caucasus: they dug holes in 
+               <lb xml:id="p011_r_4_tl_19"/>the snow which were just large enough to 
+               <lb xml:id="p011_r_4_tl_20"/>take the body like an icy coffin, and they 
+               <lb xml:id="p011_r_4_tl_21"/>were sufficiently protected in this way 
+               <lb xml:id="p011_r_4_tl_22"/>by their own warmth. The weather had 
+               <lb xml:id="p011_r_4_tl_23"/>changed: a heavy storm, the first they met,
+               <milestone unit="textregion" xml:id="p011_r_2"/> 
+               <lb xml:id="p011_r_2_tl_1"/>forced the five men to hold out two days in 
+               <lb xml:id="p011_r_2_tl_2"/>this, their very first camp, before they could 
+               <lb xml:id="p011_r_2_tl_3"/>continue the ascent up the western ridge. 
+               <lb xml:id="p011_r_2_tl_4"/>Further bivouacs followed at 20,300 feet 
+               <lb xml:id="p011_r_2_tl_5"/>and 22,000 feet; the last, at 23,000 feet, 
+               <lb xml:id="p011_r_2_tl_6"/>was only 600 feet below the summit. This 
+               <lb xml:id="p011_r_2_tl_7"/>last stage, the exceptionally steep summit 
+               <lb xml:id="p011_r_2_tl_8"/>wall, was overcome on September 5.</p>
+            <p> 
+               <lb xml:id="p011_r_2_tl_9"/>The photographs which Saladin took 
+               <lb xml:id="p011_r_2_tl_10"/>during their short rest show clearly that 
+               <lb xml:id="p011_r_2_tl_11"/>the weather was calm up there, and 
+               <lb xml:id="p011_r_2_tl_12"/>visibility good, while lower down heavy 
+               <lb xml:id="p011_r_2_tl_13"/>banks of clouds were already forming. 
+               <lb xml:id="p011_r_2_tl_14"/>Reason enough for anxiety. After a respite 
+               <lb xml:id="p011_r_2_tl_15"/>of only 40 minutes, therefore, the descent 
+               <lb xml:id="p011_r_2_tl_16"/>was begun, and the so-called third camp 
+               <lb xml:id="p011_r_2_tl_17"/>at 22,000 feet was reached on the same 
+               <lb xml:id="p011_r_2_tl_18"/>day. Next morning, on December 6, the 
+               <lb xml:id="p011_r_2_tl_19"/>descent as far as the first camp at the 
+               <lb xml:id="p011_r_2_tl_20"/>end of the westem ridge was to have 
+               <lb xml:id="p011_r_2_tl_21"/>been continued.</p>
+            <p> 
+               <lb xml:id="p011_r_2_tl_22"/>The climbers had now entered a zone 
+               <lb xml:id="p011_r_2_tl_23"/>of fierce storm. Snow was falling; con¬               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <milestone unit="textregion" xml:id="p011_r_1"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p011_l" break="no"/>Schneehöhle als Biwak</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p011_r"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p011_r_tl_1"/><hi rendition="#i">During the ascent the party sheltered at night, protected by their own warmth, in snow-hole bivouacs 
+                  <lb xml:id="p011_l_1"/>just large enough to take one man's body. The last bivouac 600 ft below the summit</hi></p>
+
+            <pb xml:id="p012" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0286_012.tif"/>
+            <milestone unit="textregion" xml:id="p012_r_2"/>            <p> 
+               <lb xml:id="p012_r_2_tl_1"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+sequently, visibility was bad; and bitter 
+               <lb xml:id="p012_r_2_tl_2"/>cold taxed their strength to the utmost. 
+               <lb xml:id="p012_r_2_tl_3"/>On this day an incident, which at first 
+               <lb xml:id="p012_r_2_tl_4"/>appeared trivial, gave a tragic turn to 
+               <lb xml:id="p012_r_2_tl_5"/>the hitherto fortunate course of the ex 
+               <lb xml:id="p012_r_2_tl_6" break="no"/>pedition. During a short rest a rucksack 
+               <lb xml:id="p012_r_2_tl_7"/>was blown over the edge of the ridge. 
+               <lb xml:id="p012_l"/>Guttmann, trying to stop it, lost his 
+               <lb xml:id="p012_r_2_tl_10"/>balance and slid about 600 feet down. 
+               <lb xml:id="p012_r_2_tl_11"/>Saladin succeeded in climbing down to 
+               <lb xml:id="p012_r_2_tl_12"/>the scene of the accident and in carrying 
+               <lb xml:id="p012_r_2_tl_13"/>back his half-conscious comrade on his 
+               <lb xml:id="p012_r_2_tl_14"/>shoulder as far as immediately below the 
+               <lb xml:id="p012_r_2_tl_15"/>first camp–an immense effort which ex 
+               <lb xml:id="p012_r_2_tl_16" break="no"/>hausted the last of his strength.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p012_r_2_tl_17"/>DEATH OF A HERO</p>
+            <p> 
+               <lb xml:id="p012_r_2_tl_18"/>Further progress during the storm, in 
+               <lb xml:id="p012_r_2_tl_19"/>falling darkness, was out of the question. 
+               <lb xml:id="p012_r_2_tl_20"/>In that frightful cold the friends spent the 
+               <lb xml:id="p012_r_2_tl_21"/>night in their snow-holes; the ice melted 
+               <lb xml:id="p012_r_2_tl_22"/>under their warm bodies, so that they 
+               <lb xml:id="p012_r_2_tl_23"/>were lying in water. Their hands and feet 
+               <lb xml:id="p012_r_2_tl_24"/>were all badly frozen; Saladin attempted 
+               <lb xml:id="p012_r_2_tl_25"/>to scratch off the frost-bitten places on the 
+               <lb xml:id="p012_r_2_tl_26"/>backs of his hands with his pocket-knife, 
+               <lb xml:id="p012_r_2_tl_27"/>and plunged his hands in petrol to dis 
+               <lb xml:id="p012_r_2_tl_28" break="no"/>infect them. In so doing he seems to have 
+               <lb xml:id="p012_r_2_tl_29"/>poisoned himself, although the effects 
+               <lb xml:id="p012_r_2_tl_30"/>did not appear until a few days later.</p>
+            <p> 
+               <lb xml:id="p012_r_2_tl_31"/>The five men finally reached the base 
+               <lb xml:id="p012_r_2_tl_32"/>camp and struggled on over the In 
+               <lb xml:id="p012_r_2_tl_33" break="no"/>nültchek glacier, in the hope that they 
+               <lb xml:id="p012_r_2_tl_34"/>would soon meet the porters and horses 
+               <lb xml:id="p012_r_2_tl_35"/>which, according to arrangement, should 
+               <lb xml:id="p012_r_2_tl_36"/>have been coming towards them. They 
+               <lb xml:id="p012_r_2_tl_37"/>also sent a radiotelegram at once to Alma 
+               <lb xml:id="p012_r_2_tl_38"/>Ata, which was transmitted to Moscow, 
+               <lb xml:id="p012_r_2_tl_39"/>but did not arrive there until September 
+               <lb xml:id="p012_r_2_tl_40"/>7. The Kirghizian Government itself 
+               <lb xml:id="p012_r_2_tl_41"/>immediately equipped a rescue party, and 
+               <lb xml:id="p012_r_2_tl_42"/>sent an aeroplane over the Terskei-Alatau 
+               <lb xml:id="p012_r_2_tl_43"/>range which dropped a message to the 
+               <lb xml:id="p012_r_2_tl_44"/>sufferers that help was already on the
+               <milestone unit="textregion" xml:id="p012_r_1"/> 
+               <lb xml:id="p012_r_1_tl_1"/>way. In the meantime they had met their 
+               <lb xml:id="p012_r_1_tl_2"/>porters and were slowly continuing their 
+               <lb xml:id="p012_r_1_tl_3"/>march.</p>
+            <p> 
+               <lb xml:id="p012_r_1_tl_4"/>On September 9 Saladin admitted for the 
+               <lb xml:id="p012_r_1_tl_5"/>first time that he was feeling ill. He begged 
+               <lb xml:id="p012_r_1_tl_6"/>the others to go on without him, but his 
+               <lb xml:id="p012_r_1_tl_7"/>friends packed him in a sleeping-bag and 
+               <lb xml:id="p012_r_1_tl_8"/>fastened him to his horse. So it was he 
+               <lb xml:id="p012_r_1_tl_9"/>died, on September 14. One of his com 
+               <lb xml:id="p012_r_1_tl_10" break="no"/>rades remarked that Saladin had lost a 
+               <lb xml:id="p012_r_1_tl_11"/>glove, and asked whether he could help 
+               <lb xml:id="p012_l_1"/>him. I don't understand", he answered: 
+               <lb xml:id="p012_r_1_tl_14"/>at the same moment he collapsed onto the 
+               <lb xml:id="p012_r_1_tl_15"/>neck of his horse. On the evening of the 
+               <lb xml:id="p012_r_1_tl_16"/>same day the four completely exhausted 
+               <lb xml:id="p012_r_1_tl_17"/>Russians met the rescue party from Alma 
+               <lb xml:id="p012_r_1_tl_18"/>Ata. They brought the body of Lorenz 
+               <lb xml:id="p012_r_1_tl_19"/>Saladin as far as the end of the Innültchek 
+               <lb xml:id="p012_r_1_tl_20"/>valley and buried it at the junction of the 
+               <lb xml:id="p012_r_1_tl_21"/>Innültchek and Sari Djas rivers under a 
+               <lb xml:id="p012_r_1_tl_22"/>group of fir trees.</p>
+            <p> 
+               <lb xml:id="p012_r_1_tl_23"/>A few days later they were picked up 
+               <lb xml:id="p012_r_1_tl_24"/>by an aeroplane and flown to Alma Ata. 
+               <lb xml:id="p012_r_1_tl_25"/>All of them recovered completely except 
+               <lb xml:id="p012_r_1_tl_26"/>young Evgeny Abolakov, half of whose 
+               <lb xml:id="p012_r_1_tl_27"/>fingers and toes had to be amputated. 
+               <lb xml:id="p012_r_1_tl_28"/>But even he has remained true to his 
+               <lb xml:id="p012_r_1_tl_29"/>passion and last summer, when he could 
+               <lb xml:id="p012_r_1_tl_30"/>still scarcely walk, occupied a post as 
+               <lb xml:id="p012_r_1_tl_31"/>teacher of theory in a mountaineering 
+               <lb xml:id="p012_r_1_tl_32"/>school in the Caucasus. His brother 
+               <lb xml:id="p012_r_1_tl_33"/>Vitaly, and Dadiomov, Guttmann and 
+               <lb xml:id="p012_r_1_tl_34"/>Gog Harlampiev intend to attempt the 
+               <lb xml:id="p012_r_1_tl_35"/>ascent of Mustagh Ata – that second 
+               <lb xml:id="p012_r_1_tl_36"/>giant of the Chinese-Russian border which 
+               <lb xml:id="p012_r_1_tl_37"/>Lorenz Saladin had in mind. When 
+               <lb xml:id="p012_r_1_tl_38"/>Vitaly told me of this plan in Moscow, I 
+               <lb xml:id="p012_r_1_tl_39"/>noticed that he and his friends felt them 
+               <lb xml:id="p012_r_1_tl_40" break="no"/>selves to be the executors of a testament. 
+               <lb xml:id="p012_r_1_tl_41"/>They put it in these simple words: "If 
+               <lb xml:id="p012_r_1_tl_42"/>Lenz were still alive, <hi rendition="#i">he</hi> would have been 
+               <lb xml:id="p012_r_1_tl_43"/>sure to climb Mustagh Ata. We in the 
+               <lb xml:id="p012_r_1_tl_44"/>Soviet Union will not forget Lenz. He 
+               <lb xml:id="p012_r_1_tl_45"/>was the best of our comrades."</p>
+</div>
+       </body>
+    </text>
+ </TEI>
