@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0301" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0301#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0301</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0301"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0301_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0301_001.png"/>
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_2_tl_1"/>"Verbotene Reise"</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_2"/>Eines der ungewöhnlichsten und sensationellsten 
+               <lb xml:id="p001_r_2_tl_3"/>Reisebücher, die "<hi rendition="#g">Verbotene Reise</hi>" (Verlag 
+               <lb xml:id="p001_r_2_tl_4"/>Ernst Rowohlt, Berlin) der jungen Genferin <hi rendition="#g">Ella 
+                  <lb xml:id="p001_r_2_tl_5"/>Kini Maillart</hi>, ist kürzlich in deutscher Ueber 
+               <lb xml:id="p001_r_2_tl_6" break="no"/>setzung erschienen. Ella Maillart ist im Frühjahr 
+               <lb xml:id="p001_r_2_tl_7"/>1935 mit Peter Fleming von Peking aufgebrochen, 
+               <lb xml:id="p001_r_2_tl_8"/>hat die öde Hochebene von Tsaidam, die fast tausend 
+               <lb xml:id="p001_r_2_tl_9"/>Kilometer lange Wüste Taklamakan durchquert, um 
+               <lb xml:id="p001_r_2_tl_10"/>auf diesem von Karawanen kaum benützten Wege die 
+               <lb xml:id="p001_r_2_tl_11"/>verbotene westlichste Provinz von Chinesisch Turkestan 
+               <lb xml:id="p001_r_2_tl_12"/>oder Sinkiang zu erreichen, und gelangte von dort 
+               <lb xml:id="p001_r_2_tl_13"/>über die Himalayapässe schließlich nach Kaschmir. 
+               <lb xml:id="p001_r_2_tl_14"/>Man braucht nur zu erwähnen, daß diese Reise durch 
+               <lb xml:id="p001_r_2_tl_15"/>die von undurchsichtigen politischen Machenschaften 
+               <lb xml:id="p001_r_2_tl_16"/>heimgesuchten Provinzen Zentralasiens führte, daß in 
+               <lb xml:id="p001_r_2_tl_17"/>Sinkiang die Grenze der Sowjetunion nahe ist, und 
+               <lb xml:id="p001_r_2_tl_18"/>zwischen Urumtschi und Kaschgar Generäle und Gouver 
+               <lb xml:id="p001_r_2_tl_19" break="no"/>neure einander bekämpfen – Helden und Intriganten 
+               <lb xml:id="p001_r_2_tl_20"/>nach dem Vorbild der alten Mongolenkhans, Figuren 
+               <lb xml:id="p001_r_2_tl_21"/>auf dem Schachbrett Japans und Englands, Chinas 
+               <lb xml:id="p001_r_2_tl_22"/>und Sowjetrußlands –, daß die Fremden in jenem 
+               <lb xml:id="p001_r_2_tl_23"/>fast unbekannten Land in obskuren Gefängnissen ver 
+               <lb xml:id="p001_r_2_tl_24" break="no"/>schwinden, ein Schicksal, dem auch die Mitglieder der 
+               <lb xml:id="p001_r_2_tl_25"/>Citroën-Expedition und der gewandte Sven Hedin 
+               <lb xml:id="p001_r_2_tl_26"/>kaum entgingen – man mag außerdem bedenken, daß 
+               <lb xml:id="p001_r_2_tl_27"/>Ella Maillart und ihr Begleiter mehr als 3500 Kilo 
+               <lb xml:id="p001_r_2_tl_28" break="no"/>meter auf Wüstenspuren, auf den von Staubstürmen 
+               <lb xml:id="p001_r_2_tl_29"/>und Kälte und gewaltiger Oednis gezeichneten Hoch 
+               <lb xml:id="p001_r_2_tl_30" break="no"/>ebenen Asiens zurückgelegt haben –, und man wird
+               <milestone unit="textregion" xml:id="p001_r_3"/> 
+               <lb xml:id="p001_r_3_tl_1"/>die Kühnheit ihrer Unternehmung, ihren Aufwand an 
+               <lb xml:id="p001_r_3_tl_2"/>Ausdauer und Mut, vielleicht ermessen können.</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_3"/>Aber nicht um die Darstellung von bestandenen 
+               <lb xml:id="p001_r_3_tl_4"/>Gefahren, nicht um die Sensation des persönlichen 
+               <lb xml:id="p001_r_3_tl_5"/>Erlebnisses geht es Ella Maillart, ebensowenig um 
+               <lb xml:id="p001_r_3_tl_6"/>die Schilderung der politischen Zustände, die sie doch, 
+               <lb xml:id="p001_r_3_tl_7"/>wo es nötig ist, mit Sicherheit zu geben versteht. 
+               <lb xml:id="p001_r_3_tl_8"/>Nicht um wissenschaftliche Forschung, nicht um ethno 
+               <lb xml:id="p001_r_3_tl_9" break="no"/>graphische Beobachtung, obwohl die Verfasserin mit 
+               <lb xml:id="p001_r_3_tl_10"/>intelligenter Klarheit solche Fragen erfaßt und in 
+               <lb xml:id="p001_r_3_tl_11"/>ihren Bericht einreiht. Sie ist, obzwar sie über die 
+               <lb xml:id="p001_r_3_tl_12"/>dazu nötigen Gaben frei verfügt, keine professionelle 
+               <lb xml:id="p001_r_3_tl_13"/>Berichterstatterin, Forscherin, und am wenigsten das, 
+               <lb xml:id="p001_r_3_tl_14"/>was man sich unter einer Abenteurerin vorstellt. Als 
+               <lb xml:id="p001_r_3_tl_15"/>ich sie einmal fragte, wohin ihre nächste Reise sie 
+               <lb xml:id="p001_r_3_tl_16"/>führen werde, schüttelte sie den Kopf: "Vorläufig 
+               <lb xml:id="p001_r_3_tl_17"/>habe ich keine Pläne. Ich reise nur, wenn es un 
+               <lb xml:id="p001_r_3_tl_18" break="no"/>bedingt nötig für mich ist, wenn ich nicht anders 
+               <lb xml:id="p001_r_3_tl_19"/>kann." Ein aufschlußreiches Bekenntnis! Man lese 
+               <lb xml:id="p001_r_3_tl_20"/>daraufhin ihr Buch: es ist viel mehr als ein gewöhn 
+               <lb xml:id="p001_r_3_tl_21" break="no"/>liches Reisebuch, es ist gründlich verschieden von den 
+               <lb xml:id="p001_r_3_tl_22"/>Reportagen, die wir kennen. Man spürt deutlich: 
+               <lb xml:id="p001_r_3_tl_23"/>diese Frau schreibt nur, wenn sie nicht anders kann. 
+               <lb xml:id="p001_r_3_tl_24"/>Und da stellt sich die große Frage: Was ist der An 
+               <lb xml:id="p001_r_3_tl_25" break="no"/>trieb, den Ella Maillart mit einigen Wenigen teilt – 
+               <lb xml:id="p001_r_3_tl_26"/>der Trieb, immer wieder "aufzubrechen", die Neu 
+               <lb xml:id="p001_r_3_tl_27" break="no"/>gierde, der Drang, die Welt zu erforschen, ihren Ge 
+               <lb xml:id="p001_r_3_tl_28" break="no"/>heimnissen nahe zu kommen? Und warum bricht Ella 
+               <lb xml:id="p001_r_3_tl_29"/>Maillart, wie sie es selbst bekennt, am liebsten allein 
+               <lb xml:id="p001_r_3_tl_30"/>auf? Da ist einmal das fast unstillbare Begehren 
+               <lb xml:id="p001_r_3_tl_31"/>nach einer Freiheit, die im Falle Ella Maillarts 
+               <lb xml:id="p001_r_3_tl_32"/>sicher keinen Mangel an innerer und äußerer
+               <milestone unit="textregion" xml:id="p001_r_4"/> 
+               <lb xml:id="p001_r_4_tl_1"/>Disziplin bedeutet. Sie hat die Tugenden der Kame 
+               <lb xml:id="p001_r_4_tl_2" break="no"/>radschaft genügend bewiesen: sei es, als sie – vor 
+               <lb xml:id="p001_r_4_tl_3"/>zehn Jahren – mit einer Gruppe junger Genferin 
+               <lb xml:id="p001_r_4_tl_4" break="no"/>nen auf der "Bonita das Mittelmeer durchsegelte, 
+               <lb xml:id="p001_r_4_tl_5"/>sei es mit ihren Ski- und Bergkameraden oder in 
+               <lb xml:id="p001_r_4_tl_6"/>den Monaten der mit Fleming geteilten Einsamkeit. 
+               <lb xml:id="p001_r_4_tl_7"/>Die Freiheit, die sie verlangt, ist die Möglichkeit, 
+               <lb xml:id="p001_r_4_tl_8"/>allein, aus eigenen Kräften, und befreit von allen 
+               <lb xml:id="p001_r_4_tl_9"/>Umhüllungen und Ablenkungen des "zivilisierten 
+               <lb xml:id="p001_r_4_tl_10"/>Lebens" der Welt zu begegnen. Jede Konvention, 
+               <lb xml:id="p001_r_4_tl_11"/>jede Institution, könnte nur stören und verwirren, 
+               <lb xml:id="p001_r_4_tl_12"/>wenn es darum geht, der Wahrheit näher zu kommen. 
+               <lb xml:id="p001_r_4_tl_13"/>Und darum, nur darum geht es. "Atemlos halte ich 
+               <lb xml:id="p001_r_4_tl_14"/>ein wenig inne, bewundere die Enziane, die lang 
+               <lb xml:id="p001_r_4_tl_15" break="no"/>gestielten Edelweiß und lausche der Stille der Ein 
+               <lb xml:id="p001_r_4_tl_16" break="no"/>samkeit, dieser Stille, die ich so vermisse, wenn ich 
+               <lb xml:id="p001_r_4_tl_17"/>unter Menschen bin, dieser tiefen Stille, die das Herz 
+               <lb xml:id="p001_r_4_tl_18"/>mit dem Gefühl der Unermeßlichkeit überflutet." Und 
+               <lb xml:id="p001_r_4_tl_19"/>Ella Maillart besinnt sich auf "dieses Ich, das bisher 
+               <lb xml:id="p001_r_4_tl_20"/>noch nicht die Zeit gefunden hat, etwas ... zu voll 
+               <lb xml:id="p001_r_4_tl_21" break="no"/>bringen, das über mich selbst hinaus dauert, mich 
+               <lb xml:id="p001_r_4_tl_22"/>vor dem Nichts errettet und – wenn auch in noch so 
+               <lb xml:id="p001_r_4_tl_23"/>geringem Maße – dieses Verlangen nach Ewigkeit 
+               <lb xml:id="p001_r_4_tl_24"/>befriedigt, das in mir ist ... Wie in so vielen leeren 
+               <lb xml:id="p001_r_4_tl_25"/>Stunden dieser Reise frage ich mich auch jetzt wieder: 
+               <lb xml:id="p001_r_4_tl_26"/>was ist es eigentlich, das mich so nach allen vier 
+               <lb xml:id="p001_r_4_tl_27"/>Enden der Welt treibt?" Ella Maillart ist zu weise 
+               <lb xml:id="p001_r_4_tl_28"/>und zu bescheiden, um auf die Frage zu antworten. 
+               <lb xml:id="p001_r_4_tl_29"/>Aber wir wissen: es gibt keinen legitimeren, keinen 
+               <lb xml:id="p001_r_4_tl_30"/>reineren Trieb als den Stachel, sehen und begreifen 
+               <lb xml:id="p001_r_4_tl_31"/>zu wollen. Wer einmal sich aus den Bindungen der 
+               <lb xml:id="p001_r_4_tl_32"/>Gewohnheit befreit hat, wer einmal seine Einsamkeit
+               <milestone unit="textregion" xml:id="p001_r"/> 
+               <lb xml:id="p001_r_tl_1"/>inmitten dem großen, wunderbaren Gefüge, das sich 
+               <lb xml:id="p001_r_tl_2"/>die Welt nennt, begriffen hat, ihr begegnet ist, den 
+               <lb xml:id="p001_r_tl_3"/>wird es immer von neuem zu dieser Begegnung 
+               <lb xml:id="p001_r_tl_4"/>treiben. Ella Maillert hat nur dank dieser Wahr 
+               <lb xml:id="p001_r_tl_5" break="no"/>heits- und Ewigkeitssuche ein Buch schreiben können, 
+               <lb xml:id="p001_r_tl_6"/>das wunderhaft wahrhaftig ist in jeder Zeile, dessen 
+               <lb xml:id="p001_r_tl_7"/>Verschmelzung mit der großen Welt Asiens einer 
+               <lb xml:id="p001_r_tl_8"/>Beschwörung gleicht, und nicht zufällig zitiert sie den 
+               <lb xml:id="p001_r_tl_9"/>Vers Baudelaires:</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_tl_10"/>[vers]Mais les vrais voyageurs sont ceux-là seuls qui [kein Versbruch] 
+               <lb xml:id="p001_r_tl_11"/>partent 
+               <lb xml:id="p001_r_tl_12"/>Pour partir, coeurs légers, semblables aux ballons 
+               <lb xml:id="p001_r_tl_13"/>De leur fatalité jamais ils ne s'écartent 
+               <lb xml:id="p001_r_tl_14"/>Et sans savoir pourquoi, disent toujours: Allons! 
+               <lb xml:id="p001_r_tl_15"/>Annemarie <hi rendition="#g">Clark</hi></p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
