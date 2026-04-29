@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0180" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0180#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0180</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0180"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0180_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0180_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_tl_1"/>Alexanders Eroberung von Persien 
+               <lb xml:id="p001_r_tl_2"/>Von Dr. ANNEMARIE CLARK-SCHWARZENBACH</p>
+
+            <milestone unit="textregion" xml:id="p001_r_3"/>            <p> 
+               <lb xml:id="p001_r_3_tl_1"/>Fast immer wird - in populären Darstellungen – 
+               <lb xml:id="p001_r_3_tl_2"/>die Eroberung des Achämenidenreichs durch 
+               <lb xml:id="p001_r_3_tl_3"/>Alexander den Großen einbezogen in seinen Indien 
+               <lb xml:id="p001_r_3_tl_4" break="no"/>zug, – so als sei der Krieg gegen Dareios Kodoman 
+               <lb xml:id="p001_r_3_tl_5" break="no"/>nos eigentlich nur eine Vorbereitung zu dem grö 
+               <lb xml:id="p001_r_3_tl_6" break="no"/>ßeren Unternehmen, und die Erwerbung Indiens das 
+               <lb xml:id="p001_r_3_tl_7"/>Hauptziel von Alexanders Politik gewesen. Man ver- 
+               <lb xml:id="p001_r_3_tl_8"/>wechselt damit den Teil und das Ganze, denn min 
+               <lb xml:id="p001_r_3_tl_9" break="no"/>destens realpolitisch war die Eroberung Persiens 
+               <lb xml:id="p001_r_3_tl_10"/>Alexanders Lebenswerk – der Zug nach Indien aber 
+               <lb xml:id="p001_r_3_tl_11"/>nur eine ebenso gefährliche als abenteuerliche Ab 
+               <lb xml:id="p001_r_3_tl_12" break="no"/>schweifung, die denn auch teuer bezahlt werden 
+               <lb xml:id="p001_r_3_tl_13"/>sollte.</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_14"/>Es liegt an Alexanders Person – der eines ins 
+               <lb xml:id="p001_r_3_tl_15"/>Göttliche gesteigerten Heldenjünglings –, daß sich 
+               <lb xml:id="p001_r_3_tl_16"/>schon die Zeitgenossen mehr der Legende als den 
+               <lb xml:id="p001_r_3_tl_17"/>Tatsachen zuwandten und aus einem phantasti 
+               <lb xml:id="p001_r_3_tl_18" break="no"/>schen Leben die phantasiereichste Episode gierig 
+               <lb xml:id="p001_r_3_tl_19"/>herausgriffen. Man hätte es nicht nötig gehabt, eine 
+               <lb xml:id="p001_r_3_tl_20"/>Alexanderlegende und einen Alexanderroman zu 
+               <lb xml:id="p001_r_3_tl_21"/>schaffen, die Geschichte des makedonischen Jüng 
+               <lb xml:id="p001_r_3_tl_22" break="no"/>lingskönigs ist durch eine reiche Überlieferung be 
+               <lb xml:id="p001_r_3_tl_23" break="no"/>legt. Man kennt andere Fälle, wo aus der Not 
+               <lb xml:id="p001_r_3_tl_24"/>mangelnder oder abhanden gekommener Kennt 
+               <lb xml:id="p001_r_3_tl_25" break="no"/>nisse eine Tugend gemacht wurde: so haben die 
+               <lb xml:id="p001_r_3_tl_26"/>Dichter des persischen Mittelalters, weil über die 
+               <lb xml:id="p001_r_3_tl_27"/>große Zeit der Achämeniden so gut wie nichts mehr 
+               <lb xml:id="p001_r_3_tl_28"/>bekannt war, in einem Moment nationalen Hoch 
+               <lb xml:id="p001_r_3_tl_29" break="no"/>gefühls eine ganze Sagengeschichte geschaffen, 
+               <lb xml:id="p001_r_3_tl_30"/>deren Helden sich im Bewußtsein des Volks bis 
+               <lb xml:id="p001_r_3_tl_31"/>heute erhalten haben. So kommt es, daß die Denk 
+               <lb xml:id="p001_r_3_tl_32" break="no"/>mäler aus Persiens größter Zeit, die Paläste und 
+               <lb xml:id="p001_r_3_tl_33"/>Königsgräber von Persepolis, heute die Namen der 
+               <lb xml:id="p001_r_3_tl_34"/>Sagenfiguren Rustam und Djemschid tragen ...</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_35"/>Alexander aber ist, ohne daß ein Bruch der 
+               <lb xml:id="p001_r_3_tl_36"/>Überlieferung eingetreten wäre, das Objekt einer 
+               <lb xml:id="p001_r_3_tl_37"/>Heldenverehrung geworden, an der man das Gesetz 
+               <lb xml:id="p001_r_3_tl_38"/>der Entstehung eines Mythos verfolgen könnte. 
+               <lb xml:id="p001_r_3_tl_39"/>Über ihn, seine Zeit und seine Taten berichten 
+               <lb xml:id="p001_r_3_tl_40"/>sein Kanzler Kallisthenes, Kleitarch – auf letzteren 
+               <lb xml:id="p001_r_3_tl_41"/>wohl gestützt der große Historiker Diodor in seiner 
+               <lb xml:id="p001_r_3_tl_42"/>Universalgeschichte –, Pompejus Trogus, dessen 
+               <lb xml:id="p001_r_3_tl_43"/>Werk im Auszug des Justin auf uns gekommen ist, 
+               <lb xml:id="p001_r_3_tl_44"/>Curtius Rufus, Strabon und Plutarch, berühmte 
+               <lb xml:id="p001_r_3_tl_45"/>Chronisten und Biographen der römischen Kaiser 
+               <lb xml:id="p001_r_3_tl_46" break="no"/>zeit. Arrian endlich, der bekannteste der Alexan- 
+               <lb xml:id="p001_r_3_tl_47"/>derbiographen, hat Werke des Aristobul, des Pto 
+               <lb xml:id="p001_r_3_tl_48" break="no"/>lemäos und Nearch verwendet. Es mangelt also 
+               <lb xml:id="p001_r_3_tl_49"/>nicht an Material! Aber schon Kallisthenes, dessen 
+               <lb xml:id="p001_r_3_tl_50"/>Aufgabe als Kanzler es gewesen wäre, eine getreue 
+               <lb xml:id="p001_r_3_tl_51"/>Hofchronik der Ereignisse zu liefern, zeigt eine 
+               <lb xml:id="p001_r_3_tl_52"/>starke Tendenz zum Romanhaften – weshalb die 
+               <lb xml:id="p001_r_3_tl_53"/>besonders aus dem hellenistischen Agypten stam 
+               <lb xml:id="p001_r_3_tl_54" break="no"/>menden Alexanderromane auch oft als "Pseudo
+               <milestone unit="textregion" xml:id="p001_r_1"/> 
+               <lb xml:id="p001_r_1_tl_1" break="no"/>kallisthenes" bezeichnet worden sind. Und Arrian, 
+               <lb xml:id="p001_r_1_tl_2"/>gewiß ein seriöser Historiker, hat seinem zweiten 
+               <lb xml:id="p001_r_1_tl_3"/>Hauptwerk neben der "Anabasis" den Namen 
+               <lb xml:id="p001_r_1_tl_4"/>"Indike" gegeben, und ist dadurch mitverantwort 
+               <lb xml:id="p001_r_1_tl_5" break="no"/>lich wenn nicht für die Überschätzung, so doch 
+               <lb xml:id="p001_r_1_tl_6"/>für die ungeheure Popularisierung gerade dieser 
+               <lb xml:id="p001_r_1_tl_7"/>Unternehmung.</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_8"/>Natürlich kann man darüber streiten, wie weit 
+               <lb xml:id="p001_r_1_tl_9"/>Alexander, nachdem er Persien erobert und das 
+               <lb xml:id="p001_r_1_tl_10"/>Erbe der Achämeniden übernommen hatte, durch 
+               <lb xml:id="p001_r_1_tl_11"/>den Zug nach Indien seine Mission fortzusetzen 
+               <lb xml:id="p001_r_1_tl_12"/>glaubte. Er war beeinflußt von geographischen 
+               <lb xml:id="p001_r_1_tl_13"/>Vorstellungen, – statt das eroberte Reich zu kon 
+               <lb xml:id="p001_r_1_tl_14" break="no"/>solidieren, welches damals tatsächlich die Weltherr 
+               <lb xml:id="p001_r_1_tl_15" break="no"/>schaft bedeutete, mag er von einer anderen Öku 
+               <lb xml:id="p001_r_1_tl_16" break="no"/>mene geträumt haben, die seinem bis zum Außer 
+               <lb xml:id="p001_r_1_tl_17" break="no"/>sten gespannten und nun durch das Unbekannte, 
+               <lb xml:id="p001_r_1_tl_18"/>das Märchenland Indien noch gereizten Ehrgeiz 
+               <lb xml:id="p001_r_1_tl_19"/>besser entsprach [der politisch-religiöse Auftrag einer 'anderen' bzw. besseren 'Ökumene' schildert Klaus Mann in seinem Roman über Alexander, den Schwarzenbach gekannt haben muss]. Eines aber steht fest: Als Alexan- 
+               <lb xml:id="p001_r_1_tl_20"/>der im Jahre 334 mit einem bescheidenen Heer 
+               <lb xml:id="p001_r_1_tl_21"/>von etwa 30000 Mann zu Fuß und 50000 Reitern den 
+               <lb xml:id="p001_r_1_tl_22"/>Hellespont überschritt, fühlte er sich als Fortsetzer 
+               <lb xml:id="p001_r_1_tl_23"/>der griechischen Tradition gegen Persien, und 
+               <lb xml:id="p001_r_1_tl_24"/>wollte sich als solcher betrachtet wissen.</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_25"/>Es war keine Tollkühnheit, mit so geringen 
+               <lb xml:id="p001_r_1_tl_26"/>Streitkräften gegen ein fünfmal überlegenes Welt 
+               <lb xml:id="p001_r_1_tl_27" break="no"/>reich zu ziehen; denn dieses Reich besaß nicht mehr 
+               <lb xml:id="p001_r_1_tl_28"/>die innere Einigkeit wie unter Dareios I.; längst 
+               <lb xml:id="p001_r_1_tl_29"/>befand sich das Königtum in erbittertem Kampf 
+               <lb xml:id="p001_r_1_tl_30"/>mit den Satrapen, die schon mehr oder minder die 
+               <lb xml:id="p001_r_1_tl_31"/>Stellung von Territorialfürsten einnahmen, Teile 
+               <lb xml:id="p001_r_1_tl_32"/>des Reichs erhoben sich gegen die Zentralgewalt, 
+               <lb xml:id="p001_r_1_tl_33"/>so Phönikien und Ägypten, statt eines einheimi 
+               <lb xml:id="p001_r_1_tl_34" break="no"/>schen Heeres bediente man sich in steigendem Maße 
+               <lb xml:id="p001_r_1_tl_35"/>angeworbener, oft griechischer Söldner, griechi 
+               <lb xml:id="p001_r_1_tl_36" break="no"/>sche Feldherren, wie die Brüder Mentor und Mem- 
+               <lb xml:id="p001_r_1_tl_37"/>non, übten bedeutende Macht und Einfluß aus – 
+               <lb xml:id="p001_r_1_tl_38"/>Erscheinungen, die an die Rolle der Germanen im 
+               <lb xml:id="p001_r_1_tl_39"/>sinkenden römischen Kaiserreich erinnern.</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_40"/>Gegen ein solches, dem Zerfall zugeneigtes Reich 
+               <lb xml:id="p001_r_1_tl_41"/>zog Alexander, und war von Anbeginn an siegreich. 
+               <lb xml:id="p001_r_1_tl_42"/>Rasch aufeinander folgten die Schlacht am Grani 
+               <lb xml:id="p001_r_1_tl_43" break="no"/>kos, die Eroberung Phrygiens, Lydiens und Kili 
+               <lb xml:id="p001_r_1_tl_44" break="no"/>kiens, und der Sieg von Issos, der dem Makedonier 
+               <lb xml:id="p001_r_1_tl_45"/>den Weg nach Syrien und Phönikien freimachte.</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_46"/>Bisher war die Route, die er zu verfolgen hatte, 
+               <lb xml:id="p001_r_1_tl_47"/>eindeutig vorgewiesen. Wie Alexander jetzt das 
+               <lb xml:id="p001_r_1_tl_48"/>weitläufige Perserreich völlig zu erobern versteht 
+               <lb xml:id="p001_r_1_tl_49"/>zeugt von Genialität.</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_50"/>Nicht weit von Niniveh-Mossul, jenseits des 
+               <lb xml:id="p001_r_1_tl_51"/>Großen Zab, schlägt er Dareios in der Ebene von 
+               <lb xml:id="p001_r_1_tl_52"/>Gaugamela. Man nennt diese Schlacht auch "von 
+               <lb xml:id="p001_r_1_tl_53"/>Arbela" – ein mächtiger, von einer arabischen 
+               <lb xml:id="p001_r_1_tl_54"/>Festung gekrönter Ruinenhügel erhebt sich heute               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0180_002.tif"/>
+            <milestone unit="textregion" xml:id="p002_r_2"/>            <p> 
+               <lb xml:id="p002_r_2_tl_1"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+in der Mitte der Stadt, die noch den alten Namen 
+               <lb xml:id="p002_r_2_tl_2"/>trägt: Erbil. Dort öffnet sich der Weg durch die 
+               <lb xml:id="p002_r_2_tl_3"/>Gebirge Kurdistans nach Medien, wohin Dareios 
+               <lb xml:id="p002_r_2_tl_4"/>floh. Alexander verfolgte ihn noch nicht, wandte 
+               <lb xml:id="p002_r_2_tl_5"/>sich vielmehr direkt nach Babylon, welches ihm 
+               <lb xml:id="p002_r_2_tl_6"/>seine Tore öffnete. Damit ist die erste Hauptstadt 
+               <lb xml:id="p002_r_2_tl_7"/>des Reichs gefallen, Susa folgt kurz nachher. Dort 
+               <lb xml:id="p002_r_2_tl_8"/>gewann Alexander den Reichsschatz, es wird be 
+               <lb xml:id="p002_r_2_tl_9" break="no"/>richtet, auch die einst von Xerxes verschleppten 
+               <lb xml:id="p002_r_2_tl_10"/>Statuen des Harmodios und Aristogeiton hätten 
+               <lb xml:id="p002_r_2_tl_11"/>sich dabei befunden und seien damals nach Athen 
+               <lb xml:id="p002_r_2_tl_12"/>zurückgebracht worden. Alexander ging jetzt an 
+               <lb xml:id="p002_r_2_tl_13"/>die Eroberung des Iranischen Hochlandes, er brach 
+               <lb xml:id="p002_r_2_tl_14"/>den Widerstand des Satrapen Ariobarzanes, der 
+               <lb xml:id="p002_r_2_tl_15"/>die Pässe besetzt hielt, und erreichte im Anfang des 
+               <lb xml:id="p002_r_2_tl_16"/>Jahres 330 Pasargadae. Das ist die alte Hauptstadt 
+               <lb xml:id="p002_r_2_tl_17"/>der Achämeniden, das Grab des Cyros befindet sich 
+               <lb xml:id="p002_r_2_tl_18"/>dort, und leicht war es nun, auch Persepolis, die 
+               <lb xml:id="p002_r_2_tl_19"/>überaus herrliche Königsburg zu erobern. Alexan 
+               <lb xml:id="p002_r_2_tl_20" break="no"/>der hat die Paläste verbrannt, – man kennt die Mo 
+               <lb xml:id="p002_r_2_tl_21" break="no"/>tive nicht, die ihn zu dieser ungeheuer frevelhaften 
+               <lb xml:id="p002_r_2_tl_22"/>Tat veranlaßt haben. Jedenfalls war der Brand von 
+               <lb xml:id="p002_r_2_tl_23"/>Persepolis, das zu den Wundern der Welt gehörte, 
+               <lb xml:id="p002_r_2_tl_24"/>das Symbol für den Niedergang und die Kata 
+               <lb xml:id="p002_r_2_tl_25" break="no"/>strophe der achämenidischen Macht.</p>
+            <p> 
+               <lb xml:id="p002_r_2_tl_26"/>Jetzt erst verfolgte Alexander den König: durch 
+               <lb xml:id="p002_r_2_tl_27"/>Medien und seine Hauptstadt Egbatana, das 
+               <lb xml:id="p002_r_2_tl_28"/>heutige Hamadan, zog er nach Norden, lagerte in 
+               <lb xml:id="p002_r_2_tl_29"/>Rhages, dessen Ruinen an die Tore von Teheran 
+               <lb xml:id="p002_r_2_tl_30"/>stoßen, und durch die Kaspischen Tore. Inzwischen 
+               <lb xml:id="p002_r_2_tl_31"/>wurde der unglückliche Dareios von seinem Statt 
+               <lb xml:id="p002_r_2_tl_32" break="no"/>halter Bessos auf der Flucht ermordet, Alexander 
+               <lb xml:id="p002_r_2_tl_33"/>blieb nichts übrig, als den Mörder grausam zu be 
+               <lb xml:id="p002_r_2_tl_34" break="no"/>strafen. Dann folgt der großartigste Teil der ge 
+               <lb xml:id="p002_r_2_tl_35" break="no"/>waltigen Eroberung: es gilt Turan zu gewinnen, 
+               <lb xml:id="p002_r_2_tl_36"/>einen Hauptsitz persischer Religion und Sitte. 
+               <lb xml:id="p002_r_2_tl_37"/>Hyrkanien und Parthien haben sich unterworfen, 
+               <lb xml:id="p002_r_2_tl_38"/>durch Parthien und Drangiana – Teile des heutigen 
+               <lb xml:id="p002_r_2_tl_39"/>Afghanistan – zieht Alexander bis zum Hindukush 
+               <lb xml:id="p002_r_2_tl_40"/>(Paropamisos) und überschreitet ihn im Frühjahr 
+               <lb xml:id="p002_r_2_tl_41"/>329. Und gegen die Widerstände der kriegerischen 
+               <lb xml:id="p002_r_2_tl_42"/>Stämme, ihrer Bergfestungen ringsum in Turke 
+               <lb xml:id="p002_r_2_tl_43" break="no"/>stan, eroberte Alexander unaufhaltsam Baktra und 
+               <lb xml:id="p002_r_2_tl_44"/>Marakanda-Samarkand, überschritt den Oxus, und 
+               <lb xml:id="p002_r_2_tl_45"/>erreichte den Jaxartes, damit aber die nördlichste 
+               <lb xml:id="p002_r_2_tl_46"/>Grenze der persischen Länder.</p>
+            <p> 
+               <lb xml:id="p002_r_2_tl_47"/>Er gründete Städte: darunter Herat, Chod 
+               <lb xml:id="p002_r_2_tl_48" break="no"/>schend, Kandahar, die bis heute bedeutend ge 
+               <lb xml:id="p002_r_2_tl_49" break="no"/>blieben sind und beweisen, daß Alexanders Zug 
+               <lb xml:id="p002_r_2_tl_50"/>bis hierher nicht die blind-heroische Tat eines 
+               <lb xml:id="p002_r_2_tl_51"/>Abenteurers war.</p>
+            <p> 
+               <lb xml:id="p002_r_2_tl_52"/>Alexander hat bis hierher eine Mission von un 
+               <lb xml:id="p002_r_2_tl_53" break="no"/>ermeßlicher Tragweite ausgeführt. Diese Mission 
+               <lb xml:id="p002_r_2_tl_54"/>hatte sich vorbereitet, Alexander trat auf und han 
+               <lb xml:id="p002_r_2_tl_55" break="no"/>delte, als die Stunde reif war. Längst strebten die 
+               <lb xml:id="p002_r_2_tl_56"/>Kräfte der griechischen Kultur zur Ausbreitung, 
+               <lb xml:id="p002_r_2_tl_57"/>über staatliche und nationale Grenzen hinweg. 
+               <lb xml:id="p002_r_2_tl_58"/>Längst kündigte es sich an, daß die orientalischen
+               <milestone unit="textregion" xml:id="p002_r_1"/> 
+               <lb xml:id="p002_r_1_tl_1"/>Völker für diese Kultur empfänglich und ihre Trä 
+               <lb xml:id="p002_r_1_tl_2" break="no"/>ger sein würden. Euagoras von Cypern, ein Vasall 
+               <lb xml:id="p002_r_1_tl_3"/>des persischen Großkönigs und ein Grieche, hatte 
+               <lb xml:id="p002_r_1_tl_4"/>schon hellenistische Tendenzen zum Ausdruck ge 
+               <lb xml:id="p002_r_1_tl_5" break="no"/>bracht, Maussollos von Karien hatte sich sein 
+               <lb xml:id="p002_r_1_tl_6"/>Grabmal in der Form eines von einem Viergespann 
+               <lb xml:id="p002_r_1_tl_7"/>gekrönten ionischen Tempels erbauen lassen. Der 
+               <lb xml:id="p002_r_1_tl_8"/>Hellenismus ist weder das Produkt bewußten 
+               <lb xml:id="p002_r_1_tl_9"/>Willens, noch ein Geschenk, daß dem von den 
+               <lb xml:id="p002_r_1_tl_10"/>Göttern begnadeten Jüngling Alexander gleichsam 
+               <lb xml:id="p002_r_1_tl_11"/>zufällig unter den Händen geriet wie ein Taschen 
+               <lb xml:id="p002_r_1_tl_12" break="no"/>spielerstück. Alexander hat ausgeführt, was nötig 
+               <lb xml:id="p002_r_1_tl_13"/>war: er hat dem Perserreich ein Ende gesetzt – und 
+               <lb xml:id="p002_r_1_tl_14"/>damit der alten Kultur Babyloniens, deren Tradi 
+               <lb xml:id="p002_r_1_tl_15" break="no"/>tion sich hier fortgesetzt hatte – und er hat, in 
+               <lb xml:id="p002_r_1_tl_16"/>Griechenland, die staatlichen und nationalen Fes 
+               <lb xml:id="p002_r_1_tl_17" break="no"/>seln durchschlagen und damit die kulturellen 
+               <lb xml:id="p002_r_1_tl_18"/>Kräfte befreit, die sich, sogleich ausbreiten und 
+               <lb xml:id="p002_r_1_tl_19"/>einen ungeheuren Einfluß gewinnen sollten.</p>
+            <p> 
+               <lb xml:id="p002_r_1_tl_20"/>Bis dahin hatte Alexander eine Aufgabe, die ihn 
+               <lb xml:id="p002_r_1_tl_21"/>weit über alles Persönliche hinaushob, er war Trä 
+               <lb xml:id="p002_r_1_tl_22" break="no"/>ger und Verkörperer einer der fruchtbarsten Ideen 
+               <lb xml:id="p002_r_1_tl_23"/>der Weltgeschichte.</p>
+            <p> 
+               <lb xml:id="p002_r_1_tl_24"/>Dann aber zog er nach Indien – durch Afghani 
+               <lb xml:id="p002_r_1_tl_25" break="no"/>stan, den Indus und Hydaspes hinab, im Kampf 
+               <lb xml:id="p002_r_1_tl_26"/>mit Teilfürsten, von denen Poros der einzige von 
+               <lb xml:id="p002_r_1_tl_27"/>einiger Bedeutung war.</p>
+            <p> 
+               <lb xml:id="p002_r_1_tl_28"/>Gefährlicher waren die Brahmanen, die das Volk 
+               <lb xml:id="p002_r_1_tl_29"/>überall zum Widerstand gegen den fremden Ein 
+               <lb xml:id="p002_r_1_tl_30" break="no"/>dringling aufstachelten – am gefährlichsten die 
+               <lb xml:id="p002_r_1_tl_31"/>Gegnerschaft der Natur: siebzig Tage währten die 
+               <lb xml:id="p002_r_1_tl_32"/>Regengüsse, Krankheit demoralisierte das Heer, 
+               <lb xml:id="p002_r_1_tl_33"/>selbst Alexanders Veteranen drohten zu meutern. 
+               <lb xml:id="p002_r_1_tl_34"/>Er griff zum Vorwand ungünstiger Opfer, um den 
+               <lb xml:id="p002_r_1_tl_35"/>Hyphasis nicht mehr zu überschreiten und den 
+               <lb xml:id="p002_r_1_tl_36"/>Weitermarsch abzubrechen.</p>
+            <p> 
+               <lb xml:id="p002_r_1_tl_37"/>Im Sommer 225 [recte: 325, hs. Korrektur stammt nicht von AS] erreichte man den Ozean. 
+               <lb xml:id="p002_r_1_tl_38"/>Nearch führte die Flotte durch den Persischen 
+               <lb xml:id="p002_r_1_tl_39"/>Golf bis zum Euphrat, Alexander zog unter neuen, 
+               <lb xml:id="p002_r_1_tl_40"/>ungeheuren Strapazen auf dem Landweg, nämlich 
+               <lb xml:id="p002_r_1_tl_41"/>durch die Wüste Gedrosia, durch das heutige Be 
+               <lb xml:id="p002_r_1_tl_42" break="no"/>lutschistan, und erreichte endlich Susa.</p>
+            <p> 
+               <lb xml:id="p002_r_1_tl_43"/>Dieser Zug war das Abenteuer gewesen, poli 
+               <lb xml:id="p002_r_1_tl_44" break="no"/>tisch sinnlos: denn um sein gewonnenes Riesen 
+               <lb xml:id="p002_r_1_tl_45" break="no"/>reich zur Weltmacht zu vollenden, hat Alexander 
+               <lb xml:id="p002_r_1_tl_46"/>Indien nicht gebraucht. Aber die Jahre seiner Ab 
+               <lb xml:id="p002_r_1_tl_47" break="no"/>wesenheit – man glaubte bereits nicht mehr, daß 
+               <lb xml:id="p002_r_1_tl_48"/>er aus dem Wunderland zurückkehren werde – hat 
+               <lb xml:id="p002_r_1_tl_49"/>dieses Reich, hat Alexanders Lebenswerk in Frage 
+               <lb xml:id="p002_r_1_tl_50"/>gestellt. Schon jetzt konnte sich vorbereiten, was 
+               <lb xml:id="p002_r_1_tl_51"/>nach Alexanders frühem Tod eintreten sollte: die 
+               <lb xml:id="p002_r_1_tl_52"/>Auflösung des Weltreichs in die Teilreiche der Dia 
+               <lb xml:id="p002_r_1_tl_53" break="no"/>dochen, das Ende der Einheit Vorderasiens.</p>
+            <p> 
+               <lb xml:id="p002_r_1_tl_54"/>Die kulturtragende Kraft des Hellenismus aller 
+               <lb xml:id="p002_r_1_tl_55" break="no"/>dings ist durch die politische Auflösung nicht 
+               <lb xml:id="p002_r_1_tl_56"/>betroffen worden, sie gewann an Reichtum und 
+               <lb xml:id="p002_r_1_tl_57"/>Vielfalt und hat Alexander um Jahrhunderte 
+               <lb xml:id="p002_r_1_tl_58"/>überdauert.</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0180_003.tif"/>
+            <milestone unit="textregion" xml:id="p003_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_r_tl_1"/>Auf Alexanders 
+               <lb xml:id="p003_r_tl_2"/>Spuren nach 
+               <lb xml:id="p003_r_tl_3"/>Persien 
+               <lb xml:id="p003_r_tl_4"/>Photos von Dr. Annemarie 
+               <lb xml:id="p003_r_tl_5"/>Clark-Schwarzenbach</p>
+
+            <milestone unit="textregion" xml:id="p003_r_2"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p003_r_2_tl_1"/>Kamelkarawama in Süd-Mesopotamien bzw. Irak, Fotografie identisch mit image_0437 (A-5-03/190)</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p003_r_3"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p003_r_3_tl_1"/>Kamelkarawane 
+               <lb xml:id="p003_r_3_tl_2"/>in Süd-Mesopotamien</p>
+
+            <milestone unit="textregion" xml:id="p003_r_4"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p003_l"/>Palmyra, Fotografie identisch mit image_0750 (SLA-Schwarzenbach-A-5-05/053)</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p003_r_5"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p003_r_5_tl_1"/>Die Oase Palmyra 
+               <lb xml:id="p003_r_5_tl_2"/>in der Syrischen Wüste</p>
+
+            <milestone unit="textregion" xml:id="p003_r_6"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p003_l_168"/>Niniveh, Fotografie identisch mit image_0768 (A-5-05/097)</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p003_r_7"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p003_r_7_tl_1"/>Die Ruinen von Niniveh</p>
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0180_004.tif"/>
+            <milestone unit="textregion" xml:id="p004_r"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p004_l"/>Iranisches Hochland mit Demawend, Fotografie identisch mit image_0877 (A-5-06/163I</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p004_r_3"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p004_r_3_tl_1"/>Auf dem irani 
+               <lb xml:id="p004_r_3_tl_2" break="no"/>schen Hochland in 
+               <lb xml:id="p004_r_3_tl_3"/>3000 m Höhe; im 
+               <lb xml:id="p004_r_3_tl_4"/>Hintergrund der 
+               <lb xml:id="p004_r_3_tl_5"/>Demawend.</p>
+
+            <milestone unit="textregion" xml:id="p004_r_4"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p004_l_30"/>Berge bei Teheran, Fotografie vermutlich aus derselben Serie wie image_0995 (A-5-06/350)</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p004_r_5"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p004_r_5_tl_1"/>Die Berge Irans bei 
+               <lb xml:id="p004_r_5_tl_2"/>Teheran</p>
+
+            <milestone unit="textregion" xml:id="p004_r_6"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p004_l_35"/>Jäz-de-Chast, Fotografie identisch mit image_1065 (A-5-07/123)</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p004_r_7"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p004_r_7_tl_1"/>Jäz-de-Chast, eine 
+               <lb xml:id="p004_r_7_tl_2"/>teilweise noch be 
+               <lb xml:id="p004_r_7_tl_3" break="no"/>wohnte alte be 
+               <lb xml:id="p004_r_7_tl_4" break="no"/>festigte Stadt an 
+               <lb xml:id="p004_r_7_tl_5"/>der Straße nach 
+               <lb xml:id="p004_r_7_tl_6"/>Persepolis.</p>
+
+            <pb xml:id="p005" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0180_005.tif"/>
+            <milestone unit="textregion" xml:id="p005_r"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p005_l"/>Persepolis, Fotografie identisch mit image_0612 (A-5-04/146)</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p005_r_2"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p005_r_2_tl_1"/>Die Ruinen von Persepolis.</p>
+
+            <milestone unit="textregion" xml:id="p005_r_3"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p005_l_8"/>Blick vom Felsen Naksh i Rustam (bzw. Naqsh-i Rustam) auf das 'Grab des Zarathustra', vermutlich aus der Serie der Fotografie image_0517 (A-5-04/017)</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p005_r_4"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p005_r_4_tl_1"/>Blick vom Felsen von Naksh i 
+               <lb xml:id="p005_r_4_tl_2"/>Rustam auf das "Grab des 
+               <lb xml:id="p005_r_4_tl_3"/>Zarathustra" bei Persepolis, 
+               <lb xml:id="p005_r_4_tl_4"/>– ein Bauwerk unbekannten 
+               <lb xml:id="p005_r_4_tl_5"/>Ursprungs, welches bei der Be 
+               <lb xml:id="p005_r_4_tl_6" break="no"/>völkerung nach alter Überlie 
+               <lb xml:id="p005_r_4_tl_7" break="no"/>ferung den Namen des persi 
+               <lb xml:id="p005_r_4_tl_8" break="no"/>schen Religionsstifters trägt.</p>
+
+            <milestone unit="textregion" xml:id="p005_r_8"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p005_l_4"/>Persische Heerstrasse von Persepolis in den Norden</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p005_r_13"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p005_r_13_tl_1"/>Die alte persische Heerstraße, 
+               <lb xml:id="p005_r_13_tl_2"/>die von Persepolis nach Nor 
+               <lb xml:id="p005_r_13_tl_3" break="no"/>den führt.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
