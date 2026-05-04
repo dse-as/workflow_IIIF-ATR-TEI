@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xml:id="smallform_0289"
      type="dseas-smallform">
@@ -18,14 +18,19 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <bibl>
-               <persName/>
-               <bibl type="monogr">
+            <bibl corresp="smallform_0289">
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+               <bibl>
                   <title level="j"/>
                   <date/>
                   <biblScope/>
                </bibl>
             </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
@@ -46,12 +51,15 @@
          </textClass>
       </profileDesc>
    </teiHeader>
-   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0289_facs.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0289_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
    <text>
       <body>
          <div type="smallform">
             <pb xml:id="smallform_0289_001"
-                facs="https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211938_014%21zui-001_1938_014_1145.jpg/info.json"/>
+                facs="https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211938_014%21zui-001_1938_014_1145.jpg"/>
             <milestone unit="textregion" xml:id="smallform_0289_001_r"/>
             <lb xml:id="smallform_0289_001_r_tl_1"/>Die
 <lb xml:id="smallform_0289_001_r_tl_2"/>Freude
@@ -179,7 +187,7 @@
 <lb xml:id="smallform_0289_001_r_5_tl_4"/>point forcément partisans d'un
 <lb xml:id="smallform_0289_001_r_5_tl_5"/>rattachement à l'Allemagne.
 <lb xml:id="smallform_0289_001_r_5_tl_6"/>Qu'adviendra-t-il de ceux-là?</CONV><pb xml:id="smallform_0289_002"
-                facs="https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211938_014%21zui-001_1938_014_1146.jpg/info.json"/>
+                facs="https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211938_014%21zui-001_1938_014_1146.jpg"/>
             <milestone unit="textregion" xml:id="smallform_0289_002_r"/><CONV tag="f">
 <lb xml:id="smallform_0289_002_l"/>sozialdemokratischer Arbeiter</CONV><milestone unit="textregion" xml:id="smallform_0289_002_r_3"/><CONV tag="fp">
 <lb xml:id="smallform_0289_002_r_3_tl_1"/><CONV tag="p">Franz K., sozialdemokratischer Arbeiter aus Schwaderbach. Er ist am 22. September mit einem Flüchtlingstransport
