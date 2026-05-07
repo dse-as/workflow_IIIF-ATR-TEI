@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0109" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0109#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0109</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0109"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0109_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0109_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_2_tl_1"/>Das Tal Dargawskaja im Kaukasus 
+               <lb xml:id="p001_r_2_tl_2"/>Von <hi rendition="#g">Annemarie Schwarzenbach</hi></p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_3"/>Im Jahre 1925 baute man eine Straße aus, die 
+               <lb xml:id="p001_r_2_tl_4"/>bisher nur als kaum gangbarer Saumpfad bestanden 
+               <lb xml:id="p001_r_2_tl_5"/>hatte, und die auch in ihrem neuen Zustand von Pfer 
+               <lb xml:id="p001_r_2_tl_6" break="no"/>den, Mauleseln und Ochsen nur mühsam und unter 
+               <lb xml:id="p001_r_2_tl_7"/>großen Anstrengungen benutzt werden kann. Sie führt 
+               <lb xml:id="p001_r_2_tl_8"/>aus einer engen und schattigen Schlucht in zahllosen 
+               <lb xml:id="p001_r_2_tl_9"/>Windungen auf einen Bergkamm, wo starker Wind 
+               <lb xml:id="p001_r_2_tl_10"/>bläst und der Blick sich plötzlich auf die "schwarzen 
+               <lb xml:id="p001_r_2_tl_11"/>Berge", den "Berg der Jungfrau", und einen fernen 
+               <lb xml:id="p001_r_2_tl_12"/>Gletscher öffnet. Die Berge, die Kluft, die steile 
+               <lb xml:id="p001_r_2_tl_13"/>Gebirgsstraße liegen im <hi rendition="#g">Kaukasus</hi>, im autonomen 
+               <lb xml:id="p001_r_2_tl_14"/>Gebiet von <hi rendition="#g">Nord=Ossieten</hi>, nicht allzu weit von 
+               <lb xml:id="p001_r_2_tl_15"/>der Stadt Ordjonikidze entfernt, aber so abseits von 
+               <lb xml:id="p001_r_2_tl_16"/>der großen Heerstraße, daß bis zu den Jahren der 
+               <lb xml:id="p001_r_2_tl_17"/>Revolution und des Straßenbaus kaum ein Russe sich 
+               <lb xml:id="p001_r_2_tl_18"/>hier hinaus verirrt hat. Jetzt errichtet man unten 
+               <lb xml:id="p001_r_2_tl_19"/>in der Schlucht ein Elektrizitätswerk, das Wasser eines 
+               <lb xml:id="p001_r_2_tl_20"/>Gebirgsflusses wird kilometerweit durch das Felsmassiv 
+               <lb xml:id="p001_r_2_tl_21"/>geleitet, und die moderne Technik ist nur noch durch 
+               <lb xml:id="p001_r_2_tl_22"/>die hohe, glatte Wand von dem Tal Dargawskaja und 
+               <lb xml:id="p001_r_2_tl_23"/>seinen isolierten Bewohnern getrennt. Reitet man 
+               <lb xml:id="p001_r_2_tl_24"/>hinauf, so begegnet man knarrenden Ochsenkarren, 
+               <lb xml:id="p001_r_2_tl_25"/>zweirädrig, hoch beladen mit Holz, Korn, Schaffellen 
+               <lb xml:id="p001_r_2_tl_26"/>– in jeder Kurve scheinen sie stecken bleiben zu 
+               <lb xml:id="p001_r_2_tl_27"/>wollen, die weißen Ochsen zerren widerwillig am Joch 
+               <lb xml:id="p001_r_2_tl_28"/>über ihren gesenkten Stirnen, Männer in großen Filz 
+               <lb xml:id="p001_r_2_tl_29" break="no"/>hüten greifen fluchend in die Speichen, und die kleinen 
+               <lb xml:id="p001_r_2_tl_30"/>Buben treiben mit Peitsche und gellenden Zurufen 
+               <lb xml:id="p001_r_2_tl_31"/>die Tiere an.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_32"/>Doch oben angelangt, hat alle Mühe ein Ende. 
+               <lb xml:id="p001_r_2_tl_33"/>Breit liegt das Tal zu unseren Füßen, mit trockenen 
+               <lb xml:id="p001_r_2_tl_34"/>Weiden, grünen Abhängen bis zum Fuß der Felsen, 
+               <lb xml:id="p001_r_2_tl_35"/>großen Schafherden am Ufer des vielarmig sich ver 
+               <lb xml:id="p001_r_2_tl_36" break="no"/>teilenden Flusses. Der Gletscher speist ihn, sein Wasser 
+               <lb xml:id="p001_r_2_tl_37"/>ist milchig und eiskalt, es gibt keine Brücken und wir 
+               <lb xml:id="p001_r_2_tl_38"/>reiten mit unseren Pferden durch Furten über runde, 
+               <lb xml:id="p001_r_2_tl_39"/>glatte Kieselsteine. Gleich zu Anfang gibt es eine Tal 
+               <lb xml:id="p001_r_2_tl_40" break="no"/>sperre: einen vorspringenden Felsen, darauf zerfallene 
+               <lb xml:id="p001_r_2_tl_41"/>Mauern und Wachtürme. Der Führer, ein ossetischer 
+               <lb xml:id="p001_r_2_tl_42"/>Greis, der zu Fuß den Pferden vorangeht, erklärt mir: 
+               <lb xml:id="p001_r_2_tl_43"/>Kulaken, Feudalherren haben sie gebaut, im Kampf
+               <milestone unit="textregion" xml:id="p001_r_3"/> 
+               <lb xml:id="p001_r_3_tl_1"/>gegen andere Bergvölker aber auch gegen Perser, 
+               <lb xml:id="p001_r_3_tl_2"/>Mongolen, Türken und Russen.</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_3"/>In der ganzen Talschaft liegen fünf Dörfer, wo 
+               <lb xml:id="p001_r_3_tl_4" break="no"/>von das größte wie das Tal selbst Dargawskaja heißt. 
+               <lb xml:id="p001_r_3_tl_5"/>Es liegt am Fuß einer Moräne, die sich wie ein run 
+               <lb xml:id="p001_r_3_tl_6" break="no"/>der, gewaltiger, natürlicher Schutzwall ausdehnt. Wir 
+               <lb xml:id="p001_r_3_tl_7"/>reiten lange dem Fluß entlang, ehe wir das Dorf er 
+               <lb xml:id="p001_r_3_tl_8" break="no"/>reichen – und dann sind die seltsamen Gebäude, die 
+               <lb xml:id="p001_r_3_tl_9"/>man über einen Felshang verstreut sieht, noch nicht 
+               <lb xml:id="p001_r_3_tl_10"/>das Dorf der Lebenden, sondern eine Stadt der Toten, 
+               <lb xml:id="p001_r_3_tl_11"/>Man überquert an dieser Stelle den Fluß über eine 
+               <lb xml:id="p001_r_3_tl_12"/>Brücke. An ihrem Ende stehen wie ein Stadttor zwei 
+               <lb xml:id="p001_r_3_tl_13"/>runde, pyramidenförmig überdachte Türme. Sie 
+               <lb xml:id="p001_r_3_tl_14"/>haben, etwa einen Meter über dem Erdboden, eine 
+               <lb xml:id="p001_r_3_tl_15"/>längliche Oeffnung, und hindurchblickend sieht man 
+               <lb xml:id="p001_r_3_tl_16"/>einen Haufen übereinandergeworfener Skelette, zer 
+               <lb xml:id="p001_r_3_tl_17" break="no"/>brochene Schädel, von Stangen herabhängende Haut 
+               <lb xml:id="p001_r_3_tl_18" break="no"/>stücke, Fetzen verblichener Gewänder.</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_20"/>Den Abhang hinaufkletternd, gerät man in Toten 
+               <lb xml:id="p001_r_3_tl_19" break="no"/>gassen, auf Totenplätze, in zerfallenes Totengemäuer. 
+               <lb xml:id="p001_r_3_tl_21"/>Ringsum wachsen die Türme wie Pilze in die Höhe, 
+               <lb xml:id="p001_r_3_tl_22"/>immer mit vierseitigen Pyramiden als Dächer, deren 
+               <lb xml:id="p001_r_3_tl_23"/>sich verjüngende Steinschichten von je einer dünnen 
+               <lb xml:id="p001_r_3_tl_24"/>Schieferschicht unterbrochen sind. Diese vorspringenden 
+               <lb xml:id="p001_r_3_tl_25"/>Dächlein geben den sonderbaren Gebäuden fast etwas 
+               <lb xml:id="p001_r_3_tl_26"/>Chinesisch=pagodenhaftes.</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_27"/>Die Dorfleute pflegten seit vielen hundert Jahren 
+               <lb xml:id="p001_r_3_tl_28"/>in solchen Türmen ihre Toten zu begraben. Man 
+               <lb xml:id="p001_r_3_tl_29"/>schob die neuen Leichen durch die kleinen Fenster zu 
+               <lb xml:id="p001_r_3_tl_30"/>den alten, und der Wind und die trockene Bergluft 
+               <lb xml:id="p001_r_3_tl_31"/>sorgten für ihre unheimliche Mumien=Konservierung. 
+               <lb xml:id="p001_r_3_tl_32"/>Die ältesten Türme sollen aus dem 12. Jahrhundert 
+               <lb xml:id="p001_r_3_tl_33"/>stammen, aber unter ihrem Boden fand man Gräber, 
+               <lb xml:id="p001_r_3_tl_34"/>die bis in das 5. Jahrhundert zurückgehen. Und noch 
+               <lb xml:id="p001_r_3_tl_35"/>bis in das 19. Jahrhundert wurden diese Familien 
+               <lb xml:id="p001_r_3_tl_36" break="no"/>Grabstätten benutzt – es gibt in Dargawskaja Leute, 
+               <lb xml:id="p001_r_3_tl_37"/>die sich an die letzten dort bestatteten Toten noch er 
+               <lb xml:id="p001_r_3_tl_38" break="no"/>innern können.</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_39"/>Im Rücken der phantastisch=schrecklichen Nekropole 
+               <lb xml:id="p001_r_3_tl_40"/>steht, etwas erhöht, eine zerbrochene Mauer, der 
+               <lb xml:id="p001_r_3_tl_41"/>Bogen eines Gewölbebaus ist noch zu erkennen – man 
+               <lb xml:id="p001_r_3_tl_42"/>sagt mir, daß es der Ueberrest einer christlichen Kirche 
+               <lb xml:id="p001_r_3_tl_43"/>ist, in welcher die Osseten ihren alten Göttern Opfer 
+               <lb xml:id="p001_r_3_tl_44"/>darbrachten. Sie waren teils Heiden, teils Moham 
+               <lb xml:id="p001_r_3_tl_45" break="no"/>medaner. Erst den Russen fiel es in der zweiten Hälfte
+               <milestone unit="textregion" xml:id="p001_r_4"/> 
+               <lb xml:id="p001_r_4_tl_1"/>des 18. Jahrhunderts ein, aus ihnen Christen zu 
+               <lb xml:id="p001_r_4_tl_2"/>machen. Aber es geht das Gerücht, daß ihr Christen 
+               <lb xml:id="p001_r_4_tl_3" break="no"/>tum bis auf den heutigen Tag einige heidnische Be 
+               <lb xml:id="p001_r_4_tl_4" break="no"/>sonderheiten zeige: bevor man zur Erntearbeit geht, 
+               <lb xml:id="p001_r_4_tl_5"/>versammeln sich alle jungen Männer der Dorfschaft 
+               <lb xml:id="p001_r_4_tl_6"/>in der Kirche und verzehren ein Stück Brot, das ihnen 
+               <lb xml:id="p001_r_4_tl_7"/>ihre Mutter reicht. –</p>
+            <p> 
+               <lb xml:id="p001_r_4_tl_8"/>Die Ernte im Dargawskaja-Tal war früher spär 
+               <lb xml:id="p001_r_4_tl_9" break="no"/>lich, wie der bebaute und fruchtbare Boden spärlich 
+               <lb xml:id="p001_r_4_tl_10"/>war, und es heute noch ist. Aber heute gehört das 
+               <lb xml:id="p001_r_4_tl_11"/>Tal den Bauern, früher gehörte es einer Anzahl feu 
+               <lb xml:id="p001_r_4_tl_12" break="no"/>daler Grundbesitzer, welche Wachttürme erbauten und 
+               <lb xml:id="p001_r_4_tl_13"/>die Wohntürme bewohnten, die Krieg führten und die 
+               <lb xml:id="p001_r_4_tl_14"/>Bauern unterdrückten. Einer von ihnen eignete sich 
+               <lb xml:id="p001_r_4_tl_15"/>sogar große Macht an, daß das Volk ihn "Zar" nannte. 
+               <lb xml:id="p001_r_4_tl_16"/>Zar Oßta, gefürchtet und gehaßt, war ein großer 
+               <lb xml:id="p001_r_4_tl_17"/>Kämpfer: man zeigt mir im Dorf die beiden starken 
+               <lb xml:id="p001_r_4_tl_18"/>Türme, die er erbaut hat, und im Museum einen 
+               <lb xml:id="p001_r_4_tl_20"/>persisch geformten Helm und ein rostiges Kettenhemd, 
+               <lb xml:id="p001_r_4_tl_19"/>einen Dolch und einen Bogen, die sämtlich ihm gehört 
+               <lb xml:id="p001_r_4_tl_21"/>haben. – Das Museum von Dargawskaja: ein nie 
+               <lb xml:id="p001_r_4_tl_22" break="no"/>driger Raum in einem Bauernhaus, in einem Glas 
+               <lb xml:id="p001_r_4_tl_23" break="no"/>kasten sieht man Mineralien, Steine mit Kupfer, 
+               <lb xml:id="p001_r_4_tl_24"/>Silber, und selbst Goldadern, die man in den um 
+               <lb xml:id="p001_r_4_tl_25" break="no"/>liegenden Bergen gefunden hat; daneben die Waffen 
+               <lb xml:id="p001_r_4_tl_26"/>des großen Zaren, aus dem 15. Jahrhundert stam 
+               <lb xml:id="p001_r_4_tl_27" break="no"/>mend, ein Heiligenbild zwischen Dolchen und schweren, 
+               <lb xml:id="p001_r_4_tl_28"/>alten Flinten, Trinkhörner und Pulverhörner aus 
+               <lb xml:id="p001_r_4_tl_29"/>Steinbock=Geweihen, und neben einem Stich, den 
+               <lb xml:id="p001_r_4_tl_30"/>schnauzbärtigen und fürchterlichen Zaren Oßta dar 
+               <lb xml:id="p001_r_4_tl_31" break="no"/>stellend, ein Bild von Lenin, ein anderes von Stalin 
+               <lb xml:id="p001_r_4_tl_32"/>und vom General Woroschilow.</p>
+            <p> 
+               <lb xml:id="p001_r_4_tl_33"/>Der Schullehrer führt uns umher – inzwischen 
+               <lb xml:id="p001_r_4_tl_34"/>grasen unsere Pferde im geräumigen Schulhof, die 
+               <lb xml:id="p001_r_4_tl_35"/>Buben sitzen in der heißen Mittagssonne, wickeln den 
+               <lb xml:id="p001_r_4_tl_36"/>Pferden einen Zügel um einen Vorderhuf und machen 
+               <lb xml:id="p001_r_4_tl_37"/>sich die Hüterpflicht leicht.</p>
+            <p> 
+               <lb xml:id="p001_r_4_tl_39"/>Sie gehen noch nicht lange zur Schule. Bis vor 
+               <lb xml:id="p001_r_4_tl_38"/>einigen Jahrzehnten hatten die Osseten eine primitive 
+               <lb xml:id="p001_r_4_tl_40"/>Schrift, in der sich, wie der Lehrer sagt, nicht viel 
+               <lb xml:id="p001_r_4_tl_41"/>schreiben ließ. Dann wurde die lateinische Schrift adop 
+               <lb xml:id="p001_r_4_tl_42" break="no"/>tiert, und seit der Revolution werden unten in Ord 
+               <lb xml:id="p001_r_4_tl_43" break="no"/>jonikidze Arithmetik- und Literaturbücher gedruckt, und 
+               <lb xml:id="p001_r_4_tl_44"/>nun gibt es schon ossetische Dichter ...</p>
+
+            <milestone unit="textregion" xml:id="p001_r_1"/>            <p> 
+               <lb xml:id="p001_r_1_tl_1"/>Oben, in den Taldörfern, war es schwierig, die Kin 
+               <lb xml:id="p001_r_1_tl_2" break="no"/>der zum Lernen zu bewegen. Die Eltern brauchen sie 
+               <lb xml:id="p001_r_1_tl_3"/>während der Ernte, die Schule beginnt also erst am 
+               <lb xml:id="p001_r_1_tl_4"/>1. September, aber im Winter liegt hoher Schnee, und 
+               <lb xml:id="p001_r_1_tl_5"/>das Tal hat nur eine Schule, wohin der Weg für 
+               <lb xml:id="p001_r_1_tl_6"/>viele Kinder weit ist –</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_7"/>Aber der Lehrer versichert, daß sie jetzt schon gerne 
+               <lb xml:id="p001_r_1_tl_9"/>lernen. Auch Erwachsene kommen, um lesen zu ler 
+               <lb xml:id="p001_r_1_tl_8" break="no"/>nen. Im vierten Jahr beginnen sie mit Russisch, 
+               <lb xml:id="p001_r_1_tl_10"/>Ossetisch ist eine indogermanische Sprache, sie klingt 
+               <lb xml:id="p001_r_1_tl_11"/>voll und schön, aber sie wird nur von 150,000 Menschen 
+               <lb xml:id="p001_r_1_tl_12"/>gesprochen. Und dieses größere ossetische Heimatland 
+               <lb xml:id="p001_r_1_tl_14"/>ist den Leuten im Tal von Dargawskaja nahezu un 
+               <lb xml:id="p001_r_1_tl_13" break="no"/>bekannt. Meinen sie Ordonikidze, so sagen sie kurz 
+               <lb xml:id="p001_r_1_tl_15" break="no"/>weg "die Stadt" – wie groß, wie unausdenkbar weit 
+               <lb xml:id="p001_r_1_tl_16"/>entfernt muß da erst Moskau sein!</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_18"/>Wie wir gegen Abend aus dem Dorf wegreiten, 
+               <lb xml:id="p001_r_1_tl_17"/>macht mir das Fohlen meiner Stute große Mühe. Es 
+               <lb xml:id="p001_r_1_tl_19"/>ist müde, es versucht alles, um die Mutter zum Stehen 
+               <lb xml:id="p001_r_1_tl_21"/>zu bringen, es stellt sich uns quer über den Weg, reibt 
+               <lb xml:id="p001_r_1_tl_20"/>seinen Kopf gegen mein Knie, rollt sich im Gras und 
+               <lb xml:id="p001_r_1_tl_22"/>bleibt kläglich wiehernd zurück. Es bringt mich dazu, 
+               <lb xml:id="p001_r_1_tl_23"/>abzusteigen, zu warten, und dann neben meinem Pferd 
+               <lb xml:id="p001_r_1_tl_24"/>zu gehen, den Zügel lose in der Hand. Wir gehen an 
+               <lb xml:id="p001_r_1_tl_25"/>der Totenstadt vorbei, über den Fluß, durch den Tal 
+               <lb xml:id="p001_r_1_tl_26" break="no"/>grund abwärts. Die Sonne bleibt weit hinter uns 
+               <lb xml:id="p001_r_1_tl_27"/>an den Gipfeln hängen, und der Gletscher fängt sie wie 
+               <lb xml:id="p001_r_1_tl_28"/>in einem Kessel ein. Die schwarzen Berge liegen im 
+               <lb xml:id="p001_r_1_tl_29"/>Schatten, wir gehen über die schattig feuchten Wiesen, 
+               <lb xml:id="p001_r_1_tl_30"/>frierend. Der Führer erzählt mir eine Geschichte, eine 
+               <lb xml:id="p001_r_1_tl_31"/>der zahllosen Dargawskaja-Legenden. "Jener Berg" 
+               <lb xml:id="p001_r_1_tl_32"/>sagt er, "heißt Berg der Jungfrau – wissen Sie wes 
+               <lb xml:id="p001_r_1_tl_33" break="no"/>halb? Fünf Brüder zogen dort hinauf, um Bären zu 
+               <lb xml:id="p001_r_1_tl_34"/>jagen, und befahlen ihrer Schwester, daß sie ihnen das 
+               <lb xml:id="p001_r_1_tl_35"/>Essen nachtragen solle. Sie tat es, aber sie verirrte 
+               <lb xml:id="p001_r_1_tl_36"/>sich, und als sie schon todmüde war, bat sie den Berg 
+               <lb xml:id="p001_r_1_tl_38" break="no"/>gott, sie in einen Stein zu verwandeln. Und er war 
+               <lb xml:id="p001_r_1_tl_37"/>so gnädig, es zu tun. Sehen Sie jenen weißen Stein 
+               <lb xml:id="p001_r_1_tl_39"/>dort oben?" – "Ich sehe drei weiße Steine", sagte ich. 
+               <lb xml:id="p001_r_1_tl_40"/>– "Richtig", sagte der Alte, "das Mädchen hatte einen 
+               <lb xml:id="p001_r_1_tl_41"/>Esel und einen Hund mitgenommen. Der größte Stein 
+               <lb xml:id="p001_r_1_tl_42"/>ist der Esel, der mittlere ist das Mädchen, und der 
+               <lb xml:id="p001_r_1_tl_43"/>kleinste, das ist der treue Hund."</p>
+</div>
+       </body>
+    </text>
+ </TEI>
