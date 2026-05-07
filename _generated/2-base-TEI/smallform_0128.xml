@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0128" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0128#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0128</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0128"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0128_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0128_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_r_3"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_3_tl_1"/>Die Furt 
+               <lb xml:id="p001_r_3_tl_2"/>Von <hi rendition="#g">Annemarie Schwarzenbach</hi></p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_3"/>An unserem Garten führt eine Karawanenstraße 
+               <lb xml:id="p001_r_3_tl_4"/>vorbei. Es ist eine alte, vielbegangene Straße und wir 
+               <lb xml:id="p001_r_3_tl_5"/>hören ununterbrochen die Glocken der Kamele, die 
+               <lb xml:id="p001_r_3_tl_6"/>Schreie der Esel und das Knarren der schweren Last 
+               <lb xml:id="p001_r_3_tl_7" break="no"/>wagen, die unserer Gartenmauer entlang ziehen. Die 
+               <lb xml:id="p001_r_3_tl_8"/>Straße führt von Teheran in die reiche Ebene von 
+               <lb xml:id="p001_r_3_tl_9"/>Veramin, die an [sic] die Kornkammer Teherans nennt, 
+               <lb xml:id="p001_r_3_tl_10"/>und von dort in die Halbwüste von den Kaspischen 
+               <lb xml:id="p001_r_3_tl_11"/>Toren. In Veramin gibt es große Kamelmärkte, und 
+               <lb xml:id="p001_r_3_tl_12"/>jetzt, im Herbst, kommen die Herden von den Gebir 
+               <lb xml:id="p001_r_3_tl_13" break="no"/>gen herunter und werden auf die Winterweiden in 
+               <lb xml:id="p001_r_3_tl_14"/>dem großen fruchtbaren Becken gebracht. Mitten hin 
+               <lb xml:id="p001_r_3_tl_15" break="no"/>durch führt die alte Straße. Sie besteht fast nur aus 
+               <lb xml:id="p001_r_3_tl_16"/>Steinen und aus den breit auseinandergezogenen 
+               <lb xml:id="p001_r_3_tl_17"/>Spuren der Wagen und Lasttiere. Wenn man vor un 
+               <lb xml:id="p001_r_3_tl_18" break="no"/>serem Tor steht, kann man Karawanen von weitem 
+               <lb xml:id="p001_r_3_tl_19"/>erkennen: sie sind eine langsam sich nähernde Wolke 
+               <lb xml:id="p001_r_3_tl_20"/>aus gelbem Staub.</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_21"/>Zwischen unserem Grundstück und der Straße fließt 
+               <lb xml:id="p001_r_3_tl_22"/>ein breiter, flacher Bach. Gerade neben unserem Tor 
+               <lb xml:id="p001_r_3_tl_23"/>befindet sich eine besonders flache Stelle, die Furt. 
+               <lb xml:id="p001_r_3_tl_24"/>Und wir können hören, wie die Leute ihre Tiere mit 
+               <lb xml:id="p001_r_3_tl_25"/>lauten, aufgebrachten Rufen in den Fluß treiben, und 
+               <lb xml:id="p001_r_3_tl_26"/>wie das Wasser laut aufklatscht, wenn die Tiere über 
+               <lb xml:id="p001_r_3_tl_27"/>die Böschung hinuntergleiten. Die Kamele nähern sich 
+               <lb xml:id="p001_r_3_tl_28"/>in einem langen Zug, sie gehen in regelmäßigem Ab 
+               <lb xml:id="p001_r_3_tl_29" break="no"/>stand voneinander, und ein loses Seil verbindet sie 
+               <lb xml:id="p001_r_3_tl_30"/>alle. Aber sie stutzen sobald sie das Wasser erblicken, 
+               <lb xml:id="p001_r_3_tl_31"/>und im gleichen Augenblick setzt das Geschrei der Trei 
+               <lb xml:id="p001_r_3_tl_32" break="no"/>ber ein. Die Kamele strecken unruhig die Hälse, gehen 
+               <lb xml:id="p001_r_3_tl_33"/>rückwärts und drängen sich furchtsam aneinander. 
+               <lb xml:id="p001_r_3_tl_34"/>Die ganze Karawane gerät in Unordnung. Der Trei 
+               <lb xml:id="p001_r_3_tl_35" break="no"/>ber, der auf dem vordersten Tier reitet, versucht, es 
+               <lb xml:id="p001_r_3_tl_36"/>an der Leine herumzureißen und gegen das Wasser 
+               <lb xml:id="p001_r_3_tl_37"/>zu treiben. Er stößt mit den Fersen in die Flanken und 
+               <lb xml:id="p001_r_3_tl_38"/>beugt sich auf dem hohen Sattel vor und zurück. Und 
+               <lb xml:id="p001_r_3_tl_39"/>alle Treiber rufen und schreien und verhindern die
+               <milestone unit="textregion" xml:id="p001_r_1"/> 
+               <lb xml:id="p001_r_1_tl_1"/>Kamele daran, rückwärts zu gehen und sich noch 
+               <lb xml:id="p001_r_1_tl_2"/>mehr in die Leine zu verwickeln.</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_3"/>Dann gelingt es plötzlich, das Leittier vorwärts zu 
+               <lb xml:id="p001_r_1_tl_4"/>bringen. Es entschließt sich und geht leicht und wie 
+               <lb xml:id="p001_r_1_tl_5" break="no"/>gend in den Fluß hinein, und das Wasser spritzt an 
+               <lb xml:id="p001_r_1_tl_6"/>seinen Beinen empor. Der ganze Haufe löst sich jetzt 
+               <lb xml:id="p001_r_1_tl_7"/>wie von selbst, die Kamele gehen hintereinander in 
+               <lb xml:id="p001_r_1_tl_8"/>ihrer alten Reihenfolge und senke [sic] die langen Hälse, 
+               <lb xml:id="p001_r_1_tl_9"/>um mit den Mäulern das kühle Wasser zu berühren.</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_10"/>Mit den Eseln ist es viel einfacher. Sie kommen in 
+               <lb xml:id="p001_r_1_tl_11"/>Rudeln an, weiße, graue und braune, und halten sich 
+               <lb xml:id="p001_r_1_tl_12"/>so nahe zusammen, wie ihre breiten Lastsäcke es ihnen 
+               <lb xml:id="p001_r_1_tl_13"/>erlauben. Manchmal tragen sie Heu oder Stroh, dann 
+               <lb xml:id="p001_r_1_tl_14"/>verschwinden sie ganz zwischen den übermäßig großen 
+               <lb xml:id="p001_r_1_tl_15"/>Bündeln. Sie gehen geduldig, in einem leichten Trab, 
+               <lb xml:id="p001_r_1_tl_16"/>mit hängenden Ohren. Und ohne sich aufzuhalten tra 
+               <lb xml:id="p001_r_1_tl_17" break="no"/>ben sie in das Wasser hinein.</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_18"/>Nicht weit von hier, in der Mitte des Berghangs, 
+               <lb xml:id="p001_r_1_tl_19"/>liegt ein Heiligtum, das von ein paar alten Mullahs 
+               <lb xml:id="p001_r_1_tl_20"/>bewacht wird. Es liegt hoch über der Straße, und die 
+               <lb xml:id="p001_r_1_tl_21"/>persischen Frauen pilgern dorthin und beten darum, 
+               <lb xml:id="p001_r_1_tl_22"/>Kinder zu bekommen. Manchmal reiten sie an unserem 
+               <lb xml:id="p001_r_1_tl_23"/>Garten vorbei: zehn oder zwanzig oder noch mehr 
+               <lb xml:id="p001_r_1_tl_24"/>Frauen, in ihre Schadors gehüllt, fröhlich, auf sehr 
+               <lb xml:id="p001_r_1_tl_25"/>kleinen Eseln, die sie mit dem langen schwarzen Tuch 
+               <lb xml:id="p001_r_1_tl_26"/>bedecken. Und von Veramin her kommen, gegen 
+               <lb xml:id="p001_r_1_tl_27"/>Abend, manchmal Hirten mit ihren Schafherden. Sie 
+               <lb xml:id="p001_r_1_tl_28"/>spielen auf rohen Flöten immer dieselbe Weise, die 
+               <lb xml:id="p001_r_1_tl_29"/>trostlose Musik dieses Landes. Die Schafe, von großen, 
+               <lb xml:id="p001_r_1_tl_30"/>weißen Hunden zusammengejagt und vorwärts ge 
+               <lb xml:id="p001_r_1_tl_31" break="no"/>trieben, lassen sich verstört wie eine einzige schwarze 
+               <lb xml:id="p001_r_1_tl_32"/>Masse in den Fluß sinken, dort stehen sie und mit den 
+               <lb xml:id="p001_r_1_tl_33"/>leichten Wellen geht auch durch die Herde eine leichte 
+               <lb xml:id="p001_r_1_tl_34"/>Bewegung, dann heben sie sich wieder und werden 
+               <lb xml:id="p001_r_1_tl_35"/>weiter getrieben. Blöken, Flötenton.</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_36"/>Anders ist es des Nachts. Das Haus, in welchem 
+               <lb xml:id="p001_r_1_tl_37"/>ich schlafe, liegt am Ende des großen Baumgartens 
+               <lb xml:id="p001_r_1_tl_38"/>und nahe an der Mauer. Die Mauer ist hoch, gelb, 
+               <lb xml:id="p001_r_1_tl_39"/>ausgestampftem [sic] Lehm. Drüben ist der Fluß und die 
+               <lb xml:id="p001_r_1_tl_40"/>Straße. Und die Karawanen gehen unaufhörlich vor 
+               <lb xml:id="p001_r_1_tl_41" break="no"/>über. Sie brechen, sobald es dunkel und kühl geworden
+               <milestone unit="textregion" xml:id="p001_r_2"/> 
+               <lb xml:id="p001_r_2_tl_1"/>ist, aus den Khanen von Teheran auf, und kündigen 
+               <lb xml:id="p001_r_2_tl_2"/>sich an mit Glocken. Es sind große Glocken, die einen 
+               <lb xml:id="p001_r_2_tl_3"/>dumpfen, schweren, dröhnenden Ton haben. Wie magi 
+               <lb xml:id="p001_r_2_tl_4" break="no"/>sche Instrumente, Zaubertrommeln und Gongs hängen 
+               <lb xml:id="p001_r_2_tl_5"/>sie an den Flanken der Tiere und begleiten ihren 
+               <lb xml:id="p001_r_2_tl_6"/>schleppenden, rhythmisch wiegenden Gang.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_7"/>Es ist, als liefe neben dem Fluß ein zweiter Fluß 
+               <lb xml:id="p001_r_2_tl_8"/>her, aus Kamelleibern, wiegenden Höckern und dröh 
+               <lb xml:id="p001_r_2_tl_9" break="no"/>nenden Glocken. Und das geht so die ganze Nacht...</p>
+</div>
+       </body>
+    </text>
+ </TEI>
