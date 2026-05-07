@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<validation-wrapper>
+   <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+      <Metadata>
+         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.23.0:model_id=39995:lm=provided:date=14_02_2025_17:08</Creator>
+         <Created>2025-02-14T16:55:53.371+01:00</Created>
+         <LastChange>2025-02-18T14:19:30.791+01:00</LastChange>
+         <TranskribusMetadata docId="6919034"
+                              pageId="91565630"
+                              pageNr="1"
+                              tsid="228833055"
+                              status="FINAL"
+                              userId="295817"
+                              imgUrl="https://files.transkribus.eu/Get?id=UJWAKKJJDCJEKGRKPPBVMLGV&amp;fileType=view"
+                              xmlUrl="https://files.transkribus.eu/Get?id=URNBRRGQVGIHHWVNWKFTEMCL"
+                              imageId="76398555"/>
+      </Metadata>
+      <Page imageFilename="smallform_0113_001.jpg"
+            imageWidth="3712"
+            imageHeight="5416">
+         <ReadingOrder>
+            <OrderedGroup id="ro_1739884770792" caption="Regions reading order">
+               <RegionRefIndexed index="0" regionRef="r"/>
+               <RegionRefIndexed index="1" regionRef="r_2"/>
+            </OrderedGroup>
+         </ReadingOrder>
+         <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="89,380 984,380 984,3951 89,3951"/>
+            <TextLine id="r_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="465,467 494,482 514,474 551,479 564,473 584,481 603,469 609,473 616,470 615,415 604,415 593,426 577,416 558,424 543,411 515,414 505,406 476,424 464,420"/>
+               <Baseline points="471,459 516,462 561,462 606,462 618,462"/>
+               <TextEquiv>
+                  <Unicode>Kino</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="194,549 886,549 886,488 851,480 514,474 432,496 194,473"/>
+               <Baseline points="200,528 244,528 289,525 334,525 379,528 423,528 468,528 513,528 558,525 603,528 647,525 692,525 737,525 782,525 827,528 871,534 889,537"/>
+               <TextEquiv>
+                  <Unicode>in der spanischen Provinz</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_3" custom="readingOrder {index:2;}">
+               <Coords points="167,607 949,607 949,552 817,540 566,572 167,550"/>
+               <Baseline points="173,591 217,591 262,591 307,591 352,588 397,591 441,588 486,588 531,588 576,588 621,588 665,588 710,588 755,588 800,591 844,588 889,588 934,591 952,594"/>
+               <TextEquiv>
+                  <Unicode>\p\Kinos gibt es überall: in den kleinsten Orten,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_4" custom="readingOrder {index:3;}">
+               <Coords points="125,643 949,645 949,606 909,602 289,614 125,585"/>
+               <Baseline points="131,629 176,629 220,629 265,629 310,629 355,629 400,626 444,626 489,629 534,626 579,629 624,629 668,626 713,629 758,626 803,626 847,626 892,626 937,629 952,632"/>
+               <TextEquiv>
+                  <Unicode>im Gebirge ebenso wie in den Fischernestern an der</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_5" custom="readingOrder {index:4;}">
+               <Coords points="113,676 761,666 981,693 981,648 899,631 676,660 490,632 113,651"/>
+               <Baseline points="119,668 164,668 208,665 253,668 298,668 343,665 388,665 432,665 477,665 522,665 567,668 612,665 656,668 701,668 746,665 791,665 835,665 880,665 925,665 952,668 984,657"/>
+               <TextEquiv>
+                  <Unicode>westlichen oder östlichen Küste. In Deutschland</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_6" custom="readingOrder {index:5;}">
+               <Coords points="116,714 949,717 924,676 116,677"/>
+               <Baseline points="122,707 167,707 211,707 256,704 301,707 346,704 391,704 435,704 480,704 525,704 570,704 615,704 659,704 704,704 749,704 794,704 838,704 883,704 928,704 952,707"/>
+               <TextEquiv>
+                  <Unicode>muß man in Städten von der Größe Dinkelsbühls</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_7" custom="readingOrder {index:6;}">
+               <Coords points="116,751 949,766 949,718 116,726"/>
+               <Baseline points="122,746 167,746 211,743 256,743 301,746 346,746 391,743 435,743 480,743 525,743 570,746 615,743 659,743 704,743 749,743 794,743 838,746 883,743 928,746 952,749"/>
+               <TextEquiv>
+                  <Unicode>erst nach dem Kino suchen, und in Chur gibt es</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_8" custom="readingOrder {index:7;}">
+               <Coords points="116,793 981,798 911,750 116,751"/>
+               <Baseline points="122,785 167,782 211,785 256,785 301,782 346,785 391,782 435,782 480,785 525,782 570,782 615,782 659,782 704,782 749,782 794,782 838,782 883,782 928,785 964,788 984,777"/>
+               <TextEquiv>
+                  <Unicode>bis heute nicht täglich eine Vorstellung — das wäre</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_9" custom="readingOrder {index:8;}">
+               <Coords points="113,833 949,844 949,796 915,790 874,814 113,793"/>
+               <Baseline points="119,824 164,824 208,824 253,821 298,824 343,821 388,821 432,821 477,821 522,821 567,821 612,821 656,821 701,821 746,821 791,821 835,821 880,821 925,821 952,824"/>
+               <TextEquiv>
+                  <Unicode>in Spanien oder mindestens in Nordspanien nicht</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_10" custom="readingOrder {index:9;}">
+               <Coords points="113,876 814,857 955,881 955,844 882,829 531,855 419,823 113,833"/>
+               <Baseline points="119,862 164,859 208,859 253,862 298,859 343,859 388,859 432,862 477,862 522,862 567,862 612,859 656,859 701,859 746,859 791,856 835,859 880,859 925,862 958,868"/>
+               <TextEquiv>
+                  <Unicode>denkbar. Die Leute gehen gern ins Kino — das mag</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_11" custom="readingOrder {index:10;}">
+               <Coords points="116,912 981,920 972,865 116,876"/>
+               <Baseline points="122,904 167,901 211,898 256,898 301,898 346,898 391,898 435,898 480,898 525,901 570,898 615,898 659,898 704,898 749,898 794,901 838,898 883,898 928,901 964,910 984,930"/>
+               <TextEquiv>
+                  <Unicode>mit ihrer Leidenschaft für alles Szenenhafte, Theatra¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_12" custom="readingOrder {index:11;}">
+               <Coords points="113,948 954,954 933,908 113,914"/>
+               <Baseline points="119,940 164,937 208,943 253,937 298,937 343,940 388,937 432,937 477,937 522,937 567,937 612,937 656,937 701,937 746,937 791,937 835,937 880,937 925,937 955,940"/>
+               <TextEquiv>
+                  <Unicode>lische zusammenhängen. Man kann diese Leidenschaft</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_13" custom="readingOrder {index:12;}">
+               <Coords points="119,993 949,985 949,953 119,956"/>
+               <Baseline points="125,979 170,979 214,976 259,976 304,976 349,976 394,976 438,976 483,976 528,976 573,976 618,976 662,976 707,976 752,976 797,976 841,976 886,976 931,979 952,979"/>
+               <TextEquiv>
+                  <Unicode>verfolgen von den Autodafés bis zu den Sakrament¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_14" custom="readingOrder {index:13;}">
+               <Coords points="119,1030 982,1013 943,986 119,993"/>
+               <Baseline points="125,1021 149,1015 194,1015 238,1015 283,1015 328,1015 373,1015 417,1018 462,1015 507,1012 552,1015 597,1015 641,1015 686,1015 731,1015 776,1015 821,1015 865,1015 910,1015 955,1015 984,1009"/>
+               <TextEquiv>
+                  <Unicode>spielen Calderons, und von Calderon bis zu den</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_15" custom="readingOrder {index:14;}">
+               <Coords points="119,1061 982,1074 982,1012 929,1038 119,1030"/>
+               <Baseline points="125,1056 170,1053 214,1053 259,1053 304,1053 349,1053 394,1053 438,1053 483,1053 528,1053 573,1053 618,1053 662,1053 707,1053 752,1053 797,1056 841,1053 886,1053 931,1056 958,1056 984,1049"/>
+               <TextEquiv>
+                  <Unicode>Stierkämpfen und ihren bunt-heroischen Aufzügen.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_16" custom="readingOrder {index:15;}">
+               <Coords points="113,1103 981,1109 981,1066 113,1078"/>
+               <Baseline points="119,1095 164,1092 208,1092 253,1095 298,1092 343,1092 388,1095 432,1092 477,1092 522,1092 567,1092 612,1092 656,1092 701,1092 746,1092 791,1092 835,1092 880,1092 925,1095 961,1098 984,1089"/>
+               <TextEquiv>
+                  <Unicode>Von da zu den Filmen, die man zu sehen bekommt,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_17" custom="readingOrder {index:16;}">
+               <Coords points="119,1142 911,1138 879,1101 119,1099"/>
+               <Baseline points="125,1134 152,1134 197,1131 241,1131 286,1131 331,1131 376,1131 420,1131 465,1131 510,1131 555,1131 600,1131 644,1131 689,1131 734,1131 779,1131 824,1131 868,1131 913,1131"/>
+               <TextEquiv>
+                  <Unicode>ist allerdings ein Schritt und eine Stufe abwärts —</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_18" custom="readingOrder {index:17;}">
+               <Coords points="113,1176 981,1172 937,1145 587,1135 113,1154"/>
+               <Baseline points="119,1173 164,1170 208,1170 253,1170 298,1170 343,1170 388,1170 432,1170 477,1170 522,1170 567,1170 612,1170 656,1170 701,1173 746,1170 791,1170 835,1170 880,1173 925,1173 964,1173 984,1171"/>
+               <TextEquiv>
+                  <Unicode>mindestens was Pracht und Buntheit, barockes, reli¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_19" custom="readingOrder {index:18;}">
+               <Coords points="122,1229 949,1221 949,1186 847,1181 122,1191"/>
+               <Baseline points="128,1215 146,1212 191,1209 235,1209 280,1209 325,1209 370,1209 415,1209 459,1209 504,1209 549,1209 594,1209 638,1209 683,1209 728,1209 773,1212 818,1209 862,1209 907,1209 952,1212"/>
+               <TextEquiv>
+                  <Unicode>giöses und heroisches Pathos anbelangt. Nein, das</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_20" custom="readingOrder {index:19;}">
+               <Coords points="113,1257 981,1268 981,1234 935,1221 113,1231"/>
+               <Baseline points="119,1250 164,1248 208,1248 253,1248 298,1248 343,1248 388,1248 432,1248 477,1248 522,1248 567,1248 612,1250 656,1248 701,1248 746,1248 791,1248 835,1248 880,1248 925,1248 958,1250 984,1246"/>
+               <TextEquiv>
+                  <Unicode>Kinopublikum ist herzlich anspruchslos — nur die</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_21" custom="readingOrder {index:20;}">
+               <Coords points="113,1305 880,1287 981,1310 981,1265 897,1260 113,1259"/>
+               <Baseline points="119,1292 155,1289 200,1286 244,1286 289,1286 334,1286 379,1289 423,1286 468,1289 513,1286 558,1286 603,1286 647,1286 692,1286 737,1286 782,1286 827,1286 871,1286 916,1286 961,1286 984,1284"/>
+               <TextEquiv>
+                  <Unicode>Freude am Bewegten, Abenteuerlichen, auch am Sen¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_22" custom="readingOrder {index:21;}">
+               <Coords points="113,1336 981,1335 952,1300 113,1306"/>
+               <Baseline points="119,1328 164,1325 208,1325 253,1328 298,1325 343,1325 388,1328 432,1325 477,1325 522,1328 567,1325 612,1325 656,1325 701,1325 746,1325 791,1325 835,1325 880,1325 925,1325 964,1328 984,1324"/>
+               <TextEquiv>
+                  <Unicode>timentalen ist geblieben. Und daß so bemerkenswert</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_23" custom="readingOrder {index:22;}">
+               <Coords points="113,1374 844,1368 981,1395 981,1352 902,1338 113,1349"/>
+               <Baseline points="119,1367 164,1364 208,1367 253,1364 298,1364 343,1367 388,1364 432,1364 477,1367 522,1367 567,1364 612,1364 656,1364 701,1364 746,1364 791,1364 835,1364 880,1361 925,1364 961,1370 984,1364"/>
+               <TextEquiv>
+                  <Unicode>viele Abenteuerfilme gezeigt werden dürfen — von</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_24" custom="readingOrder {index:23;}">
+               <Coords points="113,1413 885,1405 981,1433 950,1378 113,1374"/>
+               <Baseline points="119,1406 164,1406 208,1403 253,1403 298,1403 343,1403 388,1403 432,1403 477,1403 522,1403 567,1406 612,1406 656,1403 701,1403 746,1403 791,1403 835,1403 880,1403 925,1403 964,1406 984,1404"/>
+               <TextEquiv>
+                  <Unicode>den Wildwest-Cowboys bis zu den Gangsters und</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_25" custom="readingOrder {index:24;}">
+               <Coords points="119,1456 923,1462 981,1428 121,1412"/>
+               <Baseline points="125,1448 155,1445 200,1445 244,1445 289,1442 334,1442 379,1442 423,1442 468,1442 513,1442 558,1442 603,1442 647,1442 692,1442 737,1442 782,1442 827,1442 871,1442 916,1442 961,1442 984,1439"/>
+               <TextEquiv>
+                  <Unicode>Edgar Wallace — das erinnert wieder an den naiven</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_26" custom="readingOrder {index:25;}">
+               <Coords points="113,1496 925,1497 981,1479 982,1447 873,1471 114,1456"/>
+               <Baseline points="119,1483 155,1483 200,1483 244,1480 289,1480 334,1483 379,1483 423,1480 468,1480 513,1480 558,1480 603,1480 647,1480 692,1480 737,1480 782,1480 827,1480 871,1480 916,1480 961,1480 979,1483 984,1483"/>
+               <TextEquiv>
+                  <Unicode>Spaß, den immer wieder die Abenteuer Don Qui¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_27" custom="readingOrder {index:26;}">
+               <Coords points="113,1532 981,1521 918,1491 113,1506"/>
+               <Baseline points="119,1525 152,1519 197,1519 241,1522 286,1519 331,1519 376,1519 420,1519 465,1519 510,1519 555,1519 600,1519 644,1519 689,1519 734,1519 779,1519 824,1519 868,1519 913,1519 958,1519 984,1522"/>
+               <TextEquiv>
+                  <Unicode>chottes breitesten Volksschichten bereiten. Und Don</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_28" custom="readingOrder {index:27;}">
+               <Coords points="113,1570 946,1571 946,1531 113,1539"/>
+               <Baseline points="119,1561 164,1558 208,1558 253,1558 298,1558 343,1558 388,1558 432,1558 477,1558 522,1558 567,1558 612,1558 656,1558 701,1558 746,1558 791,1558 835,1558 880,1558 925,1558 949,1561"/>
+               <TextEquiv>
+                  <Unicode>Quichotte wiederum ist ja doch ein verzerrter Held,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_29" custom="readingOrder {index:28;}">
+               <Coords points="108,1611 946,1609 946,1573 853,1566 108,1579"/>
+               <Baseline points="113,1600 158,1597 203,1600 247,1600 292,1600 337,1597 382,1597 426,1597 471,1597 516,1597 561,1597 606,1597 650,1600 695,1600 740,1597 785,1597 830,1600 874,1597 919,1600 949,1600"/>
+               <TextEquiv>
+                  <Unicode>dem großen Eid blutsverwandt ... Sicher geht ein</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_30" custom="readingOrder {index:29;}">
+               <Coords points="113,1653 949,1650 949,1616 818,1601 113,1611"/>
+               <Baseline points="119,1639 164,1636 208,1639 253,1639 298,1636 343,1639 388,1636 432,1639 477,1639 522,1639 567,1636 612,1636 656,1636 701,1636 746,1636 791,1636 835,1636 880,1636 925,1636 952,1642"/>
+               <TextEquiv>
+                  <Unicode>echter Spanier lieber zum Stierkampf als ins Kino,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_31" custom="readingOrder {index:30;}">
+               <Coords points="113,1682 954,1692 954,1654 820,1643 113,1658"/>
+               <Baseline points="119,1677 164,1674 208,1674 253,1674 298,1674 343,1674 388,1674 432,1674 477,1677 522,1674 567,1674 612,1674 656,1674 701,1674 746,1674 791,1674 835,1674 880,1674 925,1674 955,1677"/>
+               <TextEquiv>
+                  <Unicode>und sicher erwärmt er sich leidenschaftlicher für einen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_32" custom="readingOrder {index:31;}">
+               <Coords points="113,1722 955,1725 937,1684 113,1698"/>
+               <Baseline points="119,1716 164,1713 208,1713 253,1713 298,1713 343,1713 388,1713 432,1713 477,1713 522,1713 567,1713 612,1713 656,1713 701,1713 746,1713 791,1713 835,1713 880,1713 925,1713 958,1716"/>
+               <TextEquiv>
+                  <Unicode>populären Matador als für eine noch so weltberühmte</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_33" custom="readingOrder {index:32;}">
+               <Coords points="122,1763 981,1778 940,1726 122,1734"/>
+               <Baseline points="128,1758 152,1752 197,1752 241,1752 286,1752 331,1752 376,1752 420,1752 465,1752 510,1752 555,1752 600,1752 644,1752 689,1752 734,1752 779,1752 824,1752 868,1752 913,1752 958,1755 984,1767"/>
+               <TextEquiv>
+                  <Unicode>Diva. Und nach dem Stierkampf kommt in den Bas¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_34" custom="readingOrder {index:33;}">
+               <Coords points="116,1800 236,1813 285,1812 306,1797 341,1810 358,1799 385,1812 405,1799 478,1808 483,1767 115,1771"/>
+               <Baseline points="122,1791 167,1791 211,1791 256,1791 301,1791 346,1791 391,1791 435,1791 480,1794 486,1794"/>
+               <TextEquiv>
+                  <Unicode>kenländern die Pelota.\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_35" custom="readingOrder {index:34;}">
+               <Coords points="168,1844 982,1838 937,1800 802,1792 167,1802"/>
+               <Baseline points="173,1833 217,1830 262,1830 307,1830 352,1830 397,1830 441,1830 486,1830 531,1827 576,1830 621,1830 665,1830 710,1830 755,1830 800,1830 844,1830 889,1830 934,1830 955,1833 984,1835"/>
+               <TextEquiv>
+                  <Unicode>\p\Dann aber das Kino — und eben nicht als fest¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_36" custom="readingOrder {index:35;}">
+               <Coords points="116,1879 953,1878 953,1849 884,1838 116,1844"/>
+               <Baseline points="122,1869 167,1869 211,1872 256,1869 301,1869 346,1869 391,1869 435,1869 480,1869 525,1869 570,1869 615,1869 659,1869 704,1869 749,1869 794,1869 838,1869 883,1869 928,1869 955,1869"/>
+               <TextEquiv>
+                  <Unicode>liche, sonntägliche Veranstaltung. Nein, das Kino</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_37" custom="readingOrder {index:36;}">
+               <Coords points="116,1917 821,1907 981,1934 981,1887 945,1877 116,1889"/>
+               <Baseline points="122,1910 152,1907 197,1907 241,1907 286,1907 331,1907 376,1907 420,1907 465,1907 510,1907 555,1907 600,1904 644,1907 689,1907 734,1904 779,1907 824,1907 868,1904 913,1904 958,1907 984,1905"/>
+               <TextEquiv>
+                  <Unicode>gehört zum Werktag, ist spottbillig, beginnt um halb</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_38" custom="readingOrder {index:37;}">
+               <Coords points="116,1962 981,1959 945,1915 116,1926"/>
+               <Baseline points="122,1949 167,1946 211,1946 256,1946 301,1943 346,1943 391,1943 435,1943 480,1943 525,1943 570,1943 615,1946 659,1943 704,1943 749,1943 794,1943 838,1943 883,1943 928,1946 973,1946 984,1942"/>
+               <TextEquiv>
+                  <Unicode>sechs Uhr oder halb acht Uhr, und dauert dann gut</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_39" custom="readingOrder {index:38;}">
+               <Coords points="113,2000 981,2000 971,1956 113,1960"/>
+               <Baseline points="119,1985 164,1982 208,1982 253,1982 298,1982 343,1982 388,1982 432,1982 477,1982 522,1982 567,1982 612,1982 656,1982 701,1982 746,1982 791,1982 835,1982 880,1982 925,1982 964,1988 984,1974"/>
+               <TextEquiv>
+                  <Unicode>und gern bis Mitternacht. Die Arbeiter gehen hin,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_40" custom="readingOrder {index:39;}">
+               <Coords points="113,2038 745,2025 981,2053 981,1999 883,1989 113,2000"/>
+               <Baseline points="119,2024 164,2021 208,2021 253,2021 298,2021 343,2021 388,2021 432,2021 477,2021 522,2021 567,2021 612,2021 656,2021 701,2021 746,2021 791,2021 835,2018 880,2018 925,2021 958,2027 984,2038"/>
+               <TextEquiv>
+                  <Unicode>aber nicht allein, sondern mit ihren Freundinnen,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_41" custom="readingOrder {index:40;}">
+               <Coords points="116,2073 981,2065 947,2031 116,2045"/>
+               <Baseline points="122,2060 167,2060 211,2060 256,2060 301,2060 346,2060 391,2060 435,2057 480,2060 525,2057 570,2057 615,2057 659,2060 704,2057 749,2057 794,2057 838,2057 883,2057 928,2060 958,2060 984,2069"/>
+               <TextEquiv>
+                  <Unicode>mit Frau und Kind, und die Schulbuben besetzen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_42" custom="readingOrder {index:41;}">
+               <Coords points="113,2112 954,2104 928,2069 113,2075"/>
+               <Baseline points="119,2098 149,2098 194,2098 238,2095 283,2098 328,2095 373,2095 417,2095 462,2095 507,2098 552,2095 597,2095 641,2095 686,2095 731,2095 776,2095 821,2095 865,2095 910,2095 955,2095"/>
+               <TextEquiv>
+                  <Unicode>hordenweise die Galerie, prügeln sich ab und zu im</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_43" custom="readingOrder {index:42;}">
+               <Coords points="119,2153 982,2142 975,2107 119,2109"/>
+               <Baseline points="125,2140 158,2134 203,2134 247,2137 292,2134 337,2134 382,2134 426,2134 471,2134 516,2134 561,2134 606,2134 650,2137 695,2134 740,2134 785,2134 830,2134 874,2134 919,2134 964,2137 984,2145"/>
+               <TextEquiv>
+                  <Unicode>Dunkeln, schleudern Nüsse, pfeifen, johlen, brüllen sich</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_44" custom="readingOrder {index:43;}">
+               <Coords points="113,2182 981,2191 981,2153 854,2142 113,2154"/>
+               <Baseline points="119,2176 164,2173 208,2173 253,2173 298,2173 343,2173 388,2173 432,2173 477,2173 522,2173 567,2173 612,2173 656,2173 701,2173 746,2170 791,2173 835,2170 880,2173 925,2173 958,2179 984,2185"/>
+               <TextEquiv>
+                  <Unicode>hemmungslos ihre Eindrücke zu. Daß die Säuglinge</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_45" custom="readingOrder {index:44;}">
+               <Coords points="113,2216 981,2230 918,2180 113,2189"/>
+               <Baseline points="119,2215 164,2212 208,2212 253,2212 298,2212 343,2212 388,2212 432,2212 477,2212 522,2209 567,2209 612,2209 656,2209 701,2209 746,2209 791,2209 835,2209 880,2206 925,2212 958,2215 984,2215"/>
+               <TextEquiv>
+                  <Unicode>häufig zu weinen beginnen wundert keinen — die</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_46" custom="readingOrder {index:45;}">
+               <Coords points="119,2262 982,2253 930,2219 119,2230"/>
+               <Baseline points="125,2254 170,2251 214,2251 259,2248 304,2251 349,2248 394,2251 438,2251 483,2251 528,2251 573,2248 618,2248 662,2248 707,2248 752,2248 797,2248 841,2248 886,2248 931,2251 958,2254 984,2251"/>
+               <TextEquiv>
+                  <Unicode>Mütter beschwichtigen sie, das Publikum ist geduldig.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_47" custom="readingOrder {index:46;}">
+               <Coords points="119,2296 961,2302 962,2262 899,2258 121,2263"/>
+               <Baseline points="125,2290 170,2290 214,2290 259,2287 304,2287 349,2287 394,2287 438,2287 483,2287 528,2287 573,2287 618,2287 662,2287 707,2287 752,2287 797,2287 841,2284 886,2287 931,2287 964,2290"/>
+               <TextEquiv>
+                  <Unicode>Sogar in Barcelona geht es genau so zu. — Auch</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_48" custom="readingOrder {index:47;}">
+               <Coords points="125,2337 958,2337 958,2302 882,2291 125,2301"/>
+               <Baseline points="131,2328 155,2325 200,2325 244,2325 289,2325 334,2325 379,2325 423,2325 468,2325 513,2325 558,2322 603,2325 647,2325 692,2322 737,2322 782,2322 827,2322 871,2322 916,2325 961,2325"/>
+               <TextEquiv>
+                  <Unicode>in ihren Programmen ist diese Weltstadt übrigens</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_49" custom="readingOrder {index:48;}">
+               <Coords points="119,2377 982,2380 982,2351 919,2334 121,2343"/>
+               <Baseline points="125,2367 152,2364 197,2364 241,2364 286,2364 331,2364 376,2364 420,2364 465,2364 510,2361 555,2361 600,2364 644,2361 689,2361 734,2361 779,2361 824,2361 868,2361 913,2361 958,2364 984,2355"/>
+               <TextEquiv>
+                  <Unicode>nicht so "auf dem laufenden", wie man es erwarten</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_50" custom="readingOrder {index:49;}">
+               <Coords points="113,2409 941,2415 941,2376 113,2383"/>
+               <Baseline points="119,2403 164,2403 208,2403 253,2403 298,2403 343,2400 388,2400 432,2400 477,2400 522,2400 567,2400 612,2400 656,2400 701,2400 746,2400 791,2400 835,2400 880,2400 925,2400 943,2403"/>
+               <TextEquiv>
+                  <Unicode>würde. Im Mai konnte man die „Blonde Venus"</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_51" custom="readingOrder {index:50;}">
+               <Coords points="119,2449 982,2466 982,2402 119,2414"/>
+               <Baseline points="125,2445 155,2442 200,2439 244,2439 289,2442 334,2439 379,2439 423,2442 468,2439 513,2439 558,2442 603,2439 647,2439 692,2439 737,2439 782,2439 827,2439 871,2439 916,2439 961,2442 984,2451"/>
+               <TextEquiv>
+                  <Unicode>sehen — also mit einer Verspätung von einem halben</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_52" custom="readingOrder {index:51;}">
+               <Coords points="122,2492 981,2501 944,2447 122,2459"/>
+               <Baseline points="128,2487 158,2478 203,2481 247,2481 292,2478 337,2478 382,2478 426,2478 471,2478 516,2478 561,2478 606,2481 650,2478 695,2478 740,2478 785,2478 830,2478 874,2475 919,2478 964,2481 984,2487"/>
+               <TextEquiv>
+                  <Unicode>Jahr gegenüber Mitteleuropa. In der Provinz sind</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_53" custom="readingOrder {index:52;}">
+               <Coords points="113,2517 206,2541 981,2520 835,2483 113,2491"/>
+               <Baseline points="119,2516 164,2516 208,2516 253,2516 298,2516 343,2516 388,2516 432,2516 477,2516 522,2516 567,2516 612,2516 656,2516 701,2516 746,2513 791,2513 835,2513 880,2513 925,2516 964,2516 984,2521"/>
+               <TextEquiv>
+                  <Unicode>die Programme ziemlich stereotyp: ein amerikanischer</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_54" custom="readingOrder {index:53;}">
+               <Coords points="119,2566 982,2564 982,2520 119,2529"/>
+               <Baseline points="125,2558 170,2555 214,2555 259,2552 304,2555 349,2555 394,2555 438,2555 483,2555 528,2555 573,2555 618,2555 662,2555 707,2555 752,2552 797,2552 841,2552 886,2552 931,2552 961,2558 984,2556"/>
+               <TextEquiv>
+                  <Unicode>Film — meistens ziemlich alt, immer abenteuerlich,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_55" custom="readingOrder {index:54;}">
+               <Coords points="119,2599 982,2598 982,2565 910,2560 119,2566"/>
+               <Baseline points="125,2594 155,2594 200,2594 244,2594 289,2594 334,2594 379,2591 423,2591 468,2591 513,2591 558,2591 603,2591 647,2591 692,2591 737,2591 782,2591 827,2591 871,2588 916,2591 961,2591 984,2593"/>
+               <TextEquiv>
+                  <Unicode>sehr viel Detektivfilme (welche Mühe für uns Aus¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_56" custom="readingOrder {index:55;}">
+               <Coords points="122,2634 981,2637 981,2600 122,2605"/>
+               <Baseline points="128,2633 152,2630 197,2630 241,2630 286,2627 331,2630 376,2630 420,2630 465,2630 510,2630 555,2630 600,2630 644,2630 689,2630 734,2627 779,2630 824,2627 868,2627 913,2630 958,2630 984,2625"/>
+               <TextEquiv>
+                  <Unicode>länder — denn der englische Ton war meistens</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_57" custom="readingOrder {index:56;}">
+               <Coords points="119,2681 982,2696 982,2657 910,2637 119,2642"/>
+               <Baseline points="125,2672 164,2669 208,2669 253,2669 298,2669 343,2669 388,2669 432,2669 477,2669 522,2666 567,2666 612,2669 656,2666 701,2666 746,2666 791,2666 835,2666 880,2666 925,2666 970,2669 984,2666"/>
+               <TextEquiv>
+                  <Unicode>schlecht übertragen, und die spanischen Textstreifen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_58" custom="readingOrder {index:57;}">
+               <Coords points="113,2722 954,2718 954,2675 113,2684"/>
+               <Baseline points="119,2708 149,2705 194,2705 238,2705 283,2708 328,2705 373,2705 417,2705 462,2705 507,2705 552,2705 597,2705 641,2705 686,2705 731,2705 776,2705 821,2702 865,2702 910,2705 955,2705"/>
+               <TextEquiv>
+                  <Unicode>konnten wir in der Eile auch nicht verstehen) — nach¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_59" custom="readingOrder {index:58;}">
+               <Coords points="113,2749 766,2765 919,2741 876,2709 113,2726"/>
+               <Baseline points="119,2746 161,2746 206,2743 250,2743 295,2743 340,2743 385,2743 429,2743 474,2743 519,2743 564,2743 609,2743 653,2743 698,2743 743,2740 788,2743 833,2740 877,2740 922,2740"/>
+               <TextEquiv>
+                  <Unicode>her, im zweiten Teil, folgt ein spanischer Film —</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_60" custom="readingOrder {index:59;}">
+               <Coords points="116,2793 953,2788 953,2750 116,2754"/>
+               <Baseline points="122,2782 149,2782 194,2782 238,2782 283,2782 328,2782 373,2782 417,2782 462,2782 507,2782 552,2782 597,2782 641,2779 686,2779 731,2779 776,2779 821,2779 865,2779 910,2779 955,2776"/>
+               <TextEquiv>
+                  <Unicode>das bedeutet meistens: ein Film, der von einer ameri¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_61" custom="readingOrder {index:60;}">
+               <Coords points="116,2832 955,2834 955,2800 917,2788 793,2811 745,2788 116,2795"/>
+               <Baseline points="122,2818 167,2821 211,2821 256,2821 301,2821 346,2821 391,2818 435,2818 480,2818 525,2821 570,2818 615,2818 659,2818 704,2818 749,2818 794,2818 838,2818 883,2818 928,2818 958,2821"/>
+               <TextEquiv>
+                  <Unicode>kanischen Produktionsgesellschaft mit spanischen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_62" custom="readingOrder {index:61;}">
+               <Coords points="125,2874 982,2891 982,2838 936,2830 125,2833"/>
+               <Baseline points="131,2860 158,2857 203,2857 247,2860 292,2857 337,2857 382,2857 426,2857 471,2857 516,2857 561,2857 606,2857 650,2857 695,2857 740,2857 785,2857 830,2854 874,2854 919,2857 964,2857 984,2862"/>
+               <TextEquiv>
+                  <Unicode>Schauspielern und spanischen Regisseuren hergestellt</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_63" custom="readingOrder {index:62;}">
+               <Coords points="119,2909 146,2924 161,2913 188,2906 215,2912 223,2907 238,2909 237,2881 229,2883 213,2871 193,2866 177,2877 169,2872 159,2877 118,2873"/>
+               <Baseline points="125,2899 170,2896 214,2899 241,2899"/>
+               <TextEquiv>
+                  <Unicode>wurde.\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_64" custom="readingOrder {index:63;}">
+               <Coords points="173,2942 981,2936 942,2897 843,2887 173,2908"/>
+               <Baseline points="179,2937 194,2934 238,2931 283,2934 328,2934 373,2931 417,2931 462,2931 507,2931 552,2931 597,2931 641,2931 686,2931 731,2931 776,2931 821,2931 865,2931 910,2931 955,2934 984,2932"/>
+               <TextEquiv>
+                  <Unicode>\p\Und hier begibt sich nun das Erstaunliche: die</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_65" custom="readingOrder {index:64;}">
+               <Coords points="119,2977 982,2975 932,2939 358,2958 119,2934"/>
+               <Baseline points="125,2976 161,2973 206,2973 250,2973 295,2973 340,2973 385,2973 429,2970 474,2970 519,2970 564,2970 609,2970 653,2970 698,2970 743,2970 788,2970 833,2970 877,2967 922,2970 967,2967 984,2969"/>
+               <TextEquiv>
+                  <Unicode>Filme wirken, als seien sie für ein Fremdenpublikum</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_66" custom="readingOrder {index:65;}">
+               <Coords points="113,3021 955,3028 940,2984 113,2993"/>
+               <Baseline points="119,3012 164,3012 208,3012 253,3012 298,3009 343,3009 388,3009 432,3009 477,3009 522,3009 567,3009 612,3009 656,3009 701,3009 746,3009 791,3009 835,3009 880,3009 925,3009 958,3015"/>
+               <TextEquiv>
+                  <Unicode>berechnet, dem man das ach so romantische, das ganz</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_67" custom="readingOrder {index:66;}">
+               <Coords points="125,3059 953,3056 953,3028 816,3015 125,3026"/>
+               <Baseline points="131,3051 149,3051 194,3051 238,3048 283,3051 328,3048 373,3048 417,3048 462,3048 507,3048 552,3048 597,3048 641,3048 686,3048 731,3048 776,3045 821,3045 865,3045 910,3048 955,3048"/>
+               <TextEquiv>
+                  <Unicode>im Süden, in Andalusien vielleicht noch vorhandene</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_68" custom="readingOrder {index:67;}">
+               <Coords points="116,3098 981,3100 921,3057 307,3080 245,3058 204,3083 117,3062"/>
+               <Baseline points="122,3090 158,3090 203,3090 247,3090 292,3087 337,3090 382,3087 426,3087 471,3087 516,3087 561,3087 606,3087 650,3087 695,3087 740,3087 785,3087 830,3084 874,3087 919,3087 964,3087 984,3080"/>
+               <TextEquiv>
+                  <Unicode>mit allen sentimental-konservativen Reminiszenzen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_69" custom="readingOrder {index:68;}">
+               <Coords points="125,3141 955,3141 947,3094 125,3102"/>
+               <Baseline points="131,3128 152,3125 197,3125 241,3125 286,3125 331,3125 376,3125 420,3125 465,3125 510,3125 555,3125 600,3125 644,3125 689,3123 734,3123 779,3123 824,3123 868,3123 913,3123 958,3125"/>
+               <TextEquiv>
+                  <Unicode>behaftete Spanien mundgerecht machen wollte. Und</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_70" custom="readingOrder {index:69;}">
+               <Coords points="113,3166 981,3178 937,3136 113,3144"/>
+               <Baseline points="119,3164 164,3164 208,3164 253,3164 298,3164 343,3164 388,3164 432,3164 477,3164 522,3164 567,3161 612,3161 656,3161 701,3161 746,3161 791,3161 835,3161 880,3161 925,3164 958,3164 984,3176"/>
+               <TextEquiv>
+                  <Unicode>doch waren wir in Huesca und in Seo de Urgel, in</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_71" custom="readingOrder {index:70;}">
+               <Coords points="119,3213 982,3215 928,3169 488,3196 119,3177"/>
+               <Baseline points="125,3209 164,3203 208,3203 253,3203 298,3203 343,3203 388,3203 432,3203 477,3203 522,3203 567,3203 612,3200 656,3200 701,3200 746,3200 791,3200 835,3200 880,3200 925,3200 970,3203 984,3209"/>
+               <TextEquiv>
+                  <Unicode>Jaca und Pamplona gewiß die einzigen, weidlich</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_72" custom="readingOrder {index:71;}">
+               <Coords points="119,3252 982,3242 982,3216 912,3208 119,3214"/>
+               <Baseline points="125,3245 158,3245 203,3242 247,3242 292,3242 337,3242 382,3242 426,3242 471,3242 516,3242 561,3242 606,3239 650,3239 695,3239 740,3239 785,3239 830,3239 874,3239 919,3239 964,3242 984,3242"/>
+               <TextEquiv>
+                  <Unicode>bestaunten Ausländer! Nein, die Spanier selbst lieben</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_73" custom="readingOrder {index:72;}">
+               <Coords points="125,3296 982,3296 982,3253 947,3249 125,3251"/>
+               <Baseline points="131,3284 152,3281 197,3281 241,3281 286,3281 331,3281 376,3281 420,3281 465,3281 510,3281 555,3278 600,3278 644,3278 689,3278 734,3278 779,3278 824,3278 868,3278 913,3278 958,3281 984,3281"/>
+               <TextEquiv>
+                  <Unicode>dieses Märchen-Spanien, stilisieren es, machen sich</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_74" custom="readingOrder {index:73;}">
+               <Coords points="119,3333 982,3329 982,3297 917,3287 119,3301"/>
+               <Baseline points="125,3326 164,3320 208,3320 253,3320 298,3320 343,3320 388,3320 432,3320 477,3320 522,3317 567,3317 612,3317 656,3317 701,3317 746,3317 791,3317 835,3314 880,3317 925,3317 970,3320 984,3316"/>
+               <TextEquiv>
+                  <Unicode>zugleich darüber lustig: da kommen immer dieselben</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_75" custom="readingOrder {index:74;}">
+               <Coords points="122,3374 981,3364 955,3324 122,3339"/>
+               <Baseline points="128,3364 155,3361 200,3358 244,3358 289,3358 334,3358 379,3358 423,3358 468,3358 513,3358 558,3355 603,3355 647,3355 692,3355 737,3355 782,3355 827,3355 871,3352 916,3355 961,3352 984,3350"/>
+               <TextEquiv>
+                  <Unicode>Figuren vor wie Bajazzo und Harlekin in der italie¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_76" custom="readingOrder {index:75;}">
+               <Coords points="119,3410 982,3404 983,3376 814,3363 634,3389 121,3377"/>
+               <Baseline points="125,3400 164,3397 208,3397 253,3397 298,3397 343,3394 388,3394 432,3397 477,3397 522,3397 567,3397 612,3397 656,3394 701,3394 746,3391 791,3394 835,3391 880,3394 925,3394 970,3397 984,3411"/>
+               <TextEquiv>
+                  <Unicode>nischen Komödie: ein strenger, aber wohlwollender</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_77" custom="readingOrder {index:76;}">
+               <Coords points="119,3443 958,3439 958,3403 119,3410"/>
+               <Baseline points="125,3436 155,3436 200,3436 244,3436 289,3436 334,3436 379,3436 423,3433 468,3433 513,3436 558,3433 603,3433 647,3436 692,3433 737,3433 782,3433 827,3433 871,3430 916,3430 961,3433"/>
+               <TextEquiv>
+                  <Unicode>Vater, eine schmachtende, üppige, wohlbehütete und</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_78" custom="readingOrder {index:77;}">
+               <Coords points="122,3481 901,3488 962,3484 964,3449 123,3450"/>
+               <Baseline points="128,3475 173,3475 217,3475 262,3475 307,3472 352,3472 397,3475 441,3475 486,3472 531,3472 576,3472 621,3472 665,3472 710,3472 755,3469 800,3469 844,3469 889,3469 934,3472 964,3475"/>
+               <TextEquiv>
+                  <Unicode>liebreizende Tochter, ihre Duenna, ihr durchaus</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_79" custom="readingOrder {index:78;}">
+               <Coords points="125,3529 982,3512 953,3481 125,3484"/>
+               <Baseline points="131,3517 167,3514 211,3514 256,3514 301,3511 346,3514 391,3511 435,3511 480,3511 525,3511 570,3511 615,3511 659,3511 704,3511 749,3511 794,3511 838,3511 883,3511 928,3511 973,3511 984,3518"/>
+               <TextEquiv>
+                  <Unicode>schlechter, betrügerischer und dämonischer Freier, und</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_80" custom="readingOrder {index:79;}">
+               <Coords points="125,3557 982,3553 947,3521 125,3538"/>
+               <Baseline points="131,3552 152,3552 197,3549 241,3549 286,3549 331,3549 376,3549 420,3549 465,3549 510,3549 555,3549 600,3549 644,3549 689,3549 734,3549 779,3549 824,3546 868,3549 913,3546 958,3549 984,3554"/>
+               <TextEquiv>
+                  <Unicode>endlich der Liebhaber, ein Kavalier, ein Sänger, mei¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_81" custom="readingOrder {index:80;}">
+               <Coords points="125,3603 982,3604 982,3563 927,3557 125,3568"/>
+               <Baseline points="131,3594 155,3591 200,3588 244,3591 289,3591 334,3588 379,3588 423,3588 468,3588 513,3588 558,3588 603,3588 647,3588 692,3588 737,3585 782,3588 827,3585 871,3585 916,3585 961,3588 984,3588"/>
+               <TextEquiv>
+                  <Unicode>stens arm, meistens am Schluß reich, vor allem aber</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_82" custom="readingOrder {index:81;}">
+               <Coords points="128,3639 955,3632 955,3592 128,3606"/>
+               <Baseline points="134,3633 152,3627 197,3627 241,3627 286,3627 331,3627 376,3627 420,3627 465,3627 510,3627 555,3627 600,3627 644,3624 689,3627 734,3627 779,3627 824,3624 868,3624 913,3624 958,3627"/>
+               <TextEquiv>
+                  <Unicode>ritterlich und musikalisch. Mit diesen Figuren wird</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_83" custom="readingOrder {index:82;}">
+               <Coords points="125,3677 982,3670 966,3637 839,3632 125,3651"/>
+               <Baseline points="131,3672 152,3669 197,3669 241,3666 286,3666 331,3666 376,3666 420,3666 465,3663 510,3663 555,3663 600,3663 644,3663 689,3663 734,3663 779,3663 824,3663 868,3663 913,3663 958,3666 984,3664"/>
+               <TextEquiv>
+                  <Unicode>gespielt — in Gartenbosketten, bei Maskenfesten, auf</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_84" custom="readingOrder {index:83;}">
+               <Coords points="119,3715 982,3705 946,3674 119,3678"/>
+               <Baseline points="125,3708 158,3705 203,3705 247,3705 292,3705 337,3705 382,3705 426,3705 471,3705 516,3702 561,3702 606,3702 650,3702 695,3702 740,3702 785,3702 830,3702 874,3699 919,3702 964,3702 984,3698"/>
+               <TextEquiv>
+                  <Unicode>dem Balkon, in der volkstümlichen Kneipe — die</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_85" custom="readingOrder {index:84;}">
+               <Coords points="125,3758 958,3753 958,3719 885,3706 125,3715"/>
+               <Baseline points="131,3747 155,3744 200,3744 244,3747 289,3744 334,3744 379,3744 423,3744 468,3744 513,3741 558,3741 603,3741 647,3741 692,3741 737,3741 782,3741 827,3741 871,3738 916,3741 961,3741"/>
+               <TextEquiv>
+                  <Unicode>Liebesszenen gleichen sich haarscharf, der Liebhaber</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_86" custom="readingOrder {index:85;}">
+               <Coords points="125,3801 961,3791 950,3752 125,3758"/>
+               <Baseline points="131,3788 158,3782 203,3782 247,3782 292,3782 337,3782 382,3782 426,3782 471,3779 516,3779 561,3779 606,3779 650,3779 695,3779 740,3779 785,3779 830,3779 874,3779 919,3779 964,3782"/>
+               <TextEquiv>
+                  <Unicode>sinkt auf ein Knie, das Mädchen flieht mehrmals,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_87" custom="readingOrder {index:86;}">
+               <Coords points="119,3833 955,3829 934,3787 119,3801"/>
+               <Baseline points="125,3824 152,3821 197,3821 241,3821 286,3821 331,3821 376,3821 420,3821 465,3818 510,3818 555,3818 600,3818 644,3818 689,3818 734,3818 779,3818 824,3818 868,3818 913,3818 958,3821"/>
+               <TextEquiv>
+                  <Unicode>bevor sie ihn erhört, er singt nachts vor ihrem Fenster.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_88" custom="readingOrder {index:87;}">
+               <Coords points="125,3874 982,3868 948,3829 125,3831"/>
+               <Baseline points="131,3866 155,3863 200,3863 244,3860 289,3860 334,3860 379,3860 423,3857 468,3857 513,3857 558,3857 603,3857 647,3857 692,3857 737,3857 782,3857 827,3857 871,3857 916,3857 961,3860 984,3864"/>
+               <TextEquiv>
+                  <Unicode>Ja, so spielt sich alles ab, schon seit Don Juan und</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_89" custom="readingOrder {index:88;}">
+               <Coords points="122,3913 981,3918 981,3881 940,3866 122,3878"/>
+               <Baseline points="128,3902 173,3899 217,3899 262,3899 307,3896 352,3896 397,3896 441,3896 486,3896 531,3896 576,3893 621,3896 665,3896 710,3896 755,3893 800,3896 844,3893 889,3896 934,3896 979,3902 984,3902"/>
+               <TextEquiv>
+                  <Unicode>dem Barbier von Sevilla, und so muß es sich weiterhin</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="975,385 1843,385 1843,1600 975,1600"/>
+            <TextLine id="r_2_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="985,428 1840,429 1840,400 1774,392 985,403"/>
+               <Baseline points="991,423 1036,423 1080,420 1125,423 1170,420 1215,420 1259,420 1304,420 1349,420 1394,423 1439,423 1483,423 1528,423 1573,423 1618,423 1663,423 1707,420 1752,420 1797,420 1830,423 1843,423"/>
+               <TextEquiv>
+                  <Unicode>abspielen, weil die Spanier ein konservatives Volk</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="985,477 1840,464 1798,430 985,432"/>
+               <Baseline points="991,462 1036,459 1080,462 1125,462 1170,462 1215,462 1259,462 1304,459 1349,462 1394,459 1439,462 1483,462 1528,462 1573,462 1618,462 1663,462 1707,459 1752,459 1797,459 1821,465 1843,460"/>
+               <TextEquiv>
+                  <Unicode>sind, ganz gleich, ob Bauern, Fischer, Matrosen oder</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_3" custom="readingOrder {index:2;}">
+               <Coords points="988,515 1840,500 1797,468 988,477"/>
+               <Baseline points="994,501 1015,501 1059,498 1104,498 1149,498 1194,498 1239,498 1283,498 1328,498 1373,498 1418,498 1462,498 1507,501 1552,498 1597,498 1642,501 1686,501 1731,498 1776,498 1821,498 1843,494"/>
+               <TextEquiv>
+                  <Unicode>Fabrikarbeiter. Und so nähern sich diese spanischen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_4" custom="readingOrder {index:3;}">
+               <Coords points="985,555 1840,553 1840,520 1655,504 1548,531 1500,505 985,516"/>
+               <Baseline points="991,543 1036,537 1080,537 1125,537 1170,537 1215,537 1259,537 1304,537 1349,540 1394,537 1439,537 1483,537 1528,540 1573,537 1618,537 1663,537 1707,537 1752,537 1797,537 1830,543 1843,533"/>
+               <TextEquiv>
+                  <Unicode>Filme immer mehr der Spieloper — nicht nur dem</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_5" custom="readingOrder {index:4;}">
+               <Coords points="985,579 1810,597 1794,547 985,555"/>
+               <Baseline points="991,576 1036,576 1080,576 1125,576 1170,579 1215,576 1259,579 1304,576 1349,576 1394,576 1439,576 1483,576 1528,576 1573,576 1618,576 1663,576 1707,576 1752,576 1797,579 1812,582"/>
+               <TextEquiv>
+                  <Unicode>Sujet nach, auch formal. Da wird immer mehr ge¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_6" custom="readingOrder {index:5;}">
+               <Coords points="985,627 1840,632 1840,603 1772,588 985,591"/>
+               <Baseline points="991,618 1036,615 1080,615 1125,615 1170,615 1215,615 1259,615 1304,615 1349,615 1394,615 1439,615 1483,615 1528,618 1573,615 1618,615 1663,615 1707,615 1752,615 1797,615 1830,618 1843,626"/>
+               <TextEquiv>
+                  <Unicode>sungen, Held, Buffo und Diva haben ihre Solo-Arien,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_7" custom="readingOrder {index:6;}">
+               <Coords points="969,671 1764,673 1764,631 1708,624 1223,644 969,616"/>
+               <Baseline points="975,660 985,656 1006,653 1050,653 1095,653 1140,653 1185,653 1230,653 1274,653 1319,653 1364,653 1409,653 1454,653 1498,653 1543,653 1588,653 1633,653 1677,653 1722,653 1767,653"/>
+               <TextEquiv>
+                  <Unicode>das Publikum spendet begeistert Zwischenbeifall —</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_8" custom="readingOrder {index:7;}">
+               <Coords points="988,704 1840,701 1789,663 988,675"/>
+               <Baseline points="994,692 1039,692 1083,692 1128,692 1173,692 1218,692 1262,692 1307,692 1352,692 1397,692 1442,692 1486,692 1531,692 1576,692 1621,692 1666,692 1710,692 1755,692 1800,692 1824,695 1843,695"/>
+               <TextEquiv>
+                  <Unicode>auch der Aufbau, mit der Katastrophe im zweiten Akt,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_9" custom="readingOrder {index:8;}">
+               <Coords points="985,743 1818,741 1818,707 1787,703 985,704"/>
+               <Baseline points="991,731 1036,731 1080,731 1125,731 1170,731 1215,731 1259,731 1304,731 1349,731 1394,731 1439,731 1483,731 1528,731 1573,731 1618,731 1663,731 1707,731 1752,731 1797,731 1821,734"/>
+               <TextEquiv>
+                  <Unicode>der raschen und glücklichen Lösung im dritten, hat</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_10" custom="readingOrder {index:9;}">
+               <Coords points="969,786 1818,801 1818,744 969,735"/>
+               <Baseline points="975,782 991,773 1015,770 1059,770 1104,770 1149,770 1194,770 1239,770 1283,770 1328,770 1373,767 1418,770 1462,770 1507,770 1552,770 1597,770 1642,770 1686,770 1731,770 1776,767 1821,770"/>
+               <TextEquiv>
+                  <Unicode>mit Film überhaupt nichts zu tun, ist ältestes Opern¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_11" custom="readingOrder {index:10;}">
+               <Coords points="985,824 998,820 1010,826 1022,824 1033,832 1057,819 1067,818 1082,827 1096,819 1122,821 1121,785 1097,780 1067,784 1058,792 1049,784 1040,788 1018,780 984,789"/>
+               <Baseline points="991,809 1036,809 1080,809 1125,812"/>
+               <TextEquiv>
+                  <Unicode>requisit.\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_12" custom="readingOrder {index:11;}">
+               <Coords points="1035,860 1816,867 1816,817 1550,815 1522,840 1368,813 1035,824"/>
+               <Baseline points="1041,853 1086,850 1131,850 1176,850 1221,850 1265,850 1310,850 1355,847 1400,847 1445,847 1489,847 1534,847 1579,850 1624,850 1668,850 1713,850 1758,847 1803,850 1818,853"/>
+               <TextEquiv>
+                  <Unicode>\p\Drüben in San Sebastian — wo es um diese</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_13" custom="readingOrder {index:12;}">
+               <Coords points="985,903 1840,894 1840,866 1755,860 985,855"/>
+               <Baseline points="991,895 1015,889 1059,889 1104,889 1149,889 1194,889 1239,889 1283,889 1328,889 1373,889 1418,889 1462,889 1507,889 1552,889 1597,889 1642,889 1686,886 1731,889 1776,889 1821,889 1843,895"/>
+               <TextEquiv>
+                  <Unicode>Jahreszeit auch noch keine Fremden gibt — bekamen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_14" custom="readingOrder {index:13;}">
+               <Coords points="969,959 1056,929 1841,937 1841,909 1783,897 969,912"/>
+               <Baseline points="975,921 985,931 1030,928 1074,928 1119,928 1164,928 1209,928 1253,928 1298,928 1343,928 1388,928 1433,928 1477,928 1522,928 1567,931 1612,928 1657,928 1701,928 1746,928 1791,928 1833,931 1843,933"/>
+               <TextEquiv>
+                  <Unicode>wir dann einen Strohheim-Film zu sehen, und die</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_15" custom="readingOrder {index:14;}">
+               <Coords points="988,981 1840,971 1840,942 1771,936 988,943"/>
+               <Baseline points="994,973 1024,967 1068,967 1113,967 1158,970 1203,970 1248,967 1292,967 1337,967 1382,967 1427,970 1471,967 1516,967 1561,967 1606,970 1651,970 1695,967 1740,967 1785,967 1830,970 1843,970"/>
+               <TextEquiv>
+                  <Unicode>französische Version des Jannings-Films „Stürme</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_16" custom="readingOrder {index:15;}">
+               <Coords points="969,1018 1840,1018 1829,973 969,984"/>
+               <Baseline points="975,1011 988,1009 1033,1006 1077,1006 1122,1006 1167,1006 1212,1006 1256,1006 1301,1003 1346,1006 1391,1006 1436,1006 1480,1009 1525,1009 1570,1006 1615,1009 1660,1006 1704,1006 1749,1009 1794,1009 1830,1009 1843,1006"/>
+               <TextEquiv>
+                  <Unicode>der Leidenschaft“ — und wir hatten wieder einmal</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_17" custom="readingOrder {index:16;}">
+               <Coords points="969,1073 1125,1048 1840,1066 1826,1023 969,1023"/>
+               <Baseline points="975,1052 991,1047 1036,1047 1080,1047 1125,1047 1170,1047 1215,1044 1259,1044 1304,1044 1349,1044 1394,1047 1439,1047 1483,1047 1528,1047 1573,1047 1618,1047 1663,1047 1707,1047 1752,1047 1797,1047 1830,1047 1843,1042"/>
+               <TextEquiv>
+                  <Unicode>Ursache, über die beinahe unlöslichen Probleme, die</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_18" custom="readingOrder {index:17;}">
+               <Coords points="969,1103 1840,1106 1840,1069 1776,1056 969,1053"/>
+               <Baseline points="975,1093 991,1086 1036,1086 1080,1086 1125,1086 1170,1086 1215,1086 1259,1086 1304,1086 1349,1086 1394,1083 1439,1086 1483,1086 1528,1086 1573,1086 1618,1086 1663,1086 1707,1086 1752,1086 1797,1086 1827,1086 1843,1096"/>
+               <TextEquiv>
+                  <Unicode>der Tonfilm ausgibt, uns Gedanken zu machen: denn</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_19" custom="readingOrder {index:18;}">
+               <Coords points="985,1137 1822,1141 1822,1107 1739,1096 985,1108"/>
+               <Baseline points="991,1125 1036,1125 1080,1125 1125,1125 1170,1125 1215,1125 1259,1125 1304,1125 1349,1125 1394,1128 1439,1125 1483,1125 1528,1125 1573,1125 1618,1125 1663,1125 1707,1125 1752,1125 1797,1125 1824,1128"/>
+               <TextEquiv>
+                  <Unicode>es war nicht der gleiche Film, und die französische</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_20" custom="readingOrder {index:19;}">
+               <Coords points="969,1176 1840,1175 1840,1139 1042,1131 969,1156"/>
+               <Baseline points="975,1172 997,1170 1012,1167 1056,1164 1101,1167 1146,1164 1191,1164 1236,1164 1280,1164 1325,1164 1370,1164 1415,1164 1459,1164 1504,1164 1549,1167 1594,1164 1639,1164 1683,1164 1728,1164 1773,1167 1818,1164 1843,1171"/>
+               <TextEquiv>
+                  <Unicode>Fassung war unvergleichlich viel besser und aufregen¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_21" custom="readingOrder {index:20;}">
+               <Coords points="991,1213 1840,1214 1819,1176 991,1177"/>
+               <Baseline points="997,1206 1041,1203 1086,1203 1131,1203 1176,1203 1221,1203 1265,1203 1310,1203 1355,1200 1400,1203 1445,1203 1489,1206 1534,1206 1579,1206 1624,1206 1668,1206 1713,1206 1758,1203 1803,1206 1833,1206 1843,1206"/>
+               <TextEquiv>
+                  <Unicode>der als die deutsche — und jeder Film dürfte doch</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_22" custom="readingOrder {index:21;}">
+               <Coords points="969,1268 1818,1264 1790,1214 969,1226"/>
+               <Baseline points="975,1247 991,1245 1036,1245 1080,1242 1125,1245 1170,1245 1215,1245 1259,1245 1304,1245 1349,1245 1394,1245 1439,1245 1483,1245 1528,1245 1573,1245 1618,1245 1663,1245 1707,1245 1752,1248 1797,1248 1821,1248"/>
+               <TextEquiv>
+                  <Unicode>nur in einer einzigen Fassung gedreht und gezeigt</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_23" custom="readingOrder {index:22;}">
+               <Coords points="969,1293 1840,1292 1840,1265 1638,1251 969,1268"/>
+               <Baseline points="975,1285 991,1283 1036,1283 1080,1283 1125,1283 1170,1283 1215,1283 1259,1280 1304,1283 1349,1283 1394,1283 1439,1286 1483,1286 1528,1283 1573,1283 1618,1283 1663,1283 1707,1283 1752,1286 1797,1283 1827,1283 1843,1279"/>
+               <TextEquiv>
+                  <Unicode>werden, nämlich der besten... Eine spanische Version</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_24" custom="readingOrder {index:23;}">
+               <Coords points="969,1355 1022,1330 1818,1333 1817,1298 969,1308"/>
+               <Baseline points="975,1326 991,1322 1036,1319 1080,1319 1125,1322 1170,1322 1215,1322 1259,1322 1304,1319 1349,1322 1394,1322 1439,1322 1483,1322 1528,1322 1573,1322 1618,1322 1663,1325 1707,1322 1752,1325 1797,1325 1821,1325"/>
+               <TextEquiv>
+                  <Unicode>blieb uns erspart — es bleibt also zu hoffen, daß es</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_25" custom="readingOrder {index:24;}">
+               <Coords points="969,1395 1017,1370 1818,1375 1810,1337 969,1346"/>
+               <Baseline points="975,1367 985,1364 1030,1361 1074,1361 1119,1361 1164,1361 1209,1361 1253,1361 1298,1361 1343,1361 1388,1361 1433,1361 1477,1361 1522,1364 1567,1364 1612,1364 1657,1364 1701,1361 1746,1364 1791,1364 1821,1367"/>
+               <TextEquiv>
+                  <Unicode>die Produktion zu teuer zu stehen käme, jedem Land</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_26" custom="readingOrder {index:25;}">
+               <Coords points="969,1411 1815,1416 1815,1376 1740,1372 969,1393"/>
+               <Baseline points="975,1405 991,1403 1036,1400 1080,1400 1125,1400 1170,1403 1215,1403 1259,1400 1304,1400 1349,1400 1394,1400 1439,1403 1483,1403 1528,1403 1573,1403 1618,1403 1663,1400 1707,1400 1752,1400 1797,1403 1818,1409"/>
+               <TextEquiv>
+                  <Unicode>jeden großen Film besonders zu servieren — so das</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_27" custom="readingOrder {index:26;}">
+               <Coords points="969,1447 1815,1461 1806,1415 1686,1406 969,1431"/>
+               <Baseline points="975,1440 985,1439 1030,1439 1074,1442 1119,1439 1164,1442 1209,1442 1253,1442 1298,1442 1343,1442 1388,1439 1433,1442 1477,1442 1522,1442 1567,1442 1612,1442 1657,1442 1701,1442 1746,1442 1791,1442 1818,1445"/>
+               <TextEquiv>
+                  <Unicode>doch einige internationale „Höchstleistungen" über die</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_28" custom="readingOrder {index:27;}">
+               <Coords points="969,1510 1166,1481 1330,1513 1840,1487 1826,1452 1311,1470 969,1445"/>
+               <Baseline points="975,1483 979,1483 1024,1477 1068,1477 1113,1477 1158,1480 1203,1480 1248,1480 1292,1480 1337,1480 1382,1480 1427,1480 1471,1480 1516,1480 1561,1480 1606,1480 1651,1480 1695,1483 1740,1483 1785,1483 1830,1483 1842,1483 1843,1483"/>
+               <TextEquiv>
+                  <Unicode>nationalen Grenzen hinweg dem Publikum gegönnt</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_29" custom="readingOrder {index:28;}">
+               <Coords points="969,1529 1033,1544 1094,1542 1112,1527 1143,1546 1204,1532 1234,1536 1234,1496 1200,1498 1164,1483 1107,1504 995,1491 969,1506"/>
+               <Baseline points="975,1521 985,1522 1030,1519 1074,1519 1119,1519 1164,1519 1209,1519 1236,1522"/>
+               <TextEquiv>
+                  <Unicode>werden müssen.\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_30" custom="readingOrder {index:29;}">
+               <Coords points="1201,1587 1792,1597 1791,1542 1623,1551 1486,1525 1343,1550 1256,1527 1200,1548"/>
+               <Baseline points="1206,1567 1250,1567 1295,1567 1340,1567 1385,1567 1430,1567 1474,1567 1519,1570 1564,1570 1609,1570 1654,1570 1698,1570 1743,1567 1788,1573 1794,1573"/>
+               <TextEquiv>
+                  <Unicode>\g\Annemarie Schwarzenbach\:g\.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+      </Page>
+   </PcGts>
+</validation-wrapper>

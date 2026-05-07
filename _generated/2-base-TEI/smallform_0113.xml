@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0113" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0113#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0113</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0113"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0113_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0113_001.png"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_tl_1"/>Kino 
+               <lb xml:id="p001_r_tl_2"/>in der spanischen Provinz</p>
+            <p> 
+               <lb xml:id="p001_r_tl_3"/>Kinos gibt es überall: in den kleinsten Orten, 
+               <lb xml:id="p001_r_tl_4"/>im Gebirge ebenso wie in den Fischernestern an der 
+               <lb xml:id="p001_r_tl_5"/>westlichen oder östlichen Küste. In Deutschland 
+               <lb xml:id="p001_r_tl_6"/>muß man in Städten von der Größe Dinkelsbühls 
+               <lb xml:id="p001_r_tl_7"/>erst nach dem Kino suchen, und in Chur gibt es 
+               <lb xml:id="p001_r_tl_8"/>bis heute nicht täglich eine Vorstellung – das wäre 
+               <lb xml:id="p001_r_tl_9"/>in Spanien oder mindestens in Nordspanien nicht 
+               <lb xml:id="p001_r_tl_10"/>denkbar. Die Leute gehen gern ins Kino – das mag 
+               <lb xml:id="p001_r_tl_11"/>mit ihrer Leidenschaft für alles Szenenhafte, Theatra 
+               <lb xml:id="p001_r_tl_12" break="no"/>lische zusammenhängen. Man kann diese Leidenschaft 
+               <lb xml:id="p001_r_tl_13"/>verfolgen von den Autodafés bis zu den Sakrament 
+               <lb xml:id="p001_r_tl_14" break="no"/>spielen Calderons, und von Calderon bis zu den 
+               <lb xml:id="p001_r_tl_15"/>Stierkämpfen und ihren bunt-heroischen Aufzügen. 
+               <lb xml:id="p001_r_tl_16"/>Von da zu den Filmen, die man zu sehen bekommt, 
+               <lb xml:id="p001_r_tl_17"/>ist allerdings ein Schritt und eine Stufe abwärts – 
+               <lb xml:id="p001_r_tl_18"/>mindestens was Pracht und Buntheit, barockes, reli 
+               <lb xml:id="p001_r_tl_19" break="no"/>giöses und heroisches Pathos anbelangt. Nein, das 
+               <lb xml:id="p001_r_tl_20"/>Kinopublikum ist herzlich anspruchslos – nur die 
+               <lb xml:id="p001_r_tl_21"/>Freude am Bewegten, Abenteuerlichen, auch am Sen 
+               <lb xml:id="p001_r_tl_22" break="no"/>timentalen ist geblieben. Und daß so bemerkenswert 
+               <lb xml:id="p001_r_tl_23"/>viele Abenteuerfilme gezeigt werden dürfen – von 
+               <lb xml:id="p001_r_tl_24"/>den Wildwest-Cowboys bis zu den Gangsters und 
+               <lb xml:id="p001_r_tl_25"/>Edgar Wallace – das erinnert wieder an den naiven 
+               <lb xml:id="p001_r_tl_26"/>Spaß, den immer wieder die Abenteuer Don Qui 
+               <lb xml:id="p001_r_tl_27" break="no"/>chottes breitesten Volksschichten bereiten. Und Don 
+               <lb xml:id="p001_r_tl_28"/>Quichotte wiederum ist ja doch ein verzerrter Held, 
+               <lb xml:id="p001_r_tl_29"/>dem großen Eid blutsverwandt ... Sicher geht ein 
+               <lb xml:id="p001_r_tl_30"/>echter Spanier lieber zum Stierkampf als ins Kino, 
+               <lb xml:id="p001_r_tl_31"/>und sicher erwärmt er sich leidenschaftlicher für einen 
+               <lb xml:id="p001_r_tl_32"/>populären Matador als für eine noch so weltberühmte 
+               <lb xml:id="p001_r_tl_33"/>Diva. Und nach dem Stierkampf kommt in den Bas 
+               <lb xml:id="p001_r_tl_34" break="no"/>kenländern die Pelota.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_35"/>Dann aber das Kino – und eben nicht als fest 
+               <lb xml:id="p001_r_tl_36" break="no"/>liche, sonntägliche Veranstaltung. Nein, das Kino 
+               <lb xml:id="p001_r_tl_37"/>gehört zum Werktag, ist spottbillig, beginnt um halb 
+               <lb xml:id="p001_r_tl_38"/>sechs Uhr oder halb acht Uhr, und dauert dann gut 
+               <lb xml:id="p001_r_tl_39"/>und gern bis Mitternacht. Die Arbeiter gehen hin, 
+               <lb xml:id="p001_r_tl_40"/>aber nicht allein, sondern mit ihren Freundinnen, 
+               <lb xml:id="p001_r_tl_41"/>mit Frau und Kind, und die Schulbuben besetzen 
+               <lb xml:id="p001_r_tl_42"/>hordenweise die Galerie, prügeln sich ab und zu im 
+               <lb xml:id="p001_r_tl_43"/>Dunkeln, schleudern Nüsse, pfeifen, johlen, brüllen sich 
+               <lb xml:id="p001_r_tl_44"/>hemmungslos ihre Eindrücke zu. Daß die Säuglinge 
+               <lb xml:id="p001_r_tl_45"/>häufig zu weinen beginnen wundert keinen – die 
+               <lb xml:id="p001_r_tl_46"/>Mütter beschwichtigen sie, das Publikum ist geduldig. 
+               <lb xml:id="p001_r_tl_47"/>Sogar in Barcelona geht es genau so zu. – Auch 
+               <lb xml:id="p001_r_tl_48"/>in ihren Programmen ist diese Weltstadt übrigens 
+               <lb xml:id="p001_r_tl_49"/>nicht so "auf dem laufenden", wie man es erwarten 
+               <lb xml:id="p001_r_tl_50"/>würde. Im Mai konnte man die "Blonde Venus" 
+               <lb xml:id="p001_r_tl_51"/>sehen – also mit einer Verspätung von einem halben 
+               <lb xml:id="p001_r_tl_52"/>Jahr gegenüber Mitteleuropa. In der Provinz sind 
+               <lb xml:id="p001_r_tl_53"/>die Programme ziemlich stereotyp: ein amerikanischer 
+               <lb xml:id="p001_r_tl_54"/>Film – meistens ziemlich alt, immer abenteuerlich, 
+               <lb xml:id="p001_r_tl_55"/>sehr viel Detektivfilme (welche Mühe für uns Aus 
+               <lb xml:id="p001_r_tl_56" break="no"/>länder – denn der englische Ton war meistens 
+               <lb xml:id="p001_r_tl_57"/>schlecht übertragen, und die spanischen Textstreifen 
+               <lb xml:id="p001_r_tl_58"/>konnten wir in der Eile auch nicht verstehen) – nach 
+               <lb xml:id="p001_r_tl_59" break="no"/>her, im zweiten Teil, folgt ein spanischer Film – 
+               <lb xml:id="p001_r_tl_60"/>das bedeutet meistens: ein Film, der von einer ameri 
+               <lb xml:id="p001_r_tl_61" break="no"/>kanischen Produktionsgesellschaft mit spanischen 
+               <lb xml:id="p001_r_tl_62"/>Schauspielern und spanischen Regisseuren hergestellt 
+               <lb xml:id="p001_r_tl_63"/>wurde.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_64"/>Und hier begibt sich nun das Erstaunliche: die 
+               <lb xml:id="p001_r_tl_65"/>Filme wirken, als seien sie für ein Fremdenpublikum 
+               <lb xml:id="p001_r_tl_66"/>berechnet, dem man das ach so romantische, das ganz 
+               <lb xml:id="p001_r_tl_67"/>im Süden, in Andalusien vielleicht noch vorhandene 
+               <lb xml:id="p001_r_tl_68"/>mit allen sentimental-konservativen Reminiszenzen 
+               <lb xml:id="p001_r_tl_69"/>behaftete Spanien mundgerecht machen wollte. Und 
+               <lb xml:id="p001_r_tl_70"/>doch waren wir in Huesca und in Seo de Urgel, in 
+               <lb xml:id="p001_r_tl_71"/>Jaca und Pamplona gewiß die einzigen, weidlich 
+               <lb xml:id="p001_r_tl_72"/>bestaunten Ausländer! Nein, die Spanier selbst lieben 
+               <lb xml:id="p001_r_tl_73"/>dieses Märchen-Spanien, stilisieren es, machen sich 
+               <lb xml:id="p001_r_tl_74"/>zugleich darüber lustig: da kommen immer dieselben 
+               <lb xml:id="p001_r_tl_75"/>Figuren vor wie Bajazzo und Harlekin in der italie 
+               <lb xml:id="p001_r_tl_76" break="no"/>nischen Komödie: ein strenger, aber wohlwollender 
+               <lb xml:id="p001_r_tl_77"/>Vater, eine schmachtende, üppige, wohlbehütete und 
+               <lb xml:id="p001_r_tl_78"/>liebreizende Tochter, ihre Duenna, ihr durchaus 
+               <lb xml:id="p001_r_tl_79"/>schlechter, betrügerischer und dämonischer Freier, und 
+               <lb xml:id="p001_r_tl_80"/>endlich der Liebhaber, ein Kavalier, ein Sänger, mei 
+               <lb xml:id="p001_r_tl_81" break="no"/>stens arm, meistens am Schluß reich, vor allem aber 
+               <lb xml:id="p001_r_tl_82"/>ritterlich und musikalisch. Mit diesen Figuren wird 
+               <lb xml:id="p001_r_tl_83"/>gespielt – in Gartenbosketten, bei Maskenfesten, auf 
+               <lb xml:id="p001_r_tl_84"/>dem Balkon, in der volkstümlichen Kneipe – die 
+               <lb xml:id="p001_r_tl_85"/>Liebesszenen gleichen sich haarscharf, der Liebhaber 
+               <lb xml:id="p001_r_tl_86"/>sinkt auf ein Knie, das Mädchen flieht mehrmals, 
+               <lb xml:id="p001_r_tl_87"/>bevor sie ihn erhört, er singt nachts vor ihrem Fenster. 
+               <lb xml:id="p001_r_tl_88"/>Ja, so spielt sich alles ab, schon seit Don Juan und 
+               <lb xml:id="p001_r_tl_89"/>dem Barbier von Sevilla, und so muß es sich weiterhin
+               <milestone unit="textregion" xml:id="p001_r_2"/> 
+               <lb xml:id="p001_r_2_tl_1"/>abspielen, weil die Spanier ein konservatives Volk 
+               <lb xml:id="p001_r_2_tl_2"/>sind, ganz gleich, ob Bauern, Fischer, Matrosen oder 
+               <lb xml:id="p001_r_2_tl_3"/>Fabrikarbeiter. Und so nähern sich diese spanischen 
+               <lb xml:id="p001_r_2_tl_4"/>Filme immer mehr der Spieloper – nicht nur dem 
+               <lb xml:id="p001_r_2_tl_5"/>Sujet nach, auch formal. Da wird immer mehr ge 
+               <lb xml:id="p001_r_2_tl_6" break="no"/>sungen, Held, Buffo und Diva haben ihre Solo-Arien, 
+               <lb xml:id="p001_r_2_tl_7"/>das Publikum spendet begeistert Zwischenbeifall – 
+               <lb xml:id="p001_r_2_tl_8"/>auch der Aufbau, mit der Katastrophe im zweiten Akt, 
+               <lb xml:id="p001_r_2_tl_9"/>der raschen und glücklichen Lösung im dritten, hat 
+               <lb xml:id="p001_r_2_tl_10"/>mit Film überhaupt nichts zu tun, ist ältestes Opern 
+               <lb xml:id="p001_r_2_tl_11" break="no"/>requisit.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_12"/>Drüben in San Sebastian – wo es um diese 
+               <lb xml:id="p001_r_2_tl_13"/>Jahreszeit auch noch keine Fremden gibt – bekamen 
+               <lb xml:id="p001_r_2_tl_14"/>wir dann einen Strohheim-Film zu sehen, und die 
+               <lb xml:id="p001_r_2_tl_15"/>französische Version des Jannings-Films "Stürme 
+               <lb xml:id="p001_r_2_tl_16"/>der Leidenschaft" – und wir hatten wieder einmal 
+               <lb xml:id="p001_r_2_tl_17"/>Ursache, über die beinahe unlöslichen Probleme, die 
+               <lb xml:id="p001_r_2_tl_18"/>der Tonfilm ausgibt, uns Gedanken zu machen: denn 
+               <lb xml:id="p001_r_2_tl_19"/>es war nicht der gleiche Film, und die französische 
+               <lb xml:id="p001_r_2_tl_20"/>Fassung war unvergleichlich viel besser und aufregen 
+               <lb xml:id="p001_r_2_tl_21" break="no"/>der als die deutsche – und jeder Film dürfte doch 
+               <lb xml:id="p001_r_2_tl_22"/>nur in einer einzigen Fassung gedreht und gezeigt 
+               <lb xml:id="p001_r_2_tl_23"/>werden, nämlich der besten... Eine spanische Version 
+               <lb xml:id="p001_r_2_tl_24"/>blieb uns erspart – es bleibt also zu hoffen, daß es 
+               <lb xml:id="p001_r_2_tl_25"/>die Produktion zu teuer zu stehen käme, jedem Land 
+               <lb xml:id="p001_r_2_tl_26"/>jeden großen Film besonders zu servieren – so das 
+               <lb xml:id="p001_r_2_tl_27"/>doch einige internationale "Höchstleistungen" über die 
+               <lb xml:id="p001_r_2_tl_28"/>nationalen Grenzen hinweg dem Publikum gegönnt 
+               <lb xml:id="p001_r_2_tl_29"/>werden müssen.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"><hi rendition="#g"> 
+                  <lb xml:id="p001_r_2_tl_30"/>Annemarie Schwarzenbach</hi></p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
