@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0118" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0118#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0118</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0118"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0118_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0118_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_tl_1"/>Regen in Tiflis 
+               <lb xml:id="p001_r_tl_2"/>Von <hi rendition="#g">Annemarie Schwarzenbach</hi></p>
+            <p> 
+               <lb xml:id="p001_r_tl_3"/>Es regnete, als ich in Tiflis ankam. Ich war den 
+               <lb xml:id="p001_r_tl_4"/>ganzen Tag unterwegs gewesen, und von Stunde zu 
+               <lb xml:id="p001_r_tl_5"/>Stunde war der Nebel gewachsen, er hatte allmählich 
+               <lb xml:id="p001_r_tl_6"/>die hohen Kaukasusgipfel verhüllt und die Täler mit 
+               <lb xml:id="p001_r_tl_7"/>weißlichem Nebel angefüllt. Am frühen Nachmittag 
+               <lb xml:id="p001_r_tl_8"/>drang die Sonne nur noch bleich durch die auf- und 
+               <lb xml:id="p001_r_tl_9"/>niederwogenden Wände, bald erlosch sie ganz, es 
+               <lb xml:id="p001_r_tl_10"/>wurde kalt, und wir näherten uns durch eine lange 
+               <lb xml:id="p001_r_tl_11"/>Dämmerung dem Abend. Auf Hügeln über der Straße 
+               <lb xml:id="p001_r_tl_12"/>erkannten wir die Mauern zerbrochener Festungen, 
+               <lb xml:id="p001_r_tl_13"/>manchmal tat sich unvermutet ein Blick auf in die 
+               <lb xml:id="p001_r_tl_14"/>Tiefe eines eingeengten Flußtals. Dann wurde die 
+               <lb xml:id="p001_r_tl_15"/>Luft weich, die Wolken hoben sich, und wir sahen 
+               <lb xml:id="p001_r_tl_16"/>im braunen Abendlicht die hügelige und fruchtbare 
+               <lb xml:id="p001_r_tl_17"/>Landschaft Georgiens. Es wurde dunkel, während 
+               <lb xml:id="p001_r_tl_18"/>wir dem Flusse Kura folgten, ein elektrisches Werk lag 
+               <lb xml:id="p001_r_tl_19"/>an der Straße, durch große Fenster erblickte man die 
+               <lb xml:id="p001_r_tl_20"/>schwarzen Turbinen, aus breiten Oeffnungen ergoß 
+               <lb xml:id="p001_r_tl_21"/>sich Wasser und stürzte über den weißen, breitgemauer 
+               <lb xml:id="p001_r_tl_22" break="no"/>ten, glatten Damm, starkes Licht lag darauf und ver 
+               <lb xml:id="p001_r_tl_23" break="no"/>wandelte es in einen Strom von Silber. Die nächsten 
+               <lb xml:id="p001_r_tl_24"/>Lichter, die wir vor uns erblickten, waren die der 
+               <lb xml:id="p001_r_tl_25"/>Stadt Tiflis. Sie füllten einen weiten Talkessel und 
+               <lb xml:id="p001_r_tl_26"/>erklommen vereinzelt, in auseinandergezogenen Reihen 
+               <lb xml:id="p001_r_tl_27"/>die seitlichen Hügelwände. Es begann zu regnen, und 
+               <lb xml:id="p001_r_tl_28"/>die Lichter flimmerten und brachen sich in den schweren, 
+               <lb xml:id="p001_r_tl_29"/>langsamen Tropfen.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_30"/>Wie in den großräumigen Städten des Orients, 
+               <lb xml:id="p001_r_tl_31"/>lief nun unsere Straße als breite Karawanenstraße 
+               <lb xml:id="p001_r_tl_32"/>zwischen den ersten zerstreuten Häusern hindurch, 
+               <lb xml:id="p001_r_tl_33"/>pflasterlos, mit tiefen, sandigen Rinnen, an manchen 
+               <lb xml:id="p001_r_tl_34"/>Stellen aufgerissen, auch zu großen, regellosen Plätzen 
+               <lb xml:id="p001_r_tl_35"/>sich weitend. Offene Höfe waren von schwankenden 
+               <lb xml:id="p001_r_tl_36"/>Lampen erhellt, am Straßenrand ruhten Büffel, und 
+               <lb xml:id="p001_r_tl_37"/>Esel warteten angebunden vor den offenen Galerien 
+               <lb xml:id="p001_r_tl_38"/>der Herbergen. Das waren die Vorquartiere von 
+               <lb xml:id="p001_r_tl_39"/>Tiflis, bald wurde der Anblick städtischer, die Häuser 
+               <lb xml:id="p001_r_tl_40"/>rückten zusammen und wuchsen in die Höhe, Schau 
+               <lb xml:id="p001_r_tl_41" break="no"/>fenster. Blumenkioske, Plakate reihten sich bunt anein 
+               <lb xml:id="p001_r_tl_42" break="no"/>ander. Nun gab es breite Fronten neuer amtlicher 
+               <lb xml:id="p001_r_tl_43"/>Gebäude, und Straßenbahnen nahmen die Mitte der 
+               <lb xml:id="p001_r_tl_44"/>Hauptstraße ein, Trottoire und Baumreihen begleiteten 
+               <lb xml:id="p001_r_tl_45"/>sie, glänzend von Regen. Wir befanden uns im Zen 
+               <lb xml:id="p001_r_tl_46" break="no"/>trum der neuen Stadt, der Hauptstadt mit Universität, 
+               <lb xml:id="p001_r_tl_47"/>Schulen und Instituten, mit Kinos und breiten Boule
+               <milestone unit="textregion" xml:id="p001_r_2"/> 
+               <lb xml:id="p001_r_2_tl_1" break="no"/>vards und öffentlichen Anlagen, die noch jetzt, zu spä 
+               <lb xml:id="p001_r_2_tl_2" break="no"/>ter Stunde, geöffnet und hell erleuchtet waren: Aus 
+               <lb xml:id="p001_r_2_tl_3"/>den Toren strömten die Leute und füllten die Straße, 
+               <lb xml:id="p001_r_2_tl_4"/>sie traten aus Läden und Weinhandlungen, standen, 
+               <lb xml:id="p001_r_2_tl_5"/>vor der Nässe geschützt, in den Türöffnungen, und die 
+               <lb xml:id="p001_r_2_tl_6"/>europäisch Eiligen, mit Regenschirm und Gummi 
+               <lb xml:id="p001_r_2_tl_7" break="no"/>schuhen, mischten sich mit denen, die auf orientalische 
+               <lb xml:id="p001_r_2_tl_8"/>Weise einher schlenderten, den kühlen Abend ge 
+               <lb xml:id="p001_r_2_tl_9" break="no"/>nießend, die Frauen mit dunklen Tüchern um das 
+               <lb xml:id="p001_r_2_tl_10"/>Haupt, die Männer in runden bestickten Mützen, bar 
+               <lb xml:id="p001_r_2_tl_11" break="no"/>fuß oder in Sandalen. Des Regens nicht achtend, lär 
+               <lb xml:id="p001_r_2_tl_12" break="no"/>mend, singend, schoben sie sich gemächlich heiter vor 
+               <lb xml:id="p001_r_2_tl_13" break="no"/>wärts.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_14"/>Am nächsten Tag fuhr es fort zu regnen. Die Stadt 
+               <lb xml:id="p001_r_2_tl_15"/>lag unter einem bleiernen Himmel, und die Wolken 
+               <lb xml:id="p001_r_2_tl_16"/>sanken bis zu den Kämmen des Schachat und Sfololak 
+               <lb xml:id="p001_r_2_tl_17"/>und bis zu der breiten Kuppe des Davidbergs. Die 
+               <lb xml:id="p001_r_2_tl_18"/>Zahnradbahn fuhr klingelnd hinauf und verschwand 
+               <lb xml:id="p001_r_2_tl_19"/>im Nebel mitsamt ihren gleißenden Schienen.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_21"/>Im Dunkel der ehrwürdigen Basilika Antschisschat 
+               <lb xml:id="p001_r_2_tl_20"/>leuchtete, ungewisse Gnade spendend, das silbergeprägte 
+               <lb xml:id="p001_r_2_tl_22"/>Antlitz ihres berühmten Heiligenbildes. Ueber dem 
+               <lb xml:id="p001_r_2_tl_23"/>in wuchtiger Kreuzform errichteten Rumpf der Kathe 
+               <lb xml:id="p001_r_2_tl_24" break="no"/>drale erhob sich ihre achtseitige Pyramide wie die 
+               <lb xml:id="p001_r_2_tl_25"/>Kuppel einer Moschee. Die Kathedrale steht an dieser 
+               <lb xml:id="p001_r_2_tl_26"/>Stelle seit dem siebenten Jahrhundert, ihre Name lau 
+               <lb xml:id="p001_r_2_tl_27" break="no"/>tet: Ssion-Ssobor.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_28"/>Gegen Mittag hatte sich der Himmel erschöpft. Die 
+               <lb xml:id="p001_r_2_tl_29"/>Wolken traten auseinander, und als ich zum Kuraufer 
+               <lb xml:id="p001_r_2_tl_30"/>hinunterging, schien einen Augenblick die Sonne und 
+               <lb xml:id="p001_r_2_tl_31"/>warf sich wie ein goldenes Netz über das braune 
+               <lb xml:id="p001_r_2_tl_32"/>Wasser.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_34"/>Acht Brücken verbinden die Ufer, ich stand auf der 
+               <lb xml:id="p001_r_2_tl_33"/>letzten, und sah flußaufwärts und -abwärts, wo überall 
+               <lb xml:id="p001_r_2_tl_35"/>bescheidene Häuser sich zu Rudeln häufen, und von der 
+               <lb xml:id="p001_r_2_tl_36"/>anwachsenden Stadt fast in den Fluß getrieben werden: 
+               <lb xml:id="p001_r_2_tl_37"/>schon hingen sie mit blinden Fenstern und zerbrech 
+               <lb xml:id="p001_r_2_tl_38" break="no"/>lichen Galerien über den absinkenden Uferhalden. Ihre 
+               <lb xml:id="p001_r_2_tl_39"/>Mauern waren bräunlich und lehnfarbig, und die 
+               <lb xml:id="p001_r_2_tl_40"/>Dächer flach, gesenkt unter der Last ihres Alters.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_41"/>Ich verließ die Brücke und geriet in die dunklen, 
+               <lb xml:id="p001_r_2_tl_42"/>gekrümmten, von Feuchtigkeit und vielen Gerüchen er 
+               <lb xml:id="p001_r_2_tl_43" break="no"/>füllten Gassen. Dies war die asiatische Stadt, die 
+               <lb xml:id="p001_r_2_tl_44"/>von Hunnen und Seldschuken, Mongolen, Persern und 
+               <lb xml:id="p001_r_2_tl_45"/>Byzantinern mehrmals verbrannte, ausgeraubte und 
+               <lb xml:id="p001_r_2_tl_46"/>immer wiedererstandene: nun wie zusammengekrümmt 
+               <lb xml:id="p001_r_2_tl_47"/>zwischen Fluß und Berghang, von düsteren Burgrui 
+               <lb xml:id="p001_r_2_tl_48" break="no"/>nen auf vorspringendem Kamm überragt, entfremdete 
+               <lb xml:id="p001_r_2_tl_49"/>Nachbarin der modernen Stadt Tiflis.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_3"/>            <p> 
+               <lb xml:id="p001_r_3_tl_1"/>Man sah, an die Eisenstäbe der Gitter gepreßt, 
+               <lb xml:id="p001_r_3_tl_2"/>Kindergesichter, flache und schlitzäugige der kleinen 
+               <lb xml:id="p001_r_3_tl_3"/>Mongolen, und die blaßbraunen der Georgier, mit 
+               <lb xml:id="p001_r_3_tl_4"/>schönen, dunklen, mandelförmigen Augen. In den 
+               <lb xml:id="p001_r_3_tl_5"/>Höfen standen Pferde angeschirrt vor altmodischen 
+               <lb xml:id="p001_r_3_tl_6"/>Droschen, Handwerker arbeiteten in dunklen Nischen, 
+               <lb xml:id="p001_r_3_tl_7"/>durch Rauch und rote Funken erblickte man Kupfer 
+               <lb xml:id="p001_r_3_tl_8" break="no"/>schmiede, die an Samowaren hämmerten wie die be 
+               <lb xml:id="p001_r_3_tl_9" break="no"/>rühmten Schmiede von Isfahan. Der Marktplatz war 
+               <lb xml:id="p001_r_3_tl_10"/>still und leer nach dem Regen.</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_12"/>Unter dem Dach der länglichen Halle spielten Kin 
+               <lb xml:id="p001_r_3_tl_11" break="no"/>der und verjagten die Hunde mit Steinwürfen von den 
+               <lb xml:id="p001_r_3_tl_13"/>Fleischbänken. Sie verschwanden lautlos hinter den 
+               <lb xml:id="p001_r_3_tl_14"/>Häusern, wo Schutt und Abfall zum Fluß hinabrieselt. 
+               <lb xml:id="p001_r_3_tl_15"/>Ansteigende Gassen endeten beim Bazar der sechzig 
+               <lb xml:id="p001_r_3_tl_16"/>Völker, die in sechzig Sprachen des Orients und Okzi 
+               <lb xml:id="p001_r_3_tl_17" break="no"/>dents feilschen und Handel treiben. Gleichmäßiges 
+               <lb xml:id="p001_r_3_tl_18"/>Brausen von vielen Stimmen wurde unterbrochen 
+               <lb xml:id="p001_r_3_tl_19"/>durch die Rufe der Melonenhändler und durch den 
+               <lb xml:id="p001_r_3_tl_21"/>sonderbar trostlosen Gesang von Knaben, die Zigaret 
+               <lb xml:id="p001_r_3_tl_20" break="no"/>ten verkauften und ihre Dienste anboten als Schuh 
+               <lb xml:id="p001_r_3_tl_22" break="no"/>putzer und Lastträger.</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_23"/>Es wurde früh dunkel. Durch die bläuliche Dämme 
+               <lb xml:id="p001_r_3_tl_24" break="no"/>rung fiel neuer, dünner Regen, Qualm stieg aus den 
+               <lb xml:id="p001_r_3_tl_25"/>Gläsern der Petrollampen und über die Kuppeln eines 
+               <lb xml:id="p001_r_3_tl_26"/>alten Bades floß eine Fahne aus weißem Rauch. 
+               <lb xml:id="p001_r_3_tl_27"/>"Tpili" ist das georgische Wort für "warm", welches, 
+               <lb xml:id="p001_r_3_tl_28"/>der heißen Schwefelquellen wegen, der Stadt den 
+               <lb xml:id="p001_r_3_tl_29"/>Namen gegeben hat. Im alten Tiflis liegen die Bäder 
+               <lb xml:id="p001_r_3_tl_30"/>des alten Orients, wo in Kuppelräumen das heiße 
+               <lb xml:id="p001_r_3_tl_31"/>Wasser in sechseckige Becken fließt, und man, in Tücher 
+               <lb xml:id="p001_r_3_tl_32"/>gewickelt, feuchten Dampf einatmet. Vor dem Eingang 
+               <lb xml:id="p001_r_3_tl_34"/>eines solchen Bades standen Frauen in gestreiften Um 
+               <lb xml:id="p001_r_3_tl_33" break="no"/>hängen, das Gesicht halbverdeckt, Tonkrüge in den Hän 
+               <lb xml:id="p001_r_3_tl_35" break="no"/>den. Junge Männer liefen unter dem rieselnden 
+               <lb xml:id="p001_r_3_tl_36"/>Regen, überquerten die Straße und verschwanden im 
+               <lb xml:id="p001_r_3_tl_37"/>Inneren des Badehauses. Im Bazar wurden jetzt die 
+               <lb xml:id="p001_r_3_tl_38"/>Werkstätten und Buden geschlossen. Die armenischen, 
+               <lb xml:id="p001_r_3_tl_39"/>georgischen und jüdischen Händler machten sich auf den 
+               <lb xml:id="p001_r_3_tl_40"/>Heimweg. Auf einem glühenden Rost drehte ein junger 
+               <lb xml:id="p001_r_3_tl_41"/>Kaukasier Schaschlikstücke und verkaufte sie an Türken 
+               <lb xml:id="p001_r_3_tl_42"/>und Perser. Wo die neue Stadt liegt, war der Himmel 
+               <lb xml:id="p001_r_3_tl_43"/>gelblich erhellt, man konnte plötzlich das Läuten der 
+               <lb xml:id="p001_r_3_tl_44"/>Straßenbahnen, Hupen von Autos, mannigfachen 
+               <lb xml:id="p001_r_3_tl_45"/>abendlichen Lärm vernehmen, abgerissene Töne drangen 
+               <lb xml:id="p001_r_3_tl_46"/>von einer Radioanlage herüber und legten sich über 
+               <lb xml:id="p001_r_3_tl_47"/>die einförmigen Singstimmen der Gasse. In einem 
+               <lb xml:id="p001_r_3_tl_48"/>Kaffeehaus wurden die Lampen angezündet, und die 
+               <lb xml:id="p001_r_3_tl_49"/>nassen Männer drängten herein und erfüllten den
+               <milestone unit="textregion" xml:id="p001_r_4"/> 
+               <lb xml:id="p001_r_4_tl_1"/>Raum mit Dampf, Rauch und Stimmengemisch. Auf 
+               <lb xml:id="p001_r_4_tl_2"/>der Gasse blieben die Knaben zurück. Die Tataren, 
+               <lb xml:id="p001_r_4_tl_3"/>die in Planwagen außerhalb der Stadt wohnten, mach 
+               <lb xml:id="p001_r_4_tl_4" break="no"/>ten sich auf den Weg. Sie trugen Hühner in Bündeln 
+               <lb xml:id="p001_r_4_tl_5"/>über der Schulter. Der Regen floß vom Rand ihrer 
+               <lb xml:id="p001_r_4_tl_6"/>hohen zottigen Pelzmützen.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
