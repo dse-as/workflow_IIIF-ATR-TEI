@@ -217,7 +217,7 @@
     <!-- original code line; according to naming convention; deactivated to allow exporting some files depending on faulty manifests -->
     <!-- <xsl:variable name="ifn" select="$fileName||@imageFilename => replace('^(letter|smallform)_\d{4}(_\d{3}).*$','$2')"/> -->
     <!-- workaround; more permissive regarding naming convention; activated to allow exporting some files depending on faulty manifests -->
-    <xsl:variable name="ifn" select="$fileName||@imageFilename => replace(., '^(letter|smallform)_\d{4}(_\d+.*)$', '$2')"/>
+    <xsl:variable name="ifn" select="$fileName||@imageFilename => replace(., '^(letter|smallform)_\d{4}(_\d+(\.jpg)?).*$', '$2')"/>
     <xsl:message select="$ifn"/>
     <!--IIIF Image or Presentation URL?-->
     <xsl:variable name="pos" select="position()" as="xs:integer"/>
