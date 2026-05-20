@@ -138,7 +138,7 @@
           </note>
         </notesStmt>
         <sourceDesc>
-          <xsl:if test="contains($issue-parser-result?('source-collection'), 2364810)">
+          <xsl:if test="contains($issue-parser-result?('source-collection'), '2364810')">
             <xsl:attribute name="type" select="'noTranscription'"/>
             <p>This TEI file contains metadata and facsimile references only. No transcription is available.</p>
           </xsl:if>
