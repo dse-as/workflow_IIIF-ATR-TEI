@@ -218,7 +218,7 @@
     <!-- <xsl:variable name="ifn" select="$fileName||@imageFilename => replace('^(letter|smallform)_\d{4}(_\d{3}).*$','$2')"/> -->
     <!-- workaround; more permissive regarding naming convention; activated to allow exporting some files depending on faulty manifests -->
     <xsl:variable name="ifn" select="$fileName||@imageFilename => replace('^(letter|smallform)_\d{4}(_\d+(\.jpg)?).*$', '$2')"/>
-    <xsl:message select="$ifn"/>
+    <xsl:message select="'$ifn: '|| $ifn"/>
     <!--IIIF Image or Presentation URL?-->
     <xsl:variable name="pos" select="position()" as="xs:integer"/>
     <pb xml:id="{local:page-id($fileName,$pos)}" facs="{local:get-facs-url($ifn)}"/>
@@ -347,7 +347,10 @@
        ======================================== -->
   <xsl:template match="Page" mode="coords">
     <surface xml:id="{local:page-id($fileName,position())}_facs" ulx="0" uly="0" lrx="{@imageWidth}" lry="{@imageHeight}">
-      <xsl:variable name="ifn" select="$fileName||@imageFilename => replace('^(letter|smallform)_\d{4}(_\d{3}).*$','$2')"/>
+      <!-- original code line; according to naming convention; deactivated to allow exporting some files depending on faulty manifests -->
+      <!-- <xsl:variable name="ifn" select="$fileName||@imageFilename => replace('^(letter|smallform)_\d{4}(_\d{3}).*$','$2')"/> -->
+      <!-- workaround; more permissive regarding naming convention; activated to allow exporting some files depending on faulty manifests -->
+      <xsl:variable name="ifn" select="$fileName||@imageFilename => replace('^(letter|smallform)_\d{4}(_\d+(\.jpg)?).*$', '$2')"/>
       <graphic url="{local:get-facs-url($ifn)}" width="{@imageWidth}" height="{@imageHeight}"/>
       <xsl:variable name="pos" as="xs:integer" select="position()"/>
       <xsl:apply-templates select="TextRegion" mode="coords">
