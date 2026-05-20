@@ -15,7 +15,7 @@
           </notesStmt>
           <sourceDesc> 
             <bibl corresp="smallform_0001"> 
-               <persName/>
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
                 <bibl> 
                   <title level="j"/>
                    <date/>
@@ -47,10 +47,14 @@
           </textClass>
        </profileDesc>
     </teiHeader>
- <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0001_facs.xml"> <xi:fallback/> <!--Inclusion path will be adjusted later.--> </xi:include>    <text> 
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0001_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
       <body> 
          <div type="smallform">
-            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0001_001.tif/info.json"/>
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0001_001.tif"/>
             <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
                <lb xml:id="p001_tr_1_tl_2"/>Über die Freundschaft.</p>
             <p> 
