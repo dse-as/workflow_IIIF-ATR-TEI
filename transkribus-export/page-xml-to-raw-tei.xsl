@@ -217,7 +217,16 @@
     <!-- original code line; according to naming convention; deactivated to allow exporting some files depending on faulty manifests -->
     <!-- <xsl:variable name="ifn" select="$fileName||@imageFilename => replace('^(letter|smallform)_\d{4}(_\d{3}).*$','$2')"/> -->
     <!-- workaround; more permissive regarding naming convention; activated to allow exporting some files depending on faulty manifests -->
-    <xsl:variable name="ifn" select="$fileName||@imageFilename => replace('^(letter|smallform)_\d{4}(_\d+(\.jpg)?).*$', '$2')"/>
+    <xsl:variable name="ifn">
+      <xsl:choose>
+        <xsl:when test="contains(@imageFilename,'.jpg.jpg')">
+          <xsl:sequence select="$fileName||@imageFilename => replace('^(letter|smallform)_\d{4}(_\d+\.jpg).*$','$2')"/>
+        </xsl:when>
+        <xsl:otherwise>
+          <xsl:sequence select="$fileName||@imageFilename => replace('^(letter|smallform)_\d{4}(_\d{3}).*$','$2')"/>
+        </xsl:otherwise>
+      </xsl:choose>
+    </xsl:variable>
     <xsl:message select="'$ifn: '|| $ifn"/>
     <!--IIIF Image or Presentation URL?-->
     <xsl:variable name="pos" select="position()" as="xs:integer"/>
@@ -350,7 +359,16 @@
       <!-- original code line; according to naming convention; deactivated to allow exporting some files depending on faulty manifests -->
       <!-- <xsl:variable name="ifn" select="$fileName||@imageFilename => replace('^(letter|smallform)_\d{4}(_\d{3}).*$','$2')"/> -->
       <!-- workaround; more permissive regarding naming convention; activated to allow exporting some files depending on faulty manifests -->
-      <xsl:variable name="ifn" select="$fileName||@imageFilename => replace('^(letter|smallform)_\d{4}(_\d+(\.jpg)?).*$', '$2')"/>
+      <xsl:variable name="ifn">
+        <xsl:choose>
+          <xsl:when test="contains(@imageFilename,'.jpg.jpg')">
+            <xsl:sequence select="$fileName||@imageFilename => replace('^(letter|smallform)_\d{4}(_\d+\.jpg).*$','$2')"/>
+          </xsl:when>
+          <xsl:otherwise>
+            <xsl:sequence select="$fileName||@imageFilename => replace('^(letter|smallform)_\d{4}(_\d{3}).*$','$2')"/>
+          </xsl:otherwise>
+        </xsl:choose>
+      </xsl:variable>
       <graphic url="{local:get-facs-url($ifn)}" width="{@imageWidth}" height="{@imageHeight}"/>
       <xsl:variable name="pos" as="xs:integer" select="position()"/>
       <xsl:apply-templates select="TextRegion" mode="coords">
