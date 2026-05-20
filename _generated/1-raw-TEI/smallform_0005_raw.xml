@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="smallform_0005"
+     type="dseas-smallform">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>smallform_0005</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl corresp="smallform_0005">
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0005_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="smallform">
+            <pb xml:id="smallform_0005_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0005_0001.jpg"/>
+            <pb xml:id="smallform_0005_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0005_0002.jpg"/>
+            <pb xml:id="smallform_0005_003"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0005_0003.jpg"/>
+            <pb xml:id="smallform_0005_004"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0005_0004.jpg"/>
+            <pb xml:id="smallform_0005_005"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0005_0005.jpg"/>
+            <pb xml:id="smallform_0005_006"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0005_0006.jpg"/>
+            <pb xml:id="smallform_0005_007"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0005_0007.jpg"/>
+            <pb xml:id="smallform_0005_008"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0005_0008.jpg"/>
+            <pb xml:id="smallform_0005_009"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0005_0009.jpg"/>
+            <pb xml:id="smallform_0005_010"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0005_0010.jpg"/>
+            <pb xml:id="smallform_0005_011"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0005_0011.jpg"/>
+         </div>
+      </body>
+   </text>
+</TEI>
