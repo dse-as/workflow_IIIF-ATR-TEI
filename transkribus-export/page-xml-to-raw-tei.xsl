@@ -29,7 +29,7 @@
       else (//Page)[1]/@imageFilename => replace('^(\w+_\d{4}).*$','$1')"/>
   <xsl:variable name="fileType" select="if (matches($fileName, 'letter')) then 'letter' else 'smallform'"/>
   <xsl:variable name="iiif-manifest" select="json-doc('https://iiif.annemarie-schwarzenbach.ch/presentation/'||$fileName||'.json')"/>
-  <!--<xsl:variable name="issue-parser-result" select="json-doc('/issue-parser-result.json')"/>-->
+  <xsl:variable name="issue-parser-result" select="json-doc('../issue-parser-result.json')"/>
   
   
   <!-- TODO: Change path to "../schema/tei_dseas.rng" when the schema files have been moved to the documents -->
@@ -138,10 +138,10 @@
           </note>
         </notesStmt>
         <sourceDesc>
-          <!-- <xsl:if test="contains($issue-parser-result?('source-collection'), '2364810')">
+          <xsl:if test="contains($issue-parser-result?source-collection, '2364810')">
             <xsl:attribute name="type" select="'noTranscription'"/>
             <p>This TEI file contains metadata and facsimile references only. No transcription is available.</p>
-          </xsl:if> -->
+          </xsl:if>
           <xsl:choose>
             <xsl:when test="$fileType = 'letter'">
               <msDesc>
