@@ -138,6 +138,10 @@
           </note>
         </notesStmt>
         <sourceDesc>
+          <xsl:if test="contains($issue-parser-result?('source-collection'), 2364810)">
+            <xsl:attribute name="type" select="'noTranscription'"/>
+            <p>This TEI file contains metadata and facsimile references only. No transcription is available.</p>
+          </xsl:if>
           <xsl:choose>
             <xsl:when test="$fileType = 'letter'">
               <msDesc>
@@ -157,12 +161,6 @@
                   <biblScope/>
                 </bibl>
               </bibl>
-            </xsl:when>
-            <xsl:when test="contains($issue-parser-result?('source-collection'), 2364810)">
-              <sourceDesc type="noTranscription">
-                <p>This TEI file contains metadata and facsimile references only.
-                  No transcription is available.</p>
-              </sourceDesc>
             </xsl:when>
             <xsl:otherwise>
               <p/>
