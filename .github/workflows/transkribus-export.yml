@@ -41,7 +41,7 @@ jobs:
     steps:
     - run: echo ${{join(github.event.issue.labels.*.name,', ')}}
     - run: echo env.TASKS
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v6
       with:
         ref: ${{ github.head_ref }}
     - uses: stefanbuck/github-issue-parser@v3
@@ -51,7 +51,7 @@ jobs:
     - run: cat ${HOME}/issue-parser-result.json
     - run: cp ${HOME}/issue-parser-result.json ./issue-parser-result.json
     - name: Set up Python
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v6
       with:
         python-version: '3.12'
     - uses: dse-as/run-notebook@v3-locked #fzimmermann89/run-notebook@357b84ea1b0605afb5ed2da0548ab80c9556cd1a #fzimmermann89/run-notebook@v3 #yaananth/run-notebook@v2
