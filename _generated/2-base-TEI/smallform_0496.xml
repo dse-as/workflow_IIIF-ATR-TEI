@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0496" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0496#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0496</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0496"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0496_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0496_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l"/>ZWEI WELTEN IN DER TÜRKEI 
+               <lb xml:id="p001_r_tl_3"/><hi rendition="#i">La Turquie: un pays, mais deux mondes</hi></p>
+
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_693"/>Kriegsministerium</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_3"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_3_tl_1"/>Blick auf die Hauptfront des Kriegsministeriums in Ankara. Der Bau wurde von dem 
+               <lb xml:id="p001_r_3_tl_2"/>österreichischen Architekten Clemens Holzmeister ausgeführt. Diese geometrische Gliederung 
+               <lb xml:id="p001_r_3_tl_3"/>der Fassade ist für viele Gebäude der Stadt wegleitend geworden. –<hi rendition="#i"> Le ministère de le 
+                  <lb xml:id="p001_r_3_tl_4"/>guerre, à Ankara, œuvre de l'architecte autrichien Holzmeister. Ce style se retrouve 
+                  <lb xml:id="p001_r_3_tl_5"/>dans plusieurs autres édifices officiels de la capitale turque.</hi></p>
+
+            <milestone unit="textregion" xml:id="p001_r_4"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_705"/>Palais des Staatspräsidenten</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_5"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_5_tl_1"/>Das ist der Gästeeingang zum Palais des Staatspräsidenten in Ankara. Das reprä 
+               <lb xml:id="p001_r_5_tl_2" break="no"/>sentative Gebäude ist ebenfalls von Holzmeister ausgeführt worden, dem der 
+               <lb xml:id="p001_r_5_tl_3"/>größte Teil der staatlichen Bauten übertragen wurde und der dadurch das 
+               <lb xml:id="p001_r_5_tl_4"/>Stadtbild von Ankara stark bestimmt hat. –<hi rendition="#i"> Partie du palais présidentiel.</hi></p>
+
+            <milestone unit="textregion" xml:id="p001_r_6"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_735"/>Kamelkarawane</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_7"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_7_tl_1"/>Eine Kamelkarawane vor dem Dorf Uergüb. Hinter diesem Dorf liegt das phantastische Tal von Göreme. Nur 
+               <lb xml:id="p001_r_7_tl_2"/>über einen halsbrecherischen Paß kann man von Kaiserie nach Uergüb gelangen. – <hi rendition="#i">Caravane passant à Uergüb, 
+                  <lb xml:id="p001_r_7_tl_3"/>village situé à l'extrémité d'une vallée d'une configuration impossible. Aussi le seul passage entre Uergüb et 
+                  <lb xml:id="p001_r_7_tl_4"/>Kaiserie est-il constitué par un col des plus périlleux.</hi></p>
+
+            <milestone unit="textregion" xml:id="p001_r_8"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_747"/>Festung</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_9"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_9_tl_1"/>Eine seltsame Nachbarschaft besitzt die moderne Stadt Ankara in 
+               <lb xml:id="p001_r_9_tl_2"/>dieser alten Festung. Sie ist nach einem primitiven Turmsysten 
+               <lb xml:id="p001_r_9_tl_3"/>erstellt worden. <hi rendition="#i">– La vieille citadelle anatolienne d'Ankara</hi>.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_10"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_739"/>Berggelände</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_11"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_11_tl_1"/>Schönes Berggelände. Der schneebedeckte, höchste Berg ist der 
+               <lb xml:id="p001_r_11_tl_2"/>Erdschias Dagh, und im Vordergrund sieht man Kaiserie, das 
+               <lb xml:id="p001_r_11_tl_3"/>Caesarea der Alten. <hi rendition="#i">– La Césarée des temps anciens – maintenant 
+                  <lb xml:id="p001_r_11_tl_4"/>Kaiserie – et à l'arrière-plan, le mont Erdshias Dagh.</hi></p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0496_002.tif"/>
+            <milestone unit="textregion" xml:id="p002_r_6"/>            <p> 
+               <lb xml:id="p002_r_6_tl_1"/>Unter der Leitung von Atatürk und seinem Nach 
+               <lb xml:id="p002_r_6_tl_2" break="no"/>folger als Staatschef, Ismet Inönü, hat sich die 
+               <lb xml:id="p002_r_6_tl_3"/>Türkei zu einem modernen Staat entwickelt, der 
+               <lb xml:id="p002_r_6_tl_4"/>sich weitgehend abendländische Zivilisation ange 
+               <lb xml:id="p002_r_6_tl_5" break="no"/>eignet hat. Aber ganz ist die alte Türkei noch nicht 
+               <lb xml:id="p002_r_6_tl_6"/>verschwunden, und wer Gelegenheit hat, nicht nur 
+               <lb xml:id="p002_r_6_tl_7"/>die großen Städte zu besuchen, sondern durch alle 
+               <lb xml:id="p002_r_6_tl_8"/>Landesteile zu fahren, der findet in den Sitten und
+               <milestone unit="textregion" xml:id="p002_r_7"/> 
+               <lb xml:id="p002_r_7_tl_1"/>Gebräuchen, in der Lebensführung und in den An 
+               <lb xml:id="p002_r_7_tl_2" break="no"/>schauungen immer noch viel, was an die Kultur der 
+               <lb xml:id="p002_r_7_tl_3"/>Vergangenheit erinnert und auch zeigt, wie zäh 
+               <lb xml:id="p002_r_7_tl_4"/>ein Volk an seinem Herkommen festhält. Heute 
+               <lb xml:id="p002_r_7_tl_5"/>ist die Aufmerksamkeit der Welt wieder auf 
+               <lb xml:id="p002_r_7_tl_6"/>die Türkei gerichtet. Was wird das Land dem 
+               <lb xml:id="p002_r_7_tl_7" break="no"/>nächst erleben, und welches wird das Schicksal 
+               <lb xml:id="p002_r_7_tl_8"/>seiner Zukunft sein?</p>
+
+            <milestone unit="textregion" xml:id="p002_r"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p002_l"/>Sammlerin von Lumpen</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p002_r_3"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_3_tl_1"/>Ein Zigeunermädchen in Ankara. Mit einem großen Sack zieht es durch die 
+               <lb xml:id="p002_r_3_tl_2"/>Straßen und sammelt Lumpen und Papier. – <hi rendition="#i">Jeune Tzigane occupée à ramasser 
+                  <lb xml:id="p002_r_3_tl_3"/>des chiffons et du papier.</hi></p>
+
+            <milestone unit="textregion" xml:id="p002_r_4"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p002_l_141"/>Kurdinnen</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p002_r_5"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_5_tl_1"/>Kurdenfrauen in Sultan han im anatolischen Hochland beim Herstellen von Nudeln. Sie besitzen darin 
+               <lb xml:id="p002_r_5_tl_2"/>eine große Fertigkeit und kommen doch mit den einfachsten Hilfsmitteln aus. Eine lockere Stein 
+               <lb xml:id="p002_r_5_tl_3" break="no"/>mauer schließt den "Kochraum" nur dürftig ab. <hi rendition="#i">– Cuisine en plein air en Anatolie. Ces femmes 
+                  <lb xml:id="p002_r_5_tl_4"/>confectionnent des nouilles.</hi></p>
+
+            <milestone unit="textregion" xml:id="p002_r_8"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p002_l_181"/>Verschleierte Frauen</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p002_r_9"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_9_tl_1"/>Der Schleier ist zwar in der modernen Türkei abgeschafft worden, aber in den einsamen Dörfern tief im Innern von 
+               <lb xml:id="p002_r_9_tl_2"/>Anatolien gehen die Frauen noch schwer verschleiert zum Markt. – <hi rendition="#i">Kemal Ataturk a supprimé le voile dont 
+                  <lb xml:id="p002_r_9_tl_3"/>les femmes turques se couvraient le visage, mais dans certains villages de l'intérieur de l'Anatolie, l'antique 
+                  <lb xml:id="p002_r_9_tl_4"/>coutume n'a pas encore disparu.</hi></p>
+
+            <milestone unit="textregion" xml:id="p002_r_10"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p002_l_206"/>Wasserbüffel</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p002_r_11"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_11_tl_1"/>Wasserbüffel in Anatolien. Diese kräftigen Tiere sind äußerst wert 
+               <lb xml:id="p002_r_11_tl_2" break="no"/>volle Helfer als Zugtiere und werden daher noch viel gehalten. 
+               <lb xml:id="p002_r_11_tl_3"/><hi rendition="#i">Le buffle d'Anatolie rend de précieux services aux agriculteurs</hi></p>
+            <p> 
+               <lb xml:id="p002_r_11_tl_4"/>(Aufnahmen von Annemarie Clara [sic] -Schwarzenbach)</p>
+</div>
+       </body>
+    </text>
+ </TEI>
