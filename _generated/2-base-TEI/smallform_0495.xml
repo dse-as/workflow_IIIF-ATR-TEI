@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0495" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0495#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0495</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0495"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0495_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0495_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l"/>ORIENT 
+               <lb xml:id="p001_l_3"/>TEPPICHE WEBSTÜHLE UND STICKEREIEN 
+               <lb xml:id="p001_r_tl_5"/>Aufnahmen und Text von Annemarie Clarac-Schwarzenbach</p>
+
+            <milestone unit="textregion" xml:id="p001_r_6"/>            <p> 
+               <lb xml:id="p001_r_6_tl_1"/>Orient-Teppiche, besonders aus der Türkei und aus 
+               <lb xml:id="p001_r_6_tl_4"/>Persien, sind in Europa schon seit Jahrhunderten gekauft 
+               <lb xml:id="p001_r_6_tl_7"/>und verwendet worden. Manchmal war die Nachfrage [Spaltenbruch] 
+               <lb xml:id="p001_r_6_tl_2"/>so groß, daß die Teppichknüpfer in fernen orientalischen 
+               <lb xml:id="p001_r_6_tl_5"/>Gegenden sich dem Geschmack europäischer Länder an 
+               <lb xml:id="p001_r_6_tl_8" break="no"/>zupassen suchten. Dies gilt z. B. für die berühmten [Spaltenbruch] 
+               <lb xml:id="p001_r_6_tl_3"/>"Polenteppiche", die in Persien für polnische Fürsten 
+               <lb xml:id="p001_r_6_tl_6" break="no"/>häuser entworfen und hergestellt wurden. – Ich bin kein 
+               <lb xml:id="p001_r_6_tl_9"/>Teppichkenner und könnte daher nicht über die heutigen               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+</p>
+
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_r_2_tl_1"/>Frauen der Hazarah am Sticken (vgl. auch smallform_0429)</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_4"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_4_tl_1"/>Die scheuen Frauen der im Hindukusch lebenden, mongolischen Hazarah sticken 
+               <lb xml:id="p001_r_4_tl_2"/>mit großer Kunst die von ihnen gewobenen und genähten Kleider. Sie bevor 
+               <lb xml:id="p001_r_4_tl_3" break="no"/>zugen dunkelrote Stickerei und bedecken Aermel, Saum, oft auch die Brust der 
+               <lb xml:id="p001_r_4_tl_4"/>männlichen und weiblichen Kleidungsstücke mit reichen Mustern. – <hi rendition="#i">Afghane: 
+                  <lb xml:id="p001_r_4_tl_5"/>brodant des vêtements qu'elles ont tissés et cousus elles-mêmes. Leurs préférences 
+                  <lb xml:id="p001_r_4_tl_6"/>vont aux broderies rouge foncé.</hi></p>
+
+            <milestone unit="textregion" xml:id="p001_r_3"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_8"/>Frauen der Hazarah vor Webstühlen</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_5"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_5_tl_1"/>Die von den Nomaden auf primitiven Stühlen gewobenen Wollstoffe sind von aus 
+               <lb xml:id="p001_r_5_tl_2" break="no"/>gezeichneter Qualität. Diese Frauen gehören zum im Hindukusch in Afghanistan 
+               <lb xml:id="p001_r_5_tl_3"/>lebenden Stamme der Hazarah. Sie sind teils Halbnomaden, teils wohnen sie in ihren 
+               <lb xml:id="p001_r_5_tl_4"/>primitiven Dörfern unter sehr harten Bedingungen. – <hi rendition="#i">Si le métier à tisser est primitif, 
+                  <lb xml:id="p001_r_5_tl_5"/>l'étoffe, elle, est à toute épreuve. Scène prise dans l'Hindukush, en Afghanistan.</hi></p>
+
+            <milestone unit="textregion" xml:id="p001_r_10"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_139"/>Drei Männer auf Maultieren</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_15"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_15_tl_1"/>Teppiche und Kelims (gewoben statt geknüpft) werden für viele Zwecke verwendet, zum Beispiel hat hier ein Perser 
+               <lb xml:id="p001_r_15_tl_2"/>einen Kelim über den Sattel seines Maultiers gelegt, um den Sitz weicher zu machen. – <hi rendition="#i">Tapis et kelims (tissés et non 
+                  <lb xml:id="p001_r_15_tl_3"/>noués) servent à toute sorte d'usages, par exemple à rendre plus confortable une selle de mulet.</hi></p>
+
+            <milestone unit="textregion" xml:id="p001_r_20"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_16"/>Teppichhändler in Andkhoi</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_25"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_25_tl_1"/>Diese Teppichhändler im Bazar des Städtchens Andkhoi in Afghanisch-Turkestan 
+               <lb xml:id="p001_r_25_tl_2"/>sind Kenner und ebenso leidenschaftliche Liebhaber guter Teppiche wie irgendein 
+               <lb xml:id="p001_l_1"/>Experte in Europa. – <hi rendition="#i">Ces marchands de tapis du bazar d'Andkhoi, dans le Turkestan 
+                  <lb xml:id="p001_l_2"/>afghan, sont aussi bons connaisseurs que les experts occidentaux les plus difficiles.</hi></p>
+
+            <milestone unit="textregion" xml:id="p001_r_38"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_4"/>Schafwolle in Ballen</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_39"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_39_tl_1"/>In Afghanistan gibt es große Schafherden, besonders in den Nordprovinzen, die 
+               <lb xml:id="p001_r_39_tl_2"/>jenseits des Hindukusch liegen (Afghanisch-Turkestan). Ein Teil dieser Wolle 
+               <lb xml:id="p001_r_39_tl_3"/>wird nach dem benachbarten sowjetrussischen Turkestan exportiert, ein Teil wird im 
+               <lb xml:id="p001_r_39_tl_4"/>Lande zum Weben oder zur Teppichfabrikation verwendet. –<hi rendition="#i"> La laine des 
+                  <lb xml:id="p001_r_39_tl_5"/>troupeaux de moutons du Nord de l'Afghanistan est utilisée en partie dans le pay 
+                  <lb xml:id="p001_r_39_tl_6"/>même. pour la tisser ou en faire des tapis. en partie pour l'exportation en Russie.</hi></p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0495_002.tif"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p> 
+               <lb xml:id="p002_r_tl_1"/>                <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+<hi rendition="#i">Orient-Teppiche vom Standpunkt des Experten, 
+                  <lb xml:id="p002_r_tl_2"/>Sammlers oder Käufers aus schreiben. Hinge 
+                  <lb xml:id="p002_r_tl_3" break="no"/>gen habe ich in den Ländern des Nahen und 
+                  <lb xml:id="p002_r_tl_4"/>Mittleren Ostens gesehen, welche Rolle Tep 
+                  <lb xml:id="p002_r_tl_5" break="no"/>piche, Kelims, bedruckte Baumwollstoffe (Ka 
+                  <lb xml:id="p002_r_tl_6" break="no"/>lamkas), Stickereien, überhaupt alle Zweige der 
+                  <lb xml:id="p002_r_tl_7"/>Textilkunst, heute noch im täglichen Leben 
+                  <lb xml:id="p002_r_tl_8"/>spielen. Ich habe selbst unter kurdischen Decken 
+                  <lb xml:id="p002_r_tl_9"/>aus Ziegenhaar oder auf Teppichen im Freien 
+                  <lb xml:id="p002_r_tl_10"/>geschlafen, habe auf Teppichen gegessen, Kelims 
+                  <lb xml:id="p002_r_tl_11"/>über meinen Sattel gelegt. Ich sah, mit welcher 
+                  <lb xml:id="p002_r_tl_12"/>Liebe Nomadenfrauen Satteltaschen und Zelt 
+                  <lb xml:id="p002_r_tl_13" break="no"/>streifen kunstvoll weben, wie sie Kleider be 
+                  <lb xml:id="p002_r_tl_14" break="no"/>sticken, wie sie auf primitiven Webstühlen 
+                  <lb xml:id="p002_r_tl_15"/>wunderbare Wollstoffe herstellen. In iranischen 
+                  <lb xml:id="p002_r_tl_16"/>und afghanischen Dörfern werden heute wie in 
+                  <lb xml:id="p002_r_tl_17"/>alten Zeiten Baumwollstoffe mit traditionellen 
+                  <lb xml:id="p002_r_tl_18"/>Mustern bedruckt und an der Sonne zum Trock 
+                  <lb xml:id="p002_r_tl_19" break="no"/>nen ausgebreitet. Wie wir einen " Buchara ", 
+                  <lb xml:id="p002_r_tl_20"/>"Senne", "Smyrna", "Schiraz" oder einen kau 
+                  <lb xml:id="p002_r_tl_21" break="no"/>kasischen Teppich voneinander zu unterschei 
+                  <lb xml:id="p002_r_tl_22" break="no"/>den wissen, kennt der Afghane einen einhei 
+                  <lb xml:id="p002_r_tl_23" break="no"/>mischen "Daulatabad", und beim Handel im 
+                  <lb xml:id="p002_r_tl_24"/>Bazar finden sich liebevolle Kenner mit dem 
+                  <lb xml:id="p002_r_tl_25" break="no"/>selben Ernst zusammen wie bei uns die Exper 
+                  <lb xml:id="p002_r_tl_26" break="no"/>ten auf einer Auktion. Aber bei uns gehört 
+                  <lb xml:id="p002_r_tl_27"/>ein schöner Teppich zu den Luxusgegenständen. 
+                  <lb xml:id="p002_r_tl_28"/>Im Orient sind Teppiche, wie alle andern 
+                  <lb xml:id="p002_r_tl_29"/>Textilien, unentbehrliche Gegenstände des täg 
+                  <lb xml:id="p002_r_tl_30" break="no"/>lichen Gebrauchs.</hi></p>
+
+            <milestone unit="textregion" xml:id="p002_r_2"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p002_l"/>Teppichknüpfer in Meshed</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p002_r_6"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_6_tl_1"/>In Meshed blüht heute noch die Kunst der Tep 
+               <lb xml:id="p002_r_6_tl_2" break="no"/>pichknüpferei, und Kinder im Alter von 12 bis 
+               <lb xml:id="p002_r_6_tl_3"/>16 Jahren helfen schon tüchtig mit und besitzen 
+               <lb xml:id="p002_r_6_tl_4"/>eine erstaunliche Geschicklichkeit. – <hi rendition="#i">A Meshed, 
+                  <lb xml:id="p002_r_6_tl_5"/>les enfants aident dès leur douzième année à la 
+                  <lb xml:id="p002_r_6_tl_6"/>fabrication des tapis. (Phot. Ella Maillart)</hi></p>
+
+            <milestone unit="textregion" xml:id="p002_r_7"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p002_l_4"/>Frauen und Mädchen in einem Garten</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p002_r_12"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_12_tl_1"/>Die Frauen und kleinen Mädchen eines Dorfbürgermeisters 
+               <lb xml:id="p002_r_12_tl_2"/>in Afghanisch-Turkestan sitzen auf einem Teppich im Garten 
+               <lb xml:id="p002_r_12_tl_3"/>in Erwartung der Reismahlzeit ("Palaw"). – <hi rendition="#i">Femmes et fil 
+                  <lb xml:id="p002_r_12_tl_4" break="no"/>lettes d'un maire de village du Turkestan afghan attendent 
+                  <lb xml:id="p002_r_12_tl_5"/>sur un tapis l'heure de leur traditionnel repas au riz (palaw).</hi></p>
+
+            <milestone unit="textregion" xml:id="p002_r_17"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p002_r_17_tl_1"/>Kamel-Karawane bei Täbriz</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p002_r_22"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_22_tl_1"/>Täbriz oder "Tauriz" in Nord-Persien ist seit alters ein Zentrum 
+               <lb xml:id="p002_r_22_tl_2"/>des Teppichhandels. Noch immer werden die Perserteppiche 
+               <lb xml:id="p002_r_22_tl_3"/>meistens auf dem Karawanenwege befördert. – T<hi rendition="#i">abriz est un 
+                  <lb xml:id="p002_r_22_tl_4"/>centre universellement connu de l'industrie des tapis de Perse. 
+                  <lb xml:id="p002_r_22_tl_5"/>C'est de là que de longues caravanes les emportent vers les 
+                  <lb xml:id="p002_r_22_tl_6"/>ports d'où ils seront expédiés dans le vaste monde.</hi></p>
+
+            <milestone unit="textregion" xml:id="p002_r_27"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p002_l_38"/>Teppichwäschung in einer Quelle bei Shah-Abdul-Azim</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p002_r_32"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p002_r_32_tl_1"/>In den asiatischen Ländern wissen die Leute mehr 
+               <lb xml:id="p002_r_32_tl_2"/>über die Pflege von Teppichen als wir. Wie bei 
+               <lb xml:id="p002_r_32_tl_3"/>uns die "Frühlingsputzete", findet z. B. in Iran 
+               <lb xml:id="p002_r_32_tl_4"/>(Persien) im Frühjahr die Teppichwäscherei fast 
+               <lb xml:id="p002_r_32_tl_5"/>wie eine Zeremonie statt. Die Bewohner von Teheran 
+               <lb xml:id="p002_r_32_tl_6"/>und der umliegenden Dörfer bringen ihre Teppiche 
+               <lb xml:id="p002_r_32_tl_7"/>in das wegen seiner Wallfahrtsmoschee berühmte 
+               <lb xml:id="p002_r_32_tl_8"/>Dorf Shah-Abdul-Azim, und dort, in einer am Fuß 
+               <lb xml:id="p002_r_32_tl_9"/>einer Felswand gelegenen heiligen Quelle, werden 
+               <lb xml:id="p002_r_32_tl_10"/>die Teppiche von geschulten Arbeitern gewaschen, 
+               <lb xml:id="p002_r_32_tl_11"/>mit den Füßen gestampft und endlich auf den Fel 
+               <lb xml:id="p002_r_32_tl_12" break="no"/>sen in der Sonne getrocknet. – <hi rendition="#i">Le nettoyage de 
+                  <lb xml:id="p002_r_32_tl_13"/>printemps des tapis dans la source sacrée de 
+                  <lb xml:id="p002_r_32_tl_14"/>Shah Abdul Azim, en Iran.</hi></p>
+</div>
+       </body>
+    </text>
+ </TEI>
