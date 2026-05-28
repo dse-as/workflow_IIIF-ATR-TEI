@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@main/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xml:id="smallform_0007"
      type="dseas-smallform">
@@ -18,12 +18,32 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <p/>
+            <bibl corresp="smallform_0007">
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
          <textClass>
             <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
                <list>
                   <item/>
                </list>
@@ -31,13 +51,17 @@
          </textClass>
       </profileDesc>
    </teiHeader>
-   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0007_facs.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0007_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
    <text>
-      <body><!--IIIF Image or Presentation URL?-->
-         <pb xml:id="smallform_0007_001"
-             facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0007_001.png/info.json"/>
-         <milestone unit="textregion" xml:id="smallform_0007_001_r_6"/>
-         <lb xml:id="smallform_0007_001_r_tl_3"/>Novelle [Schlagwörter: Vergewaltigung, Sexualität, Freundschaft, Krieg, Traum, Jugend]
+      <body>
+         <div type="smallform">
+            <pb xml:id="smallform_0007_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0007_001.png"/>
+            <milestone unit="textregion" xml:id="smallform_0007_001_r_6"/>
+            <lb xml:id="smallform_0007_001_r_tl_3"/>Novelle [Schlagwörter: Vergewaltigung, Sexualität, Freundschaft, Krieg, Traum, Jugend]
 <lb xml:id="smallform_0007_001_r_tl_5"/>von Annemarie Schwarzenbach.<CONV tag="p">
 <lb xml:id="smallform_0007_001_r_tl_7"/>Sie wissen nicht, wie lange sie schon gefahren
 <lb xml:id="smallform_0007_001_l"/>sind: es ist Nacht geworden und der Wind weht
@@ -145,15 +169,13 @@
 <lb xml:id="smallform_0007_001_l_741"/>Straße liegen.</CONV><CONV tag="p">
 <lb xml:id="smallform_0007_001_r_tl_19"/>Martin schrie, als er ihn sah. Er schrie immer¬
 <lb xml:id="smallform_0007_001_l_848"/>fort (es war ihm, als müsse er so stehen bleiben[,]
-
 <lb xml:id="smallform_0007_001_l_949"/>das Entsetzliche war so nah vor ihm, und er müßte
 <lb xml:id="smallform_0007_001_r_tl_23"/>schreien, schreien ...), bis eine Frau seinen Arm
 <lb xml:id="smallform_0007_001_l_1086"/>packte und ihn fortzerrte. — Da zog er dann
 <lb xml:id="smallform_0007_001_l_1154"/>herum, und das Entsetzen blieb in seinen Augen
 <lb xml:id="smallform_0007_001_l_1222"/>und in der Nacht sah er es wieder, den zertrüm¬
 <lb xml:id="smallform_0007_001_l_1290"/>merten Kopf und das Blut und er schrie im
-<lb xml:id="smallform_0007_001_l_54"/>Traum.</CONV>
-<CONV tag="p">
+<lb xml:id="smallform_0007_001_l_54"/>Traum.</CONV><CONV tag="p">
 <lb xml:id="smallform_0007_001_r_tl_30"/>Erik sah ihn eines Abends, als sie Kartoffeln
 <lb xml:id="smallform_0007_001_l_1439"/>suchten auf den zerstampften Feldern — sah seine
 <lb xml:id="smallform_0007_001_l_1510"/>Augen und nahm ihn mit. In der ersten Nacht —
@@ -164,8 +186,8 @@
 <lb xml:id="smallform_0007_001_l_1826"/>einschlief.</CONV><CONV tag="p">
 <lb xml:id="smallform_0007_001_r_tl_39"/>Seltsam ist die Frau: schön, zart und hilflos.
 <lb xml:id="smallform_0007_001_l_1897"/>
-         <!--FML: this needs attention (was tagged as "del" in Transkribus)-->
-         <lb xml:id="smallform_0007_001_l_1965"/>Inmitten des großen Getöns, inmitten von Feuer
+            <!--FML: this needs attention (was tagged as "del" in Transkribus)-->
+            <lb xml:id="smallform_0007_001_l_1965"/>Inmitten des großen Getöns, inmitten von Feuer
 <lb xml:id="smallform_0007_001_r_tl_42"/>und erschreckten Pferden. Auf kahlen Feldern
 <lb xml:id="smallform_0007_001_l_2063"/>stehen Bauern, weichen den Soldaten aus, die
 <lb xml:id="smallform_0007_001_l_2131"/>wüst sind vom Kampf in der Nacht. Die Bauern
@@ -212,8 +234,8 @@
 <lb xml:id="smallform_0007_001_r_tl_93"/>Kissen liegen unter ihrem Kopf. Von der Decke
 <lb xml:id="smallform_0007_001_l_4945"/>heben sich ihre Hände ab, blaß vor Krankheit. Ihr
 <lb xml:id="smallform_0007_001_r_tl_96"/>
-         <!--FML: this needs attention (was tagged as "del" in Transkribus)-->
-         <lb xml:id="smallform_0007_001_l_5016"/>Gesicht liegt im Schatten. Die Sonnenstrahlen tan¬
+            <!--FML: this needs attention (was tagged as "del" in Transkribus)-->
+            <lb xml:id="smallform_0007_001_l_5016"/>Gesicht liegt im Schatten. Die Sonnenstrahlen tan¬
 <lb xml:id="smallform_0007_001_l_5084"/>zen auf und ab, auf dem Boden, über das Bett,
 <lb xml:id="smallform_0007_001_l_5152"/>vor Eriks Augen. Langsam und geblendet tritt
 <lb xml:id="smallform_0007_001_r_tl_100"/>er in das Zimmer, bleibt wieder stehen, mit be¬
@@ -255,7 +277,7 @@
 <lb xml:id="smallform_0007_001_r_2_tl_22"/>„Sie geht wie eine Heilige, und das Licht leuchtet
 <lb xml:id="smallform_0007_001_r_2_tl_23"/>vor ihr.“ Um Dich, kleiner Knabe, ist Dunkelheit.
 <lb xml:id="smallform_0007_001_r_2_tl_24"/>Gestalten in ihr, die sich um Dich drängen. „Erik",
-<lb xml:id="smallform_0007_001_r_2_tl_25"/>sagen sie, und Du erschricksi vor Deinem Namen.
+<lb xml:id="smallform_0007_001_r_2_tl_25"/>sagen sie, und Du erschrickst vor Deinem Namen.
 <lb xml:id="smallform_0007_001_r_2_tl_26"/>„Erik, fasse meine Hände, wie kalt sie sind!“ Und
 <lb xml:id="smallform_0007_001_r_2_tl_27"/>nun fühlst Du diese kalten Hände ganz nahe vor
 <lb xml:id="smallform_0007_001_r_2_tl_28"/>Deinem Gesicht, und die Stimme auch, und das
@@ -361,9 +383,8 @@
 <lb xml:id="smallform_0007_001_r_2_tl_126"/>rasch in ohnmächtigem Widerstand.</CONV><CONV tag="p">
 <lb xml:id="smallform_0007_001_r_2_tl_127"/>Nach sechs Tagen kündigt sich, mit plötzlicher
 <lb xml:id="smallform_0007_001_l_250"/>Ruhe, scheinbare Besserung an. Dieter liegt unsag¬
-<lb xml:id="smallform_0007_001_l_265"/>bar blaß, unsagbar schmal, auf dem breiten
-<milestone unit="textregion" xml:id="smallform_0007_001_r_3"/>
-         <lb xml:id="smallform_0007_001_r_3_tl_1"/>Bauernbett. Seine großen und glanzvollen Augen
+<lb xml:id="smallform_0007_001_l_265"/>bar blaß, unsagbar schmal, auf dem breiten<milestone unit="textregion" xml:id="smallform_0007_001_r_3"/>
+            <lb xml:id="smallform_0007_001_r_3_tl_1"/>Bauernbett. Seine großen und glanzvollen Augen
 <lb xml:id="smallform_0007_001_r_3_tl_2"/>blicken, aus anderer Welt, zu den Gefährten, die
 <lb xml:id="smallform_0007_001_r_3_tl_3"/>ihm stumm zulächeln — bleiben dann an Erik
 <lb xml:id="smallform_0007_001_r_3_tl_4"/>hängen, der fassungslos die kranken kleinen Hände
@@ -382,8 +403,7 @@
 <lb xml:id="smallform_0007_001_r_3_tl_17"/>an sein Herz — oder kommen sie daraus —.</CONV><CONV tag="p">
 <lb xml:id="smallform_0007_001_r_3_tl_18"/>Manchmal ergreift ihn die Lust, zu weinen.
 <lb xml:id="smallform_0007_001_r_3_tl_19"/>Das Schluchzen drängt in ihm. Aber wer würde
-<lb xml:id="smallform_0007_001_r_3_tl_20"/>ihn trösten. Es wäre besser, liegen zu bleiben.</CONV>
-<CONV tag="p">
+<lb xml:id="smallform_0007_001_r_3_tl_20"/>ihn trösten. Es wäre besser, liegen zu bleiben.</CONV><CONV tag="p">
 <lb xml:id="smallform_0007_001_r_3_tl_21"/>Der Tag beginnt, die Gefährten erwachen.
 <lb xml:id="smallform_0007_001_r_3_tl_22"/>Dietrich mit dem blonden Haar, und Martin der
 <lb xml:id="smallform_0007_001_r_3_tl_23"/>Pfarrerssohn, — dann Eberhart und Hans, der
@@ -393,6 +413,7 @@
 <lb xml:id="smallform_0007_001_r_3_tl_27"/>verhalten sie sind. — Nun geben sie sich die Hände
 <lb xml:id="smallform_0007_001_r_3_tl_28"/>zum Morgengruß. Erik denkt: Unsere Hände lieben
 <lb xml:id="smallform_0007_001_r_3_tl_29"/>sich. Dann gehen sie. Langsam gehen sie durch den
-<lb xml:id="smallform_0007_001_r_3_tl_30"/>Nebel, ohne Hast.</CONV></body>
+<lb xml:id="smallform_0007_001_r_3_tl_30"/>Nebel, ohne Hast.</CONV></div>
+      </body>
    </text>
 </TEI>

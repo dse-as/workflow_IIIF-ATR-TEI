@@ -1,33 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <validation-wrapper>
-   <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
-          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-          xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+   <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
       <Metadata>
          <Creator>prov=READ-COOP:name=TrHtr:version=2.19.0:model_id=51170:date=05_11_2024_11:47</Creator>
          <Created>2024-11-02T14:56:25.703+01:00</Created>
-         <LastChange>2024-11-29T13:27:56.737+01:00</LastChange>
+         <LastChange>2026-05-21T13:36:47.600+02:00</LastChange>
          <TranskribusMetadata docId="4946502"
                               pageId="81816013"
                               pageNr="1"
-                              tsid="199103093"
-                              status="IN_PROGRESS"
                               userId="194245"
-                              imgUrl="https://files.transkribus.eu/Get?id=KTFEMHLPACZWEPJGXDERPLLS&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;fileType=view"
-                              xmlUrl="https://files.transkribus.eu/Get?id=TIJAZOOJCYTFQJNNXYDRPWQY"
+                              imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=KTFEMHLPACZWEPJGXDERPLLS"
                               imageId="67201000"/>
       </Metadata>
       <Page imageFilename="smallform_0007_001.jpg"
             imageWidth="3760"
             imageHeight="5440">
-         <ReadingOrder>
-            <OrderedGroup id="ro_1732883276738" caption="Regions reading order">
-               <RegionRefIndexed index="0" regionRef="r_6"/>
-               <RegionRefIndexed index="1" regionRef="r_7"/>
-               <RegionRefIndexed index="2" regionRef="r_2"/>
-               <RegionRefIndexed index="3" regionRef="r_3"/>
-            </OrderedGroup>
-         </ReadingOrder>
          <TextRegion id="r_6" custom="readingOrder {index:0;}">
             <Coords points="150,8 1016,8 1016,3910 150,3910"/>
             <TextLine id="r_tl_3" custom="readingOrder {index:0;}">
@@ -789,8 +776,7 @@
                <Coords points="1010,650 1908,660 1906,624 1814,615 1010,626"/>
                <Baseline points="1016,635 1092,632 1182,632 1271,638 1361,638 1451,638 1540,638 1630,638 1719,638 1809,638 1898,632 1909,633"/>
                <TextEquiv>
-                  <Unicode>fort (es war ihm, als müsse er so stehen bleiben[,]
-</Unicode>
+                  <Unicode>fort (es war ihm, als müsse er so stehen bleiben[,]</Unicode>
                </TextEquiv>
             </TextLine>
             <TextLine id="l_949" custom="readingOrder {index:15;}">
@@ -839,8 +825,7 @@
                <Coords points="1047,930 1169,930 1169,900 1047,900"/>
                <Baseline points="1047,930 1169,930"/>
                <TextEquiv>
-                  <Unicode>Traum.\:p\
-</Unicode>
+                  <Unicode>Traum.\:p\</Unicode>
                </TextEquiv>
             </TextLine>
             <TextLine id="r_tl_30" custom="readingOrder {index:22;}">
@@ -910,8 +895,7 @@
                <Coords points="1016,1233 1021,1232 1021,1282 1016,1283"/>
                <Baseline points="1016,1278 1021,1277"/>
                <TextEquiv>
-                  <Unicode>\del\
-</Unicode>
+                  <Unicode>\del\</Unicode>
                </TextEquiv>
             </TextLine>
             <TextLine id="l_1965" custom="readingOrder {index:32;}">
@@ -1240,8 +1224,7 @@
                <Coords points="1892,3148 1898,3148 1900,3150 1902,3148 1908,3148 1908,3114 1901,3114 1900,3116 1892,3116"/>
                <Baseline points="1898,3140 1909,3140"/>
                <TextEquiv>
-                  <Unicode>\del\
-</Unicode>
+                  <Unicode>\del\</Unicode>
                </TextEquiv>
             </TextLine>
             <TextLine id="l_5016" custom="readingOrder {index:79;}">
@@ -1548,7 +1531,7 @@
                <Coords points="1911,1068 2781,1040 2781,995 2613,1029 1911,1020"/>
                <Baseline points="1917,1033 1994,1039 2084,1039 2173,1039 2263,1039 2352,1039 2442,1039 2531,1039 2621,1039 2711,1039 2784,1039"/>
                <TextEquiv>
-                  <Unicode>sagen sie, und Du erschricksi vor Deinem Namen.</Unicode>
+                  <Unicode>sagen sie, und Du erschrickst vor Deinem Namen.</Unicode>
                </TextEquiv>
             </TextLine>
             <TextLine id="r_2_tl_26" custom="readingOrder {index:25;}">
@@ -2290,8 +2273,7 @@
                <Coords points="1948,5263 2763,5260 2763,5230 1948,5233"/>
                <Baseline points="1948,5263 2763,5260"/>
                <TextEquiv>
-                  <Unicode>bar blaß, unsagbar schmal, auf dem breiten
-</Unicode>
+                  <Unicode>bar blaß, unsagbar schmal, auf dem breiten</Unicode>
                </TextEquiv>
             </TextLine>
             <TextEquiv>
@@ -2437,8 +2419,7 @@
                <Coords points="2767,854 3538,858 3518,812 2767,814"/>
                <Baseline points="2773,836 2854,836 2943,836 3033,836 3123,836 3212,836 3302,836 3391,836 3481,836 3541,836"/>
                <TextEquiv>
-                  <Unicode>ihn trösten. Es wäre besser, liegen zu bleiben.\:p\
-</Unicode>
+                  <Unicode>ihn trösten. Es wäre besser, liegen zu bleiben.\:p\</Unicode>
                </TextEquiv>
             </TextLine>
             <TextLine id="r_3_tl_21" custom="readingOrder {index:20;}">
