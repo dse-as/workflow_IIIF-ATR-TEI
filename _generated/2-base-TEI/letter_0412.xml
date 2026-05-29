@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0412" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0412#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0412</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0412_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://www.e-manuscripta.ch/i3f/v20/5289841"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l"/>AMERICAN EXPORT LINES 
+               <lb xml:id="p001_l_1"/>ON BOARD 
+               <lb xml:id="p001_l_2"/>S. S.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l_3"/>Bitte 
+               <lb xml:id="p001_l_4"/>Bitte kom[m] bald – 
+               <lb xml:id="p001_l_5"/>kom 
+               <lb xml:id="p001_l_6"/>BA[L]D – 
+               <lb xml:id="p001_l_7"/><hi rendition="#u">Kom[m] bald kom[m] 
+                  <lb xml:id="p001_l_8"/>bald</hi> 
+               <lb xml:id="p001_l_9"/>Grüsse[?] 
+               <lb xml:id="p001_l_11"/>[?] 
+               <lb xml:id="p001_l_10"/>Schwar</p>
+
+            <pb xml:id="p002" facs="https://www.e-manuscripta.ch/i3f/v20/5289842"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l"/>[?] vom 
+               <lb xml:id="p002_l_1"/>19. Okt. 42</p>
+
+            <pb xml:id="p003" facs="https://www.e-manuscripta.ch/i3f/v20/5289843"/>
+            <milestone unit="textregion" xml:id="p003_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_l"/>AMERICAN EXPORT LINES 
+               <lb xml:id="p003_l_1"/>ON BOARD 
+               <lb xml:id="p003_l_2"/>S. S. 
+               <lb xml:id="p003_l_3"/>[zwei unleserliche Lemmata und Tintenflecken]</p>
+
+            <pb xml:id="p004" facs="https://www.e-manuscripta.ch/i3f/v20/5289844"/>
+            <milestone unit="textregion" xml:id="p004_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_l"/>19. Okt. 42 
+               <lb xml:id="p004_l_1"/>Zupel[sic] Zuppinger 
+               <lb xml:id="p004_l_2"/>Sch[?] 25 Rüschlikon 
+               <lb xml:id="p004_l_3"/>Geliebtes [?] [?] Du [?] entschuldigen 
+               <lb xml:id="p004_l_4"/>3 Tagen u[nd] dass ja [?] [?] [?] 
+               <lb xml:id="p004_l_5"/>kom[m]te wagen 
+               <lb xml:id="p004_l_6"/>[?] 
+               <lb xml:id="p004_l_7"/>[?] 
+               <lb xml:id="p004_l_8"/>u. wen[n] 
+               <lb xml:id="p004_l_9"/>[?] [Rüschlikon?]</p>
+</div>
+       </body>
+    </text>
+ </TEI>
