@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0753" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0753#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0753</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0753_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0753_002.jpg"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_2_tl_1"/>c. 
+               <lb xml:id="p001_l"/>Herrn Pfarrer 
+               <lb xml:id="p001_l_1"/>Ernst Merz 
+               <lb xml:id="p001_l_2"/>Rein 
+               <lb xml:id="p001_l_3"/>b/ Brugg, Aargau 
+               <lb xml:id="p001_l_6"/>Horgen 
+               <lb xml:id="p001_l_4"/>30. VI. 25. 1. 
+               <lb xml:id="p001_l_5"/>VIII</p>
+
+            <milestone unit="textregion" xml:id="p001_tr_2"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>30. VI. 25. 
+               <lb xml:id="p001_tr_1_tl_2"/>Lieber Herr Pfarrer! 
+               <lb xml:id="p001_tr_1_tl_3"/>Wie wir eben nach 
+               <lb xml:id="p001_tr_1_tl_4" break="no"/>gesehen haben, bin 
+               <lb xml:id="p001_tr_1_tl_5"/>ich am 19. September 
+               <lb xml:id="p001_tr_1_tl_6"/>1908 in Zürich-Enge 
+               <lb xml:id="p001_l_7"/>von Pfarrer Ganz 
+               <lb xml:id="p001_tr_1_tl_9"/>getauft. (Geb. 23. V.)</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0753_001.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>Die Rede schicke ich 
+               <lb xml:id="p002_tr_1_tl_2"/>Ihnen morgen, weil 
+               <lb xml:id="p002_tr_1_tl_3"/>Mama sie noch lesen 
+               <lb xml:id="p002_tr_1_tl_4"/>will. – 
+               <lb xml:id="p002_tr_1_tl_5"/>Hier ein Bild aus dem 
+               <lb xml:id="p002_tr_1_tl_6"/>Aegerisee. Viele 
+               <lb xml:id="p002_tr_1_tl_7"/>herzliche Grüße von 
+               <lb xml:id="p002_tr_1_tl_8"/>Annemarie</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0753_003.jpg"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_1"/>Die Rede schicke ich 
+               <lb xml:id="p003_tr_1_tl_2"/>Innen morgen, veel 
+               <lb xml:id="p003_tr_1_tl_3"/>mani sic noe e 
+               <lb xml:id="p003_tr_1_tl_4"/>wel. 
+               <lb xml:id="p003_tr_1_tl_5"/>er en Bel aus aen 
+               <lb xml:id="p003_tr_1_tl_6" break="no"/>aegerisée. Viele 
+               <lb xml:id="p003_tr_1_tl_7"/>herzliche Gruße von 
+               <lb xml:id="p003_tr_1_tl_8"/>Cnemacte</p>
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0753_004.jpg"/>
+            <pb xml:id="p005" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0753_005.jpg"/>
+            <milestone unit="textregion" xml:id="p005_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p005_tr_1_tl_1"/> 
+               <lb xml:id="p005_tr_1_tl_2"/> 
+               <lb xml:id="p005_tr_1_tl_3"/> 
+               <lb xml:id="p005_tr_1_tl_4"/> 
+               <lb xml:id="p005_tr_1_tl_5"/> 
+               <lb xml:id="p005_tr_1_tl_6"/> 
+               <lb xml:id="p005_tr_1_tl_7"/> 
+               <lb xml:id="p005_tr_1_tl_8"/> </p>
+
+            <pb xml:id="p006" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0753_006.jpg"/></div>
+       </body>
+    </text>
+ </TEI>
