@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0756"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0756</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0756_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0756_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0756_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0756_001_tr_1"/>
+            <lb xml:id="letter_0756_001_tr_1_tl_1"/>12. Okt. 29
+<lb xml:id="letter_0756_001_tr_1_tl_2"/>Lieber Herr Pfarrer!
+<lb xml:id="letter_0756_001_tr_1_tl_3"/>Ich habe – in Folge des letzten Artikels –
+<lb xml:id="letter_0756_001_tr_1_tl_4"/>ein recht gutes Referat bekommen, in dem
+<lb xml:id="letter_0756_001_tr_1_tl_5"/>ich meine Bemerkungen machen soll.
+<lb xml:id="letter_0756_001_tr_1_tl_6"/>Auch sonst wird mir viel davon geschrieben.
+<lb xml:id="letter_0756_001_tr_1_tl_7"/>Es muss fein werden am Führertag. Aber ich
+<lb xml:id="letter_0756_001_tr_1_tl_8"/>werde wohl nicht mehr dabei sein.
+<lb xml:id="letter_0756_001_tr_1_tl_9"/>p] Wollen Sie das beigelegte Manuskript durch¬
+<lb xml:id="letter_0756_001_l"/>lesen u. mir wieder schicken? Ich frage
+<lb xml:id="letter_0756_001_tr_1_tl_12"/>mich ob etwas derartiges in's nächste Blättle
+<lb xml:id="letter_0756_001_tr_1_tl_13"/>könnte?
+<lb xml:id="letter_0756_001_l_1"/>Hören Sie wäre es nicht möglich dass in den
+<lb xml:id="letter_0756_001_tr_1_tl_16"/>nächsten 8–10 Tagen Ruedi oder jemand sonst
+<lb xml:id="letter_0756_001_tr_1_tl_17"/><PAGE tag="strikethrough">mit</PAGE> u. ich zu Ihnen kämen? Ich
+<lb xml:id="letter_0756_001_tr_1_tl_18"/>möchte auf jeden Fall noch nach Rein,
+<lb xml:id="letter_0756_001_tr_1_tl_19"/>u. wen[n ein W V mit wäre, könnte ich
+<lb xml:id="letter_0756_001_l_4"/>das als Ersatz für den Führertag<pb xml:id="letter_0756_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0756_002.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0756_002_tr_1"/>
+            <lb xml:id="letter_0756_002_tr_1_tl_1"/><PAGE tag="strikethrough">führertag</PAGE> betrachten. Ich meine, nicht irgend
+<lb xml:id="letter_0756_002_tr_1_tl_2"/>ein W V, sondern <PAGE tag="underlined">Ruedi</PAGE> u. <PAGE tag="underlined">Basti.</PAGE>
+<lb xml:id="letter_0756_002_tr_1_tl_3"/>Mit denen kan man doch reden!
+<lb xml:id="letter_0756_002_l"/>Ich möchte noch soviel, u. die Zeit
+<lb xml:id="letter_0756_002_tr_1_tl_6"/>ist so kurz!
+<lb xml:id="letter_0756_002_tr_1_tl_7"/>Ihre Anemarie</div>
+      </body>
+   </text>
+</TEI>
