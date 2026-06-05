@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0757" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0757#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0757</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0757_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0757_001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>[Handschr. Unterschreichungen und handschriftliches Einfügen von Satzzeichen] Bocken, 19. Okt. 25. 
+               <lb xml:id="p001_tr_1_tl_2"/>Lieber Herr Pfarrer! 
+               <lb xml:id="p001_tr_1_tl_3"/>Sie entschuldigen, dass ich so prosaisch mit Schreibmaschine 
+               <lb xml:id="p001_tr_1_tl_4"/>schreibe, aber ich habe meune[sic] Feder verloren und mit Bleistift 
+               <lb xml:id="p001_tr_1_tl_5"/>ist es so mühsam und noch weniger schön – 
+               <lb xml:id="p001_tr_1_tl_6"/>Ich danke Jhnen vielmals für Jhren Brief und für die Kritik – 
+               <lb xml:id="p001_tr_1_tl_7"/>Es ist merkwürdig, dass ausser Jhnen niemand <hi rendition="#u">das</hi> in meinen 
+               <lb xml:id="p001_tr_1_tl_8"/>Schriften versteht, was mir Freude macht. Die Art, den Klang – die 
+               <lb xml:id="p001_tr_1_tl_9"/>Schönheit des Wortes. Jch schreibe fast nie einer Jdee zu Liebe, 
+               <lb xml:id="p001_tr_1_tl_10"/>sondern ein irgendwann aufgetauchter Gedanke ist nur die Grund 
+               <lb xml:id="p001_tr_1_tl_11" break="no"/>lage und gibt mir die Mittel, schreiben zu dürfen. Der Jnhalt 
+               <lb xml:id="p001_tr_1_tl_12"/>ergibt sich von selbst, aber zu schreiben, zu formen – langsam 
+               <lb xml:id="p001_tr_1_tl_13"/><hi rendition="#u">gleichsam musizierend</hi> <del rend="overstrike">zu</del> schreiben, das gibt mir ein unge 
+               <lb xml:id="p001_tr_1_tl_14" break="no"/>heures Glücksgefühl. Dann kritisieren aber alle den Jnhalt, sagen 
+               <lb xml:id="p001_tr_1_tl_15"/>er sei nicht wertvoll, oder nicht ausgefeilt, oder ganz Hüscbh[hübsch] 
+               <lb xml:id="p001_tr_1_tl_16"/>– und ich verstehe dann nichts mehr von meinem eigenen Werk 
+               <lb xml:id="p001_tr_1_tl_17"/>(denn das ist es wenn auch nur ein Anfang dazu) – und es belei 
+               <lb xml:id="p001_tr_1_tl_18" break="no"/>digt oder vielmehr enttäuscht mich, wenn man an irgend einem Satz 
+               <lb xml:id="p001_tr_1_tl_19"/>vorüber geht ohne das, was für mich Kunst daran ist, zu sehen. – 
+               <lb xml:id="p001_tr_1_tl_20"/>Jch kenne leider Max Wydler noch nicht. Aber ich werde ihm das 
+               <lb xml:id="p001_tr_1_tl_21"/>Stück schicken – es wunderte mich schon, dass er den Gawan nahm. – 
+               <lb xml:id="p001_tr_1_tl_22"/>Am 22. ist die Hochzeit meiner Schwester – ich weiss noch gar nicht 
+               <lb xml:id="p001_tr_1_tl_23"/>wann ich kommen kann, und ob Rudi und Basti mit kommenn. Gestern</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0757_002.jpg"/>
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0757_003.jpg"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_1"/>bin ich am <hi rendition="#u">Reiner Hügel</hi> von weitem vorbei gefahren Sie können 
+               <lb xml:id="p003_tr_1_tl_2"/>sich denken mit welchem Heimweh. – Ich bin nun sicher dass ich 
+               <lb xml:id="p003_tr_1_tl_3"/>vor dem Führertag schon fort muss. Warum haben wir eigentlich 
+               <lb xml:id="p003_tr_1_tl_4"/>nie über die <hi rendition="#u">Freiheit</hi> gesprochen –– die <hi rendition="#u">äussere</hi> meine ich – 
+               <lb xml:id="p003_tr_1_tl_5"/>an die 
+               <lb xml:id="p003_tr_1_tl_6"/>ich glaube alle Enttäuschung kommt daraus. Früher glaubte ich 
+               <lb xml:id="p003_tr_1_tl_7"/>Enttäuschung 
+               <lb xml:id="p003_tr_1_tl_8"/>S[s handschriftlich hinzugefügt]gar nicht an [an die Enttäuschung] sie, jetzt wohl, aber es scheint mir, als liege es 
+               <lb xml:id="p003_tr_1_tl_9"/>nicht an uns jungen, sondern an falschen Gesetzen. Jch habe trotz 
+               <lb xml:id="p003_tr_1_tl_10"/>so vielem, noch nicht gelernt, mich schlecht oder auch nur schwach 
+               <lb xml:id="p003_tr_1_tl_11"/>zu fühlen. Mit dem Verstande wohl, aber das Gefühl lässt sich 
+               <lb xml:id="p003_tr_1_tl_12"/>mit allem Verstand nicht belügen. Darum sage ich sogar, ich sei 
+               <lb xml:id="p003_tr_1_tl_13"/>eigentlich ehrlich. 
+               <lb xml:id="p003_tr_1_tl_14"/>Ich habe das Buch gelesen, dass Sie Mama schickten. Jch habe nicht 
+               <lb xml:id="p003_tr_1_tl_15"/>gedacht, dass mir etwas Gutes und Reines s o Eindruck machen kann. 
+               <lb xml:id="p003_tr_1_tl_16"/>Es ist wundervoll. Leben Sie wohl, ich habe eigentlich keine<del rend="overstrike">n</del> 
+               <lb xml:id="p003_tr_1_tl_17"/>Zeit, Briefe zu schreiben. Eine Frage noch: <hi rendition="#u">Warum lieben mich so 
+                  <lb xml:id="p003_tr_1_tl_18"/>viele erwachsene Menschen, und bieten mir in gütigen Briefen ihr 
+                  <lb xml:id="p003_tr_1_tl_19"/>Vertrauen und ihre Freundschaft an</hi> – ich darf es ja nicht nehmen, 
+               <lb xml:id="p003_tr_1_tl_20"/>weil man nicht viele Menschen zugleich lieben soll wie ich es tue – 
+               <lb xml:id="p003_tr_1_tl_21"/>Und warum kann dann eine einzige Frau – die ich vielleicht am 
+               <lb xml:id="p003_tr_1_tl_22"/>meisten liebe – (nicht mit dem Verstand) solches Unglück anrichten. 
+               <lb xml:id="p003_tr_1_tl_23"/>Warum sagtman [sic] "Sünde" von sinnlicher Liebe, die einmal hervorbrechen 
+               <lb xml:id="p003_tr_1_tl_24"/>kann? 
+               <lb xml:id="p003_tr_1_tl_25"/>Herzlich grüsst Sie Jhre 
+               <lb xml:id="p003_tr_1_tl_26"/>Annemarie [hand]</p>
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0757_004.jpg"/></div>
+       </body>
+    </text>
+ </TEI>
