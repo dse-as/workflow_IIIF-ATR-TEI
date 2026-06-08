@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0891" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0891#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0891</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0891_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0891_001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>KULM HOTELS 
+               <lb xml:id="p001_tr_1_tl_2"/>ST.GORITZ 
+               <lb xml:id="p001_tr_1_tl_3"/>ENGADIN 
+               <lb xml:id="p001_tr_1_tl_4"/>3 Oct. 29 
+               <lb xml:id="p001_tr_1_tl_5"/>Chère Jaqueline – un bon hasard 
+               <lb xml:id="p001_tr_1_tl_6"/>m'a envoyé encore à l'Enga 
+               <lb xml:id="p001_tr_1_tl_7" break="no"/>dine: Namen a <del rend="overstrike">envoyé</del> eu 
+               <lb xml:id="p001_tr_1_tl_8"/>l'idée de le montrer à Grand 
+               <lb xml:id="p001_tr_1_tl_9" break="no"/>maman, Tante Isi d' Erlach, 
+               <lb xml:id="p001_tr_1_tl_10"/>et à mes deux cousines (les 
+               <lb xml:id="p001_tr_1_tl_11"/>soeurs de Felicitas) - et elle 
+               <lb xml:id="p001_tr_1_tl_12"/>m' a demandé de les accom 
+               <lb xml:id="p001_tr_1_tl_13" break="no"/>pagner parceque j'ai toutes 
+               <lb xml:id="p001_tr_1_tl_14"/>les <hi rendition="#u">qualités</hi> de guide pour 
+               <lb xml:id="p001_tr_1_tl_15"/>ce petit pays que j'aime 
+               <lb xml:id="p001_tr_1_tl_16"/>comme on aime une belle 
+               <lb xml:id="p001_tr_1_tl_17"/>femme. Je suis sûre de vous 
+               <lb xml:id="p001_tr_1_tl_18"/>avoir raconté de Fetan</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0891_002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>aussi bien que de St. Moritz – 
+               <lb xml:id="p002_tr_1_tl_2"/>n'est-ce pas ! 
+               <lb xml:id="p002_tr_1_tl_3"/>Pour le moment je suis dans 
+               <lb xml:id="p002_tr_1_tl_4"/>mon lit dans un chalet 
+               <lb xml:id="p002_tr_1_tl_5"/>absolument charmant, apparte 
+               <lb xml:id="p002_tr_1_tl_6" break="no"/>ment à des gens charmants. 
+               <lb xml:id="p002_tr_1_tl_7"/>Le soleil tombe sur moi, exacte 
+               <lb xml:id="p002_tr_1_tl_8" break="no"/>ment comme à Fetan le 
+               <lb xml:id="p002_tr_1_tl_9"/>dimanche matin, ou, comme 
+               <lb xml:id="p002_l"/>au Suvrettahouse pendant que 
+               <lb xml:id="p002_l_1"/>je regardais patiner Mme Franssen. 
+               <lb xml:id="p002_l_2"/>C'est fou, ce soleil : voilà le 
+               <lb xml:id="p002_l_3"/>moi d'octobre, et il a encore 
+               <lb xml:id="p002_tr_1_tl_18"/>cette force splendide qui vous 
+               <lb xml:id="p002_tr_1_tl_19"/>rappelle l'Italie – qui – en 
+               <lb xml:id="p002_tr_1_tl_20"/>effet – n'est pas loin. 
+               <lb xml:id="p002_tr_1_tl_21"/>[p] Nous rentrons aujourd'hui. Mais je 
+               <lb xml:id="p002_tr_1_tl_22"/>n'aurai pas le cafard, parceque 
+               <lb xml:id="p002_l_4"/>le <hi rendition="#u">pays</hi>, on le retrouve, 
+               <lb xml:id="p002_l_6"/>toujours. Et moi j'y retourne</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0891_003.jpg"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_1"/>presque fatalement. 
+               <lb xml:id="p003_l"/>[space] J'ai eu votre lettre il y a 
+               <lb xml:id="p003_l_1"/>quelques jours. Merci chère Jacqueline – 
+               <lb xml:id="p003_l_2"/>vous pouvez être sûre que je 
+               <lb xml:id="p003_l_3"/>vous ecrirais toujours très 
+               <lb xml:id="p003_tr_1_tl_10"/>franchement et très simple, 
+               <lb xml:id="p003_tr_1_tl_11"/>parceque c'est ainsi que je 
+               <lb xml:id="p003_tr_1_tl_12"/>vous connais. Je pense que 
+               <lb xml:id="p003_tr_1_tl_13"/>vous êtes à Rouen – et je vous 
+               <lb xml:id="p003_tr_1_tl_14"/>prie de dire bien des choses 
+               <lb xml:id="p003_tr_1_tl_15"/>à vos parents – (est-ce qu'on dit 
+               <lb xml:id="p003_tr_1_tl_16"/>ainsi?) – vous êtes donc 
+               <lb xml:id="p003_tr_1_tl_17"/>maintenant la bonne et 
+               <lb xml:id="p003_tr_1_tl_18"/>aimable Mlle Nougarède – querelle 
+               <lb xml:id="p003_tr_1_tl_19"/>envers tout le monde – Avez-vous</p>
+
+            <milestone unit="textregion" xml:id="p003_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_2_tl_1"/>des amis entre "tout le 
+               <lb xml:id="p003_tr_2_tl_2"/>monde? 
+               <lb xml:id="p003_tr_2_tl_3"/>[space] Il faut que je me lève. Je vous 
+               <lb xml:id="p003_tr_2_tl_4"/>dis encore que Tania est partir 
+               <lb xml:id="p003_tr_2_tl_5"/>pour Paris – j'espère tant qu'elle 
+               <lb xml:id="p003_tr_2_tl_6"/>va bien – et que Jutta a 
+               <lb xml:id="p003_tr_2_tl_7"/>eu la charmante idée de me 
+               <lb xml:id="p003_tr_2_tl_8"/>prendre avec en Espagne, ce 
+               <lb xml:id="p003_tr_2_tl_9"/>que je ne peux pas faire 
+               <lb xml:id="p003_tr_2_tl_10"/>car l'Université commence le 
+               <lb xml:id="p003_tr_2_tl_11"/>15 – 
+               <lb xml:id="p003_tr_2_tl_12"/>Et enfin les négatifs. 
+               <lb xml:id="p003_tr_2_tl_13"/>Ecrivez bientôt . J'espère 
+               <lb xml:id="p003_tr_2_tl_14"/>qui vous êtes contente 
+               <lb xml:id="p003_tr_2_tl_15"/>Annemarie.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
