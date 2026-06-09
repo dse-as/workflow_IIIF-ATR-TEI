@@ -94,6 +94,9 @@
       <xsl:text>&#xA;</xsl:text>
       <xsl:text>* [`_generated/1-raw-TEI/{$fileName}_raw.xml`](../tree/main/_generated/1-raw-TEI/{$fileName}_raw.xml)&#xA;</xsl:text>
       <xsl:text>* [`_generated/2-base-TEI/{$fileName}.xml`](../tree/main/_generated/2-base-TEI/{$fileName}.xml)&#xA;</xsl:text>
+      <xsl:text>**Facs:**&#xA;</xsl:text>
+      <xsl:text>&#xA;</xsl:text>
+      <xsl:text>* [`_generated/2-base-TEI/{$fileName}_facs.xml`](../tree/main/_generated/2-base-TEI/{$fileName}_facs.xml)&#xA;</xsl:text>
     </xsl:result-document>
     
   </xsl:template>
