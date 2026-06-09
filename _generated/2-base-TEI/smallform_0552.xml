@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0552" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0552#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0552</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0552"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0552_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0552_001.png"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_tl_1"/> Internationales Rotes Kreuz 
+               <lb xml:id="p001_r_tl_2"/>Die Aufgaben in Lissabon 
+               <lb xml:id="p001_r_tl_3"/>A. C. S. </p>
+            <p>In der Schweiz dürfte wohlbekannt sein 
+               <lb xml:id="p001_r_tl_4"/>was im Ausland noch gelegentlich hervorgehoben 
+               <lb xml:id="p001_r_tl_5"/>werden muß, daß das "Comité International de 
+               <lb xml:id="p001_r_tl_6"/>Croix Rouge" (C. I. C. R.) nicht ein Komitee von 
+               <lb xml:id="p001_r_tl_7"/>Delegierten der nationalen Rotkreuzorganisa 
+               <lb xml:id="p001_r_tl_8" break="no"/>tionen aller Länder ist, sondern ein von diesen Orga 
+               <lb xml:id="p001_r_tl_9" break="no"/>nisationen unabhängiges, rein schweizerisches Komitee 
+               <lb xml:id="p001_r_tl_10"/>das seinen Sitz in Genf hat und dessen Mitglieder, 
+               <lb xml:id="p001_r_tl_11"/>Delegierte und Mitarbeiter schweizerischer Nationali 
+               <lb xml:id="p001_r_tl_12" break="no"/>tät sind.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_13"/>Ueber die im " Code des prisonniers de guerre" 
+               <lb xml:id="p001_r_tl_14"/>definierten Aufgaben, die Organisation und die all 
+               <lb xml:id="p001_r_tl_15" break="no"/>gemeine Tätigkeit des Internationalen Komitees von 
+               <lb xml:id="p001_r_tl_16"/>Roten Kreuz wurde in einem früher an dieser Stelle 
+               <lb xml:id="p001_r_tl_17"/>erschienenen Beitrag schon gesprochen. Der Aufgaben 
+               <lb xml:id="p001_r_tl_18" break="no"/>kreis – Paketsendungen, Beförderung von Korrespon 
+               <lb xml:id="p001_r_tl_19" break="no"/>denzen für Kriegsgefangene, Inspektion der Gefan 
+               <lb xml:id="p001_r_tl_20" break="no"/>genenlager usw. – hat sich seither nicht verringert, 
+               <lb xml:id="p001_r_tl_21"/>und neue, durch die Leiden des Krieges dringlich ge 
+               <lb xml:id="p001_r_tl_22" break="no"/>wordene Aufgaben sind dazu gekommen, so z. B. Sen 
+               <lb xml:id="p001_r_tl_23" break="no"/>dungen für internierte und notleidende Zivilbevölke 
+               <lb xml:id="p001_r_tl_24" break="no"/>rungen und Großeinkäufe von Lebensmitteln. Die 
+               <lb xml:id="p001_r_tl_25"/>Durchführung des Hilfswerkes ist aber, besonders 
+               <lb xml:id="p001_r_tl_26"/>durch die wachsenden Probleme des Transports und 
+               <lb xml:id="p001_r_tl_27"/>Verkehrs, noch erschwert worden.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_28"/>In diesem Zusammenhang wurde es für das 
+               <lb xml:id="p001_r_tl_29"/>Genfer Komitee bald nach Kriegsbeginn notwendig, 
+               <lb xml:id="p001_r_tl_30"/>einen Delegierten nach dem als Transithafen wichtig 
+               <lb xml:id="p001_r_tl_31"/>gewordenen Lissabon zu entsenden. Oberst 
+               <lb xml:id="p001_r_tl_32"/>Friedrich <hi rendition="#g">Iselin</hi> hat sich in dieser Eigenschaft die 
+               <lb xml:id="p001_r_tl_33"/>größten Verdienste erworben, als er ganz allein die 
+               <lb xml:id="p001_r_tl_34"/>Verantwortung und die enorme Arbeit übernahm, 
+               <lb xml:id="p001_r_tl_35"/>in Lissabon den Warenverkehr für das Rote Kreuz zu 
+               <lb xml:id="p001_r_tl_36"/>organisieren und zu leiten. Später traf dann als 
+               <lb xml:id="p001_r_tl_37"/>zweiter Delegierter Walter <hi rendition="#g">Menzel</hi> in Lissabon 
+               <lb xml:id="p001_r_tl_38"/>ein, und von diesem bescheidenen Stab wird in ein 
+               <lb xml:id="p001_r_tl_39"/>paar engen Bureaus in der Nähe des Hafens eine 
+               <lb xml:id="p001_r_tl_40"/>aufopferungsvolle Arbeit geleistet, die allein das 
+               <lb xml:id="p001_r_tl_41"/>Wirken des Genfer Hilfswerkes ermöglicht. Aber auch 
+               <lb xml:id="p001_r_tl_42"/>die Rotkreuzorganisationen aller Länder, die kollek 
+               <lb xml:id="p001_r_tl_43" break="no"/>tive oder individuelle Liebesgabenpakete, Nahrungs 
+               <lb xml:id="p001_r_tl_44" break="no"/>mittel. Kleider und Medikamente über Lissabon be 
+               <lb xml:id="p001_r_tl_45" break="no"/>fördern, arbeiten mit der dortigen Delegation des 
+               <lb xml:id="p001_r_tl_46"/>C. I. C. R. zusammen und bedienen sich seiner Ver 
+               <lb xml:id="p001_r_tl_47" break="no"/>mittlung und seiner Transportmittel.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_48"/>Das Personal der Delegation dürfte bald vermehrt 
+               <lb xml:id="p001_r_tl_49"/>werden, was angesichts der zeitraubenden Kompli 
+               <lb xml:id="p001_r_tl_50" break="no"/>ziertheit und der Fülle der in Lissabon abzuwickelnden 
+               <lb xml:id="p001_r_tl_51"/>Transporte als unbedingt notwendig erscheint.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_52"/>Am 3. Mai hat die C. I. C. R.-Delegation den 
+               <lb xml:id="p001_r_tl_53"/>schwedischen Dampfer "<hi rendition="#g">Vega</hi>" mit einer Fracht von 
+               <lb xml:id="p001_r_tl_54"/>660 Tonnen, davon 146 Tonnen verschiedener Waren 
+               <lb xml:id="p001_r_tl_55"/>und 17 092 Postsäcke mit je sechs bis sieben Fünfkilo 
+               <lb xml:id="p001_r_tl_56" break="no"/>paketen, nach Marseille entsendet. Es war dies die 
+               <lb xml:id="p001_r_tl_57"/>68. von C. I. C. R.-Schiffen ausgeführte Fahrt zwischen 
+               <lb xml:id="p001_r_tl_58"/>Lissabon und Marseille oder Genua, seitdem der 
+               <lb xml:id="p001_r_tl_59"/>Schiffsverkehr für das Internationale Komitee in 
+               <lb xml:id="p001_r_tl_60"/>Dezember 1940 organisiert worden ist. Sämtliche 
+               <lb xml:id="p001_r_tl_61"/>Fahrten sind ohne nennenswerte Zwischenfälle ver 
+               <lb xml:id="p001_r_tl_62" break="no"/>laufen, obwohl die praktische Durchführung dieses
+               <milestone unit="textregion" xml:id="p001_r_2"/> 
+               <lb xml:id="p001_r_2_tl_1"/>Seeverkehrs nicht einfach ist. Unter den von Lissabon 
+               <lb xml:id="p001_r_2_tl_2"/>abtransportierten Waren, die aus England, Canada, 
+               <lb xml:id="p001_r_2_tl_3"/>den Vereinigten Staaten, Brasilien, Argentinien, 
+               <lb xml:id="p001_r_2_tl_4"/>Urugway und Afrika eintreffen, beziffert sich die Zahl 
+               <lb xml:id="p001_r_2_tl_5"/>der Postsäcke allein auf rund 630 000, was etwa vier 
+               <lb xml:id="p001_r_2_tl_6"/>Millionen Fünfkilopakete bedeutet. Die Warenlisten 
+               <lb xml:id="p001_r_2_tl_7"/>eines C. I. C. R.-Schiffes sind ungemein schwierig zu 
+               <lb xml:id="p001_r_2_tl_8"/>erstellen, da sich die Fracht aus vielen verschiedenen 
+               <lb xml:id="p001_r_2_tl_9"/>Warengattungen zusammensetzt, wie zum Beispiel 
+               <lb xml:id="p001_r_2_tl_10"/>Nahrungsmittel, Tabak, Seife, Medikamente, Kleider, 
+               <lb xml:id="p001_r_2_tl_11"/>Instrumente, Sport- und Spielartikel usw. Ferner 
+               <lb xml:id="p001_r_2_tl_12"/>muß bei der Zusammenstellung der Fracht die Quota 
+               <lb xml:id="p001_r_2_tl_13"/>berücksichtigt werden, die dem Roten Kreuz eines 
+               <lb xml:id="p001_r_2_tl_14"/>jeden Landes für seine Sendungen zuerkannt ist. 
+               <lb xml:id="p001_r_2_tl_15"/>Diese Quoten werden nach Maßgabe der in Lissabon 
+               <lb xml:id="p001_r_2_tl_16"/>auf Abtransport wartenden Warenmengen verteilt. 
+               <lb xml:id="p001_r_2_tl_17"/>Die Formalitäten für die Reexpedition der Transit 
+               <lb xml:id="p001_r_2_tl_18" break="no"/>sendungen beanspruchen mindestens vierzehn Tage 
+               <lb xml:id="p001_r_2_tl_19"/>und eine beträchtliche Arbeit. Dies gilt auch für die 
+               <lb xml:id="p001_r_2_tl_20"/>Sendungen auf dem Luftwege, die dringende Waren, 
+               <lb xml:id="p001_r_2_tl_21"/>vor allem <hi rendition="#g">Medikamente</hi>, umfassen. In letzter 
+               <lb xml:id="p001_r_2_tl_22"/>Zeit hat die Delegation auch die Weiterbeförderung 
+               <lb xml:id="p001_r_2_tl_23"/>von Medikamenten für gewisse Zivilbevölkerungen 
+               <lb xml:id="p001_r_2_tl_24"/>übernommen, unter anderem 25 Tonnen für das 
+               <lb xml:id="p001_r_2_tl_25"/>belgische und 30 Tonnen für das polnische Rote Kreuz.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_26"/>Diese wenigen Zahlen mögen genügen, um die 
+               <lb xml:id="p001_r_2_tl_27"/>Aktivität und die großen Leistungen der C. I. C. R. 
+               <lb xml:id="p001_r_2_tl_28" break="no"/>Delegation in Lissabon zu charakterisieren; sie zeigen 
+               <lb xml:id="p001_r_2_tl_29"/>auch, daß diese Tätigkeit noch erweitert werden könnte, 
+               <lb xml:id="p001_r_2_tl_30"/>wenn die praktischen Möglichkeiten dazu vorhanden 
+               <lb xml:id="p001_r_2_tl_31"/>wären. Zurzeit stehen der Delegation folgende Schiffe 
+               <lb xml:id="p001_r_2_tl_32"/>zur Verfügung: die portugiesischen Dampfer 
+               <lb xml:id="p001_r_2_tl_33"/>"Ambriz", " Padua" und "Tagus" sowie die schwedi 
+               <lb xml:id="p001_r_2_tl_34" break="no"/>schen Dampfer "Vega" und "Embla". Ihr Tonnage 
+               <lb xml:id="p001_r_2_tl_35" break="no"/>raum ist aber ungenügend, so daß in Lissabon noch 
+               <lb xml:id="p001_r_2_tl_36"/>etwa 150 000 Säcke und 3500 Tonnen verschiedener 
+               <lb xml:id="p001_r_2_tl_37"/>Waren auf Abtransport nach Marseille warten. Da 
+               <lb xml:id="p001_r_2_tl_38" break="no"/>her sieht man dem Eintreffen des 4600-Tonnen 
+               <lb xml:id="p001_r_2_tl_39" break="no"/>Dampfers mit Ungeduld entgegen, den die "Fonda- 
+               <lb xml:id="p001_r_2_tl_40"/>tion pour l'Organisation des Transports Croix-Rouge" 
+               <lb xml:id="p001_r_2_tl_41"/>durch die Schweizerische Reederei angekauft hat. 
+               <lb xml:id="p001_r_2_tl_42"/>Dieses Schiff wird unter Schweizer Flagge fahren 
+               <lb xml:id="p001_r_2_tl_43"/>und unter der Bezeichnung "<hi rendition="#g">Caritas Nr. I</hi>" dem 
+               <lb xml:id="p001_r_2_tl_44"/>humanen Werk des C. I. C. R. dienen, welches das 
+               <lb xml:id="p001_r_2_tl_45"/>weiße und das rote Kreuz vereinigt.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
