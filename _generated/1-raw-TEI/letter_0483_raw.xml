@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0483"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0483</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0483_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0483_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0483_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0483_001_tr_1"/>
+            <lb xml:id="letter_0483_001_l"/>Salzburg 16. August
+<lb xml:id="letter_0483_001_tr_1_tl_3"/>Bodmerlis !<CONV tag="p">
+<lb xml:id="letter_0483_001_tr_1_tl_4"/>ich muss Euch alles auf einmal
+<lb xml:id="letter_0483_001_tr_1_tl_5"/>mitteilen: Erstens dass ich in
+<lb xml:id="letter_0483_001_tr_1_tl_6"/>Salzburg bin (wo Erika u. die
+<lb xml:id="letter_0483_001_tr_1_tl_7"/>Giehse samt Anhang, Valesha
+<lb xml:id="letter_0483_001_tr_1_tl_8"/>Mirsch, etc <PAGE tag="strikethrough">)</PAGE> in Schloss Leopoldskron
+<lb xml:id="letter_0483_001_tr_1_tl_9"/>persönlich vor erlesenem !!!
+<lb xml:id="letter_0483_001_tr_1_tl_10"/>Publikum, der Theater-Elite
+<lb xml:id="letter_0483_001_tr_1_tl_11"/>Amerikas u. der gesellschaftlichen
+<lb xml:id="letter_0483_001_tr_1_tl_12"/>Elite Londons gespielt haben.
+<lb xml:id="letter_0483_001_tr_1_tl_13"/>Natürlich war es ein Erfolg.
+<lb xml:id="letter_0483_001_tr_1_tl_14"/>Zweitens: dass ich zwar morgen
+<lb xml:id="letter_0483_001_tr_1_tl_15"/>wieder in Sils bin, aber nur
+<lb xml:id="letter_0483_001_tr_1_tl_16"/>bis Samstag, u. drittens:
+<lb xml:id="letter_0483_001_tr_1_tl_17"/>dass ich dan[n] einfach <PAGE tag="underlined">gleich</PAGE>
+<lb xml:id="letter_0483_001_tr_1_tl_18"/>nach Amerika fahre... –
+<lb xml:id="letter_0483_001_tr_1_tl_19"/>Ja, so also.</CONV><CONV tag="p">
+<lb xml:id="letter_0483_001_tr_1_tl_20"/>Und Ihr seid nicht nach Silvaplana<!--FML: this needs attention (was tagged as "fml" in Transkribus)--></CONV><pb xml:id="letter_0483_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0483_002.jpg"/>
+            <pb xml:id="letter_0483_003"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0483_003.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0483_003_tr_1"/>
+            <lb xml:id="letter_0483_003_l"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)--><CONV tag="p">
+<lb xml:id="letter_0483_003_l"/>gekom[m]en! Und sehe ich Euch überhaupt
+<lb xml:id="letter_0483_003_tr_1_tl_3"/>noch? Hier sehen wir dafür Marlene aus
+<lb xml:id="letter_0483_003_l_6"/>nächster Nähe, sehr schön, etwas dum[m].</CONV><CONV tag="p">
+<lb xml:id="letter_0483_003_tr_1_tl_6"/>Und –
+<lb xml:id="letter_0483_003_l_2"/>darf ich circa Son[n]tag den Dokterli nach
+<lb xml:id="letter_0483_003_tr_1_tl_10"/>Bellerive[?] bringen? Der Arme würde mir
+<lb xml:id="letter_0483_003_tr_1_tl_11"/>sonst so leid tun! – Und wen[n] es nicht
+<lb xml:id="letter_0483_003_l_1"/>geht – wen[n] der Frechling wieder Rehe
+<lb xml:id="letter_0483_003_l_4"/>jagt u. unzüchtig ist, müsst Ihr ihn eben
+<lb xml:id="letter_0483_003_tr_1_tl_17"/>in Pension schicken.</CONV>
+<lb xml:id="letter_0483_003_tr_1_tl_18"/>Ruft doch diese Woche mal in Sils an!
+<lb xml:id="letter_0483_003_l_3"/>Seid nicht erstaunt über soviel
+<lb xml:id="letter_0483_003_l_5"/>Verwirrendes, – u. dafür tausendmal von
+<lb xml:id="letter_0483_003_l_8"/>Erika u. Therese gegrüsst, u. von Eurer
+<lb xml:id="letter_0483_003_tr_1_tl_27"/>An[n]emarie<pb xml:id="letter_0483_004"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0483_004.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0483_004_tr_1"/>
+            <lb xml:id="letter_0483_004_tr_1_tl_2"/>1936 [Datierung mit Bleistift]
+<lb xml:id="letter_0483_004_tr_1_tl_4"/>Herrn u. Frau Robert Bodmer
+<lb xml:id="letter_0483_004_tr_1_tl_5"/><PAGE tag="underlined">Hergiswil am See</PAGE>
+<lb xml:id="letter_0483_004_tr_1_tl_6"/>Nidwalden
+<lb xml:id="letter_0483_004_tr_1_tl_7"/><PAGE tag="underlined">Schweiz</PAGE>
+<lb xml:id="letter_0483_004_l"/>SALZBURG
+<lb xml:id="letter_0483_004_tr_1_tl_3"/>18.VIII.3622<pb xml:id="letter_0483_005"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0483_005.jpg"/>
+         </div>
+      </body>
+   </text>
+</TEI>
