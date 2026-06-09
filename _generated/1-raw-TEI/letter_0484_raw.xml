@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0484"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0484</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0484_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0484_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0484_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0484_001_tr_1"/>
+            <lb xml:id="letter_0484_001_tr_1_tl_1"/>The Bedford
+<lb xml:id="letter_0484_001_tr_1_tl_2"/>118 EAST 40<PAGE tag="superscript">th</PAGE> STREET
+<lb xml:id="letter_0484_001_tr_1_tl_4"/>NEW YORK
+<lb xml:id="letter_0484_001_tr_1_tl_3"/>9. Nov. 36<CONV tag="p">
+<lb xml:id="letter_0484_001_tr_1_tl_5"/>Liebstes Busy, ich bin ganz betrübt
+<lb xml:id="letter_0484_001_tr_1_tl_6"/>dass es dem Bobby nicht gut geht –
+<lb xml:id="letter_0484_001_tr_1_tl_7"/>u. dass lhr von Hergiswil weg müsst, –
+<lb xml:id="letter_0484_001_tr_1_tl_8"/>es ist ein so hübscher, friedlicher Platz –
+<lb xml:id="letter_0484_001_tr_1_tl_9"/>u. es gibt deren auf der Welt ja gar
+<lb xml:id="letter_0484_001_tr_1_tl_10"/>nicht so viele ...</CONV><CONV tag="p">
+<lb xml:id="letter_0484_001_tr_1_tl_11"/>Uns geht es gut u. recht, Erika allerdings
+<lb xml:id="letter_0484_001_tr_1_tl_12"/>hat <PAGE tag="strikethrough">[?]</PAGE> sehr viel Sorgen mit ihren Mühle¬
+<lb xml:id="letter_0484_001_tr_1_tl_13"/>plänen, ich bin aber gewiss (..u. sie im
+<lb xml:id="letter_0484_001_tr_1_tl_14"/>Grunde auch) dass sei, wen[n] es einmal
+<lb xml:id="letter_0484_001_tr_1_tl_15"/>so weit ist, auch Erfolg haben wird.
+<lb xml:id="letter_0484_001_tr_1_tl_16"/>Klaus hält Vorträge auf englisch – was
+<lb xml:id="letter_0484_001_tr_1_tl_17"/>ich sehr tüchtig finde – u. ich schreibe
+<lb xml:id="letter_0484_001_tr_1_tl_18"/>Artikel. ABER gesund bin ich noch
+<lb xml:id="letter_0484_001_tr_1_tl_19"/>keineswegs, vorgestern hat man mir
+<lb xml:id="letter_0484_001_tr_1_tl_20"/>zum 2. Mal die Narkose-Maske
+<lb xml:id="letter_0484_001_tr_1_tl_21"/>über die Nase gestülpt u. das böse<!--FML: this needs attention (was tagged as "fml" in Transkribus)--></CONV><pb xml:id="letter_0484_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0484_002.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0484_002_tr_3"/>
+            <lb xml:id="letter_0484_002_tr_3_tl_1"/>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)--><CONV tag="p">
+<lb xml:id="letter_0484_002_tr_3_tl_1"/>Bein geschnitten, es sieht schon wie ein
+<lb xml:id="letter_0484_002_tr_3_tl_2"/>Schlachtfeld aus – dazu Schmerzen,
+<lb xml:id="letter_0484_002_tr_3_tl_3"/>liegen, Temperatur ... manchmal geht
+<lb xml:id="letter_0484_002_tr_3_tl_4"/>mir die Geduld aus, aber Erika bringt
+<lb xml:id="letter_0484_002_tr_3_tl_5"/>mich stetss wieder zu artiger Vernunft –
+<lb xml:id="letter_0484_002_tr_3_tl_6"/>Sag mal: das Häuschen in Sils steht
+<lb xml:id="letter_0484_002_tr_3_tl_7"/>leer, ist hübsch u. lieb, kostet nur
+<lb xml:id="letter_0484_002_tr_3_tl_8"/>200 frs. Monatsmiete, hat alle elektr.¬
+<lb xml:id="letter_0484_002_tr_3_tl_9"/>schen Vorzüge u. einen Kachelofen – willst
+<lb xml:id="letter_0484_002_tr_3_tl_10"/>Du es nicht mit Bobby für die Winter¬
+<lb xml:id="letter_0484_002_tr_3_tl_11"/>monate beziehen? Ich <PAGE tag="underlined">müsste</PAGE> es eigentlich
+<lb xml:id="letter_0484_002_tr_3_tl_12"/>vermieten – möchte es aber <PAGE tag="underlined">nur</PAGE> an
+<lb xml:id="letter_0484_002_tr_3_tl_13"/>Freunde wie Euch geben, weil doch meine
+<lb xml:id="letter_0484_002_tr_3_tl_14"/>Bücher etc da sind, u. all die Photos
+<lb xml:id="letter_0484_002_tr_3_tl_15"/>um den Spiegel – die <PAGE tag="strikethrough">[?]</PAGE> Fremdlinge gar
+<lb xml:id="letter_0484_002_l_6"/>nicht zu schätzen wüssten! Falls Ihr
+<lb xml:id="letter_0484_002_tr_3_tl_17"/>hinauf wollt – Herr <PAGE tag="underlined">Zuan</PAGE>, Postmeister v.
+<lb xml:id="letter_0484_002_l_7"/>Sils-Baselgia, hat die Schlüssel u. weiss,
+<lb xml:id="letter_0484_002_tr_3_tl_19"/>wie man das Wasser andreht –</CONV><milestone unit="textregion" xml:id="letter_0484_002_r"/>
+            <lb xml:id="letter_0484_002_l"/>Ich muss jetzt auch einen polit. Artikel über die 
+<lb xml:id="letter_0484_002_l_1"/>Schweiz schreiben – ich tue es lieber als über den
+<lb xml:id="letter_0484_002_l_2"/>span. Bürgerkrieg! 1000 [in Herz eingerahmt] Grüsse von Erika
+<lb xml:id="letter_0484_002_l_3"/>u. mir an Euch u. die Buben! Grüsse Angelina
+<lb xml:id="letter_0484_002_l_4"/>die Kostlicher[?] bei Gelegenhti – ( wie geht es ihr?] Kuss
+<lb xml:id="letter_0484_002_l_5"/>für Dich – An[n]emarie<pb xml:id="letter_0484_003"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0484_003.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0484_003_tr_1"/>
+            <lb xml:id="letter_0484_003_tr_1_tl_1"/>9.11.36 [Bleistift]
+<lb xml:id="letter_0484_003_tr_1_tl_7"/>Frau Marie-Louise Bodmer
+<lb xml:id="letter_0484_003_tr_1_tl_8"/><PAGE tag="underlined">Hergiswil am See</PAGE>
+<lb xml:id="letter_0484_003_tr_1_tl_9"/>unterwalden [sic]
+<lb xml:id="letter_0484_003_tr_1_tl_10"/><PAGE tag="underlined">Switzerland</PAGE>
+<lb xml:id="letter_0484_003_tr_1_tl_11"/><PAGE tag="underlined">Per S. S. Normandie</PAGE><milestone unit="textregion" xml:id="letter_0484_003_r"/>
+            <lb xml:id="letter_0484_003_l_3"/>GRANDGENT.ANNEX.N.Y.3 [Grand Central Station New York]
+<lb xml:id="letter_0484_003_l"/>NOV 10
+<lb xml:id="letter_0484_003_l_1"/>10<PAGE tag="superscript">30</PAGE> PM
+<lb xml:id="letter_0484_003_l_2"/>1936<milestone unit="textregion" xml:id="letter_0484_003_r_1"/>
+            <lb xml:id="letter_0484_003_l_4"/>BUY U.S. SAVING
+<lb xml:id="letter_0484_003_l_5"/>BONDS
+<lb xml:id="letter_0484_003_l_6"/>ASK YOUR [POSTMASTER]<pb xml:id="letter_0484_004"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0484_004.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0484_004_tr_1"/>
+            <lb xml:id="letter_0484_004_tr_1_tl_1"/>Mrs. Erika Mann-Auden
+<lb xml:id="letter_0484_004_tr_1_tl_2"/>c/o Alfred Knops[?]
+<lb xml:id="letter_0484_004_tr_1_tl_3"/>5<PAGE tag="superscript">th</PAGE> Avenue 7–30
+<lb xml:id="letter_0484_004_tr_1_tl_4"/><PAGE tag="underlined">New-York</PAGE><milestone unit="textregion" xml:id="letter_0484_004_r"/>
+            <lb xml:id="letter_0484_004_l"/>The Bedford
+<lb xml:id="letter_0484_004_l_1"/>118 EAST 40<PAGE tag="superscript">th</PAGE> STREET
+<lb xml:id="letter_0484_004_l_2"/>NEW YORK</div>
+      </body>
+   </text>
+</TEI>
