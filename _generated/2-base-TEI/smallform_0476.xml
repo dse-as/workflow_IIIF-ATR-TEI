@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0476" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0476#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0476</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0476"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0476_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0476_0001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Annemarie Clarac-Schwarzenbach: 
+               <lb xml:id="p001_tr_1_tl_2"/><hi rendition="#u">Die Tätigkeit des Roten Kreuzes in Lissabon.</hi></p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_3"/>[space horizontal]Es wurde oft geäussert, die mehr oder minder offene Einmischung 
+               <lb xml:id="p001_tr_1_tl_4"/>in den Bürgerkrieg in Spanien habe den Armeestäben verschiedener Länder 
+               <lb xml:id="p001_tr_1_tl_5"/>eine Gelegenheit geboten, die Wirksamkeit moderner Kriegsmittel in der 
+               <lb xml:id="p001_tr_1_tl_6"/>blutigen Praxis auszuprobieren. Weniger bekannt wurde es, dass auch das 
+               <lb xml:id="p001_tr_1_tl_7"/>Internationale Rote Kreuz damals zum ersten Mal die Grundsätze seiner 
+               <lb xml:id="p001_tr_1_tl_8"/>neuen Konvention vom Jahre 1928 erproben konnte. Zwischen den Armeen des 
+               <lb xml:id="p001_tr_1_tl_9"/>Generals Franco und denen der Royalisten wurden sechs Millionen Mittei 
+               <lb xml:id="p001_tr_1_tl_10" break="no"/>lungen, Briefe,und Postkarten ausgetauscht.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_11"/>Ebenfalls auf den "Code de Frisonniers de Guerre" der 1928-Konvention 
+               <lb xml:id="p001_tr_1_tl_12"/>gestützt, konnte das Internationale Rote Kreuz die Tätigkeit der 
+               <lb xml:id="p001_tr_1_tl_13"/>"Agence pour les Frisonniers de Guerre" vorbereiten,die, wenige Monate 
+               <lb xml:id="p001_tr_1_tl_14"/>vor Kriegsausbruch zustande gekommen, von den kriegführenden Staaten 
+               <lb xml:id="p001_tr_1_tl_15"/>anerkannt wurde. Um einen Begriff vom Umfang der sofort eingesetzten 
+               <lb xml:id="p001_tr_1_tl_16"/>Vermittlertätigkeit dieser Agentur zu geben, sei nur erwähnt, dass <del rend="overstrike">durch 
+                  <lb xml:id="p001_tr_1_tl_17"/>schnittlich 60'000 Briefe</del> täglich im Durchschnitt 60 000 Briefe durch 
+               <lb xml:id="p001_tr_1_tl_18"/>die Genfer Bureaus gegangen sind, und etwa 30 000 Familien von Kriegsge 
+               <lb xml:id="p001_tr_1_tl_19" break="no"/>fangenen Nachrichten erhalten konnten.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_20"/>Ein anderer, in der Konvention von 1928 vorgesehener Zweig der Rotes Kreuz- 
+               <lb xml:id="p001_tr_1_tl_21"/>Aktivität ist die Inspektion von Gefangenenlagern. Um sie wirkungsvoll 
+               <lb xml:id="p001_tr_1_tl_22"/>durch zu führen, ist die Zusammenarbeit verschiedener Stellen nötig. In 
+               <lb xml:id="p001_tr_1_tl_23"/>jedem Lager gibt es einen Vertrauensmann, der von seinen Kameraden gewählt 
+               <lb xml:id="p001_tr_1_tl_24"/>oder ernannt wird. Für dieses Amt sind weder Alter noch militärischer 
+               <lb xml:id="p001_tr_1_tl_25"/>Rang ausschlaggebend, sondern einzig das Vertrauen der Mitgefangenen.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_26"/>– Ferner ernennt das Genfer "Comité International de la Croix Rouge" in 
+               <lb xml:id="p001_tr_1_tl_27"/>jedem Land mit Gefangenen- oder Interniertenlagern einen Delegierten. In 
+               <lb xml:id="p001_tr_1_tl_28"/>den Vereinigten Staaten zum Beispiel wird diese Stelle von dem ehemaligen 
+               <lb xml:id="p001_tr_1_tl_29"/>Schweizer Gesandten in Washington, Herrn Marc Peter, ausgefüllt. 
+               <lb xml:id="p001_tr_1_tl_30"/>Endlich machen Mitglieder des Internationalen Comités von Zeit zu Zeit 
+               <lb xml:id="p001_tr_1_tl_31"/>ausgedehnte Inspektionsreisen, um die Lager in verschiedenen Ländern zu 
+               <lb xml:id="p001_tr_1_tl_32"/>besuchen.</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0476_0002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>–2–(Rotes Kreuz in Lissabon)</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_2"/>Die Möglichkeit, dass eine internationale und über-nationale Instanz 
+               <lb xml:id="p002_tr_1_tl_3"/>für den Austausch von Nachrichten sorgen, und eine gewisse Kontrolle 
+               <lb xml:id="p002_tr_1_tl_4"/>über den Zustand der Lager ausüben kann, ist sicher für das Los der 
+               <lb xml:id="p002_tr_1_tl_5"/>Gefangenen von grossem Segen. Aber um für ihre nötigsten Bedürfnisse zu 
+               <lb xml:id="p002_tr_1_tl_6"/>sorgen, musste das Internationale Rote Kreuz eine dritte Instanz schaffen, 
+               <lb xml:id="p002_tr_1_tl_7"/>die sich mit der Expedition von Paketen befasst, und deren Tätigkeit 
+               <lb xml:id="p002_tr_1_tl_8"/>heute wegen der wachsenden Lebensmittelnot und des beinahe unüberwind 
+               <lb xml:id="p002_tr_1_tl_9" break="no"/>lichen Transportproblems immer wichtiger, und immer schwieriger wird.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_10"/>[space horizontal]In diesem Zusammenhang wurde seit dem letz 
+               <lb xml:id="p002_tr_1_tl_11" break="no"/>ten Herbst Lissabon zum ersten Mal ein Zentrum der Aktivitäten des 
+               <lb xml:id="p002_tr_1_tl_12"/>Internationalen Roten Kreuzes. Das Comité International wurde hier zuerst 
+               <lb xml:id="p002_tr_1_tl_13"/>vom Schweizerischen Geschäftsträger, Herrn Redard, repräsentiert, der an 
+               <lb xml:id="p002_tr_1_tl_14"/>das Portugiesische Rote Kreuz appellierte,und das Prinzip der Zusammen 
+               <lb xml:id="p002_tr_1_tl_15" break="no"/>arbeit zwischen dem Genfer Comité und den nationalen Stellen erfolgreich 
+               <lb xml:id="p002_tr_1_tl_16"/>zu verwirklichen wusste. Als die eintreffenden Pakete, besonders aus Kanada 
+               <lb xml:id="p002_tr_1_tl_17"/>und den U.S.A., immer zahlreicher wurden, entsandte das Genfer Comité einen 
+               <lb xml:id="p002_tr_1_tl_18"/>Herrn Oberst Iselin als besonderen Vertreter nach Lissabon, – und er hat 
+               <lb xml:id="p002_tr_1_tl_19"/>seit seiner Ankunft im Oktober eine bewundernswerte Arbeit geleistet. 
+               <lb xml:id="p002_tr_1_tl_20"/>Zeitenweise kamen wöchentlich nicht weniger als 10 000 Pakete mit Lebens 
+               <lb xml:id="p002_tr_1_tl_21" break="no"/>mitteln und Kleidern aus New York in Lissabon an, – und mussten von diesem 
+               <lb xml:id="p002_tr_1_tl_22"/>neuen Verkehrspunkt am äussersten Rand Europas weiter expediert werden! 
+               <lb xml:id="p002_tr_1_tl_23"/>Die Stellen des Internationalen Comités und des englischen Roten Kreuzes 
+               <lb xml:id="p002_tr_1_tl_24"/>arbeiteten zusammen, um das Transportproblem zu lösen. Der Landweg über 
+               <lb xml:id="p002_tr_1_tl_25"/>Spanien ist heute aus mehreren Gründen, vor allem wegen der Knappheit an 
+               <lb xml:id="p002_tr_1_tl_26"/>Eisenbahnwagen, für die Sendungen des Roten Kreuzes ausgeschlossen. Es 
+               <lb xml:id="p002_tr_1_tl_27"/>bleibt nur noch der Seeweg über Gibraltar und das Mittelmeer. Während aber 
+               <lb xml:id="p002_tr_1_tl_28"/>gemäss den französisch-italienischen Waffenstillstands-Bestimmungen die 
+               <lb xml:id="p002_tr_1_tl_29"/>Handelsschiffe unter Schweizer Flagge nur in Genua anlegen dürfen, landen 
+               <lb xml:id="p002_tr_1_tl_30"/>die Schiffe des Roten Kreuzes in Marseille, von wo die Sendungen nach Genf 
+               <lb xml:id="p002_tr_1_tl_31"/>weitergehen. Das erste, kleine "Rotkreuz-Schiff" ging am 22. Dezember 1940 
+               <lb xml:id="p002_tr_1_tl_32"/>von Lissabon nach Marseille ab. Dieser Weg würde heute reibungslos funktio 
+               <lb xml:id="p002_tr_1_tl_33" break="no"/>nieren, nur herrscht Mangel an Schiffen. Inzwischen wachsen die Sendungen 
+               <lb xml:id="p002_tr_1_tl_34"/>aus Nord- und Südamerika immer noch an.</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0476_0003.jpg"/>
+            <milestone unit="textregion" xml:id="p003_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_l"/>–3–</p>
+
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p> 
+               <lb xml:id="p003_tr_1_tl_1"/>Oberst Chapuisat, der kürzlich als Delegierter des Comité Internatio 
+               <lb xml:id="p003_tr_1_tl_2" break="no"/>nal aus Amerika zurückkehrend in Lissabon eintraf, berichtete von der 
+               <lb xml:id="p003_tr_1_tl_3"/>"Conférence Panaméricaine des Croix Rouges" in Santiago di Chile, und 
+               <lb xml:id="p003_tr_1_tl_4"/>der spontanen Antwort, die sein Appell "Europa hungert!" dort gefunden 
+               <lb xml:id="p003_tr_1_tl_5"/>hatte. Sofort wurden Comités gegründet, die für die Sendung von Paketen 
+               <lb xml:id="p003_tr_1_tl_6"/>mit dem C.I.C.R. zusammenarbeiten, – in Peru, Cuba, Venezuela mit besonderem 
+               <lb xml:id="p003_tr_1_tl_7"/>Erfolg. Auch das noch unter den entsetzlichen Schäden des letzten Erd 
+               <lb xml:id="p003_tr_1_tl_8" break="no"/>bebens leidende Chile unterstützte die Aktion für das vom Krieg heim 
+               <lb xml:id="p003_tr_1_tl_9" break="no"/>gesuchte Europa, – und als der europäische Delegierte seine Rede beendet 
+               <lb xml:id="p003_tr_1_tl_10"/>hatte, erhob sich die ganze Versammlung schweigend.</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_12"/>Natürlich ist der Beitrag des <del rend="overstrike">amerikanischen</del> Roten Kreuzes [add above: der USA ] sehr gross, 
+               <lb xml:id="p003_tr_1_tl_13"/>an dessen Spitze Präsident Roosevelt <del rend="overstrike">als Chairman und Norman Davis</del> 
+               <lb xml:id="p003_tr_1_tl_14"/>als Chairman steht, und das seit vielen Jahren von Norman Davis präsi 
+               <lb xml:id="p003_tr_1_tl_16" break="no"/>diert wird. Die Sache des Roten Kreuzes [add above: und verwandter Organisationen] ist in den Vereinigten Staaten 
+               <lb xml:id="p003_tr_1_tl_17"/>besonders unter den Frauen ungemein populär. Ich habe hier eine Ameri 
+               <lb xml:id="p003_tr_1_tl_19" break="no"/>kanerin getroffen, die mit dem [add above: privaten] Ambulanzkorps von Miss Anne Morgan in 
+               <lb xml:id="p003_tr_1_tl_20"/>Frankreich war, mit der "Croix de guerre" ausgezeichnet wurde, und jetzt 
+               <lb xml:id="p003_tr_1_tl_21"/>in Lissabon auf nichts anderes wartet, als auf einen neuen Kriegschau 
+               <lb xml:id="p003_tr_1_tl_22" break="no"/>platz entsandt zu werden. Ich weiss nicht, ob ihre Enttäuschung, oder ihr 
+               <lb xml:id="p003_tr_1_tl_23"/>Vergnügen über den trockenen britischen Humor grösser war, als sie mir 
+               <lb xml:id="p003_tr_1_tl_24"/>kürzlich ein Antworttelegramm aus London zeigte, welches folgendermassen 
+               <lb xml:id="p003_tr_1_tl_25"/>lautete: "Können Ihnen nur eintönige Stelle als Ambulanzfahrerin während 
+               <lb xml:id="p003_tr_1_tl_26"/>Luftangriffen anbieten". Als mir ein anderes Mal der uniformmässige 
+               <lb xml:id="p003_tr_1_tl_27"/>Schnitt eines Khakikostüms eines jungen amerikanischen Mädchens auffiel, 
+               <lb xml:id="p003_tr_1_tl_28"/>sagte sie mir: "Es ist eine Uniform, ich habe nur die Abzeichen wegge 
+               <lb xml:id="p003_tr_1_tl_29" break="no"/>trennt. Ich war sieben Monate mit einer Ambulanz des Roten Kreuzes in 
+               <lb xml:id="p003_tr_1_tl_30"/>Syrien." –</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_31"/>Die Kollaboration des Internationalen Comités mit dem nationalen Roten 
+               <lb xml:id="p003_tr_1_tl_32"/>Kreuz Englands, Amerikas, Portugals und anderer Länder ist heute in Lis 
+               <lb xml:id="p003_tr_1_tl_33" break="no"/>sabon erfolgreich und von geradezu symbolischer Bedeutung. Aber die 
+               <lb xml:id="p003_tr_1_tl_34"/>Aufgaben des Roten Kreuzes sind in diesem Weltkrieg ungeheuer angewach 
+               <lb xml:id="p003_tr_1_tl_36" break="no"/>sen, – und die [add above: alten] Begriffe, sie zu umschreiben, die [add above: bisherigen] Organisationen, um <del rend="overstrike">ihnen</del> sie 
+               <lb xml:id="p003_tr_1_tl_37"/><del rend="overstrike">gerecht zu</del> zu bewältigen,reichen heute nicht mehr aus.</p>
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0476_0004.jpg"/>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_1_tl_1"/>–4–</p>
+            <p> 
+               <lb xml:id="p004_tr_1_tl_2"/>[space horizontal]Im letzten Weltkrieg galt eine der Hauptsorgen des Roten Kreuzes 
+               <lb xml:id="p004_tr_1_tl_3"/>den Schwerverwundeten, die man auszutauschen, oder in neutralen Ländern 
+               <lb xml:id="p004_tr_1_tl_4"/>wie der Schweiz zu internieren suchte. In diesem Weltkrieg sind die 
+               <lb xml:id="p004_tr_1_tl_5"/>Schwerverwundeten nicht so zahlreich, dafür gibt es ungeheure Massen von 
+               <lb xml:id="p004_tr_1_tl_6"/>Gefangenen. Und es gibt nicht nur Kriegsgefangene, es gibt zivile Internierte 
+               <lb xml:id="p004_tr_1_tl_7"/>Frauen, Kinder und Greise in grosser Zahl. Allein in einem Lager in 
+               <lb xml:id="p004_tr_1_tl_9"/>Besancon <del rend="overstrike">sind</del>[add above: waren zeitweilig] mindestens viertausend Frauen, meistens Engländerinnen, 
+               <lb xml:id="p004_tr_1_tl_10"/>untergebracht, und die Berichte, die ich von dort gehört habe, sind ein 
+               <lb xml:id="p004_tr_1_tl_11" break="no"/>drucksvoll genug. Aber es gibt nicht nur Gefangene und Internierte in 
+               <lb xml:id="p004_tr_1_tl_12"/>diesem Krieg, – es gibt die Flüchtlinge, Vertriebenen, und die Exilierten 
+               <lb xml:id="p004_tr_1_tl_13"/>aus einer Reihe von Ländern,– und es gibt Deportierte.</p>
+            <p> 
+               <lb xml:id="p004_tr_1_tl_14"/>Aus einer einzigen Stadt in Polen gelangten im Zeitraum von zwei bis 
+               <lb xml:id="p004_tr_1_tl_15"/>drei Tagen 2000 Telegramme an das Genfer Comité. Die Zahl der 
+               <lb xml:id="p004_tr_1_tl_16"/>Deportierten aus dem von Sovietrussland besetzten Teil Polens wird von 
+               <lb xml:id="p004_tr_1_tl_17"/>wohl informierter Seite auf 800 000 bis eine Million geschätzt. Die 
+               <lb xml:id="p004_tr_1_tl_18"/>Intellektuellen und anderen Oberschichten polnischer Städte befinden 
+               <lb xml:id="p004_tr_1_tl_19"/>sich darunter. Die Mehrzahl dieser Unglücklichen wurden nach Zentralasien, 
+               <lb xml:id="p004_tr_1_tl_20"/>Turkestan, Kasakstan, den Altai verbracht. Die dem Roten Kreuz ähnlichen 
+               <lb xml:id="p004_tr_1_tl_21"/>Organisationen der Sovietunion arbeiten aber mit Genf nicht zusammen.</p>
+            <p> 
+               <lb xml:id="p004_tr_1_tl_22"/>[space horiziontal]Da nicht nur die Pakete aus aller Welt,son 
+               <lb xml:id="p004_tr_1_tl_23" break="no"/>dern jeder Brief, jede Notiz zur Auffindung von Vermissten, heute ihren 
+               <lb xml:id="p004_tr_1_tl_25"/>meistens sehr langen Weg über Lissabon nehmen muss, haben die Roten Kreuze 
+               <lb xml:id="p004_tr_1_tl_26"/>aller Länder, vor allem Belgiens, Norwegens, Polens, Hollands, jetzt in dieser 
+               <lb xml:id="p004_tr_1_tl_27"/>Stadt ihre Vertreter. Da die meisten Flüchtlinge und Auswanderer nach bei 
+               <lb xml:id="p004_tr_1_tl_28" break="no"/>den Amerikas, Australien und allen Teilen der Welt sich in Lissabon ein 
+               <lb xml:id="p004_tr_1_tl_29" break="no"/>schiffen mu[add inline: ü]ss[add above: en], befindet sich <del rend="overstrike">jetzt</del> hier auch ein Kommissar für Flücht 
+               <lb xml:id="p004_tr_1_tl_30" break="no"/>lingsfragen.Die <del rend="overstrike">kleine</del> portugiesische Kapitale, von der aus einst die 
+               <lb xml:id="p004_tr_1_tl_31"/>grossen Seefahrer in den unbekannten Atlantik vorstiessen,vereinigt heute 
+               <lb xml:id="p004_tr_1_tl_32"/>die Fäden jener Organisationen im Dienste der leidenden Menschheit, für 
+               <lb xml:id="p004_tr_1_tl_33"/></p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">die das in Genf gegründete Rote Kreuz das Symbol ist. –</p>
+</div>
+       </body>
+    </text>
+ </TEI>
