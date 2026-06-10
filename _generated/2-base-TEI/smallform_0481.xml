@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0481" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0481#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0481</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0481"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0481_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0481_001.png"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_tl_1"/>Die Versorgung der Schweiz über Portugal</p>
+
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_2_tl_1"/>A. C. S. Lissabon, Ende Februar</p>
+
+            <milestone unit="textregion" xml:id="p001_r_3"/>            <p> 
+               <lb xml:id="p001_r_3_tl_1"/>Im Hafen von Lissabon liegen zurzeit mehrere <hi rendition="#g"> 
+                  <lb xml:id="p001_r_3_tl_2"/>Transportschiffe</hi>, die an beiden Seiten weithin 
+               <lb xml:id="p001_r_3_tl_3"/>sichtbar das <hi rendition="#g">Schweizer Kreuz</hi> im roten Feld und 
+               <lb xml:id="p001_r_3_tl_4"/>die Aufschrift "Switzerland" tragen. Zwei von ihnen, 
+               <lb xml:id="p001_r_3_tl_5"/>die der Schweizerischen Reederei gehörende "Maloja 
+               <lb xml:id="p001_r_3_tl_6"/>und die jugoslawische "Dubac", haben während des 
+               <lb xml:id="p001_r_3_tl_7"/>ungewöhnlich heftigen Zyklons, der Portugal letzte 
+               <lb xml:id="p001_r_3_tl_8"/>Woche heimsuchte, Schäden erlitten und befinden sich 
+               <lb xml:id="p001_r_3_tl_9"/>in Reparatur. Durch den Zyklon ging außerdem die 
+               <lb xml:id="p001_r_3_tl_10"/>Fracht von einigen kleinen portugiesischen Segel 
+               <lb xml:id="p001_r_3_tl_11" break="no"/>booten verloren, die im Lissaboner Hafen zum Um 
+               <lb xml:id="p001_r_3_tl_12" break="no"/>laden von für die Schweiz bestimmten Gütern ver 
+               <lb xml:id="p001_r_3_tl_13" break="no"/>wendet wurden.</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_14"/>Lissabon, einer der letzten freien Häfen an der 
+               <lb xml:id="p001_r_3_tl_15"/>Europäischen Küste des atlantik, ist seit Beginn des 
+               <lb xml:id="p001_r_3_tl_16"/>italienisch-griechischen Krieges auch der <hi rendition="#g">Zufluchts 
+                  <lb xml:id="p001_r_3_tl_17" break="no"/>ort</hi> jener fünfzehn <hi rendition="#g">griechischen Dampfer</hi>, 
+               <lb xml:id="p001_r_3_tl_18"/>welche, von der Schweiz gechartert, bis zu jenem 
+               <lb xml:id="p001_r_3_tl_19"/>Moment das Gros der "Schweizer Handelsflotte" ge 
+               <lb xml:id="p001_r_3_tl_20" break="no"/>bildet haben. Einigen dieser Schiffe wurde von eng 
+               <lb xml:id="p001_r_3_tl_21" break="no"/>lischer Seite die Erlaubnis, Gibraltar zu passieren, 
+               <lb xml:id="p001_r_3_tl_22"/>um nach Genua zu fahren, wenige Tage vor Ausbruch 
+               <lb xml:id="p001_r_3_tl_23"/>des italienisch-griechischen Konflikts gewährt. Sie 
+               <lb xml:id="p001_r_3_tl_24"/>blieben teils in Madeira und Teneriffa, teils in Porto, 
+               <lb xml:id="p001_r_3_tl_25"/>teils in Lissabon stecken. Jetzt handelt es sich darum 
+               <lb xml:id="p001_r_3_tl_26"/>sie in Lissabon zu versammeln, um hier die durch die 
+               <lb xml:id="p001_r_3_tl_27"/>veränderte Lage erforderten Umladungen vorzu 
+               <lb xml:id="p001_r_3_tl_28" break="no"/>nehmen. Die Schweiz ersetzt die ausfallenden Griechen 
+               <lb xml:id="p001_r_3_tl_29" break="no"/>dampfer durch Frachtschiffe anderer Herkunft, in der 
+               <lb xml:id="p001_r_3_tl_30"/>Mehrzahl durch jugoslawische sowie spanische und 
+               <lb xml:id="p001_r_3_tl_31"/>Panama-Schiffe. Auch der unter der Panama-Flagge 
+               <lb xml:id="p001_r_3_tl_32"/>fahrende Dampfer der Schweizerischen Reederei, die 
+               <lb xml:id="p001_r_3_tl_33"/>"Maloja", muß die von Genna mitgebrachten Export 
+               <lb xml:id="p001_r_3_tl_34" break="no"/>güter in Lissabon ausladen, um in Tenerissa für die 
+               <lb xml:id="p001_r_3_tl_35"/>Schweiz bestimmte Waren abzuholen. Sie war 
+               <lb xml:id="p001_r_3_tl_36"/>ursprünglich nur für den Pandelverkehr zwischen 
+               <lb xml:id="p001_r_3_tl_37"/>Genua und Lissabon bestimmt und beförderte 
+               <lb xml:id="p001_r_3_tl_38"/>Schweizer Exportgüter für Portugal, Portugiesisch 
+               <lb xml:id="p001_r_3_tl_39" break="no"/>und Südafrika, Britisch-Indien, Brasilien und Argen- 
+               <lb xml:id="p001_r_3_tl_40"/>tinien.</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_41"/>Während des letzten Weltkriegs blieb das von den 
+               <lb xml:id="p001_r_3_tl_42"/>verbündeten Flotten Italiens, Frankreichs und Groß 
+               <lb xml:id="p001_r_3_tl_43" break="no"/>britanniens kontrollierte Mittelmeer offen. Heute 
+               <lb xml:id="p001_r_3_tl_44"/>haben sich die Verhältnisse im Mittelmeer völlig ge 
+               <lb xml:id="p001_r_3_tl_45" break="no"/>ändert, und die Handelsschiffahrt der ganzen Welt 
+               <lb xml:id="p001_r_3_tl_46"/>steht vor einer beschränkteren Situation, als es die
+               <milestone unit="textregion" xml:id="p001_r_15"/> 
+               <lb xml:id="p001_r_15_tl_1"/>vor der Entdeckung des Seeweges nach Indien ge 
+               <lb xml:id="p001_r_15_tl_2"/>wesen ist. Dank dieser Situation hat <hi rendition="#g">Lissabon</hi> 
+               <lb xml:id="p001_r_15_tl_3"/>eine Bedeutung erhalten, die es seit den Tagen von 
+               <lb xml:id="p001_r_15_tl_4"/>Columbus und der amerikanischen Goldschiffe nicht 
+               <lb xml:id="p001_r_15_tl_5"/>mehr gekannt hat. Aber von allen Ländern Europas 
+               <lb xml:id="p001_r_15_tl_6"/>ist zurzeit keines so sehr auf den Hafen von Lissabon 
+               <lb xml:id="p001_r_15_tl_7"/>angewiesen wie die Schweiz, diese neutrale Insel im 
+               <lb xml:id="p001_r_15_tl_8"/>Herzen unseres vom Krieg heimgesuchten Kontinents. 
+               <lb xml:id="p001_r_15_tl_9"/>Die für die Schweiz bestimmten Ladungen können, 
+               <lb xml:id="p001_r_15_tl_10"/>falls der nötige Schiffsraum vorhanden ist, nach 
+               <lb xml:id="p001_r_15_tl_11"/>Genua gelangen. Die Leitung der Transporte über 
+               <lb xml:id="p001_r_15_tl_12"/>diese vorzüglich ausgestatteten Häfen stellt nach wie 
+               <lb xml:id="p001_r_15_tl_13"/>vor den leistungsfähigsten Transportweg dar. Die 
+               <lb xml:id="p001_r_15_tl_14"/>Schwierigkeit besteht aber darin, die nötigen Schiffe 
+               <lb xml:id="p001_r_15_tl_15"/>unter neutraler Flagge aufzutreiben.</p>
+            <p> 
+               <lb xml:id="p001_r_15_tl_16"/>Außer diesem Seeweg nach Genua steht der Schweiz 
+               <lb xml:id="p001_r_15_tl_17"/>noch der <hi rendition="#g">Landweg</hi> von Portugal <hi rendition="#g">über 
+                  <lb xml:id="p001_r_15_tl_18"/>Spanien</hi> offen. Der Ausgangspunkt für beide 
+               <lb xml:id="p001_r_15_tl_19"/>Wege ist jedenfalls Lissabon. In der Reihe der heute 
+               <lb xml:id="p001_r_15_tl_20"/>für die Versorgung der Schweiz lebenswichtigen Ver 
+               <lb xml:id="p001_r_15_tl_21" break="no"/>kehrsstraßen kommt daher der Bahnverbindung von 
+               <lb xml:id="p001_r_15_tl_22"/>Lissabon über Spanien nach der Schweiz zweifellos 
+               <lb xml:id="p001_r_15_tl_23"/>eine entscheidende Bedeutung zu. Das reibungslose 
+               <lb xml:id="p001_r_15_tl_24"/>Funktionieren des Verkehrs mit der Schweiz von 
+               <lb xml:id="p001_r_15_tl_25"/>diesem Punkt aus hängt von verschiedenen Umständen 
+               <lb xml:id="p001_r_15_tl_26"/>ab, die teils technischer, teils administrativer Natur 
+               <lb xml:id="p001_l"/>sind.</p>
+            <p> 
+               <lb xml:id="p001_r_15_tl_27"/>Ein Rundgang durch die <hi rendition="#g">Lissaboner 
+                  <lb xml:id="p001_r_15_tl_28"/>Hafenanlagen</hi> genügt jedem, der moderne 
+               <lb xml:id="p001_r_15_tl_29"/>Hafenanlagen wie Hamburg, Haifa in Palästina 
+               <lb xml:id="p001_r_15_tl_30"/>oder Genua kennt, um sich über ein Kapitel von prak 
+               <lb xml:id="p001_r_15_tl_31" break="no"/>tischen Schwierigkeiten des Themas "Die Versorgung 
+               <lb xml:id="p001_r_15_tl_32"/>der Schweiz" klar zu werden. Lissabon ist eine unge 
+               <lb xml:id="p001_r_15_tl_33" break="no"/>mein reizvolle Stadt mit einer reichen Vergangen 
+               <lb xml:id="p001_r_15_tl_34" break="no"/>heit, aber es hat seit Hunderten von Jahren ein stilles 
+               <lb xml:id="p001_r_15_tl_35"/>und abseitiges Dasein geführt. Dem außerordent 
+               <lb xml:id="p001_r_15_tl_36" break="no"/>lichen Verkehrsandrang der letzten Monate konnten 
+               <lb xml:id="p001_r_15_tl_37"/>die Einrichtungen des Hafens kaum Genüge leisten. 
+               <lb xml:id="p001_r_15_tl_38"/>Um die Ladung eines Getreidedampfers zu löschen, die 
+               <lb xml:id="p001_r_15_tl_39"/>in Genua mittels moderner "Saugröhren" in zwei 
+               <lb xml:id="p001_r_15_tl_40"/>bis drei Tagen bewältigt wird, braucht man in Lissa 
+               <lb xml:id="p001_r_15_tl_41" break="no"/>bon etwa vierzehn Tage. Die Fracht, die aus ver 
+               <lb xml:id="p001_r_15_tl_42" break="no"/>schiedenen Sorten von südamerikanischem Weizen 
+               <lb xml:id="p001_r_15_tl_43"/>Hafer und Mais besteht, muß an Bord durch Arbeiter 
+               <lb xml:id="p001_r_15_tl_44"/>in Säcke gefüllt, auf kleine portugiesische Segler ver 
+               <lb xml:id="p001_r_15_tl_45" break="no"/>laden, an Land geschafft und durch Camions in 
+               <lb xml:id="p001_r_15_tl_46"/>irgendwelche Lagerräume transportiert werden. Der
+               <milestone unit="textregion" xml:id="p001_r_16"/> 
+               <lb xml:id="p001_r_16_tl_1"/>gleiche Prozeß beginnt, wenn das Getreide auf einen 
+               <lb xml:id="p001_r_16_tl_2"/>andern, nach Genua abgehenden Dampfer oder in die 
+               <lb xml:id="p001_r_16_tl_3"/>Waggons eines durch Spanien und Frankreich nach 
+               <lb xml:id="p001_r_16_tl_4"/>der Schweiz fahrenden Eisenbahnzuges befördert 
+               <lb xml:id="p001_r_16_tl_5"/>wird. Mittlerweile mag es während des auf den 
+               <lb xml:id="p001_r_16_tl_6"/>Dampfer erfolgten Füllens der Säcke geregnet haben 
+               <lb xml:id="p001_r_16_tl_7"/>oder das Getreide blieb so lange in stickigen Waggons 
+               <lb xml:id="p001_r_16_tl_8"/>oder Lagern liegen, daß es zu faulen oder zu gären 
+               <lb xml:id="p001_r_16_tl_9"/>begann. Nun muß jeder einzelne Sack geöffnet, von 
+               <lb xml:id="p001_r_16_tl_10"/>Experten geprüft werden, bevor die noch gute Ware 
+               <lb xml:id="p001_r_16_tl_11"/>weitergesandt werden kann. Und auf jeden Fall sind 
+               <lb xml:id="p001_r_16_tl_12"/>einige Prozent der Ware verloren, die für das täg 
+               <lb xml:id="p001_r_16_tl_13" break="no"/>liche Brot der Schweizerbürger unentbehrlich ist.</p>
+            <p> 
+               <lb xml:id="p001_r_16_tl_14"/>Es ist außerdem nicht selbstverständlich, daß für 
+               <lb xml:id="p001_r_16_tl_15"/>die aus aller Welt eintreffenden, für die Schweiz 
+               <lb xml:id="p001_r_16_tl_16"/>bestimmten Waren die nötigen <hi rendition="#g">Lagerräume</hi> in 
+               <lb xml:id="p001_r_16_tl_17"/>Lissabon vorhanden sind. Man zeigte mir mindestens 
+               <lb xml:id="p001_r_16_tl_18"/>ein Dutzend verschiedener Lager, die vor einigen 
+               <lb xml:id="p001_r_16_tl_19"/>Monaten unter dem Risiko gemietet wurden, daß sie 
+               <lb xml:id="p001_r_16_tl_20"/>nie benützt werden würden, darunter befand sich 
+               <lb xml:id="p001_r_16_tl_21"/>einige fünfzehn Kilometer außerhalb von Lissabon 
+               <lb xml:id="p001_r_16_tl_22"/>eine Mühle, und sie sind heute alle gefüllt bis zur 
+               <lb xml:id="p001_r_16_tl_23"/>Decke mit für die Schweiz bestimmten Waren. Es 
+               <lb xml:id="p001_r_16_tl_24"/>handelt sich dabei meistens um Brotgetreide, Weizen 
+               <lb xml:id="p001_r_16_tl_25"/>aus Südamerika und Mais. In einem Vorratsraum 
+               <lb xml:id="p001_r_16_tl_26"/>in der Nähe des herrlichen Klosters Belleme liegen 
+               <lb xml:id="p001_r_16_tl_27"/>zum Beispiel die Maissäcke einer Ladung, die im 
+               <lb xml:id="p001_r_16_tl_28"/>November 1940 Lissabon mit der Bahn verlassen 
+               <lb xml:id="p001_r_16_tl_29"/>hatte und unterwegs an der portugiesisch-spanischen 
+               <lb xml:id="p001_r_16_tl_30"/>Grenze durch das von Spanien erlassene Verbot für 
+               <lb xml:id="p001_r_16_tl_31"/>Transitgüter überrascht wurde. Eine große Anzahl 
+               <lb xml:id="p001_r_16_tl_32"/>von Waggons gefüllt mit Mais blieb also stecken und 
+               <lb xml:id="p001_r_16_tl_33"/>kam schließlich nach Lissabon zurück. Die Ware soll 
+               <lb xml:id="p001_r_16_tl_34"/>nun auf Schiffen jugoslawischer oder anderer Her 
+               <lb xml:id="p001_r_16_tl_35" break="no"/>kunft nach Genua abtransportiert werden. Inzwischen 
+               <lb xml:id="p001_r_16_tl_36"/>sind auch Käfer in die Lagerräume gelangt und das 
+               <lb xml:id="p001_r_16_tl_37"/>von ihnen angefressene Maiskorn träufelt als dünnes 
+               <lb xml:id="p001_r_16_tl_38"/>Mehl aus den aufgestapelten Säcken.</p>
+            <p> 
+               <lb xml:id="p001_r_16_tl_39"/>Es gibt zahlreiche andere Schwierigkeiten. Da ist 
+               <lb xml:id="p001_r_16_tl_40"/>zum Beispiel die Frage des <hi rendition="#g">Transport 
+                  <lb xml:id="p001_r_16_tl_41" break="no"/>materials</hi>. Um die regelmäßige Versorgungs 
+               <lb xml:id="p001_r_16_tl_42" break="no"/>zufuhr von Lissabon auf dem Landweg zu decken, 
+               <lb xml:id="p001_r_16_tl_43"/>würde die Schweiz wöchentlich mehrere Eisenbahnzüge 
+               <lb xml:id="p001_r_16_tl_44"/>durch Spanien benötigen. Die Zahl der erhältlichen 
+               <lb xml:id="p001_r_16_tl_45"/>Waggons ist aber durchaus ungenügend. Es ist ver 
+               <lb xml:id="p001_r_16_tl_46" break="no"/>ständlich, daß gewisse Firmen in der Schweiz, welche 
+               <lb xml:id="p001_r_16_tl_47"/>rasch verderbliche Rohprodukte, Chemikalien, Kakao 
+               <lb xml:id="p001_r_16_tl_48"/>usw. benötigen, für den Bahntransport sehr hohe 
+               <lb xml:id="p001_r_16_tl_49"/>Preise zu bezahlen gewillt sind. Dies bewirkt aber 
+               <lb xml:id="p001_r_16_tl_50"/>eine allgemeine Preissteigerung für den spanisch 
+               <lb xml:id="p001_r_16_tl_51" break="no"/>portugiesischen Transitverkehr, die anderen Schweizer
+               <milestone unit="textregion" xml:id="p001_r_17"/> 
+               <lb xml:id="p001_r_17_tl_1"/>Firmen, besonders den Einkäufern von Engroswaren 
+               <lb xml:id="p001_r_17_tl_2"/>wie Getreide zum Nachteil gereicht. Da anderseits 
+               <lb xml:id="p001_r_17_tl_3"/>für den Transport auf dem Seeweg über Genua 
+               <lb xml:id="p001_r_17_tl_4"/>nur sehr wenig Schiffsraum aufzutreiben ist, hängt 
+               <lb xml:id="p001_r_17_tl_5"/>von der Offenhaltung des Landverkehrswegs über 
+               <lb xml:id="p001_r_17_tl_6"/>Spanien sehr viel ab. Bis zum September 1940 
+               <lb xml:id="p001_r_17_tl_7"/>wurden schweizerische Waren per Bahn durch Spa 
+               <lb xml:id="p001_r_17_tl_8" break="no"/>nien transportiert. Die Sprengung der Brücke von 
+               <lb xml:id="p001_r_17_tl_9"/>Lavillat und der durch Ueberschwemmungen ver 
+               <lb xml:id="p001_r_17_tl_10" break="no"/>ursachte Einsturz mehrerer anderer Brücken zwischen 
+               <lb xml:id="p001_r_17_tl_11"/>Perpignan und der spanisch-französischen Grenze bei 
+               <lb xml:id="p001_r_17_tl_12"/>Cerbères bewirkten erste Stockungen auf diesem 
+               <lb xml:id="p001_r_17_tl_13"/>Wege. Zeitweilig blieb nur die durch das Herz der 
+               <lb xml:id="p001_r_17_tl_14"/>Pyrenäen führende einspurige Bahn von Canfranc 
+               <lb xml:id="p001_r_17_tl_15"/>als Notbehelf übrig. Dann erhöhte das spanische 
+               <lb xml:id="p001_r_17_tl_16"/>Transitverbot für eine Reihe von Gütern die 
+               <lb xml:id="p001_r_17_tl_17"/>Schwierigkeiten.</p>
+            <p> 
+               <lb xml:id="p001_r_17_tl_18"/>Wie in der Schweizer Presse schon mitgeteilt 
+               <lb xml:id="p001_r_17_tl_19"/>wurde, befindet sich jetzt in Madrid eine von Pro 
+               <lb xml:id="p001_r_17_tl_20" break="no"/>fessor Keller präsidierte schweizerische Kommission, um 
+               <lb xml:id="p001_r_17_tl_21"/>über die Regelung des für unser Land lebenswichti 
+               <lb xml:id="p001_r_17_tl_22" break="no"/>gen <hi rendition="#g">portugiesisch-spanischen Transit 
+                  <lb xml:id="p001_r_17_tl_23"/>verkehrs</hi> zu verhandeln. Auf den Vorschlag 
+               <lb xml:id="p001_r_17_tl_24"/>unseres hiesigen Ministers hin wird die Kommission 
+               <lb xml:id="p001_r_17_tl_25"/>anschließend nach Lissabon kommen. Die verantwort 
+               <lb xml:id="p001_r_17_tl_26" break="no"/>lichen portugiesischen Stellen sind zweifellos zur Zu 
+               <lb xml:id="p001_r_17_tl_27" break="no"/>sammenarbeit mit ihr bereit. Inzwischen wirken die 
+               <lb xml:id="p001_r_17_tl_28"/>Vertreter schweizerischer Interessen, vor allem der<hi rendition="#g"> 
+                  <lb xml:id="p001_r_17_tl_29"/>Hafenkommissar</hi> Paul Baerlocher und die 
+               <lb xml:id="p001_r_17_tl_30"/>Repräsentanten von rund zwanzig Häusern, die sich 
+               <lb xml:id="p001_r_17_tl_31"/>kürzlich in einer <hi rendition="#g">"Union der Schweizer Tran 
+                  <lb xml:id="p001_r_17_tl_32"/>sitfirmen"</hi> zusammengeschlossen haben, mit der 
+               <lb xml:id="p001_r_17_tl_33"/>Gesandtschaft zusammen, um die Versorgung der 
+               <lb xml:id="p001_r_17_tl_34"/>Schweiz über Portugal auf dem Land- und Seeweg 
+               <lb xml:id="p001_r_17_tl_35"/>zu sichern. England wünscht die schweizerische Versor 
+               <lb xml:id="p001_r_17_tl_36" break="no"/>gung einerseits zu sichern, anderseits seine durch die 
+               <lb xml:id="p001_r_17_tl_37"/>unmittelbaren Kriegsinteressen gebotenen Regeln der 
+               <lb xml:id="p001_r_17_tl_38"/>Blockade aufrechtzuerhalten. Sie betreffen natürlich 
+               <lb xml:id="p001_r_17_tl_39"/>auch die aus portugiesischen Kolonien stammenden 
+               <lb xml:id="p001_r_17_tl_40"/>über Lissabon gehenden Güter, darunter solche, die 
+               <lb xml:id="p001_r_17_tl_41"/>für die Schweiz lebenswichtig sind, wie Zucker, Kakao, 
+               <lb xml:id="p001_r_17_tl_42"/>Kaffee, Kopra, Kopra- und Erdnußöl, Terpentinöl 
+               <lb xml:id="p001_r_17_tl_43"/>und Glukose. Von der Erteilung der <hi rendition="#g">Navicerts</hi> 
+               <lb xml:id="p001_r_17_tl_44"/>ist auch die Zufuhr von argentinischem Getreide, Wei 
+               <lb xml:id="p001_r_17_tl_45" break="no"/>zen, Mais und Hafer oder Stückgüter aus den Ver 
+               <lb xml:id="p001_r_17_tl_46" break="no"/>einigten Staaten, wie Schreibmaschinen und Photo 
+               <lb xml:id="p001_r_17_tl_47" break="no"/>material, welche die Schweiz benötigt, abhängig. Die 
+               <lb xml:id="p001_r_17_tl_48"/>Zusammenarbeit der englischen Stellen des "Mini 
+               <lb xml:id="p001_r_17_tl_49" break="no"/>stry of Economic Warfare" mit den entsprechenden 
+               <lb xml:id="p001_r_17_tl_50"/>schweizerischen Stellen ist durchaus befriedigend. Das 
+               <lb xml:id="p001_r_17_tl_51"/>Prinzip auf englischer Seite ist, daß die Schweiz mit 
+               <lb xml:id="p001_r_17_tl_52"/>allen lebenswichtigen Gütern versorgt werden soll, 
+               <lb xml:id="p001_r_17_tl_53"/>ohne aber Vorräte für eine längere Dauer als von 
+               <lb xml:id="p001_r_17_tl_54"/>zwei Monaten anzuhäufen. Für unsere Landesversor 
+               <lb xml:id="p001_r_17_tl_55" break="no"/>gung hängt viel von der Tätigkeit unserer auswärti 
+               <lb xml:id="p001_r_17_tl_56" break="no"/>gen Vertretungen ab. Die altmodische, für die An 
+               <lb xml:id="p001_r_17_tl_57" break="no"/>sprüche ihrer jetzigen Aufgaben wirklich zu enge und 
+               <lb xml:id="p001_r_17_tl_58"/>bescheidene Schweizer Gesandtschaft in Lissabon, die an 
+               <lb xml:id="p001_r_17_tl_59"/>Stelle des nach Sofia versetzten, verdienstvollen Ge 
+               <lb xml:id="p001_r_17_tl_60" break="no"/>schäftsträgers M. Redard jetzt von unserm früheren 
+               <lb xml:id="p001_r_17_tl_61"/>Minister in Warschau, M. Henri Martin, übernom 
+               <lb xml:id="p001_r_17_tl_62" break="no"/>men wurde, trägt im heutigen Zeitpunkt mit die 
+               <lb xml:id="p001_r_17_tl_63"/>größte Verantwortung und leistet mit die wichtigste 
+               <lb xml:id="p001_r_17_tl_64"/>Arbeit für die Versorgung unseres Landes.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_18"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_13"/>Transportschiff</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_19"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_19_tl_1"/>Auf den jugoslawischen, für die Schweiz gecharterten "Sud" wird im Lissa 
+               <lb xml:id="p001_r_19_tl_2" break="no"/>boner Hafen Mais für den Transport nach Genua geladen</p>
+
+            <milestone unit="textregion" xml:id="p001_r_21"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_r_21_tl_1"/>Frachtdampfer</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_22"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_22_tl_1"/>Der griechische Frachtdampfer "Nereus" hat aus Südamerika Getreide für die 
+               <lb xml:id="p001_r_22_tl_2"/>Schweiz nach Lissabon gebracht</p>
+
+            <milestone unit="textregion" xml:id="p001_r_23"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_24"/>Lagerräume Lissabon</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_24"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_24_tl_1"/>Es kostete viel Geld und Mühe, genügend Lagerräume für das auf den Ab 
+               <lb xml:id="p001_r_24_tl_2" break="no"/>transport in die Schweiz über Genua oder durch Spanien bereitgestellte Ge 
+               <lb xml:id="p001_r_24_tl_3" break="no"/>treide aufzutreiben. Weizen, Gerste und Hafer werden eingelagert.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_25"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_60"/>Segelboot mit Ladung</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_26"/>            <p xmlns:local="local" local:warning="FML-figure-paragraph"> 
+               <lb xml:id="p001_r_26_tl_1"/>Zum Teil wird das Mais mit kleinen Segelbooten ("Pragattas") bis zum Fracht 
+               <lb xml:id="p001_r_26_tl_2" break="no"/>dampfer gebracht und mit Kranen in großen Behältern an Bord des nach 
+               <lb xml:id="p001_r_26_tl_3"/>Genua auslaufenden Schiffes gebracht</p>
+</div>
+       </body>
+    </text>
+ </TEI>
