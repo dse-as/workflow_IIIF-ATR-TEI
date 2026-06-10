@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0483" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0483#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0483</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0483"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0483_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0483_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l"/> Hund</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l_17"/>KEINEN PLATZ FÜR TYRAS</p>
+
+            <milestone unit="textregion" xml:id="p001_r_3"/>            <p> 
+               <lb xml:id="p001_r_3_tl_1"/>An einem Pier des altmodischen Hafens von Lissabon liegt ein Hund von 
+               <lb xml:id="p001_r_3_tl_2"/>dem amerikanischen Dampfer "Siboney" und bewacht eine Kajüten 
+               <lb xml:id="p001_r_3_tl_3" break="no"/>luke, hinter welcher das Gesicht seines Herrn soeben verschwunden 
+               <lb xml:id="p001_r_3_tl_4"/>ist. Der Herr gehört zu den 350 Menschen, die auf dem kleinen, für 
+               <lb xml:id="p001_r_3_tl_5"/>die Unterbringung von höchstens der Hälfte dieser Zahl von Passa 
+               <lb xml:id="p001_r_3_tl_6" break="no"/>gieren eingerichteten Schiff die Reise über den Atlantischen Ozean 
+               <lb xml:id="p001_r_3_tl_7"/>antreten, für den Hund gab es keinen Platz. – Die Dampfer der 
+               <lb xml:id="p001_r_3_tl_8"/>"American Export Lines" sind die einzigen, die noch in diesem letzten 
+               <lb xml:id="p001_r_3_tl_9"/>freien Hafen der europäischen Atlantik-Küste anlegen, um den Passa 
+               <lb xml:id="p001_r_3_tl_10" break="no"/>gier-Verkehr zwischen der Alten und der Neuen Welt aufrecht zu 
+               <lb xml:id="p001_r_3_tl_11"/>erhalten. Außer ihnen gibt es nur die Clipper-Flugzeuge, auf denen 
+               <lb xml:id="p001_r_3_tl_12"/>die Plätze auf Monate im voraus gebucht sind. Auch auf einen Schiffs 
+               <lb xml:id="p001_r_3_tl_13" break="no"/>platz muß man in Lissabon oft wochenlang warten. Jeden Freitag, dem 
+               <lb xml:id="p001_r_3_tl_14"/>Abfahrtstag der "Export-Liners", spielen sich am Hafen schmerzliche 
+               <lb xml:id="p001_r_3_tl_15"/>Szenen der Trennung ab. Denn die meisten Menschen, die sich heute 
+               <lb xml:id="p001_r_3_tl_16"/>in Lissabon einschiffen, sind Flüchtlinge, Emignanten, unfreiwillige
+               <milestone unit="textregion" xml:id="p001_r_4"/> 
+               <lb xml:id="p001_r_4_tl_1"/>Auswanderer, Heimatlose aus den in diesem Krieg geschlagenen Län 
+               <lb xml:id="p001_r_4_tl_2" break="no"/>dern Europas, und wieviele von ihnen werden ihre Heimat nie wieder 
+               <lb xml:id="p001_r_4_tl_3" break="no"/>sehen! Aber sie, die ein amerikanisches Visum und eine Fahrkarte 
+               <lb xml:id="p001_r_4_tl_4"/>nach New York besitzen, sind beneidenswert, verglichen mit den 
+               <lb xml:id="p001_r_4_tl_5"/>Tausenden, die gezwungen sind, Europa zu verlassen und die in 
+               <lb xml:id="p001_r_4_tl_6"/>Lissabon auf einen Paß, auf Geld, eine Reisemöglichkeit warten. Sie 
+               <lb xml:id="p001_r_4_tl_7"/>füllen die Hotels, Pensionen, billigen Mietzimmer, die Cafés, Reise 
+               <lb xml:id="p001_r_4_tl_8" break="no"/>bureaux, die Wartezimmer der Konsulate in Lissabon und geben der 
+               <lb xml:id="p001_r_4_tl_9"/>vor kurzem noch idyllisch stillen Hauptstadt Portugals ein inter 
+               <lb xml:id="p001_r_4_tl_10" break="no"/>nationales Gepräge, eine hektische Betriebsamkeit, die seltsam und 
+               <lb xml:id="p001_r_4_tl_11"/>traurig eindrucksvolle Atmosphäre eines letzten Postens am Rande 
+               <lb xml:id="p001_r_4_tl_12"/>des fürchterlich heimgesuchten europäischen Kontinents. Vom gleichen 
+               <lb xml:id="p001_r_4_tl_13"/>Hafen fuhren einst die Schiffe Heinrichs des Seefahrers, von Welt 
+               <lb xml:id="p001_r_4_tl_14" break="no"/>umseglern und Eroberern aus. Jetzt blicken von hier aus besiegte 
+               <lb xml:id="p001_r_4_tl_15"/>Menschen mit kummervoller Hoffnung nach Westen.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_4_tl_16"/>Annemarie Clarac-Schwarzenbach.</p>
+</div>
+       </body>
+    </text>
+ </TEI>

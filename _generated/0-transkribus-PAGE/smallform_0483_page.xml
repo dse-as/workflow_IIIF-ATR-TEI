@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<validation-wrapper>
+   <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+      <Metadata>
+         <Creator>prov=READ-COOP:name=TrHtr:version=2.24.0:model_id=51170:date=25_03_2025_15:08</Creator>
+         <Created>2025-03-25T11:21:58.678+01:00</Created>
+         <LastChange>2025-03-25T15:11:57.042+01:00</LastChange>
+         <TranskribusMetadata docId="7611994"
+                              pageId="93968073"
+                              pageNr="1"
+                              tsid="237161472"
+                              status="FINAL"
+                              userId="295817"
+                              imgUrl="https://files.transkribus.eu/Get?id=GULLAJZYGDKCCFKQBUSKZXYK&amp;fileType=view"
+                              xmlUrl="https://files.transkribus.eu/Get?id=MSFMTANNQXKKPZDEDTKKDTYO"
+                              imageId="78603802"/>
+      </Metadata>
+      <Page imageFilename="smallform_0483_001.jpg"
+            imageWidth="4252"
+            imageHeight="5669">
+         <ReadingOrder>
+            <OrderedGroup id="ro_1742911917042" caption="Regions reading order">
+               <RegionRefIndexed index="0" regionRef="r"/>
+               <RegionRefIndexed index="1" regionRef="r_2"/>
+               <RegionRefIndexed index="2" regionRef="r_3"/>
+               <RegionRefIndexed index="3" regionRef="r_4"/>
+            </OrderedGroup>
+         </ReadingOrder>
+         <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="419,818 3100,818 3100,3553 419,3553"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+               <Coords points="999,2041 1069,2020 1149,2057 1314,2039 1380,2059 1453,2016 1683,1993 1685,1962 1552,1943 1432,1990 1246,1935 1119,1965 1002,1956"/>
+               <Baseline points="1007,2025 1685,2007"/>
+               <TextEquiv>
+                  <Unicode>\f\ Hund\:f\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="1178,3558 2233,3558 2233,3648 1174,3645"/>
+            <TextLine id="l_17" custom="readingOrder {index:0;}">
+               <Coords points="1174,3629 2193,3633 2193,3578 1174,3588"/>
+               <Baseline points="1181,3633 2196,3629"/>
+               <TextEquiv>
+                  <Unicode>KEINEN PLATZ FÜR TYRAS</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="563,3651 1666,3651 1666,4303 563,4303"/>
+            <TextLine id="r_3_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="578,3694 1636,3694 1636,3656 578,3658"/>
+               <Baseline points="585,3683 629,3683 674,3680 719,3680 764,3680 809,3680 853,3680 898,3680 943,3680 988,3680 1032,3680 1077,3680 1122,3680 1167,3680 1212,3680 1256,3680 1301,3680 1346,3680 1391,3683 1435,3683 1480,3683 1525,3683 1570,3683 1615,3683 1638,3683"/>
+               <TextEquiv>
+                  <Unicode>\p\An einem Pier des altmodischen Hafens von Lissabon liegt ein Hund von</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="571,3731 1636,3746 1636,3703 1528,3690 571,3694"/>
+               <Baseline points="579,3722 623,3719 668,3719 713,3719 758,3719 803,3719 847,3719 892,3719 937,3719 982,3719 1026,3719 1071,3719 1116,3719 1161,3719 1206,3719 1250,3719 1295,3719 1340,3719 1385,3719 1429,3722 1474,3722 1519,3722 1564,3719 1609,3722 1638,3722"/>
+               <TextEquiv>
+                  <Unicode>dem amerikanischen Dampfer «Siboney» und bewacht eine Kajüten¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_3" custom="readingOrder {index:2;}">
+               <Coords points="569,3773 1635,3777 1592,3733 569,3729"/>
+               <Baseline points="576,3758 620,3758 665,3758 710,3758 755,3758 800,3758 844,3758 889,3758 934,3758 979,3758 1023,3755 1068,3758 1113,3758 1158,3758 1203,3758 1247,3758 1292,3758 1337,3758 1382,3758 1426,3758 1471,3758 1516,3761 1561,3761 1606,3761 1638,3761"/>
+               <TextEquiv>
+                  <Unicode>luke, hinter welcher das Gesicht seines Herrn soeben verschwunden</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_4" custom="readingOrder {index:3;}">
+               <Coords points="566,3806 1632,3815 1632,3778 1540,3769 566,3772"/>
+               <Baseline points="573,3797 617,3797 662,3797 707,3797 752,3797 797,3797 841,3797 886,3797 931,3797 976,3797 1020,3797 1065,3794 1110,3797 1155,3797 1200,3797 1244,3797 1289,3797 1334,3797 1379,3797 1423,3797 1468,3800 1513,3800 1558,3800 1603,3800 1635,3797"/>
+               <TextEquiv>
+                  <Unicode>ist. Der Herr gehört zu den 350 Menschen, die auf dem kleinen, für</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_5" custom="readingOrder {index:4;}">
+               <Coords points="569,3847 1634,3853 1634,3815 1555,3810 569,3812"/>
+               <Baseline points="576,3833 620,3836 665,3836 710,3836 755,3836 800,3836 844,3836 889,3836 934,3836 979,3836 1023,3836 1068,3836 1113,3836 1158,3836 1203,3836 1247,3836 1292,3836 1337,3836 1382,3836 1426,3836 1471,3836 1516,3836 1561,3839 1606,3836 1635,3836"/>
+               <TextEquiv>
+                  <Unicode>die Unterbringung von höchstens der Hälfte dieser Zahl von Passa¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_6" custom="readingOrder {index:5;}">
+               <Coords points="569,3892 1638,3887 1391,3840 569,3847"/>
+               <Baseline points="576,3877 611,3874 656,3874 701,3874 746,3874 791,3874 835,3874 880,3874 925,3874 970,3874 1014,3874 1059,3874 1104,3874 1149,3871 1194,3874 1238,3874 1283,3874 1328,3874 1373,3874 1417,3874 1462,3874 1507,3874 1552,3874 1597,3877 1641,3874"/>
+               <TextEquiv>
+                  <Unicode>gieren eingerichteten Schiff die Reise über den Atlantischen Ozean</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_7" custom="readingOrder {index:6;}">
+               <Coords points="569,3923 1640,3935 1640,3891 1538,3886 569,3895"/>
+               <Baseline points="576,3913 620,3910 665,3910 710,3913 755,3913 800,3913 844,3913 889,3913 934,3913 979,3913 1023,3913 1068,3913 1113,3913 1158,3913 1203,3913 1247,3913 1292,3913 1337,3913 1382,3913 1426,3913 1471,3913 1516,3913 1561,3916 1606,3913 1644,3913"/>
+               <TextEquiv>
+                  <Unicode>antreten, für den Hund gab es keinen Platz. — Die Dampfer der</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_8" custom="readingOrder {index:7;}">
+               <Coords points="569,3961 1638,3970 1610,3929 569,3934"/>
+               <Baseline points="576,3952 620,3952 665,3952 710,3952 755,3952 800,3952 844,3952 889,3952 934,3952 979,3952 1023,3952 1068,3952 1113,3952 1158,3952 1203,3952 1247,3952 1292,3952 1337,3952 1382,3952 1426,3952 1471,3952 1516,3952 1561,3952 1606,3952 1641,3952"/>
+               <TextEquiv>
+                  <Unicode>«American Export Lines» sind die einzigen, die noch in diesem letzten</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_9" custom="readingOrder {index:8;}">
+               <Coords points="566,4002 1632,4002 1632,3966 1576,3963 566,3963"/>
+               <Baseline points="573,3991 606,3988 650,3991 695,3991 740,3991 785,3991 829,3991 874,3991 919,3991 964,3991 1009,3991 1053,3991 1098,3991 1143,3991 1188,3991 1232,3991 1277,3991 1322,3991 1367,3991 1412,3991 1456,3991 1501,3991 1546,3994 1591,3991 1635,3988"/>
+               <TextEquiv>
+                  <Unicode>freien Hafen der europäischen Atlantik-Küste anlegen, um den Passa¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_10" custom="readingOrder {index:9;}">
+               <Coords points="566,4052 1638,4043 1638,4012 1416,3997 566,4002"/>
+               <Baseline points="573,4030 617,4027 662,4027 707,4027 752,4030 797,4030 841,4030 886,4030 931,4030 976,4030 1020,4030 1065,4030 1110,4030 1155,4030 1200,4030 1244,4027 1289,4030 1334,4030 1379,4030 1423,4030 1468,4030 1513,4030 1558,4030 1603,4033 1641,4030"/>
+               <TextEquiv>
+                  <Unicode>gier-Verkehr zwischen der Alten und der Neuen Welt aufrecht zu</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_11" custom="readingOrder {index:10;}">
+               <Coords points="571,4080 1638,4084 1571,4041 571,4049"/>
+               <Baseline points="579,4068 611,4068 656,4068 701,4068 746,4068 791,4068 835,4068 880,4068 925,4068 970,4068 1014,4068 1059,4068 1104,4068 1149,4068 1194,4068 1238,4068 1283,4068 1328,4068 1373,4068 1417,4068 1462,4068 1507,4068 1552,4068 1597,4068 1641,4065"/>
+               <TextEquiv>
+                  <Unicode>erhalten. Außer ihnen gibt es nur die Clipper-Flugzeuge, auf denen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_12" custom="readingOrder {index:11;}">
+               <Coords points="566,4118 1632,4127 1611,4079 566,4080"/>
+               <Baseline points="573,4107 617,4104 662,4104 707,4107 752,4107 797,4104 841,4107 886,4107 931,4107 976,4107 1020,4107 1065,4107 1110,4107 1155,4107 1200,4107 1244,4107 1289,4107 1334,4107 1379,4107 1423,4107 1468,4107 1513,4107 1558,4107 1603,4107 1635,4107"/>
+               <TextEquiv>
+                  <Unicode>die Plätze auf Monate im voraus gebucht sind. Auch auf einen Schiffs¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_13" custom="readingOrder {index:12;}">
+               <Coords points="566,4165 1638,4169 1589,4118 566,4118"/>
+               <Baseline points="573,4143 617,4143 662,4143 707,4146 752,4146 797,4146 841,4146 886,4143 931,4146 976,4146 1020,4146 1065,4146 1110,4146 1155,4146 1200,4146 1244,4146 1289,4143 1334,4146 1379,4146 1423,4146 1468,4146 1513,4146 1558,4146 1603,4146 1641,4146"/>
+               <TextEquiv>
+                  <Unicode>platz muß man in Lissabon oft wochenlang warten. Jeden Freitag, dem</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_14" custom="readingOrder {index:13;}">
+               <Coords points="569,4195 1640,4199 1640,4167 1517,4155 569,4162"/>
+               <Baseline points="576,4185 620,4182 665,4182 710,4182 755,4182 800,4185 844,4185 889,4182 934,4185 979,4185 1023,4185 1068,4185 1113,4185 1158,4185 1203,4185 1247,4185 1292,4185 1337,4185 1382,4185 1426,4185 1471,4185 1516,4185 1561,4185 1606,4185 1644,4185"/>
+               <TextEquiv>
+                  <Unicode>Abfahrtstag der «Export-Liners», spielen sich am Hafen schmerzliche</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_15" custom="readingOrder {index:14;}">
+               <Coords points="574,4233 1640,4236 1615,4195 574,4198"/>
+               <Baseline points="582,4221 626,4221 671,4221 716,4221 761,4224 806,4221 850,4221 895,4221 940,4224 985,4221 1029,4221 1074,4221 1119,4221 1164,4221 1209,4221 1253,4221 1298,4221 1343,4224 1388,4224 1432,4224 1477,4224 1522,4224 1567,4224 1612,4224 1644,4221"/>
+               <TextEquiv>
+                  <Unicode>Szenen der Trennung ab. Denn die meisten Menschen, die sich heute</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_16" custom="readingOrder {index:15;}">
+               <Coords points="571,4272 1636,4273 1636,4240 1553,4230 571,4230"/>
+               <Baseline points="579,4259 623,4259 668,4259 713,4259 758,4259 803,4259 847,4259 892,4259 937,4262 982,4262 1026,4262 1071,4262 1116,4262 1161,4262 1206,4262 1250,4262 1295,4262 1340,4262 1385,4262 1429,4262 1474,4262 1519,4262 1564,4262 1609,4262 1638,4262"/>
+               <TextEquiv>
+                  <Unicode>in Lissabon einschiffen, sind Flüchtlinge, Emignanten, unfreiwillige</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="1737,3651 2851,3651 2851,4292 1737,4292"/>
+            <TextLine id="r_4_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="1742,3698 2811,3702 2792,3647 1742,3662"/>
+               <Baseline points="1749,3686 1785,3683 1829,3683 1874,3683 1919,3683 1964,3686 2009,3683 2053,3683 2098,3683 2143,3683 2188,3683 2232,3683 2277,3683 2322,3683 2367,3683 2412,3683 2456,3683 2501,3683 2546,3683 2591,3683 2635,3683 2680,3683 2725,3683 2770,3683 2815,3683"/>
+               <TextEquiv>
+                  <Unicode>Auswanderer, Heimatlose aus den in diesem Krieg geschlagenen Län¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="1742,3739 2807,3737 2807,3701 2729,3694 1742,3696"/>
+               <Baseline points="1749,3719 1794,3722 1838,3722 1883,3722 1928,3722 1973,3722 2018,3722 2062,3722 2107,3722 2152,3722 2197,3722 2241,3722 2286,3722 2331,3722 2376,3722 2421,3722 2465,3722 2510,3722 2555,3722 2600,3722 2644,3722 2689,3722 2734,3722 2779,3722 2809,3722"/>
+               <TextEquiv>
+                  <Unicode>dern Europas, und wieviele von ihnen werden ihre Heimat nie wieder¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_3" custom="readingOrder {index:2;}">
+               <Coords points="1742,3781 2809,3776 2809,3742 2712,3731 1742,3741"/>
+               <Baseline points="1749,3761 1782,3761 1826,3761 1871,3761 1916,3761 1961,3761 2006,3761 2050,3761 2095,3761 2140,3761 2185,3761 2229,3761 2274,3761 2319,3761 2364,3758 2409,3761 2453,3761 2498,3761 2543,3761 2588,3761 2632,3761 2677,3761 2722,3761 2767,3761 2812,3758"/>
+               <TextEquiv>
+                  <Unicode>sehen! Aber sie, die ein amerikanisches Visum und eine Fahrkarte</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_4" custom="readingOrder {index:3;}">
+               <Coords points="1742,3813 2818,3816 2818,3784 2700,3769 1742,3780"/>
+               <Baseline points="1749,3800 1794,3800 1838,3800 1883,3800 1928,3800 1973,3800 2018,3800 2062,3800 2107,3800 2152,3800 2197,3800 2241,3800 2286,3800 2331,3800 2376,3800 2421,3800 2465,3800 2510,3803 2555,3803 2600,3803 2644,3803 2689,3800 2734,3800 2779,3800 2821,3800"/>
+               <TextEquiv>
+                  <Unicode>nach New York besitzen, sind beneidenswert, verglichen mit den</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_5" custom="readingOrder {index:4;}">
+               <Coords points="1745,3847 2818,3849 2748,3810 1745,3812"/>
+               <Baseline points="1752,3842 1797,3839 1841,3839 1886,3839 1931,3839 1976,3839 2021,3839 2065,3839 2110,3839 2155,3839 2200,3839 2244,3839 2289,3839 2334,3839 2379,3836 2424,3839 2468,3839 2513,3839 2558,3839 2603,3842 2647,3842 2692,3842 2737,3842 2782,3842 2821,3842"/>
+               <TextEquiv>
+                  <Unicode>Tausenden, die gezwungen sind, Europa zu verlassen und die in</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_6" custom="readingOrder {index:5;}">
+               <Coords points="1742,3892 2809,3888 2809,3848 1742,3847"/>
+               <Baseline points="1749,3877 1794,3874 1838,3877 1883,3877 1928,3877 1973,3877 2018,3877 2062,3877 2107,3877 2152,3877 2197,3877 2241,3877 2286,3874 2331,3877 2376,3877 2421,3877 2465,3877 2510,3877 2555,3877 2600,3877 2644,3880 2689,3880 2734,3880 2779,3877 2812,3877"/>
+               <TextEquiv>
+                  <Unicode>Lissabon auf einen Paß, auf Geld, eine Reisemöglichkeit warten. Sie</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_7" custom="readingOrder {index:6;}">
+               <Coords points="1742,3930 2809,3929 2809,3887 1742,3892"/>
+               <Baseline points="1749,3916 1782,3913 1826,3913 1871,3913 1916,3916 1961,3913 2006,3913 2050,3913 2095,3913 2140,3913 2185,3916 2229,3916 2274,3916 2319,3916 2364,3913 2409,3916 2453,3916 2498,3916 2543,3916 2588,3916 2632,3919 2677,3916 2722,3919 2767,3916 2812,3913"/>
+               <TextEquiv>
+                  <Unicode>füllen die Hotels, Pensionen, billigen Mietzimmer, die Cafés, Reise¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_8" custom="readingOrder {index:7;}">
+               <Coords points="1742,3963 2818,3975 2818,3934 2775,3931 1742,3930"/>
+               <Baseline points="1749,3952 1794,3952 1838,3955 1883,3955 1928,3952 1973,3952 2018,3952 2062,3955 2107,3955 2152,3952 2197,3952 2241,3955 2286,3955 2331,3955 2376,3952 2421,3955 2465,3955 2510,3955 2555,3955 2600,3955 2644,3958 2689,3955 2734,3955 2779,3955 2821,3955"/>
+               <TextEquiv>
+                  <Unicode>bureaux, die Wartezimmer der Konsulate in Lissabon und geben der</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_9" custom="readingOrder {index:8;}">
+               <Coords points="1753,4006 2811,4018 2811,3974 2771,3969 1753,3973"/>
+               <Baseline points="1761,3994 1806,3991 1850,3994 1895,3991 1940,3994 1985,3994 2029,3994 2074,3994 2119,3991 2164,3991 2209,3991 2253,3991 2298,3994 2343,3994 2388,3994 2432,3994 2477,3994 2522,3994 2567,3994 2612,3994 2656,3997 2701,3997 2746,3997 2791,3994 2815,3994"/>
+               <TextEquiv>
+                  <Unicode>vor kurzem noch idyllisch stillen Hauptstadt Portugals ein inter¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_10" custom="readingOrder {index:9;}">
+               <Coords points="1745,4040 2811,4048 2779,4012 1745,4010"/>
+               <Baseline points="1752,4030 1797,4030 1841,4030 1886,4030 1931,4030 1976,4030 2021,4030 2065,4030 2110,4030 2155,4030 2200,4030 2244,4030 2289,4030 2334,4030 2379,4030 2424,4033 2468,4033 2513,4033 2558,4033 2603,4033 2647,4033 2692,4033 2737,4033 2782,4033 2815,4033"/>
+               <TextEquiv>
+                  <Unicode>nationales Gepräge, eine hektische Betriebsamkeit, die seltsam und</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_11" custom="readingOrder {index:10;}">
+               <Coords points="1745,4080 2817,4084 2817,4052 2727,4044 1745,4041"/>
+               <Baseline points="1752,4068 1797,4068 1841,4068 1886,4068 1931,4071 1976,4068 2021,4068 2065,4068 2110,4068 2155,4068 2200,4068 2244,4068 2289,4068 2334,4068 2379,4068 2424,4068 2468,4068 2513,4071 2558,4071 2603,4071 2647,4071 2692,4071 2737,4071 2782,4071 2818,4068"/>
+               <TextEquiv>
+                  <Unicode>traurig eindrucksvolle Atmosphäre eines letzten Postens am Rande</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_12" custom="readingOrder {index:11;}">
+               <Coords points="1738,4116 2817,4123 2817,4089 2708,4081 1738,4085"/>
+               <Baseline points="1746,4107 1791,4107 1835,4107 1880,4107 1925,4107 1970,4107 2015,4107 2059,4107 2104,4107 2149,4107 2194,4107 2238,4107 2283,4107 2328,4107 2373,4107 2418,4107 2462,4110 2507,4110 2552,4110 2597,4110 2641,4110 2686,4110 2731,4110 2776,4110 2818,4110"/>
+               <TextEquiv>
+                  <Unicode>des fürchterlich heimgesuchten europäischen Kontinents. Vom gleichen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_13" custom="readingOrder {index:12;}">
+               <Coords points="1745,4155 2818,4157 2818,4120 1745,4116"/>
+               <Baseline points="1752,4146 1797,4146 1841,4146 1886,4146 1931,4146 1976,4146 2021,4146 2065,4146 2110,4146 2155,4146 2200,4146 2244,4146 2289,4146 2334,4146 2379,4146 2424,4146 2468,4146 2513,4146 2558,4149 2603,4149 2647,4149 2692,4149 2737,4149 2782,4149 2821,4146"/>
+               <TextEquiv>
+                  <Unicode>Hafen fuhren einst die Schiffe Heinrichs des Seefahrers, von Welt¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_14" custom="readingOrder {index:13;}">
+               <Coords points="1745,4201 2801,4216 2817,4170 1744,4171"/>
+               <Baseline points="1752,4185 1797,4185 1841,4185 1886,4185 1931,4185 1976,4185 2021,4185 2065,4185 2110,4185 2155,4185 2200,4185 2244,4185 2289,4185 2334,4185 2379,4185 2424,4185 2468,4188 2513,4188 2558,4188 2603,4188 2647,4188 2692,4188 2737,4188 2782,4188 2821,4191"/>
+               <TextEquiv>
+                  <Unicode>umseglern und Eroberern aus. Jetzt blicken von hier aus besiegte</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_15" custom="readingOrder {index:14;}">
+               <Coords points="1750,4236 2560,4241 2560,4209 2476,4197 1750,4201"/>
+               <Baseline points="1758,4224 1803,4224 1847,4224 1892,4224 1937,4224 1982,4224 2026,4224 2071,4224 2116,4224 2161,4224 2206,4224 2250,4224 2295,4224 2340,4224 2385,4224 2429,4224 2474,4224 2519,4224 2564,4224"/>
+               <TextEquiv>
+                  <Unicode>Menschen mit kummervoller Hoffnung nach Westen.\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_16" custom="readingOrder {index:15;}">
+               <Coords points="2318,4275 2446,4293 2484,4272 2540,4289 2609,4273 2630,4293 2666,4277 2819,4279 2811,4236 2318,4245"/>
+               <Baseline points="2325,4265 2328,4265 2373,4265 2418,4262 2462,4262 2507,4265 2552,4262 2597,4265 2641,4265 2686,4262 2731,4262 2776,4265 2821,4262"/>
+               <TextEquiv>
+                  <Unicode>Annemarie Clarac-Schwarzenbach.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+      </Page>
+   </PcGts>
+</validation-wrapper>
