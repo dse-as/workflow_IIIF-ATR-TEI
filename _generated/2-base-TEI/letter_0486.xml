@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0486" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0486#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0486</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0486_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0486_001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>ANNEMARIE CLARAC 
+               <lb xml:id="p001_tr_1_tl_3"/>118 EAST 40<hi rendition="#sub">TH</hi> 
+               <lb xml:id="p001_tr_1_tl_4"/>NEW YORK 
+               <lb xml:id="p001_tr_1_tl_2"/>14. Januar</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_5"/>Jhr lieben Bodmerlis, ich war ganz bestürzt, und 
+               <lb xml:id="p001_tr_1_tl_6"/>Erika und Klaus auch, über die schlechten Nach 
+               <lb xml:id="p001_tr_1_tl_7" break="no"/>richten in Eurem letzten Brief – armes Busy, hof 
+               <lb xml:id="p001_tr_1_tl_8" break="no"/>fentlich geht es Dir inzwischen viel besser – 
+               <lb xml:id="p001_tr_1_tl_9"/>aber Du musst Dich jetzt schonen und so vernünftig 
+               <lb xml:id="p001_tr_1_tl_10"/>sein, wie Du es mir immer rätst!</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_11"/>Die Pfeffermühle hat inzwischen zu spielen angefan 
+               <lb xml:id="p001_tr_1_tl_12" break="no"/>gen, die erste Aufführung war überfüllt, das Publikum 
+               <lb xml:id="p001_tr_1_tl_13"/>sehr angetan, die Kritiken gemischt – manche waren 
+               <lb xml:id="p001_tr_1_tl_14"/>erstaunlich dumm und böse darüber, dass es in einer 
+               <lb xml:id="p001_tr_1_tl_15"/>"Show" keine girls und Stepdancer gab!</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_16"/>Jetzt spielt die Mühle, immer noch in New York, 
+               <lb xml:id="p001_tr_1_tl_17"/>in verschiedenen Plätzen – z.B. nächste Woche in der 
+               <lb xml:id="p001_tr_1_tl_18"/>"New School for Social Research", was scheints sehr 
+               <lb xml:id="p001_tr_1_tl_19"/>wichtig ist –</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_20"/>Erika ist munter, aber etwas nervös und erschöpft, das 
+               <lb xml:id="p001_tr_1_tl_21"/>ist in New York unvermeidlich. Und ich habe viel 
+               <lb xml:id="p001_tr_1_tl_22"/>zu schreiben und zu studieren – fahre Montag weg, 
+               <lb xml:id="p001_tr_1_tl_23"/>meine Adresse ist dann<del rend="overstrike">c</del>[add inline:]</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_24"/>Washington D. C. 
+               <lb xml:id="p001_tr_1_tl_25"/>2563 Waterside Drive, p. Adr. Wright</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_26"/>Jch werde viel im Ford herumfahren und tätig 
+               <lb xml:id="p001_tr_1_tl_27"/>sein – aus Sils wird diesen Winter wohl nichts 
+               <lb xml:id="p001_tr_1_tl_28"/>mehr –</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0486_002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p> 
+               <lb xml:id="p002_tr_1_tl_1"/>Klaus ist schon auf dem Meer, vielleicht seht 
+               <lb xml:id="p002_tr_1_tl_2"/>Jhr ihn bald –</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_3"/>alles Liebe, alles Gute – 
+               <lb xml:id="p002_tr_1_tl_4"/>und Grüsse von Erika und der Theres – 
+               <lb xml:id="p002_tr_1_tl_5"/>Eure 
+               <lb xml:id="p002_tr_1_tl_6"/>Annemarie [Unterschrift handschriftlich mit Bleistift ergänzt]</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0486_003.jpg"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_1"/>14.1.37</p>
+
+            <milestone unit="textregion" xml:id="p003_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_2_tl_1"/>Mr. and Mrs. Robert Bodmer 
+               <lb xml:id="p003_tr_2_tl_2"/>Hergiswil am See 
+               <lb xml:id="p003_tr_2_tl_3"/>Nidwalden 
+               <lb xml:id="p003_tr_2_tl_4"/>Switzerland</p>
+
+            <milestone unit="textregion" xml:id="p003_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_l"/>GRAND CENT.ANNEX.N.Y.5 
+               <lb xml:id="p003_l_1"/>JAN 15 
+               <lb xml:id="p003_l_2"/>6<hi rendition="#sup">30</hi> PM 
+               <lb xml:id="p003_l_3"/>1937</p>
+
+            <milestone unit="textregion" xml:id="p003_r_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_l_4"/>BUY U.S. SAVINGS 
+               <lb xml:id="p003_l_5"/>BONDS 
+               <lb xml:id="p003_l_6"/>ASK YOUR POSTMASTER</p>
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0486_004.jpg"/>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_1_tl_1"/>ANNEMARIE CLARAC 
+               <lb xml:id="p004_tr_1_tl_2"/>118 EAST 40<hi rendition="#sub">TH</hi> 
+               <lb xml:id="p004_tr_1_tl_3"/>NEW YORK</p>
+</div>
+       </body>
+    </text>
+ </TEI>
