@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0572" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0572#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0572</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0572"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0572_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0572_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_tl_1"/>Der Transport 
+               <lb xml:id="p001_r_tl_2"/>zwischen Lissabon und der Schweiz 
+               <lb xml:id="p001_r_tl_3"/>A. Sch. <hi rendition="#g">Lissabon</hi></p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">, im Juni</p>
+            <p> 
+               <lb xml:id="p001_r_tl_4"/>Ein Blick über den Hafen von Lissabon genügt, 
+               <lb xml:id="p001_r_tl_5"/>um festzustellen, daß der hier zentralisierte <hi rendition="#g">See 
+                  <lb xml:id="p001_r_tl_6" break="no"/>verkehr für die Schweiz</hi> an Umfang und Be 
+               <lb xml:id="p001_r_tl_7" break="no"/>deutung während der letzten zwölf Monate gewon 
+               <lb xml:id="p001_r_tl_8" break="no"/>nen hat. Vor einem Jahr traf hier die aus New 
+               <lb xml:id="p001_r_tl_9"/>York kommende "Calanda" als erstes Schiff unter 
+               <lb xml:id="p001_r_tl_10"/>Schweizer Flagge ein. Anfang April trat der statt 
+               <lb xml:id="p001_r_tl_11" break="no"/>liche Achttausend-Tonnen-Dampfer "Eiger", die 
+               <lb xml:id="p001_r_tl_12"/>jüngste Erwerbung des Kriegs-Transportamtes, 
+               <lb xml:id="p001_r_tl_13"/>von Lissabon aus seine erste Fahrt nach Genua an.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_14"/>Die Schiffe in Schweizer Besitz sind bis heute 
+               <lb xml:id="p001_r_tl_15"/>die folgenden: "Albula", "Calanda", "Chasseral" 
+               <lb xml:id="p001_r_tl_16"/>"Eiger", "Generoso", "Maloja", "Säntis", "St. 
+               <lb xml:id="p001_r_tl_17"/>Cergue", und "St. Gotthard"; sie weisen eine Ge 
+               <lb xml:id="p001_r_tl_18" break="no"/>samttonnage von rund 40 000 Tonnen auf. Neben 
+               <lb xml:id="p001_r_tl_19"/>diesen unter Schweizer Flagge fahrenden Dam 
+               <lb xml:id="p001_r_tl_20" break="no"/>pfern sieht man in der Tejo-Bucht vor Lissabon 
+               <lb xml:id="p001_r_tl_21"/>Schiffe verschiedener Herkunft und Größe, bis hin 
+               <lb xml:id="p001_r_tl_22" break="no"/>unter zu kleinen Küstendampfern und sogar Seg 
+               <lb xml:id="p001_r_tl_23" break="no"/>lern, die vom eidgenössischen Kriegs-Transportamt 
+               <lb xml:id="p001_r_tl_24"/>gechartert sind und das weiße Kreuz und die Auf 
+               <lb xml:id="p001_r_tl_25" break="no"/>schrift "Switzerland" an den Bordwänden tragen. 
+               <lb xml:id="p001_r_tl_26"/>Wachsende Erfahrung und der gute Wille aller 
+               <lb xml:id="p001_r_tl_27"/>Beteiligten haben zur Lösung der Transport 
+               <lb xml:id="p001_r_tl_28" break="no"/>probleme beigetragen. Der Seeverkehr zwischen 
+               <lb xml:id="p001_r_tl_29"/>Lissabon und Genua vollzieht sich, nach dem Aus 
+               <lb xml:id="p001_r_tl_30" break="no"/>druck eines Fachmanns, "wie am Seidenfaden". 
+               <lb xml:id="p001_r_tl_31"/>Aber gleichzeitig ergeben sich durch wechselnde Si 
+               <lb xml:id="p001_r_tl_32" break="no"/>tuationen immer neue Schwierigkeiten, die man 
+               <lb xml:id="p001_r_tl_33"/>in der Heimat kennen muß, um den für den Trans 
+               <lb xml:id="p001_r_tl_34" break="no"/>port zwischen Portugal und der Schweiz tätigen 
+               <lb xml:id="p001_r_tl_35"/>Stellen und Personen das verdiente Verständnis 
+               <lb xml:id="p001_r_tl_36"/>entgegenzubringen. Die Schweizer Vertretung in 
+               <lb xml:id="p001_r_tl_37"/>Lissabon, die schweizerische Gesandtschaft, das 
+               <lb xml:id="p001_r_tl_38"/>schweizerische Hafenkommissariat und das Office 
+               <lb xml:id="p001_r_tl_39"/>Suisse de Transports des Kriegs-Transportamtes 
+               <lb xml:id="p001_r_tl_40"/>sowie die Vertreter der Spedititionsfirmen sind 
+               <lb xml:id="p001_r_tl_41"/>auf die bereitwillige Mitwirkung von portugiesi 
+               <lb xml:id="p001_r_tl_42" break="no"/>scher und englischer Seite angewiesen, wobei die 
+               <lb xml:id="p001_r_tl_43"/>Vertreter des britischen Ministeriums für den 
+               <lb xml:id="p001_r_tl_44"/>Wirtschaftskrieg im britischen Konsulat in Lissa 
+               <lb xml:id="p001_r_tl_45" break="no"/>bon, die portugiesischen Ministerien für Verkehr 
+               <lb xml:id="p001_r_tl_46"/>und Wirtschaft sowie die Generaldirektion der por 
+               <lb xml:id="p001_r_tl_47" break="no"/>tugiesischen Eisenbahnen an erster Stelle zu nen 
+               <lb xml:id="p001_r_tl_48" break="no"/>nen sind.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_49"/>Im komplizierten Zusammenspiel das der in 
+               <lb xml:id="p001_r_tl_50" break="no"/>ternationale Verkehr heute erfordert, ist die Lissa 
+               <lb xml:id="p001_r_tl_51" break="no"/>boner Agentur des eidgenössischen Kriegs-Trans 
+               <lb xml:id="p001_r_tl_52" break="no"/>portamtes die unentbehrliche Dachorganisation, 
+               <lb xml:id="p001_r_tl_53"/>welche um die Vermittlung zwischen den schweize 
+               <lb xml:id="p001_r_tl_54" break="no"/>rischen Spediteuren einerseits und den englischen 
+               <lb xml:id="p001_r_tl_55"/>und portugiesischen Stellen andererseits besorgt ist. 
+               <lb xml:id="p001_r_tl_56"/>Man hat hier eine glückliche Kombination zwi 
+               <lb xml:id="p001_r_tl_57" break="no"/>schen dem Wirken einer staatlichen Behörde und 
+               <lb xml:id="p001_r_tl_58"/>der privaten lnitiative der Speditionshäuser und 
+               <lb xml:id="p001_r_tl_59"/>ihrer Vertreter gefunden. So werden Schiffe für 
+               <lb xml:id="p001_r_tl_60"/>Güter, die nach der Schweiz bestimmt sind, nur 
+               <lb xml:id="p001_r_tl_61"/>noch vom Kriegs-Transportamt gechartert, welches 
+               <lb xml:id="p001_r_tl_62"/>auch über die Frachtsätze verhandelt, wie irgend 
+               <lb xml:id="p001_r_tl_63" break="no"/>eine Reederei. Dem Spediteur ist es aber frei 
+               <lb xml:id="p001_r_tl_64" break="no"/>gestellt, dem Kriegs-Transportamt Schiffsraum 
+               <lb xml:id="p001_r_tl_65"/>anzubieten, wofür er eine angemessene Makler 
+               <lb xml:id="p001_r_tl_66" break="no"/>gebühr erhält. Dank dieser Regelung wird ein 
+               <lb xml:id="p001_r_tl_67"/>Steigen der Frachtsätze vermieden.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_68"/>Während der Seeverkehr nach Genua und, in 
+               <lb xml:id="p001_r_tl_69"/>viel kleinerem Umfang, der vor allem für Ge 
+               <lb xml:id="p001_r_tl_70" break="no"/>treide benutzte Seeweg nach Barcelona durchaus 
+               <lb xml:id="p001_r_tl_71"/>befriedigend verläuft, haben sich für den Land 
+               <lb xml:id="p001_r_tl_72" break="no"/>transport nach der Schweiz in letzter Zeit neue 
+               <lb xml:id="p001_r_tl_73"/>Schwierigkeiten ergeben, Schwierigkeiten, denen 
+               <lb xml:id="p001_r_tl_74"/>vor allem Portugal ausgesetzt ist, von dessen Bei 
+               <lb xml:id="p001_r_tl_75" break="no"/>trag zum internationalen Transitverkehr wir in 
+               <lb xml:id="p001_r_tl_76"/>so großem Maße abhängen. Da die englische Kohle 
+               <lb xml:id="p001_r_tl_77"/>nur noch unregelmäßig und in ungenügenden 
+               <lb xml:id="p001_r_tl_78"/>Mengen eintrifft und sich auch der Mangel an flüs 
+               <lb xml:id="p001_r_tl_79" break="no"/>sigen Brennstoffen akut bemerkbar macht, ist Por 
+               <lb xml:id="p001_r_tl_80" break="no"/>tugal auf die Verwendung von Ersatzbrennstoffen 
+               <lb xml:id="p001_r_tl_81"/>angewiesen. Aber der Uebergang von Kohle zu 
+               <lb xml:id="p001_r_tl_82"/>Holz als Heizmaterial für die Lokomotiven ver 
+               <lb xml:id="p001_r_tl_83" break="no"/>langt technische Abänderungen, die nicht über Nacht 
+               <lb xml:id="p001_r_tl_84"/>durchgeführt werden können. Ferner wurde schon 
+               <lb xml:id="p001_r_tl_85"/>während des letzten Weltkrieges in Portugal den 
+               <lb xml:id="p001_r_tl_86"/>Bahnlinien entlang stark abgeholzt, sodaß man 
+               <lb xml:id="p001_r_tl_87"/>heute das Holz aus beträchtlichen Entfernungen 
+               <lb xml:id="p001_r_tl_88"/>herbeiführen muß, um an den Bahnlinien Depots 
+               <lb xml:id="p001_r_tl_89"/>zu errichten. Für diesen Transport benötigt man 
+               <lb xml:id="p001_r_tl_90"/>wiederum Camions und also Benzin. Der jähr 
+               <lb xml:id="p001_r_tl_91" break="no"/>liche Verbrauch der portugiesischen Eisenbahnen an 
+               <lb xml:id="p001_r_tl_92"/>Kohle belief sich in normalen Zeiten auf rund 
+               <lb xml:id="p001_r_tl_93"/>300 000 Tonnen; um diese zu ersetzen, würde man 
+               <lb xml:id="p001_r_tl_94"/>täglich etwa 2500 bis 3000 Tonnen Holz verbren 
+               <lb xml:id="p001_r_tl_95" break="no"/>nen müssen. Infolge des Kohlenmangels wurde in 
+               <lb xml:id="p001_r_tl_96"/>Portugal zunächst der Personenverkehr zugunsten 
+               <lb xml:id="p001_r_tl_97"/>des Warenverkehrs eingeschränkt. Am 18. Januar 
+               <lb xml:id="p001_r_tl_98"/>dieses Jahres wurde dann der bisherige inter 
+               <lb xml:id="p001_r_tl_99" break="no"/>nationale Transitverkehr durch Portugal ein 
+               <lb xml:id="p001_r_tl_100" break="no"/>gestellt, bis auf einen der Schweiz gewährten 
+               <lb xml:id="p001_r_tl_101"/>Blockzug pro Woche, der direkt zwischen Lissabon 
+               <lb xml:id="p001_r_tl_102"/>und Cerbères verkehrt. Aber das portugiesische 
+               <lb xml:id="p001_r_tl_103"/>Verkehrsministerium und die Eisenbahndirektion,
+               <milestone unit="textregion" xml:id="p001_r_2"/> 
+               <lb xml:id="p001_r_2_tl_1"/>mit Herrn Generaldirektor Ramalho an der Spitze, 
+               <lb xml:id="p001_r_2_tl_2"/>haben sich bemüht, den Warenverkehr nach dem 
+               <lb xml:id="p001_r_2_tl_3"/>Ausland trotz der gewaltigen Schwierigkeiten we 
+               <lb xml:id="p001_r_2_tl_4" break="no"/>nigstens im verringerten Umfang aufrecht zu er 
+               <lb xml:id="p001_r_2_tl_5" break="no"/>halten. Es liegen bereits Projekte vor, um die 
+               <lb xml:id="p001_r_2_tl_6"/>Zahl der Blockzüge, etwa zum Transport von por 
+               <lb xml:id="p001_r_2_tl_7" break="no"/>tugiesischem Wein und Terpentin nach der Schweiz, 
+               <lb xml:id="p001_r_2_tl_8"/>zu erhöhen.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_9"/>Die Vertreter des eidgenössischen Kriegs-Trans 
+               <lb xml:id="p001_r_2_tl_10" break="no"/>portamtes in Lissabon und die Vertreter der 
+               <lb xml:id="p001_r_2_tl_11"/>schweizerischen Speditionshäuser haben ihrerseits 
+               <lb xml:id="p001_r_2_tl_12"/>erfolgreich nach Lösungen gesucht, um den portu 
+               <lb xml:id="p001_r_2_tl_13" break="no"/>giesischen Bahnverkehr zu entlasten und ein Ventil 
+               <lb xml:id="p001_r_2_tl_14"/>zu schaffen. Da sich der Ersatz durch Camionverkehr 
+               <lb xml:id="p001_r_2_tl_15"/>als teuer und unzulänglich erwies, ging man teil 
+               <lb xml:id="p001_r_2_tl_16" break="no"/>weise zur "Cabotage" oder Küstenschiffahrt [sic] über, 
+               <lb xml:id="p001_r_2_tl_17"/>wobei auch Segelschiffe verwendet werden. So 
+               <lb xml:id="p001_r_2_tl_18"/>wurde portugiesischer Wein mit gutem Erfolg nach 
+               <lb xml:id="p001_r_2_tl_19"/>dem spanischen Hafen Vigo geschickt, wie auch nach 
+               <lb xml:id="p001_r_2_tl_20"/>Bilbao; die von Lissabon bis Bilbao verschiffte 
+               <lb xml:id="p001_r_2_tl_21"/>Ware muß auf diese Weise nur von Bilbao bis 
+               <lb xml:id="p001_r_2_tl_22"/>Canfranc, das heißt über eine Strecke von 550 
+               <lb xml:id="p001_r_2_tl_23"/>Kilometern, transportiert werden, um dort die 
+               <lb xml:id="p001_r_2_tl_24"/>Bahnlinie durch Frankreich zu erreichen. Der 
+               <lb xml:id="p001_r_2_tl_25"/>Schiffsverkehr nach Bilbao wurde Ende März vom 
+               <lb xml:id="p001_r_2_tl_26"/>Kriegs-Transportamt übernommen und hat erst 
+               <lb xml:id="p001_r_2_tl_27"/>geringen Umfang, da nur Stückgüter portugiesi 
+               <lb xml:id="p001_r_2_tl_28" break="no"/>scher Herkunft verfrachtet werden. Immerhin steht 
+               <lb xml:id="p001_r_2_tl_29"/>damit der Schweiz zum erstenmal ein Atlantik 
+               <lb xml:id="p001_r_2_tl_30" break="no"/>hafen zur Verfügung. Natürlich wird dadurch die 
+               <lb xml:id="p001_r_2_tl_31"/>überragende Bedeutung von Genua nicht beein 
+               <lb xml:id="p001_r_2_tl_32" break="no"/>trächtigt.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_3"/>            <p> 
+               <lb xml:id="p001_r_3_tl_1"/>Zum Schluß ein Wort über die portugiesischen 
+               <lb xml:id="p001_r_3_tl_2"/>Handelsbeziehungen. Während Portugal infolge 
+               <lb xml:id="p001_r_3_tl_3"/>des Krieges zu einem sehr wichtigen Transitland 
+               <lb xml:id="p001_r_3_tl_4"/>geworden ist und heute deshalb Aufgaben zu mei 
+               <lb xml:id="p001_r_3_tl_5" break="no"/>stern hat, für die es nicht vorbereitet war, hat sich 
+               <lb xml:id="p001_r_3_tl_6"/>auch sein Report den veränderten Situationen an 
+               <lb xml:id="p001_r_3_tl_7" break="no"/>passen müssen. Gemäß den Blockadebestimmungen 
+               <lb xml:id="p001_r_3_tl_8"/>kann Portugal aus seinen Kolonien nur die für 
+               <lb xml:id="p001_r_3_tl_9"/>seine eigene Versorgung notwendigen Produkte 
+               <lb xml:id="p001_r_3_tl_10"/>einführen; auch herrscht Mangel an Frachtraum 
+               <lb xml:id="p001_r_3_tl_11"/>so für Palmöl, Arachidől, Zucker, Fleisch, Kaffee, 
+               <lb xml:id="p001_r_3_tl_12"/>Kakao und Kopra, sodaß die Vorräte von Ko 
+               <lb xml:id="p001_r_3_tl_13" break="no"/>lonialprodukten in Portugal stark vermindert wur 
+               <lb xml:id="p001_r_3_tl_14" break="no"/>den. Der eventuell vorhandene Ueberschuß des 
+               <lb xml:id="p001_r_3_tl_15"/>Imports aus den Kolonien darf daher nur mit 
+               <lb xml:id="p001_r_3_tl_16"/>der Erlaubnis der halboffiziellen CEDUP wieder 
+               <lb xml:id="p001_r_3_tl_17"/>ausgeführt werden. Hingegen sind verschiedene 
+               <lb xml:id="p001_r_3_tl_18"/>portugiesische Inlandprodukte, darunter Wein, 
+               <lb xml:id="p001_r_3_tl_19"/>Kork, Terpentin, Kolophan und Fischkonserven 
+               <lb xml:id="p001_r_3_tl_20"/>immer ausgeführt worden, andere Inlandgüter, 
+               <lb xml:id="p001_r_3_tl_21"/>wie Zinn, Lugine, Trockenfrüchte, Wolle und 
+               <lb xml:id="p001_r_3_tl_22"/>Schaffelle, wurden durch den Krieg exportfähig. 
+               <lb xml:id="p001_r_3_tl_23"/>Die zwei letztgenanten Erzeugnisse sind allerdings 
+               <lb xml:id="p001_r_3_tl_24"/>heute nicht mehr zur Ausfuhr zugelassen. Die 
+               <lb xml:id="p001_r_3_tl_25"/>Schweiz ist ein guter Käufer portugiesischer Export 
+               <lb xml:id="p001_r_3_tl_26" break="no"/>güter geworden. Da sie ihrerseits für die verständ 
+               <lb xml:id="p001_r_3_tl_27" break="no"/>nisvolle Bemühung Portugals, den für sie lebens 
+               <lb xml:id="p001_r_3_tl_28" break="no"/>wichtigen Transitverkehr aufrecht zu erhalten und 
+               <lb xml:id="p001_r_3_tl_29"/>zu verbessern, dankbar ist, ergibt sich eine loyale 
+               <lb xml:id="p001_r_3_tl_30"/>und fruchtbare Zusammenarbeit der beiden Län 
+               <lb xml:id="p001_r_3_tl_31" break="no"/>der, die gerade in dieser Zeit nicht genug hervor 
+               <lb xml:id="p001_r_3_tl_32" break="no"/>gehoben wereden [sic] kann.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
