@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0502" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0502#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0502</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0502"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0502_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0502_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_tl_1"/>Die Weihe der Schiffe</p>
+
+            <milestone unit="textregion" xml:id="p001_r_3"/>            <p> 
+               <lb xml:id="p001_r_3_tl_1"/>Vor wenigen Tagen lagen die Schiffe der "pé 
+               <lb xml:id="p001_r_3_tl_2" break="no"/>cheurs de la morue" noch unbeachtet an den klei 
+               <lb xml:id="p001_r_3_tl_3" break="no"/>nen, anonymen Docks, in geschützten Winkeln, an 
+               <lb xml:id="p001_r_3_tl_4"/>primitiven Holfstegen, neben Lagerschuppen und 
+               <lb xml:id="p001_r_3_tl_5"/>den bescheidenen Wohnungen der Fischer im Ha 
+               <lb xml:id="p001_r_3_tl_6" break="no"/>fen von Lissabon, wo sie mit abgetakelten Segeln, 
+               <lb xml:id="p001_r_3_tl_7"/>mit grossen Planen notdürftig zugedeckt, teilweise 
+               <lb xml:id="p001_r_3_tl_8"/>die hölzernen Rümpfe halb an Land gezogen, den 
+               <lb xml:id="p001_r_3_tl_9"/>langen Winter überdauert hatten. Seit dem Monat 
+               <lb xml:id="p001_r_3_tl_10"/>September lagen sie da, dem Zeitpunkt ihrer 
+               <lb xml:id="p001_r_3_tl_11"/>glücklichen Rückkehr aus dem Hohen Norden 
+               <lb xml:id="p001_r_3_tl_12"/>nach mühsamen, jedoch glücklichen Fischzügen. 
+               <lb xml:id="p001_r_3_tl_13"/>Die jungen Seeleute, Matrosen, Fischer, Einsalzer 
+               <lb xml:id="p001_r_3_tl_14"/>und Köche, hatten den Fang des Sommers Tonne 
+               <lb xml:id="p001_r_3_tl_15"/>um Tonne abgeliefert, und waren dann leichten 
+               <lb xml:id="p001_r_3_tl_16"/>Herzens an Land gegangen, die Brücken hinter 
+               <lb xml:id="p001_r_3_tl_17"/>sich abbrechend, als sei es für immer und sie wür 
+               <lb xml:id="p001_r_3_tl_18" break="no"/>den die von Meersalz ausgelaugten Decks ihrer al 
+               <lb xml:id="p001_r_3_tl_19" break="no"/>ten Schiffe nie wieder betreten.</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_20"/>Jetzt, in den letzten Apriltagen, sind sie zurück 
+               <lb xml:id="p001_r_3_tl_21" break="no"/>gekehrt. Die meisten kamen freiwillig, weil ihre 
+               <lb xml:id="p001_r_3_tl_22"/>Taschen leer waren, weil sie des sinnlosen Kreis 
+               <lb xml:id="p001_r_3_tl_23" break="no"/>laufs der Stadt müde, sogar des Geschmacks des 
+               <lb xml:id="p001_r_3_tl_24"/>Weins, und des frischen weissen Brotes, überdrüs 
+               <lb xml:id="p001_r_3_tl_25" break="no"/>sig waren. Wochenlang hatten sie es genossen, – 
+               <lb xml:id="p001_r_3_tl_26"/>von einer Kneipe zur anderen, einem Kaffeehaus 
+               <lb xml:id="p001_r_3_tl_27"/>zum anderen zu gehen, ihre Escudos auszugeben, 
+               <lb xml:id="p001_r_3_tl_28"/>endlose Gespräche zu führen, den Grammophons 
+               <lb xml:id="p001_r_3_tl_29"/>und Lautsprechern zu lauschen, Kinos zu besuchen, 
+               <lb xml:id="p001_r_3_tl_30"/>Zeitungen zu lesen. Wochenlang hatten sie dann 
+               <lb xml:id="p001_r_3_tl_31"/>nach Arbeit gesucht, und waren wieder im Kreise 
+               <lb xml:id="p001_r_3_tl_32"/>gelaufen, hatten da und dort halt gemacht, Hand 
+               <lb xml:id="p001_r_3_tl_33" break="no"/>langerdienste getan, Früchte verkauft, sich als 
+               <lb xml:id="p001_r_3_tl_34"/>Fremdenführer angeboten, oder von Frauen aus 
+               <lb xml:id="p001_r_3_tl_35" break="no"/>halten lassen. Viele Abende lang hatten viele von 
+               <lb xml:id="p001_r_3_tl_36"/>ihnen an fremden Herdfeuern zugebracht, um 
+               <lb xml:id="p001_r_3_tl_37"/>einen Teller Reis und Meerfrüchte zu essen, wäh 
+               <lb xml:id="p001_r_3_tl_38" break="no"/>rend im Hof vor der offenen Türe Hühner schrien 
+               <lb xml:id="p001_r_3_tl_39"/>und Kinder anderer Leute sich umhertrieben. War 
+               <lb xml:id="p001_r_3_tl_40"/>ihr eigenes Kind darunter, dann verfing sich der 
+               <lb xml:id="p001_r_3_tl_41"/>gelangweilte Blick an diesem schwarzlockigen 
+               <lb xml:id="p001_r_3_tl_42"/>Knaben, diesem kleinen, wilden Zigeunergeschöpf, 
+               <lb xml:id="p001_r_3_tl_43"/>dieser herrenlosen Waise,– und die Qual und 
+               <lb xml:id="p001_r_3_tl_44"/>Unrast wurde noch grösser. Denn sie waren keine 
+               <lb xml:id="p001_r_3_tl_45"/>Herren, die an Land verschlagenen Matrosen, – 
+               <lb xml:id="p001_r_3_tl_46"/>heimatberechtigt höchstens bei einer alten Mutter, 
+               <lb xml:id="p001_r_3_tl_47"/>die schwerhörig war und sie kaum mehr erkannte, 
+               <lb xml:id="p001_r_3_tl_48"/>oder die weit oben im Norden in einem Dorf 
+               <lb xml:id="p001_r_3_tl_49"/>wohnte, wo kein Schiff anlegen konnte. Wollte 
+               <lb xml:id="p001_r_3_tl_50"/>man endlich dorthin, dann war es meistens zu spät, 
+               <lb xml:id="p001_r_3_tl_51"/>das letzte Geld ausgegeben, und die Zeit der neuen 
+               <lb xml:id="p001_r_3_tl_52"/>Ausfahrt nahe. Und so blieb man an Land wie ein 
+               <lb xml:id="p001_r_3_tl_53"/>Gast, bewundert zuerst, oft geliebt, häufiger ge 
+               <lb xml:id="p001_r_3_tl_54" break="no"/>duldet, und das Essen schmeckte nicht mehr, im 
+               <lb xml:id="p001_r_3_tl_55"/>Albtraum des zu schweren, von zu vielen Gerü 
+               <lb xml:id="p001_r_3_tl_56" break="no"/>chen, Geräuschen, eilenden Füssen und Hufschlä 
+               <lb xml:id="p001_r_3_tl_57" break="no"/>gen genährten Schlafs erschienen brüchige Eis 
+               <lb xml:id="p001_r_3_tl_58" break="no"/>flächen und die flammend blauen Horizonte des 
+               <lb xml:id="p001_r_3_tl_59"/>fernen Nordens. Im Erwachen dachte man daran, 
+               <lb xml:id="p001_r_3_tl_60"/>wie man sie verflucht hatte, noch vor kurzer Zeit. 
+               <lb xml:id="p001_r_3_tl_61"/>Und erinnerte sich heillos gerührt, "ja, gestern 
+               <lb xml:id="p001_r_3_tl_62"/>noch, da stürzten Sturzwellen über unser Deck, wir
+               <milestone unit="textregion" xml:id="p001_r_1"/> 
+               <lb xml:id="p001_r_1_tl_1"/>zogen die Segel ein, und hielten uns fest an den 
+               <lb xml:id="p001_r_1_tl_2"/>Tauen, – und am nächsten Morgen glänzte das 
+               <lb xml:id="p001_r_1_tl_3"/>von Eisschollen bedeckte Meer unsinnig, die Kälte 
+               <lb xml:id="p001_r_1_tl_4"/>war mitten im Sommer so gross, dass wir fürch 
+               <lb xml:id="p001_r_1_tl_5" break="no"/>teten, unser Kahn würde einfrieren, und wir wür 
+               <lb xml:id="p001_r_1_tl_6" break="no"/>den nie mehr in diesem Leben zurückkommen nach 
+               <lb xml:id="p001_r_1_tl_7"/>Lissabon".</p>
+            <p> 
+               <lb xml:id="p001_r_1_tl_8"/>Jetzt also, am vorletzten Apriltag, finden sich 
+               <lb xml:id="p001_r_1_tl_9"/>alle wieder zusammen am Bootssteg, die meisten
+               <milestone unit="textregion" xml:id="p001_r_6"/> 
+               <lb xml:id="p001_r_6_tl_1"/>von ihnen freiwillig. Die Restlichen sind meer 
+               <lb xml:id="p001_r_6_tl_2" break="no"/>scheue Gesellen, Arbeitslose, von den Behörden 
+               <lb xml:id="p001_r_6_tl_3"/>rekrutiert wie zum Militärdienst, und man schüt 
+               <lb xml:id="p001_r_6_tl_4" break="no"/>telt ihnen gutmütig die Hand. Da fühlen sie sich, 
+               <lb xml:id="p001_r_6_tl_5"/>an Deck, schon wohler, und stellen sich an wie sie 
+               <lb xml:id="p001_r_6_tl_6"/>können, zum Aufrollen der Taue, beim Ausbreiten 
+               <lb xml:id="p001_r_6_tl_7"/>und Flicken der zerknitterten Segel, beim Strei 
+               <lb xml:id="p001_r_6_tl_8" break="no"/>chen der kleinen, zu je sechs übereinander ge 
+               <lb xml:id="p001_r_6_tl_9" break="no"/>schichteten Boote, die sie zuerst für Rettungsboote 
+               <lb xml:id="p001_r_6_tl_10"/>halten. Man muss es ihnen erklären: "in jedem ist 
+               <lb xml:id="p001_r_6_tl_11"/>Platz für nur einen Mann, am frühen Morgen, 
+               <lb xml:id="p001_r_6_tl_12"/>dort oben im Norden, lässt man sie in das Meer 
+               <lb xml:id="p001_r_6_tl_13"/>hinab, dann fährt jeder allein aus zum Fischen, 
+               <lb xml:id="p001_r_6_tl_14"/>und da meistens dichter Nebel herrscht, kann er 
+               <lb xml:id="p001_r_6_tl_15"/>sich während der Arbeit nur nach den Sirenen des 
+               <lb xml:id="p001_r_6_tl_16"/>Mutterschiffes orientieren. Wenn das kleine Boot 
+               <lb xml:id="p001_r_6_tl_17"/>mit dem Fang gefüllt ist bis zum Rand, fährt es 
+               <lb xml:id="p001_r_6_tl_18"/>zurück, – wie?, – mit seinen Rudern, mein Gu 
+               <lb xml:id="p001_r_6_tl_19" break="no"/>ter!, – und wird wieder an Bord geholt. Ja, das ist 
+               <lb xml:id="p001_r_6_tl_20"/>unser Leben, dort oben, im Glanz der Mitternachts
+               <milestone unit="textregion" xml:id="p001_r_2"/> 
+               <lb xml:id="p001_r_2_tl_1" break="no"/>sonne ..." – Da horchen die Neuen auf, und wer 
+               <lb xml:id="p001_r_2_tl_2" break="no"/>den stolz und sehnsüchtig, und gehören schon zu 
+               <lb xml:id="p001_l"/>uns.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_3"/>Eines Morgens ist dann die ganze Fläche des 
+               <lb xml:id="p001_r_2_tl_4"/>Hafens von Lissabon, der eigentlich ein breiter 
+               <lb xml:id="p001_r_2_tl_5"/>Fluss ist, von grossen, weissen Segeln bedeckt. 
+               <lb xml:id="p001_r_2_tl_6"/>Die langsam dahingleitenden Schiffe der "pêcheurs 
+               <lb xml:id="p001_r_2_tl_7"/>de la morue" sehen aus wie ruhevolle Seevögel, 
+               <lb xml:id="p001_r_2_tl_8"/>welche die Flügel regen, um sich bald zum Flug 
+               <lb xml:id="p001_r_2_tl_9"/>zu erheben. Von den stolzen Masten ringsum zur 
+               <lb xml:id="p001_r_2_tl_10"/>Reeling spannen sich Taue mit Hunderten von bun 
+               <lb xml:id="p001_r_2_tl_11" break="no"/>ten Wimpeln, die dem Anblick der majestätisch 
+               <lb xml:id="p001_r_2_tl_12"/>gewölbten Segel ein festliches und freudiges Ge 
+               <lb xml:id="p001_r_2_tl_13" break="no"/>präge geben. Die neuen Schiffe sind natürlich 
+               <lb xml:id="p001_r_2_tl_14"/>weiss, geradezu glänzend, aber die alten übertref 
+               <lb xml:id="p001_r_2_tl_15" break="no"/>fen sie noch an Pracht, und ihre frischgescheuer 
+               <lb xml:id="p001_r_2_tl_16" break="no"/>ten Decks, und die wehende Ordnung ihrer dem 
+               <lb xml:id="p001_r_2_tl_17"/>Wind sich darbietenden zehn- und zwanzigfältigen 
+               <lb xml:id="p001_r_2_tl_18"/>Segelflächen erinnert haarscharf an die alten, stol 
+               <lb xml:id="p001_r_2_tl_19" break="no"/>zen Bilder der Schiffe Heinrichs des Seefahrers, 
+               <lb xml:id="p001_r_2_tl_20"/>die einst an einem sicher ähnlichen Morgen vom 
+               <lb xml:id="p001_r_2_tl_21"/>Turm von Belem ausfuhren, als Welteroberer.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_22"/>Alle Seeleute stehen an Bord, in ihren besten 
+               <lb xml:id="p001_r_2_tl_23"/>Anzügen aus rauhem, dunkelblauem Tuch. Sie 
+               <lb xml:id="p001_r_2_tl_24"/>stehen neben den aufgeschichteten, kleinen Booten 
+               <lb xml:id="p001_r_2_tl_25"/>auf deren dünnen Lattenwänden wieder und wie 
+               <lb xml:id="p001_r_2_tl_26" break="no"/>der, in frischer Oelfarbe, der Name des Schiffes 
+               <lb xml:id="p001_r_2_tl_27"/>steht: "Santa Maria Madalena, Santa Maria Ma- 
+               <lb xml:id="p001_r_2_tl_28"/>dalena", ... so oft, dass es sich von der Beschwö 
+               <lb xml:id="p001_r_2_tl_29" break="no"/>rung zum Triumph erhebt. – So sind sie da, die 
+               <lb xml:id="p001_r_2_tl_30"/>stolzen Schiffe, vereint wie zu einem Fest, aber in 
+               <lb xml:id="p001_r_2_tl_31"/>gemessenem Abstand aneinander vorübergleitend 
+               <lb xml:id="p001_r_2_tl_32"/>und eigentlich, um die ernste Weihe des Bischofs 
+               <lb xml:id="p001_r_2_tl_33"/>zu empfangen in der letzten Stunde vor der er 
+               <lb xml:id="p001_r_2_tl_34" break="no"/>neuten, einsamen Ausfahrt, die immer wie die ein 
+               <lb xml:id="p001_r_2_tl_35" break="no"/>zige erscheint.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_36"/>Am Strand schwenken sie Tücher und Weih 
+               <lb xml:id="p001_r_2_tl_37" break="no"/>rauchfässer, Qualm trübt die eben noch im Früh 
+               <lb xml:id="p001_r_2_tl_38" break="no"/>licht scharf umrissene Menge der Hausdächer, die 
+               <lb xml:id="p001_r_2_tl_39"/>Schornsteine, die in wolkenloser Helle wie in der 
+               <lb xml:id="p001_r_2_tl_40"/>Kälte einer blauen Nordnacht hervorgetretenen 
+               <lb xml:id="p001_r_2_tl_41"/>Hügel hinter der Stadt, Lissabon. Bald wird es 
+               <lb xml:id="p001_r_2_tl_42"/>Porto sein, bald in der Ferne Bilbao, bald nichts 
+               <lb xml:id="p001_r_2_tl_43"/>mehr. Während in violetter, samtener Robe der 
+               <lb xml:id="p001_r_2_tl_44"/>Priester das Kreuz hebt, strebt jeder Bug von allen 
+               <lb xml:id="p001_r_2_tl_45"/>wie von unhörbarer und unsichtbarer Windkraft 
+               <lb xml:id="p001_r_2_tl_46"/>getragenen Schiffen schon langsam der Hafen 
+               <lb xml:id="p001_r_2_tl_47" break="no"/>mitte, dann den von Grün gesäumten Flussufern, 
+               <lb xml:id="p001_r_2_tl_48"/>dem offenen Ozean zu. Und keiner der an der 
+               <lb xml:id="p001_r_2_tl_49"/>Reeling stehenden Männer dreht sich mehr um, 
+               <lb xml:id="p001_r_2_tl_50"/>was immer sie zurücklassen, Gram und Liebe, eine 
+               <lb xml:id="p001_r_2_tl_51"/>Mutter, ihr Kind, die Geliebte, oder nichts als 
+               <lb xml:id="p001_r_2_tl_52"/>Schulden, eine Enttäuschung, eine ungestillte Hoff 
+               <lb xml:id="p001_r_2_tl_53" break="no"/>nung, – der Abschied eines jeden ist überstan 
+               <lb xml:id="p001_r_2_tl_54" break="no"/>den, es öffnet sich das Meer, und sie sehen dem 
+               <lb xml:id="p001_r_2_tl_55"/>Nichts entgegen der ersten Nacht, bald der Kälte, 
+               <lb xml:id="p001_r_2_tl_56"/>Fremde, dem sogenannten Hohen Norden, wo Eis 
+               <lb xml:id="p001_r_2_tl_57" break="no"/>treiben das Schiff anhalten, Nebel und Schneefall 
+               <lb xml:id="p001_r_2_tl_58"/>den Blick hemmen, das tägliche Dasein vielen Ge 
+               <lb xml:id="p001_r_2_tl_59" break="no"/>fahren trotzen, die erstarrte Hand allein trotz al 
+               <lb xml:id="p001_r_2_tl_60" break="no"/>lem das Steuer und Ruder noch halten wird.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_2_tl_61"/>Annemarie Clarac-Schwarzenbach.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_4"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l_8"/>Federzeichnung [von Eugen Früh]</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+</div>
+       </body>
+    </text>
+ </TEI>
