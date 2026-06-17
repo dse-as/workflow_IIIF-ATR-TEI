@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0505" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0505#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0505</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0505"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0505_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0505_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_2_tl_1"/>Rückkehr nach Lissabon 
+               <lb xml:id="p001_r_2_tl_2"/>Von Annemarie <hi rendition="#g">Clarac</hi></p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">-Schwarzenbach</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_3"/>Von allen Städten, die ich kenne, hat mich, als ich 
+               <lb xml:id="p001_r_2_tl_4"/>sie zum erstenmal betrat, keine so gut empfangen wie 
+               <lb xml:id="p001_r_2_tl_5"/>Lissabon. Sie lag so außerhalb unserer damals ge 
+               <lb xml:id="p001_r_2_tl_6" break="no"/>wohnten Wege, diese Hauptstadt eines kleinen, gewiß 
+               <lb xml:id="p001_r_2_tl_7"/>reizenden, aber von der Geschichte offenbar halb ver 
+               <lb xml:id="p001_r_2_tl_8" break="no"/>gessenen Landes, daß ich mir die Mühe nie gemacht 
+               <lb xml:id="p001_r_2_tl_9"/>hatte, sie um ihrer selbst willen zu besuchen. Die 
+               <lb xml:id="p001_r_2_tl_10"/>Welt schien in jenen Jahren der Freiheit so groß, man 
+               <lb xml:id="p001_r_2_tl_11"/>hatte immer Eile, und schiffte sich in Frankreich ein, 
+               <lb xml:id="p001_r_2_tl_12"/>um nach England oder Amerika zu reisen, in Genua 
+               <lb xml:id="p001_r_2_tl_13"/>oder Triest, um nach Palästina oder Syrien zu ge 
+               <lb xml:id="p001_r_2_tl_14" break="no"/>langen, – wollte man in die Türkei, so bestiegt [corr: besteigt oder bestieg? eher letzteres] man 
+               <lb xml:id="p001_r_2_tl_15"/>in Genf den Orient-Expreß, und nach Indien führte 
+               <lb xml:id="p001_r_2_tl_16"/>in kürzester Frist der Weg durch den Suezkanal. Nach 
+               <lb xml:id="p001_r_2_tl_17"/>dem Fernen Osten, sagten mir die Deutschen noch vor 
+               <lb xml:id="p001_r_2_tl_18"/>wenigen Jahren, werde man über kurz oder lang 
+               <lb xml:id="p001_r_2_tl_19"/>weder die transsibirische Eisenbahn brauchen, noch 
+               <lb xml:id="p001_r_2_tl_20"/>die britischen, französischen oder holländischen Flug 
+               <lb xml:id="p001_r_2_tl_21" break="no"/>zeuge, die über Bagdad, den Persischen Golf und Kar 
+               <lb xml:id="p001_r_2_tl_22" break="no"/>rachi kaum sieben Tage brauchten bis an die Schwelle 
+               <lb xml:id="p001_r_2_tl_23"/>Chinas: die Lufthansa bereitete sich vor, den Spuren 
+               <lb xml:id="p001_r_2_tl_24"/>der alten Seidenstraße entlang auf dem Landweg durch 
+               <lb xml:id="p001_r_2_tl_25"/>Asien zu fliegen, von Bagdad über Persien, Afghani 
+               <lb xml:id="p001_r_2_tl_26" break="no"/>stan, den Pamir hinweg in das chinesische Turkestan, 
+               <lb xml:id="p001_r_2_tl_27"/>und durch die Wüsten zwischen Tibet und der Mon 
+               <lb xml:id="p001_r_2_tl_28" break="no"/>golei.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_29"/>Tatsächlich fand ich bald ihre Posten in Teheran, 
+               <lb xml:id="p001_r_2_tl_30"/>in Kabul. Im Jahre 1937 stieg das Flugzeug "Rudolf 
+               <lb xml:id="p001_r_2_tl_31"/>von Thüna" des Fliegers von Gablenz von Kabul zu 
+               <lb xml:id="p001_r_2_tl_32"/>einem Erkundigungsflug über den Pamir auf, und 
+               <lb xml:id="p001_r_2_tl_33"/>blieb mehrere Wochen verschollen. Die Engländer 
+               <lb xml:id="p001_r_2_tl_34"/>sandten ihre indischen Flieger zur Nachforschung aus, 
+               <lb xml:id="p001_r_2_tl_35"/>vergeblich. Dann landete von Gablenz eines Tages 
+               <lb xml:id="p001_r_2_tl_36"/>wieder in Kabul, unversehrt, unrasiert, und berichtete, 
+               <lb xml:id="p001_r_2_tl_37"/>Banditen hätten ihn nach einer Notlandung festgehal 
+               <lb xml:id="p001_r_2_tl_38" break="no"/>ten, er habe wohl die Motore der suchenden Flugzeuge 
+               <lb xml:id="p001_r_2_tl_39"/>gehört, aber diese hätten seinen unter Zweigen camou 
+               <lb xml:id="p001_r_2_tl_40" break="no"/>flierten "Rudolf von Thüna" nicht sehen können. Ob es 
+               <lb xml:id="p001_r_2_tl_41"/>Chinesen, Russen, Japaner, oder Banditen schlichthin 
+               <lb xml:id="p001_r_2_tl_42"/>gewesen seien, die ihn festhielten und dann ohne Er 
+               <lb xml:id="p001_r_2_tl_43" break="no"/>klärung wieder freiließen, wußte er nicht. Jedenfalls 
+               <lb xml:id="p001_r_2_tl_44"/>tat sein unaufgeklärtes Abenteuer dem Mut anderer
+               <milestone unit="textregion" xml:id="p001_r_3"/> 
+               <lb xml:id="p001_r_3_tl_1"/>keinen Abbruch, denn wer, der die Welt genug liebt, 
+               <lb xml:id="p001_r_3_tl_2"/>um sie entdecken zu wollen, wer fürchtet sich denn, und 
+               <lb xml:id="p001_r_3_tl_3"/>vor welchem Abenteuer?</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_4"/>Aber das war vor dem Krieg. Und jene Freiheit, 
+               <lb xml:id="p001_r_3_tl_5"/>die voraussetzt, daß die Absichten eines jeden sein 
+               <lb xml:id="p001_r_3_tl_6"/>eigenes Gesetz und seine Verantwortung seien, also un 
+               <lb xml:id="p001_r_3_tl_7" break="no"/>schuldig, – so daß ein jeder unbehelligt ziehen konnte, 
+               <lb xml:id="p001_r_3_tl_8"/>und so viel wagen, als er wagen wollte, – diese Frei 
+               <lb xml:id="p001_r_3_tl_9" break="no"/>heit wird so bald nicht zurückkehren.</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_10"/>Ich kam also nach Portugal, in das Land der Meer 
+               <lb xml:id="p001_r_3_tl_11" break="no"/>fahrer, Abenteurer und Entdecker, zu einer Zeit, als 
+               <lb xml:id="p001_r_3_tl_12"/>es, um von Amerika nach Europa zurückzukehren, 
+               <lb xml:id="p001_r_3_tl_13"/>keinen anderen Weg mehr gab, nämlich im Februar 
+               <lb xml:id="p001_r_3_tl_14"/>dieses Jahres, vor weniger als drei Monaten. Aber 
+               <lb xml:id="p001_r_3_tl_15"/>schon die Vereinigten Staaten zu verlassen, war, wenn 
+               <lb xml:id="p001_r_3_tl_16"/>auch ein Entschluß aus freien Stücken[das ist nicht ganz wahr, drohte Schwarzenbach in Amerika doch der (unfrewilligie) Verblieb in einem Sanatorium] , schon keine ein 
+               <lb xml:id="p001_r_3_tl_17" break="no"/>fache Angelegenheit mehr. Wie traut man sich, wurde 
+               <lb xml:id="p001_r_3_tl_18"/>ich gefragt, den noch sicheren Grund und Boden auf 
+               <lb xml:id="p001_r_3_tl_19" break="no"/>zugeben, die Aufenthaltserlaubnis in einem noch fried 
+               <lb xml:id="p001_r_3_tl_20" break="no"/>lichen und reichen, zukunftsträchtigen Land, – wie ver 
+               <lb xml:id="p001_r_3_tl_21" break="no"/>antwortet man die Entscheidung vor sich selber, in das 
+               <lb xml:id="p001_r_3_tl_22"/>vom Krieg gezeichnete alte Europa zu reisen, wo ein 
+               <lb xml:id="p001_r_3_tl_23"/>Land nach dem anderen vom Feuer erfaßt wird, wo 
+               <lb xml:id="p001_r_3_tl_24"/>bald überall Armut und Hungersnot herrschen werden, 
+               <lb xml:id="p001_r_3_tl_25"/>wie kann man sich so preisgeben? Ich mußte allen 
+               <lb xml:id="p001_r_3_tl_26"/>Warnungen zum Trotz reisen, die ich wirklich nur in 
+               <lb xml:id="p001_r_3_tl_27"/>den Wind schlug, denn was hätte ich antworten sollen, 
+               <lb xml:id="p001_r_3_tl_28"/>welche Sicherheiten haben wir noch? Da empfing mich, 
+               <lb xml:id="p001_r_3_tl_29"/>nach zehn stürmischen und düsteren Tagen, das portu 
+               <lb xml:id="p001_r_3_tl_30" break="no"/>giesische Ufer und Lissabon. Ich erblickte es mit be 
+               <lb xml:id="p001_r_3_tl_31" break="no"/>greiflicher Rührung, denn hier nahm der Erdteil, den 
+               <lb xml:id="p001_r_3_tl_32"/>rich lange nur auf strategischen Landkarten gekannt 
+               <lb xml:id="p001_r_3_tl_33"/>hatte, lebendige Gestalt an und die Form von Hügeln, 
+               <lb xml:id="p001_r_3_tl_34"/>den ersten Geruch von Wiesen und Rauch aus den 
+               <lb xml:id="p001_r_3_tl_35"/>Schornsteinen kleiner Fischerhütten, da wehten die 
+               <lb xml:id="p001_r_3_tl_36"/>Segel altmodischer Boote, da verengerte sich der Fluß 
+               <lb xml:id="p001_r_3_tl_37"/>zum Hafen, und das weiße Lissabon stieg in Abend 
+               <lb xml:id="p001_r_3_tl_38" break="no"/>licht gebadet, wahrhaft glänzend, mit Kirchen, Dächern, 
+               <lb xml:id="p001_r_3_tl_39"/>Monumenten, Märkten, Hafenmolen, alten Palästen 
+               <lb xml:id="p001_r_3_tl_40"/>terrassenförmig aufwärts von der Wasserschwelle bis 
+               <lb xml:id="p001_r_3_tl_41"/>zur ockergelben, gezackten Mauer seiner maurischen 
+               <lb xml:id="p001_r_3_tl_42"/>Burg. Wie war ich glücklich, als ich zum erstenmal 
+               <lb xml:id="p001_r_3_tl_43"/>durch seine engen und steilen Gassen ging, vor einem 
+               <lb xml:id="p001_r_3_tl_44"/>Brunnen still stand, in einem Kaffee an einem lärmend 
+               <lb xml:id="p001_r_3_tl_45"/>lebendigen Platz bekannte Gesichter erblickte, einem 
+               <lb xml:id="p001_r_3_tl_46"/>krauslockigen Buben spät in der Nacht eine Schweizer
+               <milestone unit="textregion" xml:id="p001_r"/> 
+               <lb xml:id="p001_r_tl_1"/>Zeitung abkaufte, und am nächsten Morgen, vom 
+               <lb xml:id="p001_r_tl_2"/>Fenster eines in die tropische Fülle, das Smaragdgrün, 
+               <lb xml:id="p001_r_tl_3"/>und erste Blüten gebetteten Palastes aus die schim 
+               <lb xml:id="p001_r_tl_4" break="no"/>mernde Hafenfläche überschaute, die von Schiffen und 
+               <lb xml:id="p001_r_tl_5"/>Wimpeln und Schornsteinen bedeckt war!</p>
+            <p> 
+               <lb xml:id="p001_r_tl_6"/>Dann lernte ich die Fülle der Märkte kennen, den 
+               <lb xml:id="p001_r_tl_7"/>Ueberfluß an Früchten, Blumen, Butter, Oliven und 
+               <lb xml:id="p001_r_tl_8"/>Oel, an süßen Weinen und Weißbrot, an Kuchen, Kaf 
+               <lb xml:id="p001_r_tl_9" break="no"/>fee, tausend Süßigkeiten, an Wolle und Leinen, Tabak. 
+               <lb xml:id="p001_r_tl_10"/>Ich vernahm die Ueberfülle von Lebensäußerungen 
+               <lb xml:id="p001_r_tl_11"/>und Daseinsfreude, die Lieder der Matrosen, die 
+               <lb xml:id="p001_r_tl_12"/>Scherze der Handlanger am Hafen, den Wortschwall 
+               <lb xml:id="p001_r_tl_13"/>der Geflügelverkäuferinnen und Blumenfrauen, der 
+               <lb xml:id="p001_r_tl_14"/>bettelnden kirschäugigen Kinder. Dann sah ich die 
+               <lb xml:id="p001_r_tl_15"/>Wucht des Zyklons, und wie sich unter seiner Gewalt 
+               <lb xml:id="p001_r_tl_16"/>uralte Bäume in Sintra langsam beugten, die mäch 
+               <lb xml:id="p001_r_tl_17" break="no"/>tigen Wurzeln mit sich aus dem Erdreich hebend, um 
+               <lb xml:id="p001_r_tl_18"/>endlich zu zerbrechen wie ein Streichholz. Später sah 
+               <lb xml:id="p001_r_tl_19"/>ich die naiven und leuchtenden Bilder junger Maler in 
+               <lb xml:id="p001_r_tl_20"/>diesem Land, der sanfteren Nachkommen der Eroberer, 
+               <lb xml:id="p001_r_tl_21"/>– sah die freundlichen, fast nachlässig höflichen Gepflo 
+               <lb xml:id="p001_r_tl_22" break="no"/>genheiten jener jungen Männer, welche gewissermaßen 
+               <lb xml:id="p001_r_tl_23"/>die Infanten, Kinder Heinrichs des Seefahrers sind. 
+               <lb xml:id="p001_r_tl_24"/>Ich sah, wie sie ihre Häuser bauen, wie sie sich erfreuen 
+               <lb xml:id="p001_r_tl_25"/>an offenen Terrassen, von denen aus man zuerst die 
+               <lb xml:id="p001_r_tl_26"/>Blumen, dann die Pinien, endlich das Weiß des 
+               <lb xml:id="p001_r_tl_27"/>Hafens überblickt, und sich nährt am Licht eines immer 
+               <lb xml:id="p001_r_tl_28"/>bewegten, gesegneten Himmels und am Meerwind. 
+               <lb xml:id="p001_r_tl_29"/>Nach wenigen Wochen war ich vom Gefühl wie be 
+               <lb xml:id="p001_r_tl_30" break="no"/>rauscht, ein Europäer zu sein. Man warnte mich, als 
+               <lb xml:id="p001_r_tl_31"/>ich die Reise durch das hungernde Spanien und das 
+               <lb xml:id="p001_r_tl_32"/>besiegte Frankreich antrat, ich hätte, in diesen zu kurzen 
+               <lb xml:id="p001_r_tl_33"/>und noch gewitterhaften Frühjahrstagen Portugal nicht 
+               <lb xml:id="p001_r_tl_34"/>genug gesehen, um es zu lieben, erst später würde ich 
+               <lb xml:id="p001_r_tl_35"/>enttäuscht sein, es nicht entdeckt, es nur im Ueber 
+               <lb xml:id="p001_r_tl_36" break="no"/>schwang des eigenen Gefühls begrüßt zu haben.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_37"/>Nach genau vier Wochen kehrte ich zurück. Es 
+               <lb xml:id="p001_r_tl_38"/>regnete in Lissabon, mir bangte, nach herben Erfah 
+               <lb xml:id="p001_r_tl_39" break="no"/>rungen, vor der nächsten Zukunft auch dieses Land 
+               <lb xml:id="p001_r_tl_40" break="no"/>strichs, der zu Europa gehört. Aber da breiteten ge 
+               <lb xml:id="p001_r_tl_41" break="no"/>rade die wie uralte Fregatten anmutenden Schiffe der 
+               <lb xml:id="p001_r_tl_42"/>nach Grönland aufbrechenden Fischer ihre hundertfäl 
+               <lb xml:id="p001_r_tl_43" break="no"/>tigen Segel aus, um, zum letztenmal im heimatlichen 
+               <lb xml:id="p001_r_tl_44"/>Hafen versammelt, die Weihe des Bischofs [siehe smallform_0502, die Weihe der Schiffe] zu empfan 
+               <lb xml:id="p001_r_tl_45" break="no"/>gen, und ich sah wie sie langsam, wie große Vögel, 
+               <lb xml:id="p001_r_tl_46"/>ausfahren, ein ewiges, hoffnungsvolles Bild ...</p>
+</div>
+       </body>
+    </text>
+ </TEI>
