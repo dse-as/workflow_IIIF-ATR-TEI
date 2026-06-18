@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0549" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0549#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0549</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0549"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0549_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0549_0001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Dr. Annemarie Schwarzenbach: 
+               <lb xml:id="p001_tr_1_tl_2"/><hi rendition="#u">Junge Portugiesinnen in Uniform</hi></p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_3"/>Schon in den Jahren, die den Krieg vorbereiteten, aber ganz besonders 
+               <lb xml:id="p001_tr_1_tl_4"/>seit dem Beginn des Krieges, haben wir uns daran gewöhnt, die weibliche 
+               <lb xml:id="p001_tr_1_tl_5"/>Jugend vieler Länder in Uniform zu sehen. Es gibt die Uniformen der Jugend 
+               <lb xml:id="p001_tr_1_tl_6" break="no"/>organisationen in Deutschland, Italien, Japan, Russland, der Türkei und neuer 
+               <lb xml:id="p001_tr_1_tl_7"/>dings auch in Frankreich, – die Uniformen der Krankenpflegerinnen, die, zum 
+               <lb xml:id="p001_tr_1_tl_8"/>Beispiel im Belgischen Kongo, Khaki tragen und militärisch organisiert sind, 
+               <lb xml:id="p001_tr_1_tl_9"/>und in England wo jedes junge Mädchen und jede junge Frau mobilisiert ist, 
+               <lb xml:id="p001_tr_1_tl_10"/>tragen sie die Uniform von Fliegerinnen, Camionchauffeusen, sozialen Hilfs 
+               <lb xml:id="p001_tr_1_tl_11" break="no"/>arbeiterinnen, und sogar das Overall der Arbeiterin in kriegstechnischen 
+               <lb xml:id="p001_tr_1_tl_12"/>Fabriken und die weisse Schürze der Laborantinnen gilt als "Uniform", näm 
+               <lb xml:id="p001_tr_1_tl_13" break="no"/>lich im Sinne eines Ehrenkleides der Nation. Mädchen in Uniform im Dienst 
+               <lb xml:id="p001_tr_1_tl_14"/>des Vaterlandes kennen wir in dieser Kriegszeit auch in der Schweiz.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_15"/>[space] Alle diese Uniformen verschiedener <del rend="overstrike">Orga</del> 
+               <lb xml:id="p001_tr_1_tl_16"/>sozialer und militärischer Organisationen stehen also im Zeichen der 
+               <lb xml:id="p001_tr_1_tl_17"/>Kriegsanstrengung, und haben mit den Zielen einer Jugendbewegung oder eines 
+               <lb xml:id="p001_tr_1_tl_18"/>erzieherisenen Programms wenig, oder nur mittelbar zu tun. Sogar die Jugend 
+               <lb xml:id="p001_tr_1_tl_19" break="no"/>organisationen der totalitären Staaten sind weniger dem Gedanken gewidmet, 
+               <lb xml:id="p001_tr_1_tl_20"/>die Jugend in einem allgemein menschlichen Sinn heranzubilden, als dem Ziel, 
+               <lb xml:id="p001_tr_1_tl_21"/>aus <del rend="overstrike">ihnen</del> ihr brauchbare, nach ganz bestimmten Richtlinien organisierte 
+               <lb xml:id="p001_tr_1_tl_22"/>Diener des Staates zu machen.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_23"/>Die meisten dieser Uniformen werden wohl nach dem Krieg wieder verschwinden, 
+               <lb xml:id="p001_tr_1_tl_24"/>und die jungen Madchen, die an den verschiedensten Posten eine oft so 
+               <lb xml:id="p001_tr_1_tl_25"/>aufopferungsvolle Arbeit leisten, werden zu weiblicheren Beschäftigungen, 
+               <lb xml:id="p001_tr_1_tl_26"/>und in ihren gewöhnlichen weiblichen Lebenskreis zurückkehren.</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0549_0002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>–2–</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_2"/>Man mag sich fragen, ob der gute Wille, die Bereitschaft, im patriotischen 
+               <lb xml:id="p002_tr_1_tl_3"/>und sozialen Sinne, im Geist der Nächstenliebe und der Gemeinschaft sich 
+               <lb xml:id="p002_tr_1_tl_4"/>einzusetzen, ob dieser "gute Wille", den die Jugend in der Gafehr des 
+               <lb xml:id="p002_tr_1_tl_5"/>Krieges beweist, später brach liegen und in alle Winde zerfliegen soll, 
+               <lb xml:id="p002_tr_1_tl_6"/>oder ob man ihn nicht zum Besten dieser Jugend und der menschlichen 
+               <lb xml:id="p002_tr_1_tl_7"/>Gemeinschaft der sie angehört, sammeln, formen und auf ein weit über die 
+               <lb xml:id="p002_tr_1_tl_8"/>schrecklichen Notwendigkeiten des Krieges hinausweisendes Ziel richten 
+               <lb xml:id="p002_tr_1_tl_9"/>könnte.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_10"/>Der Staat, der sich um seine Jugend kümmert, kümmert sich um die "Hoffnung 
+               <lb xml:id="p002_tr_1_tl_11"/>seiner Zukunft". Und seine Sorge sollte sich weniger auf praktische, und 
+               <lb xml:id="p002_tr_1_tl_12"/>politisch-ideologische Programme beschränken, als der Heranbildung seiner 
+               <lb xml:id="p002_tr_1_tl_13"/>Jugend zu fähigen, und glücklichen Menschen gelten. Jeder grosse Erzieher 
+               <lb xml:id="p002_tr_1_tl_14"/>wird es als seine Aufgabe bezeichnen, den Charakter der ihm anvertrauten 
+               <lb xml:id="p002_tr_1_tl_15"/>jungen Menschen zu bilden. Aber in den Programmen heutiger Jugendorgani 
+               <lb xml:id="p002_tr_1_tl_16" break="no"/>sationen ist diese Sprache selten. Es ist daher eine Ueberraschung, und 
+               <lb xml:id="p002_tr_1_tl_17"/>eine gute, hoffnungsvoll stimmende Ueberraschung, in den Schriften eines 
+               <lb xml:id="p002_tr_1_tl_18"/>vom Staat beauftragten Jugenderziehers diese humane Sprache und Ziel 
+               <lb xml:id="p002_tr_1_tl_19" break="no"/>etzung zu finden. Der nachfolgende Satz entstammt einem Artikel von 
+               <lb xml:id="p002_tr_1_tl_20"/>Professor Marcelo Caetano, der als nationaler Kommissar an der Spitze 
+               <lb xml:id="p002_tr_1_tl_21"/>der staatlichen portugiesischen Jugendorganisation, der "Mocidade 
+               <lb xml:id="p002_tr_1_tl_22"/>Portuguesa" steht:</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_23"/>"... Wir erklären, dass es zuerst und vor allem unser Ziel ist, die Tätig 
+               <lb xml:id="p002_tr_1_tl_24" break="no"/>keit der Familie, der Schule, und der Kirche zu ergänzen, um <hi rendition="#g">Menschen 
+                  <lb xml:id="p002_tr_1_tl_25"/>zu formen. Menschen von Charakter</hi></p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> in erster 
+               <lb xml:id="p002_tr_1_tl_26"/>Linie, denn die Charakterbildung ist an der Basis jeder Erziehung." 
+               <lb xml:id="p002_tr_1_tl_27"/>Und weiter: "Sie (die M.P.) will eine Bewegung zur integralen Bildung 
+               <lb xml:id="p002_tr_1_tl_29"/>sein, nicht aber zur total<del rend="overstrike">en</del>[add above: itären] Erziehung. Die integrale Bildung ist jene,</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0549_0003.jpg"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_1"/>–3– 
+               <lb xml:id="p003_tr_1_tl_2"/>welche in den Jungen alle ihre Meigungen zum Guten entwickelt. Die 
+               <lb xml:id="p003_tr_1_tl_3"/>totalitäre Erziehung ist jene, welche sich die Exklusivität der Jugend 
+               <lb xml:id="p003_tr_1_tl_4" break="no"/>bildung anmasst, indem sie jeden anderen Einfluss vergisst oder gar 
+               <lb xml:id="p003_tr_1_tl_5"/>bekämpft."</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_6"/>Dieses von dem jugendlichen Rechtsgelehrten und Jugendkommissar 
+               <lb xml:id="p003_tr_1_tl_7"/>Professor Caetano ausgedrückte Ideal der Charakterbildung im humanen 
+               <lb xml:id="p003_tr_1_tl_8"/>und christlichen Geist gilt auch für die parallel zur Knabenorganisatien 
+               <lb xml:id="p003_tr_1_tl_9"/>bestehende "Mocidade Portuguesa Feminina" (M.P. F.), welche, wie die M.P., 
+               <lb xml:id="p003_tr_1_tl_10"/>vom Erziehungsministerium abhängt, und von einem nationalen Kommissariat 
+               <lb xml:id="p003_tr_1_tl_11"/>geleitet wird. "Die Weibliche Portugiesische Jugend ist eine nationale 
+               <lb xml:id="p003_tr_1_tl_12"/>Organisation, welche die portugiesische Gesellschaft zu erneuern sucht, 
+               <lb xml:id="p003_tr_1_tl_13"/>indem sie das junge Mädchen für das Familienleben und das soziale Leben 
+               <lb xml:id="p003_tr_1_tl_14"/>vorbereitet," schreibt eine der Leiterinnen der M.P.F. – Den jungen Mäd 
+               <lb xml:id="p003_tr_1_tl_15" break="no"/>chen, welche das grüne Sportshemd und den braunen Rock der M.P.F. tragen, 
+               <lb xml:id="p003_tr_1_tl_16"/>werden keine künstlichen Ideale eingeimpft, und keine unnatürlichen, 
+               <lb xml:id="p003_tr_1_tl_17"/>ihrem Leben fremden Aufgaben zugemutet. Aber man lehrt sie, ihren Platz 
+               <lb xml:id="p003_tr_1_tl_18"/>in der menschlichen Gesellschaft einzunehmen, und man erzieht sie dafür 
+               <lb xml:id="p003_tr_1_tl_19"/>vor allem zu körperlicher und moralischer Gesundheit, zur Nächstenliebe, 
+               <lb xml:id="p003_tr_1_tl_20"/>und zu ernster Verantwortlichkeit gegenüber den Mitmenschen.</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_21"/>Neben den praktischen Kursen, welche Sport, Musik, Handarbeit, Kochen, 
+               <lb xml:id="p003_tr_1_tl_22"/>Wirtschaftslehre, Kinder und Krankenpflege umfassen, gibt es Kurse zur 
+               <lb xml:id="p003_tr_1_tl_23"/>moralischen, religiösen, und staatsbürgerlichen Erziehung. Ferienlager 
+               <lb xml:id="p003_tr_1_tl_24"/>eröffnen den früher so streng ans Haus gebundenen jungen Portugiesinnen 
+               <lb xml:id="p003_tr_1_tl_25"/>ein neues Leben unter Kameraden aller sozialen Klassen und in freier 
+               <lb xml:id="p003_tr_1_tl_26"/>Natur. Junge Frauen, die mit der seit 1936 bestehenden Organisation und 
+               <lb xml:id="p003_tr_1_tl_27"/>in ihrem Geist herangebildet würden, sind die Leiter, Erzieher und Freunde 
+               <lb xml:id="p003_tr_1_tl_28"/>der Jüngeren.</p>
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0549_0004.jpg"/>
+            <milestone unit="textregion" xml:id="p004_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_l"/>–4–</p>
+
+            <milestone unit="textregion" xml:id="p004_tr_1"/>            <p> 
+               <lb xml:id="p004_tr_1_tl_1"/>Der frohe Ernst, der unter den jungen Mädchen der M.P.F. herrscht, 
+               <lb xml:id="p004_tr_1_tl_2"/>ist ein Zeichen, dass die Ziele, die von ihren Erzieherinnen angestrebt 
+               <lb xml:id="p004_tr_1_tl_3"/>werden, ihren eigenen inneren Wünschen und <del rend="overstrike">ihrer</del> der Sehnsucht ihres 
+               <lb xml:id="p004_tr_1_tl_4"/>guten Willens entgegenkommen.</p>
+            <p> 
+               <lb xml:id="p004_tr_1_tl_5"/>(Schluss des Begleittextes. Ergänzt durch die 
+               <lb xml:id="p004_tr_1_tl_6"/>detalllierten Bildunterschriften)</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_1_tl_7"/>Lissabon, 12. Mai</p>
+</div>
+       </body>
+    </text>
+ </TEI>
