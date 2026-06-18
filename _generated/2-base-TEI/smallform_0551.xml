@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0551" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0551#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0551</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0551"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0551_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0551_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_tl_1"/>Wiedersehen mit Portugal</p>
+
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <p> 
+               <lb xml:id="p001_r_2_tl_1"/>– Es ist Portugals schönste Jahreszeit, – und 
+               <lb xml:id="p001_r_2_tl_2"/>der Zufall meiner Reisen will es, dass ich in die 
+               <lb xml:id="p001_r_2_tl_3" break="no"/>ses Land immer im Frühling gekommen bin, im 
+               <lb xml:id="p001_r_2_tl_4"/>Februar, im März, im April und Mai, und dass ich 
+               <lb xml:id="p001_r_2_tl_5"/>weder die grauen Tage seines Winters, noch die 
+               <lb xml:id="p001_r_2_tl_6"/>heisse Sommerzeit kenne, wenn die Wiesen und 
+               <lb xml:id="p001_r_2_tl_7"/>Fichten dürr und verbrannt, und die Gärten dur 
+               <lb xml:id="p001_r_2_tl_8" break="no"/>stig sein sollen. Aber selbst dann, sagt man mir, 
+               <lb xml:id="p001_r_2_tl_9"/>selbst in langen Winterwochen, bricht die Sonne 
+               <lb xml:id="p001_r_2_tl_10"/>oft aus den Wolken, spiegelt sich auf der Silber 
+               <lb xml:id="p001_r_2_tl_11" break="no"/>fläche des Tajo, und wirft sich, eine milde Flut, 
+               <lb xml:id="p001_r_2_tl_12"/>über Hügel und Täler, – und selbst im tiefsten 
+               <lb xml:id="p001_r_2_tl_13"/>Sommer sind die Meerwinde 
+               <lb xml:id="p001_r_2_tl_14"/>frisch, und am Abend streicht 
+               <lb xml:id="p001_r_2_tl_15"/>die Kühle belebend durch die 
+               <lb xml:id="p001_r_2_tl_16"/>Gärten, Strassen und Felder. 
+               <lb xml:id="p001_r_2_tl_17"/>– Der Zufall, oder meine Träg 
+               <lb xml:id="p001_r_2_tl_18" break="no"/>heit, wollen es auch, dass ich 
+               <lb xml:id="p001_r_2_tl_19"/>von Portugal nur einen kleinen 
+               <lb xml:id="p001_r_2_tl_20"/>Teil kenne, – Lissabon, seine 
+               <lb xml:id="p001_r_2_tl_21"/>Kapitale, die alle Reize und 
+               <lb xml:id="p001_r_2_tl_22"/>Traditionen der europäischen 
+               <lb xml:id="p001_r_2_tl_23"/>Städte in sich vereinigt, – die 
+               <lb xml:id="p001_r_2_tl_24"/>Gärten und Burgen von Sintra, 
+               <lb xml:id="p001_r_2_tl_25"/>die einem arabischen Traum 
+               <lb xml:id="p001_r_2_tl_26"/>gleichen, – die herben Hügel 
+               <lb xml:id="p001_r_2_tl_27"/>und Fichten über den eleganten 
+               <lb xml:id="p001_r_2_tl_29"/>Anlagen von Estoril, – Felsen 
+               <lb xml:id="p001_r_2_tl_30"/>und Forts an der Küste des 
+               <lb xml:id="p001_r_2_tl_31"/>Tajo und seinen breit und heiter 
+               <lb xml:id="p001_r_2_tl_32"/>dem Meer entgegenziehenden 
+               <lb xml:id="p001_r_2_tl_33"/>Lauf, – und endlich im Land 
+               <lb xml:id="p001_r_2_tl_34" break="no"/>inneren die weissen Dörfer und 
+               <lb xml:id="p001_r_2_tl_35"/>alten Kapellen, die seigneuralen 
+               <lb xml:id="p001_r_2_tl_36"/>Landhäuser der "Quintas", deren alte Garten 
+               <lb xml:id="p001_r_2_tl_37" break="no"/>mauern Obsthaine, Gemüsebeete, Flieder und La 
+               <lb xml:id="p001_r_2_tl_38" break="no"/>vendel umschliessen, die Segelmühlen auf allen 
+               <lb xml:id="p001_r_2_tl_39"/>Anhöhen, die rötlichen Aecker, die Ochsenge 
+               <lb xml:id="p001_r_2_tl_40" break="no"/>spanne vor dem Pflug, und vor den schweren, be 
+               <lb xml:id="p001_r_2_tl_41" break="no"/>malten Booten der Fischer von Nazareth. – Nur 
+               <lb xml:id="p001_r_2_tl_42"/>diesen kleinen Teil kenne ich, und mir scheint es 
+               <lb xml:id="p001_r_2_tl_43"/>genug. Aber der Schweizer Maler Edmond Bille 
+               <lb xml:id="p001_r_2_tl_44"/>sagte mir, als ich ihn kürzlich in seiner Quinta 
+               <lb xml:id="p001_r_2_tl_45"/>da Fonte besuchte, – das grössere Portugal mit 
+               <lb xml:id="p001_r_2_tl_46"/>all seinen Provinzen, von den wilden Bergen im 
+               <lb xml:id="p001_r_2_tl_47"/>Norden bis zu den arabischen Städten, einsamen 
+               <lb xml:id="p001_r_2_tl_48"/>Schafhirten und menschenleeren Weiten im Sü 
+               <lb xml:id="p001_r_2_tl_49" break="no"/>den, – sei das schönste Land der Welt. – Wir – 
+               <lb xml:id="p001_r_2_tl_50"/>drücken uns so aus, ohne Vergleiche zu ziehen, 
+               <lb xml:id="p001_r_2_tl_51"/>denn auch die Schweiz ist, in unseren Herzen und 
+               <lb xml:id="p001_r_2_tl_52"/>der Meinung vieler, das schönste Land, – und 
+               <lb xml:id="p001_r_2_tl_53"/>auch Indien, und auch Afghanistan, and auch 
+               <lb xml:id="p001_r_2_tl_54"/>Frankreich oder Ungarn. Einer meiner Freunde, 
+               <lb xml:id="p001_r_2_tl_55"/>ein flämischer Matrose, liebte Island so sehr, dass 
+               <lb xml:id="p001_r_2_tl_56"/>er es für das schönste Land der Welt erklärte: 
+               <lb xml:id="p001_r_2_tl_57"/>und warum nicht? – Denn es gibt keine häss 
+               <lb xml:id="p001_r_2_tl_58" break="no"/>lichen Landschaften, – ihre Kargheit mag ihre 
+               <lb xml:id="p001_r_2_tl_59"/>Schönheit sein wie ihr Ueberfluss, ihre Lieblich 
+               <lb xml:id="p001_r_2_tl_60" break="no"/>keit wie ihre einsame Grösse, und die Milde oder 
+               <lb xml:id="p001_r_2_tl_61"/>die Gewalt ihrer Sonne.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_62"/>Aber es gibt Schönheiten, die uns vertrauter
+               <milestone unit="textregion" xml:id="p001_r_3"/> 
+               <lb xml:id="p001_r_3_tl_1"/>sind, und uns mehr ergreifen als andere. Ich habe 
+               <lb xml:id="p001_r_3_tl_2"/>es in der Fremde gelernt: so, wie fremde Nahrung 
+               <lb xml:id="p001_r_3_tl_3"/>uns verändert, und fremde Sitten, Kleider und 
+               <lb xml:id="p001_r_3_tl_4"/>Sprachen, – so sind wir, in sehr fremden Land 
+               <lb xml:id="p001_r_3_tl_5" break="no"/>schaften, nicht mehr ganz wir selber. Wir müssen 
+               <lb xml:id="p001_r_3_tl_6"/>uns, um uns wiederzufinden, an etwas Verwand 
+               <lb xml:id="p001_r_3_tl_7" break="no"/>tes und Vertrautes erinnern, so wie man in einen 
+               <lb xml:id="p001_r_3_tl_8"/>Spiegel schaut. Wenn wir, dort draussen, plötz 
+               <lb xml:id="p001_r_3_tl_9" break="no"/>lich unsere Muttersprache hören, dann wird in 
+               <lb xml:id="p001_r_3_tl_10"/>uns ein Echo laut, unsere innerste Rede wird wie 
+               <lb xml:id="p001_r_3_tl_11" break="no"/>der lebendig. Und oft habe ich, wenn ich mir sel 
+               <lb xml:id="p001_r_3_tl_12" break="no"/>ber ein wenig entfremdet schien, in mir die Erin 
+               <lb xml:id="p001_r_3_tl_16" break="no"/>nerung an ein heimatliches Land wachgerufen, 
+               <lb xml:id="p001_r_3_tl_17"/>dessen Wiesen und Bäume, dessen Dörfer und 
+               <lb xml:id="p001_r_3_tl_18"/>Höfe dessen Quellen und Berge, dessen alte Ge 
+               <lb xml:id="p001_r_3_tl_19" break="no"/>mäuer, Kirchtürme, Gärten, Brunnen, dessen 
+               <lb xml:id="p001_r_3_tl_20"/>Feldwege und Feldsegen ein Teil meines Erb- 
+               <lb xml:id="p001_r_3_tl_21"/>gutes waren, ein Teil Europas. Und zu den Län 
+               <lb xml:id="p001_r_3_tl_22" break="no"/>dern, an die ich dann am liebsten dachte, gehörte 
+               <lb xml:id="p001_r_3_tl_23"/>Portugal.</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_24"/>Vielleicht liegt es daran, dass es ein Küstenland 
+               <lb xml:id="p001_r_3_tl_25"/>ist, der äusserste Rand Europas, und dass man 
+               <lb xml:id="p001_r_3_tl_26"/>daher nach langen Abwesenheiten hier zum ersten 
+               <lb xml:id="p001_r_3_tl_27" break="no"/>mal wieder diese europäische Küste aus den 
+               <lb xml:id="p001_r_3_tl_28"/>Meer aufsteigen sah, – und wie stolz und heiter 
+               <lb xml:id="p001_r_3_tl_29"/>und glänzend! – Vielleicht auch denkt man 
+               <lb xml:id="p001_r_3_tl_30"/>daran, dass Portugal, dessen Geschichte fast ein 
+               <lb xml:id="p001_r_3_tl_31"/>Sinnbild des Lebens der europäischen Menschheit 
+               <lb xml:id="p001_r_3_tl_32"/>ist, bis heute vom Weltkrieg verschont blieb, so 
+               <lb xml:id="p001_r_3_tl_33"/>dass man hier alles noch wiederfindet, was in un 
+               <lb xml:id="p001_r_3_tl_34" break="no"/>seren anderen Ländern bedroht, oder schon zer 
+               <lb xml:id="p001_r_3_tl_35" break="no"/>stört ist. Hier bringt der europäische Frühling 
+               <lb xml:id="p001_r_3_tl_36"/>noch seinen ungeteilten Segen, und die Menschen 
+               <lb xml:id="p001_r_3_tl_37"/>empfangen ihn. Fischerboote schaukeln auf der 
+               <lb xml:id="p001_r_3_tl_38"/>milden Tajofläche, die Blütenbüsche öffnen sich 
+               <lb xml:id="p001_r_3_tl_39"/>und die rötlichen Aecker dampfen in der frischen, 
+               <lb xml:id="p001_r_3_tl_40"/>von der Sonne fast jäh erwärmten Luft. Der Him 
+               <lb xml:id="p001_r_3_tl_41" break="no"/>mel ist fröhlich, voll Bläue und ziehender Wolken,
+               <milestone unit="textregion" xml:id="p001_r_4"/> 
+               <lb xml:id="p001_r_4_tl_1"/>und die Leute von Stadt und Land freuen sich an 
+               <lb xml:id="p001_r_4_tl_2"/>ihm und den Osterwiesen, und werden auch fröh 
+               <lb xml:id="p001_r_4_tl_3" break="no"/>lich. Der Pflug kommt zu seinem Recht, und das 
+               <lb xml:id="p001_r_4_tl_4"/>Vieh zu seinen grünen Weiden, und die Abende 
+               <lb xml:id="p001_r_4_tl_5"/>sind lang und hell und schimmern wie Sammet 
+               <lb xml:id="p001_r_4_tl_6"/>und der Morgen bricht strahlend an...</p>
+            <p> 
+               <lb xml:id="p001_r_4_tl_8"/>Ja, dieser Frühling ist das von allen Dichtern 
+               <lb xml:id="p001_r_4_tl_7"/>besungene Wunder, und es gibt ihn nicht überall. 
+               <lb xml:id="p001_r_4_tl_9"/>In anderen Teilen der Erde hat er keinen Namen 
+               <lb xml:id="p001_r_4_tl_10"/>und vergeht als Regenzeit, als heisseste Zeit des 
+               <lb xml:id="p001_r_4_tl_11"/>Jahres, oder ganz unbemerkt. Und wo die Jahres 
+               <lb xml:id="p001_r_4_tl_12" break="no"/>zeiten fehlen, und man die Herbe des Winters 
+               <lb xml:id="p001_r_4_tl_13"/>nicht munter ertragen muss 
+               <lb xml:id="p001_r_4_tl_14"/>um die wiederkehrende Sanft 
+               <lb xml:id="p001_r_4_tl_15" break="no"/>heit des Frühlings und der Blü 
+               <lb xml:id="p001_r_4_tl_16" break="no"/>ten zu erleben, da fehlt uns 
+               <lb xml:id="p001_r_4_tl_17"/>Europäern etwas.</p>
+            <p> 
+               <lb xml:id="p001_r_4_tl_18"/>Daher wohl habe ich es nie 
+               <lb xml:id="p001_r_4_tl_19"/>mit solcher Freude erlebt und 
+               <lb xml:id="p001_r_4_tl_20"/>Portugal mit solcher Freude 
+               <lb xml:id="p001_r_4_tl_21"/>begrüsst, als in diesem Jahr: 
+               <lb xml:id="p001_r_4_tl_22"/>Unser Schiff kam aus Afrika 
+               <lb xml:id="p001_r_4_tl_23"/>und aus in den Krieg verwickel 
+               <lb xml:id="p001_r_4_tl_24" break="no"/>ten Ländern. Die Reise war 
+               <lb xml:id="p001_r_4_tl_25"/>lang und voller Schwierigkei 
+               <lb xml:id="p001_r_4_tl_26" break="no"/>ten. In der lähmenden Hitze, 
+               <lb xml:id="p001_r_4_tl_27"/>während das Schiff sich seinen 
+               <lb xml:id="p001_r_4_tl_28"/>Weg durch ein bleiernes Meer 
+               <lb xml:id="p001_r_4_tl_29"/>erkämpfte und man wusste: es 
+               <lb xml:id="p001_r_4_tl_30"/>ist Krieg und wir sind nichts, 
+               <lb xml:id="p001_r_4_tl_31"/>der Gewalt des Krieges preis 
+               <lb xml:id="p001_r_4_tl_32" break="no"/>gegeben wie der des Ozeans, 
+               <lb xml:id="p001_r_4_tl_33"/>und die Zukunft ist düster und 
+               <lb xml:id="p001_r_4_tl_34"/>ungewiss; da zweifelte man manchmal daran, dass 
+               <lb xml:id="p001_r_4_tl_35"/>man jemals irgendeinen Hafen und gar das schöne 
+               <lb xml:id="p001_r_4_tl_36"/>Portugal erreichen würde. Man versuchte vergeb 
+               <lb xml:id="p001_r_4_tl_37" break="no"/>lich, sich an Vertrautes zu erinnern, an das Auf- 
+               <lb xml:id="p001_r_4_tl_38"/>tauchen der Küste, an die zum Meer sich neigen 
+               <lb xml:id="p001_r_4_tl_39" break="no"/>den Hügel, die den Lauf des Tajo bis zur mäch 
+               <lb xml:id="p001_r_4_tl_40" break="no"/>tigen Mündung begleiten, an die arabische Burg 
+               <lb xml:id="p001_r_4_tl_41"/>des Städtchens Cascais, an die smaragdgrünen 
+               <lb xml:id="p001_r_4_tl_42"/>Ufer und roten Felder, die von weitem den An 
+               <lb xml:id="p001_r_4_tl_43" break="no"/>kommenden begrüssen und an das weiss und an 
+               <lb xml:id="p001_r_4_tl_44" break="no"/>mutig aus der Wasserbläue aufsteigende Lissabon. 
+               <lb xml:id="p001_r_4_tl_45"/>Gab es dies alles wirklich? – Bestand es noch 
+               <lb xml:id="p001_r_4_tl_46"/>wie einst? – War es jemals gewesen, oder ein 
+               <lb xml:id="p001_r_4_tl_47"/>Traum, – den man nie mit dem Fuss betreten, 
+               <lb xml:id="p001_r_4_tl_48"/>mit den Händen berühren würde?</p>
+            <p> 
+               <lb xml:id="p001_r_4_tl_49"/>Aber eines Morgens beim Erwachen war die 
+               <lb xml:id="p001_r_4_tl_50"/>Luft blau und mild und der Horizont nicht meh 
+               <lb xml:id="p001_r_4_tl_51"/>unbegrenzt: ein in der Morgensonne leuchtender 
+               <lb xml:id="p001_r_4_tl_52"/>Gebirgssaum lag vor unseren geblendeten Augen 
+               <lb xml:id="p001_r_4_tl_53"/>– und schon glitten wir, wie von Festjubel um 
+               <lb xml:id="p001_r_4_tl_54" break="no"/>geben, zwischen den Ufern des Tajo aufwärts 
+               <lb xml:id="p001_r_4_tl_55"/>begleitet von Segeln, Rufen. Und Lissabon grüsste 
+               <lb xml:id="p001_r_4_tl_56"/>von Zinnen und Türmen und warf uns sein Spie 
+               <lb xml:id="p001_r_4_tl_57" break="no"/>gelbild zu, und wir grüssten zurück, und zu der 
+               <lb xml:id="p001_r_4_tl_58"/>aus der Dämmerung in den Frühlingstag und 
+               <lb xml:id="p001_r_4_tl_59"/>hellen Himmel emportauchenden Erde.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_4_tl_60"/>Annemarie Clarac-Schwarzenbach</p>
+
+            <milestone unit="textregion" xml:id="p001_r_5"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_r_5_tl_1"/>Skizze Hafen [von Eugen Früh]</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+</div>
+       </body>
+    </text>
+ </TEI>
