@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0566" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0566#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0566</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0566"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0566_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0566_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_tl_1"/>Liebe zu Europa 
+               <lb xml:id="p001_r_tl_2"/>Von Annemarie Schwarzenbach</p>
+            <p> 
+               <lb xml:id="p001_r_tl_3"/>Die <hi rendition="#g">Rückkehr</hi> nach <hi rendition="#g">Europa</hi> ist ein senti 
+               <lb xml:id="p001_r_tl_4" break="no"/>mentales Erlebnis, dessen schmerzlich-glückliche 
+               <lb xml:id="p001_r_tl_5"/>Intensität ich wieder erfuhr, als ich mit dem portu 
+               <lb xml:id="p001_r_tl_6" break="no"/>giesischen Afrika-Dampfer "Quanza" vor einigen 
+               <lb xml:id="p001_r_tl_7"/>Tagen in Lissabon landete. An Gelegenheiten, 
+               <lb xml:id="p001_r_tl_8"/>mich an dieses Erlebnis zu gewöhnen, hatte es mir 
+               <lb xml:id="p001_r_tl_9"/>nicht gefehlt, da ich seit Beginn des Krieges schon 
+               <lb xml:id="p001_r_tl_10"/>zweimal wieder nach Europa zurückgekehrt war, 
+               <lb xml:id="p001_r_tl_11"/>das erste Mal von Indien, das zweite Mal, vor 
+               <lb xml:id="p001_r_tl_12"/>Jahresfrist, von Amerika, zu einem Zeitpunkt 
+               <lb xml:id="p001_r_tl_13"/>also, da die europawärts fahrenden Schiffe bei 
+               <lb xml:id="p001_r_tl_14" break="no"/>nahe leer, die von Lissabon nach den beiden 
+               <lb xml:id="p001_r_tl_15"/>Amerika auslaufenden Schiffe hingegen überfüllt 
+               <lb xml:id="p001_r_tl_16"/>waren mit Flüchtlingen und Auswanderern aller 
+               <lb xml:id="p001_r_tl_17"/>Nationalen, Rassen und Klassen, die dem gefährde 
+               <lb xml:id="p001_r_tl_18" break="no"/>ten und erschöpften Europa den Rücken kehrten, 
+               <lb xml:id="p001_r_tl_19"/>um drüben in den neuen Erdteilen des Westens 
+               <lb xml:id="p001_r_tl_20"/>Frieden, Sicherheit und prosperität zu finden.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_21"/>Aber die Ausfahrt dieser Schiffe, der Abschied 
+               <lb xml:id="p001_r_tl_22"/>auf dem Quai und die stumme Masse der Passa 
+               <lb xml:id="p001_r_tl_23" break="no"/>giere an der Reeling des langsam vom Ufer weg 
+               <lb xml:id="p001_r_tl_24" break="no"/>gleitenden Dampfers waren immer herzzerreißende 
+               <lb xml:id="p001_r_tl_25"/>Bilder. Fast noch eindrucksvoller war meine Ab 
+               <lb xml:id="p001_r_tl_26" break="no"/>reise von Lissabon nach Afrika vor nun elf Mo 
+               <lb xml:id="p001_r_tl_27" break="no"/>naten: sei es, weil die nach Afrika verschlagenen 
+               <lb xml:id="p001_r_tl_28"/>Europäischen Emignanten ihr Schicksal als ungleich 
+               <lb xml:id="p001_r_tl_29"/>ungewisser und herber empfanden als die Glück 
+               <lb xml:id="p001_r_tl_30" break="no"/>lichen, die ein amerikanisches Visum besaßen, sei 
+               <lb xml:id="p001_r_tl_31"/>es, weil auch die Portugiesen, Franzosen, Belgier 
+               <lb xml:id="p001_r_tl_32"/>oder Briten, die in die Kolonien gingen, um einen 
+               <lb xml:id="p001_r_tl_33"/>Posten oder eine Stelle anzutreten, mit einer Ab 
+               <lb xml:id="p001_r_tl_34" break="no"/>wesenheit von vielen Jahren rechnen mußten, sei 
+               <lb xml:id="p001_r_tl_35"/>es, weil die allgemeine Unsicherheit dieser Kriegs 
+               <lb xml:id="p001_r_tl_36" break="no"/>zeiten jeden Entschluß und jede Unternehmung zu 
+               <lb xml:id="p001_r_tl_37"/>einem vielleicht unwiderruflichen, tragischen Wag 
+               <lb xml:id="p001_r_tl_38" break="no"/>nis machen.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_39"/>Die Rückkehr nach Europa ist nicht vielen be 
+               <lb xml:id="p001_r_tl_40" break="no"/>schieden. Ich habe mich in den afrikanischen Kolo 
+               <lb xml:id="p001_r_tl_41" break="no"/>nien selber während Monaten an den Gedanken 
+               <lb xml:id="p001_r_tl_42"/>gewöhnen müssen, fast vollständig von der Hei 
+               <lb xml:id="p001_r_tl_43" break="no"/>mat, von Europa und, in großem Maße, auch von 
+               <lb xml:id="p001_r_tl_44"/>Amerika abgeschnitten zu sein, und ich habe andere 
+               <lb xml:id="p001_r_tl_45"/>unter der Tatsache ihres Exils leiden sehen. Das 
+               <lb xml:id="p001_r_tl_46"/>Radio, das die Stimmen von fernen Städten und 
+               <lb xml:id="p001_r_tl_47"/>Kriegsschauplätzen zu uns trug, wirkte nicht trö 
+               <lb xml:id="p001_r_tl_48" break="no"/>stend, sondern eher verwirrend und, vor allem 
+               <lb xml:id="p001_r_tl_49"/>abstumpfend. Man konnte sich, während man in 
+               <lb xml:id="p001_r_tl_50"/>einem engen Lebenskreis gefangen saß, wo man 
+               <lb xml:id="p001_r_tl_51"/>um seine Geschäfte, seine Stellung und Gesundheit 
+               <lb xml:id="p001_r_tl_52"/>und gegen das erschlaffende Klima kämpfte, die 
+               <lb xml:id="p001_r_tl_53"/>Realität und Tragweite von Ereignissen nicht 
+               <lb xml:id="p001_r_tl_54"/>immer ins Bewußtsein rufen, die man als Echo 
+               <lb xml:id="p001_r_tl_55"/>aus dem Radio vernahm. Dieses beständige Echo 
+               <lb xml:id="p001_r_tl_56"/>aber erschwerte es, sich mit den gesetzten Grenzen 
+               <lb xml:id="p001_r_tl_57"/>abzufinden und sich ein Leben dort einzurichten 
+               <lb xml:id="p001_r_tl_58"/>wohin man durch die Zufälle des Schicksals ge 
+               <lb xml:id="p001_r_tl_59" break="no"/>stellt worden war.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_60"/>Und doch lebte man auch dort. Man lebte, zum 
+               <lb xml:id="p001_r_tl_61"/>Beispiel in den Kolonien Aequatorialafrikas, in 
+               <lb xml:id="p001_r_tl_62"/>denen ich mich aufhielt, nicht einmal schlecht. Viele 
+               <lb xml:id="p001_r_tl_63"/>kriegswichtige Produkte, vor allem Metalle, fan 
+               <lb xml:id="p001_r_tl_64" break="no"/>den erhöhten Absatz; Südafrika sprang für die 
+               <lb xml:id="p001_r_tl_65"/>Lieferung von Nahrungsmitteln, Medikamenten 
+               <lb xml:id="p001_r_tl_66"/>und vielen anderen Dingen ein, die von Europa 
+               <lb xml:id="p001_r_tl_67"/>nicht mehr geschickt werden können, und das ge 
+               <lb xml:id="p001_r_tl_68" break="no"/>samte Wirtschaftsleben der Kolonien, das nun 
+               <lb xml:id="p001_r_tl_69"/>nicht mehr vom Mutterland dirigiert werden 
+               <lb xml:id="p001_r_tl_70"/>konnte, erhielt durch die notwendige Umstellung 
+               <lb xml:id="p001_r_tl_71"/>und Unabhängigkeit einen ungeheuren Auftrieb. 
+               <lb xml:id="p001_r_tl_72"/>Das Klima war schwer zu ertragen; aber man 
+               <lb xml:id="p001_r_tl_73"/>hatte es schon früher ertragen, und da die Europa 
+               <lb xml:id="p001_r_tl_74" break="no"/>urlaube jetzt fortfielen, entdeckte man, daß man 
+               <lb xml:id="p001_r_tl_75"/>auch am Kap und in den Bergen des Kivu und 
+               <lb xml:id="p001_r_tl_76"/>Ituri herrliche und gesunde Ferien verbringen 
+               <lb xml:id="p001_r_tl_77"/>konnte.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_78"/>Neben den noch jungen und daher rückständi 
+               <lb xml:id="p001_r_tl_79" break="no"/>geren und vom Klima besonders benachteiligten, 
+               <lb xml:id="p001_r_tl_80"/>Kolonien Aeuquatorialafrikas [sic] gibt es im dunklen 
+               <lb xml:id="p001_r_tl_81"/>Erdteil, wie in allen Kontingenten, Gebiete, wo 
+               <lb xml:id="p001_r_tl_82"/>der Europäer sich anzupassen und leicht zu leben 
+               <lb xml:id="p001_r_tl_83"/>vermag. Die Südafrikanische Union besonders ist 
+               <lb xml:id="p001_r_tl_84"/>ein "Land des weißen Mannes" geworden, dessen 
+               <lb xml:id="p001_r_tl_85"/>Entwicklung manche Aehnlichkeit mit derjenigen 
+               <lb xml:id="p001_r_tl_86"/>Nordamerikas zeigt. Man kann wohl in Bezug auf 
+               <lb xml:id="p001_r_tl_87"/>die europäische Menschheit, von einer "Dezentra 
+               <lb xml:id="p001_r_tl_88" break="no"/>lisation" sprechen, und nie so wie seit dem zweiten 
+               <lb xml:id="p001_r_tl_89"/>Weltkrieg gewöhnt man sich daran, Zentren unse 
+               <lb xml:id="p001_r_tl_90" break="no"/>rer Zivilisation in New York und Argentinien, 
+               <lb xml:id="p001_r_tl_91"/>in Sydney oder Kapstadt oder Indien zu finden. 
+               <lb xml:id="p001_r_tl_92"/>Woher nährt sich also heute noch das Heimweh 
+               <lb xml:id="p001_r_tl_93"/>derer, die dort leben, nach Europa? Wo überhaupt 
+               <lb xml:id="p001_r_tl_94"/>sind die Grenzen Europas? Extreme arabische 
+               <lb xml:id="p001_r_tl_95"/>Nationalisten haben für ihr neuzubildendes arabi 
+               <lb xml:id="p001_r_tl_96" break="no"/>sches Reich Ansprüche auf Cordoda und Granada 
+               <lb xml:id="p001_r_tl_97"/>erhoben; der Balkan war lange türkisch; in der 
+               <lb xml:id="p001_r_tl_98"/>Musik, der Architektur, der Kleidung und manchen 
+               <lb xml:id="p001_r_tl_99"/>Gebräuchen in Portugal erkennt man die mau 
+               <lb xml:id="p001_r_tl_100" break="no"/>rische Vergangenheit; mitten in Europa, in Un 
+               <lb xml:id="p001_r_tl_101" break="no"/>garn, wohnt ein den Indoeuropäern nicht ver 
+               <lb xml:id="p001_r_tl_102" break="no"/>wandtes Steppenvolk; aber im asiatischen Syrien 
+               <lb xml:id="p001_r_tl_103"/>stehen griechische Säulen. Hätte man mich vor die
+               <milestone unit="textregion" xml:id="p001_r_2"/> 
+               <lb xml:id="p001_r_2_tl_1"/>Frage gestellt, ob ich als außereuropäisches Exil 
+               <lb xml:id="p001_r_2_tl_2" break="no"/>Syrien oder die Vereinigten Staaten wählen 
+               <lb xml:id="p001_r_2_tl_3"/>würde, ich hätte mindestens gezögert.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_4"/>Man sagt heute leicht, Europa sei "fertig" oder 
+               <lb xml:id="p001_r_2_tl_5"/>vorsichtiger ausgedrückt, es sei an einem Wende 
+               <lb xml:id="p001_r_2_tl_6" break="no"/>punkt seiner Geschichte und am Ende seiner Vor 
+               <lb xml:id="p001_r_2_tl_7" break="no"/>herrschaft angelangt. Und wie oft habe ich doch 
+               <lb xml:id="p001_r_2_tl_8"/>schon die Folgerung gehört: "Warum also, selbst 
+               <lb xml:id="p001_r_2_tl_9"/>als Weißer, selbst als Europäer, in Europa leben 
+               <lb xml:id="p001_r_2_tl_10"/>wollen?" Und doch habe ich wohl nie unter einer 
+               <lb xml:id="p001_r_2_tl_11"/>zufällig zusammengekommenen Gruppe von Men 
+               <lb xml:id="p001_r_2_tl_12" break="no"/>schen verschiedener Herkunft und mit verschiedenen 
+               <lb xml:id="p001_r_2_tl_13"/>Zielen eine so starke, ergreifende, gemeinsame 
+               <lb xml:id="p001_r_2_tl_14"/>Freude erblühen sehen, wie auf den Gesichtern der 
+               <lb xml:id="p001_r_2_tl_15"/>Passagiere des Dampfers "Quanza", als wir eines 
+               <lb xml:id="p001_r_2_tl_16"/>Tages, endlich, in der Morgenfrühe, das erste 
+               <lb xml:id="p001_r_2_tl_17"/>Felsenriff der portugiesischen Küste erblickten. 
+               <lb xml:id="p001_r_2_tl_18"/>Viele unter diesen Passagieren wußten noch nicht, 
+               <lb xml:id="p001_r_2_tl_19"/>was nach der Landung in Lissabon aus ihnen wer 
+               <lb xml:id="p001_r_2_tl_20" break="no"/>den würde. Viele wußten nicht, in welchem Zu 
+               <lb xml:id="p001_r_2_tl_21" break="no"/>stand sie ihre Heimat, ja, ob sie überhaupt ihre 
+               <lb xml:id="p001_r_2_tl_22"/>Angehörigen, ihre Eltern, ihr Haus wiederfinden 
+               <lb xml:id="p001_r_2_tl_23"/>würden. Andere kamen zurück, nur, um wieder in 
+               <lb xml:id="p001_r_2_tl_24"/>den Krieg zu gehen. Aber das Glück, die euro 
+               <lb xml:id="p001_r_2_tl_25" break="no"/>päische Küste zu sehen, war größer als alle Sorgen 
+               <lb xml:id="p001_r_2_tl_26"/>die sie in diesem Europa erwarten mochten. Und 
+               <lb xml:id="p001_r_2_tl_27"/>niemand schien, unter den Nicht-Portugiesen 
+               <lb xml:id="p001_r_2_tl_28"/>daran zu denken, daß Portugal so gut zum "Aus 
+               <lb xml:id="p001_r_2_tl_29" break="no"/>land" gehöre, wie etwa Mozambique, Pointe 
+               <lb xml:id="p001_r_2_tl_30"/>Noir, oder woher sie immer kommen mochten.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_31"/>Woher die Liebe zu Europa? Das Licht hat da 
+               <lb xml:id="p001_r_2_tl_32" break="no"/>mit zu tun, die Fröhlichkeit des Windes, die Weiße 
+               <lb xml:id="p001_r_2_tl_33"/>der ziehenden Wolken, der Sammetglanz der war 
+               <lb xml:id="p001_r_2_tl_34" break="no"/>men, milden Sonne auf den leuchtenden, sanft 
+               <lb xml:id="p001_r_2_tl_35"/>aufsteigenden Hügeln. Man sah Straßen und 
+               <lb xml:id="p001_r_2_tl_36"/>Sträßlein und wanderte ihnen im Geiste entlang, 
+               <lb xml:id="p001_r_2_tl_37"/>über Frühlingswiesen. Man sah Windmühlen von 
+               <lb xml:id="p001_r_2_tl_38"/>ferne und vernahm im Geiste ihr lustiges Segel 
+               <lb xml:id="p001_r_2_tl_39" break="no"/>knattern. Man sah eine erste, altersgraue Kapelle 
+               <lb xml:id="p001_r_2_tl_40"/>das Barockportal eines Klosters und hörte schon 
+               <lb xml:id="p001_r_2_tl_41"/>die Glocken, die zum Abendsegen riefen. Man sah 
+               <lb xml:id="p001_r_2_tl_42"/>Möwen, Schwalben, dahingleitende Fischerboote 
+               <lb xml:id="p001_r_2_tl_43"/>und rötliche, Dampfende Ackerschollen. Die Stadt 
+               <lb xml:id="p001_r_2_tl_44"/>stieg auf, mit Quaimauern, Markthallen und 
+               <lb xml:id="p001_r_2_tl_45"/>Treppen im Meer verankert, gekrönt mit den Zin 
+               <lb xml:id="p001_r_2_tl_46" break="no"/>nen der arabischen Burg, den massiven Türmen 
+               <lb xml:id="p001_r_2_tl_47"/>der Kirche, wo portugiesische Könige ruhen. Und 
+               <lb xml:id="p001_r_2_tl_48"/>aus den steilen Gassen brandete das Leben der 
+               <lb xml:id="p001_r_2_tl_49"/>Stadt, und von den tiefgrünen Hügeln grüßten 
+               <lb xml:id="p001_r_2_tl_50"/>Hirten, und auf der Straße am Tajo-Ufer trabten 
+               <lb xml:id="p001_r_2_tl_51"/>Pferde und Maultiergespane. Die Ermüdung der 
+               <lb xml:id="p001_r_2_tl_52"/>langen Reise fiel von uns ab und war vergessen 
+               <lb xml:id="p001_r_2_tl_53"/>wie die schlaffe Luft der Tropen, wie das Ge 
+               <lb xml:id="p001_r_2_tl_54" break="no"/>fühl der Lähmung, einer unbekannten Sonne, Ge 
+               <lb xml:id="p001_r_2_tl_55" break="no"/>fahren, Schicksalen preisgegeben zu sein. Ich be 
+               <lb xml:id="p001_r_2_tl_56" break="no"/>trachtete mit Erstaunen die veränderten Gesichter 
+               <lb xml:id="p001_r_2_tl_57"/>meiner Mitreisenden: sie schienen sich nicht mehr 
+               <lb xml:id="p001_r_2_tl_58"/>zu fürchten, es war, als habe der erste Hauch 
+               <lb xml:id="p001_r_2_tl_59"/>vom europäischen Ufer sie gestärkt und genährt, 
+               <lb xml:id="p001_r_2_tl_60"/>und ein lange vergessenes Vertrauen zu sich und 
+               <lb xml:id="p001_r_2_tl_61"/>zur Welt, eine lagne [sic] vergessene Lebensfreude sei 
+               <lb xml:id="p001_r_2_tl_62"/>in ihnen erwacht.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_63"/>Es ist eine ernste, von der Wissenschaft immer 
+               <lb xml:id="p001_r_2_tl_64"/>unvollständig beantwortete Frage, was der Mensch 
+               <lb xml:id="p001_r_2_tl_65"/>zum Leben brauche. Gleich nach der Landung in 
+               <lb xml:id="p001_r_2_tl_66"/>Lissabon nahm ich einen Vorortszug nach Estoril 
+               <lb xml:id="p001_r_2_tl_67"/>hinaus und ging, eine Stunde später, vom Golf 
+               <lb xml:id="p001_r_2_tl_68" break="no"/>platz aus durch den Fichtenwald, den windbestri 
+               <lb xml:id="p001_r_2_tl_69" break="no"/>chenen Hügelkämmen entlang, durch rötliche Aecker, 
+               <lb xml:id="p001_r_2_tl_70"/>über feuchte, duftende Wiesen. Ich hätte mich fra 
+               <lb xml:id="p001_r_2_tl_71" break="no"/>gen können, ob ich in den Schären Schwedens sei, 
+               <lb xml:id="p001_r_2_tl_72"/>in den Hainen der Balearen, am Strand von 
+               <lb xml:id="p001_r_2_tl_73"/>Südfrankreich, in den Heiden nahe der Nordsee. 
+               <lb xml:id="p001_r_2_tl_74"/>Was mich umgab, waren die leise Luft, der herbe 
+               <lb xml:id="p001_r_2_tl_75"/>Wind, die zarten Farben, die Zärtliche Nähe und 
+               <lb xml:id="p001_r_2_tl_76"/>blaue, sehnsüchtige Weite des europäischen Vor 
+               <lb xml:id="p001_r_2_tl_77" break="no"/>frühlings. Ich sagte mir, daß ich bald hinter die 
+               <lb xml:id="p001_r_2_tl_78" break="no"/>sem friedlichen Bild ein anderes, geprüftes Europa 
+               <lb xml:id="p001_r_2_tl_79"/>antreffen würde. Aber der Hirt im groben Filz, 
+               <lb xml:id="p001_r_2_tl_80"/>der mir, im Abendlicht, mit seinen Schafen auf 
+               <lb xml:id="p001_r_2_tl_81"/>dieser kargen, steinigen Weide entgegenkam wie 
+               <lb xml:id="p001_r_2_tl_82"/>ein zeitloser, ewiger Wanderer, und das ernste 
+               <lb xml:id="p001_r_2_tl_83"/>und doch so heitere Läuten eines nahen Dorf 
+               <lb xml:id="p001_r_2_tl_84" break="no"/>kirchturms, von ihnen wußte ich, daß ich sie immer 
+               <lb xml:id="p001_r_2_tl_85"/>wieder suchen und finden würde, in jedem unserer 
+               <lb xml:id="p001_r_2_tl_86"/>trotz allem gesegneten Länder Europas.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
