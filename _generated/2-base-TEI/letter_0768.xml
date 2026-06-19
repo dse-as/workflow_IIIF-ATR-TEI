@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0768" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0768#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0768</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0768_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0768_001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_3"/>A. S. 
+               <lb xml:id="p001_tr_1_tl_1"/>Bocken, am 28. XII 
+               <lb xml:id="p001_tr_1_tl_2"/>1926 [mit Bleistift] 
+               <lb xml:id="p001_tr_1_tl_4"/>Lieber Herr Pfarrer! 
+               <lb xml:id="p001_tr_1_tl_5"/>In 2 Tagen ist Neujahr 
+               <lb xml:id="p001_tr_1_tl_6"/>und ich wünsche Ihnen 
+               <lb xml:id="p001_tr_1_tl_7"/>alles Schöne für 1927 – 
+               <lb xml:id="p001_tr_1_tl_8"/>dasselbe soll ich Ihnen von 
+               <lb xml:id="p001_tr_1_tl_9"/>Mama u. Grossmama sagen, 
+               <lb xml:id="p001_tr_1_tl_10"/>die Sie vielmals grussen. 
+               <lb xml:id="p001_tr_1_tl_11"/>Ich wäre gerne 
+               <lb xml:id="p001_tr_1_tl_12"/>zu Ihnen gekommen. Bis jetzt 
+               <lb xml:id="p001_tr_1_tl_13"/>ist es nicht dazu gekommen, 
+               <lb xml:id="p001_l"/>die Ferien sind kurz, u. 
+               <lb xml:id="p001_tr_1_tl_16"/>es ist Weihnachtszeit.</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0768_002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>Dan[ scheint mir <hi rendition="#u">Rein</hi> [Farbe?] plötzlich 
+               <lb xml:id="p002_tr_1_tl_2"/>sehr weit weg – u. doch 
+               <lb xml:id="p002_tr_1_tl_3"/>bin ich früher fast jeden 
+               <lb xml:id="p002_tr_1_tl_4"/>Montag hingekom[en. 
+               <lb xml:id="p002_tr_1_tl_5"/>[space] Letzthin habe ich einen Brief 
+               <lb xml:id="p002_tr_1_tl_6"/>von Ruedi Stössel bekomen. 
+               <lb xml:id="p002_tr_1_tl_7"/>Er hat mir geschrieben, 
+               <lb xml:id="p002_tr_1_tl_8"/>ich sollte den Zusam[enhang 
+               <lb xml:id="p002_tr_1_tl_9"/>mit dem Wandervogel nicht 
+               <lb xml:id="p002_tr_1_tl_10"/>verlieren, sollte mehr mit 
+               <lb xml:id="p002_tr_1_tl_11"/>Hans Freyenmuth reden. 
+               <lb xml:id="p002_tr_1_tl_12"/>Aber ich habe ja den 
+               <lb xml:id="p002_tr_1_tl_13"/>Zusammenhang längst nicht 
+               <lb xml:id="p002_tr_1_tl_14"/>mehr. Gerade so, als liege</p>
+
+            <milestone unit="textregion" xml:id="p002_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_2_tl_1"/>mir nichts daran Und 
+               <lb xml:id="p002_tr_2_tl_2"/>vielleicht liegt mir wirklich 
+               <lb xml:id="p002_tr_2_tl_3"/>nichts daran. 
+               <lb xml:id="p002_tr_2_tl_4"/>Den[ eine Sache, die ich 
+               <lb xml:id="p002_tr_2_tl_5"/>nicht mit <hi rendition="#u">erlebe</hi>, [as] ist für 
+               <lb xml:id="p002_l"/>mich gleichsam tot. Wie 
+               <lb xml:id="p002_l_1"/>ein Freund, dessen Hand 
+               <lb xml:id="p002_tr_2_tl_10"/>ich nicht mehr fühle. 
+               <lb xml:id="p002_tr_2_tl_11"/>kan[. 
+               <lb xml:id="p002_tr_2_tl_12"/>Aber austreten will ich doch 
+               <lb xml:id="p002_tr_2_tl_13"/>nicht. Den[ wie soll ich 
+               <lb xml:id="p002_tr_2_tl_14"/>den Wandervogel aufgeben, 
+               <lb xml:id="p002_tr_2_tl_15"/><del rend="overstrike">de</del> für den ich Zeit hatte, 
+               <lb xml:id="p002_tr_2_tl_16"/>u. der mir ein Stück 
+               <lb xml:id="p002_tr_2_tl_17"/>Leben war – bevor er nicht 
+               <lb xml:id="p002_tr_2_tl_18"/>ersetzt wird? Es wird</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0768_003.jpg"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_l_1"/>im[er weggenomen – Menschen 
+               <lb xml:id="p003_l"/>u. Gemeinschaften – und 
+               <lb xml:id="p003_tr_1_tl_5"/>nirgends ist etwas Neues, 
+               <lb xml:id="p003_tr_1_tl_6"/>was stark genug wäre, die 
+               <lb xml:id="p003_tr_1_tl_7"/>Erin[erung an das Frühere 
+               <lb xml:id="p003_tr_1_tl_8"/>zu übertönen oder doch ein 
+               <lb xml:id="p003_tr_1_tl_9"/>wenig in dämpfen – 
+               <lb xml:id="p003_l_2"/>Aber vielleicht wäre es schade. 
+               <lb xml:id="p003_tr_1_tl_12"/>Viele herzliche Grüsse 
+               <lb xml:id="p003_tr_1_tl_13"/>von Ihrer An[emarie</p>
+</div>
+       </body>
+    </text>
+ </TEI>
