@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0761" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0761#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0761</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0761_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0761_001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l"/>[Unterstreichungen] Fetan 1925 [nachträgl. mit Bleistift] 
+               <lb xml:id="p001_tr_1_tl_3"/>Lieber Herr Pfarrer! 
+               <lb xml:id="p001_tr_1_tl_4"/>Es ist Son[tag – es ist unendlich schön, 
+               <lb xml:id="p001_tr_1_tl_5"/>hier Son[tag zu haben. 
+               <lb xml:id="p001_l_1"/>Ich begeistere meine Kameradin[en, 
+               <lb xml:id="p001_tr_1_tl_8"/>für den Wandervogel, für den Reiner 
+               <lb xml:id="p001_tr_1_tl_9"/>Hügel u. für Sie. Ich habe soviel 
+               <lb xml:id="p001_tr_1_tl_10"/>Erfolg, dass alle Sie unbekanter Weise 
+               <lb xml:id="p001_tr_1_tl_11"/>grüssen lassen. Ich mochte einmal <hi rendition="#u">alle</hi> 
+               <lb xml:id="p001_tr_1_tl_12"/>Menschen für das begeistern können, 
+               <lb xml:id="p001_tr_1_tl_13"/>was ich will. Ich möchte <PAGE tag="continued">Grieche gewesen,</PAGE> 
+               <lb xml:id="p001_tr_1_tl_14"/><PAGE tag="continued">sein</PAGE>, dan[ hätte ich gesprochen wie 
+               <lb xml:id="p001_tr_1_tl_15"/>Demosthenes. Gestern hat mich das schönste 
+               <lb xml:id="p001_l_2"/>Mädchen des Instituts "verabschieden" wollen. 
+               <lb xml:id="p001_tr_1_tl_18"/>Weil sie weiss, dass ich befreundet bin 
+               <lb xml:id="p001_l_3"/>mit dem einzig bedeutenden, einzig 
+               <lb xml:id="p001_tr_1_tl_21"/>starken Mädchen hier. Es war merk 
+               <lb xml:id="p001_tr_1_tl_22" break="no"/>wurdig – ich opferte eine Stunde, – <del rend="overstrike">u</del>. stand 
+               <lb xml:id="p001_tr_1_tl_23"/>an einen Tisch gelehnt – Zuerst machte sie 
+               <lb xml:id="p001_tr_1_tl_24"/>mir Vorwürfe. Nach 10 Minuten 
+               <lb xml:id="p001_l_4"/>wusste sie nichts mehr. Nun lachten</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0761_002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l"/>wir beide. Manchmal sagte sie: "Aber alle 
+               <lb xml:id="p002_tr_1_tl_3"/>wollen, dass ich Dich verabschiede. Und 
+               <lb xml:id="p002_tr_1_tl_4"/>womöglich denkst Du dan[, du seist un 
+               <lb xml:id="p002_l_2" break="no"/>widerstehlich" – Sehen Sie, Mady gegen 
+               <lb xml:id="p002_l_1" break="no"/>über "unwiderstehlich" zu sein, ist leicht 
+               <lb xml:id="p002_tr_1_tl_10"/>Aber ich möchte anders stark sein. Was 
+               <lb xml:id="p002_tr_1_tl_11"/>nützt mir die <hi rendition="#u">Zuneigung</hi> all dieser 
+               <lb xml:id="p002_l_3"/>Leute. "Unwiderstehlich" widert mich an. 
+               <lb xml:id="p002_l_4"/>Ich möchte andere Macht haben. 
+               <lb xml:id="p002_tr_1_tl_16"/>Mandimal, wenn ich schon morgens 6 
+               <lb xml:id="p002_tr_1_tl_17"/>Uhr Mathematik lerne, u. abends 
+               <lb xml:id="p002_tr_1_tl_18"/>nach 11 Uhr über Alexander lese, 
+               <lb xml:id="p002_tr_1_tl_19"/>denke ich, man müsse zur Kraft gelan 
+               <lb xml:id="p002_tr_1_tl_21" break="no"/>gen. 
+               <lb xml:id="p002_tr_1_tl_20"/>Übrigens ist Dr. Lüthy jetzt wirklich 
+               <lb xml:id="p002_tr_1_tl_22"/>fein – der einzige Mensch, der uns 
+               <lb xml:id="p002_tr_1_tl_23"/>anfassen kan[, ohne uns die Freude 
+               <lb xml:id="p002_tr_1_tl_24"/>zu nehmen.) Wissen Sie, ich bin 
+               <lb xml:id="p002_tr_1_tl_25"/>doch zu weit, um als Schulkind be 
+               <lb xml:id="p002_tr_1_tl_26" break="no"/>handelt zu werden. Wen[ man nur 
+               <lb xml:id="p002_tr_1_tl_27"/>Vorwürfe macht über etwas was nicht 
+               <lb xml:id="p002_l_5"/>gut gearbeitet ist, so nimmt mir das 
+               <lb xml:id="p002_l_6"/>soviel Kraft. Ich habe letzthin 
+               <lb xml:id="p002_l_7"/>eingach die Nerven verloren – lag</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0761_003.jpg"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_2"/>II. 
+               <lb xml:id="p003_l_2"/>in der Pause bei Hoheit in einem 
+               <lb xml:id="p003_l"/>Liegestuhl u. habe geweint wie ein 
+               <lb xml:id="p003_tr_1_tl_9"/>Kind. Hoheit ist nämlich ein sehr 
+               <lb xml:id="p003_l_1"/>sehr <hi rendition="#u">gütiger</hi> Mensch. 
+               <lb xml:id="p003_tr_1_tl_12"/>Aber dann kommt ein Augenblick, da 
+               <lb xml:id="p003_tr_1_tl_13"/>bricht unsere ganze Lebensfreude so 
+               <lb xml:id="p003_l_3"/>fiebelnd hervor - z. B. gestern kam 
+               <lb xml:id="p003_tr_1_tl_16"/>ich <del rend="overstrike">mit</del> sehr müde aus dem Stu 
+               <lb xml:id="p003_tr_1_tl_17" break="no"/>diensaal, es war 7 Uhr. Da saß 
+               <lb xml:id="p003_l_4"/>jemand am Flügel in der Aula, 
+               <lb xml:id="p003_tr_1_tl_21"/>de 
+               <lb xml:id="p003_l_6"/>u. plötzlich tanzten alle - verbotener 
+               <lb xml:id="p003_l_7"/>Weise. Ich ergriff Mady u. tanzte 
+               <lb xml:id="p003_tr_1_tl_27"/>mit. Nur 2 Minuten. Es ist selt 
+               <lb xml:id="p003_tr_1_tl_28" break="no"/>sam, aber solche Augenblicke wiegen 
+               <lb xml:id="p003_tr_1_tl_29"/>unendlich viel Arbeit u. Mühe auf. 
+               <lb xml:id="p003_l_8"/>So dass man wirklich glücklich ist 
+               <lb xml:id="p003_tr_1_tl_32"/>hier! 
+               <lb xml:id="p003_l_5"/>Herzliche Gruße - dem Reiner Hügel 
+               <lb xml:id="p003_l_9"/>Ihre An[emarie.</p>
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0761_004.jpg"/>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_1_tl_1"/>[Mit Bleistift von fremder Hand, schwer zu lesen] Freude darüber, EllaAls Du Deel 
+               <lb xml:id="p004_tr_1_tl_2"/>Mutter Berge Arbeit glücklich 
+               <lb xml:id="p004_tr_1_tl_3"/>füllst. Arbeit kan[ selbst zum 
+               <lb xml:id="p004_tr_1_tl_4"/>Sonnentag werden. 
+               <lb xml:id="p004_tr_1_tl_5"/>Bezusterung, der viel mitgelegt 
+               <lb xml:id="p004_tr_1_tl_6"/>Dunordhenen. Du best mit je 
+               <lb xml:id="p004_tr_1_tl_7"/>neulich die Red d dauert einmal 
+               <lb xml:id="p004_tr_1_tl_8"/>vorzunehmen; von ihn zu benau 
+               <lb xml:id="p004_tr_1_tl_9" break="no"/>ReinIII1926 Program 
+               <lb xml:id="p004_tr_1_tl_10"/>Mitsche mit Pfarr 
+               <lb xml:id="p004_tr_1_tl_11"/>Egln vil</p>
+</div>
+       </body>
+    </text>
+ </TEI>
