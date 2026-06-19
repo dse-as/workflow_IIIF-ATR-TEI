@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0765" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0765#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0765</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0765_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0765_001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>- 
+               <lb xml:id="p001_tr_1_tl_2"/>Fetan am 26. Sept. 
+               <lb xml:id="p001_l"/>Lieber Herr Pfarrer, ich muss Ihnen 
+               <lb xml:id="p001_tr_1_tl_5"/>schreiben, um Ihnen zu sagen, dass 
+               <lb xml:id="p001_tr_1_tl_6"/>ich am Leben bin u. dass ich, auch 
+               <lb xml:id="p001_l_1"/>ohne zu schreiben, sehr oft an 
+               <lb xml:id="p001_tr_1_tl_9"/>den <hi rendition="#u">Reiner Hügel</hi> denke. 
+               <lb xml:id="p001_l_2"/>Ich habe Ferien gehabt, aber ich 
+               <lb xml:id="p001_tr_1_tl_12"/>glaube, es war nicht lange genug – 
+               <lb xml:id="p001_l_3"/>Den[ ich bin sehr müde u. arbeite 
+               <lb xml:id="p001_l_4"/>weniger als im Som[er. Im[erhin 
+               <lb xml:id="p001_tr_1_tl_17"/>bin ich viel rascher vorwärts 
+               <lb xml:id="p001_tr_1_tl_18"/>gekommen als die Anderen hier. 
+               <lb xml:id="p001_tr_1_tl_19"/>Wahrscheinlich mache ich in <del rend="overstrike">3</del> 
+               <lb xml:id="p001_l_5"/>5 Wochen das erste Examen. 
+               <lb xml:id="p001_l_6"/>Dan[ wird es mit allem besser 
+               <lb xml:id="p001_l_7"/>werden, de[n ich habe jetzt 49 
+               <lb xml:id="p001_l_8"/>Stunden jede Woche ohne alles 
+               <lb xml:id="p001_l_9"/>andere. Das macht mich na 
+               <lb xml:id="p001_tr_1_tl_32" break="no"/>turlid sehr müde. 
+               <lb xml:id="p001_tr_1_tl_33"/>Überhaupt hat das Lernen hier etwas 
+               <lb xml:id="p001_l_10"/>Niederdrückendes. Ich bin sehr 
+               <lb xml:id="p001_l_11"/>selbstandig u. merke nicht viel</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0765_002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l"/>von Institutsvorschriften. Aber ich 
+               <lb xml:id="p002_l_1"/>kan[ mich nicht an die Leute hier 
+               <lb xml:id="p002_l_3"/>gewöhnen. Meine Freundin[en sind 
+               <lb xml:id="p002_tr_1_tl_10"/>ein paar kleine Mädchen, darunter 
+               <lb xml:id="p002_tr_1_tl_11"/>das kleinste u. jünfste Wesen der 
+               <lb xml:id="p002_l_2"/>ganzen Schule. Dass <hi rendition="#u">ich</hi> von ihnen 
+               <lb xml:id="p002_l_4"/>nicht viel habe, stört mich nicht. 
+               <lb xml:id="p002_l_6"/>Sie sind dankbarer u. feinfühliger 
+               <lb xml:id="p002_l_7"/>als Viele, die sich halberwachsen 
+               <lb xml:id="p002_l_8"/>wähnen ohne jede in[nere Reife des 
+               <lb xml:id="p002_tr_1_tl_26"/>Denkens. 
+               <lb xml:id="p002_l_5"/>Was denken Sie vom Wandervogel? 
+               <lb xml:id="p002_l_10"/>Die Briefe, die ich bekom[e, sind 
+               <lb xml:id="p002_l_11"/>erfüllt vom grossen Wechsel der 
+               <lb xml:id="p002_l_13"/>letzten Wochen. Sie sind alle 
+               <lb xml:id="p002_l_14"/>lebendig geworden u. arbeiten mit 
+               <lb xml:id="p002_l_15"/>neuer Freude. Ich glaube, ich gehöre 
+               <lb xml:id="p002_tr_1_tl_48"/>nicht mehr dazu – ich bin zu weit 
+               <lb xml:id="p002_tr_1_tl_49"/>weg davon. 
+               <lb xml:id="p002_tr_1_tl_50"/>Haben Sie geschrieben? Es ist schon 
+               <lb xml:id="p002_l_9"/>lange her, seit ich Sie zum letzten 
+               <lb xml:id="p002_l_16"/>Mal geschl. habe. 
+               <lb xml:id="p002_tr_1_tl_56"/>Ihre An[emarie</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0765_003.jpg"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_1"/>der 
+               <lb xml:id="p003_tr_1_tl_2"/>And</p>
+
+            <milestone unit="textregion" xml:id="p003_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_2_tl_1"/>vous 
+               <lb xml:id="p003_tr_2_tl_2"/>dée 
+               <lb xml:id="p003_tr_2_tl_3"/>dire</p>
+</div>
+       </body>
+    </text>
+ </TEI>
