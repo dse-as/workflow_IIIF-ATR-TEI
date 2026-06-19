@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0766" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0766#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0766</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0766_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0766_001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_2"/>Fetan am 17. X 
+               <lb xml:id="p001_l"/>Liebe Herr Pfarrer, 
+               <lb xml:id="p001_l_1"/>Ich danke Ihnen vielmals für Ihren 
+               <lb xml:id="p001_tr_1_tl_7"/>Brief. Ich glaube, die Feier in Rein 
+               <lb xml:id="p001_tr_1_tl_8"/>muss sehr schön gewesen sein! – 
+               <lb xml:id="p001_tr_1_tl_10"/>von mir 
+               <lb xml:id="p001_l_6"/>Warum haben Sie [von mir] <del rend="overstrike">mich</del> als werdende 
+               <lb xml:id="p001_l_5"/>Schriftstellerin geredet? Ich glaube 
+               <lb xml:id="p001_l_3"/>nicht, dass ich es jemals werden 
+               <lb xml:id="p001_l_4"/>kan[. Ich weiss überhaupt nicht, 
+               <lb xml:id="p001_tr_1_tl_22"/>was werden soll, wenn ich von hier 
+               <lb xml:id="p001_tr_1_tl_23"/>fort bin. 
+               <lb xml:id="p001_tr_1_tl_24"/>In 8–10 Tagen mache id mein 1. Examen. 
+               <lb xml:id="p001_tr_1_tl_25"/>Ein bisschen müde war ich die letzten Tage 
+               <lb xml:id="p001_tr_1_tl_26"/>u. darum sehr niedergedrückt. Aber 
+               <lb xml:id="p001_tr_1_tl_27"/>ich habe von so vielen Seiten Ermahnungen 
+               <lb xml:id="p001_tr_1_tl_28"/>bekommen, dass ich und dazu bekehrt 
+               <lb xml:id="p001_tr_1_tl_29"/>habe, nicht mehr zu lernen, sondern 
+               <lb xml:id="p001_tr_1_tl_30"/>in den Wald, u. in die Berge zu 
+               <lb xml:id="p001_tr_1_tl_31"/>gehen. Es ist so viel schöner! 
+               <lb xml:id="p001_tr_1_tl_32"/>Darum auch schreibe ich Ihnen kurz – 
+               <lb xml:id="p001_tr_1_tl_33"/>u. ich freie, mich wenn ich später 
+               <lb xml:id="p001_tr_1_tl_34"/><hi rendition="#u">mehr</hi> Zeit habe 
+               <lb xml:id="p001_l_2"/>Ihre An[emarie</p>
+</div>
+       </body>
+    </text>
+ </TEI>
