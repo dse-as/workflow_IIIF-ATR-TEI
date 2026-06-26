@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0595" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0595#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0595</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0595"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0595_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0595_001.png"/>
+            <milestone unit="textregion" xml:id="p001_r_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_1_tl_1"/>Zwischen Afrika und Europa [Typographie von Afrika – in exprssionistisch gemalten Lettern - und Europa – als serifenlos moderne Type – wiederspiegelt die Dichotomie zwischen der 'Wildheit Afrikas' und der 'geordneten Modernität Europas'. Schwarzenbachs Text stellt diese Dichotomie stellenweise in Frage ] 
+               <lb xml:id="p001_r_1_tl_2"/><hi rendition="#i">Von Annemarie Clarac Schwarzenbach</hi></p>
+
+            <milestone unit="textregion" xml:id="p001_r_3"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_3_tl_1"/><hi rendition="#i">Von der kürzlich verstorbenen Schriftstel 
+                  <lb xml:id="p001_r_3_tl_2" break="no"/>lerin Annemarie Clarac-Schwarzenbach brin 
+                  <lb xml:id="p001_r_3_tl_3" break="no"/>gen wir nachstehend ein Prosastück, das sie 
+                  <lb xml:id="p001_r_3_tl_4"/>uns nach ihrer letzten Heimkehr von einer 
+                  <lb xml:id="p001_r_3_tl_5"/>Reise gesandt hat.</hi> 
+               <lb xml:id="p001_r_3_tl_6"/>Die Red.</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_7"/>Als in Freetown die Offiziere der britischen 
+               <lb xml:id="p001_r_3_tl_8"/>Marine-Polizei unser Schiff verließen, und das 
+               <lb xml:id="p001_r_3_tl_9"/>Stampfen unserer Maschinen wieder einsetzte, hat 
+               <lb xml:id="p001_r_3_tl_10" break="no"/>ten wir – eine gemischte Schar von Passagieren – 
+               <lb xml:id="p001_r_3_tl_11"/>zum erstenmal den Eindruck, uns von Afrika zu 
+               <lb xml:id="p001_r_3_tl_12"/>entfernen.</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_13"/>Gleichzeitig hatten viele unter uns, während der 
+               <lb xml:id="p001_r_3_tl_14"/>portugiesische Dampfer vierundzwanzig Stunden in 
+               <lb xml:id="p001_r_3_tl_15"/>Freetown zur Kontrolle lag, zum erstenmal die 
+               <lb xml:id="p001_r_3_tl_16"/>Realität und die Nähe des Krieges gespürt.</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_17"/>Freetown liegt im letzten Drittel der riesigen, 
+               <lb xml:id="p001_r_3_tl_18"/>afrikanischen Westküste, noch etwas unterhalb ihrer 
+               <lb xml:id="p001_r_3_tl_19"/>am weitesten nach Westen sich bauschenden Stelle, 
+               <lb xml:id="p001_r_3_tl_20"/>die von Bathurst und von Dakar beherrscht ist. Wie 
+               <lb xml:id="p001_r_3_tl_21"/>bisher, würden wir noch mehrere Tage lang dieser 
+               <lb xml:id="p001_r_3_tl_22"/>Küste folgen, und manchmal einen Blick von ihr 
+               <lb xml:id="p001_r_3_tl_23"/>erhaschen: ein flaches, im gläsernen Licht von 
+               <lb xml:id="p001_r_3_tl_24"/>Ozean und Himmel einem toten Spiegelbild gleichen 
+               <lb xml:id="p001_r_3_tl_25" break="no"/>des Ufer, eine unhörbare, silberne Brandung, einen 
+               <lb xml:id="p001_r_3_tl_26"/>Dschungelstreifen, einen trauernden, durchsichtig 
+               <lb xml:id="p001_r_3_tl_27"/>blauen Hügelzug. Aber wir würden nicht mehr an 
+               <lb xml:id="p001_r_3_tl_28" break="no"/>legen. Das anmutige Städtchen Luanda, sein weißer 
+               <lb xml:id="p001_r_3_tl_29"/>Sand und seine rötlichen Klippen am Wildnisrand 
+               <lb xml:id="p001_r_3_tl_30"/>lagen längst hinter uns, ebenso die düstere Wildnis 
+               <lb xml:id="p001_r_3_tl_31" break="no"/>fülle von Sazaire, und die romantische Aequator 
+               <lb xml:id="p001_r_3_tl_32" break="no"/>insel San Thomé mit ihren alten Forts und Kapellen, 
+               <lb xml:id="p001_r_3_tl_33"/>und den aus dem Inneren des Urwaldes emporstei 
+               <lb xml:id="p001_r_3_tl_34" break="no"/>genden Bergkegeln. – Ja, das war noch Afrika 
+               <lb xml:id="p001_r_3_tl_35"/>gewesen, San Thomé! – wenn auch ein trotz der 
+               <lb xml:id="p001_r_3_tl_36"/>glühenden Sonne schon milderes, vom Meer ver 
+               <lb xml:id="p001_r_3_tl_37" break="no"/>brämtes, durch die alten Plantagenhäuser, die kleine 
+               <lb xml:id="p001_r_3_tl_38"/>Stierkampfarena unter Bananenbäumen, und die 
+               <lb xml:id="p001_r_3_tl_39"/>bunten Kopftücher der lustig schwatzenden Frauen 
+               <lb xml:id="p001_r_3_tl_40"/>erheitertes und traulich gemachtes Afrika. Ein 
+               <lb xml:id="p001_r_3_tl_41"/>Tropenbild, eine afrikanische Bildergalerie war das 
+               <lb xml:id="p001_r_3_tl_42"/>Inselchen Thomé gewesen, verglichen mit den Wei 
+               <lb xml:id="p001_r_3_tl_43" break="no"/>ten der Savannen, der nie endenden Tiefe des Ur 
+               <lb xml:id="p001_r_3_tl_44" break="no"/>waldes im Inneren des schwarzen Erdteils, aus dem 
+               <lb xml:id="p001_r_3_tl_45"/>wir kamen.</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_46"/>Zu ihm gehörte Freetown, und rief daher bei allen 
+               <lb xml:id="p001_r_3_tl_47"/>aus Afrika heimkehrenden Passagieren seltsame 
+               <lb xml:id="p001_r_3_tl_48"/>Gefühle und Erinnerungen wach. Sie hatten sich 
+               <lb xml:id="p001_r_3_tl_49"/>schon weit geglaubt – hatten vielleicht ihren 
+               <lb xml:id="p001_r_3_tl_50"/>Tropenhelm und ihre Khakishorts in ihrem Ein
+               <milestone unit="textregion" xml:id="p001_r"/> 
+               <lb xml:id="p001_r_tl_1" break="no"/>schiffungshafen zurückgelassen, hatten während der 
+               <lb xml:id="p001_r_tl_2"/>Fahrt auf dem Meer, wo der Wind die Hitze ver 
+               <lb xml:id="p001_r_tl_3" break="no"/>teilte und den Himmel bewegte, schon vergessen, 
+               <lb xml:id="p001_r_tl_4"/>wie sie dort, in Afrika, jahrelang gelebt hatten: 
+               <lb xml:id="p001_r_tl_5"/>unter <hi rendition="#g">einer Bleikuppel</hi>, umgürtet von 
+               <lb xml:id="p001_r_tl_6"/>Dickicht, in der lastenden Hitze ihrer Büros, Läden 
+               <lb xml:id="p001_r_tl_7"/>und Zementterrassen – immer nur halb gelebt, und 
+               <lb xml:id="p001_r_tl_8"/>im Kampf gegen das Klima, ohne die Hilfe, die 
+               <lb xml:id="p001_r_tl_9"/>von der Freude frischer Winde, munterer Bäche, 
+               <lb xml:id="p001_r_tl_10"/>ziehender Wolken und wiegender Baumkronen 
+               <lb xml:id="p001_r_tl_11"/>kommt.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_12"/>Als wir eines Morgens, vor der Dämmerung, in 
+               <lb xml:id="p001_r_tl_13"/>Freetown anlegten, waren wir wieder im Banne 
+               <lb xml:id="p001_r_tl_14"/>dieses Afrikas: der Horizont war ein Feuergürtel 
+               <lb xml:id="p001_r_tl_15"/>über dem Stahlblau des Meeres, daraus stieg der 
+               <lb xml:id="p001_r_tl_16"/>Tag auf, von einer Hitzwelle getragen, grau und 
+               <lb xml:id="p001_r_tl_17"/>blendend, obwohl die Sonne sich hinter Dunst 
+               <lb xml:id="p001_r_tl_18" break="no"/>schichten verbarg. Im Grau des Morgens sprang der 
+               <lb xml:id="p001_r_tl_19"/>Felsen von Freetown vor, einem afrikanischen 
+               <lb xml:id="p001_r_tl_20"/>Gibraltar, und im gerodeten Grün der Küste lagen 
+               <lb xml:id="p001_r_tl_21"/>die weißen Häuser der Europäer weithin verstreut, 
+               <lb xml:id="p001_r_tl_22"/>bis zum Leuchtturm und den Radiotürmen, die ein 
+               <lb xml:id="p001_r_tl_23"/>anderes Felsenriff zur Rechten krönten. Die eng 
+               <lb xml:id="p001_r_tl_24" break="no"/>lische Kontrollbehörde kam in einer Motorschaluppe 
+               <lb xml:id="p001_r_tl_25"/>an Bord – eine Schar rötlich bis schwarzbraun ver- 
+               <lb xml:id="p001_r_tl_26"/>brannter, junger Leute in Khaki oder Weiß, in 
+               <lb xml:id="p001_r_tl_27"/>Tropenhelm, kurzärmeliger Tunika, Shorts, und 
+               <lb xml:id="p001_r_tl_28"/>Kniestrümpfen.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_29"/>Während sie über die Treppen und durch die 
+               <lb xml:id="p001_r_tl_30"/>Gänge eilten, und junge englische Matrosen mit 
+               <lb xml:id="p001_r_tl_31"/>Kindergesichtern, schweren Revolvern, schweren 
+               <lb xml:id="p001_r_tl_32"/>Schuhen, und in kragenlosen Hemden sich auf dem 
+               <lb xml:id="p001_r_tl_33"/>Deck verteilten, standen die Passagiere an der Ree 
+               <lb xml:id="p001_r_tl_34" break="no"/>ling und blickten über die Bucht hinweg – aus 
+               <lb xml:id="p001_r_tl_35"/>ihrer Ruhe gestört, dumpf und betäubt von der 
+               <lb xml:id="p001_r_tl_36"/>Hitze, beunruhigt durch das Bild der Küste, der sie 
+               <lb xml:id="p001_r_tl_37"/>wohl in Gedanken folgten bis dorthin, wo sie in 
+               <lb xml:id="p001_r_tl_38"/>einer Stadt, einem Posten ihre Angehörigen, 
+               <lb xml:id="p001_r_tl_39"/>Freunde oder ein Haus zurückgelassen haben 
+               <lb xml:id="p001_r_tl_40"/>mochten ... Beunruhigt auch, weil wir uns, zum 
+               <lb xml:id="p001_r_tl_41"/>erstenmal, in einem Kriegshafen befanden.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_42"/>Wir waren nicht weit von Dakar. Am Tage 
+               <lb xml:id="p001_r_tl_43"/>zuvor waren Möbelstücke, Holzteile, Reste eines 
+               <lb xml:id="p001_r_tl_44"/>versenkten Schiffes an uns vorbeigetrieben. Jemand 
+               <lb xml:id="p001_r_tl_45"/>hatte in der Ferne ein Unterseeboot zu erkennen ge 
+               <lb xml:id="p001_r_tl_46" break="no"/>glaubt. Flugzeuge waren über uns hinweggeflogen. 
+               <lb xml:id="p001_r_tl_47"/>Aber das waren nur warnende, und wieder ver 
+               <lb xml:id="p001_r_tl_48" break="no"/>schwindende Zeichen gewesen. Jetzt sahen wir 
+               <lb xml:id="p001_r_tl_49"/>Freetown, dessen Namen wir nur aus dem Radio 
+               <lb xml:id="p001_r_tl_50"/>kannten. Und wenn sich auch der größere Teil der
+               <milestone unit="textregion" xml:id="p001_r_4"/> 
+               <lb xml:id="p001_r_4_tl_1"/>afrikanischen Kolonien im Kriege befindet, und 
+               <lb xml:id="p001_r_4_tl_2"/>man im Bewußtsein des Krieges zu leben gemeint 
+               <lb xml:id="p001_r_4_tl_3"/>hatte, so war doch der Anblick des Hafens von Free 
+               <lb xml:id="p001_r_4_tl_4" break="no"/>town eine ganz andere Wirklichkeit. Man hatte in 
+               <lb xml:id="p001_r_4_tl_5"/>den Kolonien schwarze Truppen gesehen, viele 
+               <lb xml:id="p001_r_4_tl_6"/>junge Europäer waren aufgeboten worden, Kriegs 
+               <lb xml:id="p001_r_4_tl_7" break="no"/>material war eingetroffen. Aber noch der abes 
+               <lb xml:id="p001_r_4_tl_8" break="no"/>sinische Feldzug der belgischen Kolonialtruppe 
+               <lb xml:id="p001_r_4_tl_9"/>hatte viel mehr einer leicht romantischen, abenteuer 
+               <lb xml:id="p001_r_4_tl_10" break="no"/>lichen kriegerischen Expedition geglichen, als den 
+               <lb xml:id="p001_r_4_tl_11"/>anonymen, furchtbaren Massenaktionen des moder 
+               <lb xml:id="p001_r_4_tl_12" break="no"/>nen Krieges – der Europa überschwemmt, aber 
+               <lb xml:id="p001_r_4_tl_13"/>Afrika bisher noch verschont hatte. Wohl hatten 
+               <lb xml:id="p001_r_4_tl_14"/>sich die afrikanischen Gebiete, teilweise von ihrem 
+               <lb xml:id="p001_r_4_tl_15"/>Mutterland abgeschnitten, an der Seite kriegführen 
+               <lb xml:id="p001_r_4_tl_16" break="no"/>der Mächte kämpfend, wirtschaftlich auf die Folgen 
+               <lb xml:id="p001_r_4_tl_17"/>und Forderungen des Krieges umstellen müssen, und 
+               <lb xml:id="p001_r_4_tl_18"/>jedermann, vom höchsten Beamten bis zum kleinsten 
+               <lb xml:id="p001_r_4_tl_19"/>Pflanzer, Kaufmann und Freiwilligen führte "den 
+               <lb xml:id="p001_r_4_tl_20"/>Krieg" ständig im Mund: denn der Krieg erklärte 
+               <lb xml:id="p001_r_4_tl_21"/>die Misere der Kaffeepflanzer und die Prosperität 
+               <lb xml:id="p001_r_4_tl_22"/>der Zinn-, Kupfer- und Goldgruben, die erhöhten 
+               <lb xml:id="p001_r_4_tl_23"/>Steuern, die mangelnden europäischen Produkte, 
+               <lb xml:id="p001_r_4_tl_24"/>und die Unmöglichkeit für Angestellte und Funk 
+               <lb xml:id="p001_r_4_tl_25" break="no"/>tionäre, nach abgelaufenem Dreijahres-Termin die 
+               <lb xml:id="p001_r_4_tl_26"/>"Europa-Ferien" anzutreten. Man reiste dafür in 
+               <lb xml:id="p001_r_4_tl_27"/>die Südafrikanische Union, man tröstete sich, nach 
+               <lb xml:id="p001_r_4_tl_28"/>dem Krieg werde man um so längere und schönere 
+               <lb xml:id="p001_r_4_tl_29"/>Ferienreisen in Europa machen . . . Und obwohl 
+               <lb xml:id="p001_r_4_tl_30"/>die spärlichen Nachrichten von Angehörigen im 
+               <lb xml:id="p001_r_4_tl_31"/>Mutterland – und mehr noch die fehlenden Nach 
+               <lb xml:id="p001_r_4_tl_32" break="no"/>richten von Vermißten, vielleicht Gefangenen, viel 
+               <lb xml:id="p001_r_4_tl_33" break="no"/>leicht längst Getöteten – oder die Erzählungen von 
+               <lb xml:id="p001_r_4_tl_34"/>gelegentlich eintreffenden "Refugiés" und die täg 
+               <lb xml:id="p001_r_4_tl_35" break="no"/>lichen Radioneuigkeiten hätten genügen müssen, um 
+               <lb xml:id="p001_r_4_tl_36"/>in den Kolonien die Tatsache und Tragweite des 
+               <lb xml:id="p001_r_4_tl_37"/>Weltkrieges zum Bewußtsein zu bringen – blieb 
+               <lb xml:id="p001_r_4_tl_38"/>der Krieg ein Phantom, ein Begriff, den man wie 
+               <lb xml:id="p001_r_4_tl_39"/>im Geschäfts- und Börsenleben anwandte, um eine 
+               <lb xml:id="p001_r_4_tl_40"/>Baisse oder Hausse, eine Maßnahme zu erklären, 
+               <lb xml:id="p001_r_4_tl_41"/>ohne daß man genau zu verstehen trachtete, was 
+               <lb xml:id="p001_r_4_tl_42"/>sich hinter diesem Begriff verbarg.</p>
+            <p> 
+               <lb xml:id="p001_r_4_tl_43"/>Unter den Passagieren nach Lissabon, die in 
+               <lb xml:id="p001_r_4_tl_44"/>Freetown die ersten, mit düsterer, grauer Schutz 
+               <lb xml:id="p001_r_4_tl_45" break="no"/>farbe bemalten Kriegsschiffe sahen, befanden sich 
+               <lb xml:id="p001_r_4_tl_46"/>viele, die jahrelang nicht in Europa gewesen waren 
+               <lb xml:id="p001_r_4_tl_47"/>– Missionare, portugiesische Kaufleute –, und die 
+               <lb xml:id="p001_r_4_tl_48"/>von den Ereignissen außerhalb des afrikanischen 
+               <lb xml:id="p001_r_4_tl_49"/>Buschs wenig wußten, und nichts wissen wollten. 
+               <lb xml:id="p001_r_4_tl_50"/>Sie wollten nach Europa zurückkehren und wollten 
+               <lb xml:id="p001_r_4_tl_51"/>die süße Heimat genau so vorfinden, wie sie sie 
+               <lb xml:id="p001_r_4_tl_52"/>vor fünf, vor zehn oder zwanzig Jahren verlassen 
+               <lb xml:id="p001_r_4_tl_53"/>hatten. Andere kehrten aus "politischen" Gründen 
+               <lb xml:id="p001_r_4_tl_54"/>nach Europa zurück, teils als Flüchtlinge, aus Pro 
+               <lb xml:id="p001_r_4_tl_55" break="no"/>test, zum Beispiel gegen die Sonderpolitik des Gene 
+               <lb xml:id="p001_r_4_tl_56" break="no"/>rals de Gaulle, teils als Freiwillige, um sich zum 
+               <lb xml:id="p001_r_4_tl_57"/>Beispiel in London der Sache der Alliierten zur 
+               <lb xml:id="p001_r_4_tl_58"/>Verfügung zu stellen, teils als aus Interniertenlagern 
+               <lb xml:id="p001_r_4_tl_59"/>Entlassene, die gegen Kriegsgefangene der anderen 
+               <lb xml:id="p001_r_4_tl_60"/>Seite ausgetauscht wurden. Nach den Begriffen 
+               <lb xml:id="p001_r_4_tl_61"/>des Krieges befanden sich also Feinde und Ver
+               <milestone unit="textregion" xml:id="p001_r_2"/> 
+               <lb xml:id="p001_r_2_tl_1" break="no"/>bündete miteinander an Bord, aber etwas verband 
+               <lb xml:id="p001_r_2_tl_2"/>sie: der Wunsch, die europäische Küste wiederzu 
+               <lb xml:id="p001_r_2_tl_3" break="no"/>sehen, das fremde Afrika mit der Erde der Heimat 
+               <lb xml:id="p001_r_2_tl_4"/>zu vertauschen, selbst wenn diese Erde verarmt, 
+               <lb xml:id="p001_r_2_tl_5"/>zerstampft, besiegt, oder bedroht war.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_6"/>Die Männer der Marine-Polizei in Freetown hät 
+               <lb xml:id="p001_r_2_tl_7" break="no"/>ten wohl über oder jenseits solcher Gefühle sein 
+               <lb xml:id="p001_r_2_tl_8"/>sollen, unabhängig davon, ob ihr Posten sich an 
+               <lb xml:id="p001_r_2_tl_9"/>der afrikanischen Sierra-Leone-Küste, im Fernen 
+               <lb xml:id="p001_r_2_tl_10"/>Osten, oder in einem europäischen Dorf befinde, 
+               <lb xml:id="p001_r_2_tl_11"/>nur auf ihre Aufgabe bedacht, und die Menschen 
+               <lb xml:id="p001_r_2_tl_12"/>nur noch einteilend und behandelnd als Freund oder 
+               <lb xml:id="p001_r_2_tl_13"/>Feind. Aber ich habe sie eine junge Frau mit 
+               <lb xml:id="p001_r_2_tl_14"/>rücksichtsvoller Höflichkeit behandeln sehen, die 
+               <lb xml:id="p001_r_2_tl_15"/>mit ihren drei kleinen Kindern die Erlaubnis, nach 
+               <lb xml:id="p001_r_2_tl_16"/>Frankreich heimzukehren, erhalten hatte, während 
+               <lb xml:id="p001_r_2_tl_17"/>ihr Mann als "Vichyst" in der freien französischer 
+               <lb xml:id="p001_r_2_tl_18"/>Kolonie interniert blieb. Als ich kurz vor der Wei 
+               <lb xml:id="p001_r_2_tl_19" break="no"/>terfahrt zum letztenmal mit den Öffizieren zusam- 
+               <lb xml:id="p001_r_2_tl_20"/>mensaß, fragten sie mich: "Werden Sie dort, wenn 
+               <lb xml:id="p001_r_2_tl_21"/>Sie in einem friedlichen Land Ihre Artikel schrei 
+               <lb xml:id="p001_r_2_tl_22" break="no"/>ben, auch den Empfang erwähnen, den Sie bei uns 
+               <lb xml:id="p001_r_2_tl_23"/>gefunden haben? Werden Sie sagen, daß wir auch in 
+               <lb xml:id="p001_r_2_tl_24"/>der Einsamkeit dieser afrikanischen Fieberküste 
+               <lb xml:id="p001_r_2_tl_25"/>und trotz unseres unerfreulichen Amtes, recht 
+               <lb xml:id="p001_r_2_tl_26"/>menschlich geblieben sind?"</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_27"/>Diese Polizisten und Soldaten, die in einem wahr 
+               <lb xml:id="p001_r_2_tl_28" break="no"/>haft höllischen Exil am Rande Afrikas den Krieg 
+               <lb xml:id="p001_r_2_tl_29"/>überdauerten, waren in der Tat menschlicher, warm 
+               <lb xml:id="p001_r_2_tl_30" break="no"/>herziger, und schlichter in ihren Gefühlen, als viele, 
+               <lb xml:id="p001_r_2_tl_31"/>die weitab vom Phantom des Krieges eine normale 
+               <lb xml:id="p001_r_2_tl_32"/>geschützte Existenz führend, Begriffe des Hasses, 
+               <lb xml:id="p001_r_2_tl_33"/>der Rache und totaler Siege geprägt hatten, die jeder 
+               <lb xml:id="p001_r_2_tl_34"/>Wirklichkeit entbehrten, und doch zu jenen Un 
+               <lb xml:id="p001_r_2_tl_35" break="no"/>menschlichkeiten beitragen konnten, die wir in die 
+               <lb xml:id="p001_r_2_tl_36" break="no"/>ser Zeit schon an ihrem fürchterlichen Werk sehen.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_37"/>Als der Dampfer in die rasch sinkende Tropen 
+               <lb xml:id="p001_r_2_tl_38" break="no"/>nacht hinaussteuerte und der Felsen von Freetown 
+               <lb xml:id="p001_r_2_tl_39"/>in Glut und Bläue zurückblieb, fragte ich mich, 
+               <lb xml:id="p001_r_2_tl_40"/>ob dieser Ort des Krieges zwischen den Kontinen 
+               <lb xml:id="p001_r_2_tl_41" break="no"/>ten nicht vielleicht geeignet sei, dem kämpfenden 
+               <lb xml:id="p001_r_2_tl_42"/>und leidenden Menschen seine Bestimmung wieder 
+               <lb xml:id="p001_r_2_tl_43"/>wachzurufen. Fern vom Schutz des eigenen Lan 
+               <lb xml:id="p001_r_2_tl_44" break="no"/>des, vom Trost der Heimaterde, und herausgerissen 
+               <lb xml:id="p001_r_2_tl_45"/>aus dem Kreis des ungefährdeten, "normalen" Le 
+               <lb xml:id="p001_r_2_tl_46" break="no"/>bens – zwischen den Gewalten des Meeres und den 
+               <lb xml:id="p001_r_2_tl_47"/>entfesselten Fronten des Krieges und weit vom 
+               <lb xml:id="p001_r_2_tl_48"/>Kampf um ein Stückchen Besitz und Existenz, 
+               <lb xml:id="p001_r_2_tl_49"/>nur ein Sandkorn in der Masse der in diesen Krieg 
+               <lb xml:id="p001_r_2_tl_50"/>gerissenen Menschen, muß man sich da nicht be 
+               <lb xml:id="p001_r_2_tl_51"/>sinnen, was in uns trotz allem lebendig bleibe, 
+               <lb xml:id="p001_r_2_tl_52"/>wohin unsere Liebe strebe – und die falschen Phan 
+               <lb xml:id="p001_r_2_tl_53" break="no"/>tome und hohlen Worte verwerfen?</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_54"/>Wenn die Menschen nach solcher Prüfung an 
+               <lb xml:id="p001_r_2_tl_55"/>ihre Küsten, in ihre Länder zurückkehrten, so wie 
+               <lb xml:id="p001_r_2_tl_56"/>wir jetzt der Küste Europas entgegenfuhren – 
+               <lb xml:id="p001_r_2_tl_57"/>würden sie nicht gelernt haben, daß die Begriffe 
+               <lb xml:id="p001_r_2_tl_58"/>des Krieges von Freund und Feind nichts sind, 
+               <lb xml:id="p001_r_2_tl_59"/>verglichen mit den schlichten und starken, ewigen 
+               <lb xml:id="p001_r_2_tl_60"/>Gefühlen, die wir alle teilen und die uns zu Brü 
+               <lb xml:id="p001_r_2_tl_61" break="no"/>dern machen?</p>
+</div>
+       </body>
+    </text>
+ </TEI>
