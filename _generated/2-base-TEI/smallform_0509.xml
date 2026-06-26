@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0509" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0509#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0509</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0509"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0509_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0509_0001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Molanda, Ende Juli 1941 
+               <lb xml:id="p001_tr_1_tl_2"/>Annemarie Clarac-Schwarzenbach: 
+               <lb xml:id="p001_tr_1_tl_3"/>Die Niederlagen [hs:](Titel viellecht änden ?) 
+               <lb xml:id="p001_tr_1_tl_4"/>Morgen in aller Frühe geht ein Bote nach dem nächsten 
+               <lb xml:id="p001_tr_1_tl_5"/>Posten am Kongo-Fluss ab, der 250 Kilometer von der Plantage entfernt 
+               <lb xml:id="p001_tr_1_tl_6"/>ist, und wo im Postbureau vielleicht Briefe und sogar Telegramme und 
+               <lb xml:id="p001_tr_1_tl_7"/>Zeitungen für uns liegen. Da dort die Flussdampfer, und alle vierzehn 
+               <lb xml:id="p001_tr_1_tl_8"/>Tage sogar Flugzeuge landen, können wir Post nach Leopoldville schicken, 
+               <lb xml:id="p001_tr_1_tl_9"/>und von dort in alle Welt. Aber obwohl wegen der grossen Entfernung 
+               <lb xml:id="p001_tr_1_tl_10"/>nur zweimal im Monat ein Mann nach L. geschickt werden kann, und ich 
+               <lb xml:id="p001_tr_1_tl_11"/>Zeit genug hatte, meine Post fertig zu machen, habe ich jetzt doch nur 
+               <lb xml:id="p001_tr_1_tl_12"/>Weniges bereit, und seit heute früh bin ich mehrere Stunden vor meiner 
+               <lb xml:id="p001_tr_1_tl_13"/>Maschine gesessen, vor weissen Blättern, und habe keine Zeile geschrie 
+               <lb xml:id="p001_tr_1_tl_14" break="no"/>ben. Es gibt doch viele Freunde, denen ich eine Nachricht schicken 
+               <lb xml:id="p001_tr_1_tl_15"/>möchte. Ich möchte sie wissen lassen, dass es mir gut geht, wie ich hier 
+               <lb xml:id="p001_tr_1_tl_16"/>lebe, und dass ich sie nicht vergesse. Ich möchte ihnen von meinen 
+               <lb xml:id="p001_tr_1_tl_17"/>Plänen berichten, möchte ihnen etwas über Afrika erzählen, und möchte 
+               <lb xml:id="p001_tr_1_tl_18"/>sie bitten, manchmal an mich zu denken. Ich möchte ihnen versichern, dass 
+               <lb xml:id="p001_tr_1_tl_19"/>ich bald zurückkommen werde, – wann weiss ich nicht, und auch nicht, 
+               <lb xml:id="p001_tr_1_tl_20"/>wohin, denn es hangt nicht von mir ab und meinen Wünschen und Ent- 
+               <lb xml:id="p001_tr_1_tl_21"/>schlüssen, sondern vom Krieg. Ich bin hier weit vom Krieg entfernt, und 
+               <lb xml:id="p001_tr_1_tl_22"/>sehr weit von allem, was ich bisher gekannt habe. Wenn ich zu schreiben 
+               <lb xml:id="p001_tr_1_tl_23"/>versuche, ist es, als müsse ich mich einer Fremdsprache bedienen. Und doch 
+               <lb xml:id="p001_tr_1_tl_24"/>habe ich in letzter Zeit manchmal während der Nacht lange Manuskripte 
+               <lb xml:id="p001_tr_1_tl_25"/>geschrieben, und sogar Verse. Aber was ich schrieb, war mir fremd, und 
+               <lb xml:id="p001_tr_1_tl_26"/>wenn ich es am nächsten Tag las, erkannte ich es nicht mehr. Manchmal 
+               <lb xml:id="p001_tr_1_tl_27"/>gefiel es mir doch, dann setzte ich meinen Namen darunter und schickte 
+               <lb xml:id="p001_tr_1_tl_28"/>es fort. Es beruhigte mich, eine vertraute Adresse schreiben zu können</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0509_0002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>–2– (Die Niederlagen) 
+               <lb xml:id="p002_tr_1_tl_2"/>und den Umschlag der Post zu übergeben, dann hatte ich nichts mehr [add inline: damit] 
+               <lb xml:id="p002_tr_1_tl_3"/>zu tun, und in ein paar Monaten würde irgendwo ein Mensch, der mich 
+               <lb xml:id="p002_tr_1_tl_4"/>gern hat, nicht daran zweifeln, dass ich es sei, der diese Seiten ge 
+               <lb xml:id="p002_tr_1_tl_5" break="no"/>schrieben habe, er würde die Handschrift erkennen, vielleicht sogar den 
+               <lb xml:id="p002_tr_1_tl_6"/>Stil des Manuskripts, und er würde es lesen und behalten oder drucken 
+               <lb xml:id="p002_tr_1_tl_7"/>lassen, nach seinem Gutdünken, – und sicher würde er besser darüber 
+               <lb xml:id="p002_tr_1_tl_8"/>Bescheid wissen als ich. Inzwischen würde ich weiter gelebt haben, so 
+               <lb xml:id="p002_tr_1_tl_9"/>wie heute, allein, im Urwald, auf der Plantage, auf dem Fluss, vielleicht 
+               <lb xml:id="p002_tr_1_tl_11"/>wieder in einer anderen Stadt, vielleicht mit [add above: neuen] Freunden, die ich früher 
+               <lb xml:id="p002_tr_1_tl_12"/>nicht gekannt habe, und die [add abvoe: mich] so annehmen, wie ich heute bin. 
+               <lb xml:id="p002_tr_1_tl_13"/>[p] –Am frühen morgen [sic] hörte ich wie gewöhnlich den Wagen, schluckte schnell 
+               <lb xml:id="p002_tr_1_tl_14"/>den Kaffee, den der boy mir in einer Thermosflasche gebracht hatte, und 
+               <lb xml:id="p002_tr_1_tl_15"/>lief mit dem Tropenhelm unterm Arm hinaus. Der Wagen hielt schon vor 
+               <lb xml:id="p002_tr_1_tl_16"/>meinem Haus, und wir fuhren in die Palmerei, wo die Schwarzen <del rend="overstrike">schon</del> an 
+               <lb xml:id="p002_tr_1_tl_17"/>der Arbeit waren. Sie schneiden das Gras zwischen den Palmenreihen, 
+               <lb xml:id="p002_tr_1_tl_18"/>oder hacken die unteren Palmaste ab, oder sammeln die Palmfrüchte, die 
+               <lb xml:id="p002_tr_1_tl_19"/>am Mittag in die Oelfabrik unten am Fluss [siehe Foto] gebracht, und am gleichen 
+               <lb xml:id="p002_tr_1_tl_20"/>Tag gepresst werden müssen, damit das Oel nicht sauer wird. Die Schwar 
+               <lb xml:id="p002_tr_1_tl_21" break="no"/>zen arbeiten nicht gern, und man muss sie immer beaufsichtigen, was auf 
+               <lb xml:id="p002_tr_1_tl_22"/>einer Plantage von 1200 Hektaren nicht leicht ist. Der junge Agent, ein 
+               <lb xml:id="p002_tr_1_tl_23"/>Schweizer wie der Besitzer, war mit seiner Mannschaft weit draussen, 
+               <lb xml:id="p002_tr_1_tl_24"/>etwa beim sechsten Kilometer, und frühstückte gerade. Sein Motorrad läuft 
+               <lb xml:id="p002_tr_1_tl_25"/>nicht, er bleibt darum den ganzen Tag draussen und geht erst um fünf Uhr 
+               <lb xml:id="p002_tr_1_tl_26"/>nach Hause. Seine Frau ist vor einem Jahr aus der Schweiz gekommen und 
+               <lb xml:id="p002_tr_1_tl_27"/>hat jetzt ein kleines Kind. Wir gingen noch zu den Kranken, die ein ei 
+               <lb xml:id="p002_tr_1_tl_28" break="no"/>genes Terrain mit grossen Erdhütten haben, und von fünf schwarzen</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0509_0003.jpg"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_1"/>–3– (Die Niederlagen) 
+               <lb xml:id="p003_tr_1_tl_2"/>Wärtern gepflegt werden. Ein junger Mensch mit Lungenentzündung 
+               <lb xml:id="p003_tr_1_tl_3"/>schien fast bewusstlos, und sein Vater war gekommen, um ihn in sein 
+               <lb xml:id="p003_tr_1_tl_4"/>Dorf zu holen. Wahrscheinlich wird der Kranke den Transport nicht 
+               <lb xml:id="p003_tr_1_tl_5"/>aushalten, aber der Vater behauptet, sein Sohn sei verzaubert, und er 
+               <lb xml:id="p003_tr_1_tl_6"/>müsse ihm den bösen Zauber austreiben lassen, dagegen kann man nichts 
+               <lb xml:id="p003_tr_1_tl_7"/>sagen, denn sonst wurde die Plantage schuld sein, wenn der Mann stirbt [siehe Brief an McCullers]. 
+               <lb xml:id="p003_tr_1_tl_8"/>Wir fuhren dann zurück, und beim Frühstuck besprachen wir, dass ich 
+               <lb xml:id="p003_tr_1_tl_9"/>auf der Plantage bleiben dürfe, und hier arbeiten könne, falls ich 
+               <lb xml:id="p003_tr_1_tl_10"/>aus irgendeinem Grund den Kongo nicht verlassen sollte, und das weiss 
+               <lb xml:id="p003_tr_1_tl_11"/>man heutzutage nie. Nur müsste ich dann die Lingala-Sprache lernen, 
+               <lb xml:id="p003_tr_1_tl_12"/>welche sowohl die Gombe wie die Gwaka verstehen, – aber es ist eine 
+               <lb xml:id="p003_tr_1_tl_13"/>senr primitive Sprache, und man kommt mit wenigen Worten aus. Wegen 
+               <lb xml:id="p003_tr_1_tl_14"/>des Klimas hätte ich auch keine Angst, und das Leben auf der Plantage 
+               <lb xml:id="p003_tr_1_tl_15"/>ist besser als manches andere, das ich gekannt habe. Obwohl ich nicht 
+               <lb xml:id="p003_tr_1_tl_16"/>die Absicht hatte, im Kongo zu bleiben, und über die nächste Zukunft 
+               <lb xml:id="p003_tr_1_tl_17"/>nichts weiss, hat es mich doch beruhigt, zu wissen, dass man mich hier 
+               <lb xml:id="p003_tr_1_tl_18"/>behalten würde. Diese Plantage gehört Schweizern, die vor fünfzehn 
+               <lb xml:id="p003_tr_1_tl_19"/>Jahren angekommen sind und mitten im Dschungel angefangen haben, zu 
+               <lb xml:id="p003_tr_1_tl_20"/>roden, zu pflanzen, Neger als Arbeiter heranzuziehen, und ihr Haus zu 
+               <lb xml:id="p003_tr_1_tl_21"/>bauen. Und jetzt findet man hier mitten im Urwald weite, mit Palmen 
+               <lb xml:id="p003_tr_1_tl_22"/>und Kaffesträuchern bepflanzte Landflächen, am Fluss eine Oelfabrik 
+               <lb xml:id="p003_tr_1_tl_23"/>und die Ziegelei, oben auf dem Hügel Gemüsegärten, Beete mit wunder 
+               <lb xml:id="p003_tr_1_tl_24" break="no"/>baren Blumen und grossen Blutenbüschen, Papeias, Zitronen, Orangen, 
+               <lb xml:id="p003_tr_1_tl_25"/>Tomaten, Bananen, Brotfrüchten und Ananas. Es gibt Ziegen, und sogar 
+               <lb xml:id="p003_tr_1_tl_26"/>zwei kleine Kinder [gemeit sind weisse Kinder, Kinder der einheimischen Bevölkerung gibt es gemäß den Fotografien wesentlich mehr] und ein Kalb, und zwei Pferde aus dem Tschad, die 
+               <lb xml:id="p003_tr_1_tl_27"/>hier allerdings nicht recht gedeihen wollen. Am Abend, bevor es dunkel</p>
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0509_0004.jpg"/>
+            <milestone unit="textregion" xml:id="p004_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_l"/>–4–</p>
+
+            <milestone unit="textregion" xml:id="p004_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_1_tl_1"/>wird, geht oft ein frischer Wind und rauscht leise in den Palmbäumen 
+               <lb xml:id="p004_tr_1_tl_2"/>um das Haus. Man kann vom Hügel, auf dem es steht, weit über den kleinen 
+               <lb xml:id="p004_tr_1_tl_3"/>Fluss und das dunkle Meer des Waldes hinweg blicken bis zu einem 
+               <lb xml:id="p004_tr_1_tl_4"/>blauen Hügelstreifen, den wir den Jura nennen, und der Himmel ist hoch 
+               <lb xml:id="p004_tr_1_tl_5"/>und frei, und oft voller wehender gelber Wolken. Am frühen Morgen hängt 
+               <lb xml:id="p004_tr_1_tl_6"/>oft Nebel zwischen den Palmenreihen, und man muss erst gegen acht Uhr 
+               <lb xml:id="p004_tr_1_tl_7"/>den Tropenhelm tragen, wenn die Sonne anfängt, mit dem noch dampfenden 
+               <lb xml:id="p004_tr_1_tl_8"/>Grün zu spielen. Jetzt ist es fünf Uhr abends, der boy wird mir gleich 
+               <lb xml:id="p004_tr_1_tl_9"/>mein Badewasser bringen, draussen höre ich die Vögel, die nach der Tages 
+               <lb xml:id="p004_tr_1_tl_10" break="no"/>hitze erwachen und sich freuen. Es wird ein klarer, schöner Abend, und 
+               <lb xml:id="p004_tr_1_tl_11"/>wenn ich nachher zum Haus hinübergehe, wird die ganze Pflanzung wie mit 
+               <lb xml:id="p004_tr_1_tl_12"/>Gold übergossen sein. Ja, diese Plantage ist jetzt, nach vielen Jahren 
+               <lb xml:id="p004_tr_1_tl_13"/>harter Arbeit, ein Stück wirklicher, bewohnbarer Erde, so wie wir Men 
+               <lb xml:id="p004_tr_1_tl_14" break="no"/>schen sie zum Leben brauchen, und der dunkle Urwald ringsum hat seinen 
+               <lb xml:id="p004_tr_1_tl_15"/><del rend="overstrike">Schrecken verloren. Ich weiss ja nicht immer, was ich zum</del> [Zeilenabstand im Typoskript hat vermutlich technische Gründe] 
+               <lb xml:id="p004_tr_1_tl_16"/>Schrecken verloren, der besonders uns Weisse sonst erstickt und uns 
+               <lb xml:id="p004_tr_1_tl_17"/>so entsetzliche Niederlagen bereitet. Denn er lehrt uns, die dumpfe 
+               <lb xml:id="p004_tr_1_tl_18"/>Macht der Natur zu fürchten, und unsere eigene Nichtigkeit, bis wir 
+               <lb xml:id="p004_tr_1_tl_19"/>zuletzt das Leben selbst fürchten, und uns nicht mehr wehren, und um 
+               <lb xml:id="p004_tr_1_tl_20"/>nichts mehr kämpfen, und dann ist man schon besiegt. Hier aber, auf der 
+               <lb xml:id="p004_tr_1_tl_21"/>Pflanzung, hat man jeden Tag Hoffnung, und misst sich jeden Tag am Mut, 
+               <lb xml:id="p004_tr_1_tl_22"/>den man in sich sammelt, um ein ziemlich hartes Dasein zu bestehen. 
+               <lb xml:id="p004_tr_1_tl_23"/>Man würde sich schämen, zu verkommen, während die Palm<del rend="overstrike">bäume</del>[add inline: früchte] nur gedeihen 
+               <lb xml:id="p004_tr_1_tl_24"/>und die Häuser nur stehen und die Brunnen nur singen durch der Hände 
+               <lb xml:id="p004_tr_1_tl_25"/>Arbeit. – Und wenn ich auch nichts weiss als dass ich heute lebe, es 
+               <lb xml:id="p004_tr_1_tl_26"/>wird doch genügen, dass ich das Haupt hebe und die Sprache wiederfinde 
+               <lb xml:id="p004_tr_1_tl_27"/>[hs: ]und mich an alles erinnere, das ich liebe u. was mich mit Stolz und 
+               <lb xml:id="p004_tr_1_tl_28"/>Freude erfüllt. – 
+               <lb xml:id="p004_tr_1_tl_29"/>A. Clarac-Schwarzenbach</p>
+</div>
+       </body>
+    </text>
+ </TEI>
