@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="smallform_0516"
+     type="dseas-smallform">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>smallform_0516</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl corresp="smallform_0516">
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0516_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="smallform">
+            <pb xml:id="smallform_0516_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0516_001.tif"/>
+            <milestone unit="textregion" xml:id="smallform_0516_001_r_2"/>
+            <lb xml:id="smallform_0516_001_r_2_tl_1"/>Funchal
+<lb xml:id="smallform_0516_001_r_2_tl_2"/>Von <CONV tag="g">Annemarie Clarac-Schwarzenbach</CONV><CONV tag="p">
+<lb xml:id="smallform_0516_001_r_2_tl_3"/>Auf der Fahrt von Lissabon nach Afrika legen die
+<lb xml:id="smallform_0516_001_r_2_tl_4"/>portugiesischen Dampfer in <CONV tag="g">Funchal</CONV> auf der Insel<CONV tag="g">
+<lb xml:id="smallform_0516_001_r_2_tl_5"/>Madeira</CONV> an, lange genug, damit die Reisenden
+<lb xml:id="smallform_0516_001_r_2_tl_6"/>an Land gehen, und die Bekanntschaft mit einem Ort
+<lb xml:id="smallform_0516_001_r_2_tl_7"/>machen können, den man allsbald aus ganzem Herzen
+<lb xml:id="smallform_0516_001_r_2_tl_8"/>lieben und wohl nie wieder vergessen wird. Die An¬
+<lb xml:id="smallform_0516_001_r_2_tl_9"/>fahrt den kahlen, gelben, als phantastische Silhouetten
+<lb xml:id="smallform_0516_001_r_2_tl_10"/>aus dem dunklen Meer auftauchenden Inselriffen ent¬
+<lb xml:id="smallform_0516_001_r_2_tl_11"/>lang, die Madeira vorgelagert sind, ist eintönig und
+<lb xml:id="smallform_0516_001_r_2_tl_12"/>eher bedrückend. Man ist sich wohl bewußt, daß man
+<lb xml:id="smallform_0516_001_r_2_tl_13"/>sich mitten auf dem Ozean in einem Niemandsland
+<lb xml:id="smallform_0516_001_r_2_tl_14"/>befindet, in einer Region zwischen den Kontinenten,
+<lb xml:id="smallform_0516_001_r_2_tl_15"/>und der Gedanke drängt sich auf, Madeira könne weder
+<lb xml:id="smallform_0516_001_r_2_tl_16"/>den europäischen, vertrauten Liebreiz von Portugal,
+<lb xml:id="smallform_0516_001_r_2_tl_17"/>seinem Mutterland, haben, noch afrikanische Aspekte,
+<lb xml:id="smallform_0516_001_r_2_tl_18"/>exotische Reize, tropische Fülle, oder die Großartig¬
+<lb xml:id="smallform_0516_001_r_2_tl_19"/>keit der Wüste, — diese Insel sei wohl vielmehr einer
+<lb xml:id="smallform_0516_001_r_2_tl_20"/>jener einsamen Posten, die bloß zufällig einen Namen
+<lb xml:id="smallform_0516_001_r_2_tl_21"/>tragen, bevölkert sind, einen kleinen Hafen und Leucht¬
+<lb xml:id="smallform_0516_001_r_2_tl_22"/>türme besitzen —, im übrigen aber überall sein könn¬
+<lb xml:id="smallform_0516_001_r_2_tl_23"/>ten und nirgends zugehörig sind. Meine Vorstellung
+<lb xml:id="smallform_0516_001_r_2_tl_24"/>bestärkte sich noch, als ich hörte, daß man auf Ma¬
+<lb xml:id="smallform_0516_001_r_2_tl_25"/>deira Zuckerrohr und Bananen neben nordischen Eichen
+<lb xml:id="smallform_0516_001_r_2_tl_26"/>finde, und als niemand mir sagen konnte, von was
+<lb xml:id="smallform_0516_001_r_2_tl_27"/>für Rassen die Insel vor ihrer Entdeckung durch den
+<lb xml:id="smallform_0516_001_r_2_tl_28"/>Portugiesen Joan Goncalves Zarco bewohnt gewesen
+<lb xml:id="smallform_0516_001_r_2_tl_29"/>sei. — Der Dampfer glitt dann den grünen, ziemlich
+<lb xml:id="smallform_0516_001_r_2_tl_30"/>steil ansteigenden Halden der Hauptinsel entlang, die
+<lb xml:id="smallform_0516_001_r_2_tl_31"/>von weißen Häuschen übersät, und in Felder, Gemüse¬
+<lb xml:id="smallform_0516_001_r_2_tl_32"/>gärten und Weiden aufgeteilt waren. Darüber sah
+<lb xml:id="smallform_0516_001_r_2_tl_33"/>man, auf den Kämmen, dürftige Baumreihen, und
+<lb xml:id="smallform_0516_001_r_2_tl_34"/>obwohl das Meer und die nahe Küste von schöner
+<lb xml:id="smallform_0516_001_r_2_tl_35"/>Sonne beglänzt waren, tauchten jene dunkelgrauen
+<lb xml:id="smallform_0516_001_r_2_tl_36"/>Hügelkämme bald in verhüllende Nebelschwaden und
+<lb xml:id="smallform_0516_001_r_2_tl_37"/>Wolken, — ähnlich wie an einem gewitterhaften Tag
+<lb xml:id="smallform_0516_001_r_2_tl_38"/>in Oesterreich oder in der Schweiz.</CONV><CONV tag="p">
+<lb xml:id="smallform_0516_001_r_2_tl_39"/>Nun besaß also Madeira schon die Wirklichkeit sei¬
+<lb xml:id="smallform_0516_001_r_2_tl_40"/>ner ansteigenden, reich gegliederten Hügel, die noch
+<lb xml:id="smallform_0516_001_r_2_tl_41"/>mannigfaltiger schienen durch das Spiel weicher, über
+<lb xml:id="smallform_0516_001_r_2_tl_42"/>das Grün der Wiesen gleitenden Schatten, — was
+<lb xml:id="smallform_0516_001_r_2_tl_43"/>alles nur als zärtlicher Hintergrund diente für die
+<lb xml:id="smallform_0516_001_r_2_tl_44"/>kleine Stadt Funchal, deren weißer, um einen Platz
+<lb xml:id="smallform_0516_001_r_2_tl_45"/>und eine Kathedrale gescharter Kern in der Hafen¬
+<lb xml:id="smallform_0516_001_r_2_tl_46"/>bucht lag, die sich aber mit Gärten, an Rebenmäuerchen
+<lb xml:id="smallform_0516_001_r_2_tl_47"/>gelagerten Häuschen, von Blumen überladenen Ter¬<milestone unit="textregion" xml:id="smallform_0516_001_r_3"/>
+            <lb xml:id="smallform_0516_001_r_3_tl_1"/>rassen, Klosterkirchen und wie Adern verlaufenden
+<lb xml:id="smallform_0516_001_r_3_tl_2"/>Gäßchen und Wegen nach allen Seiten hin ausbrei¬
+<lb xml:id="smallform_0516_001_r_3_tl_3"/>tete. Kaum am Quai gelandet, begegnete man dem
+<lb xml:id="smallform_0516_001_r_3_tl_4"/>fast unglaublichen Licht violetter Blütenbäume, gan¬
+<lb xml:id="smallform_0516_001_r_3_tl_5"/>zer Alleen großer Jacarandas, einer einzigen in der
+<lb xml:id="smallform_0516_001_r_3_tl_6"/>Nachmittagsluft schwebenden Vision, so zart und süß
+<lb xml:id="smallform_0516_001_r_3_tl_7"/>wie Orchideen, und so viel samtene Wärme verbrei¬
+<lb xml:id="smallform_0516_001_r_3_tl_8"/>tend, daß fortan die Mauern und selbst das wie Me¬
+<lb xml:id="smallform_0516_001_r_3_tl_9"/>tall polierte, schwärzliche Pflaster der Gassen wie ge¬
+<lb xml:id="smallform_0516_001_r_3_tl_10"/>tränkt mit Violett, diese Farbe betörend auszustrahlen
+<lb xml:id="smallform_0516_001_r_3_tl_11"/>schienen. Die Häuserfronten von Funchal sind schlicht,
+<lb xml:id="smallform_0516_001_r_3_tl_12"/>meistens weiß, haben schmale Balkone mit eisernen
+<lb xml:id="smallform_0516_001_r_3_tl_13"/>Geländern, und hohe, schöne Fenster mit grün gestri¬
+<lb xml:id="smallform_0516_001_r_3_tl_14"/>chenen Läden. Durch offene Tore sieht man in kühle
+<lb xml:id="smallform_0516_001_r_3_tl_15"/>Hallen mit getünchten, oft von maurischen Kacheln
+<lb xml:id="smallform_0516_001_r_3_tl_16"/>durchsetzten Wänden, und das braune Holz breiter
+<lb xml:id="smallform_0516_001_r_3_tl_17"/>Treppenaufgänge. Und immer erblickt man hinter
+<lb xml:id="smallform_0516_001_r_3_tl_18"/>ziemlich hohen Mauern, durch maurisch geschwungene
+<lb xml:id="smallform_0516_001_r_3_tl_19"/>Oeffnungen und stattliche Gittertore, die helle Fülle
+<lb xml:id="smallform_0516_001_r_3_tl_20"/>von herrlichen Blumen, blühenden Sträuchern, tro¬
+<lb xml:id="smallform_0516_001_r_3_tl_21"/>pischen Früchten und Fuchsien, überwucherten Brunnen
+<lb xml:id="smallform_0516_001_r_3_tl_22"/>und Teichen, die schattige Geborgenheit von Gärten
+<lb xml:id="smallform_0516_001_r_3_tl_23"/>und Höfen, — darüber Loggien, von denen der Blick
+<lb xml:id="smallform_0516_001_r_3_tl_24"/>frei schweift über Dächer, gestufte Gassen, die Fächer
+<lb xml:id="smallform_0516_001_r_3_tl_25"/>von Bananen und Palmen, und Rebenterrassen hin¬
+<lb xml:id="smallform_0516_001_r_3_tl_26"/>weg bis zum Meer. Es lag jetzt im Abend besänftigt,
+<lb xml:id="smallform_0516_001_r_3_tl_27"/>sein tiefes Blau zerfloß im helleren des Himmels,
+<lb xml:id="smallform_0516_001_r_3_tl_28"/>zwei Kriegsschiffe und der Afrikadampfer ruhten mit
+<lb xml:id="smallform_0516_001_r_3_tl_29"/>stillgelegten Maschinen zwischen den Flottillen kleiner
+<lb xml:id="smallform_0516_001_r_3_tl_30"/>Ruderboote und Segler.</CONV><CONV tag="p">
+<lb xml:id="smallform_0516_001_r_3_tl_31"/>In der Stadt ging es nicht sehr laut zu, aber
+<lb xml:id="smallform_0516_001_r_3_tl_32"/>emsig und heiter. In den Kellern einer Weinfabrik
+<lb xml:id="smallform_0516_001_r_3_tl_33"/>sah ich riesige Fässer, worin unter Dampfdruck die
+<lb xml:id="smallform_0516_001_r_3_tl_34"/>Trauben gegoren wurden, und auf Gestellen Hunderte
+<lb xml:id="smallform_0516_001_r_3_tl_35"/>von Flaschen zwanzig-, vierzig- und hundertjährigen
+<lb xml:id="smallform_0516_001_r_3_tl_36"/>Madeiras. In einer engen, von schönen Häusern ge¬
+<lb xml:id="smallform_0516_001_r_3_tl_37"/>säumten Gasse hörte ich Gesang von Mädchenstimmen
+<lb xml:id="smallform_0516_001_r_3_tl_38"/>so zärtlich und andächtig in der Stille der frühen,
+<lb xml:id="smallform_0516_001_r_3_tl_39"/>milden Abendstunde, und sah hinter weit offenen Fen¬
+<lb xml:id="smallform_0516_001_r_3_tl_40"/>stern eine Klasse kleiner Klosterschülerinnen. Dann
+<lb xml:id="smallform_0516_001_r_3_tl_41"/>führte mich die in Weiß gekleidete Oberin der Fran¬
+<lb xml:id="smallform_0516_001_r_3_tl_42"/>ziskanerinnen von Santa Clara in ihre Kirche, die
+<lb xml:id="smallform_0516_001_r_3_tl_43"/>Goncalves Zarco selbst als zweite Kirche auf Madeira
+<lb xml:id="smallform_0516_001_r_3_tl_44"/>im Jahre 1492 gegründet hat, und wo er unter in
+<lb xml:id="smallform_0516_001_r_3_tl_45"/>Stein gemeißelten Tieren und Inschriften begraben
+<lb xml:id="smallform_0516_001_r_3_tl_46"/>liegt. Im Garten des Klosters, wo die alten Gemäuer
+<lb xml:id="smallform_0516_001_r_3_tl_47"/>unter Heckenrosen verschwanden, fragten mich die
+<lb xml:id="smallform_0516_001_r_3_tl_48"/>Schwestern nach dem Verlauf des Krieges. Ich sah,<milestone unit="textregion" xml:id="smallform_0516_001_r"/>
+            <lb xml:id="smallform_0516_001_r_tl_1"/>während sie mir zuhörten, auf ihren freundlichen Ge¬
+<lb xml:id="smallform_0516_001_r_tl_2"/>sichtern und im schönen, hellen Blick der Oberin einen
+<lb xml:id="smallform_0516_001_r_tl_3"/>solchen Frieden, eine so beinahe heitere Versöhnthei¬
+<lb xml:id="smallform_0516_001_r_tl_4"/>mit diesem Leben, dessen Gesetze sie offenbar besser
+<lb xml:id="smallform_0516_001_r_tl_5"/>durchschauten als ich, daß mir beklommen zumute
+<lb xml:id="smallform_0516_001_r_tl_6"/>wurde: ich hörte jetzt die Abendglocken schwingen, die
+<lb xml:id="smallform_0516_001_r_tl_7"/>Blütenbüsche bewegten sich in leichtem, erfrischendem
+<lb xml:id="smallform_0516_001_r_tl_8"/>Wind, die Schwestern entließen ihre im Garten noch
+<lb xml:id="smallform_0516_001_r_tl_9"/>spielenden Schülerinnen und schickten sich zum Gebet
+<lb xml:id="smallform_0516_001_r_tl_10"/>an, und ich wäre gerne dageblieben, um zu lernen, wie
+<lb xml:id="smallform_0516_001_r_tl_11"/>man lebt, fern von Europa, von unserer unter Alb¬
+<lb xml:id="smallform_0516_001_r_tl_12"/>druck und fürchterlichen Aengsten leidenden Welt.</CONV><CONV tag="p">
+<lb xml:id="smallform_0516_001_r_tl_13"/>Als ich in später Nacht wieder auf dem Dampfer
+<lb xml:id="smallform_0516_001_r_tl_14"/>war, kreuzten tief unten auf dem schwarzen Wasser
+<lb xml:id="smallform_0516_001_r_tl_15"/>drei Boote, in jedem ein Ruderer, und ein nackter,
+<lb xml:id="smallform_0516_001_r_tl_16"/>kräftiger, gebräunter Knabe, dessen glatter Körper
+<lb xml:id="smallform_0516_001_r_tl_17"/>von einer Fackel beleuchtet wurde, und wie zur Schau
+<lb xml:id="smallform_0516_001_r_tl_18"/>gestellt und dekoriert durch einen am Heck des Bootes
+<lb xml:id="smallform_0516_001_r_tl_19"/>befestigten Blumenstrauß. Sie warteten darauf, daß
+<lb xml:id="smallform_0516_001_r_tl_20"/>die Passagiere ihnen einen Escudo herabwürfen, die,
+<lb xml:id="smallform_0516_001_r_tl_21"/>Ruderer priesen ihre Taucherknaben an, die schweigend
+<lb xml:id="smallform_0516_001_r_tl_22"/>dasaßen. Dann sprangen vom höchsten Deck des Damp¬
+<lb xml:id="smallform_0516_001_r_tl_23"/>fers andere Knaben ins Wasser, wurden in die Boote
+<lb xml:id="smallform_0516_001_r_tl_24"/>gezogen, von ihren Freunden mit Handtüchern troc¬
+<lb xml:id="smallform_0516_001_r_tl_25"/>kengerieben, — und die kleine Flotte glitt im roten
+<lb xml:id="smallform_0516_001_r_tl_26"/>Schein ihrer Fackeln dem Hafen zu. Dort lag der
+<lb xml:id="smallform_0516_001_r_tl_27"/>Quai von Funchal mit seinen weißen Häusern und
+<lb xml:id="smallform_0516_001_r_tl_28"/>dem Turm seiner Kathedrale erleuchtet wie auf einer
+<lb xml:id="smallform_0516_001_r_tl_29"/>Bühne. Dahinter waren die Hügel wie ein Sternhim¬
+<lb xml:id="smallform_0516_001_r_tl_30"/>mel von Lichtern übersät. Und man sah, an den
+<lb xml:id="smallform_0516_001_r_tl_31"/>äußersten Rändern der Stadt in sanft ausschwingen¬
+<lb xml:id="smallform_0516_001_r_tl_32"/>den Kurven, in der Mitte gerade und steil ansteigend,
+<lb xml:id="smallform_0516_001_r_tl_33"/>ganz zuletzt dann spiralförmig sich emporwindend, die
+<lb xml:id="smallform_0516_001_r_tl_34"/>Wege, durch Lichterreihen bezeichnet, die aus Funchal
+<lb xml:id="smallform_0516_001_r_tl_35"/>zu den Hügeln hinaufführen. Hoch oben brachen sie
+<lb xml:id="smallform_0516_001_r_tl_36"/>plötzlich ab, sie waren dort zu Ende, wo offenbar die
+<lb xml:id="smallform_0516_001_r_tl_37"/>Welt zu Ende war, und diese ins Dunkel weisenden
+<lb xml:id="smallform_0516_001_r_tl_38"/>Straßen schienen dazu einzuladen, ihnen zu folgen,
+<lb xml:id="smallform_0516_001_r_tl_39"/>über jenen Rand hinaus, ganz gleich welches gewaltige
+<lb xml:id="smallform_0516_001_r_tl_40"/>Nichts dann sich öffnen werde ...</CONV><CONV tag="p">
+<lb xml:id="smallform_0516_001_r_tl_41"/>Ich hing an diesem nächtlichen Bild von Funchal,
+<lb xml:id="smallform_0516_001_r_tl_42"/>das sich bald, in der ersten Morgenstunde, wieder be¬
+<lb xml:id="smallform_0516_001_r_tl_43"/>leben und füllen mußte mit so viel Sonne, Atem,
+<lb xml:id="smallform_0516_001_r_tl_44"/>Gesang, Duft von Blumen, Weinen und Früchten,
+<lb xml:id="smallform_0516_001_r_tl_45"/>dem Tritt seiner Ochsen, den schwingenden Glocken in
+<lb xml:id="smallform_0516_001_r_tl_46"/>allen seinen Türmen!</CONV><CONV tag="p">
+<lb xml:id="smallform_0516_001_r_tl_47"/>Aber unser Dampfer hatte sich gewendet und glitt
+<lb xml:id="smallform_0516_001_r_tl_48"/>jetzt unaufhaltsam von Funchal hinweg nach Süden.</CONV></div>
+      </body>
+   </text>
+</TEI>
