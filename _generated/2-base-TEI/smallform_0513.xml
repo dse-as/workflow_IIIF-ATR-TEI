@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0513" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0513#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0513</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0513"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0513_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0513_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_r_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_1_tl_1"/>Zwischen den Kontinenten</p>
+
+            <milestone unit="textregion" xml:id="p001_r_3"/>            <p> 
+               <lb xml:id="p001_r_3_tl_1"/>Seit gestern abend befinden sich die Reisenden 
+               <lb xml:id="p001_r_3_tl_2"/>dieses kleinen portugiesischen Dampfers auf einer 
+               <lb xml:id="p001_r_3_tl_3"/>schwer definierbaren Demarkationslinie, – weit 
+               <lb xml:id="p001_r_3_tl_4"/>genug von der äussersten Westküste Europas ent 
+               <lb xml:id="p001_r_3_tl_5" break="no"/>fernt, damit die Trennung vollzogen sei, zu nahe 
+               <lb xml:id="p001_r_3_tl_6"/>vom afrikanischen Ufer, als dass der Eindruck 
+               <lb xml:id="p001_r_3_tl_7"/>stark werden könnte, man sei im Bereich der Frei 
+               <lb xml:id="p001_r_3_tl_8" break="no"/>heit der Meere. Die Frage wurde mehrmals laut, 
+               <lb xml:id="p001_r_3_tl_9"/>ob die Insel Madeira, wo wir morgen anlegen wer 
+               <lb xml:id="p001_r_3_tl_10" break="no"/>den, eigentlich zu Europa zu rechnen sei, oder zu 
+               <lb xml:id="p001_r_3_tl_11"/>Afrika und man entschied nur, sie sei jedenfalls 
+               <lb xml:id="p001_r_3_tl_12"/>portugiesisch [Portugal wird spätestens 1941 von Schwarzenbach als weiteres positivies Limes-Land beschrieben: Kein Krieg, (vermeintlich) keine Diktatur; die Schwelle zu bzw. von Europa ohne von der europäischen Katastrophe direkt betroffen zu sein]. Es wird also dort keine Passforma 
+               <lb xml:id="p001_r_3_tl_13" break="no"/>litäten geben, und sogar 
+               <lb xml:id="p001_r_3_tl_14"/>Post soll man aufgeben 
+               <lb xml:id="p001_r_3_tl_15"/>dürfen. Das rief allge 
+               <lb xml:id="p001_r_3_tl_16" break="no"/>meine Ueberraschung her 
+               <lb xml:id="p001_r_3_tl_17" break="no"/>vor, denn in Lissabon hiess 
+               <lb xml:id="p001_r_3_tl_18"/>es eben noch, einmal auf 
+               <lb xml:id="p001_r_3_tl_19"/>dem Afrika-Dampfer ein 
+               <lb xml:id="p001_r_3_tl_20" break="no"/>geschifft, sei man auch 
+               <lb xml:id="p001_r_3_tl_21"/>schon abgeschnitten, – 
+               <lb xml:id="p001_r_3_tl_23"/>auf unbestimmte, und also 
+               <lb xml:id="p001_r_3_tl_24"/>vielleicht sehr lange Zeit 
+               <lb xml:id="p001_r_3_tl_25"/>hinaus. Die Neuigkeit we- 
+               <lb xml:id="p001_r_3_tl_26"/>gen Madeira hatte sogar 
+               <lb xml:id="p001_r_3_tl_27"/>eine fast bestürzende Wir 
+               <lb xml:id="p001_r_3_tl_28" break="no"/>kung, denn wie viele unter 
+               <lb xml:id="p001_r_3_tl_29"/>uns haben sich gestern in 
+               <lb xml:id="p001_r_3_tl_30"/>Lissabon von einem Stück 
+               <lb xml:id="p001_r_3_tl_31"/>Leben, einem geliebten 
+               <lb xml:id="p001_r_3_tl_32"/>Menschen, der Heimat, 
+               <lb xml:id="p001_r_3_tl_33"/>einer letzten Hoffnung getrennt, und haben noch 
+               <lb xml:id="p001_r_3_tl_34"/>kaum gelernt, den Abschiedsschmerz zu lindern 
+               <lb xml:id="p001_r_3_tl_35"/>und zu ertragen. Aber das Schiff nahm seinen 
+               <lb xml:id="p001_r_3_tl_36"/>Lauf, und als man heute beim Erwachen ringsum 
+               <lb xml:id="p001_r_3_tl_37"/>nur die glänzende, bewegte Fläche des Ozeans sah, 
+               <lb xml:id="p001_r_3_tl_38"/>fügte man sich leichter: es war keiner da, an den 
+               <lb xml:id="p001_r_3_tl_39"/>man eine Klage hätte richten können, also schwieg 
+               <lb xml:id="p001_r_3_tl_40"/>man, und das Leben ging doch weiter, so wie der 
+               <lb xml:id="p001_r_3_tl_41"/>Tag Stunde um Stunde verrann. – Jetzt wird die 
+               <lb xml:id="p001_r_3_tl_42"/>Reise morgen schon unterbrochen! – Wir werden 
+               <lb xml:id="p001_r_3_tl_43"/>plötzlich frei sein, an Land zu gehen, Adressen 
+               <lb xml:id="p001_r_3_tl_44"/>zu schreiben, uns an Freunde und gegen Feinde 
+               <lb xml:id="p001_r_3_tl_45"/>zu wenden [an wen hat Schwarzenbach von Madeira aus geschrieben? Falls an die Manns, so ist der nächste Satz auch biographisch zu lesen: Die Hoffnung, dass sich das Verstummen während ihrer amerikanischen Krise 'aufhebt'], von denen wir allerdings keine Ant 
+               <lb xml:id="p001_r_3_tl_46" break="no"/>wort erhalten werden, – aber sie werden sich, 
+               <lb xml:id="p001_r_3_tl_47"/>in den fernen Orten, doch eines Tages an uns 
+               <lb xml:id="p001_r_3_tl_48"/>erinnern: und so lange leben wir, nur so lange, 
+               <lb xml:id="p001_r_3_tl_49"/>nur im Spiegel und Echo, welche die tötliche Iso 
+               <lb xml:id="p001_r_3_tl_50" break="no"/>lierung aufheben.</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_51"/>Es gibt Strecken und Zeiträume, da verliert die 
+               <lb xml:id="p001_r_3_tl_52"/>Frage, wo man sich eigentlich befinde, ihre Be 
+               <lb xml:id="p001_r_3_tl_53" break="no"/>deutung. Auf der Ueberfahrt zwischen Europa 
+               <lb xml:id="p001_r_3_tl_54"/>und Amerika ist dies nicht der Fall, das Fähnchen 
+               <lb xml:id="p001_r_3_tl_55"/>rückt auf der Verbindungslinie vor, die Uhr wird 
+               <lb xml:id="p001_r_3_tl_56"/>täglich und regelmässig umgestellt, und der 
+               <lb xml:id="p001_r_3_tl_57"/>Zweck der Reise kann nur sein, die Entfernung
+               <milestone unit="textregion" xml:id="p001_r"/> 
+               <lb xml:id="p001_r_tl_1"/>zwischen zwei zufällig durch einen Ozean von 
+               <lb xml:id="p001_r_tl_2" break="no"/>einander getrennten Erdteilen möglichst rasch und 
+               <lb xml:id="p001_r_tl_3"/>bequem zu überwinden. Was man auch über die 
+               <lb xml:id="p001_r_tl_4"/>tiefe Verschiedenheit der neuen und der alten Welt 
+               <lb xml:id="p001_r_tl_5"/>sagen möge, – die neue ist doch nur ein anderer 
+               <lb xml:id="p001_r_tl_6"/>Aspekt unserer alten, abendländischen Gesittung, 
+               <lb xml:id="p001_r_tl_7"/>und zählt als Indianerland nicht mehr. –</p>
+            <p> 
+               <lb xml:id="p001_r_tl_8"/>Ganz anders ist es, wenn einer den Schritt von 
+               <lb xml:id="p001_r_tl_9"/>Europa nach Asien hinein tut, es ist meistens 
+               <lb xml:id="p001_r_tl_10"/>wirklich nur ein Schritt, etwa vom europäischen 
+               <lb xml:id="p001_r_tl_11"/>Bosporus-Ufer an das anatolische, oder an irgend 
+               <lb xml:id="p001_r_tl_12" break="no"/>einer Stelle im grossen Russland, – da gibt es
+               <milestone unit="textregion" xml:id="p001_r_6"/> 
+               <lb xml:id="p001_r_6_tl_1"/>keine Scheide, der Balkan ist türkisch, Spanien 
+               <lb xml:id="p001_r_6_tl_2"/>maurisch, in Syrien stehen griechische Säulen 
+               <lb xml:id="p001_r_6_tl_3"/>und in Turkestan findet man Alexandermünzen, es 
+               <lb xml:id="p001_r_6_tl_4"/>ist alles eine einzige, unsere Welt.</p>
+            <p> 
+               <lb xml:id="p001_r_6_tl_5"/>Hier aber, – in diesem kleinen Meeresraum, 
+               <lb xml:id="p001_r_6_tl_6"/>einem Dreieck zwischen Madeira und zwei Erd 
+               <lb xml:id="p001_r_6_tl_7" break="no"/>teilen, – sind wir heute auf unserem neutralen 
+               <lb xml:id="p001_r_6_tl_8"/>Schiff im Niemandsland, haben keine Bestim 
+               <lb xml:id="p001_r_6_tl_9" break="no"/>mung, nur viele Möglichkeiten vor uns, und wis 
+               <lb xml:id="p001_r_6_tl_10" break="no"/>sen nur, woher wir kommen: von Lissabon.</p>
+            <p> 
+               <lb xml:id="p001_r_6_tl_11"/>Aber auch Lissabon bedeutete jedem der Rei 
+               <lb xml:id="p001_r_6_tl_12"/>senden etwas anderes. Für die Portugiesen, die in 
+               <lb xml:id="p001_r_6_tl_13"/>ihre Kolonien, nach Angola, oder Mozambique, 
+               <lb xml:id="p001_r_6_tl_14"/>gehen, um dort eine Stelle anzutreten oder Militär 
+               <lb xml:id="p001_r_6_tl_15" break="no"/>dienst zu tun oder auf ihre Plantage zurückkehren, 
+               <lb xml:id="p001_r_6_tl_16"/>ist Lissabon die Kapitale ihres Mutterlandes, die 
+               <lb xml:id="p001_r_6_tl_17"/>Stadt ihrer seefahrenden Ahnen, auf die sie stolz 
+               <lb xml:id="p001_r_6_tl_18"/>sind. Für sie ist diese Reise kein Abenteuer. Unter 
+               <lb xml:id="p001_r_6_tl_19"/>den Belgiern und Franzosen an Bord gibt es viele, 
+               <lb xml:id="p001_r_6_tl_20"/>die in Lissabon Wochen oder gar Monate lang 
+               <lb xml:id="p001_r_6_tl_21"/>gewartet haben, auf ein Visum oder einen Schiffs 
+               <lb xml:id="p001_r_6_tl_22" break="no"/>platz, – solche, denen das Geld ausging, und die 
+               <lb xml:id="p001_r_6_tl_23"/>von der Polizei in Gewahrsam genommen wurden, 
+               <lb xml:id="p001_r_6_tl_24"/>– andere, die als Flüchtlinge nach Portugal ka 
+               <lb xml:id="p001_r_6_tl_25" break="no"/>men, und nach einem Ausweg suchend, sich jetzt
+               <milestone unit="textregion" xml:id="p001_r_2"/> 
+               <lb xml:id="p001_r_2_tl_1"/>zufällig an die afrikanischen Küsten verschlagen 
+               <lb xml:id="p001_r_2_tl_2"/>lassen, – für sie ist Lissabon keine gute Erinne 
+               <lb xml:id="p001_r_2_tl_3" break="no"/>rung, und sie waren wohl froh, als die Schiffstaue 
+               <lb xml:id="p001_r_2_tl_4"/>gelöst wurden. Für andere wieder war der Augen 
+               <lb xml:id="p001_r_2_tl_5" break="no"/>blick schwer, als die weisse Wand des Dampfers 
+               <lb xml:id="p001_r_2_tl_6"/>sich plötzlich, unmerklich, von der Quaimauer 
+               <lb xml:id="p001_r_2_tl_7"/>entfernte, – zuerst nur einen Schritt, man konnte 
+               <lb xml:id="p001_r_2_tl_8"/>über die Reeling gebeugt, den Freunden am Ufer 
+               <lb xml:id="p001_r_2_tl_9"/>noch etwas zurufen, ihre Augen noch erkennen, – 
+               <lb xml:id="p001_r_2_tl_10"/>dann verschwanden sie, ein Gesicht in einer 
+               <lb xml:id="p001_r_2_tl_11"/>schwarzen, dicht gedrängten Menschenmasse, 
+               <lb xml:id="p001_r_2_tl_12"/>welche winkte und rief. Dann wurde der kleine 
+               <lb xml:id="p001_r_2_tl_13"/>Quai aufgeschluckt in der 
+               <lb xml:id="p001_r_2_tl_14"/>grossen Linie der Quais 
+               <lb xml:id="p001_r_2_tl_15"/>von Lissabon, wir glitten 
+               <lb xml:id="p001_r_2_tl_16"/>langsam, langsam den 
+               <lb xml:id="p001_r_2_tl_17"/>breiten Tejo hinunter, und 
+               <lb xml:id="p001_r_2_tl_18"/>die Stadt, in der man so 
+               <lb xml:id="p001_r_2_tl_19" break="no"/>eben noch gelebt hatte, lag 
+               <lb xml:id="p001_r_2_tl_20"/>nun vor uns in der Abend 
+               <lb xml:id="p001_r_2_tl_21" break="no"/>sonne wie ein Bild, glän 
+               <lb xml:id="p001_r_2_tl_22" break="no"/>zend und schon unerreich 
+               <lb xml:id="p001_r_2_tl_23" break="no"/>bar, – dann kamen die 
+               <lb xml:id="p001_r_2_tl_24"/>grünen Hügel, die Wind- 
+               <lb xml:id="p001_r_2_tl_25"/>mühlen, die weissen Häu 
+               <lb xml:id="p001_r_2_tl_26" break="no"/>ser von Estoril, – die 
+               <lb xml:id="p001_r_2_tl_27"/>Bucht von Cascais, und die 
+               <lb xml:id="p001_r_2_tl_28"/>Dunkelheit bedeckte gnä 
+               <lb xml:id="p001_r_2_tl_29" break="no"/>dig die letzten Ufer Euro 
+               <lb xml:id="p001_r_2_tl_30" break="no"/>pas, um uns den Abschied 
+               <lb xml:id="p001_r_2_tl_31"/>zu ersparen.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_32"/>Und seither also verlor die Frage ihre Bedeu 
+               <lb xml:id="p001_r_2_tl_33" break="no"/>tung, wo wir uns eigentlich befänden. Mag es 
+               <lb xml:id="p001_r_2_tl_34"/>denn Funchal sein, wo wir nächstens anlegen, oder 
+               <lb xml:id="p001_r_2_tl_35"/>schon die Cap Verdischen Inseln, mag es bis zum 
+               <lb xml:id="p001_r_2_tl_36"/>nächsten Halt eine Woche dauern oder mehr, 
+               <lb xml:id="p001_r_2_tl_37"/>nicht einmal der Kapitän weiss den genauen Fahr 
+               <lb xml:id="p001_r_2_tl_38" break="no"/>plan voraus. Und viele Passagiere wissen ihren 
+               <lb xml:id="p001_r_2_tl_39"/>Bestimmungsort nicht. Einige wollen nur irgend 
+               <lb xml:id="p001_r_2_tl_40" break="no"/>wo in Sicherheit sein, und nehmen ihre Kinder mit 
+               <lb xml:id="p001_r_2_tl_41"/>nach dem Kongo oder der Südafrikanischen Union, 
+               <lb xml:id="p001_r_2_tl_42"/>wie sie früher mit ihnen in die Schweizer Berge 
+               <lb xml:id="p001_r_2_tl_43"/>oder an einen holländischen Badeort gereist wären. 
+               <lb xml:id="p001_r_2_tl_44"/>Andere wollen um jeden Preis dorthin gelangen, 
+               <lb xml:id="p001_r_2_tl_45"/>wo heute gekämpft wird. Sie werden nötigenfalls 
+               <lb xml:id="p001_r_2_tl_46"/>auf der nächsten Insel in einen Fischerkahn um 
+               <lb xml:id="p001_r_2_tl_47" break="no"/>steigen, oder auch vier Wochen auf dem Schiff 
+               <lb xml:id="p001_r_2_tl_48"/>bleiben, und sie schlafen im stickigen Massenlager 
+               <lb xml:id="p001_r_2_tl_49"/>der dritten Klasse. Noch andere wollen nach 
+               <lb xml:id="p001_r_2_tl_50"/>Hongkong, nach Japan, nach Australien, und hof 
+               <lb xml:id="p001_r_2_tl_51" break="no"/>fen, in Lourenço Marques ein holländisches Schiff 
+               <lb xml:id="p001_r_2_tl_52"/>zu finden. Die Weltkarte, die im Salon auf einen 
+               <lb xml:id="p001_r_2_tl_53"/>riesigen Spiegel aufgemalt ist, wird jetzt eine sehr 
+               <lb xml:id="p001_r_2_tl_54"/>deutliche, greifbare Vorstellung, obwohl wir uns 
+               <lb xml:id="p001_r_2_tl_55"/>mit unserem winzigen Schiff, in welcher einsamen 
+               <lb xml:id="p001_r_2_tl_56"/>Verlorenheit dem Rand der Kontinente entlang 
+               <lb xml:id="p001_l_1"/>bewegen!</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l"/>Annemarie Clarac-Schwarzenbach.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_4"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_r_4_tl_1"/>Federzeichnung einer Szene an Deck, von dem aus (noch) die Küste sichtbar ist [von Eugen Früh]</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+</div>
+       </body>
+    </text>
+ </TEI>
