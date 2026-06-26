@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0508" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0508#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0508</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0508"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0508_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0508_0001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Annemarie Clarac-Schwarzenbach 
+               <lb xml:id="p001_tr_1_tl_2"/>Auf dem Kongo, Juli 1941 
+               <lb xml:id="p001_tr_1_tl_3"/>Wie bei uns ein Oktobertag ...</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_4"/>Eigentlich darf man hier von keinem besonderen Tag 
+               <lb xml:id="p001_tr_1_tl_5"/>sprechen, denn die Tage gehen unterschiedslos vorbei, man vergisst 
+               <lb xml:id="p001_tr_1_tl_6"/>sie zu zählen, und um das Datum kümmert sich auf dem Schiff niemand 
+               <lb xml:id="p001_tr_1_tl_7"/>ausser dem Kapitän. Aber gerade für ihn, der diese Reise ununterbrochen 
+               <lb xml:id="p001_tr_1_tl_8"/>zurücklegt, bedeutet der Kalender nicht mehr als eine Art notwendiger 
+               <lb xml:id="p001_tr_1_tl_9"/>Rechenmaschine, darüber hinaus haben die Zahlen und Namen keinen 
+               <lb xml:id="p001_tr_1_tl_10"/>wirklichen Sinn. Die einzige Wirklichkeit, die wir noch berühren 
+               <lb xml:id="p001_tr_1_tl_11"/>können, ist der Fluss, und man beginnt <del rend="overstrike">schon</del> nach kurzer Zeit sich 
+               <lb xml:id="p001_tr_1_tl_12"/>zu fragen, ob man ihn jemals wieder wird verlassen können, und ob er 
+               <lb xml:id="p001_tr_1_tl_13"/>überhaupt irgendwo ein Ende hat. Sie sagen, der Kongo sei der zweit 
+               <lb xml:id="p001_tr_1_tl_14" break="no"/>grösste Strom der Welt, und wir sind schon an Stellen vorbeigekommen, 
+               <lb xml:id="p001_tr_1_tl_15"/>wo er fünfunddreissig Kilometer breit war, – trotzdem hatte ich nie 
+               <lb xml:id="p001_tr_1_tl_16"/>gedacht, dass ein so grosser Teil unserer Erde immer gleich und 
+               <lb xml:id="p001_tr_1_tl_17"/>und von einem einzigen Bild beherrscht sein könne, und ich bin doch 
+               <lb xml:id="p001_tr_1_tl_18"/>schon viel gereist. In manchen Gegenden richtet man sich nach einem 
+               <lb xml:id="p001_tr_1_tl_19"/>Berg wie nach einem Sternbild, in anderen findet man stets wieder 
+               <lb xml:id="p001_tr_1_tl_20"/>zu einer Küste zuruck, <del rend="overstrike">oder</del> Türme dienen als Wahrzeichen, oder eine 
+               <lb xml:id="p001_tr_1_tl_21"/>Strasse begleitet einem getreulich über Hügel und durch Gebirgsket 
+               <lb xml:id="p001_tr_1_tl_22" break="no"/>ten, so wie die Grusinische Heerstrasse im Kaukasus [siehe Artikel]. Aber sogar den 
+               <lb xml:id="p001_tr_1_tl_23"/>weissen Kegel des Demawend, der wie ein Gestirn über der persischen 
+               <lb xml:id="p001_tr_1_tl_24"/>Hochebene schwebte, verlor man doch einmal aus den Augen, und überall 
+               <lb xml:id="p001_tr_1_tl_25"/>konnte man wenigstens Ausschau halten, andere <del rend="overstrike">Län</del> Taler und Länder 
+               <lb xml:id="p001_tr_1_tl_26"/>vermuten, und einen Horizont erblicken. Hier hingegen gibt es nur 
+               <lb xml:id="p001_tr_1_tl_27"/>den Strom.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_28"/>Auf beiden Seiten sind die Ufer wie dichte, grüne Kulissen, das ist 
+               <lb xml:id="p001_tr_1_tl_29"/>die Wand des Urwalds, und er ist undurchdringlich. Auf kleinen Lich 
+               <lb xml:id="p001_tr_1_tl_30" break="no"/>tungen gibt es manchmal ein Negerdorf, und manchmal öffnet sich die 
+               <lb xml:id="p001_tr_1_tl_31"/>Wand, um einem Fluss den Durchgang zu gewähren, da sieht man dann 
+               <lb xml:id="p001_tr_1_tl_32"/>anmutige Piroquen, von einem aufrecht stehenden Schwarzen gerudert 
+               <lb xml:id="p001_tr_1_tl_33"/>ins Dunkel gleiten, das ist alles. Vor uns liegen unzählige Inseln, 
+               <lb xml:id="p001_tr_1_tl_34"/>der Umkreis für das Auge ist daher nicht weit, und man kann <del rend="overstrike">daher</del> 
+               <lb xml:id="p001_tr_1_tl_35"/>nicht wissen, dass man auf einem riesigen Strom ist, der in das 
+               <lb xml:id="p001_tr_1_tl_36"/>innerste Afrika führt. Natürlich denkt man trotzdem beständig daran.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_37"/>Auf dem Schiff gibt es nur sechs weisse 
+               <lb xml:id="p001_tr_1_tl_38"/>Passagiere, und Jeder [sic] hat ein Ziel, das er möglichst bald erreichen 
+               <lb xml:id="p001_tr_1_tl_39"/>möchte. Ein schottisches Missionars-Ehepaar, das aus England zurück 
+               <lb xml:id="p001_tr_1_tl_40" break="no"/>kehrt und schon sechzehn Jahre Kongo hinter sich hat, – zwei junge 
+               <lb xml:id="p001_tr_1_tl_41"/>französische Unteroffiziere, die nach Kairo gelangen und sich in 
+               <lb xml:id="p001_tr_1_tl_42"/>Nordafrika für General De Gaulle schlagen möchten, – eine Belgierin, 
+               <lb xml:id="p001_tr_1_tl_43"/>die ihren Mann auf einem Ingenieur-Posten an der Sudan-Grenze 
+               <lb xml:id="p001_tr_1_tl_44"/>treffen wird, – und ein schweigsamer Kaufmann, der im Kivu den Handel 
+               <lb xml:id="p001_tr_1_tl_45"/>mit Gemüsen und Truthähnen betreiben will. Obwohl wir viel Zeit mit 
+               <lb xml:id="p001_tr_1_tl_46"/>Gesprächen untereinander verbringen, und ich die Pläne und Hoffnungen 
+               <lb xml:id="p001_tr_1_tl_47"/>meiner Mitreisenden schon recht gut kenne, kann ich ihnen doch nur 
+               <lb xml:id="p001_tr_1_tl_48"/>mit halbem Ohr zuhören, so, als habe, was sie erzählen, keine rechte 
+               <lb xml:id="p001_tr_1_tl_49"/>Wirklichkeit. Glauben sie wirklich an ihre zukünftigen Wiederverei 
+               <lb xml:id="p001_tr_1_tl_50" break="no"/>nigungen, und Siege? – Sind ihre Erinnerungen wirklich so stark, dass</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0508_0002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>–2– 
+               <lb xml:id="p002_tr_1_tl_2"/>sie sich daran halten, dass sie davon leben können? – Sind die 
+               <lb xml:id="p002_tr_1_tl_3"/>Wünsche, die sie vor langer Zeit und in einem anderen Land hegten, 
+               <lb xml:id="p002_tr_1_tl_4"/>heute die gleichen, und glühend genug, um auch nur einen einzigen 
+               <lb xml:id="p002_tr_1_tl_5"/>Abend hier auf dem Fluss standzuhalten? – Brennt der Kuss noch wie 
+               <lb xml:id="p002_tr_1_tl_6"/>ein Gelübde, den sie einmal empfingen, und können sie, wenn sie in 
+               <lb xml:id="p002_tr_1_tl_7"/>verzweifelt heissen und trostlosen Nächten von der Mutterzärtlich 
+               <lb xml:id="p002_tr_1_tl_8" break="no"/>keit traumen und vielleicht weinen, – können sie in solchen Tränen 
+               <lb xml:id="p002_tr_1_tl_9"/>die Einsamkeit leichter besiegen, die uns hier so recht gnadenlos 
+               <lb xml:id="p002_tr_1_tl_10"/>umgibt? ...</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_11"/><PAGE tag="continued">Ich weiss nicht, ich glaube ihnen nur halb. Sie können sich doch</PAGE> 
+               <lb xml:id="p002_tr_1_tl_12"/><PAGE tag="continued">nicht ernstlich darüber streiten, ob [unleserlich]</PAGE> 
+               <lb xml:id="p002_tr_1_tl_13"/><PAGE tag="continued">[unleserlich] die Belgier halten doch nicht im</PAGE> 
+               <lb xml:id="p002_tr_1_tl_14"/><PAGE tag="continued">Ernst jeden Flämen fü<del rend="overstrike">r</del> einen Verbrechen,</PAGE> u[addinline: U]nd unter uns ist Keiner[sic], der, 
+               <lb xml:id="p002_tr_1_tl_15"/>wenn die Not ihn ankommt, lang von der Lüge leben kann.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_16"/>Natürlich übt hier der Strom eine grosse Macht aus, denn man kann 
+               <lb xml:id="p002_tr_1_tl_17"/>nicht anders als begreifen, dass unser Leben sehr nichtig ist, und 
+               <lb xml:id="p002_tr_1_tl_18"/>dass weder Krieg noch Pestilenz ihn aufhalten, oder sein Bild 
+               <lb xml:id="p002_tr_1_tl_19"/>verändern könnten, dass uns heute abend tröstet und bis morgen. 
+               <lb xml:id="p002_tr_1_tl_20"/>Viele Dampfer sind untergegangen, viele Menschen am Fieber gestorben, 
+               <lb xml:id="p002_tr_1_tl_21"/>uns kann es morgen ereilen. Und soeben noch habe Ich mich nicht wenig 
+               <lb xml:id="p002_tr_1_tl_22"/>gefürchtet, weil ich mit Moskitostichen bedeckt auf das Schiff 
+               <lb xml:id="p002_tr_1_tl_23"/>zuruckkam, und der Kapitan mir sagte, im Dorf, wo wir angelegt hatten, 
+               <lb xml:id="p002_tr_1_tl_24"/>herrsche das gelbe Fieber. Aber dann, – ist das Leben anders, und si 
+               <lb xml:id="p002_tr_1_tl_25" break="no"/>cherer, in anderen Gegenden, wa[ä]ren wir dort, an den unbekannten 
+               <lb xml:id="p002_tr_1_tl_26"/>Küsten, geringeren Gefahren ausgesetzt, atmeteten wir in einem 
+               <lb xml:id="p002_tr_1_tl_27"/>besseren Klima leichter, und ist es endlich wichtig, auf welchen 
+               <lb xml:id="p002_tr_1_tl_28"/>Schlachtfeldern wir sterben?</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_29"/>Ich verbrachte dann die Nacht mit dem Kapitän auf der Brücke. Wir 
+               <lb xml:id="p002_tr_1_tl_30"/>legten um 2 Uhr in einem Negerdorf an, wo uns das Tam-tam der 
+               <lb xml:id="p002_tr_1_tl_31"/>Trommeln schon lang angekündigt hatte. Zwei Stunden lang trugen die 
+               <lb xml:id="p002_tr_1_tl_32"/>Schwarzen Holzlasten an Bord, denn unsere Maschine heizt mit Holz. 
+               <lb xml:id="p002_tr_1_tl_33"/>Indessen suchten wir mit dem Scheinwerfer die Ufer ab, das weisse 
+               <lb xml:id="p002_tr_1_tl_34"/>Licht glitt über Palmenwipfel und Piroquen und verweilte auf dem 
+               <lb xml:id="p002_tr_1_tl_35"/>klaren Wasser, worin sich schon die Inseln spiegelten, denen wir ein 
+               <lb xml:id="p002_tr_1_tl_36"/>wenig später entgegensteuerten. Wir hörten auch Radio, aus Moskau, 
+               <lb xml:id="p002_tr_1_tl_37"/>London, Berlin, und New York, Nachrichten, und sogar sanfte Musik, und 
+               <lb xml:id="p002_tr_1_tl_38"/>gaben dann unsere eigene Meldung nach Leopoldville durch: "Hier 
+               <lb xml:id="p002_tr_1_tl_39"/>Flussdampfer Colonel C, hier Flussdampfer Colonel C, halloh Herr 
+               <lb xml:id="p002_tr_1_tl_40"/>Direktor, der 'Colonel C' befindet sich auf dem funfhundertdreissig 
+               <lb xml:id="p002_tr_1_tl_41" break="no"/>sten Kilometer, hat in Bulongo 10 Ster Holz gefasst, 10 Ster Holz 
+               <lb xml:id="p002_tr_1_tl_42"/>in Bulongo, alles in Ordnung, gute Nacht, Herr Direktor, der 'Colonel 
+               <lb xml:id="p002_tr_1_tl_43"/>C' schaltet um und hört, Colonel C stop stop stop".</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_44"/>– Als die Schiffsglocke läutete, und wir gegen drei Uhr weiterfuh 
+               <lb xml:id="p002_tr_1_tl_45" break="no"/>ren, erkannte man im Mondlicht keine Palmen und Mangobaume mehr, 
+               <lb xml:id="p002_tr_1_tl_46"/>nur noch in weissen Dunst gehüllte Ufer und Inseln, ebensogut hatten 
+               <lb xml:id="p002_tr_1_tl_47"/>wir uns in den schwedischen Schären befinden konnen, – 
+               <lb xml:id="p002_tr_1_tl_48"/>der Kapitän <del rend="overstrike">schaltete</del>[add inline: stellte] den Radioapparat ab, und wir schauten aus 
+               <lb xml:id="p002_tr_1_tl_49"/>und schauten aus und merkten nicht, wie die Morgendämmerung begann.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_50"/>(Schluss)</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0508_0003.jpg"/>
+            <milestone unit="textregion" xml:id="p003_tr_6"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_6_tl_3"/>With all my love 
+               <lb xml:id="p003_tr_6_tl_4"/>all my tenderness 
+               <lb xml:id="p003_tr_6_tl_5"/>A.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
