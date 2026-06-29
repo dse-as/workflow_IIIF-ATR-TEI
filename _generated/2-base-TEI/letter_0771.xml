@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0771" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0771#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0771</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0771_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0771_001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Saltsjø - Dufnäs 
+               <lb xml:id="p001_tr_1_tl_2"/>6. Aug. 28 
+               <lb xml:id="p001_tr_1_tl_3"/>Confessant 
+               <lb xml:id="p001_tr_1_tl_4"/>Lieber Ernst, 
+               <lb xml:id="p001_l"/>ich habe Deinen Brief lange 
+               <lb xml:id="p001_tr_1_tl_7"/>nicht beantwortet, nicht aus 
+               <lb xml:id="p001_tr_1_tl_8"/>Interesselosigkeit, aber weil ich 
+               <lb xml:id="p001_tr_1_tl_9"/>ihn schriftlich nicht beantworten 
+               <lb xml:id="p001_l_1"/><hi rendition="#u">kan</hi>]. – ich meine es gibt Sphären, 
+               <lb xml:id="p001_tr_1_tl_12"/>und meistens sind es die des 
+               <lb xml:id="p001_tr_1_tl_13"/>Gefühls, die man erlebt hat u. 
+               <lb xml:id="p001_tr_1_tl_14"/>versteht, man hat sie aber noch 
+               <lb xml:id="p001_tr_1_tl_15"/>nicht durchdrungen. Sie <hi rendition="#u">sind</hi> 
+               <lb xml:id="p001_tr_1_tl_16"/>noch <hi rendition="#u">persönlich</hi> in uns, statt 
+               <lb xml:id="p001_tr_1_tl_17"/>umgewertet zu sein in gedanklich 
+               <lb xml:id="p001_tr_1_tl_18"/>Fassbares. Nun will ich nicht sagen 
+               <lb xml:id="p001_tr_1_tl_19"/>dass man nicht persönliches 
+               <lb xml:id="p001_l_2"/>Erleben an sich gerade so wie 
+               <lb xml:id="p001_tr_1_tl_22"/>man es an sich erfahren hat, 
+               <lb xml:id="p001_tr_1_tl_23"/>berichten kann. Aber es ist doch 
+               <lb xml:id="p001_tr_1_tl_24"/>schwer. Eine kleine Freundin schrieb 
+               <lb xml:id="p001_tr_1_tl_25"/>mir letzthin, sie sehe jetzt wie dum[ 
+               <lb xml:id="p001_tr_1_tl_26"/>es sei von mir zu verlangen, ich solle 
+               <lb xml:id="p001_l_3"/>ihr von mir genau? schreiben. Das</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0771_002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>könne man doch nicht weil man ja dann 
+               <lb xml:id="p002_tr_1_tl_2"/>auch von Anderen schreiben müsse, 
+               <lb xml:id="p002_tr_1_tl_3"/>und das gehe nicht immer. – 
+               <lb xml:id="p002_tr_1_tl_4"/>Das ist gerade was ich Dir sagen 
+               <lb xml:id="p002_tr_1_tl_5"/>wollte. Ich scheue mich nicht von mir 
+               <lb xml:id="p002_tr_1_tl_6"/>zu berichten. Aber von Anderen. 
+               <lb xml:id="p002_tr_1_tl_7"/>Ausserdem ist das, was Du in 
+               <lb xml:id="p002_tr_1_tl_8"/>Deinem Brief die lesbische Welt 
+               <lb xml:id="p002_tr_1_tl_9"/>nanntest, so verpönt, irgendwie 
+               <lb xml:id="p002_tr_1_tl_10"/>habe ich gelernt dass es den Leuten 
+               <lb xml:id="p002_tr_1_tl_11"/>Sensation bedeutet, heimliches Laster, 
+               <lb xml:id="p002_tr_1_tl_12"/>beschmutzend u. entehrend. "Unnatürlich". 
+               <lb xml:id="p002_tr_1_tl_13"/>Weil ich weiss dass Du nicht so denkst 
+               <lb xml:id="p002_tr_1_tl_14"/>kan[ ich Dir sagen dass ich warme, 
+               <lb xml:id="p002_tr_1_tl_15"/>starke Zuneigung, brennendes Freundschafts 
+               <lb xml:id="p002_tr_1_tl_16" break="no"/>gefühl, alle jungen glühenden Kräfte in 
+               <lb xml:id="p002_tr_1_tl_17"/>mir nie anders als einer Frau 
+               <lb xml:id="p002_tr_1_tl_18"/>gegenüber <del rend="overstrike">ge</del> empfunden habe, u. 
+               <lb xml:id="p002_tr_1_tl_19"/>dass ich nur Frauen mit wirklicher 
+               <lb xml:id="p002_tr_1_tl_20"/>Leidenschaft lieben kan[. Män[ern u. 
+               <lb xml:id="p002_l"/>Jünglingen gegenüber ken[e ich Kamerad 
+               <lb xml:id="p002_tr_1_tl_23" break="no"/>schaft u. Vertrauen, nur mit ihnen 
+               <lb xml:id="p002_tr_1_tl_24"/>möchte ich arbeiten, sobald ich aber 
+               <lb xml:id="p002_tr_1_tl_25"/>fühle dass sie mir als "Frau" ent 
+               <lb xml:id="p002_tr_1_tl_26" break="no"/>gegenkom[en, stossen sie wich ab bis</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0771_003.jpg"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_1"/>zum Ekel. 
+               <lb xml:id="p003_tr_1_tl_2"/>Mag das nun schlecht u. wider 
+               <lb xml:id="p003_tr_1_tl_3" break="no"/>natürlich sein: <hi rendition="#u">meine</hi> Natur 
+               <lb xml:id="p003_tr_1_tl_4"/>ist es doch. Und wäre ich das, 
+               <lb xml:id="p003_tr_1_tl_5"/>was die Anderen <hi rendition="#u">natürlich</hi> nen[en, 
+               <lb xml:id="p003_tr_1_tl_6"/>so müsste ich mich dazu zwingen, 
+               <lb xml:id="p003_tr_1_tl_7"/>n. das erst finde ich verabscheu 
+               <lb xml:id="p003_tr_1_tl_8" break="no"/>ungswürdig. 
+               <lb xml:id="p003_tr_1_tl_9"/>Mir scheint als könne das Verhältnis 
+               <lb xml:id="p003_tr_1_tl_10"/>eines Man[es zu einer Frau nie so 
+               <lb xml:id="p003_tr_1_tl_11"/>rein, so frei vom Tierischen, so zart 
+               <lb xml:id="p003_l"/>u. im Tiefsten verstehend sein<del rend="overstrike">, wie 
+                  <lb xml:id="p003_tr_1_tl_14"/>das Leben,</del> wie die Liebe von Frau zu 
+               <lb xml:id="p003_tr_1_tl_15"/>Frau. Ich weiss dass ich 
+               <lb xml:id="p003_tr_1_tl_16"/>unvergleichlich mehr leisten könnte, 
+               <lb xml:id="p003_tr_1_tl_17"/>wen[ ich eine Freundin hätte, die, 
+               <lb xml:id="p003_tr_1_tl_18"/>weiter u. reifer als ich, <del rend="overstrike">mir</del> an mich 
+               <lb xml:id="p003_tr_1_tl_19"/>glauben u. mich lieben Würde. 
+               <lb xml:id="p003_tr_1_tl_20"/>Teile davon habe 
+               <lb xml:id="p003_tr_1_tl_21"/>ich erfahren. Ich habe viele 
+               <lb xml:id="p003_tr_1_tl_22"/>Freundin[en. Aber die Freundin – 
+               <lb xml:id="p003_l_2"/>Geliebte ist nicht darunter.</p>
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0771_004.jpg"/>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_1_tl_1"/>fahre 
+               <lb xml:id="p004_tr_1_tl_3"/>in 14 Tagen <del rend="overstrike">fakom[e</del> fahre ich 
+               <lb xml:id="p004_tr_1_tl_4"/>nach Hause. Dan[ 
+               <lb xml:id="p004_tr_1_tl_5"/>möchte ich einmal 
+               <lb xml:id="p004_tr_1_tl_6"/>nach Rein kom[em. 
+               <lb xml:id="p004_tr_1_tl_7"/>Ich lasse Frau Dr. 
+               <lb xml:id="p004_tr_1_tl_8"/>Merz vielmals grüssen. 
+               <lb xml:id="p004_tr_1_tl_9"/>Hoffentlid geht es 
+               <lb xml:id="p004_tr_1_tl_10"/>Euch allen gut! 
+               <lb xml:id="p004_tr_1_tl_11"/>An[emarie.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
