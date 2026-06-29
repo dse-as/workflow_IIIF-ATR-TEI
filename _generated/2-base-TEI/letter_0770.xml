@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0770" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0770#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0770</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0770_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0770_001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>1.VII. 28/29 [Jahr mit Bleistift] [senkrechte Markierungen mit Farbstift] 
+               <lb xml:id="p001_tr_1_tl_2"/>ich habe heute Platon (Lysis) u. Nietzsche 
+               <lb xml:id="p001_tr_1_tl_3"/>(Zarathustra) gelesen. Es war wunderbar schön. 
+               <lb xml:id="p001_tr_1_tl_4"/>Lieber Ernst Merz, 
+               <lb xml:id="p001_tr_1_tl_5"/>den Plan Denner Arbeit 
+               <lb xml:id="p001_tr_1_tl_6"/>finde ich sehr schön. 
+               <lb xml:id="p001_tr_1_tl_7"/>Ist es aber möglich, 
+               <lb xml:id="p001_tr_1_tl_8"/>Sokrates auch nur ideenhaft 
+               <lb xml:id="p001_tr_1_tl_9"/>mit christlichen Gemein 
+               <lb xml:id="p001_tr_1_tl_10" break="no"/>schaften in Verbindung zu 
+               <lb xml:id="p001_tr_1_tl_11"/>bringen, da er doch durch 
+               <lb xml:id="p001_tr_1_tl_12"/>seine ideale Liebe zu 
+               <lb xml:id="p001_tr_1_tl_13"/>Knaben den Hass u. die 
+               <lb xml:id="p001_tr_1_tl_14"/>Verachtung heutiger Menschen</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0770_002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>auf sich ziehen muss – 
+               <lb xml:id="p002_tr_1_tl_2"/>[p] Solche Liebe und 
+               <lb xml:id="p002_tr_1_tl_3"/>sobald 
+               <lb xml:id="p002_tr_1_tl_4"/>Freundschaft, <del rend="overstrike">wenn</del> [sobald] sie auch 
+               <lb xml:id="p002_tr_1_tl_5"/>körperhaft ist, lässt sich 
+               <lb xml:id="p002_tr_1_tl_6"/>doch mit unserer Moral u. 
+               <lb xml:id="p002_tr_1_tl_7"/>Ethik nicht vereinbaren? 
+               <lb xml:id="p002_tr_1_tl_8"/>(ich las letzthin darüber als 
+               <lb xml:id="p002_l"/>einer der verabscheuungs 
+               <lb xml:id="p002_tr_1_tl_11" break="no"/>wurdigsten Verirrungen"). 
+               <lb xml:id="p002_tr_1_tl_13"/>[Nicht, dass mich dieser Moral 
+               <lb xml:id="p002_tr_1_tl_14" break="no"/>begriff beeinflussen wurde.] 
+               <lb xml:id="p002_tr_1_tl_15"/>Viele Grusse von 
+               <lb xml:id="p002_tr_1_tl_16"/>Mama u. Grossmama – auch an 
+               <lb xml:id="p002_tr_1_tl_17"/>Frau Dr.! 
+               <lb xml:id="p002_tr_1_tl_18"/>Herzlichst: Annemarie</p>
+</div>
+       </body>
+    </text>
+ </TEI>
