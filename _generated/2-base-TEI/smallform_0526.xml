@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0526" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0526#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0526</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0526"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0526_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0526_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_tl_1"/>Schiffs-Tagebuch 
+               <lb xml:id="p001_r_tl_2"/>von Annemarie <hi rendition="#g">Clarac</hi></p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">-Schwarzenbach 
+               <lb xml:id="p001_r_tl_3"/>IV.*)</p>
+            <p> 
+               <lb xml:id="p001_r_tl_4"/>An Bord des "Colonial" 24. Mai 1941.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_5"/>Man sah heute fliegende Fische, große, gedrungene 
+               <lb xml:id="p001_r_tl_6"/>Tiere, die schillernd emporschnellten und kopfüber 
+               <lb xml:id="p001_r_tl_7"/>wieder in die Tiefe tauchten. Das Meer hat sich ver 
+               <lb xml:id="p001_r_tl_8" break="no"/>ändert, es ist ohne Farbe, weder grau noch blau, die 
+               <lb xml:id="p001_r_tl_9"/>Sonne dringt durch die schweren Dunstschichten, trotz 
+               <lb xml:id="p001_r_tl_10" break="no"/>dem herrscht eine glanzlose Helle, welche die Augen er 
+               <lb xml:id="p001_r_tl_11" break="no"/>müdet, als schaue man in blindendes Weiß. Gestern 
+               <lb xml:id="p001_r_tl_12"/>hat es geregnet, das soll hier nicht ungewöhnlich sein, 
+               <lb xml:id="p001_r_tl_13"/>während im Inland, im Kongo und in Kamerun, die 
+               <lb xml:id="p001_r_tl_14"/>Regenzeit gerade zu Ende ist, drüben in Kenya eben 
+               <lb xml:id="p001_r_tl_15"/>erst beginnt. Am Vormittag sah man während einer 
+               <lb xml:id="p001_r_tl_16"/>halben Stunde einen Convoy französischer Schiffe die 
+               <lb xml:id="p001_r_tl_17"/>nach Dekar fahren. Manchmal hören wir Nachrichten, 
+               <lb xml:id="p001_r_tl_18"/>spanische aus Marokko, englische ans London, und por 
+               <lb xml:id="p001_r_tl_19" break="no"/>tugiesische.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_20"/>Mit der wachsenden Entfernung von Europa hat sich 
+               <lb xml:id="p001_r_tl_21"/>unsere Einstellung zum Krieg verändert. Dort war 
+               <lb xml:id="p001_r_tl_22" break="no"/>teten ganze Bevölkerungen angstvoll darauf, ob der 
+               <lb xml:id="p001_r_tl_23"/>Feind in ihr Land einbrechen, oder ihre Städte bom 
+               <lb xml:id="p001_r_tl_24" break="no"/>bardieren würde, – oder sie waren schon heimgesucht, 
+               <lb xml:id="p001_r_tl_25"/>besetzt, entwaffnet – oder befanden sich in der Sturz 
+               <lb xml:id="p001_r_tl_26" break="no"/>flut des Kampfes auf Leben und Tod. In der Schweiz 
+               <lb xml:id="p001_r_tl_27"/>war man zu einem solchen Kampf gerüstet, in Portugal 
+               <lb xml:id="p001_r_tl_28"/>hatte ich den Eindruck, man sei im voraus resigniert. 
+               <lb xml:id="p001_r_tl_29"/>Es ging immer um riesige Ereignisse, der einzelne 
+               <lb xml:id="p001_r_tl_30"/>war nur noch dazu gut, zu erleiden, was über ihn be- 
+               <lb xml:id="p001_r_tl_31"/>stimmt wurde. – Hier, in den afrikanischen Zonen, 
+               <lb xml:id="p001_r_tl_32"/>bestimmt jeder, wie er sich verhalten wolle. Der bel 
+               <lb xml:id="p001_r_tl_33" break="no"/>gische Kapitän sagt mir, er werde seinen Kongo-Damp 
+               <lb xml:id="p001_r_tl_34" break="no"/>fer auf keinen Fall ausliefern. Es ist gar keine Frage, 
+               <lb xml:id="p001_r_tl_35"/>daß diese Menschen, nachdem sie den Entschluß, wegzu 
+               <lb xml:id="p001_r_tl_36" break="no"/>gehen, gefaßt haben, sich nie einem fremden Regime 
+               <lb xml:id="p001_r_tl_37"/>fügen werden. Eine Hand voll solcher Leute können 
+               <lb xml:id="p001_r_tl_38"/>aber in Afrika darüber entscheiden, wem ein Gebiet 
+               <lb xml:id="p001_r_tl_39"/>unterstehen soll, ob man seine Weisungen vom Sieger 
+               <lb xml:id="p001_r_tl_40"/>in Europa oder von einer exilierten Regierung emp 
+               <lb xml:id="p001_r_tl_41" break="no"/>fangen soll, ob man mit Japan Handel treiben will, 
+               <lb xml:id="p001_r_tl_42"/>oder mit Indien oder Amerika. Die großen hollän 
+               <lb xml:id="p001_r_tl_43" break="no"/>dischen Handelshäuser haben heute ihren Sitz in Ba
+               <milestone unit="textregion" xml:id="p001_r_2"/> 
+               <lb xml:id="p001_r_2_tl_1" break="no"/>tavia oder Mozambique oder wo immer und keine Ver 
+               <lb xml:id="p001_r_2_tl_2" break="no"/>bindung besteht mehr mit der besetzten Heimat.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_3"/><hi rendition="#g">Freetown</hi> ist schon passiert, die Engländer haben 
+               <lb xml:id="p001_r_2_tl_4"/>uns nicht angehalten.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_5"/>Unser nächster Hafen ist <hi rendition="#g">San Thomé</hi>, die Insel 
+               <lb xml:id="p001_r_2_tl_6"/>auf dem Aequator. Das wird schon tiefes Afrika sein, 
+               <lb xml:id="p001_r_2_tl_7"/>– und ich denke immer noch an Funchal!...</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_8"/>In Freetown soll beinahe das schlechteste afrikani 
+               <lb xml:id="p001_r_2_tl_9" break="no"/>sche Klima herrschen, immer schwebe eine filzige Schicht 
+               <lb xml:id="p001_r_2_tl_10"/>von Dunst und Feuchtigkeit über der Stadt, kein Wind 
+               <lb xml:id="p001_r_2_tl_11" break="no"/>hauch belebe die Küste, die Meeresfläche sei so blei 
+               <lb xml:id="p001_r_2_tl_12" break="no"/>schwer, daß die Schiffe sich nur mühsam ihre Furche 
+               <lb xml:id="p001_r_2_tl_13"/>schaffen und mit jedem Atemzug atme man den Geruch 
+               <lb xml:id="p001_r_2_tl_14"/>des Todes. Dieser fürchterliche Beigeschmack, den man 
+               <lb xml:id="p001_r_2_tl_15"/>nie mehr vergessen könne, rühre von Sümpfen hinter 
+               <lb xml:id="p001_r_2_tl_16"/>der Stadt her, worin Tiere und Pflanzen verwesen. 
+               <lb xml:id="p001_r_2_tl_17"/>Im letzten Weltkrieg seien in Freetown ganze Be 
+               <lb xml:id="p001_r_2_tl_18" break="no"/>satzungen britischer Schiffe am gelben Fieber gestorben.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_19"/>Obwohl wir uns auf dem Schiff wegen ein wenig 
+               <lb xml:id="p001_r_2_tl_20"/>feuchter Wärme noch nicht beklagen können, und der 
+               <lb xml:id="p001_r_2_tl_21"/>Himmel schon wieder farbiger, und voller Wolkenbewe 
+               <lb xml:id="p001_r_2_tl_22" break="no"/>gung ist, kann ich mir die Nähe von Fieberküsten vor 
+               <lb xml:id="p001_r_2_tl_23" break="no"/>stellen. Sie heißen Guinea, Sierra Leone Liberia, 
+               <lb xml:id="p001_r_2_tl_24"/>Elfenbein- und Goldküste, wir können sie nicht sehen, 
+               <lb xml:id="p001_r_2_tl_25"/>legen seit Tagen und noch tagelang nirgends an – 
+               <lb xml:id="p001_r_2_tl_26"/>aber es ist ein Zufall, – so wie es für viele an Bord 
+               <lb xml:id="p001_r_2_tl_27"/>ein Zufall sein wird, wo sie schließlich landen, die näch 
+               <lb xml:id="p001_r_2_tl_28" break="no"/>sten Jahre, und vielleicht den Rest ihres Lebens ver 
+               <lb xml:id="p001_r_2_tl_29" break="no"/>bringen werden. Was machen wir aus unserem Leben, 
+               <lb xml:id="p001_r_2_tl_30"/>das kurz, an nichtige Bedingungen gebunden, gefährdet 
+               <lb xml:id="p001_r_2_tl_32"/>ist, – und doch ausreichen kann für die Atemspanne 
+               <lb xml:id="p001_r_2_tl_31"/>an Willen und Einsicht, die uns zugemessen ist. Ich 
+               <lb xml:id="p001_r_2_tl_33"/>denke dann an Funchal mit einem merkwürdig zärt 
+               <lb xml:id="p001_r_2_tl_34" break="no"/>lichen Gefühl, das beinahe wie Heimweh ist. Ich habe 
+               <lb xml:id="p001_r_2_tl_35"/>erst heute daran gedacht, daß Exkaiser Karl auf Ma 
+               <lb xml:id="p001_r_2_tl_36" break="no"/>deira gänzlich verarmt im Exil lebte und in einer der 
+               <lb xml:id="p001_r_2_tl_37"/>Kirchen von Funchal begraben wurde. Aber diese Insel, 
+               <lb xml:id="p001_r_2_tl_38"/>wo wir zwei Tage nach der Ausfahrt von Lissabon un 
+               <lb xml:id="p001_r_2_tl_39" break="no"/>erwartet anlegten, schien mir kein Ort der Verbannung 
+               <lb xml:id="p001_r_2_tl_40"/>zu sein, sondern ein wiedergefundenes irdisches Para 
+               <lb xml:id="p001_r_2_tl_41" break="no"/>dies. Zuerst stiegen nackte, zersägte Klippen aus dem 
+               <lb xml:id="p001_r_2_tl_42"/>Meer auf, sie waren die ersten Zeichen eines Landstrichs, 
+               <lb xml:id="p001_r_2_tl_43"/>der zwischen den Kontinenten liegt aus dem Ozean 
+               <lb xml:id="p001_r_2_tl_44"/>geboren wurde, und für mich zum erstenmal Gestalt an 
+               <lb xml:id="p001_r_2_tl_45" break="no"/>nahm. Die Insel schien anfangs dunkel, eher kahl und 
+               <lb xml:id="p001_r_2_tl_46"/>gebirgig, die Kämme der blaugrünen Hügel waren von 
+               <lb xml:id="p001_r_2_tl_47"/>Nebel verhängt, Wir fuhren langsam der Küste ent
+               <milestone unit="textregion" xml:id="p001_r_3"/> 
+               <lb xml:id="p001_r_3_tl_1" break="no"/>lang, die weiten Buchten füllten sich allmählich mit sanft 
+               <lb xml:id="p001_r_3_tl_2"/>ansteigenden Halden, Wiesen, Feldern, Gärten, die mit 
+               <lb xml:id="p001_r_3_tl_3"/>weißen Häuschen übersät waren. Funchal selbst ist eine 
+               <lb xml:id="p001_r_3_tl_4"/>anmutige Stadt mit schönen Fensterreihen, grünen 
+               <lb xml:id="p001_r_3_tl_5"/>Läden, schmalen Balkonen, stattlichen Toren, verschwie 
+               <lb xml:id="p001_r_3_tl_6" break="no"/>genen Gärten, deren Reichtum an lauschigen Blüten 
+               <lb xml:id="p001_r_3_tl_7" break="no"/>büschen, Bananen, und einem Ueberschwang an Blumen 
+               <lb xml:id="p001_r_3_tl_8"/>aller Sorten, Farben und Düfte jedoch über die hohen, 
+               <lb xml:id="p001_r_3_tl_9"/>alten Mauern quillt. Die stillen Gassen sind mit kleinen, 
+               <lb xml:id="p001_r_3_tl_10"/>dunklen Steinen gepflastert, die seit Jahrhunderten von 
+               <lb xml:id="p001_r_3_tl_11"/>den Ochsenschlitten poliert wurden und jetzt glatt sind 
+               <lb xml:id="p001_r_3_tl_12"/>wie Metall. Da die Stadt zwischen zwei steilen Hügeln 
+               <lb xml:id="p001_r_3_tl_13"/>emporklimmt, findet man Terrassen mit kleinen Häu- 
+               <lb xml:id="p001_r_3_tl_14"/>sern zwischen Reben, Artischocken und Obstbäumen, be 
+               <lb xml:id="p001_r_3_tl_15" break="no"/>sonnte Mauern voller Heckenrosen, Fuchsien neben 
+               <lb xml:id="p001_r_3_tl_16"/>Kürbissen und Zuckerrohr. Die Blumen blühen das 
+               <lb xml:id="p001_r_3_tl_17"/>ganze Jahr hindurch, die Luft ist weich, aber zwischen 
+               <lb xml:id="p001_r_3_tl_18"/>Meer und Bergen immer ein wenig bewegt, voller Fit 
+               <lb xml:id="p001_r_3_tl_19" break="no"/>tiche von Vögeln und Segeln, und wiegt sich im Klang 
+               <lb xml:id="p001_r_3_tl_20"/>heller Klosterglocken, Mädchenstimmen, fröhlicher Rufe. 
+               <lb xml:id="p001_r_3_tl_21"/>Man wird in Funchal nicht müde, steht lange vor rosa 
+               <lb xml:id="p001_r_3_tl_22"/>Mauern und schmiedeisernen Toren, die ein Stück Da 
+               <lb xml:id="p001_r_3_tl_23" break="no"/>seinsstille schützen, – lauscht in einer abendlichen Gasse 
+               <lb xml:id="p001_r_3_tl_24"/>auf den zarten Gesang von Klosterschülerinnen in offe 
+               <lb xml:id="p001_r_3_tl_25" break="no"/>nen Fenstern, – bleibt in der Kühle der Solars jahr 
+               <lb xml:id="p001_r_3_tl_26" break="no"/>hundertalter Häuser mit geschwärzten Tonnendecken 
+               <lb xml:id="p001_r_3_tl_27"/>aus Holz, – die Dauer der hellen, sammetweichen Nacht 
+               <lb xml:id="p001_r_3_tl_28"/>reicht nicht aus, um in einem Garten hoch über der 
+               <lb xml:id="p001_r_3_tl_29"/>Stadt Madeira zu trinken, und die Augen bleiben im 
+               <lb xml:id="p001_r_3_tl_30" break="no"/>mer berauscht vom Widerschein der violetten Jacaranda 
+               <lb xml:id="p001_r_3_tl_32" break="no"/>Bäume. Dann erinnere ich mich an ein Bild auf dem 
+               <lb xml:id="p001_r_3_tl_31"/>Meer in tiefer Dunkelheit: ein paar Barken glitten vor 
+               <lb xml:id="p001_r_3_tl_33"/>unserer hohen Bordwand auf und ab, die an der 
+               <lb xml:id="p001_r_3_tl_34"/>Ruderbank befestigten Fackeln beleuchteten Blumen 
+               <lb xml:id="p001_r_3_tl_35" break="no"/>sträuße und den nackten Oberkörper dreizehn- bis fünf 
+               <lb xml:id="p001_r_3_tl_36" break="no"/>zehnjähriger Knaben, die von dem älteren Freund, der 
+               <lb xml:id="p001_r_3_tl_37"/>die Ruder führte, den Passagieren angeboten wurden, 
+               <lb xml:id="p001_r_3_tl_38"/>damit sie nach einem in das schwarze Wasser geworfe 
+               <lb xml:id="p001_r_3_tl_39" break="no"/>nen Escudo tauchen sollten. Die Buben, die mit gesenk 
+               <lb xml:id="p001_r_3_tl_40" break="no"/>tem Kopf teilnahmslos warteten, den Blick auf das 
+               <lb xml:id="p001_r_3_tl_41"/>Meer geheftet, glichen mit ihrer braunen, glatten Haut, 
+               <lb xml:id="p001_r_3_tl_42"/>den kräftigen Schultern, den gespannten Muskeln ihrer 
+               <lb xml:id="p001_r_3_tl_43"/>schönen Glieder,athletischen Epheben. Als sie im 
+               <lb xml:id="p001_r_3_tl_44"/>Fackelschein in den Hafen zurückkehrten, war Funchal 
+               <lb xml:id="p001_r_3_tl_45"/>ausgelöscht, und man erkannte seine wirkliche Gestalt 
+               <lb xml:id="p001_r_3_tl_46"/>nur an den verteilten Lichtern wieder, welche die Bucht 
+               <lb xml:id="p001_r_3_tl_47"/>zwischen den Hügeln füllten, und sich seitlich weithin
+               <milestone unit="textregion" xml:id="p001_r_4"/> 
+               <lb xml:id="p001_r_4_tl_1"/>verstreuten. In wunderbaren Kurven sah man die 
+               <lb xml:id="p001_r_4_tl_2"/>Straßen hügelan steigen, sanfter an den Rändern der 
+               <lb xml:id="p001_r_4_tl_3"/>Stadt, steiler in der Mitte, – aber alle emporsteigend 
+               <lb xml:id="p001_r_4_tl_4"/>bis in die Leere am Rand des Nachthimmels, wo sie 
+               <lb xml:id="p001_r_4_tl_5"/>plötzlich abbrachen, wie Pfeile ins Leere stürzend.</p>
+            <p> 
+               <lb xml:id="p001_r_4_tl_6"/>Am liebsten war mir in Funchal der Besuch bei der 
+               <lb xml:id="p001_r_4_tl_7"/>weißgekleideten Oberin des Klosters Santa Clara. Sie 
+               <lb xml:id="p001_r_4_tl_8"/>war von einer klugen, lebhaften Schwester begleitet, 
+               <lb xml:id="p001_r_4_tl_9"/>und zögerte keinen Augenblick, einen etwas verwilder 
+               <lb xml:id="p001_r_4_tl_10" break="no"/>ten Fremden in langen Hosen und mit ungekämmtem 
+               <lb xml:id="p001_r_4_tl_11"/>Haar zu empfangen und in die alte Kirche des Goncal 
+               <lb xml:id="p001_r_4_tl_12" break="no"/>ves Zarco zu führen, dann in den Frieden eines von 
+               <lb xml:id="p001_r_4_tl_13"/>Mauern, Blumen, und einem ehrwürdig anmutigen 
+               <lb xml:id="p001_r_4_tl_14"/>Glockenturm umringten Gartens. Dort war es, wo ich 
+               <lb xml:id="p001_r_4_tl_15"/>mich besann, ob man darauf verzichten könne, in unsere 
+               <lb xml:id="p001_r_4_tl_16"/>Kontinente zurückzukehren, um hier besser leben zu 
+               <lb xml:id="p001_r_4_tl_17"/>lernen.</p>
+            <p> 
+               <lb xml:id="p001_l_51"/>*</p>
+            <p> 
+               <lb xml:id="p001_r_4_tl_18"/>Sonntag, 25. Mai.</p>
+            <p> 
+               <lb xml:id="p001_r_4_tl_19"/>Es gibt in diesen Breiten kein Feiertagsgeläut. Das 
+               <lb xml:id="p001_r_4_tl_20"/>Beten verlernt sich, weil man sprachlos ist vor der 
+               <lb xml:id="p001_r_4_tl_21"/>Pracht des Himmels und der Meere. Am Abend steht 
+               <lb xml:id="p001_r_4_tl_22"/>man statt springender Fische am Horizont Garben von 
+               <lb xml:id="p001_r_4_tl_23"/>Feuern, die über das Wasser gleiten, die Dunkelheit 
+               <lb xml:id="p001_r_4_tl_24"/>beglänzen, und versinken, erlöschen. Die Sterne sind 
+               <lb xml:id="p001_r_4_tl_25"/>dagegen bleich, und ich habe die Milchstraße schwanken 
+               <lb xml:id="p001_r_4_tl_26"/>sehen wie eine Hängebrücke. Die Nacht ist tief und kün 
+               <lb xml:id="p001_r_4_tl_27" break="no"/>digt sich nicht an, noch eine Stunde zuvor labten sich 
+               <lb xml:id="p001_r_4_tl_28"/>von stumpfer Weiße übermüdete Augen, und aus 
+               <lb xml:id="p001_r_4_tl_29"/>bleierner Tagesschwere hob sich beruhigt und voller 
+               <lb xml:id="p001_r_4_tl_31"/>Triumph das unauslöschliche Begehren, weil die Rän 
+               <lb xml:id="p001_r_4_tl_30" break="no"/>der des Wassers sich rundeten, zum Weltall, eine bau 
+               <lb xml:id="p001_r_4_tl_32" break="no"/>chige Wolkenwand hingegen sich senkte wie sonst nur 
+               <lb xml:id="p001_r_4_tl_33"/>über Wiesen, wo die Halme der Erde sich ihr entgegen 
+               <lb xml:id="p001_r_4_tl_34" break="no"/>strecken. Diese weißen, geballten, atemträchtigen und fast 
+               <lb xml:id="p001_r_4_tl_35"/>lieblich vertrauten Wolkenbetten sanken so tief hinab, 
+               <lb xml:id="p001_r_4_tl_36"/>bis nur ein Strich schwarzer Leere sie vom Meeres 
+               <lb xml:id="p001_r_4_tl_37" break="no"/>rand trennte, da schienen Gewitter zu drohen. Dafür 
+               <lb xml:id="p001_r_4_tl_38"/>bleibt die Ozeangrenze verklärt von mattem Grün, ist 
+               <lb xml:id="p001_r_4_tl_39"/>unantastbar, und verwandelt sich magisch in allen glei 
+               <lb xml:id="p001_r_4_tl_40" break="no"/>tenden Regenbogenfarben, aber vergeßt euch nicht, 
+               <lb xml:id="p001_r_4_tl_41"/>träumt nicht in sanft sich stillenden Rausch dieser Augen 
+               <lb xml:id="p001_r_4_tl_42" break="no"/>weide!</p>
+            <p> 
+               <lb xml:id="p001_r_4_tl_43"/>Am Rand ist das Meer, getrennt von der Verzaube 
+               <lb xml:id="p001_r_4_tl_44" break="no"/>rung wie durch eine schollige Ackerfurche, nicht einmal 
+               <lb xml:id="p001_r_4_tl_45"/>gekräuselt, durch nichts belebt, aber drohend, schwer wie 
+               <lb xml:id="p001_r_4_tl_46"/>Ton, tot wie der safrangelbe Mond, und erstickt vom
+               <milestone unit="textregion" xml:id="p001_r_38"/> 
+               <lb xml:id="p001_l"/>*) Vgl. Nrn. 516, 518 und 530.
+               <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0526_002.tif"/> 
+               <milestone unit="textregion" xml:id="p002_r"/> 
+               <lb xml:id="p002_r_tl_1"/>Zugriff des lähmenden Gewitters, das sich nicht ent 
+               <lb xml:id="p002_r_tl_2" break="no"/>laden wird.</p>
+            <p> 
+               <lb xml:id="p002_r_tl_3"/>Wollt nicht den Tod. Umfaßt mit den Händen die 
+               <lb xml:id="p002_r_tl_4"/>bebende Meertaube, die sich verirrt hat im Sturm, aber 
+               <lb xml:id="p002_r_tl_5"/>seid vorsichtig, ihr Herzschlag ist zart und verstört, miß 
+               <lb xml:id="p002_r_tl_6" break="no"/>braucht sie nicht, die zärtliche Weiche ihres salzgetränk 
+               <lb xml:id="p002_r_tl_7" break="no"/>ten Gefieders und dieses rührende, nach Atem suchende 
+               <lb xml:id="p002_r_tl_8"/>und stumme Oeffnen des winzigen Schnabels, laßt sie 
+               <lb xml:id="p002_r_tl_9"/>frei, setzt sie aus, den am Aequator gnädigen Regen 
+               <lb xml:id="p002_r_tl_10" break="no"/>schauern und kühlenden Winden. Fürchtet nicht immer 
+               <lb xml:id="p002_r_tl_11"/>die Fieberstille, und die Glätte des Mondlichts auf dem, 
+               <lb xml:id="p002_r_tl_12"/>Wasser, sie ist die gleiche wie dort, wo Uferklippen, die 
+               <lb xml:id="p002_r_tl_13"/>Vertrautheit eines Pfades zwischen Kakteen euch 
+               <lb xml:id="p002_r_tl_14"/>tröstete. Trauert nicht. Ruft. Bleibt unversehrt, harrt 
+               <lb xml:id="p002_l"/>aus.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
