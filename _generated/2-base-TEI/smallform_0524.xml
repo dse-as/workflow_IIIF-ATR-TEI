@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0524" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0524#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0524</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0524"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0524_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0524_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_tl_1"/>Schiffs-Tagebuch 
+               <lb xml:id="p001_r_tl_2"/>Von Annemarie <hi rendition="#g">Clarac-Schwarzenbach</hi></p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l"/>II.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_3"/>An Bord des "Colonial", 22. Mai 1941.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_4"/>Wir sind gestern abend an den <hi rendition="#g">Kanarischen 
+                  <lb xml:id="p001_r_tl_5"/>Inseln</hi> vorbeigefahren, ohne, wie ich es gehofft 
+               <lb xml:id="p001_r_tl_6"/>hatte, in Teneriffa oder Las Palmas anzulegen. Es 
+               <lb xml:id="p001_r_tl_7"/>war erst gegen 8 Uhr, als die letzte Insel vorüber war, 
+               <lb xml:id="p001_r_tl_8"/>aber da wir die Uhr seit Lissabon schon um 2 Stunden 
+               <lb xml:id="p001_r_tl_9"/>vorausgestellt haben, wurde es bereits dunkel, und die 
+               <lb xml:id="p001_r_tl_10"/>Sonne, die sich durch Wolkenballungen über der Insel 
+               <lb xml:id="p001_r_tl_11"/>kämpfen mußte, warf sich wie eine breite Schwefel 
+               <lb xml:id="p001_r_tl_12" break="no"/>flamme auf den Ozean, der Himmel wurde vom Wider 
+               <lb xml:id="p001_r_tl_13" break="no"/>schein dramatisch erhellt. Vom Land, das doch ganz 
+               <lb xml:id="p001_r_tl_14"/>nahe war, sah man nur Umrisse, hohe Berge, von Nebel 
+               <lb xml:id="p001_r_tl_15"/>gefüllte Buchten. Natürlich wurde mir gesagt, daß es 
+               <lb xml:id="p001_r_tl_16"/>reiche Inseln seien, und ich konnte mir wohl vorstellen, 
+               <lb xml:id="p001_r_tl_17"/>man würde dort, hätte das Schiff nur für ein paar 
+               <lb xml:id="p001_r_tl_18"/>Stunden angelegt, ähnliche Entdeckerfreuden gefunden 
+               <lb xml:id="p001_r_tl_19"/>haben wie am Tag zuvor auf Madeira. Ich blieb noch 
+               <lb xml:id="p001_r_tl_20"/>lange an der Reling stehen, hatte auch wieder einen 
+               <lb xml:id="p001_r_tl_21"/>der leichten Fieberanfälle mit Ohren- und Halsschmer 
+               <lb xml:id="p001_r_tl_22" break="no"/>zen, der Husten hörte nicht auf, und ich fragte mich, ob 
+               <lb xml:id="p001_r_tl_23"/>ich wohl unten im Kongo, in einem viel schlechteren 
+               <lb xml:id="p001_r_tl_24"/>Klima, krank werden würde. Dann sagte R. neben mir 
+               <lb xml:id="p001_r_tl_25"/>– jener französische Offizier, der seit Dünkirchen ver 
+               <lb xml:id="p001_r_tl_26" break="no"/>sucht, zu den Truppen de Gaulles zu stoßen –, viel 
+               <lb xml:id="p001_r_tl_27" break="no"/>leicht werde er nach so viel Opfern und zähem Eigen 
+               <lb xml:id="p001_r_tl_28" break="no"/>sinn nur an sein Ziel gelangen, um sich irgendwo auf 
+               <lb xml:id="p001_r_tl_29"/>einem verlorenen Posten zum Krüppel schießen zu lassen 
+               <lb xml:id="p001_r_tl_30"/>oder sich eine Seuche zu holen. Wir einigten uns gleich, 
+               <lb xml:id="p001_r_tl_31"/>daß solche Bedenken vor der persönlichen Gefahr heute 
+               <lb xml:id="p001_r_tl_32"/>nicht gelten, und daß man nichts mehr tun und sich 
+               <lb xml:id="p001_r_tl_33"/>wissentlich blind stellen müßte, wollte man um der 
+               <lb xml:id="p001_r_tl_34"/>Sicherheit der eigenen Haut willen den Einsatz ver 
+               <lb xml:id="p001_r_tl_35" break="no"/>meiden.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_36"/>Aber obwohl wir beide sicher aufrichtig waren, 
+               <lb xml:id="p001_r_tl_37"/>fragte ich mich doch, wie mir zumute wäre, sollte von 
+               <lb xml:id="p001_r_tl_38"/>mir jetzt oder wann immer der volle Einsatz verlangt 
+               <lb xml:id="p001_r_tl_39"/>werden, in einer Weise, die den sicheren Tod bedeuten 
+               <lb xml:id="p001_r_tl_40"/>würde. Solche Forderungen zu erfüllen, betrachtet jeder 
+               <lb xml:id="p001_r_tl_41" break="no"/>mann als die Pflicht eines jeden Soldaten, und ich 
+               <lb xml:id="p001_r_tl_42"/>würde ihnen auch nachkommen, denn selbstverständliche 
+               <lb xml:id="p001_r_tl_43"/>Taten schließen im gleichen Augenblick das Bedenken 
+               <lb xml:id="p001_r_tl_44"/>aus. Müßte ich mich jetzt über die Reling in dieses
+               <milestone unit="textregion" xml:id="p001_r_2"/> 
+               <lb xml:id="p001_r_2_tl_1"/>nächtliche Wasser werfen, ich wäre rasch überwältigt, 
+               <lb xml:id="p001_r_2_tl_2"/>und in einem einzigen, allumfassenden Augenblick des 
+               <lb xml:id="p001_r_2_tl_3"/>Entsetzens und der Hingabe wäre alles vorbei: so 
+               <lb xml:id="p001_r_2_tl_4"/>enge Grenzen sind unseren Anstrengungen gezogen, 
+               <lb xml:id="p001_r_2_tl_5"/>von solchen Nichtigkeiten äußerer Gewalt hängen wir 
+               <lb xml:id="p001_r_2_tl_6"/>ab. In einem Anfall von Feigheit stelle ich es fest 
+               <lb xml:id="p001_r_2_tl_7"/>daß ich ja nicht sterben will, und mich doch nicht 
+               <lb xml:id="p001_r_2_tl_8"/>darauf verlassen darf, es könne nicht, in jedem Augen 
+               <lb xml:id="p001_r_2_tl_9" break="no"/>blick, an mich herantreten. Ich will nicht von einer so 
+               <lb xml:id="p001_r_2_tl_10"/>faschen und unwürdigen Hoffnung leben, vielleicht 
+               <lb xml:id="p001_r_2_tl_11"/>treffe es nur meinen Nachbar, und ich dürfe mich 
+               <lb xml:id="p001_r_2_tl_12"/>glücklich weiterschwindeln. Von der Behauptung zu 
+               <lb xml:id="p001_r_2_tl_13"/>leben, ich sei ein freier Mensch, der sich nicht fürchte, 
+               <lb xml:id="p001_r_2_tl_14"/>für seine Ueberzeugungen einzustehen wider alle Ge 
+               <lb xml:id="p001_r_2_tl_15" break="no"/>walt und Gefahr dieser Welt, und heimlich zu wissen, 
+               <lb xml:id="p001_r_2_tl_16"/>ich würde vor dem ersten Zugriff dieser Gewalt, bei 
+               <lb xml:id="p001_r_2_tl_17"/>der ersten Begegnung mit dem ernsten Anblick der 
+               <lb xml:id="p001_r_2_tl_18"/>Gefahr, versagen? Wenn ich so leben könnte, dann 
+               <lb xml:id="p001_r_2_tl_19"/>wären also alle unsere besten Anstrengungen ein über 
+               <lb xml:id="p001_r_2_tl_20" break="no"/>flüssiger Betrug, und es genügte, zu essen und zu 
+               <lb xml:id="p001_r_2_tl_21"/>schlafen – aber wozu würde man dieses Leben noch 
+               <lb xml:id="p001_r_2_tl_22"/>fristen?</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_23"/>Ich dachte in diesem Augenblick auch an eine Nach 
+               <lb xml:id="p001_r_2_tl_24" break="no"/>richt, die ich vor der Abreise von Lissabon erhalten 
+               <lb xml:id="p001_r_2_tl_25"/>hatte: daß zwei Menschen, die mir sehr nahestehen, 
+               <lb xml:id="p001_r_2_tl_26"/>sich von London nach Afrika unterwegs auf einem 
+               <lb xml:id="p001_r_2_tl_27"/>von den Deutschen versenkten Schiff befunden hatten. 
+               <lb xml:id="p001_r_2_tl_28"/>Daß sie wahrscheinlich nicht mehr leben, hat eine ähn 
+               <lb xml:id="p001_r_2_tl_29" break="no"/>liche, fast versteinernde Wirkung wie der Gedanke an 
+               <lb xml:id="p001_r_2_tl_30"/>den eigenen, vielleicht nahen Tod, und doch kann ich 
+               <lb xml:id="p001_r_2_tl_31"/>mich nicht darüber hinwegtäuschen.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_32"/>Das langsame Vorübergleiten an der nächtlichen 
+               <lb xml:id="p001_r_2_tl_33"/>Insel Teneriffa verstärkte das Gefühl, wie wenig wir 
+               <lb xml:id="p001_r_2_tl_34"/>trotz unserer Freiheit über den äußeren Vollzug un 
+               <lb xml:id="p001_r_2_tl_35" break="no"/>seres Daseins vermögen. Es war wohl mein freier 
+               <lb xml:id="p001_r_2_tl_36"/>Entschluß, in Lissabon dieses Schiff zu besteigen, und 
+               <lb xml:id="p001_r_2_tl_37"/>noch für die Bedrängtesten unter meinen Reisegenossen, 
+               <lb xml:id="p001_r_2_tl_38"/>die Flüchtlinge ohne Papiere, hätte es andere Wege 
+               <lb xml:id="p001_r_2_tl_39"/>gegeben, und sie entschlossen sich für diesen: aber weiß 
+               <lb xml:id="p001_r_2_tl_40"/>ein einziger von uns, wohin er ihn schließlich führen 
+               <lb xml:id="p001_r_2_tl_41"/>wird? – Obwohl dies immer so sein muß, bei jedem 
+               <lb xml:id="p001_r_2_tl_42"/>Schritt, den wir tun, wird es uns auf der Fahrt des 
+               <lb xml:id="p001_r_2_tl_43"/>Dampfers, der für eine Weile sozusagen den Umkreis 
+               <lb xml:id="p001_r_2_tl_44"/>unserer Existenz bestimmt, besonders deutlich ins Be 
+               <lb xml:id="p001_r_2_tl_45" break="no"/>wußtsein gerufen. In Funchal, während eines kurzen 
+               <lb xml:id="p001_r_2_tl_46"/>Aufenthaltes, der mich entzückte, dachte ich, daß ich 
+               <lb xml:id="p001_r_2_tl_47"/>meine Pläne ändern, und auf dieser Insel ein ganz
+               <milestone unit="textregion" xml:id="p001_r_3"/> 
+               <lb xml:id="p001_r_3_tl_1"/>neues Leben beginnen könnte. An die Kanarischen 
+               <lb xml:id="p001_r_3_tl_2"/>Inseln werde ich mich nur wie an eine Vision eines 
+               <lb xml:id="p001_r_3_tl_3"/>Landes erinnern, und sie vielleicht nie betreten. Aber 
+               <lb xml:id="p001_r_3_tl_4"/>es bedeutet wenig, was uns äußerlich geschieht, da 
+               <lb xml:id="p001_r_3_tl_5"/>unsere Liebe immer nach anderem strebt.</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_6"/>Man hat mich den ganzen Tag gestört: Bekannte, 
+               <lb xml:id="p001_r_3_tl_7"/>Kinder, Glockenzeichen, selbst mein guter Freund R., 
+               <lb xml:id="p001_r_3_tl_8"/>alles strömt rings um das besonnte Deck, über Trep 
+               <lb xml:id="p001_r_3_tl_9" break="no"/>pen, durch den Salon, bis in diesen kleinen Raum, 
+               <lb xml:id="p001_r_3_tl_10"/>wo am Morgen ein belgischer Priester oder einer der 
+               <lb xml:id="p001_r_3_tl_11"/>bärtigen portugiesischen Missionare die Messe liest, und 
+               <lb xml:id="p001_r_3_tl_12"/>wo ich den Versuch mache, zu schreiben. Oder nur ein 
+               <lb xml:id="p001_r_3_tl_13"/>paar Stunden still zu sein, wirklich zu leben – zu 
+               <lb xml:id="p001_r_3_tl_14"/>begreifen, zu nennen –, ja, aufzuschreiben, was im 
+               <lb xml:id="p001_r_3_tl_15"/>Verlauf von Stunden und Stunden, Stimme um 
+               <lb xml:id="p001_r_3_tl_16"/>Stimme, Eindruck hinter Einbruck, was uns in einem 
+               <lb xml:id="p001_r_3_tl_17"/>erbarmungslosen Ablauf treibt und hinhält, uns von 
+               <lb xml:id="p001_r_3_tl_18"/>Anstrengung zu größerer Anstrengnng jagt, uns von 
+               <lb xml:id="p001_r_3_tl_19"/>Versprechungen trügerisch nährt, bis wir einmal nicht 
+               <lb xml:id="p001_r_3_tl_20"/>mehr wollen und zusammenbrechen.</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_21"/>Aber was will ich eigentlich, und wenn sie mich 
+               <lb xml:id="p001_r_3_tl_22"/>stören, ein Kind ein harmloser Mensch, der umher 
+               <lb xml:id="p001_r_3_tl_23" break="no"/>irrend ein wenig Ablenkung wünscht, von was muß ich 
+               <lb xml:id="p001_r_3_tl_24"/>mich abhalten lassen? – Ich hadere dann wirklich, als 
+               <lb xml:id="p001_r_3_tl_25"/>hätten sie mir die zum Atmen nötige Luft abgeschnitten, 
+               <lb xml:id="p001_r_3_tl_26"/>und sie hatten keinerlei böse Absicht. Sie wollten nur 
+               <lb xml:id="p001_r_3_tl_27"/>leben, sie auch, den Tag zubringen, mir eine Freund 
+               <lb xml:id="p001_r_3_tl_28" break="no"/>lichkeit erweisen. Und ich kann, falls ich etwas auf 
+               <lb xml:id="p001_r_3_tl_29" break="no"/>schreibe, keinen Menschen erreichen, keine Antwort er 
+               <lb xml:id="p001_r_3_tl_30" break="no"/>halten, es gibt nicht einmal Post. Also was?</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_31"/>Daß man nur von Notbehelfen lebe und sich not 
+               <lb xml:id="p001_r_3_tl_32" break="no"/>dürftig nähre, immer die Stimmen ersticke, die ver 
+               <lb xml:id="p001_r_3_tl_33" break="no"/>führen, es ist nicht wahr. Daß man nur den Duft und 
+               <lb xml:id="p001_r_3_tl_34"/>die Farbe jener violetten Blütenbäume ahne, nie sie 
+               <lb xml:id="p001_r_3_tl_35"/>mit den Augen sehen und fast vergehen könne, weil sie 
+               <lb xml:id="p001_r_3_tl_36"/>nun die weißen Mauern färben, die Luft dieses stillen, 
+               <lb xml:id="p001_r_3_tl_37"/>über der Stadt Funchal und seine grünen Hügel sich 
+               <lb xml:id="p001_r_3_tl_38"/>ausbreitenden Abends füllen würden mit einer sicher 
+               <lb xml:id="p001_r_3_tl_39"/>nie wiederkehrenden, sammetweichen Verzauberung, es 
+               <lb xml:id="p001_r_3_tl_40"/>ist nicht wahr. Es ist nicht wahr, daß sie so leben sollen, 
+               <lb xml:id="p001_r_3_tl_41"/>die Menschen: keine Feindeshand kann sie zwingen, 
+               <lb xml:id="p001_r_3_tl_42"/>keine Macht hat sie dazu verurteilt, so bedürftig zu 
+               <lb xml:id="p001_r_3_tl_43"/>sein, während doch ringsum Ahnungen mächtig sich 
+               <lb xml:id="p001_r_3_tl_44"/>rühren wie Winde, die mit sich den Duft der Hyazinthe 
+               <lb xml:id="p001_r_3_tl_45"/>tragen, eine Vogelstimme, einen Anruf.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_3_tl_46"/>(Fortsetzung folgt.)</p>
+</div>
+       </body>
+    </text>
+ </TEI>
