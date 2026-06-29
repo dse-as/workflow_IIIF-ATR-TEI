@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0533" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0533#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0533</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0533"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0533_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0533_0001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Annemarie Clarac-Schwarzenbach: 
+               <lb xml:id="p001_tr_1_tl_2"/><hi rendition="#u">San Thomé, die Insel am Aequator.</hi> 
+               <lb xml:id="p001_tr_1_tl_3"/>Von dieser Insel haben viele Passagiere unseres Dampfers nie gehört, 
+               <lb xml:id="p001_tr_1_tl_4"/>und viele weigerten sich, an Land zu gehen, als wir in der Nacht des 
+               <lb xml:id="p001_tr_1_tl_5"/>29. Mai dort anlegten. Die Portugiesen an Bord hatten uns über ihre 
+               <lb xml:id="p001_tr_1_tl_6"/>kleine westafrikanische Kolonie, die Inseln San Thomé und Principe, 
+               <lb xml:id="p001_tr_1_tl_7"/>wenig Gutes berichtet. Der Aequator streift San Thomé, das Klima dort 
+               <lb xml:id="p001_tr_1_tl_8"/>gehört zum schlechtesten von ganz Afrika. Es gibt viel Malaria und 
+               <lb xml:id="p001_tr_1_tl_9"/>andere Tropenkrankheiten, die feuchte Hitze nimmt den Weissen alle 
+               <lb xml:id="p001_tr_1_tl_10"/>Energie und Lebenslust. Uebrigens sind sie nicht zahlreich: Funktionäre, 
+               <lb xml:id="p001_tr_1_tl_11"/>Angestellte portugiesischer Handelshäuser, einige Lehrer, Aerzte, und 
+               <lb xml:id="p001_tr_1_tl_12"/>Missionare, eine Handvoll Plantagenbesitzer und Verwalter, neben sechzig 
+               <lb xml:id="p001_tr_1_tl_13" break="no"/>tausend Schwarzen. Die Inseln sind fruchtbar, es gibt vor allem Kaffee, 
+               <lb xml:id="p001_tr_1_tl_14"/>Kakao, Kokosnüsse, Bananen, die man ausführt, – daneben Mandarinen, Mango, 
+               <lb xml:id="p001_tr_1_tl_15"/>Zuckerrohr. Man fabriziert Seife, Palmoel, Schnaps, ein wenig Keramik, 
+               <lb xml:id="p001_tr_1_tl_16"/>importiert Stoffe, Wein, Reis, Bohnen, getrocknete Fische, landwirtschaft 
+               <lb xml:id="p001_tr_1_tl_17" break="no"/>liche Maschinen. Es gibt im Inselgebiet von knapp tausend Quadratkilo 
+               <lb xml:id="p001_tr_1_tl_18" break="no"/>metern 18 km Eisenbahn und 300 km Strassen, 2 Spitäler, mehrere Elemen' 
+               <lb xml:id="p001_tr_1_tl_19" break="no"/>tarschulen. Wilde Tiere fehlen, dafür sieht man viele Affen, Papageien, 
+               <lb xml:id="p001_tr_1_tl_20"/>kleine Adler, Schildkröten. Wegen der Haie und anderer Raubfische kann 
+               <lb xml:id="p001_tr_1_tl_21"/>man im Meer nicht baden. Es gibt Maultiere, Ochsen, Schafe und Ziegen, 
+               <lb xml:id="p001_tr_1_tl_22"/>Schweine, Hühner. Durch den Krieg sind die Inseln hart betroffen, denn 
+               <lb xml:id="p001_tr_1_tl_23"/>wohin sollen sie ihre Produkte ausführen? – Riesige Stocks von Kakao, 
+               <lb xml:id="p001_tr_1_tl_24"/>Kaffee und Kopra sammeln sich an, bald wird man sie, wie in Südamerika, 
+               <lb xml:id="p001_tr_1_tl_25"/>ins Meer werfen oder als Brennmaterial verwenden. Glücklicherweise</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0533_0002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>–2– (San Thomé) 
+               <lb xml:id="p002_tr_1_tl_2"/>ist der Lebensstandard der schwarzen Bevölkerung so niedrig, dass sie 
+               <lb xml:id="p002_tr_1_tl_3"/>kaum noch ärmer werden könnte und nichts zu verlieren hat. Dieser Um 
+               <lb xml:id="p002_tr_1_tl_4" break="no"/>stand wird vielen Kolonien eines Tages zum Vorteil gereichen, gegenüber 
+               <lb xml:id="p002_tr_1_tl_5"/>reicheren Ländern, deren Völker sich an die Proletarisierung und Sklaven 
+               <lb xml:id="p002_tr_1_tl_6" break="no"/>arbeit, wie man sie für die Nachkriegszeit erwarten muss, nicht so 
+               <lb xml:id="p002_tr_1_tl_7"/>leicht gewöhnen werden ... 
+               <lb xml:id="p002_tr_1_tl_8"/>[p] Soviel konnte ich etwa über San Thomé erfahren, – zu sehen gebe es dort 
+               <lb xml:id="p002_tr_1_tl_9"/>nichts von Belang, sagte man mir, und nach den frühen Morgenstunden sei 
+               <lb xml:id="p002_tr_1_tl_10"/>die Hitze so unerträglich, dass mir die Neugier ohnehin vergehen würde. 
+               <lb xml:id="p002_tr_1_tl_11"/>Etwa um zehn Uhr abends <del rend="overstrike">befanden wir uns</del> hielten unsere Maschinen an, 
+               <lb xml:id="p002_tr_1_tl_12"/>und wir konnten durch die tiefschwarze Nacht in ziemlicher Entfernung 
+               <lb xml:id="p002_tr_1_tl_13"/>eine dürftige Lichterreihe erblicken, die den Hafen bezeichnete. Ein 
+               <lb xml:id="p002_tr_1_tl_14"/>Boot mit Negern in weissen Matrosenanzügen legte an unserer Bordwand 
+               <lb xml:id="p002_tr_1_tl_15"/>an, ringsum kreisten ein paar gebrechliche, aus einem bis zu Rindendünne 
+               <lb xml:id="p002_tr_1_tl_16"/>ausgehöhlten Baumstamm bestehende Kähne, worin die Schwarzen, von unseren 
+               <lb xml:id="p002_tr_1_tl_17"/>Decklampen malerisch beschienen, zwischen grünen Stapeln von Bananen und 
+               <lb xml:id="p002_tr_1_tl_18"/>Gemüsen kauerten. Am nächsten Tag war ich schon in der Dämmerung auf, 
+               <lb xml:id="p002_tr_1_tl_19"/>und wartete mit einem meiner Freunde auf eine Gelegenheit, an Land zu 
+               <lb xml:id="p002_tr_1_tl_20"/>gehen. Der Anblick der Insel war eine Ueberraschung. Sie war etwa drei 
+               <lb xml:id="p002_tr_1_tl_21"/>Kilometer entfernt, und schien eine reich und anmutig gegliederte, 
+               <lb xml:id="p002_tr_1_tl_22"/>smaragdene Fülle von Palmenwäldern, Wiesen, kleinen Anhöhen, die sich 
+               <lb xml:id="p002_tr_1_tl_23"/>um das Hafenstädtchen in seiner ausgedehnten Bucht schlossen, – dahinter 
+               <lb xml:id="p002_tr_1_tl_24"/>häuften sich die Wipfel, Schluchten und Hügel waren davon angefüllt, 
+               <lb xml:id="p002_tr_1_tl_25"/>sodass sich alles rundete zu vollen, betörenden Formen, Die Hügel stuften 
+               <lb xml:id="p002_tr_1_tl_26"/>sich übereinander, lauter sanfte, belaubte Kuppen, die immer höher wur 
+               <lb xml:id="p002_tr_1_tl_27" break="no"/>den, immer entfernter, immer – bis die Berge im Inneren der 
+               <lb xml:id="p002_tr_1_tl_28"/>Insel in bläulicher Höhe in hellen, wogenden Nebel- und Wolkenbetten ver¬</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0533_0003.jpg"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_1" break="no"/>–3– (San Thomé) 
+               <lb xml:id="p003_tr_1_tl_2"/>schwanden. Aber trotz der unerwarteten Schönheit dieses Inselbildes 
+               <lb xml:id="p003_tr_1_tl_3"/>empfand man, im Anschauen versunken, kein Entzücken, wie ich es bei den 
+               <lb xml:id="p003_tr_1_tl_4"/>Balearen, den Bermudas, auf Cypern, und erst kürzlich bei der Landung in 
+               <lb xml:id="p003_tr_1_tl_5"/>Funchal auf Madeira gekannt hatte. Dort hatte man Vertrautheiten entdeckt, 
+               <lb xml:id="p003_tr_1_tl_6"/>sich an ähnliche Orte auf der Welt, oder auch an Traumbilder erinnert, und 
+               <lb xml:id="p003_tr_1_tl_7"/>sich sofort unwillkürlich <del rend="overstrike">die F </del>vorgestellt, ob man im wiedergefundenen, 
+               <lb xml:id="p003_tr_1_tl_8"/>paradiesischen Erdenfleck vielleicht leben könnte. San Thomé, obwohl es 
+               <lb xml:id="p003_tr_1_tl_9"/>nicht kahl und gross war wie gewisse urfremde Regionen von Wüsten und 
+               <lb xml:id="p003_tr_1_tl_10"/>Hochebenen, sondern lieblich und schwelgerisch verhangen von üppigem 
+               <lb xml:id="p003_tr_1_tl_11"/>Grün und mildernden Dunststreifen, – es erschreckte doch das Herz, wie es 
+               <lb xml:id="p003_tr_1_tl_12"/>sich so darbot voller Verführungen. 
+               <lb xml:id="p003_tr_1_tl_13"/>[p]Wir landeten bald im Hafen, und fanden ein Städtchen mit einigen alten 
+               <lb xml:id="p003_tr_1_tl_14"/>Befestigungen am Rand, wo auf barocken Mauern bronzene Kanönchen aufge 
+               <lb xml:id="p003_tr_1_tl_15" break="no"/>pflanzt waren, – um den Marktplatz in der Mitte ein paar breite Gassen 
+               <lb xml:id="p003_tr_1_tl_16"/>mit Verkaufsbuden, rosa Häusern mit geschlossenen Läden, einer Apotheke, 
+               <lb xml:id="p003_tr_1_tl_17"/>einem grossen, halbdunklen Restaurant mit kahlen Esstischen und einer 
+               <lb xml:id="p003_tr_1_tl_18"/>mit Weinen und Schnapsflaschen überladenen Theke, – zwei zerlumpte Neger 
+               <lb xml:id="p003_tr_1_tl_19" break="no"/>buben trugen Gläser und Speisen umher, der Besitzer des Lokals in flecki 
+               <lb xml:id="p003_tr_1_tl_20" break="no"/>gem gelbem Anzug schlief, den Kopf auf der Marmorplatte. In den Läden 
+               <lb xml:id="p003_tr_1_tl_21"/>wurden bunte Baumwollstoffe an Negerfrauen verkauft, die ihre Kinder in 
+               <lb xml:id="p003_tr_1_tl_22"/>breite leuchtende Shawls gebunden auf dem Rücken trugen, – in einem Bazar 
+               <lb xml:id="p003_tr_1_tl_23"/>gab es Tropenhelme, Stoffschuhe, kunstseidene Hemden, neben allerlei Schäl 
+               <lb xml:id="p003_tr_1_tl_24" break="no"/>chen, Schachteln, Kannen und Tabletts aus grob ziseliertem Messing, 
+               <lb xml:id="p003_tr_1_tl_25"/>in einer Warenhalle sah man Säcke mit Reis und Hülsenfrüchten, Konserven, 
+               <lb xml:id="p003_tr_1_tl_26"/>Biscuits, daneben Flit[?], Moskitonetze, Bastmatten, Bürsten, Emailgeschirr, 
+               <lb xml:id="p003_tr_1_tl_28"/>Stapel von Zigarettenschachteln. Die Verkäufer waren Portugiesen, [add above: oder] Misch[add below: linge.]</p>
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0533_0004.jpg"/>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_1_tl_1"/>-4-(San Thomé) 
+               <lb xml:id="p004_tr_1_tl_2"/>Gleich hinter dem Marktplatz, wo Hunderte von lustig bunt gekleideten 
+               <lb xml:id="p004_tr_1_tl_3"/>Negerinnen Maiskörner, Mangofrüchte, Mandarinen, rosa Bananen, Hühner, ge 
+               <lb xml:id="p004_tr_1_tl_4" break="no"/>trocknete fliegende Fische und fettes Backwerk verkauften, lag eine hell 
+               <lb xml:id="p004_tr_1_tl_5" break="no"/>gelbe Kirche mit zwei Türmen, dahinter begann schon der Palmwald. Wir 
+               <lb xml:id="p004_tr_1_tl_6"/>haben dann den Tag damit verbracht, alten, gepflasterten, von Grün überwu 
+               <lb xml:id="p004_tr_1_tl_7" break="no"/>cherten Strassen zu folgen bis zu hinter Bananenhainen verborgenen Neger 
+               <lb xml:id="p004_tr_1_tl_8" break="no"/>dörfchen mit hellrosa Bretterbuden und Strohhütten, fanden auch eine 
+               <lb xml:id="p004_tr_1_tl_9"/>primitive Stierkampf-Arena, die verlassen mitten im Dschungel lag. Der Küste 
+               <lb xml:id="p004_tr_1_tl_10"/>folgend sahen wir ein kleines Festungsviereck das die Jahreszahl 1530 
+               <lb xml:id="p004_tr_1_tl_11"/>trug, und San Jeronimo hiess, – am Ende einer von Palmen begleiteten Strasse 
+               <lb xml:id="p004_tr_1_tl_12"/>eine barocke, <del rend="overstrike">Kapel</del> altersgraue Kapelle. Im über die Hügel sich ausbreiten 
+               <lb xml:id="p004_tr_1_tl_13" break="no"/>den Kokoswald strebten die Palmen wie die Pfeiler einer Kathedrale aus 
+               <lb xml:id="p004_tr_1_tl_14"/>dem dämmernden Grün <del rend="overstrike">in</del>[add inline: zum] weissen Himmel, am Rand einer breiten Wiesenlichtung 
+               <lb xml:id="p004_tr_1_tl_16"/>neigten sich andere Palmen wie schlank [add above: im Bogen] emporschiessende Fontanen, 
+               <lb xml:id="p004_tr_1_tl_17"/>unter den wunderbar glatten, silbergrauen Stämmen riesiger Bäume mit 
+               <lb xml:id="p004_tr_1_tl_18"/>ihrem riesigen Rund aus Fächern fetter, saftiger Blätter weideten junge 
+               <lb xml:id="p004_tr_1_tl_19"/>Ziegen. Und immer öffneten sich im Grün Durchblicke zu den fernen 
+               <lb xml:id="p004_tr_1_tl_20"/>Bergen, die bis zu den in Wolken unsichtbaren Gipfeln von Wachstum 
+               <lb xml:id="p004_tr_1_tl_21"/>strotzten. Auf dem farblosen Meer, weit hinter den sich brechenden Wellen, 
+               <lb xml:id="p004_tr_1_tl_22"/>die wie Wände dem Sandufer entgegenwanderten, sah man schmale Boote 
+               <lb xml:id="p004_tr_1_tl_23"/>dahinschnellen, mit zwischen im Wind sich biegenden Masten aus Bambus 
+               <lb xml:id="p004_tr_1_tl_24"/>ausgespannten, rissigen Segeln, und erkannte die geschmeidigen Rücken 
+               <lb xml:id="p004_tr_1_tl_25"/>und leuchtenden Gesichter schwarzer Fischer. 
+               <lb xml:id="p004_tr_1_tl_27"/>[p]Es waren Märchenbilder, – während man in der bleichen, feuchten <del rend="overstrike">Umarmung</del>[add above: Umklam[m]erung] 
+               <lb xml:id="p004_tr_1_tl_28"/>der Luft schon vor Ermattung taumelte, sah man noch die jähe Pracht eines 
+               <lb xml:id="p004_tr_1_tl_29"/>feuerfarbenen Blütenbaums, hörte in der feierlichen Mittagsstille der fast</p>
+
+            <pb xml:id="p005" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0533_0005.jpg"/>
+            <milestone unit="textregion" xml:id="p005_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p005_tr_1_tl_1"/>–5–(San Thomé) 
+               <lb xml:id="p005_tr_1_tl_2"/>gläsernen Palmstämme eine Kokosnuss fallen, erblickte in einer 
+               <lb xml:id="p005_tr_1_tl_3"/>sumpfigen Niederung die gewaltigen Rücken, geneigten Häupter und 
+               <lb xml:id="p005_tr_1_tl_4"/>geschwungenen Hörner einer Herde träge badender Ochsen, und war 
+               <lb xml:id="p005_tr_1_tl_5"/><del rend="overstrike">vonm</del> unwiderstehlich versucht, einem schmalen Pfad durch den Dschungel 
+               <lb xml:id="p005_tr_1_tl_6"/>ins Innere zu folgen, das üppige Geheimnisse bergen musste... 
+               <lb xml:id="p005_tr_1_tl_7"/>Statt dessen ertönte von fern die Sirene unseres Dampfers. Als wir 
+               <lb xml:id="p005_tr_1_tl_8"/>auf einem kleinen Boot in <del rend="overstrike">ziemlich</del> heftigem Wellengang zurückfuhren, 
+               <lb xml:id="p005_tr_1_tl_9"/>begann schon der Abend, das blendende Licht war plötzlich ausgelöscht, 
+               <lb xml:id="p005_tr_1_tl_10"/>eine kurze, stumpfe, lastende Dämmerung bereitete das Dunkel der Tropen 
+               <lb xml:id="p005_tr_1_tl_11" break="no"/>nacht vor. Ich wandte mich nicht nach der Insel um, nach der ich kein 
+               <lb xml:id="p005_tr_1_tl_12"/>Heimweh haben werde. Aber ihr zaubrisches Wachstum, ihre verführende 
+               <lb xml:id="p005_tr_1_tl_13"/>Fieberhitze, die Fülle ihrer Anmut, diese uns durchaus fremde Pracht, 
+               <lb xml:id="p005_tr_1_tl_14"/>ihr uns nur um einen hohen und gefährlichen Preis gegönnter Reichtum, 
+               <lb xml:id="p005_tr_1_tl_15"/>ich spürte alles auf einmal so stark und ahnungsvoll wie man erwachend 
+               <lb xml:id="p005_tr_1_tl_16"/>sich eines Traums bewusst wird. 
+               <lb xml:id="p005_tr_1_tl_17"/>(31. Mai 1941)</p>
+
+            <pb xml:id="p006" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0533_0006.jpg"/>
+            <milestone unit="textregion" xml:id="p006_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p006_tr_1_tl_1"/>Annemarie Clarac-Schwarzenbach</p>
+
+            <pb xml:id="p007" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0533_0007.jpg"/>
+            <milestone unit="textregion" xml:id="p007_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p007_tr_1_tl_1"/><hi rendition="#u">Beschriftung der Bilder von der Insel San Thomé.</hi> 
+               <lb xml:id="p007_tr_1_tl_2"/>(Annemarie Clarac-Schwarzenbach) [space]</p>
+            <p> 
+               <lb xml:id="p007_tr_1_tl_4"/>Bild 1 :</p>
+            <p> 
+               <lb xml:id="p007_tr_1_tl_3"/>Schwarze Matrosen bringen die wenigen Passagiere auf 
+               <lb xml:id="p007_tr_1_tl_5"/>den Portugiesischen Dampfer, der einmal monatlich vor 
+               <lb xml:id="p007_tr_1_tl_6"/>der Insel anlegt.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space]</p>
+            <p> 
+               <lb xml:id="p007_tr_1_tl_7"/>Bild 2 :</p>
+            <p> 
+               <lb xml:id="p007_tr_1_tl_8"/>Einst führte ein Bähnchen durch diese Lichtung in das 
+               <lb xml:id="p007_tr_1_tl_9"/>gebirgige Innere der Insel, wo die reichen Kaffeeplan 
+               <lb xml:id="p007_tr_1_tl_10" break="no"/>tagen sind. Aber San Thomé hat sich weniger glänzend 
+               <lb xml:id="p007_tr_1_tl_11"/>entwickelt als die Portugiesen es gehofft hatten.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space]</p>
+            <p> 
+               <lb xml:id="p007_tr_1_tl_12"/>Bild 3 :</p>
+            <p> 
+               <lb xml:id="p007_tr_1_tl_13"/>Kokosnüsse werden gesammelt.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space] </p>
+            <p> 
+               <lb xml:id="p007_tr_1_tl_14"/>Bild 4 :</p>
+            <p> 
+               <lb xml:id="p007_tr_1_tl_15"/>Waschplatz wo sich alle Frauen versammeln.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space] </p>
+            <p> 
+               <lb xml:id="p007_tr_1_tl_17"/>Bild 5 :</p>
+            <p> 
+               <lb xml:id="p007_tr_1_tl_16"/>Die kleinen Mädchen waschen schon so gut wie die er 
+               <lb xml:id="p007_tr_1_tl_18" break="no"/>wachsenen Frauen.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space]</p>
+            <p> 
+               <lb xml:id="p007_tr_1_tl_19"/>Bild 6 : </p>
+            <p> 
+               <lb xml:id="p007_tr_1_tl_20"/> Mitten im Palmenwald stösst man auf eine portugiesische 
+               <lb xml:id="p007_tr_1_tl_21"/>Barock-Kapelle, die wohl aus dem 10. Jahrhundert, der er 
+               <lb xml:id="p007_tr_1_tl_22" break="no"/>sten Kolonialperiode, stammt.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space]</p>
+            <p> 
+               <lb xml:id="p007_tr_1_tl_23"/>Bild 7 :</p>
+            <p> 
+               <lb xml:id="p007_tr_1_tl_24"/>Fischerbarken von San Thomé. Sie bestehen aus ganz leich 
+               <lb xml:id="p007_tr_1_tl_25" break="no"/>ten, fast weichen ausgehöhlten Stämmen – und die Schwar 
+               <lb xml:id="p007_tr_1_tl_26" break="no"/>zen fahren damit durch die stärkste Brandung!</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space]</p>
+            <p> 
+               <lb xml:id="p007_tr_1_tl_27"/>Bild 8 :</p>
+            <p> 
+               <lb xml:id="p007_tr_1_tl_28"/>Markt in San Thomé.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space] </p>
+            <p> 
+               <lb xml:id="p007_tr_1_tl_30"/>Bild 9 :</p>
+            <p> 
+               <lb xml:id="p007_tr_1_tl_29"/>Auch San Thomé hat seine Stierkampfarena! Die Inschriften 
+               <lb xml:id="p007_tr_1_tl_31"/>"Sol" und "Sombra" am Haus vor dem Eingang weisen zu den 
+               <lb xml:id="p007_tr_1_tl_32"/>billigen Plätzen auf der Sonnenseite und zur "Gallerie" 
+               <lb xml:id="p007_tr_1_tl_33"/>– den teuren Plätzen im Schatten!</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space]</p>
+            <p> 
+               <lb xml:id="p007_tr_1_tl_34"/>Für alle Mitteilungen und Ueberweisungen an Frau Dr. Annemarie 
+               <lb xml:id="p007_tr_1_tl_35"/>Clarac-Schwarzenbach zeichnet die Bevollmachtigte:</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p007_tr_1_tl_36"/>Marie-Louise Bodmer. 
+               <lb xml:id="p007_tr_1_tl_37"/>Frau M.-L. Bodmer 
+               <lb xml:id="p007_tr_1_tl_38"/>alte Landstrasse 95 
+               <lb xml:id="p007_tr_1_tl_39"/>Zollikon-Zürich.</p>
+
+            <pb xml:id="p008" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0533_0008.jpg"/>
+            <milestone unit="textregion" xml:id="p008_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p008_tr_1_tl_1"/><hi rendition="#u">Die Insel San Thomé. 
+                  <lb xml:id="p008_tr_1_tl_2"/>Eine am Aequator liegende Portugiesische Kolonie.</hi></p>
+            <p> 
+               <lb xml:id="p008_tr_1_tl_3"/>Unsere Mitarbeiterin, Annemarie Clarac-Schwarzenbach befindet 
+               <lb xml:id="p008_tr_1_tl_4"/>sich auf einer Reise nach Afrika. Sie verliess Europa von Lissabon 
+               <lb xml:id="p008_tr_1_tl_5"/>aus am 17. Mai 1941 und ist nun in Belgisch-Kongo gelandet. 
+               <lb xml:id="p008_tr_1_tl_6"/>Auf der Ueberfahrt legte das Schiff am 29. Mai auf der Aequator 
+               <lb xml:id="p008_tr_1_tl_7" break="no"/>insel San Thomé an, von der man bis heute kaum etwas gehört hat. 
+               <lb xml:id="p008_tr_1_tl_8"/>Die Portugiesischen Inseln: San Thome und Principe werden vom 
+               <lb xml:id="p008_tr_1_tl_9"/>Aequator gestreift; das Klima gehört zum schlechtesten von ganz 
+               <lb xml:id="p008_tr_1_tl_10"/>Alrika, es gibt viel Malaria und andere Tropenkrankheiten, weshalb 
+               <lb xml:id="p008_tr_1_tl_11"/>neben 60.000 Schwarzen nur wenig Weisse dort leben, als Funktionä 
+               <lb xml:id="p008_tr_1_tl_12" break="no"/>re, Angestellte Portugiesischer Handelshauser, Lehrer, Aerzte, Missio 
+               <lb xml:id="p008_tr_1_tl_13" break="no"/>nare und Plantagenbesitzer. Die Inseln sind fruchtbar. Man expor 
+               <lb xml:id="p008_tr_1_tl_14" break="no"/>tiert vor allem Kaffee, Kakao, Kokosnüsse, Bananen, Mandarinen, Mango 
+               <lb xml:id="p008_tr_1_tl_15"/>und Zuckerrohr.</p>
+            <p> 
+               <lb xml:id="p008_tr_1_tl_16"/>Die Insel San Thome hat einen Flächeninhalt von knapp 1000 km2. 
+               <lb xml:id="p008_tr_1_tl_17"/>18 km. Eisenbahnstrecken und 300 km. Strassen sind ausgebaut. San 
+               <lb xml:id="p008_tr_1_tl_18"/>Thomé besitzt zwei Spitäler und mehrere Elementarschulen. Die 
+               <lb xml:id="p008_tr_1_tl_19"/>beiden Portugiesischen Kolonien San Thome und Principe sind durch 
+               <lb xml:id="p008_tr_1_tl_20"/>den Krieg hart betroffen, durch den sie ihrer Ausfuhrmöglichkeiten 
+               <lb xml:id="p008_tr_1_tl_21"/>fast gänzlich beraubt wurden. Die Ansprüche der schwarzen Bevölke 
+               <lb xml:id="p008_tr_1_tl_22" break="no"/>rung sind jedoch so bescheiden, dass sie auch diese schwere Zeit 
+               <lb xml:id="p008_tr_1_tl_23"/>ertragen werden.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space]</p>
+            <p> 
+               <lb xml:id="p008_tr_1_tl_24"/>Text zum Bildbericht über die <hi rendition="#u">Insel San Thomé</hi> von: 
+               <lb xml:id="p008_tr_1_tl_25"/>Annemarie Clarac-Schwarzenbach.</p>
+            <p> 
+               <lb xml:id="p008_tr_1_tl_26"/>Beilagen: 9 Bilder und Beschriftungen separat.</p>
+            <p> 
+               <lb xml:id="p008_tr_1_tl_27"/>Für alle Mitteilungen und Ueberweisungen an Frau Dr. Annemarie 
+               <lb xml:id="p008_tr_1_tl_28"/>Clarac-Schwarzenbach zeichnet die Bevollmächtigte:</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p008_tr_1_tl_29"/>Marie-Louise Bodmer. 
+               <lb xml:id="p008_tr_1_tl_30"/>Frau M.-L.Bodmer 
+               <lb xml:id="p008_tr_1_tl_31"/>alte Landstrasse 95 
+               <lb xml:id="p008_tr_1_tl_32"/>Zollikon-Zurich.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
