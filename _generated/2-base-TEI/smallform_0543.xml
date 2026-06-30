@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0543" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0543#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0543</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0543"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0543_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0543_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_2_tl_1"/>Kleines Kongo-Tagebuch 
+               <lb xml:id="p001_r_2_tl_2"/>von Annemarie <hi rendition="#g">Clarac=Schwarzenbach</hi></p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_2_tl_3"/>Abschied von Leopoldville</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_4"/>Seit der Abreise von Leopoldville habe ich schon 
+               <lb xml:id="p001_r_2_tl_5"/>genug Erfahrungen gemacht, um ein Buch damit zu 
+               <lb xml:id="p001_r_2_tl_6"/>füllen – aber auch genug, um zu wissen, daß es nur 
+               <lb xml:id="p001_r_2_tl_7"/>ein kleines Tagebuch werden wird. Denn das Schreib 
+               <lb xml:id="p001_r_2_tl_8" break="no"/>papier könnte mir ausgehen, oder die Maschine zer 
+               <lb xml:id="p001_r_2_tl_9" break="no"/>brechen, und vielleicht fressen die großen Termiten auch 
+               <lb xml:id="p001_r_2_tl_10"/>Farbbänder. Meistens hat man keinen Ort, wo man 
+               <lb xml:id="p001_r_2_tl_11"/>für eine Weile allein sein und nachdenken könnte. Und 
+               <lb xml:id="p001_r_2_tl_12"/>vielleicht ist es überhaupt gefährlich, nachzudenken – 
+               <lb xml:id="p001_r_2_tl_13"/>so, wie es gefährlich ist, ohne Tropenhelm auszugehen, 
+               <lb xml:id="p001_r_2_tl_14"/>sogar wenn der Himmel grau ist und man die Sonne 
+               <lb xml:id="p001_r_2_tl_15"/>nicht sieht. Und seitdem ich in diesem Land bin, war 
+               <lb xml:id="p001_r_2_tl_16"/>der Himmel immer grau. Die Menschen, die ich hier 
+               <lb xml:id="p001_r_2_tl_17"/>treffe, denken nur nach, wenn ihnen schwer ums Herz 
+               <lb xml:id="p001_r_2_tl_18"/>ist, oder wenn sie sich krank fühlen – und dann endet 
+               <lb xml:id="p001_r_2_tl_19"/>es häufig mit Trinken. Andere trinken immer, und 
+               <lb xml:id="p001_r_2_tl_20"/>machen das Klima für alles verantwortlich, oder den 
+               <lb xml:id="p001_r_2_tl_21"/>Krieg. Aber es gibt auch solche, die gar nichts trinken, 
+               <lb xml:id="p001_r_2_tl_22"/>entweder sind sie Missionare, oder Leute, die trotz des 
+               <lb xml:id="p001_r_2_tl_23"/>Klimas immer gesund sind, und selbst während des 
+               <lb xml:id="p001_r_2_tl_24"/>Kriegs den Mut nicht verlieren. Bei einem solchen 
+               <lb xml:id="p001_r_2_tl_25"/>Manne wohne ich jetzt. Ich kenne ihn erst seit zwei 
+               <lb xml:id="p001_r_2_tl_26"/>Tagen, er redete mich an, als ich mit einer Taschen- 
+               <lb xml:id="p001_r_2_tl_27"/>lampe vom Fluß heraufkam, und fragte mich, ob ich 
+               <lb xml:id="p001_r_2_tl_28"/>schon ein Bett für die Nacht habe, denn es gebe nicht 
+               <lb xml:id="p001_r_2_tl_29"/>viel Betten im Ort, und essen müsse ich auch. Im ersten 
+               <lb xml:id="p001_r_2_tl_30"/>Weltkrieg war er Kommandant, jetzt kauft er bei den 
+               <lb xml:id="p001_r_2_tl_31"/>Schwarzen Palmfrüchte ein, und beginnt auch, Kaffee 
+               <lb xml:id="p001_r_2_tl_32"/>zu Pflanzen. Er lebt ganz allein, und hat einen Last 
+               <lb xml:id="p001_r_2_tl_33" break="no"/>wagen, seine Frau und sein Sohn sind in Belgien. 
+               <lb xml:id="p001_r_2_tl_34"/>Einmal hat er Nachricht von ihnen bekommen durch 
+               <lb xml:id="p001_r_2_tl_35"/>das Rote Kreuz, und weiß, daß der Bub in die Schule 
+               <lb xml:id="p001_r_2_tl_36"/>geht, und daß sein Bruder Kriegsgefangener in Deutsch 
+               <lb xml:id="p001_r_2_tl_37" break="no"/>land ist. Er sagt, wenn er gewußt hätte, daß der Krieg 
+               <lb xml:id="p001_r_2_tl_38"/>kommt, hätte er seine Frau nicht nach Brüssel geschickt, 
+               <lb xml:id="p001_r_2_tl_39"/>aber sie war krank. Natürlich hätte sie auch in Leopold 
+               <lb xml:id="p001_r_2_tl_40" break="no"/>ville operiert werden können...</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_41"/>Er hat mich gefragt, ob ich während des Krieges 
+               <lb xml:id="p001_r_2_tl_42"/>im Kongo bleiben werde, und ich weiß es wirklich nicht: 
+               <lb xml:id="p001_r_2_tl_43"/>daran habe ich gemerkt, daß ich nicht mehr viel nach 
+               <lb xml:id="p001_r_2_tl_44" break="no"/>denke. Was hätte es auch für einen Zweck, es hängt 
+               <lb xml:id="p001_r_2_tl_45"/>nicht von mir ab, ob ich ein Visum für ein anderes 
+               <lb xml:id="p001_r_2_tl_46"/>Land bekommen werde, und ob noch Schiffe fahren
+               <milestone unit="textregion" xml:id="p001_r_3"/> 
+               <lb xml:id="p001_r_3_tl_1"/>können oder Flugzeuge. Wenn ich nachdenke, habe ich 
+               <lb xml:id="p001_r_3_tl_2"/>Heimweh, und das kenne ich schon, man wacht mitten 
+               <lb xml:id="p001_r_3_tl_3"/>in der Nacht auf und weint, weil man geträumt hat. 
+               <lb xml:id="p001_r_3_tl_4"/>Hier gibt es Leute, die schon seit drei Jahren Heimweh 
+               <lb xml:id="p001_r_3_tl_5"/>haben, denn die Diensttermine sind meistens drei 
+               <lb xml:id="p001_r_3_tl_6"/>Jahre, aber jetzt können die, welche am Ende ihres 
+               <lb xml:id="p001_r_3_tl_7"/>Termins sind und ein Anrecht auf sechs Monate Ur 
+               <lb xml:id="p001_r_3_tl_8" break="no"/>laub haben, nicht nach Hause, und man schickt sie zur 
+               <lb xml:id="p001_r_3_tl_9"/>Erholung nach dem Kap.</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_10"/>Uebrigens ist das Klima jetzt nicht so schlimm, es 
+               <lb xml:id="p001_r_3_tl_11"/>ist gute Jahreszeit, und in Leopoldville war es sogar 
+               <lb xml:id="p001_r_3_tl_12"/>kühl, man konnte abends einen Sweater oder eine 
+               <lb xml:id="p001_r_3_tl_13"/>Jacke vertragen, und viele Leute waren erkältet. Ich 
+               <lb xml:id="p001_r_3_tl_14"/>kann mich an sehr schöne Abende in Leopoldville er 
+               <lb xml:id="p001_r_3_tl_15" break="no"/>innern. Um sechs Uhr fuhr man manchmal hinaus, ein 
+               <lb xml:id="p001_r_3_tl_16"/>kleines Stück flußabwärts bis zur "Corniche", von dort 
+               <lb xml:id="p001_r_3_tl_17"/>konnte man die Wasserfälle übersehen, und warten, bis 
+               <lb xml:id="p001_r_3_tl_18"/>die Sonne wie ein großes, gelbes Feuer im schwarzen 
+               <lb xml:id="p001_r_3_tl_19"/>Fluß versank. Das ging immer sehr schnell, und auf der 
+               <lb xml:id="p001_r_3_tl_20"/>Heimfahrt waren am Waldrand die weißen Schwärme 
+               <lb xml:id="p001_r_3_tl_21"/>der Eintagsfliegen so dicht, daß es im Scheinwerferlicht 
+               <lb xml:id="p001_r_3_tl_22"/>aussah, als schneie es, und man den Scheibenwischer 
+               <lb xml:id="p001_r_3_tl_23"/>brauchte. An der Wegkreuzung außerhalb der Stadt, 
+               <lb xml:id="p001_r_3_tl_24"/>oder vielmehr zwischen Leopoldville und dem älteren 
+               <lb xml:id="p001_r_3_tl_25"/>Teil, den man "Leo II." nennt, hielten wir manchmal 
+               <lb xml:id="p001_r_3_tl_26"/>bei der "Auberge du petit pont" und tranken Kaffee. 
+               <lb xml:id="p001_r_3_tl_27"/>Um diese Zeit waren immer viel Leute dort, Ange 
+               <lb xml:id="p001_r_3_tl_28" break="no"/>stellte und Beamte mit ihren Frauen, und auch viele 
+               <lb xml:id="p001_r_3_tl_29"/>belgische Soldaten und belgische und englische Flieger 
+               <lb xml:id="p001_r_3_tl_30"/>und Offiziere. Aber mittags, wenn ich mit einem 
+               <lb xml:id="p001_r_3_tl_31"/>Freund hinausfuhr, um Spiegeleier und Speck zu essen, 
+               <lb xml:id="p001_r_3_tl_32"/>waren wir die einzigen Gäste, weil die Mittagspause 
+               <lb xml:id="p001_r_3_tl_33"/>in Leo zu kurz ist, und die Leute nach dem Essen schla 
+               <lb xml:id="p001_r_3_tl_34" break="no"/>fen wollen. Madame Thérèse, die Wirtin vom "Petit 
+               <lb xml:id="p001_r_3_tl_35"/>pont", hat einen Gemüsegarten, und Hühner und 
+               <lb xml:id="p001_r_3_tl_36"/>Schweine, darum ist das Essen bei ihr immer sehr 
+               <lb xml:id="p001_r_3_tl_37"/>gut. In Leopoldville ging ich auch oft auf das Flug 
+               <lb xml:id="p001_r_3_tl_38" break="no"/>feld, wenn die großen Flugzeuge aus Südafrika an 
+               <lb xml:id="p001_r_3_tl_39" break="no"/>kamen, oder zum Presseattaché auf dem englischen Kon 
+               <lb xml:id="p001_r_3_tl_40" break="no"/>sulat, oder auf die Zeitung, für die ich Artikel schrieb, 
+               <lb xml:id="p001_r_3_tl_41"/>und sehr oft fuhr ich im kleinen Motorboot über den 
+               <lb xml:id="p001_r_3_tl_42"/>Fluß nach Brazzaville, dort ist das Hauptquartier 
+               <lb xml:id="p001_r_3_tl_43"/>von General De Gaulle, und ich ging immer zur Ra 
+               <lb xml:id="p001_r_3_tl_44" break="no"/>diostation. Sie nehmen dort die Morsemeldungen der 
+               <lb xml:id="p001_r_3_tl_45"/>Agenturen so schnell auf wie London oder New York, 
+               <lb xml:id="p001_r_3_tl_46"/>und wir bekamen die Nachrichten ebenso schnell. Ueber- 
+               <lb xml:id="p001_r_3_tl_47"/>haupt wurde in Brazzaville ganz anders gearbeitet
+               <milestone unit="textregion" xml:id="p001_r"/> 
+               <lb xml:id="p001_r_tl_1"/>als in Leo, und es schien nur Offiziere und Soldaten 
+               <lb xml:id="p001_r_tl_2"/>zu geben, die Zivilbevölkerung bemerkte man gar nicht. 
+               <lb xml:id="p001_r_tl_3"/>Manchmal glaubte ich, ich sei lieber in Brazzaville, 
+               <lb xml:id="p001_r_tl_4"/>aber wenn ich abends nach Leo zurückkam, und meine 
+               <lb xml:id="p001_r_tl_5"/>Freunde wieder traf, war ich wie zu Hause.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_6"/>Mir scheint, wenn ich jetzt daran zurückdenke, 
+               <lb xml:id="p001_r_tl_7"/>daß ich Heimweh nach Leopoldville habe, obwohl ich 
+               <lb xml:id="p001_r_tl_8"/>vielleicht nicht hätte dort leben können. Man sagt, es 
+               <lb xml:id="p001_r_tl_9"/>sei eine Stadt von Händlern und Kleinbürgern, und 
+               <lb xml:id="p001_r_tl_10"/>ich kenne dort Menschen, die an einer erstickten Sehn- 
+               <lb xml:id="p001_r_tl_11"/>sucht langsam sterben wie an einer Krankheit, es ist 
+               <lb xml:id="p001_r_tl_12"/>gefährlich, daran zu rühren. Aber dann, wovon leben 
+               <lb xml:id="p001_r_tl_13"/>wir Menschen! – In Europa, wo das Leben besser 
+               <lb xml:id="p001_r_tl_14"/>und reicher war, sterben sie jetzt zu Tausenden in un 
+               <lb xml:id="p001_r_tl_15" break="no"/>seren Ländern am Elend des Kriegs, und Abertausende 
+               <lb xml:id="p001_r_tl_16"/>sind bereit für den Heldentod, andere möchten fort, 
+               <lb xml:id="p001_r_tl_17"/>um nur irgendwo in Frieden ein neues Dasein zu be 
+               <lb xml:id="p001_r_tl_18" break="no"/>ginnen. Aber ich habe mitten im Frieden Menschen 
+               <lb xml:id="p001_r_tl_19"/>gesehen, die in großen Städten so elend waren, daß es 
+               <lb xml:id="p001_r_tl_20"/>ihnen das Herz brach – und ich spreche nicht von den 
+               <lb xml:id="p001_r_tl_21"/>Armen. Kürzlich zeigt man mir in Leopoldville einen 
+               <lb xml:id="p001_r_tl_22"/>Brief aus Chicago, darin stand: "Es geht uns gut, 
+               <lb xml:id="p001_r_tl_23"/>wir leiden keinen Mangel. Aber diese Stadt ist furcht 
+               <lb xml:id="p001_r_tl_24" break="no"/>bar, es gibt zu viel Steine..." – und man sagte mir: 
+               <lb xml:id="p001_r_tl_25"/>"Aber hier im Kongo gibt es zu viel Grün!" –</p>
+            <p> 
+               <lb xml:id="p001_r_tl_27"/>Wenn ich ihnen so zuhöre, wage ich es nicht mehr 
+               <lb xml:id="p001_r_tl_26"/>einen Rat zu geben oder eine Hoffnung auszusprechen 
+               <lb xml:id="p001_r_tl_28"/>und wenn ich von vielen Orten erzähle, die ich schon 
+               <lb xml:id="p001_r_tl_29"/>geliebt habe, und von denen mir der Abschied schwer 
+               <lb xml:id="p001_r_tl_30"/>wurde, glaubt man mir nicht. "Heimweh nach Leopold 
+               <lb xml:id="p001_r_tl_31" break="no"/>ville?" sagen sie – "Du wirst es schnell vergessen 
+               <lb xml:id="p001_r_tl_32"/>haben!" – Aber so haben sie auch in Kabul geredet 
+               <lb xml:id="p001_r_tl_33"/>in Baku, in Talinn, in Teheran, Ankara, Beyrouth 
+               <lb xml:id="p001_r_tl_34"/>Aleppo, in Lissabon und in vielen anderen Städten. 
+               <lb xml:id="p001_r_tl_35"/>Und ich habe Heimweh nach dem Nebel von Nantucket 
+               <lb xml:id="p001_r_tl_36"/>und den Reben von Kabul und darf nicht daran den 
+               <lb xml:id="p001_r_tl_37" break="no"/>ken, welche Jahreszeit es jetzt zu Hause ist. Hier sagen 
+               <lb xml:id="p001_r_tl_38"/>sie nie "Sommer" oder "Herbst", sondern sprechen nur 
+               <lb xml:id="p001_r_tl_39"/>von der trockenen Jahreszeit, oder von der guten und 
+               <lb xml:id="p001_r_tl_40"/>schlechten, und rechnen nur nach Jahren bis ihr Termin 
+               <lb xml:id="p001_r_tl_41"/>abgelaufen ist. Und doch – wie konnte man sich plötz 
+               <lb xml:id="p001_r_tl_42" break="no"/>lich wunderbar trösten! – In Leopoldville gab es 
+               <lb xml:id="p001_r_tl_43"/>einen Spaziergang an [sic] Rand der Stadt, wo an einem 
+               <lb xml:id="p001_r_tl_44"/>Sandweg erst ein paar neubewohnte Häuschen stehen, 
+               <lb xml:id="p001_r_tl_45"/>des Nachts im Mondlicht wurden die Wiesen dahin 
+               <lb xml:id="p001_r_tl_46" break="no"/>ter zu einer großen, weiß im Weltall schwimmenden 
+               <lb xml:id="p001_r_tl_47"/>Ebene, die Palmstämme schwebten darüber und war
+               <milestone unit="textregion" xml:id="p001_r_5"/> 
+               <lb xml:id="p001_r_5_tl_1" break="no"/>fen keine Schatten, man konnte gehen und gehen und 
+               <lb xml:id="p001_r_5_tl_2"/>die Stadt vergessen, und den Krieg, und daß es einen 
+               <lb xml:id="p001_r_5_tl_3"/>nächsten Tag geben würde, so leicht und taufrisch war 
+               <lb xml:id="p001_r_5_tl_4"/>die Nacht, so schmerzlos war es, zu atmen, so glück 
+               <lb xml:id="p001_r_5_tl_5" break="no"/>lich war man!</p>
+            <p> 
+               <lb xml:id="p001_r_5_tl_6"/>Jetzt bin ich in einem Kongoposten, der sieben Tage 
+               <lb xml:id="p001_r_5_tl_7"/>flußaufwärts von Leopoldville entfernt ist, und wo es 
+               <lb xml:id="p001_r_5_tl_8"/>nur 45 Europäer gibt. Sie sind Kaufleute und treiben 
+               <lb xml:id="p001_r_5_tl_9"/>für ihre Gesellschaft Handel mit den Eingeborenen 
+               <lb xml:id="p001_r_5_tl_10"/>oder sie haben kleine Plantagen, und das Leben ist 
+               <lb xml:id="p001_r_5_tl_11"/>für sie sehr hart, aber der Ort ist schön wie ein Pal 
+               <lb xml:id="p001_r_5_tl_12" break="no"/>mengarten. Einmal in der Woche kommt ein Flug 
+               <lb xml:id="p001_r_5_tl_13" break="no"/>zeug von Leopoldville nach Stanleyville hier vorbei, 
+               <lb xml:id="p001_r_5_tl_14"/>und zweimal im Monat ein Dampfer. Eine Straße 
+               <lb xml:id="p001_r_5_tl_15"/>gibt es nicht, weil der Urwald viel zu dicht ist. Als der 
+               <lb xml:id="p001_r_5_tl_16"/>Direktor der "Otrako" in Leopoldville mir eines Tages 
+               <lb xml:id="p001_r_5_tl_17"/>sagte, daß er für den nächsten Morgen ein "Ticket de 
+               <lb xml:id="p001_r_5_tl_18"/>service" auf dem 800-Tonnen-Dampfer für mich habe, 
+               <lb xml:id="p001_r_5_tl_19"/>wußte ich noch nicht, was es bedeutet, so weit ins 
+               <lb xml:id="p001_r_5_tl_20"/>Innere zu gehen. Ich begriff nur, daß ich abreisen 
+               <lb xml:id="p001_r_5_tl_21"/>mußte und wieder ganz allein sein würde. Ich freute 
+               <lb xml:id="p001_r_5_tl_22"/>mich überhaupt auf nichts, und es war doch meine 
+               <lb xml:id="p001_r_5_tl_23"/>Arbeit, das Innere der Länder kennenzulernen und sie 
+               <lb xml:id="p001_r_5_tl_24"/>aufrichtig zu lieben, um sie für andere Menschen be 
+               <lb xml:id="p001_r_5_tl_25" break="no"/>schreiben zu können! – Und ich hatte es doch selbst so 
+               <lb xml:id="p001_r_5_tl_26"/>gewollt! – Aber so ist man, immer feige, und fürchtet 
+               <lb xml:id="p001_r_5_tl_27"/>jeden Schmerz, und doch ist er mit jener Freude ver 
+               <lb xml:id="p001_r_5_tl_28" break="no"/>bunden wie ein Geschwister, die ich am weißen Welt 
+               <lb xml:id="p001_r_5_tl_29" break="no"/>rand von Leopoldville empfand und immer wieder er 
+               <lb xml:id="p001_r_5_tl_30" break="no"/>kenne.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_5_tl_31"/>(Lisala, 13. Juli 1941.)</p>
+</div>
+       </body>
+    </text>
+ </TEI>
