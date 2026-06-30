@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0535" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0535#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0535</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0535"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0535_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0535_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_l"/>Dschungel [von Eugen Früh]</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_2_tl_1"/>Begegnung mit dem 
+               <lb xml:id="p001_l_7"/>DSCHUNGEL</p>
+
+            <milestone unit="textregion" xml:id="p001_r_3"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_3_tl_1"/>VON ANNEMARIE CLARAC-SCHWARZENBACH + ZEICHNUNGEN VON EUGEN FRUH</p>
+
+            <milestone unit="textregion" xml:id="p001_r_5"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_5_tl_1"/>Molanda en Mangala, Congo Belge.</p>
+            <p> 
+               <lb xml:id="p001_r_5_tl_2"/>Nachdem ich sieben Tage lang auf einem klei 
+               <lb xml:id="p001_r_5_tl_3" break="no"/>nen Flussdampfer den Kongo hinaufgefahren war, 
+               <lb xml:id="p001_r_5_tl_4"/>glaubte ich, den afrikanischen Urwald schon 
+               <lb xml:id="p001_r_5_tl_5"/>etwas zu kennen, und sein Anblick, der dem eines 
+               <lb xml:id="p001_r_5_tl_6"/>tiefgrünen, wallenden Meeres gleicht, war mir 
+               <lb xml:id="p001_r_5_tl_7"/>während dieser Zeit zu einer traumartigen Be 
+               <lb xml:id="p001_r_5_tl_8" break="no"/>drückung geworden. Man musste, um den Wald 
+               <lb xml:id="p001_r_5_tl_9"/>zu sehen, schon auf die Kapitänsbrücke hinauf 
+               <lb xml:id="p001_r_5_tl_10" break="no"/>steigen, vom Ladedeck aus, wo auch die sechs 
+               <lb xml:id="p001_r_5_tl_12"/>Passagiere untergebracht waren, sah man nur 
+               <lb xml:id="p001_r_5_tl_11"/>Wände aus Bäumen und dichtem Gebüsch, und auf 
+               <lb xml:id="p001_r_5_tl_13"/>kleinen Lichtungen die Dörfer der Eingeborenen 
+               <lb xml:id="p001_r_5_tl_14"/>ihre Feuer, und von langsamen Ruderschlägen 
+               <lb xml:id="p001_r_5_tl_15"/>getriebenen Pirogen.</p>
+            <p> 
+               <lb xml:id="p001_r_5_tl_16"/>In Lisala, wo ich an Land ging, wohnte man 
+               <lb xml:id="p001_r_5_tl_18"/>dann auf einer Anhöhe. Mit schönen, hohen Pal 
+               <lb xml:id="p001_r_5_tl_17" break="no"/>men bestandene Wiesen täuschten ein Panorama 
+               <lb xml:id="p001_r_5_tl_19"/>und ein wenig Bewegungsfreiheit vor. Aber in 
+               <lb xml:id="p001_r_5_tl_20"/>Wirklichkeit war es damit nicht weit her, man 
+               <lb xml:id="p001_r_5_tl_21"/>überschaute zwar die riesige, graue Fläche des 
+               <lb xml:id="p001_r_5_tl_22"/>Stroms, aber dahinter, am anderen Ufer, begannen 
+               <lb xml:id="p001_r_5_tl_23"/>wieder die gleichen, blaugrünen, von Dunst über 
+               <lb xml:id="p001_r_5_tl_24" break="no"/>dachten Wellen des Waldes, den man auch im 
+               <lb xml:id="p001_r_5_tl_25"/>Rücken hatte, und wenn man sich auf der Anhöhe 
+               <lb xml:id="p001_r_5_tl_26"/>langsam im Kreis drehte, fand der Blick nirgends 
+               <lb xml:id="p001_r_5_tl_27"/>Freiheit und nirgends einen Ruhepunkt. Man war 
+               <lb xml:id="p001_r_5_tl_28"/>wie im Inneren einer Sternwarte gefangen, der 
+               <lb xml:id="p001_r_5_tl_29"/>Horizont war in das Rund des Wald-Ozeans ge- 
+               <lb xml:id="p001_r_5_tl_30"/>bannt als künstliche Grenze zwischen seinem Ge 
+               <lb xml:id="p001_r_5_tl_31" break="no"/>woge und dem des Wolkenhimmels. Ich dachte, 
+               <lb xml:id="p001_r_5_tl_32"/>dass man, um hier zu bestehen, wohl den Kampf 
+               <lb xml:id="p001_r_5_tl_33"/>mit dem Wald aufnehmen müsste, sozusagen 
+               <lb xml:id="p001_r_5_tl_34"/>einen Kampf mit den Elementen, einen ursprüng 
+               <lb xml:id="p001_r_5_tl_35" break="no"/>lichen Kampf um die Existenz.</p>
+            <p> 
+               <lb xml:id="p001_r_5_tl_36"/>Die Macht der Natur schien mir zu gross, diese 
+               <lb xml:id="p001_r_5_tl_37"/>wuchernde Wildnis in der feuchten Fruchtbarkeit 
+               <lb xml:id="p001_r_5_tl_38"/>und Tropenwärme des Aequators glich ja einer 
+               <lb xml:id="p001_r_5_tl_39"/>Vorzeit unserer Erde, als sie noch nicht von Men 
+               <lb xml:id="p001_r_5_tl_40" break="no"/>schen bewohnt war. Sich ihr überlassen, hiesse 
+               <lb xml:id="p001_r_5_tl_41"/>in Pfahlwohnungen über Sümpfen zurückkehren 
+               <lb xml:id="p001_r_5_tl_42"/>und in einen Dämmerzustand, worin man sich 
+               <lb xml:id="p001_r_5_tl_43"/>nur noch gegen wilde Tiere und um ein bisschen 
+               <lb xml:id="p001_r_5_tl_44"/>Nahrung wehren würde, – und ein solches Le 
+               <lb xml:id="p001_r_5_tl_45" break="no"/>ben ist für uns Erben vieler Jahrhunderte nicht 
+               <lb xml:id="p001_r_5_tl_46"/>genug. Wir sind die Kinder von Bauern, Pionieren, 
+               <lb xml:id="p001_r_5_tl_47"/>Entdeckern und Kreuzfahrern, und wollen den 
+               <lb xml:id="p001_r_5_tl_48"/>Stillstand nicht, der im Kreislauf der Erde, ihrer 
+               <lb xml:id="p001_r_5_tl_49"/>Jahreszeiten und ihrer Geschöpfe vorgeschrieben 
+               <lb xml:id="p001_r_5_tl_50"/>scheint, wir tragen einen Stachel in unserem 
+               <lb xml:id="p001_r_5_tl_51"/>Fleisch, wir sind Sünder, die nach dem Apfel und 
+               <lb xml:id="p001_r_5_tl_52"/>dem Gespräch mit der Schlange begehren. In den 
+               <lb xml:id="p001_r_5_tl_53"/>Tropen wird es früh dunkel, und da es in Lisala 
+               <lb xml:id="p001_r_5_tl_54"/>noch kein elektrisches Licht gab, waren die 
+               <lb xml:id="p001_r_5_tl_55"/>Nächte lang und drückend. Da träumte ich manch 
+               <lb xml:id="p001_r_5_tl_56" break="no"/>mal, man müsse Breschen schlagen, Lichtungen 
+               <lb xml:id="p001_r_5_tl_57"/>weiten, und einen Weg durch den Urwald öffnen 
+               <lb xml:id="p001_r_5_tl_58"/>bis an sein Ende, welches man nur vermuten kann, 
+               <lb xml:id="p001_r_5_tl_59"/>wo aber weite Grasebenen voller Herden leicht 
+               <lb xml:id="p001_r_5_tl_60" break="no"/>füssiger Tiere sich ausbreiten müssen und Ge 
+               <lb xml:id="p001_r_5_tl_61" break="no"/>birge in blauer Ferne sich erheben.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_6"/>            <p> 
+               <lb xml:id="p001_r_6_tl_1"/>Die wenigen Weissen, die in dem Kongo-Posten 
+               <lb xml:id="p001_r_6_tl_2"/>für ein paar Jahre ansässig waren, hatten aber 
+               <lb xml:id="p001_r_6_tl_3"/>eine ganz andere Methode, sich gegen die Ueber 
+               <lb xml:id="p001_r_6_tl_4" break="no"/>macht des Dschungels zu wehren. Sie waren mei 
+               <lb xml:id="p001_r_6_tl_5" break="no"/>stens Beamte des Staats, die ungeduldig auf den 
+               <lb xml:id="p001_r_6_tl_6"/>Ablauf ihrer Dienstjahre warteten, wie auf das 
+               <lb xml:id="p001_r_6_tl_7"/>Ende einer Strafzeit, – oder Händler, die mög 
+               <lb xml:id="p001_r_6_tl_8" break="no"/>lichst schnell genug Geld verdienen wollten, um 
+               <lb xml:id="p001_r_6_tl_9"/>sich irgendwo ein angenehmères Leben leisten zu 
+               <lb xml:id="p001_r_6_tl_10"/>können.</p>
+            <p> 
+               <lb xml:id="p001_r_6_tl_11"/>Um die Nähe des tiefen, furchtbar fremden 
+               <lb xml:id="p001_r_6_tl_12"/>Urwalds nicht bemerken zu müssen, hielten sie 
+               <lb xml:id="p001_r_6_tl_13"/>es wie der Vogel Strauss, sie überschritten 
+               <lb xml:id="p001_r_6_tl_14"/>selten die Schwelle ihrer Häuser und umgaben 
+               <lb xml:id="p001_r_6_tl_15"/>ihre kleinen Gärten mit dichten Hecken. Mit der 
+               <lb xml:id="p001_r_6_tl_16"/>Hilfe von Radios, Konservenbüchsen, Besuchen, 
+               <lb xml:id="p001_r_6_tl_17"/>kleinen Zwisten unter Nachbarn und einer Reihe 
+               <lb xml:id="p001_r_6_tl_18"/>anderer zivilisierten Gewohnheiten richteten sie 
+               <lb xml:id="p001_r_6_tl_19"/>sich ein Leben ein, wie es 
+               <lb xml:id="p001_r_6_tl_20"/>für Weisse des 20. Jahr 
+               <lb xml:id="p001_r_6_tl_21" break="no"/>hunderts etwa normal er 
+               <lb xml:id="p001_r_6_tl_22" break="no"/>scheint, und da sie vom 
+               <lb xml:id="p001_r_6_tl_23"/>Lärm und der Not des 
+               <lb xml:id="p001_r_6_tl_24"/>Krieges sehr weit ent 
+               <lb xml:id="p001_r_6_tl_25" break="no"/>fernt waren, konnte es 
+               <lb xml:id="p001_r_6_tl_26"/>ihnen beinahe entgehen, 
+               <lb xml:id="p001_r_6_tl_27"/>dass genau dieses zivili 
+               <lb xml:id="p001_r_6_tl_28" break="no"/>sierte Leben heute bloss 
+               <lb xml:id="p001_r_6_tl_29" break="no"/>gestellt ist, keiner ern 
+               <lb xml:id="p001_r_6_tl_30" break="no"/>sten Prüfung mehr stand 
+               <lb xml:id="p001_r_6_tl_31"/>hält und zusammenstürzt 
+               <lb xml:id="p001_r_6_tl_32"/>wie ein morsches Ge 
+               <lb xml:id="p001_r_6_tl_33" break="no"/>bäude. Aber die konven 
+               <lb xml:id="p001_r_6_tl_34" break="no"/>tionellen Daseinsformen, 
+               <lb xml:id="p001_r_6_tl_35"/>derer sie sich bedienen, 
+               <lb xml:id="p001_r_6_tl_36"/>haben hier in Afrika kei 
+               <lb xml:id="p001_r_6_tl_37" break="no"/>nen rechten Inhalt, sie 
+               <lb xml:id="p001_r_6_tl_38"/>teilen nur den Tag ein 
+               <lb xml:id="p001_r_6_tl_39"/>und töten die Zeit, sie 
+               <lb xml:id="p001_r_6_tl_40"/>entspringen nicht mehr 
+               <lb xml:id="p001_r_6_tl_41"/>der Sehnsucht der Men 
+               <lb xml:id="p001_r_6_tl_42" break="no"/>schen und stillen sie 
+               <lb xml:id="p001_r_6_tl_43"/>nicht. Sie sind nur dünne 
+               <lb xml:id="p001_r_6_tl_44"/>Schutzmauern gegen den 
+               <lb xml:id="p001_r_6_tl_45"/>Strom unserer innersten 
+               <lb xml:id="p001_r_6_tl_46"/>Begierden, übertünchen 
+               <lb xml:id="p001_r_6_tl_47"/>nur unsere innerste Not, 
+               <lb xml:id="p001_r_6_tl_48"/>– und so dämmern die 
+               <lb xml:id="p001_r_6_tl_49"/>meisten Menschen nicht 
+               <lb xml:id="p001_r_6_tl_50"/>viel anders dahin, als 
+               <lb xml:id="p001_r_6_tl_51"/>wenn sie im Dschungel 
+               <lb xml:id="p001_r_6_tl_52"/>begraben lägen, und ver 
+               <lb xml:id="p001_r_6_tl_53" break="no"/>kommen unglücklich.</p>
+            <p> 
+               <lb xml:id="p001_r_6_tl_54"/>Ich konnte bald nicht 
+               <lb xml:id="p001_r_6_tl_55"/>mehr anders, ich wollte 
+               <lb xml:id="p001_r_6_tl_56"/>in das Innere des afrika 
+               <lb xml:id="p001_r_6_tl_57" break="no"/>nischen Aequatorwaldes, 
+               <lb xml:id="p001_r_6_tl_59"/>den ich bisher nur wie 
+               <lb xml:id="p001_r_6_tl_60"/>ein Gemälde angeschaut 
+               <lb xml:id="p001_r_6_tl_61"/>hatte. Ich wollte es er
+               <milestone unit="textregion" xml:id="p001_r_7"/> 
+               <lb xml:id="p001_r_7_tl_1" break="no"/>proben, ob wir nur Bastarde dieser Erde sind, 
+               <lb xml:id="p001_r_7_tl_2"/>die sich nur in einem kleinen, schwach verschanz 
+               <lb xml:id="p001_r_7_tl_3" break="no"/>ten Fleck behaupten können, – oder ob wir nicht 
+               <lb xml:id="p001_r_7_tl_4"/>bessere Widersacher sind, welche ausziehen, um, 
+               <lb xml:id="p001_r_7_tl_5"/>was sie eigentlich lieben, zugleich zu erobern und 
+               <lb xml:id="p001_r_7_tl_6"/>zu umarmen.</p>
+            <p> 
+               <lb xml:id="p001_r_7_tl_7"/>Man kann aber auf einer solchen Fahrt wirklich 
+               <lb xml:id="p001_r_7_tl_8"/>das Fürchten lernen, und es war doch noch nichts, 
+               <lb xml:id="p001_r_7_tl_9"/>diese 250 Kilometer im Lieferwagen eines Händ 
+               <lb xml:id="p001_r_7_tl_10" break="no"/>lers, der im Urwald die Dörfer besuchte, um 
+               <lb xml:id="p001_r_7_tl_11"/>Arachide und Kopal einzukaufen, – am Ende 
+               <lb xml:id="p001_r_7_tl_12"/>dieser Strecke würde ich auf einer Plantage von 
+               <lb xml:id="p001_r_7_tl_13"/>Schweizern ein Haus und ein Bett finden, und 
+               <lb xml:id="p001_r_7_tl_14"/>meine eigene Sprache reden können. Unterwegs 
+               <lb xml:id="p001_r_7_tl_15"/>würde ich keinen besonderen Gefahren ausgesetzt 
+               <lb xml:id="p001_r_7_tl_16"/>sein, ich würde in einem Dorf eine katholische 
+               <lb xml:id="p001_r_7_tl_17"/>Mission finden, in einem anderen den kleinen
+               <milestone unit="textregion" xml:id="p001_r_8"/> 
+               <lb xml:id="p001_r_8_tl_1"/>Negerladen eines Portugiesen, würde irgendwo 
+               <lb xml:id="p001_r_8_tl_2"/>einen Lastwagen aus Lisala antreffen, der seit 
+               <lb xml:id="p001_r_8_tl_3"/>einigen Tagen vermisst war und wahrscheinlich 
+               <lb xml:id="p001_r_8_tl_4"/>eine Motorpanne hatte, und würde wahrscheinlich 
+               <lb xml:id="p001_r_8_tl_5"/>dem einen oder anderen weissen Beamten be 
+               <lb xml:id="p001_r_8_tl_6" break="no"/>gegnen, die mit der Reparatur der Wege beauf- 
+               <lb xml:id="p001_r_8_tl_7"/>tragt waren. Und sollten wir einen Unfall haben 
+               <lb xml:id="p001_r_8_tl_8"/>so gab es in mehreren Dörfern eine vom Staat für 
+               <lb xml:id="p001_r_8_tl_9"/>die Reisenden instandgehaltene Hütte, und bei 
+               <lb xml:id="p001_r_8_tl_10"/>den Eingeborenen Bananen, Maniokkuchen und 
+               <lb xml:id="p001_r_8_tl_11"/>Eier. Die Weissen von Lisala warnten mich aller 
+               <lb xml:id="p001_r_8_tl_12" break="no"/>dings, die Strasse sei nur ein durch den Dschun 
+               <lb xml:id="p001_r_8_tl_13" break="no"/>gel geschlagener, etwas verbreiteter Negerpfad 
+               <lb xml:id="p001_r_8_tl_14"/>die über Sümpfe und Weiher gelegten Brücken 
+               <lb xml:id="p001_r_8_tl_15"/>aus Brettern würden oft einbrechen, nach einem 
+               <lb xml:id="p001_r_8_tl_16"/>Regenfall sei die rote Erde glatt wie Eis, und die 
+               <lb xml:id="p001_r_8_tl_17"/>Schwarzen würden immer noch gelegentlich einen 
+               <lb xml:id="p001_r_8_tl_18"/>Fremden von hinten mit Lanzen erstechen und 
+               <lb xml:id="p001_r_8_tl_19"/>aufessen. Aber obwohl dies alles richtig ist, 
+               <lb xml:id="p001_r_8_tl_20"/>fürchtet man sich weniger davor als vor dem 
+               <lb xml:id="p001_r_8_tl_21"/>Weg selbst, der unentrinnbar in das schweigende 
+               <lb xml:id="p001_r_8_tl_22"/>Dunkel der Wildnis hineinläuft. Die Bäume schla 
+               <lb xml:id="p001_r_8_tl_23" break="no"/>gen darüber zusammen, das Atmen wird schwer, 
+               <lb xml:id="p001_r_8_tl_24"/>die feuchte Hitze saugt sich in den Poren fest, 
+               <lb xml:id="p001_r_8_tl_25"/>scharfe Palmblätter und hängende Lianen ragen 
+               <lb xml:id="p001_r_8_tl_26"/>verwirrend in den Pfad, Baumstämme versperren 
+               <lb xml:id="p001_r_8_tl_27"/>ihn plötzlich, rote Terminenhügel erheben sich am 
+               <lb xml:id="p001_r_8_tl_28"/>Rand, die farblose Luft legt sich wie Wasser vor 
+               <lb xml:id="p001_r_8_tl_29"/>die Augen. Man fährt wie auf dem Meeresgrund, 
+               <lb xml:id="p001_r_8_tl_30"/>und fährt immer weiter, Stunde um Stunde, ohne 
+               <lb xml:id="p001_r_8_tl_31"/>dass je eine Welle von Wind oder Licht die dumpfe 
+               <lb xml:id="p001_r_8_tl_32"/>Stille unterbricht, das sonst so erfrischende Grün 
+               <lb xml:id="p001_r_8_tl_33"/>wird bedrückend, man möchte einen Streifen 
+               <lb xml:id="p001_r_8_tl_34"/>Wüstenweisse sehen, einen Meeresarm, eine gelbe 
+               <lb xml:id="p001_r_8_tl_35"/>Steppe, die Milchstrasse im Himmelszelt. Die 
+               <lb xml:id="p001_r_8_tl_36"/>strohgedeckten Erdhütten der Schwarzen sind am 
+               <lb xml:id="p001_r_8_tl_37"/>Rand des Pfades zwischen verkohlte Baum 
+               <lb xml:id="p001_r_8_tl_38" break="no"/>strünke gebaut, die Männer liegen schläfrig auf 
+               <lb xml:id="p001_r_8_tl_39"/>niedrigen Schragen, die Frauen hocken vor den 
+               <lb xml:id="p001_r_8_tl_40"/>Feuern und tragen die Säuglinge vor die hängen- 
+               <lb xml:id="p001_r_8_tl_41"/>den Brüste gebunden, die wilden Hunde mit Fle 
+               <lb xml:id="p001_r_8_tl_42" break="no"/>dermausköpfen rennen blindlings unter unsere Rä 
+               <lb xml:id="p001_r_8_tl_43" break="no"/>der, wir töten viele von ihnen. Der Schwarze am 
+               <lb xml:id="p001_r_8_tl_44"/>Steuer jagt auch eine fliehende Gazelle, trifft sie 
+               <lb xml:id="p001_r_8_tl_45"/>mit dem Vorderrad, steigt aus und wirft das ster 
+               <lb xml:id="p001_r_8_tl_46" break="no"/>bende Tier wortlos hinten in den Wagen. Gegen 
+               <lb xml:id="p001_r_8_tl_47"/>Abend setzt uns eine aus drei Pirogen zusam 
+               <lb xml:id="p001_r_8_tl_48" break="no"/>mengesetzte Fähre über einen Fluss, die schwar 
+               <lb xml:id="p001_r_8_tl_49" break="no"/>zen Ruderer kamen vom Tamtam einer Baum 
+               <lb xml:id="p001_r_8_tl_50" break="no"/>trommel gerufen aus dem Waldinneren. Der Fluss 
+               <lb xml:id="p001_r_8_tl_51"/>liegt wie ein Spiegel im Abend, glänzend, bewegt 
+               <lb xml:id="p001_r_8_tl_52"/>vom Abbild schöner Wolken und vom sanften 
+               <lb xml:id="p001_r_8_tl_53"/>Gleiten hauchdünner Pirogen, die von Neger 
+               <lb xml:id="p001_r_8_tl_54" break="no"/>fischerinnen gesteuert werden. Dann beginnt der 
+               <lb xml:id="p001_r_8_tl_55"/>Regen, der Himmel senkt sich schwarz herab, die 
+               <lb xml:id="p001_r_8_tl_56"/>Bäume biegen sich unter den Stössen des heran 
+               <lb xml:id="p001_r_8_tl_57" break="no"/>nahenden Tornados. Die Welt scheint nur noch 
+               <lb xml:id="p001_r_8_tl_58"/>aus dem von der zusammengeballten Dunkelheit 
+               <lb xml:id="p001_r_8_tl_59"/>eingeschlossenen, vom Sturm geschüttelten und 
+               <lb xml:id="p001_r_8_tl_60"/>wie ein ausbrechender Vulkan sich aufbäumenden 
+               <lb xml:id="p001_r_8_tl_61"/>Dschungel zu bestehen, die rote, durchnässte Erde 
+               <lb xml:id="p001_r_8_tl_62"/>glänzt wie von Fackeln beschienen. Einen Augen 
+               <lb xml:id="p001_r_8_tl_63" break="no"/>blick halten wir, dann packt der Schwarze das 
+               <lb xml:id="p001_r_8_tl_64"/>Steuer und der Wagen rollt und wird hin- und 
+               <lb xml:id="p001_r_8_tl_65"/>hergeworfen wie ein Schiff. Wir schauen so ge 
+               <lb xml:id="p001_r_8_tl_66" break="no"/>spannt aus, dass wir 
+               <lb xml:id="p001_r_8_tl_67"/>nicht einmal merken, wie 
+               <lb xml:id="p001_r_8_tl_68"/>der Regen aufgehört hat, 
+               <lb xml:id="p001_r_8_tl_69"/>so plötzlich wie er be 
+               <lb xml:id="p001_r_8_tl_70" break="no"/>gann. Aber man ist aus 
+               <lb xml:id="p001_r_8_tl_71"/>der Lähmung des langen 
+               <lb xml:id="p001_r_8_tl_72"/>Tages erwacht, mit 
+               <lb xml:id="p001_r_8_tl_73"/>durchnässten Schultern 
+               <lb xml:id="p001_r_8_tl_74"/>erfrischten Augen atmet 
+               <lb xml:id="p001_r_8_tl_75"/>man tief auf, der nächt 
+               <lb xml:id="p001_r_8_tl_76" break="no"/>liche Urwald scheint sei 
+               <lb xml:id="p001_r_8_tl_77" break="no"/>nen Schrecken verloren 
+               <lb xml:id="p001_r_8_tl_78"/>zu haben. Und gleich 
+               <lb xml:id="p001_r_8_tl_79"/>darauf lichtet er sich, 
+               <lb xml:id="p001_r_8_tl_80"/>man sieht weithin ver 
+               <lb xml:id="p001_r_8_tl_81" break="no"/>einzelte Stämme auf an 
+               <lb xml:id="p001_r_8_tl_82" break="no"/>steigendem Land verteilt, 
+               <lb xml:id="p001_r_8_tl_83"/>darüber ziehende Wol 
+               <lb xml:id="p001_r_8_tl_84" break="no"/>ken, einen offenen, hohen 
+               <lb xml:id="p001_r_8_tl_85"/>Himmel. Der Anblick ist 
+               <lb xml:id="p001_r_8_tl_86"/>wunderbar, es ist, als sei 
+               <lb xml:id="p001_r_8_tl_87"/>ein Sieg errungen wor 
+               <lb xml:id="p001_r_8_tl_88" break="no"/>den, und man sei dabei 
+               <lb xml:id="p001_r_8_tl_89"/>gewesen, und alle Fahnen 
+               <lb xml:id="p001_r_8_tl_90"/>würden aufgezogen. Jetzt 
+               <lb xml:id="p001_r_8_tl_91"/>schliessen sich stämmige 
+               <lb xml:id="p001_r_8_tl_92"/>Palmen wie zu einer 
+               <lb xml:id="p001_r_8_tl_93"/>Allee zusammen, vor 
+               <lb xml:id="p001_r_8_tl_94"/>ein paar Hütten hocken 
+               <lb xml:id="p001_r_8_tl_95"/>junge Neger am Feuer, 
+               <lb xml:id="p001_r_8_tl_96"/>einer von ihnen springt 
+               <lb xml:id="p001_r_8_tl_97"/>auf unser Trittbrett, um 
+               <lb xml:id="p001_r_8_tl_98"/>uns den Weg zu zeigen: 
+               <lb xml:id="p001_r_8_tl_99"/>wir haben den Ein 
+               <lb xml:id="p001_r_8_tl_100" break="no"/>gang der Plantage er 
+               <lb xml:id="p001_r_8_tl_101" break="no"/>reicht und rollen über 
+               <lb xml:id="p001_r_8_tl_102"/>weiches, duftendes Gras 
+               <lb xml:id="p001_r_8_tl_103"/>auf das von Sternen wie 
+               <lb xml:id="p001_r_8_tl_104"/>von einem Funkenregen 
+               <lb xml:id="p001_r_8_tl_105"/>erhellte Strohdach des 
+               <lb xml:id="p001_r_8_tl_106"/>Hauses zu...</p>
+
+            <milestone unit="textregion" xml:id="p001_r_4"/>            <figure>
+               <head resp="editor"> 
+                  <lb xml:id="p001_r_4_tl_1"/>Menschen im Dschungel [von Eugen Früh]</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+</div>
+       </body>
+    </text>
+ </TEI>
