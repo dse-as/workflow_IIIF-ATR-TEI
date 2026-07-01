@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0588" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0588#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0588</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0588"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0588_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0588_001.png"/>
+            <milestone unit="textregion" xml:id="p001_r_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_2_tl_1"/>Der Belgische Kongo 
+               <lb xml:id="p001_r_2_tl_2"/>und der Krieg</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_3"/>Der Belgische Kongo ist seit der deutschen 
+               <lb xml:id="p001_r_2_tl_4"/>Okkupation Belgiens in ähnlicher Lage wie die 
+               <lb xml:id="p001_r_2_tl_5"/>holländischen und die freien französischen 
+               <lb xml:id="p001_r_2_tl_6"/>Kolonien, die von ihrem Mutterland abgeschnit 
+               <lb xml:id="p001_r_2_tl_7" break="no"/>ten, von ihren Regierungen in London verwal 
+               <lb xml:id="p001_r_2_tl_8" break="no"/>tet, den Krieg an der Seite der Alliierten 
+               <lb xml:id="p001_r_2_tl_9"/>weiterführen. Wenn die Schauplätze der euro 
+               <lb xml:id="p001_r_2_tl_10" break="no"/>päischen Ereignisse in weiter Ferne liegen, so 
+               <lb xml:id="p001_r_2_tl_11"/>ist die Zusammenarbeit mit den britischen 
+               <lb xml:id="p001_r_2_tl_12"/>Kolonien in Afrika eine um so natürlichere Not 
+               <lb xml:id="p001_r_2_tl_13" break="no"/>wendigkeit.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_14"/>Der Krieg führt auch aus wirtschaftlichen 
+               <lb xml:id="p001_r_2_tl_15"/>Gründen zu einem engeren Zusammenschluß der 
+               <lb xml:id="p001_r_2_tl_16"/>afrikanischen Länder. Die Umstellungen, die sich 
+               <lb xml:id="p001_r_2_tl_17"/>jetzt im Belgischen Kongo vollziehen, sind nur 
+               <lb xml:id="p001_r_2_tl_18"/>zum Teil vorübergehender Art. Dazu gehört 
+               <lb xml:id="p001_r_2_tl_19"/>wohl die Konjunktur jener Produktionszweige 
+               <lb xml:id="p001_r_2_tl_20"/>im Kongo, die unmittelbar den Bedürfnissen des 
+               <lb xml:id="p001_r_2_tl_21"/>Krieges dienen. Der Kongo leistet besonder 
+               <lb xml:id="p001_r_2_tl_22"/>mit seinen <hi rendition="#g">Kupfer-</hi> und <hi rendition="#g">Zinn-Gruben</hi> 
+               <lb xml:id="p001_r_2_tl_23"/>und durch die Lieferung von Leder einen 
+               <lb xml:id="p001_r_2_tl_24"/>bedeutenden Beitrag an die Rüstung der 
+               <lb xml:id="p001_r_2_tl_25"/>Alliierten.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_26"/>Der größte Reichtum des Kongo sind neben 
+               <lb xml:id="p001_r_2_tl_27"/>den Goldgruben, besonders von Kilo Moto, die 
+               <lb xml:id="p001_r_2_tl_28"/>Zinn- und Kupferminen des <hi rendition="#g">Katanga</hi>, der 
+               <lb xml:id="p001_r_2_tl_29"/>Provinz von Elisabethville im Süden des 
+               <lb xml:id="p001_r_2_tl_30"/>Landes. Im Wirtschaftsabkommen zwischen 
+               <lb xml:id="p001_r_2_tl_31"/>dem Belgischen Kongo und Großbritannien 
+               <lb xml:id="p001_r_2_tl_32"/>garantierte dieses für die Zeit vom 1. Sep 
+               <lb xml:id="p001_r_2_tl_33" break="no"/>tember 1940 bis zum 31. August 1941 die 
+               <lb xml:id="p001_r_2_tl_34"/>Abnahme von 126 000 Metertonnen Kupfer; 
+               <lb xml:id="p001_r_2_tl_35"/>dieses Abkommen wird zweifellos für das 
+               <lb xml:id="p001_r_2_tl_36"/>folgende Jahr erneuert. Der größte Teil der 
+               <lb xml:id="p001_r_2_tl_37"/>Kupfererze wird zur Verarbeitung nach den 
+               <lb xml:id="p001_r_2_tl_38"/>Vereinigten Staaten geschickt, während kleinere 
+               <lb xml:id="p001_r_2_tl_39"/>Quantitäten im Kongo selbst, in den Raffinerien 
+               <lb xml:id="p001_r_2_tl_40"/>von Shituru verarbeitet werden können. Die 
+               <lb xml:id="p001_r_2_tl_41"/>Förderung von Zinn und seinem Derivat Cassi 
+               <lb xml:id="p001_r_2_tl_42" break="no"/>terit wird durch das "comité de l'étain" ge 
+               <lb xml:id="p001_r_2_tl_43" break="no"/>regelt, welches alle Grubengesellschaften mit einer 
+               <lb xml:id="p001_r_2_tl_44"/>einzigen Ausnahme umfaßt. Infolge der Bedeu 
+               <lb xml:id="p001_r_2_tl_45" break="no"/>tung dieses Metalls für die Rüstungsindustrien 
+               <lb xml:id="p001_r_2_tl_46"/>werden die Gruben voll ausgewertet; die Regie 
+               <lb xml:id="p001_r_2_tl_47" break="no"/>rung fördert die Entdeckung und Ausbeutung 
+               <lb xml:id="p001_r_2_tl_48"/>neuer Adern. Der größte Teil des geförderten 
+               <lb xml:id="p001_r_2_tl_49"/>Zinns wird nach den Vereinigten Staaten ver 
+               <lb xml:id="p001_r_2_tl_50" break="no"/>kauft, der Rest in Form von Cassiterit nach Eng 
+               <lb xml:id="p001_r_2_tl_51" break="no"/>land. Durch den Krieg erfuhr auch die Förderung 
+               <lb xml:id="p001_r_2_tl_52"/>von <hi rendition="#g">Kobalterzen</hi>, die früher in den Raffi 
+               <lb xml:id="p001_r_2_tl_53" break="no"/>nerien von Oolen (Belgien) gereinigt wurden, 
+               <lb xml:id="p001_r_2_tl_54"/>und jetzt im Rohzustand nach Amerika verschickt 
+               <lb xml:id="p001_r_2_tl_55"/>werden, einen starken Antrieb. Auch die Förde 
+               <lb xml:id="p001_r_2_tl_56" break="no"/>rung von <hi rendition="#g">Gold</hi> ist im Anwachsen.</p>
+            <p> 
+               <lb xml:id="p001_r_2_tl_57"/>Neben der Produktionssteigerung der Gru 
+               <lb xml:id="p001_r_2_tl_58" break="no"/>benindustrien zeichnen sich im Kongo seit Kriegs 
+               <lb xml:id="p001_r_2_tl_59" break="no"/>beginn Veränderungen besonders auf <hi rendition="#g">land 
+                  <lb xml:id="p001_r_2_tl_60" break="no"/>wirtschaftlichem</hi> Gebiet ab, und zwar im 
+               <lb xml:id="p001_r_2_tl_61"/>Sinne wachsender <hi rendition="#g">Selbstversorgung</hi>. 
+               <lb xml:id="p001_r_2_tl_62"/>Für die Entwicklung einer europäischen Land 
+               <lb xml:id="p001_r_2_tl_63" break="no"/>wirtschaft und Viehzucht sind das reiche Ka 
+               <lb xml:id="p001_r_2_tl_64" break="no"/>tanga und die Gebirgsprovinzen Kivou und 
+               <lb xml:id="p001_r_2_tl_65"/>Ituri mit ihrem gemäßigten Klima geeig 
+               <lb xml:id="p001_r_2_tl_66" break="no"/>net. Staatlich unterstützte Viehzucht-Statio 
+               <lb xml:id="p001_r_2_tl_67" break="no"/>nen liefern Butter; die Versorgung der rund 
+               <lb xml:id="p001_r_2_tl_68"/>30 000 zählenden weißen Bevölkerung des 
+               <lb xml:id="p001_r_2_tl_69"/>Kongo mit Eiern, Früchten und Frischgemüsen 
+               <lb xml:id="p001_r_2_tl_70"/>entwickelt sich befriedigend. In der neuen Tabak 
+               <lb xml:id="p001_r_2_tl_71" break="no"/>fabrik in Elisabethville werden einheimische 
+               <lb xml:id="p001_r_2_tl_72"/>Tabake aus dem Katanga, Kivu und Ruanda 
+               <lb xml:id="p001_r_2_tl_73"/>verarbeitet, eine andere Fabrik beginnt mit der 
+               <lb xml:id="p001_r_2_tl_74"/>Verarbeitung von vegetabilen Fetten zu Wachsen 
+               <lb xml:id="p001_r_2_tl_75"/>und Schuhwichsen.</p>
+
+            <milestone unit="textregion" xml:id="p001_r_3"/>            <p> 
+               <lb xml:id="p001_r_3_tl_1"/>Die Industrie, die früher ihre Maschinen und 
+               <lb xml:id="p001_r_3_tl_2"/>Ersatzteile aus Belgien bezog, beschafft sich jetzt 
+               <lb xml:id="p001_r_3_tl_3"/>diese Materialien vor allem aus der Südafri 
+               <lb xml:id="p001_r_3_tl_4" break="no"/>kanischen Union, oder aus England und 
+               <lb xml:id="p001_r_3_tl_5"/>Amerika; einige Unternehmer beginnen mit der 
+               <lb xml:id="p001_r_3_tl_6"/>Herstellung von Maschinenteilen im Lande selbst.</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_7"/>Der Import europäischer Waren – Stoffe 
+               <lb xml:id="p001_r_3_tl_8"/>Kleider, Nahrungsmittel für Europäer, pharma 
+               <lb xml:id="p001_r_3_tl_9"/>zeutische Artikel – wurde früher durch Einkaufs 
+               <lb xml:id="p001_r_3_tl_10" break="no"/>bureaus in Brüssel besorgt. Die Benützung neuer 
+               <lb xml:id="p001_r_3_tl_11"/>Einkaufsquellen wird einstweilen erschwert durch 
+               <lb xml:id="p001_r_3_tl_12"/>die Einschränkungen des freien Geldverkehrs – 
+               <lb xml:id="p001_r_3_tl_13"/>der Kongo gehört dem Sterlingblock an –, aber 
+               <lb xml:id="p001_r_3_tl_14"/>auch durch die lange Dauer des Transports 
+               <lb xml:id="p001_r_3_tl_15"/>überseeischer Bestellungen. Daher sucht sich der 
+               <lb xml:id="p001_r_3_tl_16"/>Kongo vor allem nach der <hi rendition="#g">Südafrikani- 
+                  <lb xml:id="p001_r_3_tl_17"/>schen Union</hi> zu orientieren, wohin neben 
+               <lb xml:id="p001_r_3_tl_18"/>Minenprodukten Hülsenfrüchte, Reis, Palm- und 
+               <lb xml:id="p001_r_3_tl_19"/>Arachidöl, Häute, Obst, Bienenwachs usw. expor 
+               <lb xml:id="p001_r_3_tl_20" break="no"/>tiert werden. Der Seeverkehr vom Kongohafen 
+               <lb xml:id="p001_r_3_tl_21"/>Matadi nach dem Kap hat erheblich zugenom 
+               <lb xml:id="p001_r_3_tl_22" break="no"/>men, aber auch der Transport zu Land wird 
+               <lb xml:id="p001_r_3_tl_23"/>durch den Ausbau und die Verbesserung des 
+               <lb xml:id="p001_r_3_tl_24"/>Straßennetzes erleichtert.</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_25"/>Der Belgische Kongo betrachtet die Nieder 
+               <lb xml:id="p001_r_3_tl_26" break="no"/>lage Belgiens nicht als endgültig und noch 
+               <lb xml:id="p001_r_3_tl_27"/>weniger als seine eigene Niederlage. Das führt 
+               <lb xml:id="p001_r_3_tl_28"/>mit selbstverständlicher Notwendigkeit zur För 
+               <lb xml:id="p001_r_3_tl_29" break="no"/>derung aller auf Autarkie gerichteten Unter 
+               <lb xml:id="p001_r_3_tl_30" break="no"/>nehmungen, aber auch zum engeren Zusammen 
+               <lb xml:id="p001_r_3_tl_31" break="no"/>schluß mit benachbarten afrikanischen Gebieten, 
+               <lb xml:id="p001_r_3_tl_32"/>die vielleicht die Bildung der "Vereinigten Staa 
+               <lb xml:id="p001_r_3_tl_33" break="no"/>ten von Afrika" vorbereitet.</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_34"/>Die Kongokolonie, die mit rund 2,4 Millionen 
+               <lb xml:id="p001_r_3_tl_35"/>Quadratkilometer Flächeninhalt etwa achtzig 
+               <lb xml:id="p001_r_3_tl_36"/>mal so groß ist wie Belgien, wurde dem bel 
+               <lb xml:id="p001_r_3_tl_37" break="no"/>gischen Königreich erst 1908 einverleibt; sie war 
+               <lb xml:id="p001_r_3_tl_38"/>vorher als "Etat Indépendant du Congo" nur 
+               <lb xml:id="p001_r_3_tl_39"/>durch Personalunion mit der belgischen Krone 
+               <lb xml:id="p001_r_3_tl_40"/>verbunden. Die Gründung dieses Staates geht 
+               <lb xml:id="p001_r_3_tl_41"/>auf die lnitiative <hi rendition="#g">Leopolds II.</hi> zurück, der 
+               <lb xml:id="p001_r_3_tl_42"/>im Jahre 1876 eine internationale geographische 
+               <lb xml:id="p001_r_3_tl_43"/>Konferenz in Brüssel einberief. Aus ihr gingen 
+               <lb xml:id="p001_r_3_tl_44"/>die "Association Internationale Africaine, 
+               <lb xml:id="p001_r_3_tl_45"/>das "Comité d'Etudes du Congo", – und 
+               <lb xml:id="p001_r_3_tl_46"/>schließlich die "Association Internationale du 
+               <lb xml:id="p001_r_3_tl_47"/>Congo" hervor, deren blaue Flagge mit golde 
+               <lb xml:id="p001_r_3_tl_48" break="no"/>nem Stern 1884 von den Vereinigten Staaten 
+               <lb xml:id="p001_r_3_tl_49"/>als die einer befreundeten Regierung anerkannt 
+               <lb xml:id="p001_r_3_tl_50"/>wurde, worauf am 23. Februar 1885 auf der 
+               <lb xml:id="p001_r_3_tl_51"/>Konferenz von Berlin die Anerkennung des "Un 
+               <lb xml:id="p001_r_3_tl_52" break="no"/>abhängigen Kongostaates" durch alle dort ver 
+               <lb xml:id="p001_r_3_tl_53" break="no"/>tretenen Mächte folgte.</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_54"/>Es handelte sich um ein Gebiet, das wenige 
+               <lb xml:id="p001_r_3_tl_55"/>Jahre zuvor noch völlig unerforscht, und nur von 
+               <lb xml:id="p001_r_3_tl_56"/>den Raubzügen arabischer Sklavenjäger heim 
+               <lb xml:id="p001_r_3_tl_57" break="no"/>gesucht war. Die Mündung des Kongo war zwar 
+               <lb xml:id="p001_r_3_tl_58"/>seit beinahe fünfhundert Jahren bekannt und 
+               <lb xml:id="p001_r_3_tl_59"/>von portugiesischen Kaufleuten besiedelt, aber 
+               <lb xml:id="p001_r_3_tl_60"/>niemand hatte es gewagt, den Lauf des Riesen 
+               <lb xml:id="p001_r_3_tl_61" break="no"/>stroms zu erforschen.</p>
+            <p> 
+               <lb xml:id="p001_r_3_tl_62"/>Als dieses 1908 von Belgien als Kolonie 
+               <lb xml:id="p001_r_3_tl_63"/>übernommen wurde, erhielt es durch die 
+               <lb xml:id="p001_r_3_tl_64"/>"Charte Coloniale" die Grundlage seiner Regie 
+               <lb xml:id="p001_r_3_tl_65" break="no"/>rung und Verfassung. Die Kolonie genoß eine 
+               <lb xml:id="p001_r_3_tl_66"/>weitgehende Autonomie und bildete vor allem 
+               <lb xml:id="p001_r_3_tl_67"/>finanziell eine von Belgien getrennte staatliche 
+               <lb xml:id="p001_r_3_tl_68"/>Einheit. An der Spitze ihrer Verwaltung steht 
+               <lb xml:id="p001_r_3_tl_69"/>heute der Generalgouverneur, Herr <hi rendition="#g">Ryck 
+                  <lb xml:id="p001_r_3_tl_70" break="no"/>mans</hi>, der dem Minister der Kolonien unter 
+               <lb xml:id="p001_r_3_tl_71" break="no"/>steht. Dieses Amt befindet sich in den Händen 
+               <lb xml:id="p001_r_3_tl_72"/>von Herrn de <hi rendition="#g">Vleeschauwer</hi>, der dem bel 
+               <lb xml:id="p001_r_3_tl_73" break="no"/>gischen Ministerrat in London angehört, und 
+               <lb xml:id="p001_r_3_tl_74"/>der auf 18. Juni 1940 zum "Generaladmini 
+               <lb xml:id="p001_r_3_tl_75" break="no"/>strator" für den Kongo und für die Mandat
+               <milestone unit="textregion" xml:id="p001_r"/> 
+               <lb xml:id="p001_r_tl_1" break="no"/>gebiete Ruanda-Urundi ernannt wurde. Die 
+               <lb xml:id="p001_r_tl_2"/>belgische Kolonialregierung wird im Ausland 
+               <lb xml:id="p001_r_tl_3"/>nach wie vor durch das belgische diplomatisch 
+               <lb xml:id="p001_r_tl_4"/>und Konsular=Korps vertreten. Seit dem 
+               <lb xml:id="p001_r_tl_5"/>10. Mai 1940 steht der belgische Kongo im<hi rendition="#g"> 
+                  <lb xml:id="p001_r_tl_6"/>Krieg</hi> mit <hi rendition="#g">Deutschland</hi>, seit Anfang 
+               <lb xml:id="p001_r_tl_7"/>1941 auch mit <hi rendition="#g">Italien</hi>.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_8"/>Unmittelbar nach dem Ausbruch des Kriegs 
+               <lb xml:id="p001_r_tl_9"/>in Belgien wurden im Kongo die erforderlichen 
+               <lb xml:id="p001_r_tl_10"/>Vorkehrungen auf militärischem und wirtschaft 
+               <lb xml:id="p001_r_tl_11" break="no"/>lichem Gebiet getroffen. Deutsche im militär 
+               <lb xml:id="p001_r_tl_12" break="no"/>pflichtigen Alter wurden interniert, die anderen 
+               <lb xml:id="p001_r_tl_13"/>unter Ueberwachung gestellt. Eine umfassende 
+               <lb xml:id="p001_r_tl_14"/>Zensur für Presse, Post und Telegraph wurde 
+               <lb xml:id="p001_r_tl_15"/>eingeführt, der Besitz von Sendeapparaten wurde 
+               <lb xml:id="p001_r_tl_16"/>verboten. Seit dem 10. Juni 1940 dürfen kom 
+               <lb xml:id="p001_r_tl_17" break="no"/>merzielle, industrielle, und landwirtschaftliche 
+               <lb xml:id="p001_r_tl_18"/>Unternehmungen keine Weisungen von Personen 
+               <lb xml:id="p001_r_tl_19"/>mehr entgegennehmen, die unter Feindes 
+               <lb xml:id="p001_r_tl_20" break="no"/>kontrolle stehen. Sie dürfen ohne Erlaubnis der 
+               <lb xml:id="p001_r_tl_21"/>Regierung weder ihre Produktion und Ver 
+               <lb xml:id="p001_r_tl_22" break="no"/>sorgung abändern, noch ihr Kapital und ihre 
+               <lb xml:id="p001_r_tl_23"/>Schulden mit Hilfe von ausländischen Fonds 
+               <lb xml:id="p001_r_tl_24"/>erhöhen.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_25"/>Der Belgische Kongo verdankt die Stabilisie- 
+               <lb xml:id="p001_r_tl_26"/>rung seiner <hi rendition="#g">Währung</hi> der Hilfe, die der 
+               <lb xml:id="p001_r_tl_27"/>"Banque du Congo Belge" durch die Bank von 
+               <lb xml:id="p001_r_tl_28"/>England nach der belgischen Niederlage gewährt 
+               <lb xml:id="p001_r_tl_29"/>wurde. Während der kurzen Periode der Wirren, 
+               <lb xml:id="p001_r_tl_30"/>die dem französischen Waffenstillstand folgte, 
+               <lb xml:id="p001_r_tl_31"/>gewährte die Bank von England der Kongobank 
+               <lb xml:id="p001_r_tl_32"/>die Möglichkeit, ihre ausländischen Geschäfte ohne 
+               <lb xml:id="p001_r_tl_33"/>Unterbrechung abzuwickeln. Nach einer Ver 
+               <lb xml:id="p001_r_tl_34" break="no"/>fügung vom 10. Mai 1940 müssen alle auslän 
+               <lb xml:id="p001_r_tl_35" break="no"/>dischen Valuten, die durch Exporte aus dem 
+               <lb xml:id="p001_r_tl_36"/>Kongo erzielt werden, der Kongo-Bank zur Ver 
+               <lb xml:id="p001_r_tl_37" break="no"/>fügung gestellt werden. Durch die Devalvation 
+               <lb xml:id="p001_r_tl_38"/>und die höheren Kosten von Transport und Ver 
+               <lb xml:id="p001_r_tl_39" break="no"/>sicherung sind im Kongo die Preise importierter 
+               <lb xml:id="p001_r_tl_40"/>Waren gestiegen, die Preise der Inlandprodukte 
+               <lb xml:id="p001_r_tl_41"/>blieben aber stabil, und sind für das Ausland 
+               <lb xml:id="p001_r_tl_42"/>immer noch günstig.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_43"/>Heute steht die <hi rendition="#g">Hilfeleistung</hi> an Eng 
+               <lb xml:id="p001_r_tl_44" break="no"/>land im Vordergrund der Regierungspolitik 
+               <lb xml:id="p001_r_tl_45"/>des Kongo. Seit Juni 1940 steht die Regierung 
+               <lb xml:id="p001_r_tl_46"/>in engem Kontakt mit <hi rendition="#g">britischen Mili 
+                  <lb xml:id="p001_r_tl_47" break="no"/>tärmissionen</hi>. Seit November 1940 sind 
+               <lb xml:id="p001_r_tl_48"/>alle Belgier zwischen 17 und 36 Jahren, die nicht 
+               <lb xml:id="p001_r_tl_49"/>der Kongo-Armee angehören, der Rekrutierungs 
+               <lb xml:id="p001_r_tl_50" break="no"/>reserve zugeteilt. Bedeutende belgische Einheiten 
+               <lb xml:id="p001_r_tl_51"/>wurden 1941 nach Abessinien entsandt.</p>
+            <p> 
+               <lb xml:id="p001_r_tl_52"/>Der Beitrag des Kongo an die Sache der 
+               <lb xml:id="p001_r_tl_53"/>Alliierten wird aber vor allem auf wirtschaft 
+               <lb xml:id="p001_r_tl_54" break="no"/>lichem Gebiet geleistet. Einige der besten belgi 
+               <lb xml:id="p001_r_tl_55" break="no"/>schen <hi rendition="#g">Handelsschiffe</hi>, die früher zwischen 
+               <lb xml:id="p001_r_tl_56"/>dem Kongo und Antwerpen verkehrten, stehen 
+               <lb xml:id="p001_r_tl_57"/>jetzt zur Verfügung der Engländer. Nach den 
+               <lb xml:id="p001_r_tl_58"/>Handelsabkommen mit Großbritannien vom 
+               <lb xml:id="p001_r_tl_59"/>21. Juni 1941 liefert der Kongo alle Produkte an 
+               <lb xml:id="p001_r_tl_60"/>England, die dort Verwendung finden können, so 
+               <lb xml:id="p001_r_tl_61"/>fast die gesamte Produktion von Kupfer, Baum 
+               <lb xml:id="p001_r_tl_62" break="no"/>wolle und künstlichen Diamanten, von denen 
+               <lb xml:id="p001_r_tl_63"/>der Kongo jährlich über vier Millionen Karat 
+               <lb xml:id="p001_r_tl_64"/>herstellt. Die 500 000 Unzen Feingold, die de 
+               <lb xml:id="p001_r_tl_65"/>Kongo jährlich erzeugt, vermehren die britische 
+               <lb xml:id="p001_r_tl_66"/>Goldreserve. Das Holz aus dem Kongo geht 
+               <lb xml:id="p001_r_tl_67"/>nach England und in die Südafrikanische Union 
+               <lb xml:id="p001_r_tl_68"/>während die nach den Vereinigten Staaten ge 
+               <lb xml:id="p001_r_tl_69" break="no"/>lieferten Produkte wie Zinn, Kobalt, Mangan, 
+               <lb xml:id="p001_r_tl_70"/>Zink die dortigen Rohstoffreserven füllen, und 
+               <lb xml:id="p001_r_tl_71"/>damit auch der britischen Rüstung zugute kom 
+               <lb xml:id="p001_r_tl_72" break="no"/>men. Seit Kriegsbeginn sind die Beziehungen 
+               <lb xml:id="p001_r_tl_73"/>zwischen dem Belgischen Kongo und England 
+               <lb xml:id="p001_r_tl_74"/>sowie den Vereinigten Staaten im ganzen viel 
+               <lb xml:id="p001_r_tl_75"/>enger geworden als sie früher waren.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_r_tl_76"/>Annemarie <hi rendition="#g">Schwarzenbach</hi></p>
+</div>
+       </body>
+    </text>
+ </TEI>
