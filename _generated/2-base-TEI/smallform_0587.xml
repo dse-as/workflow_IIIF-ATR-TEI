@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0587" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0587#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>smallform_0587</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <bibl corresp="smallform_0587"> 
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+                <bibl> 
+                  <title level="j"/>
+                   <date/>
+                   <biblScope/>
+                </bibl>
+             </bibl>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0587_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0587_0001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_4"/>Annemarie Clarac-Schwarzenbach: 
+               <lb xml:id="p001_tr_1_tl_7"/>Der Belgische Kongo und der Krieg 
+               <lb xml:id="p001_tr_1_tl_2"/>Juni 1941 
+               <lb xml:id="p001_tr_1_tl_1"/>Kopie 
+               <lb xml:id="p001_tr_1_tl_3"/>(Original an N.Z.Z. – 
+               <lb xml:id="p001_tr_1_tl_5"/>bitte nachfragen ob 
+               <lb xml:id="p001_tr_1_tl_6"/>verwendet)</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_8"/>Das bedeutende Gebiet des Belgischen Kongo befindet sich seit 
+               <lb xml:id="p001_tr_1_tl_9"/>der deutschen Okkupation Belgiens in der gleichen, eigenartigen Lage 
+               <lb xml:id="p001_tr_1_tl_10"/>wie die holländischen Kolonien. Das Mutterland ist aus der Liste der 
+               <lb xml:id="p001_tr_1_tl_11"/>Kriegführenden gestrichen, die Kolonien werden von ihren exilierten 
+               <lb xml:id="p001_tr_1_tl_12"/>Regierungen in London aus verwaltet und stehen in engster Beziehung 
+               <lb xml:id="p001_tr_1_tl_13"/>mit Grossbritannien, sodass man sie als dessen Verbündete betrachten 
+               <lb xml:id="p001_tr_1_tl_14"/>muss, obwohl sie theoretisch im Friedenszustand sind. Da die Dienstpflich 
+               <lb xml:id="p001_tr_1_tl_15" break="no"/>tigen im Belgischen Kongo teilweise mobilisiert sind, und belgische 
+               <lb xml:id="p001_tr_1_tl_16"/>Kolonialtruppen zur Zeit auf afrikanischen Kriegschauplätzen, vor allem 
+               <lb xml:id="p001_tr_1_tl_17"/>in Abessynien stehen, ist die Situation dieser Kolonie um mehrere Grade 
+               <lb xml:id="p001_tr_1_tl_18"/>unklarer als die der benachbarten Territorien des "Freien Französischen 
+               <lb xml:id="p001_tr_1_tl_19"/>Afrika" (Afrique Francaise Libre), die unter der Regierung des Generals 
+               <lb xml:id="p001_tr_1_tl_20"/>De Gaulle das französische Waffenstillstandsabkommen nicht anerkennen, 
+               <lb xml:id="p001_tr_1_tl_21"/>und den Krieg an der Seite Grossbritanniens weiterführen.</p>
+            <p> 
+               <lb xml:id="p001_tr_1_tl_22"/>Der jetzige Zustand wird aber in den afrikanischen Gebieten kaum als 
+               <lb xml:id="p001_tr_1_tl_23"/>absonderlich empfunden. Die Schauplätze der europäischen Ereignisse 
+               <lb xml:id="p001_tr_1_tl_24"/>sind weit, die Zusammenarbeit mit den britischen Kolonien in Afrika 
+               <lb xml:id="p001_tr_1_tl_26"/>ist eine Notwendigkeit, die Sache Grossbritanniens ist[add above: (wird)] also hier selbst 
+               <lb xml:id="p001_tr_1_tl_29" break="no"/>verständlich<del rend="overstrike">e</del> [add above: (als)] die gemeinsame Sache [add above: (aufgefasst)].</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space] 
+               <lb xml:id="p001_tr_1_tl_30"/>Der Krieg hat noch in anderer, rein wirtschaftlicher Beziehung <del rend="overstrike">ein</del>[add inline: d]en 
+               <lb xml:id="p001_tr_1_tl_31"/>engeren Zusammenschluss <del rend="overstrike">eines</del>[add above: der] afrikanischen Länder<del rend="overstrike">blocks</del> zur Folge. 
+               <lb xml:id="p001_tr_1_tl_32"/>Die im Belgischen Kongo durch die Notwendigkeiten des Krieges sich 
+               <lb xml:id="p001_tr_1_tl_33"/>vollziehenden <del rend="overstrike">Verän</del> Umstellungen sind nur teilweise temporärer Natur. 
+               <lb xml:id="p001_tr_1_tl_34"/>Der grössere Teil der Veränderungen wird bleibende Konsequenzen</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0587_0002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>–2– (Der Belg.Kongo u. der Krieg) 
+               <lb xml:id="p002_tr_1_tl_2"/>nach sich ziehen, und verdient daher schon heute Beachtung. [space]</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_3"/>Als "temporär" kann man die Konjunktur jener Produktionszweige im 
+               <lb xml:id="p002_tr_1_tl_4"/>Kongo bezeichnen, die unmittelbar den Bedürfnissen des Krieges dienen. 
+               <lb xml:id="p002_tr_1_tl_5"/>Der Kongo leistet <del rend="overstrike">durch seine</del> besonders durch seine Kup<del rend="overstrike">e</del>fer- und Zinn- 
+               <lb xml:id="p002_tr_1_tl_6"/>Gruben und durch die Lieferung von Leder einen bedeutenden Beitrag an 
+               <lb xml:id="p002_tr_1_tl_7"/>die Rüstung der Allierten, – eine Tatsache, die im Lande selbst einen 
+               <lb xml:id="p002_tr_1_tl_8"/>stärkende moralische Wirkung ausübt.</p>
+            <p> 
+               <lb xml:id="p002_tr_1_tl_9"/>Die grösste Reichtumsquelle des Kongo sind die Gruben des Katanga, 
+               <lb xml:id="p002_tr_1_tl_10"/>der Provinz von Elisabethville im Süden. Im neuen Wirtschaftsabkommen 
+               <lb xml:id="p002_tr_1_tl_11"/>zwischen dem Belgischen Kongo und Grossbritannien garantiert letzteres 
+               <lb xml:id="p002_tr_1_tl_12"/>die Abnahme von 126 000 Metertonnen Kupfer für die Zeit vom 1. September 
+               <lb xml:id="p002_tr_1_tl_13"/>1940 bis zum 31. August 1941. Da dieses Abkommen zweifellos <del rend="overstrike">erneuert wir</del> 
+               <lb xml:id="p002_tr_1_tl_14"/>für das folgende Jahr erneuert wird, ist die Produktion der "Union 
+               <lb xml:id="p002_tr_1_tl_15"/>Minière", gesichert. Da die Arbeit der Raffinierien von Ooleen in Belgien 
+               <lb xml:id="p002_tr_1_tl_16"/>durch den Krieg unterbrochen ist, wird der grösste Teil des Kupfers zur 
+               <lb xml:id="p002_tr_1_tl_17"/>Verarbeitung in die U.S.A. geschickt, während kleinere Quantitäten bereits 
+               <lb xml:id="p002_tr_1_tl_18"/>im Kongo selbst, in den Raffinerien von Shituru verarbeitet werden 
+               <lb xml:id="p002_tr_1_tl_20"/>konnen. Die Forderung von Zinn und [add above: seinem Derivat] Cassiterit wird durch das 
+               <lb xml:id="p002_tr_1_tl_21"/>"comite de l'étain" geregelt, welches alle Grubengesellschaften bis 
+               <lb xml:id="p002_tr_1_tl_22"/>auf eine umfasst. Dank der Bedeutung dieses Metalls für die Rüstungsin 
+               <lb xml:id="p002_tr_1_tl_23" break="no"/>dustrien werden die existierenden Gruben voll ausgewertet, und die 
+               <lb xml:id="p002_tr_1_tl_24"/>Regierung ermutigt die Entdeckung und Ausbeutung neuer Adern. Es gibt 
+               <lb xml:id="p002_tr_1_tl_25"/>im Kongo einige 30 Produktionsfirmen von Cassiterit, darunter im 
+               <lb xml:id="p002_tr_1_tl_26"/>Katanga drei der grössten, die "Géomines" mit der Filiale "Somika", 
+               <lb xml:id="p002_tr_1_tl_27"/>die "Sermikat", und die "Union Minière". Der grösste Teil des geförderten 
+               <lb xml:id="p002_tr_1_tl_28"/>Zinns wird in die Vereinigten Staaten verkauft, der Rest in Form von 
+               <lb xml:id="p002_tr_1_tl_29"/>Cassiterit nach England.</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0587_0003.jpg"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_1"/>–3– (Der Belg.Kongo u. der Krieg)</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_2"/>Einen starken Antrieb erfuhr durch den Krieg auch die Förderung von 
+               <lb xml:id="p003_tr_1_tl_3"/>Kobalterzen, die früher in den Raffinerien von Oolen gereinigt wurden, 
+               <lb xml:id="p003_tr_1_tl_4"/>und jetzt im Rohzustand nach den U.S.A. verschickt werden. Hingegen konn 
+               <lb xml:id="p003_tr_1_tl_5" break="no"/>ten die belgischen Zinn-Raffinerien von Hoboken <del rend="overstrike">durch</del> schon teilweise 
+               <lb xml:id="p003_tr_1_tl_6"/>durch solche im Kongo ersetzt werden. Die "Société Minière" arbeitet mit 
+               <lb xml:id="p003_tr_1_tl_7"/>einer neuen Schmelze in Lubudi, die bestehende Schmelze der "Géomines" 
+               <lb xml:id="p003_tr_1_tl_8"/>in Manono wurde vergrössert.</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_9"/>Die Förderung von Gold ist ebenfalls im <del rend="overstrike">Steigen</del>. [add inline: Anwachsen.]</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_11"/>Neben den <del rend="overstrike">dunk</del>[add above: durch] der britisch-amerikanischen Rüstungen beanspruchten 
+               <lb xml:id="p003_tr_1_tl_12"/>Grubenindustrien zeichnen sich im Kongo seit Kriegsbeginn Veränderungen 
+               <lb xml:id="p003_tr_1_tl_13"/>besonders auf dem landwirtschaftlichen Gebiet ab, und zwar im Sinne 
+               <lb xml:id="p003_tr_1_tl_14"/>wachsender Selbstversorgung.</p>
+            <p> 
+               <lb xml:id="p003_tr_1_tl_15"/>Die sogenannte "europäische" Landwirtschaft<del rend="overstrike">e</del> entwickelt sich am günstigs 
+               <lb xml:id="p003_tr_1_tl_16" break="no"/>ten wieder im Katanga mit seinem bevorzugten, gemässigten Klima. Staatlich 
+               <lb xml:id="p003_tr_1_tl_17"/>unterstützte Viehzucht-Stationen (wie die "Grelco" und "Pastorale au Lo 
+               <lb xml:id="p003_tr_1_tl_18" break="no"/>mami") liefern jetzt Butter, ein spezielles Komite[sic] zur Förderung des Obst 
+               <lb xml:id="p003_tr_1_tl_19" break="no"/>baus wurde gegründet, die Versorgung der rund 30 000 zahlenden weissen 
+               <lb xml:id="p003_tr_1_tl_20"/>Bevölkerung des ganzen Kongo aus dem Katanga mit Eiern, Milchprodukten, 
+               <lb xml:id="p003_tr_1_tl_21"/>Früchten und Frischgemüsen entwickelt sich befriedigend. In der neuen 
+               <lb xml:id="p003_tr_1_tl_22"/>Tabakfabrik in Elisabethville werden einheimische Tabake weisser und 
+               <lb xml:id="p003_tr_1_tl_23"/>eingeborener "Colonen" (Farmer) aus dem Katanga, Kivu und Ruanda verar 
+               <lb xml:id="p003_tr_1_tl_24" break="no"/>beitet, eine andere Fabrik beginnt mit der Verarbeitung von vegetabilen 
+               <lb xml:id="p003_tr_1_tl_25"/>Fetten zu Wachsen und Schuhwichsen, die Raffinerie der "Minoteries du 
+               <lb xml:id="p003_tr_1_tl_26"/>Katanga" stellt ein Arachid-Oel her, welches um 1/3 billiger ist als das 
+               <lb xml:id="p003_tr_1_tl_27"/>vor dem Krieg aus Europa importierte Speisefett.</p>
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0587_0004.jpg"/>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_1_tl_1"/>–4– (Der Belg. Kongo u. der Krieg)</p>
+            <p> 
+               <lb xml:id="p004_tr_1_tl_2"/>Andere in Entwicklung begriffene lokale Industrien sind die Fabrikation 
+               <lb xml:id="p004_tr_1_tl_3"/>von Seife, und von Explosivstoffen.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space]</p>
+            <p> 
+               <lb xml:id="p004_tr_1_tl_4"/>Die Verstopfung der europäischen Märkte und die Abriegelung des belgi 
+               <lb xml:id="p004_tr_1_tl_5" break="no"/>schen Mutterlandes haben eine völlige Neuorientierung der Versorgung des 
+               <lb xml:id="p004_tr_1_tl_6"/>Kongo durch die Importe verlangt.</p>
+            <p> 
+               <lb xml:id="p004_tr_1_tl_7"/>Die Industrie-Gesellschaften, die früher ihre Maschinen, Ersatzteile, etc, 
+               <lb xml:id="p004_tr_1_tl_8"/>durch die Vermittlung ihres Hauptsitzes in Belgien erhielten, <del rend="overstrike">richten</del> 
+               <lb xml:id="p004_tr_1_tl_9"/>erhalten jetzt diese Materialien so weit als möglich aus der Südafrika 
+               <lb xml:id="p004_tr_1_tl_10" break="no"/>nischen Union, oder aus England und den U.S.A., und beginnen mit der 
+               <lb xml:id="p004_tr_1_tl_12"/>Herstellung von <del rend="overstrike">Ersatzt</del>[add above: Maschinen]eilen Im Lande selbst.</p>
+            <p> 
+               <lb xml:id="p004_tr_1_tl_13"/>Der Warenimport, besonders Stoffe, Konfektion, Nahrungsmittel für Europäer, 
+               <lb xml:id="p004_tr_1_tl_14"/>pharmazeutische Artikel, wurde früher durch Einkaufsfirmen in Brüssel 
+               <lb xml:id="p004_tr_1_tl_15"/>besorgt. Die Benutzung neuer Einkaufsquellen wird heute erschwert durch 
+               <lb xml:id="p004_tr_1_tl_16"/>die Beschränkung des freien Geldverkehrs, da der Kongo zum Sterlingblock 
+               <lb xml:id="p004_tr_1_tl_17"/>gehört, – und auch durch die Dauer des Transports überseeischer Bestel 
+               <lb xml:id="p004_tr_1_tl_18" break="no"/>lungen.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space] 
+               <lb xml:id="p004_tr_1_tl_19"/>Die allgemeine Tendenz ist daher die einer Orientierung des Kongo 
+               <lb xml:id="p004_tr_1_tl_20"/>nach der Südafrikanischen Union, wohin neben Minenprodukten Hülsenfrüchte, 
+               <lb xml:id="p004_tr_1_tl_21"/>Reis, Palm- und Arachidoel, Häute, Obst, Bienenwachs, und andere veget. Pro 
+               <lb xml:id="p004_tr_1_tl_22" break="no"/>dukte exportiert werden. Der Seeverkehr vom <del rend="overstrike">Matadi</del> Kongohafen Matadi 
+               <lb xml:id="p004_tr_1_tl_23"/>nach dem Kap wird intensifiert[sic]. Aber auch der Transport zu Land wird 
+               <lb xml:id="p004_tr_1_tl_24"/>durch den Ausbau und die Verbesserung des Strassennetzes erleichtert. 
+               <lb xml:id="p004_tr_1_tl_25"/>So konnte dieses Jahr eine grosse Quantität von Mais aus dem Kongo, 
+               <lb xml:id="p004_tr_1_tl_26"/>welches früher nach Antwerpen geschickt wurde, nach Nord Rhodesien 
+               <lb xml:id="p004_tr_1_tl_27"/>geliefert werden.</p>
+
+            <pb xml:id="p005" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0587_0005.jpg"/>
+            <milestone unit="textregion" xml:id="p005_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p005_tr_1_tl_1"/>–5– (Der Belg. Kongo u. der Krieg)</p>
+            <p> 
+               <lb xml:id="p005_tr_1_tl_2"/>Diese Beispiele zeigen genügend, dass der Belgische Kongo die Nieder 
+               <lb xml:id="p005_tr_1_tl_3" break="no"/>lage Belgiens nicht als endgultige, noch als eigene Niederlage anzuer 
+               <lb xml:id="p005_tr_1_tl_5" break="no"/>kennen brauchte. Die Folge ist natürlich eine[add inline: die] [add above: genannte] Entwicklung im Sinne 
+               <lb xml:id="p005_tr_1_tl_6"/>der Autarkie und des engeren Zusammenschlusses mit benachbarten 
+               <lb xml:id="p005_tr_1_tl_7"/>afrikanischen Gebieten, die vielleicht die Formierung der "Vereinigten 
+               <lb xml:id="p005_tr_1_tl_8"/>Staaten von Afrika" vorbereitet.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space]</p>
+            <p> 
+               <lb xml:id="p005_tr_1_tl_9"/>Es wird in einem weiteren Artikel besprochen werden, wie sich die seit 
+               <lb xml:id="p005_tr_1_tl_11"/>Kriegsbeginn im Kongo [add above, strikethrough: sich] [strikethrough]vollziehenden[add above: vorgehenden] Veränderungen für die wirtschaft 
+               <lb xml:id="p005_tr_1_tl_12" break="no"/>lichen Beziehungen mit der Schweiz auswirken. [strikethrough]werden.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p005_tr_1_tl_13"/>(Leopoldville, Ende Juni 41)</p>
+</div>
+       </body>
+    </text>
+ </TEI>
