@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0780"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0780</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0780_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0780_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0780_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0780_001_tr_1"/>
+            <lb xml:id="letter_0780_001_tr_1_tl_1"/>20. X. 29
+<lb xml:id="letter_0780_001_tr_1_tl_2"/>Lieber Ernst Merz
+<lb xml:id="letter_0780_001_tr_1_tl_3"/>ich danke Dir für Deinen Brief.
+<lb xml:id="letter_0780_001_tr_1_tl_4"/>Ich glaube dass Du Einiges in
+<lb xml:id="letter_0780_001_tr_1_tl_5"/>meinem Eric, was andere
+<lb xml:id="letter_0780_001_tr_1_tl_6"/>übersehen, verstanden hast, eben
+<lb xml:id="letter_0780_001_tr_1_tl_7"/>weil es etwas gemeinsames zwischen
+<lb xml:id="letter_0780_001_tr_1_tl_8"/>uns ist.
+<lb xml:id="letter_0780_001_tr_1_tl_9"/>Ich habe jetzt sehr viel zu tun. Aber
+<lb xml:id="letter_0780_001_tr_1_tl_10"/>Ende dieser Woche, oder Anfang
+<lb xml:id="letter_0780_001_tr_1_tl_11"/>der nächsten, möchte ich gern
+<lb xml:id="letter_0780_001_tr_1_tl_12"/>zu Dir kom[en. Passt es Dir zu
+<lb xml:id="letter_0780_001_tr_1_tl_13"/>der wenig gebräuchlichen Zeit direkt
+<lb xml:id="letter_0780_001_l"/>nach dem Essen, also zw. 1<PAGE tag="superscript">h</PAGE> u. 3<PAGE tag="superscript">h</PAGE>?
+<lb xml:id="letter_0780_001_tr_1_tl_16"/>Bis dahin herzlichen Gruss!
+<lb xml:id="letter_0780_001_tr_1_tl_17"/>An[emarie</div>
+      </body>
+   </text>
+</TEI>
