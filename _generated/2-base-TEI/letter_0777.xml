@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0777" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0777#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0777</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0777_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0777_001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>9. Oct. 29 
+               <lb xml:id="p001_tr_1_tl_2"/>Lieber Ernst Merz 
+               <lb xml:id="p001_tr_1_tl_3"/>verzeih dass ich Dir erst heute für 
+               <lb xml:id="p001_tr_1_tl_4"/>Deinen Brief danke. <PAGE tag="continued">Ich war immer</PAGE> 
+               <lb xml:id="p001_tr_1_tl_5"/><PAGE tag="continued">wieder unterwegs,</PAGE> [Bleistift] jetzt aber begin[t 
+               <lb xml:id="p001_tr_1_tl_6"/>die Arbeit, u. ich freue mich Dich 
+               <lb xml:id="p001_tr_1_tl_7"/>bald besuchen zu können, was ja von 
+               <lb xml:id="p001_tr_1_tl_8"/>Zürich aus leicht möglich ist. 
+               <lb xml:id="p001_tr_1_tl_9"/>Deine astrolopischen Bemerkungen haben, 
+               <lb xml:id="p001_tr_1_tl_10"/>mich sehr erstaunt, sie stim[en 
+               <lb xml:id="p001_tr_1_tl_11"/>sehr genau auf mich. 
+               <lb xml:id="p001_tr_1_tl_12"/>Ich freue mich, dass es Dir gut geht 
+               <lb xml:id="p001_tr_1_tl_13"/>in Deiner neuen Lebenslage. 
+               <lb xml:id="p001_l"/>Alles Weitere mündlich, ich werde Dir 
+               <lb xml:id="p001_tr_1_tl_16"/>berichten wan[ ich kom[en kön[te. 
+               <lb xml:id="p001_tr_1_tl_17"/>Herzlichen Gruss Deine 
+               <lb xml:id="p001_tr_1_tl_18"/>Annemarie Schw.</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0777_002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>[Notizen von Ernst Merz]a) außsrechneller Gros 
+               <lb xml:id="p002_tr_1_tl_2"/>b) Julier Stats und 
+               <lb xml:id="p002_tr_1_tl_3"/>Knobongürtel</p>
+
+            <milestone unit="textregion" xml:id="p002_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_2_tl_1"/>Hofnacht. Früch Schatter 
+               <lb xml:id="p002_tr_2_tl_2"/>nicht 
+               <lb xml:id="p002_tr_2_tl_3"/>Ibsen u Wøtzeln Wirkung um 1900 
+               <lb xml:id="p002_tr_2_tl_4"/>Rilke George 
+               <lb xml:id="p002_tr_2_tl_5"/>mozert. Schuborte Lande 
+               <lb xml:id="p002_tr_2_tl_6"/>Sufter) Gr. M. 
+               <lb xml:id="p002_tr_2_tl_7"/>Vorwurf, Verzettellung? Früher 
+               <lb xml:id="p002_tr_2_tl_8"/>in spete Hofmannschal. Amanden 
+               <lb xml:id="p002_tr_2_tl_9"/>sich ersw. seine Dramen 
+               <lb xml:id="p002_tr_2_tl_10"/>deutliche Gesamtheltung 
+               <lb xml:id="p002_tr_2_tl_11"/>Ober 
+               <lb xml:id="p002_tr_2_tl_12"/>Meschen Trauerspul - Mytha 
+               <lb xml:id="p002_tr_2_tl_13"/>1. Fassung des Turner 
+               <lb xml:id="p002_tr_2_tl_14"/>Kindelkäuis 
+               <lb xml:id="p002_tr_2_tl_15"/>Zu Söttliche u die Vogtrichung 
+               <lb xml:id="p002_tr_2_tl_16"/>des Todischen bei abzuzieglen 
+               <lb xml:id="p002_tr_2_tl_17"/>Augusti a 
+               <lb xml:id="p002_tr_2_tl_18"/>Beklagten 
+               <lb xml:id="p002_tr_2_tl_19"/>Kurtzburg 
+               <lb xml:id="p002_tr_2_tl_20"/>Vielleichtig 
+               <lb xml:id="p002_tr_2_tl_21"/>Conclus. Selbstokant 
+               <lb xml:id="p002_tr_2_tl_22"/>aus Familien gegen 
+               <lb xml:id="p002_tr_2_tl_23"/>zweiten Studenten und mit</p>
+</div>
+       </body>
+    </text>
+ </TEI>
