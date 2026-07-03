@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0775" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0775#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0775</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0775_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0775_001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Adr. 93 Bd. St. Michel 
+               <lb xml:id="p001_tr_1_tl_3"/>Paris 
+               <lb xml:id="p001_tr_1_tl_2"/>6. Jan 29 
+               <lb xml:id="p001_tr_1_tl_4"/>Bocken. 
+               <lb xml:id="p001_tr_1_tl_5"/>Lieber Ernst Merz. 
+               <lb xml:id="p001_tr_1_tl_6"/>ich dankn Dir für das 
+               <lb xml:id="p001_l_1"/>"neue Reich" u. Deinen 
+               <lb xml:id="p001_l"/>Brief. Es wird gewiss nicht 
+               <lb xml:id="p001_l_2"/>leicht sein Deinen einen u. 
+               <lb xml:id="p001_l_3"/>ersten Beruf dem zweiten zu 
+               <lb xml:id="p001_l_7"/>opfern: Aber <PAGE tag="continued">ich glaube, wir</PAGE> 
+               <lb xml:id="p001_l_5"/><PAGE tag="continued">müssen i[mer durch viele Strassen</PAGE> 
+               <lb xml:id="p001_l_6"/><PAGE tag="continued">wandern, und oftmals Abschied</PAGE> 
+               <lb xml:id="p001_l_8"/><PAGE tag="continued">nehmen, bis wir zu unserem</PAGE> 
+               <lb xml:id="p001_l_9"/><PAGE tag="continued">wahren Leben gelangen</PAGE>. [Farbstift] Es zu 
+               <lb xml:id="p001_l_10"/>finden ist. eine Gnade, die Opfer 
+               <lb xml:id="p001_tr_1_tl_32"/>wert ist. 
+               <lb xml:id="p001_tr_1_tl_33"/>Wenn ich in Paris, unter dem 
+               <lb xml:id="p001_tr_1_tl_34"/>Einfluss meiner Psychologie-</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0775_002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>Studien, u. vor allem Ludwig 
+               <lb xml:id="p002_tr_1_tl_2"/><hi rendition="#u">Klages</hi>' nicht viel an George 
+               <lb xml:id="p002_tr_1_tl_3"/>u. das Neue Reich dachte, so 
+               <lb xml:id="p002_l"/>bin ich jetzt neu u. um so 
+               <lb xml:id="p002_tr_1_tl_6"/>überzeugter zu ihm zurückge 
+               <lb xml:id="p002_tr_1_tl_7" break="no"/>kom[en. 
+               <lb xml:id="p002_tr_1_tl_8"/>ich traf in St. Moritz (ausgerechnet 
+               <lb xml:id="p002_tr_1_tl_9"/>in jener Bergstadt der oberfläch 
+               <lb xml:id="p002_tr_1_tl_10" break="no"/>lichen Lebensfreude!) einen Freund 
+               <lb xml:id="p002_tr_1_tl_11"/>Georges, Carl Vollmüller, der mich 
+               <lb xml:id="p002_tr_1_tl_12"/>davon überzeugte dass George der 
+               <lb xml:id="p002_l_1"/>Einzelne, Starke, Naturhaft Geniale 
+               <lb xml:id="p002_l_2"/>ist, durch Schicksal Künstler u. 
+               <lb xml:id="p002_tr_1_tl_17"/>Meister – 
+               <lb xml:id="p002_tr_1_tl_18"/>[space] Morgen fahre ich nach Paris. Noch 
+               <lb xml:id="p002_tr_1_tl_19"/>weiss ich nicht wohin mich die Wege 
+               <lb xml:id="p002_tr_1_tl_20"/>führen werden: Doch wehre ich mich 
+               <lb xml:id="p002_tr_1_tl_21"/>aus Bequemlichkeit dem Gewohnten u. 
+               <lb xml:id="p002_tr_1_tl_22"/>Trägen (Heirat, Haushalt, Alltag, Festlegung) 
+               <lb xml:id="p002_tr_1_tl_23"/>zu verfallen. Herzliche Grüsse schicke ich 
+               <lb xml:id="p002_tr_1_tl_24"/>dem Reiner Hügel. 
+               <lb xml:id="p002_tr_1_tl_25"/>An[emarie</p>
+</div>
+       </body>
+    </text>
+ </TEI>
