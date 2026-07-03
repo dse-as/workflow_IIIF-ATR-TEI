@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0779"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0779</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0779_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0779_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0779_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0779_001_tr_1"/>
+            <lb xml:id="letter_0779_001_tr_1_tl_1"/>Paris V<PAGE tag="superscript">e</PAGE>
+<lb xml:id="letter_0779_001_tr_1_tl_2"/>9. Juni 29
+<lb xml:id="letter_0779_001_tr_1_tl_3"/>Lieber Ernst Merz –
+<lb xml:id="letter_0779_001_tr_1_tl_4"/>ich danke Dir für Deinen
+<lb xml:id="letter_0779_001_tr_1_tl_5"/>Brief u. den Bericht über
+<lb xml:id="letter_0779_001_tr_1_tl_6"/>Deinen endgültigen Entschluss
+<lb xml:id="letter_0779_001_tr_1_tl_7"/>Rein u. Deine bisherige Arbeit
+<lb xml:id="letter_0779_001_tr_1_tl_8"/>zu verlassen.
+<lb xml:id="letter_0779_001_tr_1_tl_9"/>Ob Du wohl in Zürich Ruhe
+<lb xml:id="letter_0779_001_tr_1_tl_10"/>findest um Dein Buch zu
+<lb xml:id="letter_0779_001_tr_1_tl_12"/>schreiben. Ich wünsche Dir
+<lb xml:id="letter_0779_001_tr_1_tl_13"/>dass Du befriedigende Auf-
+<lb xml:id="letter_0779_001_tr_1_tl_14"/>gaben vor Dir hast, den[ ich
+<lb xml:id="letter_0779_001_tr_1_tl_15"/>sehe jetzt noch besser ein
+<lb xml:id="letter_0779_001_tr_1_tl_16"/>als früher, dass unsere
+<lb xml:id="letter_0779_001_tr_1_tl_17"/>tausend Pläne u. unser
+<lb xml:id="letter_0779_001_tr_1_tl_18"/><PAGE tag="continued">tausendfacher Mut noch</PAGE>
+<lb xml:id="letter_0779_001_tr_1_tl_19"/><PAGE tag="continued">nicht ausreichen, einen</PAGE>
+<lb xml:id="letter_0779_001_tr_1_tl_20"/><PAGE tag="continued">einzigen davon in Wirklichkeit</PAGE> [Farbstift]<pb xml:id="letter_0779_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0779_002.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0779_002_tr_1"/>
+            <lb xml:id="letter_0779_002_tr_1_tl_1"/><PAGE tag="underlined">zu verwalten.</PAGE> [BS
+<lb xml:id="letter_0779_002_l"/>Ich habe früher gelacht
+<lb xml:id="letter_0779_002_tr_1_tl_4"/>über die erwachsenen
+<lb xml:id="letter_0779_002_tr_1_tl_5"/>Leute die von Enttäuschungen
+<lb xml:id="letter_0779_002_tr_1_tl_6"/>sprachen. Jetzt verstehe ich es.
+<lb xml:id="letter_0779_002_tr_1_tl_7"/>Aber im <PAGE tag="underlined">"Trotzdem"</PAGE> <PAGE tag="continued">mag eine</PAGE>
+<lb xml:id="letter_0779_002_tr_1_tl_8"/><PAGE tag="continued">grosse Kraft liegen, u. ich</PAGE>
+<lb xml:id="letter_0779_002_tr_1_tl_9"/><PAGE tag="continued">glaube, es ist an uns selbst,</PAGE>
+<lb xml:id="letter_0779_002_tr_1_tl_10"/><PAGE tag="continued">unser Leben in im[erwährender</PAGE>
+<lb xml:id="letter_0779_002_tr_1_tl_12"/><PAGE tag="continued">Bejahung, in immer neuen For-</PAGE>
+<lb xml:id="letter_0779_002_l_1"/><PAGE tag="continued">derungen, schön u. wahrhaft</PAGE>
+<lb xml:id="letter_0779_002_tr_1_tl_15"/><PAGE tag="continued">lebenswert zu gestalten.</PAGE> [FB–
+<lb xml:id="letter_0779_002_tr_1_tl_16"/>In wenigen Wochen fahre ich
+<lb xml:id="letter_0779_002_tr_1_tl_17"/>von Paris fort. Es war
+<lb xml:id="letter_0779_002_tr_1_tl_18"/>schön hier, ich habe viel
+<lb xml:id="letter_0779_002_tr_1_tl_19"/>gelernt u. unbewusst noch
+<lb xml:id="letter_0779_002_l_2"/>Manches hinzu, was ich
+<lb xml:id="letter_0779_002_tr_1_tl_22"/>vielleicht erst später fühle<pb xml:id="letter_0779_003"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0779_003.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0779_003_tr_2"/>
+            <lb xml:id="letter_0779_003_tr_2_tl_1"/>Es ist mir, als sei das
+<lb xml:id="letter_0779_003_tr_2_tl_2"/>letzte Kinderhafte langsam
+<lb xml:id="letter_0779_003_tr_2_tl_3"/>abgeglitten, alles ist schwerer,
+<lb xml:id="letter_0779_003_tr_2_tl_4"/>verantwortungsreicher, tiefer
+<lb xml:id="letter_0779_003_l"/>geworden. Dafür ist auch
+<lb xml:id="letter_0779_003_tr_2_tl_7"/>ein neuer Glaube da, an
+<lb xml:id="letter_0779_003_l_1"/>kraftvoll reines Empor-
+<lb xml:id="letter_0779_003_tr_2_tl_10"/>streben.
+<lb xml:id="letter_0779_003_tr_2_tl_11"/>ich möchte gerne in den
+<lb xml:id="letter_0779_003_tr_2_tl_12"/>Ferien noch einmal auf
+<lb xml:id="letter_0779_003_tr_2_tl_13"/>den Reiner Hügel kommen –
+<lb xml:id="letter_0779_003_tr_2_tl_14"/>also auf Wiedersehen. Und
+<lb xml:id="letter_0779_003_tr_2_tl_15"/>liebe Grüsse an Deine Mutter
+<lb xml:id="letter_0779_003_tr_2_tl_16"/>und Dich.
+<lb xml:id="letter_0779_003_tr_2_tl_17"/>Annemarie</div>
+      </body>
+   </text>
+</TEI>
