@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0774"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0774</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0774_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0774_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0774_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0774_001_tr_1"/>
+            <lb xml:id="letter_0774_001_tr_1_tl_1"/>23. XII. 28
+<lb xml:id="letter_0774_001_tr_1_tl_2"/>BOCKEN
+<lb xml:id="letter_0774_001_tr_1_tl_3"/>OB HORGEN. ZÜRICHSEE.
+<lb xml:id="letter_0774_001_tr_1_tl_4"/>Lieber Ernst!
+<lb xml:id="letter_0774_001_tr_1_tl_5"/>Von ganz Bocken bin ich
+<lb xml:id="letter_0774_001_tr_1_tl_6"/>beauftragt Dir und
+<lb xml:id="letter_0774_001_tr_1_tl_7"/>Deiner lieben Mutter die
+<lb xml:id="letter_0774_001_tr_1_tl_8"/>herzlichsten Weilmachts¬
+<lb xml:id="letter_0774_001_tr_1_tl_9"/>grüsse zu senden und
+<lb xml:id="letter_0774_001_tr_1_tl_10"/>zugleich unsere Wünsche.
+<lb xml:id="letter_0774_001_tr_1_tl_11"/>für das neue Jahr.
+<lb xml:id="letter_0774_001_tr_1_tl_12"/>[pMama fugt
+<lb xml:id="letter_0774_001_tr_1_tl_13"/>hinzu, sie habe bis heute
+<lb xml:id="letter_0774_001_tr_1_tl_14"/>auf ein Buch für Dich
+<lb xml:id="letter_0774_001_tr_1_tl_15"/>gewartet, dass nun mit
+<lb xml:id="letter_0774_001_tr_1_tl_16"/>Verspätung kom[en wird –<pb xml:id="letter_0774_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0774_003.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0774_002_tr_1"/>
+            <lb xml:id="letter_0774_002_tr_1_tl_1"/>Den Shawl sollst Du
+<lb xml:id="letter_0774_002_tr_1_tl_2"/>oder Deine Mutter tra¬
+<lb xml:id="letter_0774_002_tr_1_tl_3"/>gen, je nach Geschmack!
+<lb xml:id="letter_0774_002_tr_1_tl_4"/>[space] Ich habe Dir von
+<lb xml:id="letter_0774_002_tr_1_tl_5"/>Paris aus nie geschrieben.
+<lb xml:id="letter_0774_002_tr_1_tl_6"/>Die Feder hat dort wenig
+<lb xml:id="letter_0774_002_tr_1_tl_7"/>gearbeitet, abgesehen von
+<lb xml:id="letter_0774_002_tr_1_tl_8"/>den zahlreichen Kollegheften
+<lb xml:id="letter_0774_002_tr_1_tl_9"/>die ich füllte u. deren
+<lb xml:id="letter_0774_002_tr_1_tl_10"/>Inhalt – so interessant
+<lb xml:id="letter_0774_002_tr_1_tl_11"/>er sein mochte nicht zur
+<lb xml:id="letter_0774_002_tr_1_tl_12"/>Anregung von Phantasie
+<lb xml:id="letter_0774_002_tr_1_tl_13"/>Dichtvermögen beitrug!<pb xml:id="letter_0774_003"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0774_002.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0774_003_tr_1"/>
+            <lb xml:id="letter_0774_003_tr_1_tl_1"/>Unter den Bildern meines Zim[ers
+<lb xml:id="letter_0774_003_tr_1_tl_2"/>in Paris dominiert Stefan George,
+<lb xml:id="letter_0774_003_tr_1_tl_3"/>und ich werde versuchen, nur
+<lb xml:id="letter_0774_003_tr_1_tl_4"/>gute, starke und fruchtbare
+<lb xml:id="letter_0774_003_tr_1_tl_5"/>Geister um ihn zu versam[eln.
+<lb xml:id="letter_0774_003_tr_1_tl_6"/>[pViel Erfahrungen
+<lb xml:id="letter_0774_003_tr_1_tl_7"/>habe ich schon gemacht. <PAGE tag="continued">Vielen</PAGE>
+<lb xml:id="letter_0774_003_tr_1_tl_8"/><PAGE tag="continued">Menschen bin ich begegnet -</PAGE>
+<lb xml:id="letter_0774_003_tr_1_tl_9"/><PAGE tag="continued">ich gestehe, dass ich ganz verwirrt</PAGE>
+<lb xml:id="letter_0774_003_tr_1_tl_10"/><PAGE tag="continued">war von soviel Entgegenkom¬</PAGE>
+<lb xml:id="letter_0774_003_tr_1_tl_11"/><PAGE tag="continued">men u. Verwöhnung</PAGE>[blauer Farbstift] – Vielleicht
+<lb xml:id="letter_0774_003_tr_1_tl_12"/>habe ich mich am Anfang zu
+<lb xml:id="letter_0774_003_tr_1_tl_13"/>sehr davon gefangen nehmen
+<lb xml:id="letter_0774_003_tr_1_tl_14"/>lassen. Ich war allen Eindrucken
+<lb xml:id="letter_0774_003_tr_1_tl_15"/>geöffnet, und man soll wohl
+<lb xml:id="letter_0774_003_tr_1_tl_16"/>nicht zu <PAGE tag="strikethrough">anl</PAGE> <PAGE tag="underlined">furchtlos</PAGE> sein!
+<lb xml:id="letter_0774_003_tr_1_tl_17"/>Aber nun lerne ich die Konzen¬
+<lb xml:id="letter_0774_003_tr_1_tl_18"/>tration, u. werde Dir – nach
+<lb xml:id="letter_0774_003_tr_1_tl_19"/>Paris zurück gekehrt, weiter
+<lb xml:id="letter_0774_003_tr_1_tl_20"/>berichten –
+<lb xml:id="letter_0774_003_tr_1_tl_21"/>Wie geht es Dir, und Deinen
+<lb xml:id="letter_0774_003_tr_1_tl_22"/>Freunden, und Deiner Arbeit?
+<lb xml:id="letter_0774_003_tr_1_tl_23"/>Noch einmal: alles Gute!
+<lb xml:id="letter_0774_003_tr_1_tl_24"/>Deine
+<lb xml:id="letter_0774_003_tr_1_tl_25"/>An[emarie Schw.</div>
+      </body>
+   </text>
+</TEI>
