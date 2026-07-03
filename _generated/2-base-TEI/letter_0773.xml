@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0773" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0773#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0773</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0773_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0773_001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l_7"/>I</p>
+
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>25. Sept. 28 
+               <lb xml:id="p001_tr_1_tl_2"/>Lieber Ernst – 
+               <lb xml:id="p001_tr_1_tl_3"/>Du schriebst mir im richtigen 
+               <lb xml:id="p001_l"/>Augenblick. Ich kam eben 
+               <lb xml:id="p001_l_1"/>von einem Aufenthalt in Deutschland 
+               <lb xml:id="p001_l_2"/>zurück, die Mutter u. die Verwandten 
+               <lb xml:id="p001_tr_1_tl_11"/>meiner kleinsten Fetaner Freundin 
+               <lb xml:id="p001_tr_1_tl_12"/>hatten mich kom[en lassen – 
+               <lb xml:id="p001_tr_1_tl_13"/>Selten ist mir in weniger Tagen 
+               <lb xml:id="p001_l_3"/>unter "fremden" Menschen so viel 
+               <lb xml:id="p001_tr_1_tl_16"/>Freundschaft, Vertrauen, Liebe begegnet. 
+               <lb xml:id="p001_tr_1_tl_17"/>ich war benom[m]en davon: [Farbstift] <PAGE tag="continued">im[er bin</PAGE> 
+               <lb xml:id="p001_l_6"/><PAGE tag="continued">ich in plötzlicher Begegnung, rascher</PAGE> 
+               <lb xml:id="p001_tr_1_tl_22"/><PAGE tag="continued">Zuneigung stärker gebunden als durch</PAGE> 
+               <lb xml:id="p001_tr_1_tl_23"/><PAGE tag="continued">langes Bekan[t-Sein.</PAGE> 
+               <lb xml:id="p001_tr_1_tl_24"/>In solchem Stunden, da Dir ein 
+               <lb xml:id="p001_tr_1_tl_25"/>neuer Mensch begegnet, darf 
+               <lb xml:id="p001_l_4"/>man wohl von Kairos sprechen? 
+               <lb xml:id="p001_tr_1_tl_28"/>Nach 2 Tagen musste 
+               <lb xml:id="p001_tr_1_tl_29"/>ich fort. War sehr mutlos – 
+               <lb xml:id="p001_tr_1_tl_30"/>Als ich aber Deinen Brief 
+               <lb xml:id="p001_tr_1_tl_31"/>las, fand ich es wieder. Das 
+               <lb xml:id="p001_tr_1_tl_32"/>Unerklärbare, welches Du die 
+               <lb xml:id="p001_l_5"/>Tugend der geistigen Leidenschaft nen[st.</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0773_002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l_3"/>II</p>
+
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>Das Grosse an ihr, u. das was die 
+               <lb xml:id="p002_tr_1_tl_2"/>Meisten nicht verstehen, scheint 
+               <lb xml:id="p002_tr_1_tl_3"/>mir dieses:[Farbstift] <PAGE tag="continued">Dass nicht ich sie</PAGE> 
+               <lb xml:id="p002_l_1"/><PAGE tag="continued">besitze sondern sie mich</PAGE>. Dass 
+               <lb xml:id="p002_tr_1_tl_8"/>ich in Wahrheit von ihr 
+               <lb xml:id="p002_tr_1_tl_9"/>besessen werde. 
+               <lb xml:id="p002_tr_1_tl_10"/>Aber nur in seltenen Augenblicken. 
+               <lb xml:id="p002_l"/>[space] Manchmal denke ich dass ich die 
+               <lb xml:id="p002_tr_1_tl_13"/>"Sin[losigkeit" des Daseins werde 
+               <lb xml:id="p002_tr_1_tl_15"/>überwinden können. Die Welt 
+               <lb xml:id="p002_tr_1_tl_16"/>rundet sich zur <del rend="overstrike">ei</del> Einheit (in 
+               <lb xml:id="p002_tr_1_tl_17"/>Ahnungen erst) u. dan[ fühle 
+               <lb xml:id="p002_l_2"/>ich Tun u. Leiden, Lieben – 
+               <lb xml:id="p002_tr_1_tl_20"/>Geliebtwerden schicksalshaft verknüpft. 
+               <lb xml:id="p002_tr_1_tl_21"/>Das ist es, was ich meinen 
+               <lb xml:id="p002_tr_1_tl_22"/>Glauben nen[en möchte. 
+               <lb xml:id="p002_tr_1_tl_23"/>[space] Leider kon[ten wir Son[tag nicht 
+               <lb xml:id="p002_tr_1_tl_24"/>nach Rein kom[en: Mama kam 
+               <lb xml:id="p002_tr_1_tl_25"/>endlich nach Hause. Sie u. 
+               <lb xml:id="p002_tr_1_tl_26"/>Grossmama grüssen herzlich, 
+               <lb xml:id="p002_tr_1_tl_27"/>ebenso wie ich. 
+               <lb xml:id="p002_tr_1_tl_28"/>An]emarie 
+               <lb xml:id="p002_tr_1_tl_29"/>P.S. Ist das Juli-Heft des W.V. nicht schön?</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0773_003.jpg"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_1"/>Welchen Unsin[ tren[t und Volk zu Der 
+               <lb xml:id="p003_tr_1_tl_2"/>Sablatost, - einst der Christ u ich fourte 
+               <lb xml:id="p003_tr_1_tl_3"/>Die Bibelfarrl den A. ges bestet Welt v 
+               <lb xml:id="p003_tr_1_tl_4"/>Teufel beim. Die Opost die beide 
+               <lb xml:id="p003_tr_1_tl_5"/>Apostel wählen <hi rendition="#u">Alt-Rom</hi> 
+               <lb xml:id="p003_tr_1_tl_6"/>Te men vell letz Gewinn, aber kommt 
+               <lb xml:id="p003_tr_1_tl_7"/>it nicht zu heri, die Gemeinde 
+               <lb xml:id="p003_tr_1_tl_8"/>4)<hi rendition="#u"> Pharisäische Selbstgerechtigkeit</hi> 
+               <lb xml:id="p003_tr_1_tl_9"/>sie sind die Beprit und alle 
+               <lb xml:id="p003_tr_1_tl_10"/>and Welt ist vellant. Sie geben 
+               <lb xml:id="p003_tr_1_tl_11"/>Dittern alle Welcht gepachtet 
+               <lb xml:id="p003_tr_1_tl_12"/>und vestertzen 4G de P/a sag. 
+               <lb xml:id="p003_tr_1_tl_13"/>sir isit heure gesetzt und du huit 
+               <lb xml:id="p003_tr_1_tl_14"/>de Vous gu tcolle. Ois du 
+               <lb xml:id="p003_tr_1_tl_15"/>und einfaltigen Worte gelt? 
+               <lb xml:id="p003_tr_1_tl_16"/>indled einmal offentlich dezer 
+               <lb xml:id="p003_tr_1_tl_17"/>leg. Scheiben ist nicht sehen 
+               <lb xml:id="p003_tr_1_tl_18"/>habe da, wo man ja lege ich 
+               <lb xml:id="p003_tr_1_tl_19"/>Ken ein Gefahr eine Hein unte 
+               <lb xml:id="p003_tr_1_tl_20" break="no"/>wüller zu sein anfangen oder 
+               <lb xml:id="p003_tr_1_tl_21"/>heben in Gefahren 
+               <lb xml:id="p003_tr_1_tl_22"/>et</p>
+
+            <milestone unit="textregion" xml:id="p003_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_2_tl_1"/>des</p>
+
+            <milestone unit="textregion" xml:id="p003_tr_3"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_3_tl_1"/>utgall and an einer Umstell 
+               <lb xml:id="p003_tr_3_tl_2"/>Sonez en Avril gearbeit. O a 
+               <lb xml:id="p003_tr_3_tl_3"/>A Un montant en a un Anfrage 
+               <lb xml:id="p003_tr_3_tl_4"/>an eine Mein der Situngen, und 
+               <lb xml:id="p003_tr_3_tl_5"/>wenn soll nun und da nicht 
+               <lb xml:id="p003_tr_3_tl_6"/>den einen Reis einmal nicht und 
+               <lb xml:id="p003_tr_3_tl_7"/>in den Mayen so vil M de 
+               <lb xml:id="p003_tr_3_tl_8"/>Kirrigesche weill die Verhähltet 
+               <lb xml:id="p003_tr_3_tl_9"/>remogen. Un konte let je lay g 
+               <lb xml:id="p003_tr_3_tl_10"/>übrig ist zu lange mit geneigt 
+               <lb xml:id="p003_tr_3_tl_11"/>Geven, auf bei Acht zu hin od 
+               <lb xml:id="p003_tr_3_tl_12"/>nach Beid Sich zu hart. Sie soll 
+               <lb xml:id="p003_tr_3_tl_13"/>indied en entschied all de 
+               <lb xml:id="p003_tr_3_tl_14"/>Selet 8 ans en Prototen ausrott. 
+               <lb xml:id="p003_tr_3_tl_15"/>Wir haben Ja keine Wor ug 5 auf 
+               <lb xml:id="p003_tr_3_tl_16"/>de du vild Bab logibut lot ce 
+               <lb xml:id="p003_tr_3_tl_17"/>ist gein der di erst Schule in til 
+               <lb xml:id="p003_tr_3_tl_18"/>sûre 
+               <lb xml:id="p003_tr_3_tl_19"/>ver ist. de gans de nulle 
+               <lb xml:id="p003_tr_3_tl_20"/>sond die Kühl vor 
+               <lb xml:id="p003_tr_3_tl_21"/>de 
+               <lb xml:id="p003_tr_3_tl_22"/>Selib 
+               <lb xml:id="p003_tr_3_tl_23"/>Dambartin 
+               <lb xml:id="p003_tr_3_tl_24"/>Au 
+               <lb xml:id="p003_tr_3_tl_25"/>Au</p>
+</div>
+       </body>
+    </text>
+ </TEI>
