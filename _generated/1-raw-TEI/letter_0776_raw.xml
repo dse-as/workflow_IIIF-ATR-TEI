@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0776"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0776</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0776_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0776_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0776_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0776_001_tr_1"/>
+            <lb xml:id="letter_0776_001_tr_1_tl_1"/>1929/30? [mit Bleistift]
+<lb xml:id="letter_0776_001_tr_1_tl_2"/>Lieber Ernst Merz,
+<lb xml:id="letter_0776_001_tr_1_tl_3"/>ich danke Dir für die
+<lb xml:id="letter_0776_001_tr_1_tl_4"/>Schönen Sätze von
+<lb xml:id="letter_0776_001_tr_1_tl_5"/><PAGE tag="underlined">Hölderlin</PAGE>, [Bleistift] – nachdem
+<lb xml:id="letter_0776_001_tr_1_tl_6"/>die ersten Tage über¬
+<lb xml:id="letter_0776_001_tr_1_tl_7"/>wunden sind, fülle
+<lb xml:id="letter_0776_001_tr_1_tl_8"/>ich die Zeit mit
+<lb xml:id="letter_0776_001_tr_1_tl_9"/>Lektüre u. fühle mit
+<lb xml:id="letter_0776_001_tr_1_tl_10"/>Erstaunen dass die
+<lb xml:id="letter_0776_001_tr_1_tl_11"/><PAGE tag="continued">deutschen Romantiker</PAGE>
+<lb xml:id="letter_0776_001_tr_1_tl_12"/><PAGE tag="continued">unsere nahen Brüder</PAGE>
+<lb xml:id="letter_0776_001_tr_1_tl_13"/><PAGE tag="continued">sind –</PAGE> [Beistift]
+<lb xml:id="letter_0776_001_tr_1_tl_14"/>ich wünsche Dir schöne
+<lb xml:id="letter_0776_001_tr_1_tl_15"/>Tage u. viel Freude!
+<lb xml:id="letter_0776_001_tr_1_tl_16"/>Deine
+<lb xml:id="letter_0776_001_tr_1_tl_17"/>Annemarie</div>
+      </body>
+   </text>
+</TEI>
