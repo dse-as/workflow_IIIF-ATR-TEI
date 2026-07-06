@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0892" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0892#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0892</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0892_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0892_001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>9. X. 29 
+               <lb xml:id="p001_tr_1_tl_2"/>Ma chère Jaqueline 
+               <lb xml:id="p001_tr_1_tl_3"/>En retournant de l'Engadine j'ai 
+               <lb xml:id="p001_tr_1_tl_4"/>trouvé votre lettre qui m'a tout 
+               <lb xml:id="p001_tr_1_tl_5"/>remplie de joie – avec votre lettre 
+               <lb xml:id="p001_tr_1_tl_6"/>d'aujourd'hui vous n'avez pas 
+               <lb xml:id="p001_tr_1_tl_7"/>réussi de faire disparaître cette 
+               <lb xml:id="p001_tr_1_tl_8"/>joie, même que vous n'écrivez 
+               <lb xml:id="p001_tr_1_tl_9"/>d'une façon pas du tout gentille 
+               <lb xml:id="p001_tr_1_tl_10"/>et qui ne va pas du tout avec 
+               <lb xml:id="p001_tr_1_tl_11"/>Votre sourire!! Pardonnez-moi que je 
+               <lb xml:id="p001_tr_1_tl_12"/>parle du votre sourire mais je vous 
+               <lb xml:id="p001_tr_1_tl_13"/>avouerai que j'ai toujours une photo 
+               <lb xml:id="p001_tr_1_tl_14"/>de vous sur ma table de travail. 
+               <lb xml:id="p001_tr_1_tl_15"/>Vous êtes debout dans le pré de notre 
+               <lb xml:id="p001_tr_1_tl_16"/>pic-nic, et vous avez ce chic sourire 
+               <lb xml:id="p001_tr_1_tl_17"/>qui m'encourage chaque fois que je le 
+               <lb xml:id="p001_tr_1_tl_18"/>vois –</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0892_002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>Donc, retournons à votre dernière lettre. 
+               <lb xml:id="p002_tr_1_tl_2"/>1) Vous écrivez que je vous ai fait un 
+               <lb xml:id="p002_tr_1_tl_3"/>peu mal avec une phrase très insigni – 
+               <lb xml:id="p002_tr_1_tl_4"/>fiante: je l'ai écrit sans réfléchire, 
+               <lb xml:id="p002_l"/>tout simplement parceque je suis 
+               <lb xml:id="p002_tr_1_tl_7"/>habituée de vous voir brune, jolie 
+               <lb xml:id="p002_tr_1_tl_8"/>sans chapean et sans bras, et, car je 
+               <lb xml:id="p002_l_1"/>Vous aime ainsi, <del rend="overstrike">j'ai des</del> cela m'est 
+               <lb xml:id="p002_tr_1_tl_11"/>difficile de m'imaginer une Jagueline 
+               <lb xml:id="p002_tr_1_tl_12"/>habillée pour la ville! 
+               <lb xml:id="p002_l_2"/>2) Vous écrivez à propos de Tania. C'est 
+               <lb xml:id="p002_tr_1_tl_15"/>un chapitre un peu difficile, et je 
+               <lb xml:id="p002_tr_1_tl_16"/>vous assure que cela me décourage 
+               <lb xml:id="p002_tr_1_tl_17"/>souvent. Je suis attristée de voir 
+               <lb xml:id="p002_tr_1_tl_18"/>que Tania est si faible et presque 
+               <lb xml:id="p002_tr_1_tl_19"/>incapable de se forme une vie – 
+               <lb xml:id="p002_tr_1_tl_20"/>Mais je lui aiderai: ˩j'ai été tellement 
+               <lb xml:id="p002_l_3"/>gâtée toute ma vie par l'amitié 
+               <lb xml:id="p002_tr_1_tl_23"/>et l'amour de tout le monde, 
+               <lb xml:id="p002_tr_1_tl_24"/>pourquoi je ne ferai pas moi-même 
+               <lb xml:id="p002_l_4"/>un effort pour quelqu'un</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0892_003.jpg"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_1"/>2</p>
+
+            <milestone unit="textregion" xml:id="p003_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_2_tl_1"/>Voyez-vous je suis une personne assez 
+               <lb xml:id="p003_l"/>normale sans beaucoup de côtés 
+               <lb xml:id="p003_tr_2_tl_4"/>dingues, et peut-être égoïste : car 
+               <lb xml:id="p003_tr_2_tl_5"/>je suis très ambitieuse. Je ne mérite 
+               <lb xml:id="p003_tr_2_tl_6"/>donc nullement une affection 
+               <lb xml:id="p003_tr_2_tl_7"/>spéciale. Et quand'mène [sic] j'ai 
+               <lb xml:id="p003_tr_2_tl_8"/>toujours trouvé <del rend="overstrike">et</del> tant d'amour 
+               <lb xml:id="p003_tr_2_tl_9"/>parmis mes amis, et encore toute jeune 
+               <lb xml:id="p003_tr_2_tl_10"/>j'étais gàté par une tendresse 
+               <lb xml:id="p003_tr_2_tl_11"/>touchante. 
+               <lb xml:id="p003_tr_2_tl_12"/>Alors vous comprenez que je suis pleine 
+               <lb xml:id="p003_tr_2_tl_13"/>de reconnaissance contre tout le 
+               <lb xml:id="p003_tr_2_tl_14"/>monde, et c'est pourquoi je ne 
+               <lb xml:id="p003_tr_2_tl_15"/><hi rendition="#u">déteste</hi> presque jamais. – 
+               <lb xml:id="p003_tr_2_tl_16"/>Vous écrivez que vous avez envie de 
+               <lb xml:id="p003_tr_2_tl_17"/>dire des choses dures. Pourquoi ne 
+               <lb xml:id="p003_l_1"/>l'avez-vous pas fait? Vous m'avez</p>
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0892_004.jpg"/>
+            <milestone unit="textregion" xml:id="p004_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_2_tl_1"/>bien écrit des choses bonnes et tendres 
+               <lb xml:id="p004_tr_2_tl_2"/>pourquoi vous vous arrêtez quand 
+               <lb xml:id="p004_tr_2_tl_3"/>une fois l'envie vous prend d'être 
+               <lb xml:id="p004_tr_2_tl_4"/>méchante? 
+               <lb xml:id="p004_tr_2_tl_5"/>Méchant et bon, c'est comme froid et 
+               <lb xml:id="p004_tr_2_tl_6"/>chaud: c'est toujours quelquechose 
+               <lb xml:id="p004_l_1"/>de fort, – <del rend="overstrike">ra</del> la seule chose 
+               <lb xml:id="p004_tr_2_tl_10"/>importante c'est de ne jamais 
+               <lb xml:id="p004_tr_2_tl_11"/>être mauvais, parce que mauvais 
+               <lb xml:id="p004_tr_2_tl_12"/>c'est <hi rendition="#u">tiède</hi> et faible – 
+               <lb xml:id="p004_tr_2_tl_13"/>Je vous avais écrit, je crois, que j'ai parlé 
+               <lb xml:id="p004_l"/>f avec un rédacteur, M. Korradi. Maintenant 
+               <lb xml:id="p004_tr_2_tl_16"/>il m'a donné un travail à écrire, 
+               <lb xml:id="p004_tr_2_tl_18"/>et en plus, il va publier une de mes 
+               <lb xml:id="p004_tr_2_tl_19"/>nouvelles. Je suis si contente de ce petit 
+               <lb xml:id="p004_tr_2_tl_20"/>succes. Mes cours commencent lundi. 
+               <lb xml:id="p004_tr_2_tl_21"/>J'ai un très grand programme (34 cours 
+               <lb xml:id="p004_tr_2_tl_22"/>par semaine) : Histoire, Géographie, et 
+               <lb xml:id="p004_tr_2_tl_23"/>littérature moderne. Car il ns faut 3 
+               <lb xml:id="p004_tr_2_tl_24"/>matières pour l'examin. 
+               <lb xml:id="p004_tr_2_tl_25"/>Ecrivez bientôt, n'est-ce pas. Ne dites</p>
+
+            <milestone unit="textregion" xml:id="p004_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_l_2"/>pas que je me suis éloignée de vous. Cela me ferait 
+               <lb xml:id="p004_l_3"/>trop de peine. 
+               <lb xml:id="p004_l_5"/>Toujours à vous 
+               <lb xml:id="p004_l_4"/>An[emarie</p>
+</div>
+       </body>
+    </text>
+ </TEI>
