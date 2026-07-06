@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0894"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0894</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0894_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0894_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0894_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0894_001_tr_1"/>
+            <lb xml:id="letter_0894_001_tr_1_tl_1"/>I.XI.29
+<lb xml:id="letter_0894_001_tr_1_tl_2"/>Franz va bien, il est encore au
+<lb xml:id="letter_0894_001_tr_1_tl_3"/>service militaire. Jutta semble
+<lb xml:id="letter_0894_001_tr_1_tl_4"/>rentrer bientôt. Avez vous vu Vrene Reinhart?
+<lb xml:id="letter_0894_001_tr_1_tl_5"/>Ecrivez moi !
+<lb xml:id="letter_0894_001_tr_1_tl_6"/>Ma chère  Jaqueline
+<lb xml:id="letter_0894_001_tr_1_tl_7"/>Pour commencer : je serre vos
+<lb xml:id="letter_0894_001_tr_1_tl_8"/>deux main pour vous féliciter,
+<lb xml:id="letter_0894_001_tr_1_tl_9"/>un peu tard, mais de tout
+<lb xml:id="letter_0894_001_tr_1_tl_10"/>mon coeur. Ce n'est pas ma
+<lb xml:id="letter_0894_001_tr_1_tl_11"/>faute de ne pas avoir su le
+<lb xml:id="letter_0894_001_tr_1_tl_12"/>jour de votre anniversaire !
+<lb xml:id="letter_0894_001_tr_1_tl_13"/>je vous remercie de m'avoir écrit.
+<lb xml:id="letter_0894_001_l"/>Vous êtes gentille, Jaqueline – j'aime
+<lb xml:id="letter_0894_001_tr_1_tl_16"/>que vous êtes si franche. Je vous
+<lb xml:id="letter_0894_001_tr_1_tl_17"/>ai dejà dit que cela ne fait
+<lb xml:id="letter_0894_001_tr_1_tl_18"/>rien si vous ne pouvez pas
+<lb xml:id="letter_0894_001_tr_1_tl_19"/>vous rappeler clairement de moi.
+<lb xml:id="letter_0894_001_l_1"/>Je vous assure que cela n'a rien
+<lb xml:id="letter_0894_001_tr_1_tl_22"/>à dire. La vie est si bonne : on
+<lb xml:id="letter_0894_001_tr_1_tl_23"/>se reverra un jour. C'est simple<pb xml:id="letter_0894_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0894_002.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0894_002_tr_1"/>
+            <lb xml:id="letter_0894_002_tr_1_tl_1"/>et bien.
+<lb xml:id="letter_0894_002_tr_1_tl_2"/>J’ai beaucoup d’amis, mais pas
+<lb xml:id="letter_0894_002_tr_1_tl_3"/>un seul à Zurich. Afin, peut-être
+<lb xml:id="letter_0894_002_tr_1_tl_4"/>c'est méchant et ingrat de dire
+<lb xml:id="letter_0894_002_tr_1_tl_5"/>cela, mais que voulez-vous : j'ai,
+<lb xml:id="letter_0894_002_l"/>dans l'amitié, besoin de tendresse.
+<lb xml:id="letter_0894_002_tr_1_tl_8"/>Du reste je ne sais pas pourquoi
+<lb xml:id="letter_0894_002_tr_1_tl_9"/>je vous écris juste ça – C'est
+<lb xml:id="letter_0894_002_l_1"/>pour vous dire que je pense aux
+<lb xml:id="letter_0894_002_tr_1_tl_12"/>grandes routes ...
+<lb xml:id="letter_0894_002_l_2"/>Jaqueline! j'étouffe de travail. J’ai
+<lb xml:id="letter_0894_002_tr_1_tl_15"/>2 conférences à préparer. J’écris
+<lb xml:id="letter_0894_002_tr_1_tl_16"/>encore pour le journal. Je dors assez
+<lb xml:id="letter_0894_002_tr_1_tl_17"/>peu. Mais je pense aux grande
+<lb xml:id="letter_0894_002_tr_1_tl_18"/>routes!
+<lb xml:id="letter_0894_002_tr_1_tl_19"/>N'est-ce pas, nous aurons des jours
+<lb xml:id="letter_0894_002_l_3"/>libres et heureux? Vous n'en
+<lb xml:id="letter_0894_002_tr_1_tl_22"/>doutez pas? <PAGE tag="strikethrough">n'est-ce pas?</PAGE>
+<lb xml:id="letter_0894_002_tr_1_tl_23"/>Et pour ce soir : bonne nuit!
+<lb xml:id="letter_0894_002_tr_1_tl_24"/>Annemarie</div>
+      </body>
+   </text>
+</TEI>
