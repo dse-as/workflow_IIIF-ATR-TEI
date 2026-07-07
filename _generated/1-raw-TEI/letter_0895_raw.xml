@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0895"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0895</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0895_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0895_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0895_002.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0895_001_tr_1"/>
+            <lb xml:id="letter_0895_001_tr_1_tl_2"/>Ma chère Jaqueline,
+<lb xml:id="letter_0895_001_tr_1_tl_3"/>me voilà à Nyon –
+<lb xml:id="letter_0895_001_tr_1_tl_4"/>je vous écris
+<lb xml:id="letter_0895_001_tr_1_tl_5"/>quoique élant
+<lb xml:id="letter_0895_001_tr_1_tl_6"/>très fachée avec
+<lb xml:id="letter_0895_001_tr_1_tl_7"/>vous! <PAGE tag="underlined">Ecrivez</PAGE>
+<lb xml:id="letter_0895_001_tr_1_tl_8"/>enfin, soyez gentille –
+<lb xml:id="letter_0895_001_tr_1_tl_9"/>Milles pensées
+<lb xml:id="letter_0895_001_tr_1_tl_10"/>An[emarie<milestone unit="textregion" xml:id="letter_0895_001_tr_2"/>
+            <lb xml:id="letter_0895_001_tr_2_tl_2"/>Mlle Nougarède
+<lb xml:id="letter_0895_001_tr_2_tl_3"/>93 Bd. St. Michel
+<lb xml:id="letter_0895_001_tr_2_tl_4"/>Paris Ve [unterstrichen und superscript e]
+<lb xml:id="letter_0895_001_tr_2_tl_5"/>.<milestone unit="textregion" xml:id="letter_0895_001_r"/>
+            <lb xml:id="letter_0895_001_l"/>Stempel ? XI 29<pb xml:id="letter_0895_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0895_001.jpg"/>
+         </div>
+      </body>
+   </text>
+</TEI>
