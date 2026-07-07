@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0898"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0898</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0898_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0898_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0898_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0898_001_tr_1"/>
+            <lb xml:id="letter_0898_001_tr_1_tl_1"/>ANNEMARIE SCHWARZENBACH
+<lb xml:id="letter_0898_001_tr_1_tl_2"/>22 II 30
+<lb xml:id="letter_0898_001_tr_1_tl_3"/>Ma chère Jaqueline –
+<lb xml:id="letter_0898_001_tr_1_tl_4"/>il faut que vous allez au moulin pour
+<lb xml:id="letter_0898_001_tr_1_tl_5"/>vous reposer. j'espère que vous y trouverai
+<lb xml:id="letter_0898_001_tr_1_tl_6"/>la tranquillité dont vous avez besoin.
+<lb xml:id="letter_0898_001_tr_1_tl_7"/>Si je pouvais, je viendrai un peu chez
+<lb xml:id="letter_0898_001_tr_1_tl_8"/>vous – votre lettre est en effet un peu
+<lb xml:id="letter_0898_001_tr_1_tl_9"/>triste, et j'en suis triste aussi. Mais je
+<lb xml:id="letter_0898_001_tr_1_tl_10"/>suis sûre que vous vous <PAGE tag="strikethrough">sante</PAGE> sentirais
+<lb xml:id="letter_0898_001_tr_1_tl_11"/>mieux, une fois loin de Paris, du
+<lb xml:id="letter_0898_001_tr_1_tl_12"/>bruit, des gens et du travail!
+<lb xml:id="letter_0898_001_tr_1_tl_13"/>Du reste j'ai à vous
+<lb xml:id="letter_0898_001_l"/>annoncer que probablement je ne
+<lb xml:id="letter_0898_001_l_1"/>peux pas venir à Paris. Mes parents
+<lb xml:id="letter_0898_001_l_2"/>vont à Rome pour 2 ou 3 semaines,
+<lb xml:id="letter_0898_001_tr_1_tl_20"/>je les accompagne. Et le reste des
+<lb xml:id="letter_0898_001_tr_1_tl_21"/>Vacances il faut que je travaille –
+<lb xml:id="letter_0898_001_tr_1_tl_24"/>juste
+<lb xml:id="letter_0898_001_l_3"/>quand'même je tâcherai de venir à
+<lb xml:id="letter_0898_001_l_4"/>Paris [juste] pour quelques jours, j'ai des<pb xml:id="letter_0898_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0898_002.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0898_002_tr_1"/>
+            <lb xml:id="letter_0898_002_l"/>soucis a cause de Tania –
+<lb xml:id="letter_0898_002_tr_1_tl_3"/>afin, on verra!
+<lb xml:id="letter_0898_002_tr_1_tl_4"/>[space] Et bientôt l'été s'approchera. Moi
+<lb xml:id="letter_0898_002_tr_1_tl_5"/>aussi je deviens contente en  y pensant.
+<lb xml:id="letter_0898_002_l_1"/><PAGE tag="strikethrough">En somme quoique,</PAGE>
+<lb xml:id="letter_0898_002_tr_1_tl_8"/>Vous savez que je suis très triste ces jours!
+<lb xml:id="letter_0898_002_tr_1_tl_9"/>– J'ai été a l'Engadine, j'ai revue
+<lb xml:id="letter_0898_002_l_2"/>mes amies, et cela m'a fait très mal
+<lb xml:id="letter_0898_002_tr_1_tl_12"/>de les quitter.
+<lb xml:id="letter_0898_002_tr_1_tl_13"/>Mais je ne veux pas me pleindre. J'ai
+<lb xml:id="letter_0898_002_tr_1_tl_14"/>beaucoup de travail. Excusez cette
+<lb xml:id="letter_0898_002_tr_1_tl_15"/>lettre peu ordonnée – mais je pense
+<lb xml:id="letter_0898_002_l_4"/>a vous et il fallait bien que je
+<lb xml:id="letter_0898_002_tr_1_tl_19"/>vous le dise!
+<lb xml:id="letter_0898_002_tr_1_tl_20"/>Annemarie</div>
+      </body>
+   </text>
+</TEI>
