@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0903"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0903</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0903_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0903_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0903_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0903_001_tr_3"/>
+            <lb xml:id="letter_0903_001_tr_3_tl_13"/>29 XII 1930
+<lb xml:id="letter_0903_001_tr_3_tl_14"/>Mon grand enfant Jaqueline,
+<lb xml:id="letter_0903_001_tr_3_tl_15"/>par votre bonne et gentille lettre
+<lb xml:id="letter_0903_001_tr_3_tl_16"/>j'ai bien remarqué que les
+<lb xml:id="letter_0903_001_tr_3_tl_17"/>nuages noirs n'out pas
+<lb xml:id="letter_0903_001_tr_3_tl_18"/>disparus, quoiqué vous en écrivez
+<lb xml:id="letter_0903_001_tr_3_tl_19"/>peu. Et il y a des moments
+<lb xml:id="letter_0903_001_tr_3_tl_20"/>dans lesquelles la vie vous semble
+<lb xml:id="letter_0903_001_tr_3_tl_21"/>sans grâce et stupide. Si je serai
+<lb xml:id="letter_0903_001_tr_3_tl_22"/>en ce moment auprès de vous
+<lb xml:id="letter_0903_001_tr_3_tl_23"/>nous ferions bien vite disparaître
+<lb xml:id="letter_0903_001_tr_3_tl_24"/>les causes de votre tristesse,
+<lb xml:id="letter_0903_001_l"/>croyez-moi. Les moments
+<lb xml:id="letter_0903_001_l_1"/>tristes nous semblent être
+<lb xml:id="letter_0903_001_tr_3_tl_29"/>tellement longs et déci si os –
+<lb xml:id="letter_0903_001_l_2"/>mais voilà. que le soleil<milestone unit="textregion" xml:id="letter_0903_001_r"/>
+            <lb xml:id="letter_0903_001_l_3"/>Si vous passeez <PAGE tag="underlined">au Foyer</PAGE> vous serez bien
+<lb xml:id="letter_0903_001_l_4"/>gentille de dire à Miss Watson, à
+<lb xml:id="letter_0903_001_l_5"/>Mlle Memie, à Tamara, <PAGE tag="underlined">à tout le monde</PAGE>
+<lb xml:id="letter_0903_001_l_6"/>mes pensées et mes sincères!<milestone unit="textregion" xml:id="letter_0903_001_r_1"/>
+            <lb xml:id="letter_0903_001_l_7"/>Saluez Georgette 
+<lb xml:id="letter_0903_001_l_8"/>Occasiano de 
+<lb xml:id="letter_0903_001_l_9"/>ma part!<pb xml:id="letter_0903_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0903_002.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0903_002_tr_1"/>
+            <lb xml:id="letter_0903_002_l"/>revient et votre sourire
+<lb xml:id="letter_0903_002_l_1"/>Jaqueline, chère ami, pensez
+<lb xml:id="letter_0903_002_tr_1_tl_5"/>combien de joie, combien
+<lb xml:id="letter_0903_002_tr_1_tl_6"/>de mots doux, combien
+<lb xml:id="letter_0903_002_tr_1_tl_7"/>d'amitié et de tendresse
+<lb xml:id="letter_0903_002_tr_1_tl_8"/>la vie vous donnera. Et
+<lb xml:id="letter_0903_002_l_2"/>vous aurez, j'en suis sûre,
+<lb xml:id="letter_0903_002_tr_1_tl_11"/>la patience et le courage
+<lb xml:id="letter_0903_002_tr_1_tl_12"/>d'attendre!
+<lb xml:id="letter_0903_002_tr_1_tl_13"/>Mon amie Erika, une des femmes les
+<lb xml:id="letter_0903_002_tr_1_tl_14"/>plus délicieuses que j'ai rencontré,
+<lb xml:id="letter_0903_002_tr_1_tl_15"/>m'a dit dernièrement: la vie a des
+<lb xml:id="letter_0903_002_tr_1_tl_16"/>périodes d'attente qu'il faut
+<lb xml:id="letter_0903_002_tr_1_tl_17"/>supporter.
+<lb xml:id="letter_0903_002_tr_1_tl_18"/>Et nous sommes si jeunes, Jaqueline,
+<lb xml:id="letter_0903_002_tr_1_tl_19"/>la vie nous attend! –––
+<lb xml:id="letter_0903_002_tr_1_tl_20"/>Vous demandez ce que je faits. Je
+<lb xml:id="letter_0903_002_tr_1_tl_21"/>travaille. J'ai écrit tout un
+<lb xml:id="letter_0903_002_tr_1_tl_22"/>livre, un petit Roman de jeunes gens,
+<lb xml:id="letter_0903_002_tr_1_tl_23"/>mais maintenant j'ai plus le
+<lb xml:id="letter_0903_002_tr_1_tl_24"/>temps: je <PAGE tag="strikethrough">n'pe</PAGE> prépare très<milestone unit="textregion" xml:id="letter_0903_002_r"/>
+            <lb xml:id="letter_0903_002_l_3"/>sérieusement mes examens qui me
+<lb xml:id="letter_0903_002_l_4"/>font un peu peur!
+<lb xml:id="letter_0903_002_l_5"/>Adieu Jacqueline – bon courage!
+<lb xml:id="letter_0903_002_l_6"/>Pensées tendres de
+<lb xml:id="letter_0903_002_l_7"/>An[emarie</div>
+      </body>
+   </text>
+</TEI>
