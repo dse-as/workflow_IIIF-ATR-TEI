@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0899"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0899</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0899_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0899_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0899_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0899_001_tr_1"/>
+            <lb xml:id="letter_0899_001_tr_1_tl_1"/>[April/Mai 1930]
+<lb xml:id="letter_0899_001_tr_1_tl_2"/>Ma chère Jaqueline
+<lb xml:id="letter_0899_001_tr_1_tl_3"/>vous êtes gentille de ne pas me
+<lb xml:id="letter_0899_001_tr_1_tl_4"/>gronder – it je vous assur que
+<lb xml:id="letter_0899_001_tr_1_tl_5"/>ce n'est pas mauvaise volonté
+<lb xml:id="letter_0899_001_tr_1_tl_6"/>que je ne vous ai pas écrit
+<lb xml:id="letter_0899_001_tr_1_tl_7"/>une longue lettre. Mais aujourd'hui
+<lb xml:id="letter_0899_001_tr_1_tl_8"/>je veux vous raconter un peu, ce
+<lb xml:id="letter_0899_001_tr_1_tl_9"/>que je faits: l'Université a recommen¬ 
+<lb xml:id="letter_0899_001_tr_1_tl_10"/>cé<PAGE tag="strikethrough">e</PAGE> je suis assez remise pour
+<lb xml:id="letter_0899_001_tr_1_tl_12"/>pouvoir travailler. Vous pouvez vous
+<lb xml:id="letter_0899_001_tr_1_tl_13"/>imaginer combien j'en suis heureuse
+<lb xml:id="letter_0899_001_tr_1_tl_14"/>et je veux travailler, beaucoup
+<lb xml:id="letter_0899_001_tr_1_tl_15"/>travailler –
+<lb xml:id="letter_0899_001_tr_1_tl_16"/>On a publié un article de moi que
+<lb xml:id="letter_0899_001_tr_1_tl_17"/>qui a eu un assez grand succès –
+<lb xml:id="letter_0899_001_tr_1_tl_18"/>je voudrais bien que vous le lisiez,
+<lb xml:id="letter_0899_001_tr_1_tl_19"/>Jaqueline – car je sais que vous
+<lb xml:id="letter_0899_001_tr_1_tl_20"/>l'aimeriez – j'ai écrit sur la
+<lb xml:id="letter_0899_001_tr_1_tl_21"/>"position de la jeunesse" –<pb xml:id="letter_0899_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0899_002.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0899_002_tr_1"/>
+            <lb xml:id="letter_0899_002_l"/><PAGE tag="strikethrough">Cion</PAGE> Elisabeth part demain. J'étais
+<lb xml:id="letter_0899_002_tr_1_tl_3"/>tellement contente qu'elle était
+<lb xml:id="letter_0899_002_l_1"/>là, car j'ai. peu d'amies [ici],exceptée.
+<lb xml:id="letter_0899_002_tr_1_tl_4"/>ici
+<lb xml:id="letter_0899_002_l_2"/>Hundi? qui est un camarade mer¬
+<lb xml:id="letter_0899_002_tr_1_tl_9"/>veilleux –
+<lb xml:id="letter_0899_002_tr_1_tl_10"/>[space] Et vous, comment allez-vous?
+<lb xml:id="letter_0899_002_tr_1_tl_11"/>J'espère que vous êtes tout à
+<lb xml:id="letter_0899_002_tr_1_tl_12"/>fait remise et – <PAGE tag="underlined">contente</PAGE> – je vous
+<lb xml:id="letter_0899_002_tr_1_tl_13"/>souhaite du courage, du travail,
+<lb xml:id="letter_0899_002_tr_1_tl_14"/>et le sourire.
+<lb xml:id="letter_0899_002_tr_1_tl_15"/>Donc nous allons faire les grandes
+<lb xml:id="letter_0899_002_l_3"/>routes en Allemagne – je vais faire
+<lb xml:id="letter_0899_002_tr_1_tl_18"/>des projets plus exactes – et je vous
+<lb xml:id="letter_0899_002_tr_1_tl_19"/>écrirai –
+<lb xml:id="letter_0899_002_tr_1_tl_20"/>N'est-ce pas vous n'aller pas me
+<lb xml:id="letter_0899_002_tr_1_tl_21"/>faire attendre longtemps pour
+<lb xml:id="letter_0899_002_tr_1_tl_22"/>avoir de tvos nouvelles?
+<lb xml:id="letter_0899_002_tr_1_tl_23"/>Bien à vous toujours
+<lb xml:id="letter_0899_002_tr_1_tl_24"/>Annemarie</div>
+      </body>
+   </text>
+</TEI>
