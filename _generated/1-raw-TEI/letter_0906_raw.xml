@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0906"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0906</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0906_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0906_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0906_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0906_001_tr_1"/>
+            <lb xml:id="letter_0906_001_tr_1_tl_1"/>März 1931 [bleistift]
+<lb xml:id="letter_0906_001_tr_1_tl_2"/>Ma très chère Jacqueline,
+<lb xml:id="letter_0906_001_tr_1_tl_3"/>Votre bonne lettre est arrivée
+<lb xml:id="letter_0906_001_tr_1_tl_4"/>hier. Elle semble venir d'un
+<lb xml:id="letter_0906_001_tr_1_tl_5"/>endroit calme et plein de soleil.
+<lb xml:id="letter_0906_001_tr_1_tl_6"/>Que faites-vous là-bas? N'allez
+<lb xml:id="letter_0906_001_tr_1_tl_7"/>vous pas rentrer à Paris?
+<lb xml:id="letter_0906_001_tr_1_tl_8"/>Travaillez-vous en ce moment?
+<lb xml:id="letter_0906_001_tr_1_tl_9"/>Mais vous me demandez de mes
+<lb xml:id="letter_0906_001_tr_1_tl_10"/>nouvelles.
+<lb xml:id="letter_0906_001_tr_1_tl_11"/>Je ne suis pas très contente car
+<lb xml:id="letter_0906_001_tr_1_tl_12"/>je n'ai pas l'énergie de
+<lb xml:id="letter_0906_001_tr_1_tl_13"/>travailler <PAGE tag="underlined">bien</PAGE>. Je travaille, et
+<lb xml:id="letter_0906_001_tr_1_tl_14"/>mes examens commencent en
+<lb xml:id="letter_0906_001_tr_1_tl_15"/>10 jours. Je pense de réussir.
+<lb xml:id="letter_0906_001_tr_1_tl_16"/>Tout sera terminé a la fin du
+<lb xml:id="letter_0906_001_tr_1_tl_17"/>mois d'Avril ou début de
+<lb xml:id="letter_0906_001_tr_1_tl_18"/>Mai. Mais même si je réussis,
+<lb xml:id="letter_0906_001_tr_1_tl_19"/>je ne suis pas vraiment contente<pb xml:id="letter_0906_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0906_002.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0906_002_tr_1"/>
+            <lb xml:id="letter_0906_002_tr_1_tl_1"/>de moi-même.
+<lb xml:id="letter_0906_002_tr_1_tl_2"/>Peut-être je vais partir pour Rome.
+<lb xml:id="letter_0906_002_tr_1_tl_3"/>Je vais voir de belles choses,
+<lb xml:id="letter_0906_002_tr_1_tl_4"/>des paysages que j'aime, et je
+<lb xml:id="letter_0906_002_tr_1_tl_5"/>me reposerai. J'attendrai avec
+<lb xml:id="letter_0906_002_tr_1_tl_6"/>patience que les idées, l'envie,
+<lb xml:id="letter_0906_002_tr_1_tl_7"/>le courage reviendront.
+<lb xml:id="letter_0906_002_tr_1_tl_8"/>[space] Tout le monde va bien, Hansi a
+<lb xml:id="letter_0906_002_tr_1_tl_9"/>gagné un grand prix en Allemagne,
+<lb xml:id="letter_0906_002_tr_1_tl_10"/>Fredi est au service militaire,
+<lb xml:id="letter_0906_002_tr_1_tl_11"/>Gundi a Berlin chez sa soeur.
+<lb xml:id="letter_0906_002_tr_1_tl_12"/>Je vous embrasse, chère Jaqueline,
+<lb xml:id="letter_0906_002_tr_1_tl_13"/>soyez contente et tranquille –
+<lb xml:id="letter_0906_002_tr_1_tl_14"/>Annemarie</div>
+      </body>
+   </text>
+</TEI>
