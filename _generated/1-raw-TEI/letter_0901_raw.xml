@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0901"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0901</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0901_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0901_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0901_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0901_001_tr_1"/>
+            <lb xml:id="letter_0901_001_l"/>Juni? 1930 [bleistift]
+<lb xml:id="letter_0901_001_tr_1_tl_3"/>Anfang Juli? [bleistf]
+<lb xml:id="letter_0901_001_tr_1_tl_4"/>Ma chère Jaqueline –
+<lb xml:id="letter_0901_001_tr_1_tl_5"/>vous avez bientôt des vacances – aucun
+<lb xml:id="letter_0901_001_tr_1_tl_6"/>de nos projets est fixé – toutes les
+<lb xml:id="letter_0901_001_tr_1_tl_7"/>possibilités sont encore ouvertes!
+<lb xml:id="letter_0901_001_tr_1_tl_8"/>Vers le <PAGE tag="underlined">15 Juillet</PAGE> je serai opérée de
+<lb xml:id="letter_0901_001_tr_1_tl_9"/>l'apendicite, vers le 15 Août je pense
+<lb xml:id="letter_0901_001_tr_1_tl_10"/>partir pour les grisons: <PAGE tag="underlined">travail d’archive</PAGE>
+<lb xml:id="letter_0901_001_tr_1_tl_11"/>jusque 1<PAGE tag="superscript">er</PAGE> septembre à Coire, alors
+<lb xml:id="letter_0901_001_tr_1_tl_12"/>Engadine –
+<lb xml:id="letter_0901_001_tr_1_tl_13"/>je vous demande: est-ce que vous
+<lb xml:id="letter_0901_001_tr_1_tl_14"/>pouvez venir à la fin du mois d'Août<pb xml:id="letter_0901_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0901_002.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0901_002_tr_1"/>
+            <lb xml:id="letter_0901_002_tr_1_tl_1"/>*<milestone unit="textregion" xml:id="letter_0901_002_tr_2"/>
+            <lb xml:id="letter_0901_002_l"/>a l'Engadine. On pourrait faire,
+<lb xml:id="letter_0901_002_tr_2_tl_3"/>aulion les grandes routes, quelques
+<lb xml:id="letter_0901_002_tr_2_tl_4"/>jours d'excursions superbes à
+<lb xml:id="letter_0901_002_tr_2_tl_5"/>la montagne – avez vous envie?!
+<lb xml:id="letter_0901_002_tr_2_tl_6"/>Si vous préfrog une autre date, écrivez
+<lb xml:id="letter_0901_002_tr_2_tl_7"/>moi – écrivez-moi tous vos projet
+<lb xml:id="letter_0901_002_tr_2_tl_8"/>Sogg Contente dien Jaquiline-je seu
+<lb xml:id="letter_0901_002_tr_2_tl_9"/>vous êtes fatiguée - mais maintenant
+<lb xml:id="letter_0901_002_tr_2_tl_10"/>c'est l'été, les vacances, la belle vie
+<lb xml:id="letter_0901_002_tr_2_tl_11"/>Encore un projet : avez-vous
+<lb xml:id="letter_0901_002_tr_2_tl_12"/>et 15 Août, pour
+<lb xml:id="letter_0901_002_tr_2_tl_13"/>envie de venir entre 1
+<lb xml:id="letter_0901_002_tr_2_tl_14"/>faire un voyage le long du Rhin
+<lb xml:id="letter_0901_002_tr_2_tl_15"/>avec quelques étudiants (mes amis)?
+<lb xml:id="letter_0901_002_tr_2_tl_16"/>Si le docteur me le permet, j'ai l'intention
+<lb xml:id="letter_0901_002_l_1"/>de réaliser ce projet. <PAGE tag="underlined">Ecrivez tout de suile!</PAGE></div>
+      </body>
+   </text>
+</TEI>
