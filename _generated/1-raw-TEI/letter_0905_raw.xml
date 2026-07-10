@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0905"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0905</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0905_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0905_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0905_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0905_001_tr_1"/>
+            <lb xml:id="letter_0905_001_tr_1_tl_1"/>SUVRETTA HOUSE
+<lb xml:id="letter_0905_001_tr_1_tl_3"/>S<PAGE tag="superscript">T</PAGE>. MORITZ
+<lb xml:id="letter_0905_001_tr_1_tl_5"/>4. II. 31
+<lb xml:id="letter_0905_001_tr_1_tl_6"/>Ma Jaqueline cherie –
+<lb xml:id="letter_0905_001_tr_1_tl_7"/>Ecrivez-moi un peu la cause
+<lb xml:id="letter_0905_001_tr_1_tl_8"/>de votre tristesse, je vois
+<lb xml:id="letter_0905_001_tr_1_tl_9"/>bien que vous aviez du
+<lb xml:id="letter_0905_001_tr_1_tl_10"/>chagrin et je voudrais
+<lb xml:id="letter_0905_001_tr_1_tl_11"/>vous aider en vous disant
+<lb xml:id="letter_0905_001_tr_1_tl_12"/>que tout le monde a des
+<lb xml:id="letter_0905_001_tr_1_tl_13"/>périodes de crises, et que
+<lb xml:id="letter_0905_001_tr_1_tl_14"/>vous aussi vous aurez un
+<lb xml:id="letter_0905_001_tr_1_tl_15"/>jour de nouveau le beau
+<lb xml:id="letter_0905_001_tr_1_tl_16"/>sourire. Mais cette consola¬
+<lb xml:id="letter_0905_001_tr_1_tl_17"/>tion est faible, je le sais<milestone unit="textregion" xml:id="letter_0905_001_tr_2"/>
+            <lb xml:id="letter_0905_001_tr_2_tl_1"/>et je suis presqu'honteuse
+<lb xml:id="letter_0905_001_tr_2_tl_3"/>de vous dire qu'après 10
+<lb xml:id="letter_0905_001_tr_2_tl_4"/>jours de vacances auprès
+<lb xml:id="letter_0905_001_tr_2_tl_5"/>de mon amie Mme
+<lb xml:id="letter_0905_001_tr_2_tl_6"/>Franssen je suis très triste
+<lb xml:id="letter_0905_001_tr_2_tl_7"/>de rentrer et je ne trouve
+<lb xml:id="letter_0905_001_tr_2_tl_8"/>pas le courage de penser
+<lb xml:id="letter_0905_001_tr_2_tl_9"/>à mon travail!
+<lb xml:id="letter_0905_001_tr_2_tl_10"/>J'ai vu M. Svirsky, Mouth
+<lb xml:id="letter_0905_001_tr_2_tl_11"/>et Follette et nous avons
+<lb xml:id="letter_0905_001_tr_2_tl_12"/>parlé de vous. Si vous
+<lb xml:id="letter_0905_001_tr_2_tl_13"/>rentrez à Paris, passez
+<lb xml:id="letter_0905_001_tr_2_tl_14"/>donc chez eux, ce sont
+<lb xml:id="letter_0905_001_tr_2_tl_15"/>de si bons amis, et cela
+<lb xml:id="letter_0905_001_tr_2_tl_16"/>vous fera plaisir –<pb xml:id="letter_0905_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0905_002.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0905_002_tr_1"/>
+            <lb xml:id="letter_0905_002_tr_1_tl_1"/>Reposez-vous bien, Jaqueline,
+<lb xml:id="letter_0905_002_tr_1_tl_2"/>et faites moi savoir vos
+<lb xml:id="letter_0905_002_tr_1_tl_3"/>projets –
+<lb xml:id="letter_0905_002_tr_1_tl_4"/>Je pense à toi avec
+<lb xml:id="letter_0905_002_tr_1_tl_5"/>beaucoup de tendresse
+<lb xml:id="letter_0905_002_tr_1_tl_6"/>An[emarie</div>
+      </body>
+   </text>
+</TEI>
