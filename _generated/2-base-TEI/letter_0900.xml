@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0900" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0900#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0900</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0900_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0900_002.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>SILS IM ENGADIN (1812 m.) 
+               <lb xml:id="p001_tr_1_tl_2"/>Platta im Fextal 
+               <lb xml:id="p001_tr_1_tl_3"/>Chère Jaqueline – 
+               <lb xml:id="p001_tr_1_tl_4"/>dépêchez-vous de 
+               <lb xml:id="p001_tr_1_tl_5"/>venir. Venez 
+               <lb xml:id="p001_tr_1_tl_6"/><hi rendition="#u">maintenan</hi>t, si 
+               <lb xml:id="p001_tr_1_tl_7"/>cela vous est possible! 
+               <lb xml:id="p001_tr_1_tl_8"/>Il fait eau en ce 
+               <lb xml:id="p001_tr_1_tl_9"/>moment et qui sais 
+               <lb xml:id="p001_tr_1_tl_10"/>si cela durera! Aussi 
+               <lb xml:id="p001_tr_1_tl_11"/>je ne sais pas combien 
+               <lb xml:id="p001_tr_1_tl_12"/>de temps je peux. 
+               <lb xml:id="p001_tr_1_tl_13"/>rester ici! Venez donc 
+               <lb xml:id="p001_tr_1_tl_14"/>avant le 25 au 
+               <lb xml:id="p001_tr_1_tl_15"/>moins! 
+               <lb xml:id="p001_tr_1_tl_16"/>An[emarie 
+               <lb xml:id="p001_tr_1_tl_17"/>Photohaus E. Meerkämper, Sils i. E. 23</p>
+
+            <milestone unit="textregion" xml:id="p001_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_2_tl_1"/>18.7.1930 
+               <lb xml:id="p001_tr_2_tl_2"/>Fair Suivre! 
+               <lb xml:id="p001_tr_2_tl_3"/>Mlle Nougarè de 
+               <lb xml:id="p001_tr_2_tl_4"/>93 Bd. St. Michel 
+               <lb xml:id="p001_tr_2_tl_5"/>[alles unterstrichen]Paris V<hi rendition="#sup">e</hi></p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0900_001.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>S</p>
+</div>
+       </body>
+    </text>
+ </TEI>
