@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0914" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0914#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0914</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0914_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0914_001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>BOCKEN 
+               <lb xml:id="p001_tr_1_tl_2"/>OB HORGEN, ZÜRICHSEE. 
+               <lb xml:id="p001_tr_1_tl_3"/>30. Dezember 1932. 
+               <lb xml:id="p001_l_1"/>Ma chère Jaqueline! Une 
+               <lb xml:id="p001_tr_1_tl_7"/>miracle s'est produit! Je vous écrit! 
+               <lb xml:id="p001_tr_1_tl_8"/>Je suis à Bocken et je passe une 
+               <lb xml:id="p001_tr_1_tl_10"/>soirée bien gentille avec Annemarie, qui 
+               <lb xml:id="p001_tr_1_tl_11"/>m'a raconté de vous. Ne passez vous 
+               <lb xml:id="p001_tr_1_tl_12"/>pas une fois a Zurich avec votre mari? 
+               <lb xml:id="p001_tr_1_tl_13"/>J'aimerais bien faire sa connaissance. 
+               <lb xml:id="p001_tr_1_tl_14"/>Je vous remercie encore 1000 fois de votre 
+               <lb xml:id="p001_tr_1_tl_15"/>lettre du mois de septembre, je crois 
+               <lb xml:id="p001_tr_1_tl_16"/>que Franz vous a répondu? Je vais bien, 
+               <lb xml:id="p001_tr_1_tl_17"/>je travaille a un journal à Berne, 
+               <lb xml:id="p001_tr_1_tl_18"/>ce qui m'intérsse beaucoup. Jutti va 
+               <lb xml:id="p001_tr_1_tl_19"/>bien aussi, elle est institutrice à Davos, 
+               <lb xml:id="p001_tr_1_tl_20"/>je la verra demain. Si elle savait que 
+               <lb xml:id="p001_tr_1_tl_21"/>je vous écrit, elle vous saluerait chaude 
+               <lb xml:id="p001_tr_1_tl_22" break="no"/>ment. C'est ce que je fais pour nous 
+               <lb xml:id="p001_tr_1_tl_23"/>deux. Comme c'est nouvel an je vous 
+               <lb xml:id="p001_tr_1_tl_24"/>envoie même un baiser! 1000 amitiés de 
+               <lb xml:id="p001_tr_1_tl_25"/>Gundi.</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0914_002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>Jaqueline, chérie – je ne sais pas si 
+               <lb xml:id="p002_tr_1_tl_2"/>je t'ai déjà envoyé les photos 
+               <lb xml:id="p002_tr_1_tl_3"/>que j'ai pris à la Redoute – 
+               <lb xml:id="p002_tr_1_tl_4"/>c'était une si belle journée! 
+               <lb xml:id="p002_tr_1_tl_5"/>Excuse-moi de ne pas l'avoir 
+               <lb xml:id="p002_tr_1_tl_6"/>écrit plus tôt. J'étais à Berlin. 
+               <lb xml:id="p002_tr_1_tl_7"/>En 6 semaines l'éditeur Rowohlt 
+               <lb xml:id="p002_tr_1_tl_8"/>va publier un petit livre de moi, 
+               <lb xml:id="p002_tr_1_tl_9"/>"Lyrische Novelle" – sais-tu déja 
+               <lb xml:id="p002_tr_1_tl_10"/>assez d'Allemand pour la lire? 
+               <lb xml:id="p002_tr_1_tl_11"/>Comment va Luc ? 
+               <lb xml:id="p002_tr_1_tl_12"/>J'espère venir a Paris cette 
+               <lb xml:id="p002_tr_1_tl_13"/>année – 
+               <lb xml:id="p002_tr_1_tl_14"/>Une année qui sera, je le souhaite, 
+               <lb xml:id="p002_tr_1_tl_15"/><hi rendition="#u">très heureuse</hi> pour vous – 
+               <lb xml:id="p002_tr_1_tl_16"/>Affectueusement à toi – 
+               <lb xml:id="p002_tr_1_tl_17"/>Annemarie</p>
+</div>
+       </body>
+    </text>
+ </TEI>
