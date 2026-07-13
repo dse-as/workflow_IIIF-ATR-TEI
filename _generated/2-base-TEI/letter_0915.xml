@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0915" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0915#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0915</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0915_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0915_001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Bochen, 14. Avril 
+               <lb xml:id="p001_tr_1_tl_2"/>Ma chère Jaqueline – j'ai été si 
+               <lb xml:id="p001_tr_1_tl_3"/>contente d'avoir votre lettre – mais 
+               <lb xml:id="p001_tr_1_tl_4"/>ne pensez pas que, d'après votre 
+               <lb xml:id="p001_l"/>silence, j'avais jugé que vous m'oubliez! 
+               <lb xml:id="p001_l_1"/>Vous savez Jaqueline que je vous 
+               <lb xml:id="p001_tr_1_tl_10"/>garde toute mon affection. ––– 
+               <lb xml:id="p001_l_2"/>De tout mon cœur j'espère que 
+               <lb xml:id="p001_tr_1_tl_13"/>vous allez vous reposer au moulin, 
+               <lb xml:id="p001_tr_1_tl_14"/>et que la tranquillité, la 
+               <lb xml:id="p001_tr_1_tl_16"/>beauté de la campagne, le soleil 
+               <lb xml:id="p001_tr_1_tl_18"/>du printemps vous feront du bien – 
+               <lb xml:id="p001_tr_1_tl_19"/>J'avais l'impression que vous êtes 
+               <lb xml:id="p001_tr_1_tl_20"/>bien triste et j vouchrais être un 
+               <lb xml:id="p001_tr_1_tl_22"/>peu avec vous si peut-être cela vous 
+               <lb xml:id="p001_tr_1_tl_23"/>pourrait faire un par de bien ? 
+               <lb xml:id="p001_tr_1_tl_24"/>Mais il faut surtout que vous</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0915_002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>reposez vos nerfs, vous devez être 
+               <lb xml:id="p002_tr_1_tl_2"/>fatiguée, n'est-ce pas! 
+               <lb xml:id="p002_tr_1_tl_3"/>– je n'ai pas reçu vos projets 
+               <lb xml:id="p002_tr_1_tl_4"/>de cours – Voulez vous aller dans 
+               <lb xml:id="p002_tr_1_tl_5"/>les montagnes? En Engadine? 
+               <lb xml:id="p002_l"/>Ce serait beau! Mais, on peut aussi 
+               <lb xml:id="p002_tr_1_tl_9"/>faire les grandes routes d'Allemagne – 
+               <lb xml:id="p002_tr_1_tl_10"/>les petites villes pittoresques – j'aimerais 
+               <lb xml:id="p002_tr_1_tl_11"/>beaucoup cette idée! Quand avez-vous 
+               <lb xml:id="p002_tr_1_tl_12"/>des vacances ? Moi, je ne pourrais 
+               <lb xml:id="p002_tr_1_tl_13"/>probablement pas partir avant le 
+               <lb xml:id="p002_tr_1_tl_14"/>15 ou 20 Août – 
+               <lb xml:id="p002_l_1"/>[space] Elisabeth est venue aujourd'hui, j'en suis 
+               <lb xml:id="p002_tr_1_tl_17"/>bien contente, – j'étais malade 2 
+               <lb xml:id="p002_tr_1_tl_18"/>semaines, mais ça va mieux mainte 
+               <lb xml:id="p002_tr_1_tl_19" break="no"/>nant! 
+               <lb xml:id="p002_tr_1_tl_20"/>Ma chère Jaqueline je vous souhaite 
+               <lb xml:id="p002_tr_1_tl_21"/>le sourire et le courage – et je 
+               <lb xml:id="p002_tr_1_tl_22"/>pense à vous – Sincèrement votre 
+               <lb xml:id="p002_tr_1_tl_24"/>An[emarie 
+               <lb xml:id="p002_tr_1_tl_25"/>P.S. 
+               <lb xml:id="p002_tr_1_tl_26"/>Gundi et Jutti sont encore en vacence.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
