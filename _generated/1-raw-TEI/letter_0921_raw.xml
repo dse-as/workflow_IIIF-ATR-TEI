@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0921"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0921</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0921_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0921_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0921_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0921_001_tr_1"/>
+            <lb xml:id="letter_0921_001_tr_1_tl_2"/>[Sommer 1929] BOCKEN
+<lb xml:id="letter_0921_001_tr_1_tl_3"/>OB HORGEN. ZÜRICHSEE. 
+<lb xml:id="letter_0921_001_tr_1_tl_1"/>Mardi
+<lb xml:id="letter_0921_001_tr_1_tl_4"/>Chère Jaqueline
+<lb xml:id="letter_0921_001_tr_1_tl_5"/>voici la photo que
+<lb xml:id="letter_0921_001_tr_1_tl_6"/>vous m'aviez demandé –
+<lb xml:id="letter_0921_001_tr_1_tl_7"/>je vous ai téléphoné hier
+<lb xml:id="letter_0921_001_tr_1_tl_8"/>soir, mais Mademoiselle
+<lb xml:id="letter_0921_001_tr_1_tl_9"/>était sortie avec les
+<lb xml:id="letter_0921_001_tr_1_tl_10"/>jeunes Monsieurs. Alors
+<lb xml:id="letter_0921_001_tr_1_tl_11"/>moi, résignée, j'ai raccroché
+<lb xml:id="letter_0921_001_tr_1_tl_12"/>la journée passe, vous vous
+<lb xml:id="letter_0921_001_tr_1_tl_13"/>promenez sur le Rigi,
+<lb xml:id="letter_0921_001_tr_1_tl_14"/>demain je me promenerai
+<lb xml:id="letter_0921_001_tr_1_tl_15"/>à mon tour sur l'Alpe.<pb xml:id="letter_0921_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0921_002.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0921_002_tr_1"/>
+            <lb xml:id="letter_0921_002_tr_1_tl_1"/>Alors, enfin, le Jeudi
+<lb xml:id="letter_0921_002_tr_1_tl_2"/>s'approchera. Je me
+<lb xml:id="letter_0921_002_l"/>réjouie tellement que, pour
+<lb xml:id="letter_0921_002_tr_1_tl_5"/>ce jour-là, je suis
+<lb xml:id="letter_0921_002_tr_1_tl_6"/>acceptée comme Chauffeur
+<lb xml:id="letter_0921_002_tr_1_tl_7"/>pour vous. Seulement je
+<lb xml:id="letter_0921_002_tr_1_tl_8"/>crains toujours que quelque-
+<lb xml:id="letter_0921_002_tr_1_tl_9"/>chose arrive pour me prendre
+<lb xml:id="letter_0921_002_tr_1_tl_10"/>mon Jeudi.
+<lb xml:id="letter_0921_002_tr_1_tl_11"/>Afin: hier nous avons
+<lb xml:id="letter_0921_002_tr_1_tl_12"/>passé an bon après-midi.
+<lb xml:id="letter_0921_002_tr_1_tl_13"/>Tout va bien. Tout dépend
+<lb xml:id="letter_0921_002_tr_1_tl_14"/>de nous, de notre façon<pb xml:id="letter_0921_003"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0921_003.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0921_003_tr_1"/>
+            <lb xml:id="letter_0921_003_tr_1_tl_1"/>de voir les choses, de notre forme
+<lb xml:id="letter_0921_003_tr_1_tl_2"/>qui supporte les difficultés et
+<lb xml:id="letter_0921_003_tr_1_tl_3"/>les chagrins comme des épreuves,
+<lb xml:id="letter_0921_003_tr_1_tl_4"/>sans lesquelles nous sont des
+<lb xml:id="letter_0921_003_tr_1_tl_5"/>êtres faibles et "fades" et
+<lb xml:id="letter_0921_003_tr_1_tl_6"/>donc, en dernière ligne, c'est
+<lb xml:id="letter_0921_003_tr_1_tl_7"/>notre courage <PAGE tag="underlined">à nous</PAGE>, c'est nous
+<lb xml:id="letter_0921_003_tr_1_tl_8"/>et personne d'autre qui forment
+<lb xml:id="letter_0921_003_tr_1_tl_9"/>notre vie.
+<lb xml:id="letter_0921_003_tr_1_tl_10"/>Quel plaisir de savoir ça!
+<lb xml:id="letter_0921_003_tr_1_tl_11"/>À Jeudi –
+<lb xml:id="letter_0921_003_tr_1_tl_12"/>An[emarie
+<lb xml:id="letter_0921_003_tr_1_tl_13"/>Du Reste?, Jeudi vous avez le
+<lb xml:id="letter_0921_003_tr_1_tl_15"/>cafard, pauvre petite Jaqueline,
+<lb xml:id="letter_0921_003_l"/>parceque vous n'aimez pas
+<lb xml:id="letter_0921_003_tr_1_tl_18"/>les départs.
+<lb xml:id="letter_0921_003_tr_1_tl_19"/>j'ai eu aujourd'hui une lettre
+<lb xml:id="letter_0921_003_tr_1_tl_20"/>de Vollmoeller, le régisseur.
+<lb xml:id="letter_0921_003_tr_1_tl_21"/>Ça donne des chocs, je vous
+<lb xml:id="letter_0921_003_tr_1_tl_22"/>assure! Mais – je ne me permets
+<lb xml:id="letter_0921_003_tr_1_tl_23"/>plus les cafards, c'est tout.
+<lb xml:id="letter_0921_003_tr_1_tl_24"/>À votre service –
+<lb xml:id="letter_0921_003_tr_1_tl_25"/>Arthur.</div>
+      </body>
+   </text>
+</TEI>
