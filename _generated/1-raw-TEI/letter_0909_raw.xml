@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0909"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0909</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0909_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0909_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0909_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0909_001_tr_1"/>
+            <lb xml:id="letter_0909_001_tr_1_tl_1"/>Note
+<lb xml:id="letter_0909_001_tr_1_tl_2"/>MAJESTIC
+<lb xml:id="letter_0909_001_tr_1_tl_3"/>BERLIN<milestone unit="textregion" xml:id="letter_0909_001_tr_2"/>
+            <lb xml:id="letter_0909_001_tr_2_tl_1"/>[Okt 31] [Bleistift]
+<lb xml:id="letter_0909_001_tr_2_tl_2"/>32? [Bleistift
+<lb xml:id="letter_0909_001_tr_2_tl_3"/>Berlin-Frohnau [andere Schrift]
+<lb xml:id="letter_0909_001_tr_2_tl_4"/>Fischgrund 9 [andere Schrift]
+<lb xml:id="letter_0909_001_tr_2_tl_5"/>Jaqueline
+<lb xml:id="letter_0909_001_tr_2_tl_6"/>Très mauvaise conscience! Donc tu
+<lb xml:id="letter_0909_001_tr_2_tl_7"/>es mariée maintenant - mes
+<lb xml:id="letter_0909_001_tr_2_tl_8"/><PAGE tag="underlined">vives félicitations.</PAGE>
+<lb xml:id="letter_0909_001_tr_2_tl_9"/>je suis à Berlin, depuis 8 jours –
+<lb xml:id="letter_0909_001_tr_2_tl_10"/>il fallait, pas sans regret,
+<lb xml:id="letter_0909_001_tr_2_tl_11"/>quitter la Suisse, ici je
+<lb xml:id="letter_0909_001_tr_2_tl_12"/>peine travailler, écrire,
+<lb xml:id="letter_0909_001_tr_2_tl_13"/>apprendre. (ambition!)
+<lb xml:id="letter_0909_001_tr_2_tl_14"/>Mon adresse:
+<lb xml:id="letter_0909_001_tr_2_tl_15"/>Berlin-Charlottenburg.
+<lb xml:id="letter_0909_001_tr_2_tl_16"/>Grolmannstr. 4, Atelier –<milestone unit="textregion" xml:id="letter_0909_001_tr_3"/>
+            <lb xml:id="letter_0909_001_tr_3_tl_1"/>Comment va le ménage ? Es-tu
+<lb xml:id="letter_0909_001_tr_3_tl_2"/>contente –
+<lb xml:id="letter_0909_001_tr_3_tl_3"/>C'est si difficil pour moi
+<lb xml:id="letter_0909_001_tr_3_tl_4"/>à t'imaginer mariée.
+<lb xml:id="letter_0909_001_tr_3_tl_5"/>Bien des choses a Luc.
+<lb xml:id="letter_0909_001_tr_3_tl_6"/><PAGE tag="underlined">Affection sincère pour toi</PAGE>
+<lb xml:id="letter_0909_001_tr_3_tl_7"/>de
+<lb xml:id="letter_0909_001_tr_3_tl_8"/>An[emarie
+<lb xml:id="letter_0909_001_tr_3_tl_9"/>BERLIN-WILMERSDORF, BRANDENBURGISCHE STRASSE 47
+<lb xml:id="letter_0909_001_tr_3_tl_10"/>Telefon: H1 Pfalzburg 3843 Telegramm-Adresse: Majestic Berlin</div>
+      </body>
+   </text>
+</TEI>
