@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0918"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0918</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0918_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0918_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0918_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0918_001_tr_1"/>
+            <lb xml:id="letter_0918_001_tr_1_tl_1"/>Adresse
+<lb xml:id="letter_0918_001_tr_1_tl_2"/><PAGE tag="underlined">Utting</PAGE>, Ammersee
+<lb xml:id="letter_0918_001_tr_1_tl_3"/>Jaqueline, très gentille, je suis si contente de
+<lb xml:id="letter_0918_001_tr_1_tl_4"/>ton invitation et de savoir que tu
+<lb xml:id="letter_0918_001_tr_1_tl_5"/>vas bientôt <PAGE tag="strikethrough">d</PAGE> te marier –
+<lb xml:id="letter_0918_001_tr_1_tl_6"/>Je n’étais plus en Suisse depuis 5
+<lb xml:id="letter_0918_001_tr_1_tl_7"/>semaines, je travaille ici, écrivant
+<lb xml:id="letter_0918_001_tr_1_tl_8"/>un nouveau livre – C'est une vie
+<lb xml:id="letter_0918_001_tr_1_tl_9"/>paisible avec mes amis Erika
+<lb xml:id="letter_0918_001_tr_1_tl_10"/>et Klaus Mann que j'aime tant.
+<lb xml:id="letter_0918_001_l"/><PAGE tag="underlined">Si toujours possible</PAGE> je viendrai
+<lb xml:id="letter_0918_001_tr_1_tl_13"/>avec le plus grand plaisir à
+<lb xml:id="letter_0918_001_tr_1_tl_14"/>ton mariage.
+<lb xml:id="letter_0918_001_tr_1_tl_15"/>Mais ne compte pas trop sur
+<lb xml:id="letter_0918_001_tr_1_tl_16"/>moi, – c’est donc mieux que
+<lb xml:id="letter_0918_001_tr_1_tl_17"/>je ne sois en tout cas pas “Brautjungfer” –
+<lb xml:id="letter_0918_001_tr_1_tl_18"/>Toujours très tendrement à toi
+<lb xml:id="letter_0918_001_tr_1_tl_19"/>[j’espère que tu m’écris
+<lb xml:id="letter_0918_001_tr_1_tl_20"/>bientôt de nouveau]
+<lb xml:id="letter_0918_001_tr_1_tl_21"/>Ta
+<lb xml:id="letter_0918_001_tr_1_tl_22"/>An[emarie</div>
+      </body>
+   </text>
+</TEI>
