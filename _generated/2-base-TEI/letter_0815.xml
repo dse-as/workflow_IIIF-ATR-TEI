@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0815" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0815#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0815</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0815_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0815_001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_3"/>Fetan. 22 Mai 27 
+               <lb xml:id="p001_tr_1_tl_4"/>Ma chère Dominique, j'étais tres conten<del rend="overstrike">n</del>te de recevoir ta 
+               <lb xml:id="p001_tr_1_tl_5"/>lettre – elle était si gentille et tu t'occupe tant de moi. Pourquoi? 
+               <lb xml:id="p001_tr_1_tl_6"/>Je suis étonnee de me trouver assez bien ici sauf que j'ai toujours 
+               <lb xml:id="p001_tr_1_tl_7"/>envie d'e partir pour un petit moment, pou[sic] Zurich--que veux-tu. je 
+               <lb xml:id="p001_tr_1_tl_8"/>m'attache très vite à des endroits et encore plus vite a des 
+               <lb xml:id="p001_tr_1_tl_9"/>personnes--seulement sans confiance. J'ai confiance en très peu de gens 
+               <lb xml:id="p001_tr_1_tl_10"/>– même en les croyant. C'est une autre chose qui me fait peur: je sais 
+               <lb xml:id="p001_tr_1_tl_11"/>que bientot ils vont me faire des déception, et bientot je vais les 
+               <lb xml:id="p001_tr_1_tl_12"/>oublier. C'est triste, cela me fait del[sic] peine et je ne sais pas comment 
+               <lb xml:id="p001_tr_1_tl_13"/>me changer – alors je suis persuadée que c'est toujours ma faute –. 
+               <lb xml:id="p001_tr_1_tl_14"/>Tu me demande si je crois en Dieu? et tu attends que je te répondes 
+               <lb xml:id="p001_tr_1_tl_15"/>– c'est difficile car je ne sais pas que dire. Oui je suis sure qu'il 
+               <lb xml:id="p001_tr_1_tl_16"/>y a une force divine – elle s'exprime dans chaque chef d'oeuvre, dans 
+               <lb xml:id="p001_tr_1_tl_17"/>l'art – dans tout ce qu'on ne peut ni apprendre ni comprenne-dans tout 
+               <lb xml:id="p001_tr_1_tl_18"/>ce qui ce retrouve dans nos sentiments les plus nobles. 
+               <lb xml:id="p001_tr_1_tl_19"/>D'ou' viendront-ils? Ils ne sont pas du tout logiques et ils nous 
+               <lb xml:id="p001_tr_1_tl_20"/>donnent pas de profit – donc – La chaleur intérieure qui te rend forte 
+               <lb xml:id="p001_tr_1_tl_21"/>c'est bien Dieu. Moi je n'ai pas de Dieu en moi – je suis perdue aussi 
+               <lb xml:id="p001_tr_1_tl_22"/>tot que je n'ai personne qui m'aime et qui me donne ce que j<del rend="overstrike">e</del>'appelle 
+               <lb xml:id="p001_tr_1_tl_23"/>la vie. Et je suis sans force, envers des gens qui je reconnais 
+               <lb xml:id="p001_tr_1_tl_24"/>comme faux ou méchants, aussitot qu'ils m'attirent par la Leidenschaft 
+               <lb xml:id="p001_tr_1_tl_25"/>de leurs sentiments pour moi. Je travaille que par ambition. 
+               <lb xml:id="p001_tr_1_tl_26"/>Affectueusement [Handschrift 
+               <lb xml:id="p001_tr_1_tl_27"/>A[emarie</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0815_002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l"/>Mademoiselle D. Schlumberger 
+               <lb xml:id="p002_l_1"/>7 Rue Sas Cases 
+               <lb xml:id="p002_l_2"/>Paris VII 
+               <lb xml:id="p002_l_3"/>France</p>
+
+            <milestone unit="textregion" xml:id="p002_tr_2"/></div>
+       </body>
+    </text>
+ </TEI>
