@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0926"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0926</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0926_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0926_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0926_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0926_001_tr_1"/>
+            <lb xml:id="letter_0926_001_tr_1_tl_1"/>Ma chère Jacqueline –
+<lb xml:id="letter_0926_001_tr_1_tl_3"/>Non, je n'en pas flirté hier. Mais 
+<lb xml:id="letter_0926_001_tr_1_tl_4"/>pourquoi vous i [sic] tenez? J'ai trouvé
+<lb xml:id="letter_0926_001_tr_1_tl_5"/>votre lettre en rentrant vers 7h du
+<lb xml:id="letter_0926_001_tr_1_tl_6"/>matin. Merci – vous êtes si gentille
+<lb xml:id="letter_0926_001_tr_1_tl_7"/>de m'l'écrire.
+<lb xml:id="letter_0926_001_tr_1_tl_8"/>Depuis Jeudi je n'ai rien fait
+<lb xml:id="letter_0926_001_tr_1_tl_9"/>qu'écrire. Au moins 50 pages. Mal¬
+<lb xml:id="letter_0926_001_tr_1_tl_10"/>heureusement en Allemand, parceque
+<lb xml:id="letter_0926_001_tr_1_tl_11"/>j'étais sûre que je n'aurais jamais
+<lb xml:id="letter_0926_001_l"/>le courage de vous demander de
+<lb xml:id="letter_0926_001_tr_1_tl_14"/>le lire.
+<lb xml:id="letter_0926_001_tr_1_tl_15"/>Depuis <PAGE tag="strikethrough">des</PAGE> que je peux me rappeler
+<lb xml:id="letter_0926_001_tr_1_tl_16"/>je n'en pas été si triste comme
+<lb xml:id="letter_0926_001_tr_1_tl_17"/>Jeudi soir en rentrant. Je sais
+<lb xml:id="letter_0926_001_tr_1_tl_18"/>très bien tout ce qui faisait si mal,
+<lb xml:id="letter_0926_001_tr_1_tl_19"/>mais je ne veux pas vous l'écrire,
+<lb xml:id="letter_0926_001_tr_1_tl_20"/>ça n'aide à rien. Mais voyez
+<lb xml:id="letter_0926_001_tr_1_tl_22"/>vous, c'était aussi, qu'au milieu
+<lb xml:id="letter_0926_001_tr_1_tl_23"/>du chemin j'ai pleuré comme
+<lb xml:id="letter_0926_001_tr_1_tl_24"/>un gossie, et malgré moi. Et<pb xml:id="letter_0926_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0926_002.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0926_002_tr_1"/>
+            <lb xml:id="letter_0926_002_l"/>depuis, je fais rien que serrer
+<lb xml:id="letter_0926_002_tr_1_tl_3"/>les dents.
+<lb xml:id="letter_0926_002_tr_1_tl_4"/>Je ne peux plus vous téléphoner,
+<lb xml:id="letter_0926_002_tr_1_tl_5"/>Jacqueline, et j'ai pas le courage
+<lb xml:id="letter_0926_002_tr_1_tl_6"/>de vous voir. On m'a touf cassé
+<lb xml:id="letter_0926_002_tr_1_tl_7"/>dans les mains.
+<lb xml:id="letter_0926_002_tr_1_tl_8"/>Et vous m'avez dit qu'il ne fallait
+<lb xml:id="letter_0926_002_tr_1_tl_9"/>pas penser toujours de nouveau
+<lb xml:id="letter_0926_002_tr_1_tl_10"/>aux choses qui sont impossible.
+<lb xml:id="letter_0926_002_tr_1_tl_11"/>Au fond rien <PAGE tag="strikethrough">à</PAGE>a changé<PAGE tag="strikethrough">e</PAGE>. Mais au
+<lb xml:id="letter_0926_002_tr_1_tl_12"/>moment ou je suis partie dans
+<lb xml:id="letter_0926_002_tr_1_tl_13"/>ma voiture, tout le vide de cette
+<lb xml:id="letter_0926_002_tr_1_tl_14"/>grande nuit est entré en moi,
+<lb xml:id="letter_0926_002_tr_1_tl_15"/>je ne peux plus m'en débarasser.
+<lb xml:id="letter_0926_002_tr_1_tl_16"/>Alors je pense: je pourrais vous
+<lb xml:id="letter_0926_002_l_1"/>téléphoner, entendu votre voix – 
+<lb xml:id="letter_0926_002_tr_1_tl_19"/>Mais c'est tout à fait impossible.
+<lb xml:id="letter_0926_002_tr_1_tl_20"/>An[emarie</div>
+      </body>
+   </text>
+</TEI>
