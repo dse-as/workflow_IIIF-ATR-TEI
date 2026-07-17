@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0908" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0908#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0908</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0908_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0908_001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Schweiz. Telegraphen- und Telephonverwaltung. – Administration des télégraphes et des tétéphones suisses. – Amministrazione del telegrafi e del telefoni svizzeri. 
+               <lb xml:id="p001_tr_1_tl_2"/>No 2 
+               <lb xml:id="p001_tr_1_tl_3"/>S 
+               <lb xml:id="p001_tr_1_tl_6"/>N 
+               <lb xml:id="p001_l_1"/>Telegramm – Télégramme – Telegramma 
+               <lb xml:id="p001_tr_1_tl_8"/>Wörter - Mots 121 
+               <lb xml:id="p001_tr_1_tl_9"/>Parole 
+               <lb xml:id="p001_tr_1_tl_10"/>Nyon von – de Lugano 
+               <lb xml:id="p001_tr_1_tl_11"/>N° 690 
+               <lb xml:id="p001_tr_1_tl_12"/>Der Telegraphist: – Le télégraphiste: Il telfrafist: 
+               <lb xml:id="p001_tr_1_tl_13"/>Aufgegeben den – Consigné le 8 9 19 um - à 15 Uhr - heures 02 min 
+               <lb xml:id="p001_tr_1_tl_15"/>Consegnato il 
+               <lb xml:id="p001_tr_1_tl_18"/>Erhalten von - Reçu de 21<hi rendition="#sup">e</hi> den - le 8 19 
+               <lb xml:id="p001_tr_1_tl_19"/>um à 15 Uhr - heures 58 min. 
+               <lb xml:id="p001_tr_1_tl_26"/>Contr. No 93 
+               <lb xml:id="p001_tr_1_tl_27"/>Event. Angaben 
+               <lb xml:id="p001_tr_1_tl_28"/>Indications évent. 
+               <lb xml:id="p001_tr_1_tl_29"/>indicazioni event 
+               <lb xml:id="p001_tr_1_tl_30"/>Bongou Nougarède 
+               <lb xml:id="p001_tr_1_tl_33"/>Nyon (lac de Genève) 
+               <lb xml:id="p001_tr_1_tl_41"/>Vives felicitations amitiés voeux 
+               <lb xml:id="p001_tr_1_tl_47"/>Annemarie</p>
+</div>
+       </body>
+    </text>
+ </TEI>
