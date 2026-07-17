@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0818"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0818</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0818_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0818_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0818_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0818_001_tr_1"/>
+            <lb xml:id="letter_0818_001_tr_1_tl_2"/>19. Septembre 27
+<lb xml:id="letter_0818_001_tr_1_tl_3"/>Bocken / <PAGE tag="underlined">Horgen</PAGE>
+<lb xml:id="letter_0818_001_tr_1_tl_4"/>Ma chère Dominique
+<lb xml:id="letter_0818_001_tr_1_tl_6"/>Oui, l'automne est là –
+<lb xml:id="letter_0818_001_tr_1_tl_8"/>comme il fait froid! Je
+<lb xml:id="letter_0818_001_l"/>suis malade, j'ai même
+<lb xml:id="letter_0818_001_tr_1_tl_11"/>été bien malade. Je suis
+<lb xml:id="letter_0818_001_tr_1_tl_12"/>donc pas partie pour Fetan.
+<lb xml:id="letter_0818_001_tr_1_tl_13"/>Je suis triste sans être
+<lb xml:id="letter_0818_001_l_1"/>resigner – mais j'aurais
+<lb xml:id="letter_0818_001_tr_1_tl_17"/>besoin d'un cheer up, tu sais!
+<lb xml:id="letter_0818_001_tr_1_tl_18"/>Je me fais lire par Grandmaman
+<lb xml:id="letter_0818_001_tr_1_tl_19"/>"Napoleon" par E. Ludwig.
+<lb xml:id="letter_0818_001_tr_1_tl_20"/>Napoleon – c'était un génie.<pb xml:id="letter_0818_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0818_002.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0818_002_tr_1"/>
+            <lb xml:id="letter_0818_002_l"/>Mais aujourd'hui les
+<lb xml:id="letter_0818_002_l_1"/>Occasions ne sont pas
+<lb xml:id="letter_0818_002_tr_1_tl_6"/>les mêmes. –
+<lb xml:id="letter_0818_002_tr_1_tl_7"/>Je suis aussi triste parceque
+<lb xml:id="letter_0818_002_tr_1_tl_8"/>je ne peux pas accepter ton
+<lb xml:id="letter_0818_002_l_2"/>invitation. Les causes? Je ne
+<lb xml:id="letter_0818_002_l_3"/>sais pas, on me veut avoir
+<lb xml:id="letter_0818_002_tr_1_tl_13"/>ici. Viens chez moi en Novembre!
+<lb xml:id="letter_0818_002_tr_1_tl_14"/>Je rivien de Fetan – mais avant
+<lb xml:id="letter_0818_002_tr_1_tl_15"/>il faut reprendre du forces
+<lb xml:id="letter_0818_002_tr_1_tl_16"/>pour y aller, et pour passer
+<lb xml:id="letter_0818_002_tr_1_tl_17"/>la Matura.
+<lb xml:id="letter_0818_002_tr_1_tl_18"/>En printemps, Papa me prendra
+<lb xml:id="letter_0818_002_l_4"/>avec lui pour l'Amérique.
+<lb xml:id="letter_0818_002_l_5"/>Alors sois sûre que ee Vienne
+<lb xml:id="letter_0818_002_tr_1_tl_24"/>te voir.<milestone unit="textregion" xml:id="letter_0818_002_r"/>
+            <lb xml:id="letter_0818_002_l_6"/>P.S. Ecrits-moi si tu trouves temps. Ma tête
+<lb xml:id="letter_0818_002_l_7"/>travaille toujours, je suis pleine
+<lb xml:id="letter_0818_002_l_8"/>d'idées. Les forces manqueant. </div>
+      </body>
+   </text>
+</TEI>
