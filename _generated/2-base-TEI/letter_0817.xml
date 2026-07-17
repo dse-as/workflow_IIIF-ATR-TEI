@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0817" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0817#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0817</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0817_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0817_001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_3"/>12. Juillet [1927] 
+               <lb xml:id="p001_tr_1_tl_4"/>On parle de Voltaire. Depuis des siècles. 
+               <lb xml:id="p001_tr_1_tl_5"/>Je m'ennuie, souvent – presque toujours 
+               <lb xml:id="p001_tr_1_tl_6"/>J'ai envie de t'écrire, mais mon 
+               <lb xml:id="p001_tr_1_tl_7"/>bras me fait <del rend="overstrike">t</del> si mal, j'ai une leçon 
+               <lb xml:id="p001_tr_1_tl_8"/>de piano demain – Lundi j'avais 2 leçons 
+               <lb xml:id="p001_tr_1_tl_9"/>mais je ne savais rien. 
+               <lb xml:id="p001_tr_1_tl_10"/>Tu me demandes que je te parle de mon 
+               <lb xml:id="p001_l"/>travail. Eh bien – je suis fatiguée – mais 
+               <lb xml:id="p001_tr_1_tl_13"/>je travaillerai quandmême. Je vois que j'ai 
+               <lb xml:id="p001_tr_1_tl_14"/>beaucoup à apprendre – je ne sais comment 
+               <lb xml:id="p001_tr_1_tl_15"/>finir. Je ne peux pas travailler les mathéma 
+               <lb xml:id="p001_l_1" break="no"/>tiques seules, j'y comprends trop peu. 
+               <lb xml:id="p001_tr_1_tl_18"/>J'avance bien en Latin (excepté la Gra[maire, 
+               <lb xml:id="p001_tr_1_tl_19"/>Isa et moi nous lisons Horaz – ce sont 
+               <lb xml:id="p001_tr_1_tl_20"/>des leçons très amusantes et intéressantes. 
+               <lb xml:id="p001_tr_1_tl_21"/>En Classe on lit Tacitus, Livius, encore 
+               <lb xml:id="p001_tr_1_tl_22"/>Horaz. J'ai 8 ou 9 leçons par semaine. 
+               <lb xml:id="p001_tr_1_tl_23"/>En Français on finit (!) Voltaire. Moi je 
+               <lb xml:id="p001_tr_1_tl_24"/>la vie de Rousseau la semaine</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0817_002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_2"/>Que penses-tu de Rousseau? Je l'aime comme 
+               <lb xml:id="p002_tr_1_tl_3"/>jeune garçon auprès de Mme de Warren 
+               <lb xml:id="p002_tr_1_tl_4"/>– J'ai lu a mon travail 
+               <lb xml:id="p002_tr_1_tl_5"/>sur les Romantiques et leur influence 
+               <lb xml:id="p002_l"/>sur l'histoire dans la classe de 
+               <lb xml:id="p002_tr_1_tl_8"/>Dr. Camenisch. 
+               <lb xml:id="p002_tr_1_tl_10"/>Maintenant <del rend="overstrike">je</del> j'apprends l'histoire 
+               <lb xml:id="p002_tr_1_tl_11"/>ancienne avec Mlle Dr. Köhler (Seule). 
+               <lb xml:id="p002_tr_1_tl_12"/>et l'histoire moderne avec Dr. Cam. 
+               <lb xml:id="p002_tr_1_tl_13"/>J'apprends seule la littérature. 
+               <lb xml:id="p002_tr_1_tl_14"/>Cela suffira pour te donner une idée 
+               <lb xml:id="p002_tr_1_tl_15"/>de mon travail. 
+               <lb xml:id="p002_tr_1_tl_16"/>Quant aux élèves – – je suis très seule. 
+               <lb xml:id="p002_tr_1_tl_17"/>Gisela N. est touchante. Elle m'énerve. 
+               <lb xml:id="p002_tr_1_tl_18"/>J'aime malheureusement toujours Lia, sans 
+               <lb xml:id="p002_tr_1_tl_19"/>raison – Que veux-tu, – on est soumi 
+               <lb xml:id="p002_tr_1_tl_21"/>Lia 
+               <lb xml:id="p002_tr_1_tl_22"/>à ses passions. Elle [Lia] est i belle ni 
+               <lb xml:id="p002_tr_1_tl_23"/>vraiment <del rend="overstrike">spr</del>i spirituelle, <del rend="overstrike">e</del>s elle est 
+               <lb xml:id="p002_tr_1_tl_24"/>que sensible. C'est tout. 
+               <lb xml:id="p002_tr_1_tl_25"/>En 4 semaines les vacances commencent. 
+               <lb xml:id="p002_tr_1_tl_26"/>J'irai directement à Bayreuth pour 
+               <lb xml:id="p002_tr_1_tl_27"/>les Festspiele. Je me réjouis. 
+               <lb xml:id="p002_tr_1_tl_28"/>Adieu, chère Dominique – bien à toi 
+               <lb xml:id="p002_tr_1_tl_30"/>(J'attends bientôt une lettre) 
+               <lb xml:id="p002_tr_1_tl_31"/>A[nemarie</p>
+</div>
+       </body>
+    </text>
+ </TEI>
