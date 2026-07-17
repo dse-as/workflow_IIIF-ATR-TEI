@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0924"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0924</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0924_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0924_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0924_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0924_001_tr_1"/>
+            <lb xml:id="letter_0924_001_tr_1_tl_1"/>Dimanche après-midi
+<lb xml:id="letter_0924_001_tr_1_tl_2"/>Ma chère Jacqueline –
+<lb xml:id="letter_0924_001_tr_1_tl_3"/>Me voilà à Meilen. Nous
+<lb xml:id="letter_0924_001_tr_1_tl_4"/>sommes venus dans la
+<lb xml:id="letter_0924_001_l"/>Buick, et jai conduit
+<lb xml:id="letter_0924_001_tr_1_tl_7"/>bien plus lentements que la
+<lb xml:id="letter_0924_001_l_1"/>dernière fois. À Zurich, j'avais
+<lb xml:id="letter_0924_001_tr_1_tl_10"/>envie de m'arrêter: immaginez-vous
+<lb xml:id="letter_0924_001_tr_1_tl_11"/>que Mme Riedel chante dans le
+<lb xml:id="letter_0924_001_l_2"/>Corso, avec le plus grand
+<lb xml:id="letter_0924_001_tr_1_tl_14"/>succès!!! Mme Riedel est la
+<lb xml:id="letter_0924_001_tr_1_tl_15"/>femme que j'ai <PAGE tag="strikethrough">tellem</PAGE> tant
+<lb xml:id="letter_0924_001_tr_1_tl_16"/>aimé comme gosse de 16 et
+<lb xml:id="letter_0924_001_tr_1_tl_17"/>17 ans et peut-être elle était
+<lb xml:id="letter_0924_001_tr_1_tl_18"/>la meilleure amie que j'ai
+<lb xml:id="letter_0924_001_tr_1_tl_20"/>jamais eu. Je l'aimerais <pb xml:id="letter_0924_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0924_002.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0924_002_tr_1"/>
+            <lb xml:id="letter_0924_002_tr_1_tl_1"/>passio[nément et elle m'aimait
+<lb xml:id="letter_0924_002_tr_1_tl_2"/>aussi, et c'était très beau. –
+<lb xml:id="letter_0924_002_tr_1_tl_3"/>Maintenant, elle est toujours avec
+<lb xml:id="letter_0924_002_tr_1_tl_4"/>une dame portugaise que j'aime
+<lb xml:id="letter_0924_002_tr_1_tl_5"/>beaucoup, et dont la fille
+<lb xml:id="letter_0924_002_tr_1_tl_6"/>et appelée "une amie de moi." –
+<lb xml:id="letter_0924_002_tr_1_tl_8"/>C'est drôle –
+<lb xml:id="letter_0924_002_tr_1_tl_9"/>Ma chère Jacqueline, c'est absolument
+<lb xml:id="letter_0924_002_tr_1_tl_10"/>navraut que vous n'êtes pas
+<lb xml:id="letter_0924_002_tr_1_tl_12"/>là! Meilen ne me plaît à peine
+<lb xml:id="letter_0924_002_tr_1_tl_13"/>aussi. Je suis plein d'esprit
+<lb xml:id="letter_0924_002_tr_1_tl_14"/>de révolte. Mais cet esprit me
+<lb xml:id="letter_0924_002_tr_1_tl_15"/>réveille et me rend plein
+<lb xml:id="letter_0924_002_tr_1_tl_16"/>de joie –
+<lb xml:id="letter_0924_002_tr_1_tl_17"/>Donc ne m'en voulez pas pour l'autre
+<lb xml:id="letter_0924_002_tr_1_tl_18"/>(première) lettre que j'ai écrit le
+<lb xml:id="letter_0924_002_tr_1_tl_19"/>matin à Bocken. Pourquoi n'être
+<lb xml:id="letter_0924_002_l"/>vous pas là?
+<lb xml:id="letter_0924_002_tr_1_tl_22"/>Annemarie</div>
+      </body>
+   </text>
+</TEI>
