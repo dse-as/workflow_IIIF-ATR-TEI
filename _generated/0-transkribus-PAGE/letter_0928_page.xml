@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<validation-wrapper>
+   <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+      <Metadata>
+         <Creator>prov=READ-COOP:name=TrHtr:version=2.48.1:model_id=579509:date=10_07_2026_18:48</Creator>
+         <Created>2026-07-10T18:40:40.562+02:00</Created>
+         <LastChange>2026-07-17T11:32:35.224+02:00</LastChange>
+         <TranskribusMetadata docId="17389801"
+                              pageId="123937456"
+                              pageNr="1"
+                              userId="210611"
+                              imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=ROMXEVYOSMXTTNTHJHOIFKLE"
+                              imageId="105448476"/>
+      </Metadata>
+      <Page imageFilename="letter_0928_001.jpg"
+            imageWidth="2461"
+            imageHeight="3042">
+         <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="477,462 477,1000 1910,1000 1910,462"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="545,587 654,560 855,599 975,539 1232,672 1488,578 1729,613 1727,568 1484,453 1340,511 1031,395 837,509 649,434 543,449"/>
+               <Baseline points="555,561 613,553 672,555 731,558 790,562 849,564 907,567 966,564 1025,566 1084,567 1143,567 1201,563 1260,559 1319,558 1378,559 1437,561 1495,564 1554,568 1613,578 1672,591 1731,600"/>
+               <TextEquiv>
+                  <Unicode>Chère Jaqueline [könnte sich auf die Nacht beziehen in Brief 026]</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="492,786 1056,754 1325,850 1597,760 1907,814 1905,726 1683,675 1583,717 1357,666 1209,709 1137,659 790,714 490,652"/>
+               <Baseline points="501,752 571,746 641,746 712,748 782,749 853,749 923,749 994,749 1064,749 1135,749 1205,747 1275,742 1346,745 1416,750 1487,755 1557,761 1628,761 1698,768 1769,775 1839,779 1910,785"/>
+               <TextEquiv>
+                  <Unicode>Vraiment je vous</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+               <Coords points="467,938 1084,938 1301,1020 1489,925 1875,976 1875,883 1496,813 1186,909 1077,834 927,892 728,881 608,802 465,832"/>
+               <Baseline points="477,925 547,925 617,925 687,925 757,926 827,928 897,930 968,928 1038,928 1108,928 1178,928 1248,921 1318,919 1388,919 1459,919 1529,922 1599,925 1669,932 1739,941 1809,952 1880,955"/>
+               <TextEquiv>
+                  <Unicode>demande pardon</Unicode>
+               </TextEquiv>
+            </TextLine>
+         </TextRegion>
+      </Page>
+   </PcGts>
+</validation-wrapper>
