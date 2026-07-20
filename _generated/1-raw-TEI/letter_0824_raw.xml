@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0824"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0824</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0824_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0824_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0824_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0824_001_tr_1"/>
+            <lb xml:id="letter_0824_001_tr_1_tl_2"/>Foyer des Etudiantes
+<lb xml:id="letter_0824_001_tr_1_tl_3"/>93 Bd. St.-Michel
+<lb xml:id="letter_0824_001_tr_1_tl_4"/>Chère Madame
+<lb xml:id="letter_0824_001_tr_1_tl_5"/>Ayanten l'intention de vous
+<lb xml:id="letter_0824_001_l"/>faire visite, je voulais attendre
+<lb xml:id="letter_0824_001_tr_1_tl_8"/>le retour de Dominique pour ne
+<lb xml:id="letter_0824_001_tr_1_tl_9"/>pas vous<PAGE tag="strikethrough"> dre</PAGE> déranger trop. –
+<lb xml:id="letter_0824_001_tr_1_tl_10"/>Vous me faites un grand
+<lb xml:id="letter_0824_001_tr_1_tl_11"/>plaisir en m'invitant pour
+<lb xml:id="letter_0824_001_l_1"/>Samedi, je vous remercier bien.
+<lb xml:id="letter_0824_001_tr_1_tl_14"/>et je viendrai a 121/2.
+<lb xml:id="letter_0824_001_l_2"/>Croyez, Madame, à mes 
+<lb xml:id="letter_0824_001_tr_1_tl_18"/>sentiments les plus
+<lb xml:id="letter_0824_001_tr_1_tl_19"/>respectueuses
+<lb xml:id="letter_0824_001_tr_1_tl_20"/>An[emarie Schwarzenbach.
+<lb xml:id="letter_0824_001_tr_1_tl_21"/>.</div>
+      </body>
+   </text>
+</TEI>
