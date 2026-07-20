@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0825" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0825#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0825</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0825_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0825_001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>Ecoute mon vieux, je ne suis 
+               <lb xml:id="p001_tr_1_tl_2"/>pas un bonhomme à pain 
+               <lb xml:id="p001_tr_1_tl_3"/>d'épice, et je ne suis pas 
+               <lb xml:id="p001_tr_1_tl_4"/>à vendre, et tu ne dois pas 
+               <lb xml:id="p001_tr_1_tl_5"/>penser que je te fais un 
+               <lb xml:id="p001_tr_1_tl_6"/>sourire de politesse si? 
+               <lb xml:id="p001_tr_1_tl_7"/>que tu as failli abîmer 
+               <lb xml:id="p001_tr_1_tl_8"/>notre amitié. Voilà. 
+               <lb xml:id="p001_tr_1_tl_9"/>Ton histoire, surtout la deuxième, 
+               <lb xml:id="p001_tr_1_tl_10"/>m'a fait beaucoup de plaisir. 
+               <lb xml:id="p001_tr_1_tl_11"/>Le Satyr a raison. Mais l' 
+               <lb xml:id="p001_tr_1_tl_12"/>homme aussi. 
+               <lb xml:id="p001_tr_1_tl_13"/>Seulement dans la pratique, 
+               <lb xml:id="p001_tr_1_tl_14"/>il y a 2 cas: Les gens qui 
+               <lb xml:id="p001_tr_1_tl_15"/>nous regardent rien, peuvent 
+               <lb xml:id="p001_tr_1_tl_16"/>avoir le noir et le blanc 
+               <lb xml:id="p001_tr_1_tl_17"/>de la même personne. Et 
+               <lb xml:id="p001_tr_1_tl_18"/>aussi un sourire. ça c'est 
+               <lb xml:id="p001_tr_1_tl_19"/>de la politesse. Mais ces</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0825_002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>gens-là ne peuvent pas 
+               <lb xml:id="p002_tr_1_tl_2"/><hi rendition="#u">acheter</hi> le bonhomme 
+               <lb xml:id="p002_tr_1_tl_3"/>que sourit. 
+               <lb xml:id="p002_tr_1_tl_4"/>Quant aux autres, qui sont 
+               <lb xml:id="p002_tr_1_tl_5"/>plustôt des amis, 
+               <lb xml:id="p002_tr_1_tl_6"/>– mais Dominique, tu trouve 
+               <lb xml:id="p002_tr_1_tl_7"/>donc que je te souris toujours? 
+               <lb xml:id="p002_tr_1_tl_8"/>Naturellement, on ne peut pas 
+               <lb xml:id="p002_tr_1_tl_9"/>m' écraser le corps et voir 
+               <lb xml:id="p002_tr_1_tl_10"/>ce qu'il y a à l'intérieur. 
+               <lb xml:id="p002_tr_1_tl_11"/>Mais ça se voit sans cela, 
+               <lb xml:id="p002_tr_1_tl_12"/>que le sourire n'est pas 
+               <lb xml:id="p002_tr_1_tl_13"/><hi rendition="#u">toujours</hi> "en exposition". 
+               <lb xml:id="p002_tr_1_tl_14"/>Et tu es <hi rendition="#u">bête</hi>, <del rend="overstrike">d</del> an dessus 
+               <lb xml:id="p002_tr_1_tl_15"/>de tout. Non vieux, si tu 
+               <lb xml:id="p002_tr_1_tl_16"/>es fatiguée, et si tu as 
+               <lb xml:id="p002_tr_1_tl_17"/>envie que je vienne 
+               <lb xml:id="p002_tr_1_tl_18"/>sauter, tu n'as qu'a le</p>
+
+            <milestone unit="textregion" xml:id="p002_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_2_tl_1"/>dire, car je te disais 
+               <lb xml:id="p002_tr_2_tl_2"/>que j'étais fatiguée – donc 
+               <lb xml:id="p002_tr_2_tl_3"/>pas <hi rendition="#u">empêcher</hi>. 
+               <lb xml:id="p002_tr_2_tl_4"/>Ecoute, quand on aura les 
+               <lb xml:id="p002_tr_2_tl_5"/>vacances, et le soleil, et 
+               <lb xml:id="p002_tr_2_tl_6"/>on dormira, les ballons 
+               <lb xml:id="p002_tr_2_tl_7"/>monteront de nouveau au 
+               <lb xml:id="p002_tr_2_tl_8"/>ciel! – Du reste, je viens 
+               <lb xml:id="p002_tr_2_tl_9"/>pour déjeuner, si ça te va, 
+               <lb xml:id="p002_tr_2_tl_10"/>mais je ne peux pas 
+               <lb xml:id="p002_tr_2_tl_11"/>aller nager aujourd'hui. 
+               <lb xml:id="p002_tr_2_tl_12"/>Je te raconterai aussi de 
+               <lb xml:id="p002_tr_2_tl_13"/>M. Vollmoeller. 
+               <lb xml:id="p002_tr_2_tl_14"/>À tout à l'heuRE! 
+               <lb xml:id="p002_tr_2_tl_15"/>An[emarie</p>
+</div>
+       </body>
+    </text>
+ </TEI>
