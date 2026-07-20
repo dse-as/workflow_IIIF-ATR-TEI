@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0822"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0822</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0822_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0822_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0822_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0822_001_tr_4"/>
+            <milestone unit="textregion" xml:id="letter_0822_001_r"/>
+            <lb xml:id="letter_0822_001_tr_4_tl_1"/>
+            <lb xml:id="letter_0822_001_l"/>30. Juillet 1928
+<lb xml:id="letter_0822_001_l_1"/>Chère Dominique
+<lb xml:id="letter_0822_001_l_2"/>Moi aussi je suis en vacances –
+<lb xml:id="letter_0822_001_l_3"/>chez ma soer en Suède, 
+<lb xml:id="letter_0822_001_l_4"/>c'est très beau et je suis
+<lb xml:id="letter_0822_001_l_5"/>s^re de me reposer. Certainement 
+<lb xml:id="letter_0822_001_l_6"/>je ne supporterais pas de rester
+<lb xml:id="letter_0822_001_l_7"/>longtemps ici, car j'ai toujours
+<lb xml:id="letter_0822_001_l_8"/>envie de <PAGE tag="underlined">faire</PAGE> quelquechose, de
+<lb xml:id="letter_0822_001_l_9"/>travaille, d'employer mon 
+<lb xml:id="letter_0822_001_l_10"/>temps. J'ai beaucoup de lecture
+<lb xml:id="letter_0822_001_l_11"/>avec moi, aussi jj?étude le 
+<lb xml:id="letter_0822_001_l_12"/>piano. En rentrant, vers le 
+<lb xml:id="letter_0822_001_l_13"/>15. Août, je reste quelques jours
+<lb xml:id="letter_0822_001_l_14"/>sur le grande campagne de
+<lb xml:id="letter_0822_001_l_15"/>mon oncle entre Hamburg <pb xml:id="letter_0822_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0822_002.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0822_002_tr_1"/>
+            <milestone unit="textregion" xml:id="letter_0822_002_r"/>
+            <lb xml:id="letter_0822_002_tr_1_tl_1"/>d
+<lb xml:id="letter_0822_002_l"/>et Berlin. À Berlin je compte
+<lb xml:id="letter_0822_002_l_1"/>voir mes deux amies, mais 
+<lb xml:id="letter_0822_002_l_2"/>je ne sais pas si je trouverai 
+<lb xml:id="letter_0822_002_l_3"/>le temps. Ensuite je resterai
+<lb xml:id="letter_0822_002_l_4"/>quelches temps à Zurich, j'aurai des 
+<lb xml:id="letter_0822_002_l_5"/>leçons de piano avec Mlle Huber (?)
+<lb xml:id="letter_0822_002_l_6"/>et je vais travailler la philosophie
+<lb xml:id="letter_0822_002_l_7"/>ancienne.
+<lb xml:id="letter_0822_002_l_8"/>Chère Dominique, j'oublie que je
+<lb xml:id="letter_0822_002_l_9"/>voulais te feliciter, je suis très
+<lb xml:id="letter_0822_002_l_10"/>contente que tu as si bien
+<lb xml:id="letter_0822_002_l_11"/>réussi en passant ton examen!
+<lb xml:id="letter_0822_002_l_12"/>Com[emt va<PAGE tag="strikethrough">l</PAGE> Lisette?
+<lb xml:id="letter_0822_002_l_13"/>Il faudra lui donner peu à peu
+<lb xml:id="letter_0822_002_l_14"/>une exercice très régulierement.
+<lb xml:id="letter_0822_002_l_15"/>Du reste je voulais te demander, 
+<lb xml:id="letter_0822_002_l_16"/>si tu sais un maître d'équitation <pb xml:id="letter_0822_003"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0822_003.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0822_003_r"/>
+            <lb xml:id="letter_0822_003_l"/>II
+<lb xml:id="letter_0822_003_l_1"/>qui sait avant tout apprendre
+<lb xml:id="letter_0822_003_l_2"/>à sauter, car je voudrais
+<lb xml:id="letter_0822_003_l_3"/>prendre part éventuellement aux
+<lb xml:id="letter_0822_003_l_4"/>concours de l'année 1929 et je
+<lb xml:id="letter_0822_003_l_5"/>voudrais monter 3–4 fois par
+<lb xml:id="letter_0822_003_l_6"/>semaines à Paris. Naturellement
+<lb xml:id="letter_0822_003_l_7"/>je préfère de monter chez
+<lb xml:id="letter_0822_003_l_8"/>le même maître comme toi!
+<lb xml:id="letter_0822_003_l_9"/>Maintenant Schluss!
+<lb xml:id="letter_0822_003_l_10"/>Bien à toi
+<lb xml:id="letter_0822_003_l_11"/>An[emarie<pb xml:id="letter_0822_004"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0822_004.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0822_004_tr_1"/>
+            <lb xml:id="letter_0822_004_tr_1_tl_2"/>Envoi de: A. Schwarzenbach
+<lb xml:id="letter_0822_004_tr_1_tl_3"/>p. Adr. Öhman
+<lb xml:id="letter_0822_004_tr_1_tl_4"/>Saltsjö - Dufnäs
+<lb xml:id="letter_0822_004_tr_1_tl_5"/>Suède.</div>
+      </body>
+   </text>
+</TEI>
