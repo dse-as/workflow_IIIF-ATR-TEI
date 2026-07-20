@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0820" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0820#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0820</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0820_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0820_001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_1"/>.</p>
+
+            <milestone unit="textregion" xml:id="p001_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_2_tl_2"/>Bocken, 25.Dez. 27 
+               <lb xml:id="p001_tr_2_tl_4"/>Ma<del rend="overstrike">n</del> chère Dominique. tu pense probablement que j'ai oublié 
+               <lb xml:id="p001_tr_2_tl_5"/>ton éxistence, mais ce n'est naturellement pas du tout le cas – 
+               <lb xml:id="p001_tr_2_tl_6"/>seulement --vois-tu, j'ai d'abord du reprendre un peu de courage – 
+               <lb xml:id="p001_tr_2_tl_7"/>Tu ne peux t'imaginer mon état d'âme après mon examin. [Matur am 29. Okt. 2027 in Chur] J'étais si 
+               <lb xml:id="p001_tr_2_tl_8"/>découragé, et j'avoue que je le suis encor– mais un peu moins, 
+               <lb xml:id="p001_tr_2_tl_9"/>parceque je me dis constamment que je n'ai pas de raison de l'être – 
+               <lb xml:id="p001_tr_2_tl_10"/>Ce sont que des se<del rend="overstrike">l</del>ntiments – et je ne sais pas ce que toi tu pense 
+               <lb xml:id="p001_tr_2_tl_11"/>de cela – enfin, vois-tu, je ne savais pas que la vie est beau que 
+               <lb xml:id="p001_tr_2_tl_12"/>pendant le travail – C'est à dire, je commence à exagérer, c'est une 
+               <lb xml:id="p001_tr_2_tl_13"/>mauvaise habitude – Je te demande (parceque toi, tu est chez tes parents [ts handschriftlich ergänzt/korrigiert] 
+               <lb xml:id="p001_tr_2_tl_14"/>donc à la maison) – peux tu travailler, serieusement? Je n'arrive pas, 
+               <lb xml:id="p001_tr_2_tl_15"/>moi – et alors tout me semble tellement "sinnlos", tu comprends – 
+               <lb xml:id="p001_tr_2_tl_16"/>J'ai par – il y a quelques jours – avec une professeur – elle m'a dit 
+               <lb xml:id="p001_tr_2_tl_17"/>qu'elle esperait <PAGE tag="letterSpaced">beaucoup</PAGE> de moi – et moi, je pense que je n'ai 
+               <lb xml:id="p001_tr_2_tl_18"/>aucun talen – 
+               <lb xml:id="p001_tr_2_tl_19"/>Alors,chère vieille,jet[sic]'envoie mes meilleurs voeux pour nouvel-an. 
+               <lb xml:id="p001_tr_2_tl_20"/>Si tu veux, je voudrais lire des livres que toi tu me indiquera – et 
+               <lb xml:id="p001_tr_2_tl_21"/>on parlera de ces livres. J'ai lu très peu – p.e. "L'annonce" par Claudel. 
+               <lb xml:id="p001_tr_2_tl_22"/>Et toi, connaits -Tu<hi rendition="#u">Werfel</hi>? "<hi rendition="#u">Paulu<del rend="overstrike">s </del>unter den Juden</hi>",ou JYuarez und Maxi 
+               <lb xml:id="p001_tr_2_tl_23" break="no"/>milian?[title unterstrichen] 
+               <lb xml:id="p001_tr_2_tl_24"/>Je pars avec mes frères et ma soeur pour l'Engadine (mercredi) 
+               <lb xml:id="p001_l"/><hi rendition="#u">[Hanschrift ab hier]Sils</hi>, Hotel Waldhaus et j'y resterai une 
+               <lb xml:id="p001_tr_2_tl_27"/>dizaine de jours 
+               <lb xml:id="p001_tr_2_tl_28"/>Bien des choses ma chère Dominique 
+               <lb xml:id="p001_tr_2_tl_29"/>An[emarie</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0820_002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>2 
+               <lb xml:id="p002_l_3"/>France. 
+               <lb xml:id="p002_l"/>Mademoiselle Dominique Schlumberger 
+               <lb xml:id="p002_l_1"/>7, Rue Las Caves 
+               <lb xml:id="p002_tr_1_tl_6"/>Hôtel du Mont-Gerard? 
+               <lb xml:id="p002_l_2"/><del rend="overstrike">Paris 7,</del> 
+               <lb xml:id="p002_tr_1_tl_7"/><hi rendition="#u">Mont-Herand? 
+                  <lb xml:id="p002_tr_1_tl_8"/>far tisé les Bâres</hi> 
+               <lb xml:id="p002_tr_1_tl_9"/>(Savoie)</p>
+</div>
+       </body>
+    </text>
+ </TEI>
