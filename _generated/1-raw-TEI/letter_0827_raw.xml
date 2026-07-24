@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0827"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0827</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0827_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0827_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0827_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0827_001_tr_1"/>
+            <lb xml:id="letter_0827_001_tr_1_tl_2"/>9 Juillet [mit Bleistift ergänzt: 1929?]
+<lb xml:id="letter_0827_001_tr_1_tl_3"/>BOCKEN
+<lb xml:id="letter_0827_001_tr_1_tl_4"/>OB HORGEN, ZÜRICHSEE.
+<lb xml:id="letter_0827_001_tr_1_tl_5"/>Ma chère Dominique:
+<lb xml:id="letter_0827_001_tr_1_tl_6"/>Ta première lettre était
+<lb xml:id="letter_0827_001_tr_1_tl_7"/>vaiment très chique, j'ai
+<lb xml:id="letter_0827_001_tr_1_tl_8"/>en tant de plaisir devoir
+<lb xml:id="letter_0827_001_tr_1_tl_9"/>comme l'air du Val Richer
+<lb xml:id="letter_0827_001_tr_1_tl_10"/>a éveillé ton esprit, et
+<lb xml:id="letter_0827_001_tr_1_tl_11"/>non pas l'esprit seul, mais
+<lb xml:id="letter_0827_001_tr_1_tl_12"/>quelque chose dont je ne sais
+<lb xml:id="letter_0827_001_tr_1_tl_13"/>pas le nom. C'est comme un
+<lb xml:id="letter_0827_001_tr_1_tl_14"/>matin de printemps, comme
+<lb xml:id="letter_0827_001_tr_1_tl_15"/>un grand coup de vent,
+<lb xml:id="letter_0827_001_tr_1_tl_16"/>comme le sommet d'une
+<lb xml:id="letter_0827_001_tr_1_tl_17"/>montaigne dans le soleil.
+<lb xml:id="letter_0827_001_tr_1_tl_18"/>C'est une sorte de jou ou
+<lb xml:id="letter_0827_001_tr_1_tl_19"/>de force ou de bonne humeur,<pb xml:id="letter_0827_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0827_002.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0827_002_tr_1"/>
+            <lb xml:id="letter_0827_002_tr_1_tl_2"/>et c'est bien ca ce que tu as
+<lb xml:id="letter_0827_002_tr_1_tl_3"/>appelé un "Gediente fottes"[unklar]
+<lb xml:id="letter_0827_002_tr_1_tl_4"/>Voilà. Et main¬
+<lb xml:id="letter_0827_002_tr_1_tl_5"/>tenant tu veux retourner au
+<lb xml:id="letter_0827_002_tr_1_tl_6"/>cinéma, avec toute ton energie?
+<lb xml:id="letter_0827_002_tr_1_tl_7"/>Tu as, au fond, de la chance
+<lb xml:id="letter_0827_002_tr_1_tl_8"/>parceque moi je ne sais pas
+<lb xml:id="letter_0827_002_tr_1_tl_9"/>ce qui je veux faire. Et j'ai
+<lb xml:id="letter_0827_002_tr_1_tl_10"/>peur du temps qui passe si
+<lb xml:id="letter_0827_002_tr_1_tl_11"/>vite.
+<lb xml:id="letter_0827_002_tr_1_tl_12"/>Mais maintenant nous avons
+<lb xml:id="letter_0827_002_tr_1_tl_13"/>des vacances. Toi tu veux savoir
+<lb xml:id="letter_0827_002_tr_1_tl_14"/>beaucoup de choses et en même
+<lb xml:id="letter_0827_002_tr_1_tl_15"/>temps (dans ta 2<PAGE tag="superscript">e</PAGE> lettre) tu
+<lb xml:id="letter_0827_002_tr_1_tl_16"/>me déteste. Pour que ça te
+<lb xml:id="letter_0827_002_tr_1_tl_17"/>passe j'ai attendu 2 jours
+<lb xml:id="letter_0827_002_tr_1_tl_18"/>avec ma réponse. Est-ce que<pb xml:id="letter_0827_003"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0827_003.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0827_003_tr_1"/>
+            <lb xml:id="letter_0827_003_tr_1_tl_2"/>ça t'a passé??
+<lb xml:id="letter_0827_003_tr_1_tl_3"/>Un Touring-Club n'existe que
+<lb xml:id="letter_0827_003_tr_1_tl_4"/>pour des Automobilistes. Mais
+<lb xml:id="letter_0827_003_tr_1_tl_5"/>pour tout renseignement adresse
+<lb xml:id="letter_0827_003_tr_1_tl_6"/>toi à moi, parceque je peux les
+<lb xml:id="letter_0827_003_l"/>avoir. Les "Hütten" n'existent
+<lb xml:id="letter_0827_003_tr_1_tl_9"/>que pour des excursions plus
+<lb xml:id="letter_0827_003_tr_1_tl_10"/>hautes. Là où vous allez vous
+<lb xml:id="letter_0827_003_l_1"/>promener il y a partout des
+<lb xml:id="letter_0827_003_tr_1_tl_13"/>petits auberges, très bien et
+<lb xml:id="letter_0827_003_tr_1_tl_14"/>simples, <PAGE tag="strikethrough">b</PAGE> mais aussi des
+<lb xml:id="letter_0827_003_tr_1_tl_16"/>hôtels.
+<lb xml:id="letter_0827_003_tr_1_tl_15"/>ainsi que Tania
+<lb xml:id="letter_0827_003_tr_1_tl_17"/>Maman t'envoie ses amitiés [ainsi...]. Moi
+<lb xml:id="letter_0827_003_tr_1_tl_18"/>je les envoie à tout le monde,
+<lb xml:id="letter_0827_003_tr_1_tl_19"/>c'est à dire de ta famille
+<lb xml:id="letter_0827_003_tr_1_tl_20"/>Merci pour l’étoffe.
+<lb xml:id="letter_0827_003_tr_1_tl_21"/>Et voilà tout pour le moment.
+<lb xml:id="letter_0827_003_tr_1_tl_22"/>je t'embrasse, même si tu es encore
+<lb xml:id="letter_0827_003_tr_1_tl_23"/>en état de déstester toute l'humanité
+<lb xml:id="letter_0827_003_tr_1_tl_24"/>An[emarie</div>
+      </body>
+   </text>
+</TEI>
