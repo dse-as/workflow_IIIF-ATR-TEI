@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0834" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0834#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0834</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0834_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0834_001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l"/>9. X. 29 
+               <lb xml:id="p001_tr_1_tl_4"/>Ma chère Dominique – 
+               <lb xml:id="p001_tr_1_tl_5"/>les bonbous sont arrivés, je ne 
+               <lb xml:id="p001_tr_1_tl_6"/>connaissais pas le talent de toi, 
+               <lb xml:id="p001_tr_1_tl_7"/>merci beaucoup! 
+               <lb xml:id="p001_tr_1_tl_8"/>À propos George: j'ai lu le "Stern des 
+               <lb xml:id="p001_tr_1_tl_10"/>Bundes" (mon frère le possède) 
+               <lb xml:id="p001_tr_1_tl_11"/>et j'ai remarqué que beaucoup de 
+               <lb xml:id="p001_tr_1_tl_12"/>passages que tu aimes, moi, je les 
+               <lb xml:id="p001_tr_1_tl_13"/>aime autant – p. E. 
+               <lb xml:id="p001_tr_1_tl_14"/>"Die einen leben: irdisch da – dort ewig" ... etc 
+               <lb xml:id="p001_tr_1_tl_15"/>et "Schilt nicht Dein Leid" – 
+               <lb xml:id="p001_tr_1_tl_16"/>Et j'aime de tout mon cœur les vers 
+               <lb xml:id="p001_tr_1_tl_17"/>que tu m'as appris à lire: 
+               <lb xml:id="p001_tr_1_tl_18"/>Von welchen Wundern läßt die Morgenerde. 
+               <lb xml:id="p001_tr_1_tl_19"/><del rend="overstrike">Morgendene</del> – 
+               <lb xml:id="p001_tr_1_tl_20"/>Du gehst also nicht nach Berlin. Ich 
+               <lb xml:id="p001_tr_1_tl_21"/>habe lange darüber nach gedacht, 
+               <lb xml:id="p001_tr_1_tl_22"/>den[ zuerst war ich enttäuscht: </p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0834_002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>1</p>
+
+            <milestone unit="textregion" xml:id="p002_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_2_tl_2"/>Du hast ja noch keinen Ersatz in 
+               <lb xml:id="p002_tr_2_tl_3"/>Frankreich! Aber, in Hinsicht 
+               <lb xml:id="p002_tr_2_tl_4"/>auf Deinen Papa, begreife ich Dich 
+               <lb xml:id="p002_tr_2_tl_7"/>jetzt <hi rendition="#u">ganz</hi>, u. – da Vollmoeller 
+               <lb xml:id="p002_tr_2_tl_8"/>so wenig empfohlen wird – fühle 
+               <lb xml:id="p002_tr_2_tl_9"/>ich in dieser Beziehung ein Art 
+               <lb xml:id="p002_tr_2_tl_10"/>ton Beruhigung. 
+               <lb xml:id="p002_tr_2_tl_11"/>Ob Du Dein Examen bestehen wirst? 
+               <lb xml:id="p002_tr_2_tl_12"/>Und wann? 
+               <lb xml:id="p002_tr_2_tl_13"/>[space] Bitte schreibe mir den versprochenen Brief 
+               <lb xml:id="p002_tr_2_tl_14"/>über Geschichte. Ich fange Montag an 
+               <lb xml:id="p002_l"/>zu arbeiten, mit viel Mut u. <PAGE tag="continued">Unter</PAGE> 
+               <lb xml:id="p002_tr_2_tl_17" break="no"/><PAGE tag="continued">nehmungs</PAGE>freude, aber ohne die wirkliche 
+               <lb xml:id="p002_tr_2_tl_18"/>Freude am Stoff. 
+               <lb xml:id="p002_l_1"/>Verzeihe den kurzen Brief , ich bin diese 
+               <lb xml:id="p002_tr_2_tl_21"/>Tage im[er unterwegs um alle Professoren 
+               <lb xml:id="p002_tr_2_tl_22"/>zu besuchen etc. Das Manuskript über 
+               <lb xml:id="p002_tr_2_tl_23"/>Eisenstein habe ich leider nicht zurück 
+               <lb xml:id="p002_tr_2_tl_24"/>bekom[en bis jetzt. 
+               <lb xml:id="p002_tr_2_tl_25"/>Sehr viele liebe Gedanken von deiner 
+               <lb xml:id="p002_tr_2_tl_27"/>An[emarie</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0834_003.jpg"/>
+            <milestone unit="textregion" xml:id="p003_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_l"/>Mademoiselle Schlumberger 
+               <lb xml:id="p003_l_1"/>Paris VII 
+               <lb xml:id="p003_l_2"/>7 Rue Las Cases</p>
+</div>
+       </body>
+    </text>
+ </TEI>
