@@ -4,7 +4,7 @@
       <Metadata>
          <Creator>prov=READ-COOP:name=TrHtr:version=2.49.0:model_id=579509:date=17_07_2026_13:46</Creator>
          <Created>2026-07-17T13:42:44.958+02:00</Created>
-         <LastChange>2026-07-24T09:05:21.739+02:00</LastChange>
+         <LastChange>2026-07-24T12:07:36.642+02:00</LastChange>
          <TranskribusMetadata docId="17533318"
                               pageId="124271627"
                               pageNr="1"
@@ -15,7 +15,57 @@
       <Page imageFilename="letter_0828_001.jpg"
             imageWidth="4656"
             imageHeight="3672">
-         <TextRegion orientation="0.0" id="tr_3" custom="readingOrder {index:0;}">
+         <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="1862,636 1862,2936 311,2936 311,636"/>
+            <TextLine id="l"
+                      custom="readingOrder {index:0;} textStyle {offset:0;length:7;underlined:true;}">
+               <Coords points="1662,675 1662,1220 1692,1220 1692,675"/>
+               <Baseline points="1662,675 1662,1220"/>
+               <TextEquiv>
+                  <Unicode>Express</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:1;}">
+               <Coords points="1210,719 1217,2864 1247,2864 1240,719"/>
+               <Baseline points="1210,719 1217,2864"/>
+               <TextEquiv>
+                  <Unicode>Mademoiselle Dominique Schlumberger</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:2;}">
+               <Coords points="1002,867 1046,1701 1076,1699 1032,865"/>
+               <Baseline points="1002,867 1046,1701"/>
+               <TextEquiv>
+                  <Unicode>VAl Richer</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3"
+                      custom="readingOrder {index:3;} textStyle {offset:0;length:12;underlined:true;}">
+               <Coords points="835,1622 841,2410 871,2410 865,1622"/>
+               <Baseline points="835,1622 841,2410"/>
+               <TextEquiv>
+                  <Unicode>La Bpossière</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:4;}">
+               <Coords points="484,797 484,1534 514,1534 514,797"/>
+               <Baseline points="484,797 484,1534"/>
+               <TextEquiv>
+                  <Unicode>Calvados</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:5;}">
+               <Coords points="318,748 336,1280 366,1279 348,747"/>
+               <Baseline points="318,748 336,1280"/>
+               <TextEquiv>
+                  <Unicode>Frankreich.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion orientation="0.0" id="tr_3" custom="readingOrder {index:1;}">
             <Coords points="2268,147 2268,3112 4337,3112 4337,147"/>
             <TextLine id="tr_3_tl_4" custom="readingOrder {index:0;}">
                <Coords points="2388,404 2438,400 2476,414 2512,402 2543,414 2567,404 2610,412 2648,397 2648,340 2603,349 2593,342 2579,352 2534,313 2479,321 2431,347 2388,349"/>
