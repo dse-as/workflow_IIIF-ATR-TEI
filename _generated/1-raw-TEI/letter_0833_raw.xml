@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0833"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0833</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0833_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0833_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0833_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0833_001_tr_1"/>
+            <lb xml:id="letter_0833_001_tr_1_tl_1"/>A.S.<milestone unit="textregion" xml:id="letter_0833_001_tr_2"/>
+            <lb xml:id="letter_0833_001_tr_2_tl_3"/>Mon chérie –
+<lb xml:id="letter_0833_001_tr_2_tl_4"/>Voici enfin le Borchardt
+<lb xml:id="letter_0833_001_tr_2_tl_5"/>et un peu de Morgenstern.
+<lb xml:id="letter_0833_001_tr_2_tl_6"/>Je viens de recevoir un
+<lb xml:id="letter_0833_001_tr_2_tl_7"/>livre de Borchardt: 
+<lb xml:id="letter_0833_001_tr_2_tl_10"/>"Das hoffnungslose Geschlecht"
+<lb xml:id="letter_0833_001_tr_2_tl_11"/>(Novellen) – j'ai commencé
+<lb xml:id="letter_0833_001_tr_2_tl_12"/>à le lire et je suis toute
+<lb xml:id="letter_0833_001_tr_2_tl_13"/>contente de retrouver en
+<lb xml:id="letter_0833_001_tr_2_tl_14"/>prose, le même merveilleux
+<lb xml:id="letter_0833_001_tr_2_tl_15"/>rythme du "Entzücken" –<pb xml:id="letter_0833_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0833_002.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0833_002_tr_3"/>
+            <lb xml:id="letter_0833_002_tr_3_tl_3"/>– je t'envoie le Beethoven à
+<lb xml:id="letter_0833_002_tr_3_tl_4"/>Paris – la plague de
+<lb xml:id="letter_0833_002_tr_3_tl_5"/>photo je ne peux pas envoyer
+<lb xml:id="letter_0833_002_tr_3_tl_6"/>car je ne l'ai pas.
+<lb xml:id="letter_0833_002_tr_3_tl_7"/>Je me rejouis d'avoir les photos!
+<lb xml:id="letter_0833_002_tr_3_tl_8"/>[space] je dois <PAGE tag="strikethrough">d</PAGE> te raconter une grande
+<lb xml:id="letter_0833_002_l"/>nouvelle ("grande" c'est relatif,
+<lb xml:id="letter_0833_002_l_1"/>mais c’est grand pour moi)
+<lb xml:id="letter_0833_002_tr_3_tl_13"/>J'ai envoyé l'article sur
+<lb xml:id="letter_0833_002_tr_3_tl_14"/>Eisenstein à M. Korrodi, 
+<lb xml:id="letter_0833_002_tr_3_tl_15"/>rédacteur de la Neue Zürcher
+<lb xml:id="letter_0833_002_l_2"/>Zeitung, inconnu pour moi –
+<lb xml:id="letter_0833_002_tr_3_tl_18"/>du reste je te l'ai écrit –
+<lb xml:id="letter_0833_002_tr_3_tl_19"/>Depuis j'ai parlé avec M. Korrooli<milestone unit="textregion" xml:id="letter_0833_002_r"/>
+            <lb xml:id="letter_0833_002_l_3"/>Ich schicke Dir den Artikel sobald
+<lb xml:id="letter_0833_002_l_4"/>ich ihn wieder habe, du reste
+<lb xml:id="letter_0833_002_l_5"/>ce n'est rien de spécial!<pb xml:id="letter_0833_003"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0833_003.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0833_003_tr_1"/>
+            <lb xml:id="letter_0833_003_tr_1_tl_4"/>il est sympathisch, mitteljung,
+<lb xml:id="letter_0833_003_tr_1_tl_6"/>freundlich u. interessiert sich
+<lb xml:id="letter_0833_003_tr_1_tl_7"/>anscheinend für junge
+<lb xml:id="letter_0833_003_tr_1_tl_8"/>Leute. Er sagt, er will
+<lb xml:id="letter_0833_003_tr_1_tl_9"/>mir gerne Gelegenheit geben,
+<lb xml:id="letter_0833_003_l_1"/>hie u. da, als Uebung, für
+<lb xml:id="letter_0833_003_tr_1_tl_13"/>die Zeitung zu schreiben u.
+<lb xml:id="letter_0833_003_tr_1_tl_14"/>ich werde nächste Woche einen
+<lb xml:id="letter_0833_003_l"/>Nachmittag auf seinem Bureau
+<lb xml:id="letter_0833_003_tr_1_tl_17"/>sein um die "Praxis des
+<lb xml:id="letter_0833_003_tr_1_tl_18"/>Journalismus" kennen zu lernen,
+<lb xml:id="letter_0833_003_tr_1_tl_19"/>ça me fait tant de plaisir
+<lb xml:id="letter_0833_003_tr_1_tl_20"/>parceque j'ai quelqu'un qui me<pb xml:id="letter_0833_004"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0833_004.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0833_004_tr_1"/>
+            <lb xml:id="letter_0833_004_tr_1_tl_1"/>de<milestone unit="textregion" xml:id="letter_0833_004_tr_2"/>
+            <lb xml:id="letter_0833_004_tr_2_tl_3"/>critique un peu, et en même
+<lb xml:id="letter_0833_004_tr_2_tl_4"/>temps c’est un travail
+<lb xml:id="letter_0833_004_tr_2_tl_5"/>intéressant: l'Université me
+<lb xml:id="letter_0833_004_tr_2_tl_6"/>semble toujours un peu loin
+<lb xml:id="letter_0833_004_tr_2_tl_7"/>du monde.
+<lb xml:id="letter_0833_004_tr_2_tl_8"/>Tania part lundi.  Merci chérie de t'avoir
+<lb xml:id="letter_0833_004_tr_2_tl_9"/>occupée de la chambre!
+<lb xml:id="letter_0833_004_tr_2_tl_10"/>Je suis assez contente maintenant parceque
+<lb xml:id="letter_0833_004_tr_2_tl_11"/>le travail commence (ich bin "hungrig")
+<lb xml:id="letter_0833_004_tr_2_tl_12"/>Ecris-moi ce que c'est "Roche",
+<lb xml:id="letter_0833_004_tr_2_tl_13"/>quand tu parti pour Berlin,
+<lb xml:id="letter_0833_004_tr_2_tl_14"/>si tu est contente de partir et
+<lb xml:id="letter_0833_004_tr_2_tl_15"/>ce que tu attends – Je t'embrasse et
+<lb xml:id="letter_0833_004_tr_2_tl_16"/>je voudrais que tu me répondes vite!
+<lb xml:id="letter_0833_004_tr_2_tl_17"/>Salutations pour ta mère et Silvie, j'espère qu'elles
+<lb xml:id="letter_0833_004_tr_2_tl_18"/>vont bien!
+<lb xml:id="letter_0833_004_tr_2_tl_19"/>An[emarie<pb xml:id="letter_0833_005"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0833_005.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0833_005_tr_1"/>
+            <lb xml:id="letter_0833_005_tr_1_tl_2"/>Mademoiselle D. Schlumberger
+<lb xml:id="letter_0833_005_tr_1_tl_3"/>Roche
+<lb xml:id="letter_0833_005_tr_1_tl_4"/>Clairac
+<lb xml:id="letter_0833_005_tr_1_tl_5"/>Cot et Garonne
+<lb xml:id="letter_0833_005_tr_1_tl_6"/>Frankreich</div>
+      </body>
+   </text>
+</TEI>
