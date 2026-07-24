@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0829" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0829#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0829</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0829_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0829_001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_3"/>Ma Dominique chère 
+               <lb xml:id="p001_tr_1_tl_4"/>Viens si toujours possible le 
+               <lb xml:id="p001_tr_1_tl_7"/>2 Août – parceque sans-ce 
+               <lb xml:id="p001_tr_1_tl_8"/>ce sera trop court ! Tu me 
+               <lb xml:id="p001_tr_1_tl_10"/>diras quand tu arrives 
+               <lb xml:id="p001_tr_1_tl_11"/>à Zurich, je te cherchera 
+               <lb xml:id="p001_tr_1_tl_14"/>Mille Krüger te demande 
+               <lb xml:id="p001_tr_1_tl_15"/>d'apporter de ce médecin 
+               <lb xml:id="p001_tr_1_tl_16"/>de gorge que tu m'a 
+               <lb xml:id="p001_tr_1_tl_18"/>envoyé une bouteille 
+               <lb xml:id="p001_tr_1_tl_20"/><hi rendition="#u">d'huile pour la gorge</hi> 
+               <lb xml:id="p001_tr_1_tl_22"/>que ce médecin t'a 
+               <lb xml:id="p001_l"/><del rend="overstrike">à</del><hi rendition="#u">a donné à Paris</hi>, – 
+               <lb xml:id="p001_tr_1_tl_24"/>d'envoyer la facture a 
+               <lb xml:id="p001_tr_1_tl_27"/>elle – Baisers et amitiés 
+               <lb xml:id="p001_tr_1_tl_28"/>à tout le monde - An[emarie</p>
+
+            <milestone unit="textregion" xml:id="p001_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l_1"/>Mademoiselle 
+               <lb xml:id="p001_l_2"/>Dominique Schlumberger 
+               <lb xml:id="p001_l_3"/>Le VAl Richer – 
+               <lb xml:id="p001_l_4"/>par La Boissière 
+               <lb xml:id="p001_l_5"/>Calvados [adr paris noch nachschauen] 
+               <lb xml:id="p001_l_6"/>Rue Las Cavas</p>
+</div>
+       </body>
+    </text>
+ </TEI>
