@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0830"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0830</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0830_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0830_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0830_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0830_001_tr_2"/>
+            <lb xml:id="letter_0830_001_tr_2_tl_1"/>dans le<milestone unit="textregion" xml:id="letter_0830_001_tr_1"/>
+            <lb xml:id="letter_0830_001_tr_1_tl_1"/>3 e<milestone unit="textregion" xml:id="letter_0830_001_tr_4"/>
+            <lb xml:id="letter_0830_001_tr_4_tl_3"/>17. Aug. 29
+<lb xml:id="letter_0830_001_tr_4_tl_7"/>Ma Dominique, mille fois merci pour
+<lb xml:id="letter_0830_001_l"/>ta lettre qui était tellement
+<lb xml:id="letter_0830_001_tr_4_tl_10"/>gentille et qui m'a fait énorme¬
+<lb xml:id="letter_0830_001_l_1"/>ment du plaisir! Moi aussi j'ai
+<lb xml:id="letter_0830_001_l_2"/>beaucoup joui du séjour à l'Alpe,
+<lb xml:id="letter_0830_001_l_4"/>seulement je <PAGE tag="strikethrough">'a</PAGE> pense que c'était
+<lb xml:id="letter_0830_001_tr_4_tl_20"/>assez longtemps: "KurzeZeit stärkt,
+<lb xml:id="letter_0830_001_tr_4_tl_21"/>lange Zeit schwächt" – et trop
+<lb xml:id="letter_0830_001_tr_4_tl_22"/>de jeunes filles ensemble c'est, au
+<lb xml:id="letter_0830_001_l_3"/>fond, ... assomment, tu ne crois pas!
+<lb xml:id="letter_0830_001_l_5"/>Chérie, je suis triste de t'avoir fait
+<lb xml:id="letter_0830_001_tr_4_tl_28"/>mal, surtout le dernier soir – Mais,
+<lb xml:id="letter_0830_001_tr_4_tl_29"/>car moi, j'aime bien Jaqueline,
+<lb xml:id="letter_0830_001_tr_4_tl_30"/>cela ne m'est pas même venu à l'idée,
+<lb xml:id="letter_0830_001_tr_4_tl_31"/>que je faisais une chose qui devait
+<lb xml:id="letter_0830_001_tr_4_tl_32"/>te blesser!<pb xml:id="letter_0830_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0830_002.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0830_002_tr_1"/>
+            <lb xml:id="letter_0830_002_tr_1_tl_2"/>Maintenant "les affaires":
+<lb xml:id="letter_0830_002_tr_1_tl_3"/>1)  Ton bonnet: je te l'ai sorti à Schwyz!
+<lb xml:id="letter_0830_002_tr_1_tl_4"/>Depuis, je n'en sais rien –
+<lb xml:id="letter_0830_002_tr_1_tl_5"/>2) Si maman a trouvé tes Platten,
+<lb xml:id="letter_0830_002_tr_1_tl_6"/>je les ferai envoyer.
+<lb xml:id="letter_0830_002_tr_1_tl_7"/>3) Hertha u. ich haben einen Brief an
+<lb xml:id="letter_0830_002_tr_1_tl_8"/>Dr. Camenisch aufgestellt für[Mundart-Grammatik] eine
+<lb xml:id="letter_0830_002_l"/>Einführung an den jetzigen Direktor
+<lb xml:id="letter_0830_002_tr_1_tl_11"/>zu erhalten. Soll ich ihn <PAGE tag="strikethrough">schicken</PAGE>
+<lb xml:id="letter_0830_002_tr_1_tl_12"/>an Camenisch schicken, was meinst Du?
+<lb xml:id="letter_0830_002_tr_1_tl_13"/>La lettre à Vollmoeller, voilà
+<lb xml:id="letter_0830_002_tr_1_tl_14"/>"ein nur roher Entwurf", bitte
+<lb xml:id="letter_0830_002_tr_1_tl_16"/>um Bericht!
+<lb xml:id="letter_0830_002_tr_1_tl_18"/>Et zum Schluss je vous souhaite, à Anna
+<lb xml:id="letter_0830_002_tr_1_tl_19"/>et toi, eine schöne Tour, et je
+<lb xml:id="letter_0830_002_tr_1_tl_23"/>voudrais t'embrasser bien herzlich.
+<lb xml:id="letter_0830_002_tr_1_tl_24"/>An[emarie<pb xml:id="letter_0830_003"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0830_003.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0830_003_tr_1"/>
+            <lb xml:id="letter_0830_003_tr_1_tl_3"/>Lettre à Vollmoelle :
+<lb xml:id="letter_0830_003_tr_1_tl_4"/>ich möchte Sie noch um Folgendes
+<lb xml:id="letter_0830_003_tr_1_tl_5"/>bitten: ich schrieb Ihnen nach
+<lb xml:id="letter_0830_003_tr_1_tl_6"/>Hollywood von meiner Freundin
+<lb xml:id="letter_0830_003_tr_1_tl_7"/>Dominique Schlumberger die Film¬
+<lb xml:id="letter_0830_003_tr_1_tl_8"/>regisseur werden wird. Sie will
+<lb xml:id="letter_0830_003_tr_1_tl_9"/>jetzt schon, oder in möglichst kurzer
+<lb xml:id="letter_0830_003_tr_1_tl_10"/>Zeit, eine Stelle finden wo sie
+<lb xml:id="letter_0830_003_tr_1_tl_11"/>Gelegenheit hätte bei der Aufnahme
+<lb xml:id="letter_0830_003_l_1"/>eines Films zugegen zu sein, wen[ auch
+<lb xml:id="letter_0830_003_l"/>nur als Volontärin. Da eine solche
+<lb xml:id="letter_0830_003_tr_1_tl_17"/>Stelle in Frantekr. trotz guter Verbin¬
+<lb xml:id="letter_0830_003_l_2"/>dungen nicht zu finden ist, möchte
+<lb xml:id="letter_0830_003_tr_1_tl_20"/>sie nach Deutschland. Ich will ihr
+<lb xml:id="letter_0830_003_tr_1_tl_21"/>dabei nach bester Möglichkeit
+<lb xml:id="letter_0830_003_tr_1_tl_22"/>helfen u. bitte Sie, wenn es
+<lb xml:id="letter_0830_003_tr_1_tl_23"/>Ihnen möglich ist, ihr einen<pb xml:id="letter_0830_004"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0830_004.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0830_004_tr_1"/>
+            <lb xml:id="letter_0830_004_tr_1_tl_2"/>Begleit- oder Empfehlungsbrief an
+<lb xml:id="letter_0830_004_tr_1_tl_3"/>einen entsprechenden <PAGE tag="strikethrough">St</PAGE> Regisseur
+<lb xml:id="letter_0830_004_tr_1_tl_4"/>oder Direktor zu geben. –
+<lb xml:id="letter_0830_004_tr_1_tl_21"/>Mademoiselle Schlumberger
+<lb xml:id="letter_0830_004_tr_1_tl_23"/>Kandersteg
+<lb xml:id="letter_0830_004_tr_1_tl_25"/>Wallis
+<lb xml:id="letter_0830_004_tr_1_tl_26"/>Postlagernd</div>
+      </body>
+   </text>
+</TEI>
