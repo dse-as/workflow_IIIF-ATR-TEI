@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0828"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0828</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0828_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0828_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0828_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0828_001_tr_3"/>
+            <lb xml:id="letter_0828_001_tr_3_tl_4"/>BOCKEN
+<lb xml:id="letter_0828_001_tr_3_tl_5"/>OB HORGEN, ZÜRICHSEE.
+<lb xml:id="letter_0828_001_tr_3_tl_3"/>22 Juli 29
+<lb xml:id="letter_0828_001_tr_3_tl_6"/>Cher vieux –
+<lb xml:id="letter_0828_001_tr_3_tl_7"/>je viens de t'écrire une
+<lb xml:id="letter_0828_001_tr_3_tl_8"/>lettre. Malheureusement
+<lb xml:id="letter_0828_001_tr_3_tl_9"/>en vain, parce que je ne
+<lb xml:id="letter_0828_001_tr_3_tl_10"/>savais pas que tu ne supporte
+<lb xml:id="letter_0828_001_tr_3_tl_11"/>pas Jaqueline [Nougarede]. Elle ne le
+<lb xml:id="letter_0828_001_tr_3_tl_12"/>mérite pas, du reste, mais
+<lb xml:id="letter_0828_001_tr_3_tl_13"/>voilà des choses qu'on ne
+<lb xml:id="letter_0828_001_tr_3_tl_14"/>peut pas discuter.
+<lb xml:id="letter_0828_001_tr_3_tl_15"/>Je pense que Jaqueline arrive
+<lb xml:id="letter_0828_001_tr_3_tl_16"/>le 4 août. Après quelques
+<lb xml:id="letter_0828_001_tr_3_tl_17"/>jours elle va à Meilen chez<pb xml:id="letter_0828_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0828_002.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0828_002_tr_1"/>
+            <lb xml:id="letter_0828_002_tr_1_tl_3"/>.
+<lb xml:id="letter_0828_002_tr_1_tl_6"/>Jutta. [Zum Aufenthalt von J. vgl. die Briefe an sie 0920 bis ca. 0930, ev können diese jetzt besser datiert werden - undatiert aus dem SLA]
+<lb xml:id="letter_0828_002_l"/>Je t’ai proposé dans ma lettre la
+<lb xml:id="letter_0828_002_l_1"/>chose suivante: Viens si tôt
+<lb xml:id="letter_0828_002_l_2"/>que possible. Je pars, avec
+<lb xml:id="letter_0828_002_tr_1_tl_13"/>toi, pour l'Alp le 2 Août –
+<lb xml:id="letter_0828_002_l_3"/>Tama <PAGE tag="strikethrough">l</PAGE> montera déja la
+<lb xml:id="letter_0828_002_l_4"/>semaine prochaine. Viens donc
+<lb xml:id="letter_0828_002_l_5"/>quelques jours avant si tu peut,
+<lb xml:id="letter_0828_002_tr_1_tl_20"/>et reste avec moi a Bocken.
+<lb xml:id="letter_0828_002_tr_1_tl_21"/>Je suis là à partir du 29 Juillet
+<lb xml:id="letter_0828_002_tr_1_tl_22"/>Donc : écris vite, viens en tout cas
+<lb xml:id="letter_0828_002_tr_1_tl_23"/>a Bocken jusqu'au 2 ou 4 Août
+<lb xml:id="letter_0828_002_tr_1_tl_24"/>et décide toi-même si tu
+<lb xml:id="letter_0828_002_tr_1_tl_25"/>viendras encore a l'Alp, in spite
+<lb xml:id="letter_0828_002_tr_1_tl_26"/>of Jacqueline –
+<lb xml:id="letter_0828_002_l_7"/>je t'embrasseet  j'attends
+<lb xml:id="letter_0828_002_tr_1_tl_30"/>ta réponse
+<lb xml:id="letter_0828_002_tr_1_tl_32"/>An[emarie
+<lb xml:id="letter_0828_002_tr_1_tl_31"/>De Hertha je n'en pas encore
+<lb xml:id="letter_0828_002_tr_1_tl_33"/>de réponse!</div>
+      </body>
+   </text>
+</TEI>
