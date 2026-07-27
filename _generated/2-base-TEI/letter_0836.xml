@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0836" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0836#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0836</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0836_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0836_001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_l"/>29.8.29 
+               <lb xml:id="p001_tr_1_tl_4"/>Dominique chérie – il est de nouveau 10½<hi rendition="#sup">h</hi>  
+               <lb xml:id="p001_tr_1_tl_5"/>du soir, et je suis de nouveau fatiguée 
+               <lb xml:id="p001_tr_1_tl_6"/>mais j'espère que dans la lettre tu ne 
+               <lb xml:id="p001_tr_1_tl_7"/>le remarquerais pas d'une façon 
+               <lb xml:id="p001_tr_1_tl_8"/>désagréable. Parceque voilà deux chères 
+               <lb xml:id="p001_tr_1_tl_9"/>lettres de toi, et je veux te remercier, 
+               <lb xml:id="p001_tr_1_tl_10"/>et je ne veux pas te faire attendre. 
+               <lb xml:id="p001_tr_1_tl_11"/>Vraiment, il ne faut pas que tu penses 
+               <lb xml:id="p001_tr_1_tl_12"/>quelquechose de mauvais de toi. J'ai 
+               <lb xml:id="p001_tr_1_tl_13"/>première 
+               <lb xml:id="p001_tr_1_tl_14"/>si bien compris [premi...] lettre, et maintenant, 
+               <lb xml:id="p001_tr_1_tl_15"/>après que tu sais les raisons pourquoi 
+               <lb xml:id="p001_tr_1_tl_16"/>j'ai agit ainsi, tu m'as compris. 
+               <lb xml:id="p001_tr_1_tl_17"/>Donc tout est en ordre, n'est-ce pas? 
+               <lb xml:id="p001_tr_1_tl_18"/>-[space] Tu dis que tu as compris mon sentiment 
+               <lb xml:id="p001_l_1"/>pour V. – Ça, c'est gentil et bon de toi,. 
+               <lb xml:id="p001_tr_1_tl_21"/>Mais nous n'en parlerons pas : tu comprends 
+               <lb xml:id="p001_tr_1_tl_22"/>que moi j'ai un peu <hi rendition="#u">envie</hi> d'en parler, 
+               <lb xml:id="p001_tr_1_tl_23"/>et c'est pourquoi je ne veux pas le faire –</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0836_002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_5"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_5_tl_2"/>Tu me demandes, pourquoi je parts 
+               <lb xml:id="p002_tr_5_tl_3"/>tôt pour Zurich? Mais chérie à Zurich 
+               <lb xml:id="p002_tr_5_tl_4"/>les cours commencent presque chaque 
+               <lb xml:id="p002_l"/>matin à <hi rendition="#u">8h</hi> [h hochgestellt] et ils cessent à 6<hi rendition="#sup">h</hi> u 7<hi rendition="#sup">h</hi> 
+               <lb xml:id="p002_tr_5_tl_7"/>– alors tu comprends que ça fatigue, 
+               <lb xml:id="p002_tr_5_tl_8"/>et dans les heures libres, il faut 
+               <lb xml:id="p002_tr_5_tl_9"/>que je prépare des travaux pour les 
+               <lb xml:id="p002_tr_5_tl_10"/>exercices pratiques. Chaque professeur 
+               <lb xml:id="p002_tr_5_tl_11"/>important fait 2<hi rendition="#sup">h</hi> d'exercices pratiques 
+               <lb xml:id="p002_l_1"/>("Seminar") par semaine! Et quelquefois 
+               <lb xml:id="p002_l_2"/>il faut que j'écrive, et que je fasse 
+               <lb xml:id="p002_tr_5_tl_16"/>mon piano – 
+               <lb xml:id="p002_tr_5_tl_17"/>Merci pour la "Jeanne d'Arc" – je me 
+               <lb xml:id="p002_tr_5_tl_18"/>réjouis de la livre. Je vous envie d'être 
+               <lb xml:id="p002_tr_5_tl_19"/>ensemble, toi, Elisabeth, et Tania. Tu es 
+               <lb xml:id="p002_tr_5_tl_20"/>bonne pour elle, merci. 
+               <lb xml:id="p002_tr_5_tl_21"/>[space]À Zurich j'ai Gundi et nous avons beaucoup de 
+               <lb xml:id="p002_tr_5_tl_22"/>cours ensemble. Mais tu comprends que 
+               <lb xml:id="p002_tr_5_tl_23"/>je suis seule. Afin, Elisabeth dit que elle 
+               <lb xml:id="p002_tr_5_tl_24"/>fait du bien. Salué, tes parents, Sylvie, Tinsjou?</p>
+
+            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_l_3"/>Bon nuit et dors très bien – 
+               <lb xml:id="p002_l_4"/>Annemarie</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0836_003.jpg"/>
+            <milestone unit="textregion" xml:id="p003_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_2_tl_7"/>Mademoiselle Schlumberger 
+               <lb xml:id="p003_tr_2_tl_8"/>7 Rue Las Cases 
+               <lb xml:id="p003_tr_2_tl_9"/><hi rendition="#u">Paris VIIe</hi></p>
+</div>
+       </body>
+    </text>
+ </TEI>
