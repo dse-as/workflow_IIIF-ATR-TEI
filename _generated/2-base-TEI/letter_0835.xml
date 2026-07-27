@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0835" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0835#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0835</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0835_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0835_001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_4"/>A. S. 
+               <lb xml:id="p001_tr_1_tl_3"/>Montag Nacht 
+               <lb xml:id="p001_tr_1_tl_5"/>Meine liebe, liebste Dominique 
+               <lb xml:id="p001_tr_1_tl_6"/>Ich habe Deinen Brief gelesen 
+               <lb xml:id="p001_tr_1_tl_7"/>u. ich war sehr unglücklich, 
+               <lb xml:id="p001_tr_1_tl_8"/>so dass ich jetzt obwohl ich 
+               <lb xml:id="p001_tr_1_tl_9"/>dachte ich kan[ nicht wach bleiben, 
+               <lb xml:id="p001_l"/>so müde war ich, Dir noch 
+               <lb xml:id="p001_tr_1_tl_12"/>schreiben will. Je ne peux pas 
+               <lb xml:id="p001_tr_1_tl_13"/>dormir en pensant que tu 
+               <lb xml:id="p001_tr_1_tl_14"/>es triste, et par ma faute. 
+               <lb xml:id="p001_tr_1_tl_15"/>Dominique chérie, mais tu 
+               <lb xml:id="p001_tr_1_tl_16"/>ne dois pas croire des choses 
+               <lb xml:id="p001_tr_1_tl_17"/>qui ne sont pas vraies ou 
+               <lb xml:id="p001_tr_1_tl_18"/>mal compris, et je vais 
+               <lb xml:id="p001_tr_1_tl_19"/>essayer à te répondre a tout</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0835_002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_1"/>a 
+               <lb xml:id="p002_tr_1_tl_3"/>tout ce que tu écris. 
+               <lb xml:id="p002_tr_1_tl_4"/>Je n'ai jamais voulu épouser 
+               <lb xml:id="p002_tr_1_tl_5"/>Vollmoeller. Tania ne l'aime pas 
+               <lb xml:id="p002_tr_1_tl_6"/>du tout, et, car elle a vu que 
+               <lb xml:id="p002_tr_1_tl_8"/>je souffrais beaucoup à cause de 
+               <lb xml:id="p002_tr_1_tl_9"/>lui, et car tout le monde 
+               <lb xml:id="p002_tr_1_tl_10"/>faisant des remarques de ce 
+               <lb xml:id="p002_tr_1_tl_11"/>geure (peut-être moi-même aussi) 
+               <lb xml:id="p002_tr_1_tl_12"/>elle commeçait aussi à parler 
+               <lb xml:id="p002_l_1"/>ansi. Ich spreche nicht gern von 
+               <lb xml:id="p002_tr_1_tl_18"/>Vollmoeller, aber ich versichere 
+               <lb xml:id="p002_tr_1_tl_19"/>Dir dass ich Dir nicht ein 
+               <lb xml:id="p002_tr_1_tl_20"/>anderes Gefühl vortauschen wollte 
+               <lb xml:id="p002_tr_1_tl_21"/>als ich es in mir trug: Ich 
+               <lb xml:id="p002_tr_1_tl_22"/>war sehr, sehr stark von 
+               <lb xml:id="p002_tr_1_tl_23"/>Vollm. beeinfluss u. kon[te 
+               <lb xml:id="p002_tr_1_tl_24"/>mir mein Leben ohne seine 
+               <lb xml:id="p002_tr_1_tl_25"/>Hilfe u. Einmischung nicht 
+               <lb xml:id="p002_tr_1_tl_26"/>mehr denken. Aber noch auf 
+               <lb xml:id="p002_tr_1_tl_27"/>-</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0835_003.jpg"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_1_tl_2"/>der Alp dachte ich, ich liebe ihn 
+               <lb xml:id="p003_tr_1_tl_3"/>nicht. Und auch jetzt denke 
+               <lb xml:id="p003_tr_1_tl_4"/>ich es. Nur manchmal kon[te 
+               <lb xml:id="p003_tr_1_tl_5"/>ich mich nicht verstehen. 
+               <lb xml:id="p003_tr_1_tl_6"/>Er selbst war im[er sehr gut 
+               <lb xml:id="p003_tr_1_tl_7"/>zu mir, aber er war so über 
+               <lb xml:id="p003_tr_1_tl_8" break="no"/>zeugt dass er mich auf irgend 
+               <lb xml:id="p003_tr_1_tl_9"/>eine Art gewin[en würde. 
+               <lb xml:id="p003_tr_1_tl_10"/>Ich will Dir auch sagen dass 
+               <lb xml:id="p003_tr_1_tl_11"/>es mir entsetzlich schwer fällt 
+               <lb xml:id="p003_tr_1_tl_12"/>von ihm gelöst zu sein. 
+               <lb xml:id="p003_tr_1_tl_13"/>Damals als er noch einmal 
+               <lb xml:id="p003_tr_1_tl_14"/>hier war, war Jacqueliine da 
+               <lb xml:id="p003_tr_1_tl_15"/>u. war immer so frisch u. 
+               <lb xml:id="p003_tr_1_tl_16"/>gut u. einfach, das ist der 
+               <lb xml:id="p003_tr_1_tl_17"/>Grund warum ich ein so 
+               <lb xml:id="p003_tr_1_tl_18"/>gutes Gefühl für sie habe.</p>
+
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0835_004.jpg"/>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p004_tr_1_tl_2"/>Du wirst fragen warum ich Dir 
+               <lb xml:id="p004_tr_1_tl_3"/>dies alles nicht erzählt habe – 
+               <lb xml:id="p004_tr_1_tl_4"/>ich weiss nicht: ich bin nicht 
+               <lb xml:id="p004_l"/><hi rendition="#u">verschlossen</hi>, de[och spreche 
+               <lb xml:id="p004_tr_1_tl_7"/>ich sehr selten u. ungere über 
+               <lb xml:id="p004_tr_1_tl_8"/>einen Anderen zu einem Dritten. 
+               <lb xml:id="p004_tr_1_tl_9"/>Ich kan[ doch das Vertrauen 
+               <lb xml:id="p004_tr_1_tl_10"/>von Vollm. nicht brechen, selbst 
+               <lb xml:id="p004_tr_1_tl_11"/>wen[ <hi rendition="#u">ich Dir</hi> vertraue. <hi rendition="#u">Er</hi> 
+               <lb xml:id="p004_tr_1_tl_12"/>ken[t Dich nicht u. will sicher 
+               <lb xml:id="p004_tr_1_tl_15"/>nicht, dass ich von ihm in 
+               <lb xml:id="p004_tr_1_tl_16"/>solchen Dingen spreche – 
+               <lb xml:id="p004_l_1"/>Und dann, Dominique, kan[ ich 
+               <lb xml:id="p004_tr_1_tl_19"/>nicht über die Dinge sprachen, 
+               <lb xml:id="p004_tr_1_tl_20"/>die mir sehr viel Schmerz 
+               <lb xml:id="p004_tr_1_tl_21"/>machen – 
+               <lb xml:id="p004_tr_1_tl_22"/>Ich hätte Dir auch jetzt nicht 
+               <lb xml:id="p004_tr_1_tl_24"/>schreiben sollen. Parceque je ne 
+               <lb xml:id="p004_tr_1_tl_25"/>suis ni en colère ni tranquille,</p>
+
+            <pb xml:id="p005" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0835_005.jpg"/>
+            <milestone unit="textregion" xml:id="p005_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p005_tr_1_tl_6"/>A.S. 
+               <lb xml:id="p005_tr_1_tl_4"/>mais terriblement triste 
+               <lb xml:id="p005_tr_1_tl_5"/>et découragée et fatiguée. 
+               <lb xml:id="p005_tr_1_tl_7"/>On me demande des choses 
+               <lb xml:id="p005_tr_1_tl_10"/>que je ne peux pas faire. 
+               <lb xml:id="p005_tr_1_tl_11"/>Je ne peux pas être si bonne, si 
+               <lb xml:id="p005_tr_1_tl_12"/>ouverte, si clair que toi. Ni 
+               <lb xml:id="p005_tr_1_tl_13"/>si entièrement décidée – 
+               <lb xml:id="p005_tr_1_tl_14"/>Et j'en souffre. 
+               <lb xml:id="p005_tr_1_tl_16"/>Voilà Maria Helene, <del rend="overstrike">l </del>mon amie 
+               <lb xml:id="p005_tr_1_tl_17"/>portugaise, qui est à Zurich. Une 
+               <lb xml:id="p005_tr_1_tl_18"/>petite fille seule, et je vois dans 
+               <lb xml:id="p005_tr_1_tl_19"/>ses yeux qu'elle <hi rendition="#u">attend</hi> quelque- 
+               <lb xml:id="p005_tr_1_tl_20"/>chose de moi, et moi je suis 
+               <lb xml:id="p005_tr_1_tl_21"/>vide et je n'ai rien à lui 
+               <lb xml:id="p005_tr_1_tl_22"/>donner – 
+               <lb xml:id="p005_tr_1_tl_23"/>Ich will Dir sagen, Dominique: 
+               <lb xml:id="p005_tr_1_tl_24"/>ich habe Dich von Herzen lieb – 
+               <lb xml:id="p005_tr_1_tl_25"/>Und ich quäle mich, Dir weh</p>
+
+            <pb xml:id="p006" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0835_006.jpg"/>
+            <milestone unit="textregion" xml:id="p006_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p006_tr_2_tl_2"/>weh getan zu haben. Aber ich ka[ 
+               <lb xml:id="p006_tr_2_tl_3"/>nicht anders, als im[er ganz 
+               <lb xml:id="p006_tr_2_tl_4"/>allein u. isoliert zu sein, u. ich 
+               <lb xml:id="p006_tr_2_tl_5"/>leide darunter. 
+               <lb xml:id="p006_tr_2_tl_6"/>Est-ce que tu peux comprendre 
+               <lb xml:id="p006_tr_2_tl_7"/>cela? – – 
+               <lb xml:id="p006_tr_2_tl_8"/>[space] Eric je te l'avais envoyé, tu dois 
+               <lb xml:id="p006_tr_2_tl_9"/>l'avoir reçu depuis – J'ai écrit 
+               <lb xml:id="p006_tr_2_tl_10"/>des nouvelles choses depuis que j'aime 
+               <lb xml:id="p006_tr_2_tl_11"/>plus, mais pas encore assez. – 
+               <lb xml:id="p006_tr_2_tl_14"/>Je parts le matin à 7½, je 
+               <lb xml:id="p006_tr_2_tl_16"/>rentre que le soir à 7<hi rendition="#sup">h</hi> ou 7½, 
+               <lb xml:id="p006_tr_2_tl_17"/>et j'ai toute la journée des 
+               <lb xml:id="p006_tr_2_tl_18"/>cours. Ich werde es sicher 
+               <lb xml:id="p006_tr_2_tl_19"/>nicht aushalten. Ich habe 
+               <lb xml:id="p006_tr_2_tl_20"/>auch wieder viele Schmerzen 
+               <lb xml:id="p006_tr_2_tl_21"/>im Leib, es kom[t von 
+               <lb xml:id="p006_tr_2_tl_22"/>Gallensteinen. Du musst mir 
+               <lb xml:id="p006_tr_2_tl_23"/>verzeihen, wenn ich schlecht und</p>
+
+            <pb xml:id="p007" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0835_007.jpg"/>
+            <milestone unit="textregion" xml:id="p007_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p007_tr_2_tl_2"/>unklar schreibe, aber ich war 
+               <lb xml:id="p007_tr_2_tl_3"/>schon halb im Traum u. 
+               <lb xml:id="p007_tr_2_tl_4"/>war so traurig über Deinen 
+               <lb xml:id="p007_tr_2_tl_5"/>Brief u. über mich, u. ich 
+               <lb xml:id="p007_tr_2_tl_6"/>hasste mich, u. deshalb 
+               <lb xml:id="p007_tr_2_tl_7"/>musste ich Dir noch schreiben. 
+               <lb xml:id="p007_tr_2_tl_8"/>Du bist so lieb dass Du an 
+               <lb xml:id="p007_l"/>Tania denkst. Ja, sie lebt jetzt 
+               <lb xml:id="p007_tr_2_tl_11"/>vom Geld das Mama ihr schickt. 
+               <lb xml:id="p007_tr_2_tl_12"/>Ich denke sie soll nicht mehr 
+               <lb xml:id="p007_tr_2_tl_13"/>singen u. <hi rendition="#u">irgend eine</hi> Stelle 
+               <lb xml:id="p007_tr_2_tl_14"/>nehmen. Dan[ wird man 
+               <lb xml:id="p007_tr_2_tl_15"/>sehen. Willst Du Sorgen dass 
+               <lb xml:id="p007_tr_2_tl_16"/>sie ein 2. Zimer nim[t, ich 
+               <lb xml:id="p007_tr_2_tl_17"/>will es ihr als ein Geschenk für 
+               <lb xml:id="p007_tr_2_tl_18"/>das ganze Jahr zahlen, damit 
+               <lb xml:id="p007_tr_2_tl_19"/>sie nicht in einem Zim[er mit</p>
+
+            <pb xml:id="p008" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0835_008.jpg"/>
+            <milestone unit="textregion" xml:id="p008_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p008_tr_1_tl_1"/>in</p>
+
+            <milestone unit="textregion" xml:id="p008_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p008_tr_2_tl_2"/>ihrer Mutter wohnt. 
+               <lb xml:id="p008_tr_2_tl_3"/>[space] Et maintenant bonne nuit, 
+               <lb xml:id="p008_tr_2_tl_4"/>je ne suis pas contente de 
+               <lb xml:id="p008_tr_2_tl_5"/>cette lettre – mais je ne 
+               <lb xml:id="p008_tr_2_tl_6"/>sais pas à quoi cela tient – 
+               <lb xml:id="p008_tr_2_tl_7"/>Je veux que tu ne sois plus 
+               <lb xml:id="p008_tr_2_tl_8"/>triste, je suis toujours 
+               <lb xml:id="p008_tr_2_tl_11"/>prête si une fois je peux 
+               <lb xml:id="p008_tr_2_tl_12"/>t'aider – et je t'embrasse 
+               <lb xml:id="p008_tr_2_tl_13"/>Schlaf gut – Deine 
+               <lb xml:id="p008_tr_2_tl_14"/>Annemarie</p>
+
+            <pb xml:id="p009" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0835_009.jpg"/>
+            <milestone unit="textregion" xml:id="p009_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p009_l"/>Mademoiselle Schlumberger 
+               <lb xml:id="p009_l_1"/>7 Rue Las Casas 
+               <lb xml:id="p009_l_2"/><hi rendition="#u">Paris VII</hi></p>
+</div>
+       </body>
+    </text>
+ </TEI>
