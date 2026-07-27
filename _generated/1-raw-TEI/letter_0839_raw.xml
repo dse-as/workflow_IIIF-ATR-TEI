@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0839"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0839</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0839_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0839_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0839_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0839_001_tr_1"/>
+            <lb xml:id="letter_0839_001_tr_1_tl_4"/>10. XI. 29
+<lb xml:id="letter_0839_001_tr_1_tl_5"/>Ma chère Dominique – la famille casse-cou
+<lb xml:id="letter_0839_001_tr_1_tl_6"/>S'est remise peu à peu, surtout après
+<lb xml:id="letter_0839_001_tr_1_tl_7"/>que Maman a gagné le prix des Amazones
+<lb xml:id="letter_0839_001_tr_1_tl_8"/>à Genève et plusieurs autres prix,
+<lb xml:id="letter_0839_001_tr_1_tl_9"/>et après que tous les par-boux (?)
+<lb xml:id="letter_0839_001_tr_1_tl_11"/>etc sont refaits. - Fredi remercie avec
+<lb xml:id="letter_0839_001_l"/>moi pour la carte et les condoléances!
+<lb xml:id="letter_0839_001_tr_1_tl_14"/>Alors : je m'imagine toi dans le bureau
+<lb xml:id="letter_0839_001_tr_1_tl_15"/>de ton père. Je te vois surtout faisant
+<lb xml:id="letter_0839_001_tr_1_tl_16"/>une scène au Directeur en Allemand.
+<lb xml:id="letter_0839_001_tr_1_tl_17"/>Dis-donc, tu ne fais <PAGE tag="strikethrough">do</PAGE> plus l'examen?
+<lb xml:id="letter_0839_001_l_1"/>Et l'histoire avec le<PAGE tag="strikethrough">s</PAGE> film, ce sera
+<lb xml:id="letter_0839_001_tr_1_tl_21"/>quand? Et tu penses que tu pourra
+<lb xml:id="letter_0839_001_tr_1_tl_22"/>quand'même faire quelquechose?
+<lb xml:id="letter_0839_001_l_2"/>"Quand’même" parce que M. d'Abbadie
+<lb xml:id="letter_0839_001_tr_1_tl_25"/>ne semble pas avoir dit des choses très
+<lb xml:id="letter_0839_001_tr_1_tl_26"/><PAGE tag="strikethrough">eng</PAGE> encouragmentes!)<pb xml:id="letter_0839_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0839_002.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0839_002_tr_2"/>
+            <lb xml:id="letter_0839_002_tr_2_tl_2"/>D'autre part, si tu travailles avec ton
+<lb xml:id="letter_0839_002_tr_2_tl_3"/>père, c'est parceque tu veux faire cette
+<lb xml:id="letter_0839_002_tr_2_tl_4"/>carrière-là?
+<lb xml:id="letter_0839_002_l"/>En tout cas, tu occupes de choses
+<lb xml:id="letter_0839_002_tr_2_tl_8"/>interéssantes. –
+<lb xml:id="letter_0839_002_tr_2_tl_11"/>Moi, je continue à apprendre. Je suis un
+<lb xml:id="letter_0839_002_tr_2_tl_12"/>peu surchargée, mais je m'arrange.
+<lb xml:id="letter_0839_002_tr_2_tl_13"/>J'ajoute 2 petites "Rezensionen" – pour que tu
+<lb xml:id="letter_0839_002_tr_2_tl_14"/>vois le genre des choses que j'écrits
+<lb xml:id="letter_0839_002_tr_2_tl_15"/>chaque semaine pour le journal.
+<lb xml:id="letter_0839_002_tr_2_tl_18"/>Samedi et Dimanche nous étions à Genève
+<lb xml:id="letter_0839_002_tr_2_tl_19"/>pour voir maman. C'était très chic,
+<lb xml:id="letter_0839_002_tr_2_tl_20"/>mais énervant. Tu sais,<PAGE tag="strikethrough">vol'</PAGE>  je suis
+<lb xml:id="letter_0839_002_tr_2_tl_21"/>tout de suite saisie par un nouveau
+<lb xml:id="letter_0839_002_tr_2_tl_22"/>monde comme celui que je connais
+<lb xml:id="letter_0839_002_l_1"/>des concours: Chaque fois je remarque
+<lb xml:id="letter_0839_002_tr_2_tl_25"/>cette fièvre d'ambition, d'élégance,
+<lb xml:id="letter_0839_002_tr_2_tl_26"/>de "pathos" national (les prix de
+<lb xml:id="letter_0839_002_tr_2_tl_27"/>nations; uniformes, "honneur" etc!!),
+<lb xml:id="letter_0839_002_tr_2_tl_28"/>et alors ma conscience me pose<pb xml:id="letter_0839_003"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0839_003.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0839_003_tr_1"/>
+            <lb xml:id="letter_0839_003_tr_1_tl_1"/>2<milestone unit="textregion" xml:id="letter_0839_003_tr_2"/>
+            <lb xml:id="letter_0839_003_tr_2_tl_3"/>des questions: Est-ce que c'est juste que les
+<lb xml:id="letter_0839_003_tr_2_tl_4"/>offiziers en uniforme représentent leurs pays
+<lb xml:id="letter_0839_003_tr_2_tl_5"/>avec beaucoup de gestes et de mots, et un
+<lb xml:id="letter_0839_003_tr_2_tl_6"/>beau jour la vraie Bestimm[ung de ces uniformes
+<lb xml:id="letter_0839_003_tr_2_tl_7"/>... de se tuer les uns les autres... se montrera –
+<lb xml:id="letter_0839_003_tr_2_tl_8"/>Est-ce que toutes ces fêtes, ces ambitions,
+<lb xml:id="letter_0839_003_tr_2_tl_9"/>ces enthousiasmes de sauter 1,50m –
+<lb xml:id="letter_0839_003_tr_2_tl_10"/>ne sont-ils pas <PAGE tag="underlined">ridicules</PAGE>! Pourquoi alors
+<lb xml:id="letter_0839_003_tr_2_tl_11"/>le gouvernement envoit de représentants,
+<lb xml:id="letter_0839_003_tr_2_tl_12"/>pourquoi des diners officiels, etc.
+<lb xml:id="letter_0839_003_tr_2_tl_13"/>Et dans la même vill[sic], à côté de ce luxe,
+<lb xml:id="letter_0839_003_tr_2_tl_14"/>cette vanité, cette fausseté: des enfants sans
+<lb xml:id="letter_0839_003_tr_2_tl_15"/>pain.
+<lb xml:id="letter_0839_003_tr_2_tl_16"/>Tu comprends. Alors je raisonne et je ne
+<lb xml:id="letter_0839_003_tr_2_tl_17"/>trouve rien. –
+<lb xml:id="letter_0839_003_tr_2_tl_18"/>[space]J'ai à te demander 3 choses:
+<lb xml:id="letter_0839_003_tr_2_tl_19"/>1) Kan[st Du das Oel für Frl. Krüger diese
+<lb xml:id="letter_0839_003_tr_2_tl_20"/>Woche noch ins Grand' Hotel schicken,
+<lb xml:id="letter_0839_003_tr_2_tl_21"/>an Frau Gertrud Schoeller. <PAGE tag="underlined">Rue Jaibe</PAGE>
+<lb xml:id="letter_0839_003_tr_2_tl_22"/>2) Kan[st Du so lieb sein, an <PAGE tag="underlined">Tania</PAGE>
+<lb xml:id="letter_0839_003_tr_2_tl_23"/>(ins Foyer) ein Paket Schokolade,
+<lb xml:id="letter_0839_003_tr_2_tl_24"/>Thee, Biscuits u. Confiture nach<pb xml:id="letter_0839_004"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0839_004.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0839_004_tr_2"/>
+            <lb xml:id="letter_0839_004_tr_2_tl_2"/>schicken. Von hier ist der Zoll teuer.
+<lb xml:id="letter_0839_004_tr_2_tl_3"/>Du Schreibst mir wieviel Du ausgelegt.
+<lb xml:id="letter_0839_004_tr_2_tl_4"/>hast.
+<lb xml:id="letter_0839_004_tr_2_tl_5"/>[space]Für bis Dame von der Du schreibst will
+<lb xml:id="letter_0839_004_l"/>ich gerne versuchen etwas zu finden.
+<lb xml:id="letter_0839_004_tr_2_tl_9"/>Und jetzt muss ich schlagen, vorher schicke
+<lb xml:id="letter_0839_004_tr_2_tl_10"/>ich Dir: beaucoup de pensées tendres.
+<lb xml:id="letter_0839_004_tr_2_tl_11"/>Et pour tout le monde mes <PAGE tag="underlined">meilleurs</PAGE>
+<lb xml:id="letter_0839_004_tr_2_tl_12"/>souvenir!
+<lb xml:id="letter_0839_004_tr_2_tl_13"/>Ta
+<lb xml:id="letter_0839_004_tr_2_tl_14"/>An[emarie
+<lb xml:id="letter_0839_004_tr_2_tl_22"/>Mademoiselle Schlumberger
+<lb xml:id="letter_0839_004_tr_2_tl_23"/>7 Rue Las Cases
+<lb xml:id="letter_0839_004_tr_2_tl_24"/><PAGE tag="underlined">Paris VIIe</PAGE><milestone unit="textregion" xml:id="letter_0839_004_tr_1"/>
+            <lb xml:id="letter_0839_004_tr_1_tl_1"/>e</div>
+      </body>
+   </text>
+</TEI>
