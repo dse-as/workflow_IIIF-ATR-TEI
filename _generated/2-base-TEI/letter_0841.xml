@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0841" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0841#"> 
+   <teiHeader> 
+      <fileDesc> 
+         <titleStmt> 
+            <title>letter_0841</title>
+          </titleStmt>
+          <publicationStmt> 
+            <p/>
+          </publicationStmt>
+          <notesStmt> 
+            <note type="global_comment"> 
+               <p/>
+             </note>
+          </notesStmt>
+          <sourceDesc> 
+            <msDesc> 
+               <msIdentifier> 
+                  <repository/>
+                   <collection/>
+                   <idno/>
+                </msIdentifier>
+             </msDesc>
+             <listBibl type="related"> 
+               <listBibl type="online"> 
+                  <bibl/>
+                </listBibl>
+             </listBibl>
+          </sourceDesc>
+       </fileDesc>
+       <profileDesc> 
+         <correspDesc> 
+            <correspAction type="sent"> 
+               <persName/>
+                <date/>
+                <placeName/>
+             </correspAction>
+             <correspAction type="received"> 
+               <persName/>
+                <placeName/>
+             </correspAction>
+          </correspDesc>
+          <langUsage> 
+            <language/>
+          </langUsage>
+          <textClass> 
+            <keywords ana="keywords"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+             <keywords ana="travels"> 
+               <list> 
+                  <item/>
+                </list>
+             </keywords>
+          </textClass>
+       </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0841_facs.xml"> 
+      <xi:fallback/>
+       <!--Inclusion path will be adjusted later.-->
+    </xi:include>
+    <text> 
+      <body> 
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0841_001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p001_tr_1_tl_3"/>9. XII. 29 
+               <lb xml:id="p001_tr_1_tl_4"/>Meine sehr liebe Dominique 
+               <lb xml:id="p001_tr_1_tl_5"/>ich danke Dir Tausendmal 
+               <lb xml:id="p001_tr_1_tl_6"/>(wirklich: 1000 x) für die Photographien. 
+               <lb xml:id="p001_tr_1_tl_7"/>Sie sind sehr lustig, u. besonders 
+               <lb xml:id="p001_tr_1_tl_8"/>Hertha ist i[mer so gut! Die Fetaner 
+               <lb xml:id="p001_tr_1_tl_9"/>Idee schläft nicht. Ich habe 
+               <lb xml:id="p001_tr_1_tl_10"/>Lilo Dedi dafür gewonnen, Du weist 
+               <lb xml:id="p001_tr_1_tl_11"/>sie ist ein sehr feiner tüchtiger Typ. 
+               <lb xml:id="p001_tr_1_tl_12"/>Ich sprach andere Frl. Dr. Köhler. 
+               <lb xml:id="p001_tr_1_tl_13"/>Soll ich nun an Camenisch 
+               <lb xml:id="p001_tr_1_tl_14"/>gelangen! Es wäre gut zu wissen 
+               <lb xml:id="p001_tr_1_tl_15"/>was er dazu denkt! 
+               <lb xml:id="p001_tr_1_tl_16"/>je t'envoie Lundi quelques 
+               <lb xml:id="p001_tr_1_tl_17"/>revues ou journaux de cinéma, 
+               <lb xml:id="p001_tr_1_tl_18"/>du reste je n'ai aucune idée 
+               <lb xml:id="p001_tr_1_tl_19"/>a qu'il y a en Allemand sur ce</p>
+
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0841_002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p002_tr_1_tl_2"/>domaine – 
+               <lb xml:id="p002_tr_1_tl_3"/>aussitôt que j'aurai fait un peu 
+               <lb xml:id="p002_l_1"/>d'ordre antre mes "Schriftstücke" 
+               <lb xml:id="p002_tr_1_tl_7"/>je t'enverrai quelquechose. Je 
+               <lb xml:id="p002_tr_1_tl_8"/>suis tellement contente que 
+               <lb xml:id="p002_tr_1_tl_9"/>maintenant les auras l'occasion 
+               <lb xml:id="p002_tr_1_tl_10"/>de travailler sur un domaine 
+               <lb xml:id="p002_tr_1_tl_11"/>qui t'intéresse ! 
+               <lb xml:id="p002_tr_1_tl_12"/>[space]À propos EnGadin : m soeur vient pour 
+               <lb xml:id="p002_tr_1_tl_13"/>les vacances de Noël ainsi je ne 
+               <lb xml:id="p002_tr_1_tl_14"/>peux pas partir. Peut-être je risque 
+               <lb xml:id="p002_tr_1_tl_15"/>de manquer mes cours pendant 
+               <lb xml:id="p002_tr_1_tl_16"/>8–10 jours au mois de février, je 
+               <lb xml:id="p002_tr_1_tl_17"/>ne peux pas me passer du soleil! 
+               <lb xml:id="p002_tr_1_tl_18"/>Mais ce sera trop tard pour toi? 
+               <lb xml:id="p002_tr_1_tl_19"/>Quel dommage!! 
+               <lb xml:id="p002_tr_1_tl_20"/>Nous avons un diner ce soir et il faut 
+               <lb xml:id="p002_tr_1_tl_21"/>que je m'habille. Tendre baiser.</p>
+
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0841_003.jpg"/>
+            <milestone unit="textregion" xml:id="p003_tr_2"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+               <lb xml:id="p003_tr_2_tl_1"/> 
+               <lb xml:id="p003_tr_2_tl_3"/>10-II 
+               <lb xml:id="p003_tr_2_tl_4"/>XII 
+               <lb xml:id="p003_tr_2_tl_5"/>1929 
+               <lb xml:id="p003_tr_2_tl_8"/>Mademoiselle Schlumberger 
+               <lb xml:id="p003_tr_2_tl_9"/>Paris VIIe 
+               <lb xml:id="p003_tr_2_tl_10"/>7 Rue Las Cases.</p>
+</div>
+       </body>
+    </text>
+ </TEI>
