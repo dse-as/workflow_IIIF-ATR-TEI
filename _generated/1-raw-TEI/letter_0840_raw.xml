@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0840"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0840</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0840_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0840_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0840_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0840_001_tr_1"/>
+            <lb xml:id="letter_0840_001_tr_1_tl_1"/>ne me reste<milestone unit="textregion" xml:id="letter_0840_001_tr_2"/>
+            <lb xml:id="letter_0840_001_tr_2_tl_5"/>25. XI. 29
+<lb xml:id="letter_0840_001_tr_2_tl_6"/>Mein liebe Dominique, ich danke Dir
+<lb xml:id="letter_0840_001_tr_2_tl_7"/>für Deinen Brief. Nein, es ist wirklich
+<lb xml:id="letter_0840_001_tr_2_tl_8"/>nicht wichtig, ob Tania Schokalude
+<lb xml:id="letter_0840_001_tr_2_tl_9"/>bekommt – ich bin viel mehr beküm[ert
+<lb xml:id="letter_0840_001_tr_2_tl_10"/>ob sie ein Stelle finden wird: ich
+<lb xml:id="letter_0840_001_tr_2_tl_11"/>glaube sie will die Zahnarztstelle nicht
+<lb xml:id="letter_0840_001_tr_2_tl_12"/>an[ehmen wegen ihrem Gesang – wen[ sie
+<lb xml:id="letter_0840_001_l"/>wirklich singen kan[, so ist es ja auch
+<lb xml:id="letter_0840_001_l_1"/>recht u. Papa wird so lang dafür
+<lb xml:id="letter_0840_001_l_2"/>sorgen bis sie damit etwas verdient.
+<lb xml:id="letter_0840_001_l_3"/>Ich habe Elisabell auch aufgetragen, für ein
+<lb xml:id="letter_0840_001_l_4"/>2. Zi[mer zu sorgen, hoffentlich wird es
+<lb xml:id="letter_0840_001_tr_2_tl_23"/>gehen –
+<lb xml:id="letter_0840_001_tr_2_tl_24"/>Mama dankt Dir sehr für das Oel – ich
+<lb xml:id="letter_0840_001_tr_2_tl_25"/>musste lachen als ich Deinen Brief
+<lb xml:id="letter_0840_001_tr_2_tl_26"/>an Mama sah. Vraiment, tu as déjà
+<lb xml:id="letter_0840_001_tr_2_tl_27"/>un vrai homme d’affaire! Et bientôt
+<lb xml:id="letter_0840_001_tr_2_tl_28"/>tu vas gagner ta vie – à propos: les
+<lb xml:id="letter_0840_001_tr_2_tl_30"/>conditions pour les femmes, dont tu
+<lb xml:id="letter_0840_001_tr_2_tl_31"/>m'écris, sont vraiment atroces.<pb xml:id="letter_0840_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0840_002.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0840_002_tr_1"/>
+            <lb xml:id="letter_0840_002_tr_1_tl_2"/>C'est là une qualité de l'Amérique
+<lb xml:id="letter_0840_002_tr_1_tl_3"/>(excepté Holywood!) : celui qui travaille
+<lb xml:id="letter_0840_002_tr_1_tl_4"/>peut vivre –
+<lb xml:id="letter_0840_002_tr_1_tl_5"/>Tu demandes ce que sont mes "Rezensionen"
+<lb xml:id="letter_0840_002_tr_1_tl_6"/>j'écris presque chaque semaine 2–3
+<lb xml:id="letter_0840_002_tr_1_tl_7"/>critiques sur des livres qui viennent de
+<lb xml:id="letter_0840_002_tr_1_tl_8"/>paraître. Ce n'est pas toujours inté¬
+<lb xml:id="letter_0840_002_l"/>ressant, ça dépend des livres – Mais
+<lb xml:id="letter_0840_002_l_1"/>si veux, je t'envoie l'une ou l'autre –
+<lb xml:id="letter_0840_002_tr_1_tl_13"/>Chérie, je t'envoie dans une
+<lb xml:id="letter_0840_002_tr_1_tl_14"/>situation de maison entre tous les
+<lb xml:id="letter_0840_002_tr_1_tl_15"/>désirs de ta famille – et entre ton
+<lb xml:id="letter_0840_002_tr_1_tl_16"/>propre désir qui est encore différent:
+<lb xml:id="letter_0840_002_tr_1_tl_17"/>et je comprends que ce doit être
+<lb xml:id="letter_0840_002_tr_1_tl_18"/>difficile. C’était la même chose
+<lb xml:id="letter_0840_002_tr_1_tl_20"/>
+            <lb xml:id="letter_0840_002_l_2"/>avec moi, – Maman et bien des
+<lb xml:id="letter_0840_002_tr_1_tl_22"/>autres voulaient que j'étudie la
+<lb xml:id="letter_0840_002_tr_1_tl_24"/>
+            <lb xml:id="letter_0840_002_l_3"/>musique – Grand'maman me voyait
+<lb xml:id="letter_0840_002_tr_1_tl_26"/>en jeune fille bien élevée qui fait
+<lb xml:id="letter_0840_002_tr_1_tl_27"/>tout en dilédantisme - etc –<pb xml:id="letter_0840_003"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0840_003.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0840_003_r"/>
+            <lb xml:id="letter_0840_003_l"/>2<milestone unit="textregion" xml:id="letter_0840_003_tr_1"/>
+            <lb xml:id="letter_0840_003_tr_1_tl_3"/>Maintenant tout le monde me laisse
+<lb xml:id="letter_0840_003_tr_1_tl_4"/>faire, et <PAGE tag="underlined">je travaille</PAGE> – Mais ce travail
+<lb xml:id="letter_0840_003_tr_1_tl_5"/>n'est pas la dernière chose, c'est que
+<lb xml:id="letter_0840_003_tr_1_tl_6"/><PAGE tag="underlined">nécessaire</PAGE> et <PAGE tag="underlined">bien</PAGE> - mais ce n'est
+<lb xml:id="letter_0840_003_tr_1_tl_7"/>pas la vie.
+<lb xml:id="letter_0840_003_tr_1_tl_8"/>Je suis plein de joie. Il vaut que je te
+<lb xml:id="letter_0840_003_tr_1_tl_9"/>le dise: Quoique fatiguée, et (le
+<lb xml:id="letter_0840_003_tr_1_tl_10"/>matin !!) souvent découragée, et un
+<lb xml:id="letter_0840_003_l_1"/>peu seule –  je suis si contente de
+<lb xml:id="letter_0840_003_tr_1_tl_13"/>vivre, et l'avenir est débordant
+<lb xml:id="letter_0840_003_tr_1_tl_14"/>de plaisir. – mais "plaisir" ce n'est pas
+<lb xml:id="letter_0840_003_tr_1_tl_15"/>le mot –c'est plustôt un courage et
+<lb xml:id="letter_0840_003_tr_1_tl_16"/>une attente. –
+<lb xml:id="letter_0840_003_tr_1_tl_17"/>[space] Du bist wirklich eigensin[ig:
+<lb xml:id="letter_0840_003_tr_1_tl_18"/>Warum frägst Du wieder nach Deiner Platte?
+<lb xml:id="letter_0840_003_tr_1_tl_19"/>Mama hat sogar in den Photographen¬
+<lb xml:id="letter_0840_003_tr_1_tl_20"/>läden v. Schwyz (!) darnach gefragt, u. 
+<lb xml:id="letter_0840_003_tr_1_tl_22"/>das Haus auf der Alp wurde umgekehrt
+<lb xml:id="letter_0840_003_tr_1_tl_23"/>von oben bis unten – Rien à faire,
+<lb xml:id="letter_0840_003_tr_1_tl_24"/>on ne l'a pas trouvé!
+<lb xml:id="letter_0840_003_tr_1_tl_25"/>je t'embrasse, et j'espère que tu les contente –
+<lb xml:id="letter_0840_003_tr_1_tl_26"/>An[emarie<pb xml:id="letter_0840_004"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0840_004.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0840_004_tr_2"/>
+            <lb xml:id="letter_0840_004_tr_2_tl_6"/>Mademoiselle Dominique Schlumberger
+<lb xml:id="letter_0840_004_tr_2_tl_7"/><PAGE tag="underlined">Paris VIIe</PAGE>
+<lb xml:id="letter_0840_004_tr_2_tl_8"/>7 Rue Las Cases
+<lb xml:id="letter_0840_004_tr_2_tl_9"/>Frankreich.</div>
+      </body>
+   </text>
+</TEI>
