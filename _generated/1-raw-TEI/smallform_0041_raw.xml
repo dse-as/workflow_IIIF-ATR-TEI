@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="smallform_0041"
+     type="dseas-smallform">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>smallform_0041</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl corresp="smallform_0041">
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0041_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="smallform">
+            <pb xml:id="smallform_0041_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0041_0001.jpg"/>
+            <milestone unit="textregion" xml:id="smallform_0041_001_tr_1"/>
+            <lb xml:id="smallform_0041_001_tr_1_tl_1"/>Krankenhaus-Nacht
+<lb xml:id="smallform_0041_001_tr_1_tl_2"/>Jch träume ich liege neben Dir –
+<lb xml:id="smallform_0041_001_tr_1_tl_3"/>Derselbe sanfte Rausch umgebe uns,
+<lb xml:id="smallform_0041_001_tr_1_tl_4"/>Dein Arm um meine Schulter,
+<lb xml:id="smallform_0041_001_tr_1_tl_5"/>Schwesterlich
+<lb xml:id="smallform_0041_001_tr_1_tl_6"/>Der<PAGE tag="strikethrough">selbe </PAGE>gleiche Atem trage uns.[strophe]
+<lb xml:id="smallform_0041_001_tr_1_tl_7"/>Dass ich krank bin, macht es so
+<lb xml:id="smallform_0041_001_tr_1_tl_8"/>Leicht: das Zimmer wesenlos,
+<lb xml:id="smallform_0041_001_tr_1_tl_9"/>Das Fenster ohne Aussicht, Wände
+<lb xml:id="smallform_0041_001_tr_1_tl_10"/>Ohne Farbe, und die Türe führt
+<lb xml:id="smallform_0041_001_tr_1_tl_11"/>Nirgenswohin.[strophe]
+<lb xml:id="smallform_0041_001_tr_1_tl_12"/>Kein Tag, keine Nacht, keine
+<lb xml:id="smallform_0041_001_tr_1_tl_13"/>Dämmerung. Manchmal schlafe ich,
+<lb xml:id="smallform_0041_001_tr_1_tl_14"/>Manchmal, am liebsten, denke ich,
+<lb xml:id="smallform_0041_001_tr_1_tl_15"/>Jch liege neben Dir.<milestone unit="textregion" xml:id="smallform_0041_001_r_2"/>
+            <lb xml:id="smallform_0041_001_l_1"/>Zürich
+<lb xml:id="smallform_0041_001_l"/>Sept. 33</div>
+      </body>
+   </text>
+</TEI>
