@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0842"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0842</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0842_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0842_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0842_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0842_001_tr_1"/>
+            <lb xml:id="letter_0842_001_tr_1_tl_2"/>16. XII.
+<lb xml:id="letter_0842_001_tr_1_tl_3"/>Meine liebe Dominique!
+<lb xml:id="letter_0842_001_tr_1_tl_4"/>Tu me ferais <PAGE tag="underlined">le plus grand</PAGE>
+<lb xml:id="letter_0842_001_tr_1_tl_5"/>plaisir si tu t'arrangeais à
+<lb xml:id="letter_0842_001_tr_1_tl_6"/>passer un jour ou plus chez
+<lb xml:id="letter_0842_001_tr_1_tl_7"/>nous! Suzanne vient avec son
+<lb xml:id="letter_0842_001_l"/>marie et Lars, donc je reste à
+<lb xml:id="letter_0842_001_tr_1_tl_10"/>Bocken. Tu viendras quand
+<lb xml:id="letter_0842_001_tr_1_tl_11"/>tu voudras, tu n'as qu'à <PAGE tag="strikethrough">t'a</PAGE>
+<lb xml:id="letter_0842_001_tr_1_tl_12"/>annoncer ton arrivée à Zurich.
+<lb xml:id="letter_0842_001_tr_1_tl_13"/>je te remercie tellement
+<lb xml:id="letter_0842_001_tr_1_tl_14"/>d'avoir envoyé les paquets pour
+<lb xml:id="letter_0842_001_tr_1_tl_15"/>moi!
+<lb xml:id="letter_0842_001_tr_1_tl_16"/>Tu auras de Stern les Banndes.<milestone unit="textregion" xml:id="letter_0842_001_tr_2"/>
+            <pb xml:id="letter_0842_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0842_002.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0842_002_tr_1"/>
+            <lb xml:id="letter_0842_002_tr_1_tl_2"/>je suis triste de ne pas t'avoir
+<lb xml:id="letter_0842_002_tr_1_tl_3"/>envoyé des manuscripts, j'aurais
+<lb xml:id="letter_0842_002_tr_1_tl_4"/>bien aimé que lLexim ou Antoinelle
+<lb xml:id="letter_0842_002_tr_1_tl_5"/>les lisent car j'ai un bon
+<lb xml:id="letter_0842_002_tr_1_tl_6"/>sentiment pour eux – probablement
+<lb xml:id="letter_0842_002_tr_1_tl_7"/>parce que je sais que tu les aimes.
+<lb xml:id="letter_0842_002_tr_1_tl_8"/>Je suis terriblement
+<lb xml:id="letter_0842_002_tr_1_tl_9"/>fatiguée. Nous jouons à l'église
+<lb xml:id="letter_0842_002_tr_1_tl_10"/>et au "Volkshaus" ave Trude Widmer
+<lb xml:id="letter_0842_002_tr_1_tl_11"/>qui arrache des choses ép<PAGE tag="superscript">a</PAGE>tantes, mais
+<lb xml:id="letter_0842_002_tr_1_tl_12"/>tout ça je te raconterai quand tu
+<lb xml:id="letter_0842_002_tr_1_tl_13"/>viendras.
+<lb xml:id="letter_0842_002_tr_1_tl_14"/>Au revoir Dominique chérie –
+<lb xml:id="letter_0842_002_tr_1_tl_15"/>je t'embrasse en te souhaitant
+<lb xml:id="letter_0842_002_tr_1_tl_16"/>des jours de fêtes heureux – ainsi
+<lb xml:id="letter_0842_002_tr_1_tl_17"/>qu’ à toute ta famille.
+<lb xml:id="letter_0842_002_tr_1_tl_18"/>An[emarie<pb xml:id="letter_0842_003"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0842_003.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0842_003_tr_1"/>
+            <lb xml:id="letter_0842_003_tr_1_tl_1"/>Mademoiselle Schlumberger
+<lb xml:id="letter_0842_003_tr_1_tl_2"/>7 Rue Las Cases
+<lb xml:id="letter_0842_003_tr_1_tl_3"/>Paris VII<PAGE tag="superscript">e</PAGE></div>
+      </body>
+   </text>
+</TEI>
