@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0844"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0844</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0844_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0844_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0844_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0844_001_tr_1"/>
+            <lb xml:id="letter_0844_001_l_5"/>Meine liebe Dominique,
+<lb xml:id="letter_0844_001_tr_1_tl_41"/>es ist schade, dass Du erst
+<lb xml:id="letter_0844_001_l_1"/>Dienstag kommen kan[st,
+<lb xml:id="letter_0844_001_l_3"/>aber ich verstehe Deine
+<lb xml:id="letter_0844_001_l_4"/>Gründe sehr gut. Ce que concerne
+<lb xml:id="letter_0844_001_l_2"/>mes cours, je m'arrangerai
+<lb xml:id="letter_0844_001_l"/>sans difficultées: Je te chercherai
+<lb xml:id="letter_0844_001_l_6"/>sans autre nouvelle <PAGE tag="continued">de te</PAGE>
+<lb xml:id="letter_0844_001_tr_1_tl_69"/><PAGE tag="continued">chercher</PAGE> à 3.52 [Mardi] hochgestellt à la Gare, et
+<lb xml:id="letter_0844_001_l_9"/>je serai libre en laissant
+<lb xml:id="letter_0844_001_l_7"/>tout simplement les cours
+<lb xml:id="letter_0844_001_l_11"/>du soirs. Si tu peux rester encore
+<lb xml:id="letter_0844_001_l_10"/>mercredi matin fais-le s.t.p.,
+<lb xml:id="letter_0844_001_tr_1_tl_105"/>je peux très bien manquer ces
+<lb xml:id="letter_0844_001_tr_1_tl_109"/>cours. Mercredi après-midi à 2<PAGE tag="superscript">h</PAGE><milestone unit="textregion" xml:id="letter_0844_001_tr_3"/>
+            <pb xml:id="letter_0844_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0844_002.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0844_002_tr_3"/>
+            <lb xml:id="letter_0844_002_l_1"/>il faut que je sois à l'Université,
+<lb xml:id="letter_0844_002_l_2"/>ce sont "Seminar" que je ne
+<lb xml:id="letter_0844_002_tr_3_tl_31"/>peux pas manquer. Mais, si
+<lb xml:id="letter_0844_002_l"/>tu reste plus longtemps, tu
+<lb xml:id="letter_0844_002_l_6"/>m'accomapagné tout simplement
+<lb xml:id="letter_0844_002_l_7"/>(tu te souviens que j'étais avec
+<lb xml:id="letter_0844_002_tr_3_tl_67"/>toi entendre un cour de
+<lb xml:id="letter_0844_002_tr_3_tl_75"/>mathématiques?)
+<lb xml:id="letter_0844_002_tr_3_tl_81"/>Mama qui esérait te voir
+<lb xml:id="letter_0844_002_tr_3_tl_87"/>ne sera malheureusement
+<lb xml:id="letter_0844_002_tr_3_tl_95"/>pas là, elle part dimanche
+<lb xml:id="letter_0844_002_tr_3_tl_99"/>pur l'Alpe.
+<lb xml:id="letter_0844_002_tr_3_tl_105"/>Au revoir chérie – à bientôt!
+<lb xml:id="letter_0844_002_tr_3_tl_109"/>Bien des choses à Sylvie –
+<lb xml:id="letter_0844_002_l_3"/>An[emarie</div>
+      </body>
+   </text>
+</TEI>
