@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0847"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0847</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0847_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0847_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0847_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0847_001_r"/>
+            <lb xml:id="letter_0847_001_l"/>Figur mit Unterschrift, ev. Jack von Reppert?<milestone unit="textregion" xml:id="letter_0847_001_tr_2"/>
+            <lb xml:id="letter_0847_001_tr_2_tl_1"/>Bien des Salututa
+<lb xml:id="letter_0847_001_tr_2_tl_3"/>tions à ta
+<lb xml:id="letter_0847_001_tr_2_tl_4"/>cousine dont
+<lb xml:id="letter_0847_001_l_1"/>j'ai, je ne sais 
+<lb xml:id="letter_0847_001_tr_2_tl_5"/>pas pourquoi,
+<lb xml:id="letter_0847_001_tr_2_tl_7"/>oublié en ce
+<lb xml:id="letter_0847_001_tr_2_tl_8"/>moment le pré
+<lb xml:id="letter_0847_001_tr_2_tl_9"/>nom – C'est à
+<lb xml:id="letter_0847_001_tr_2_tl_10"/>dire <PAGE tag="strikethrough">meme</PAGE> je crois 
+<lb xml:id="letter_0847_001_tr_2_tl_11"/>que c'est aussi
+<lb xml:id="letter_0847_001_tr_2_tl_12"/>Jaqueline? Mein
+<lb xml:id="letter_0847_001_tr_2_tl_13"/>Gehirn ist in der
+<lb xml:id="letter_0847_001_tr_2_tl_14"/>Son[e ausgebrannt!<milestone unit="textregion" xml:id="letter_0847_001_tr_3"/>
+            <lb xml:id="letter_0847_001_tr_3_tl_1"/>21<pb xml:id="letter_0847_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0847_002.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0847_002_tr_1"/>
+            <lb xml:id="letter_0847_002_l"/>Ma chère vieille, quelle chance de
+<lb xml:id="letter_0847_002_l_1"/>te savoir de nouveau dans les
+<lb xml:id="letter_0847_002_l_2"/>pays un peu plus sûres que
+<lb xml:id="letter_0847_002_tr_1_tl_7"/>la Blüemlisalphütte! Si ta mère
+<lb xml:id="letter_0847_002_l_3"/>t'avait vu la-bas! – La carte de
+<lb xml:id="letter_0847_002_tr_1_tl_10"/>Berne est arrivée, timbrée et sans
+<lb xml:id="letter_0847_002_tr_1_tl_11"/>retardissement,tu vois le caractère
+<lb xml:id="letter_0847_002_tr_1_tl_12"/>du peuple Suisse – ajoute Kilian
+<lb xml:id="letter_0847_002_tr_1_tl_14"/>et tu ne manqueras pas d'avoir un
+<lb xml:id="letter_0847_002_tr_1_tl_15"/>tableau absolument admirable!
+<lb xml:id="letter_0847_002_tr_1_tl_16"/>Mercredi je remonte à l'Alpe. As-tu
+<lb xml:id="letter_0847_002_tr_1_tl_17"/>ma letter? je t'embrasse
+<lb xml:id="letter_0847_002_l_4"/>An[emarie</div>
+      </body>
+   </text>
+</TEI>
