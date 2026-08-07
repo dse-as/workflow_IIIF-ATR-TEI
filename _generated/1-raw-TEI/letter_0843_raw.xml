@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0843"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0843</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0843_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0843_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0843_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0843_001_r"/>
+            <lb xml:id="letter_0843_001_l"/>Dominique chérie, je te souhaite
+<lb xml:id="letter_0843_001_l_1"/>une bonne et heureuse
+<lb xml:id="letter_0843_001_l_2"/>nuvelle année – et je 
+<lb xml:id="letter_0843_001_l_3"/>t'attends avec impatience –
+<lb xml:id="letter_0843_001_l_4"/>N'ayant pas ton adresse
+<lb xml:id="letter_0843_001_l_5"/>je ne sais pas quand
+<lb xml:id="letter_0843_001_l_6"/>tu auras cette carte –
+<lb xml:id="letter_0843_001_l_7"/>Envoie-moi l'adresse de 
+<lb xml:id="letter_0843_001_l_8"/>Anne!!! Alle guten Wünsche
+<lb xml:id="letter_0843_001_l_9"/>von meiner ganzen Familie
+<lb xml:id="letter_0843_001_l_10"/>u bitte Deine Eltern u. 
+<lb xml:id="letter_0843_001_l_11"/>Sylvie –
+<lb xml:id="letter_0843_001_l_12"/>An[emarie<milestone unit="textregion" xml:id="letter_0843_001_r_1"/>
+            <lb xml:id="letter_0843_001_l_13"/><PAGE tag="underlined">Suisse</PAGE>
+<lb xml:id="letter_0843_001_l_14"/>Mademaiselle Schlumberger
+<lb xml:id="letter_0843_001_l_15"/>Hotel Bernerhof
+<lb xml:id="letter_0843_001_l_16"/><PAGE tag="underlined">Gstaad</PAGE>
+<lb xml:id="letter_0843_001_l_17"/><PAGE tag="strikethrough">Paris VIIe[hochgestellt</PAGE>
+<lb xml:id="letter_0843_001_l_18"/><PAGE tag="strikethrough">7 Rue Las Cases</PAGE>
+<lb xml:id="letter_0843_001_l_19"/>Oberland</div>
+      </body>
+   </text>
+</TEI>
