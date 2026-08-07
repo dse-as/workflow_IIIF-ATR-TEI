@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0845"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0845</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0845_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0845_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0845_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0845_001_tr_1"/>
+            <lb xml:id="letter_0845_001_tr_1_tl_4"/>Dominique, mon grand chérie, je
+<lb xml:id="letter_0845_001_tr_1_tl_5"/>suis contente de ta lettre, mais
+<lb xml:id="letter_0845_001_tr_1_tl_6"/>pas à cause de Vollmoeller: je
+<lb xml:id="letter_0845_001_tr_1_tl_7"/>n'ai ni plus ni moins de confiance
+<lb xml:id="letter_0845_001_tr_1_tl_8"/>en lui qu'avant – Tu es tellement
+<lb xml:id="letter_0845_001_tr_1_tl_9"/>plein d'enthousiasme pour lui, et
+<lb xml:id="letter_0845_001_tr_1_tl_10"/>je sais bien qu'il peut être
+<lb xml:id="letter_0845_001_tr_1_tl_12"/>charmant, et qu'il est bon, et
+<lb xml:id="letter_0845_001_tr_1_tl_14"/>qu'il est intelligent et que je
+<lb xml:id="letter_0845_001_l"/>l'aime – mais je crois quand même
+<lb xml:id="letter_0845_001_tr_1_tl_17"/>qu'une partie des choses que Papa
+<lb xml:id="letter_0845_001_l_1"/>me dit, sont vraies. Et même si
+<lb xml:id="letter_0845_001_tr_1_tl_20"/>je m'en moque, et bien – Papa                                              1.
+<lb xml:id="letter_0845_001_tr_1_tl_21"/>ne s'en moque pas, et je pourrais
+<lb xml:id="letter_0845_001_tr_1_tl_22"/>revoir tranquillement V. que quand je
+<lb xml:id="letter_0845_001_tr_1_tl_23"/>serai libre: c'est à dire quand
+<lb xml:id="letter_0845_001_tr_1_tl_24"/>j'aurai une position, du travail
+<lb xml:id="letter_0845_001_tr_1_tl_25"/>un "Recht" de vivre indépendamment<pb xml:id="letter_0845_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0845_002.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0845_002_tr_1"/>
+            <lb xml:id="letter_0845_002_tr_1_tl_2"/>D.h. Kurz: ich kann mit V. nicht von
+<lb xml:id="letter_0845_002_tr_1_tl_3"/>Bocken aus verkehren, nur von einer
+<lb xml:id="letter_0845_002_tr_1_tl_4"/>anderen Basis des Lebers aus. Trotzdem:
+<lb xml:id="letter_0845_002_tr_1_tl_5"/>Merci millefois, ma Dominique – tu sais
+<lb xml:id="letter_0845_002_tr_1_tl_6"/>que je l'adore.
+<lb xml:id="letter_0845_002_tr_1_tl_7"/>[space] Etwas Anderes: Es geht Tania u. ihrer
+<lb xml:id="letter_0845_002_tr_1_tl_8"/>Mutter sehr schlecht. Je leur ai envoyé
+<lb xml:id="letter_0845_002_tr_1_tl_9"/>de l'argent – je t'en prie, va tout de suite
+<lb xml:id="letter_0845_002_tr_1_tl_11"/>voir ce que tu peux faire – je crois
+<lb xml:id="letter_0845_002_tr_1_tl_12"/>c'est <PAGE tag="underlined">très</PAGE> nécessaire d'aider! Sois <PAGE tag="underlined">active</PAGE>
+<lb xml:id="letter_0845_002_tr_1_tl_13"/>chérie, n'est-ce pas?
+<lb xml:id="letter_0845_002_tr_1_tl_14"/>je travaille beaucoup.
+<lb xml:id="letter_0845_002_tr_1_tl_15"/>Viele liebe Grüsse Deinen lieben Eltern,
+<lb xml:id="letter_0845_002_tr_1_tl_16"/>u. Küsse Dir
+<lb xml:id="letter_0845_002_tr_1_tl_17"/>Deine Annemarie<pb xml:id="letter_0845_003"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0845_003.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0845_003_r"/>
+            <lb xml:id="letter_0845_003_l"/>Mademoiselle Schlumberger
+<lb xml:id="letter_0845_003_l_1"/>7 Rue Las Cases
+<lb xml:id="letter_0845_003_l_2"/><PAGE tag="underlined">Paris 7</PAGE></div>
+      </body>
+   </text>
+</TEI>
