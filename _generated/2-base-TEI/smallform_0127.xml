@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0127" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0127#">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>smallform_0127</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl corresp="smallform_0127">
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0127_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0127_001.png"/>
+            <milestone unit="textregion" xml:id="p001_r_2"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p001_r_2_tl_1"/>Die Grusinische Heerstraße</p>
+            <p>
+               <lb xml:id="p001_r_2_tl_2"/>Der <hi rendition="#g">Kaukasus</hi> ist eines jener eminent histori 
+               <lb xml:id="p001_r_2_tl_3" break="no"/>schen Gebiete, die es kaum zu einer eigenen Lokal 
+               <lb xml:id="p001_r_2_tl_4" break="no"/>chronik gebracht haben, dafür aber stets Träger der 
+               <lb xml:id="p001_r_2_tl_5"/>größten weltgeschichtlichen Ereignisse waren und deren 
+               <lb xml:id="p001_r_2_tl_6"/>Spuren zurückbehalten. Gräber aus der Stein-, der 
+               <lb xml:id="p001_r_2_tl_7"/>Bronze- und der Eisenzeit deuten auf Zusammen 
+               <lb xml:id="p001_r_2_tl_8" break="no"/>hänge und Wanderungen von Völkern, die wir nicht 
+               <lb xml:id="p001_r_2_tl_9"/>benennen können. Im zweiten Jahrtausend fanden 
+               <lb xml:id="p001_r_2_tl_10"/>die Wanderungen arischer Stämme statt, die aus 
+               <lb xml:id="p001_r_2_tl_11"/>Südrußland kamen, sich an den Ufern des Kaspischen 
+               <lb xml:id="p001_r_2_tl_12"/>Meeres niederließen und dann, vielleicht von Neu 
+               <lb xml:id="p001_r_2_tl_13" break="no"/>ankömmlingen gedrängt, sich durch die Kaukasuspässe 
+               <lb xml:id="p001_r_2_tl_14"/>nach Iran und westwärts nach Kleinasien ergossen. 
+               <lb xml:id="p001_r_2_tl_15"/>Im hellen Licht der Geschichte verfolgen wir sodann 
+               <lb xml:id="p001_r_2_tl_16"/>die Züge der Turkvölker, die Einfälle von Arabern, 
+               <lb xml:id="p001_r_2_tl_17"/>Mongolen, Seldschukken. Das "Eiserne Tor" von 
+               <lb xml:id="p001_r_2_tl_18"/>Derbent, und der Name der Grusinischen oder Geor 
+               <lb xml:id="p001_r_2_tl_19" break="no"/>gischen Heerstraße, "Das Tor des Kaukasus" erinnern 
+               <lb xml:id="p001_r_2_tl_20"/>an die Völkerbewegungen, die diese Gebirge aufge 
+               <lb xml:id="p001_r_2_tl_21" break="no"/>nommen und weitergeleitet haben. Ein genaueres 
+               <lb xml:id="p001_r_2_tl_22"/>Studium der Sprache und Kultur von Osseten, 
+               <lb xml:id="p001_r_2_tl_23"/>Tschetschenzen, Kabardinern, Balkariern und anderer 
+               <lb xml:id="p001_r_2_tl_24"/>kaukasischer Völker wird wohl noch zahlreiche Auf 
+               <lb xml:id="p001_r_2_tl_25" break="no"/>schlüsse darüber bringen. Namen wie die des Tamar 
+               <lb xml:id="p001_r_2_tl_26" break="no"/>lan, des persischen Schah Abbas spielen in der Chro 
+               <lb xml:id="p001_r_2_tl_27" break="no"/>nik dieser Völker eine ebenso bedeutende Rolle wie die 
+               <lb xml:id="p001_r_2_tl_28"/>der einheimischen Fürsten, der Mirian und Tamara.</p>
+            <p>
+               <lb xml:id="p001_r_2_tl_29"/>Als nach langen Kämpfen zwischen Persien und 
+               <lb xml:id="p001_r_2_tl_30"/>Rußland die Russen Georgien endgültig annektierten, 
+               <lb xml:id="p001_r_2_tl_31"/>begannen sie die <hi rendition="#g">Grusinische Heerstraße</hi>
+               <lb xml:id="p001_r_2_tl_32"/>auszubauen, die einzige Verbindung aus dem zentra 
+               <lb xml:id="p001_r_2_tl_33" break="no"/>len Kaukasus nach dem Norden. So wie Graubünden 
+               <lb xml:id="p001_r_2_tl_34"/>im Mittelalter wegen seiner Alpenpässe, war der 
+               <lb xml:id="p001_r_2_tl_35"/>Kaukasus wichtig wegen seiner Heerstraßen. Sie 
+               <lb xml:id="p001_r_2_tl_36"/>tragen die Namen der Völkerschaften, durch deren 
+               <lb xml:id="p001_r_2_tl_37"/>Gebiete sie führen: die Ossetische die Ssuchumer, die 
+               <lb xml:id="p001_r_2_tl_38"/>Georgische – aber mehr als dem lokalen Verkehr die 
+               <lb xml:id="p001_r_2_tl_39" break="no"/>ser Stämme dienten sie dem Durchmarsch der Armeen, 
+               <lb xml:id="p001_r_2_tl_40"/>wie in grauer Vorzeit dem Durchzug wandernder 
+               <lb xml:id="p001_r_2_tl_41"/>Völkerhorden.</p>
+            <p>
+               <lb xml:id="p001_r_2_tl_42"/>Die wichtigste von ihnen ist zweifellos die Gru 
+               <lb xml:id="p001_r_2_tl_43" break="no"/>sinische, die aus Tiflis, der Hauptstadt Georgiens, 
+               <lb xml:id="p001_r_2_tl_44"/>nach Wladikawkas am nördlichen Ausgang des Terek 
+               <lb xml:id="p001_r_2_tl_45" break="no"/>tales hinüberführt. Die Bedeutung der Straße hat sich 
+               <lb xml:id="p001_r_2_tl_46"/>bis heute erhalten. 1814 eröffnete man den Verkehr 
+               <lb xml:id="p001_r_2_tl_47"/>mit Postkutschen, jetzt fährt man im Omnibus und 
+               <lb xml:id="p001_r_2_tl_48"/>Automobil. Damals war der Zweck der Straße in 
+               <lb xml:id="p001_r_2_tl_49"/>erster Linie ein strategischer. Das zaristische Rußland 
+               <lb xml:id="p001_r_2_tl_50"/>trieb keine Nationalitätenpolitik, und die kaukasischen 
+               <lb xml:id="p001_r_2_tl_51"/>Völker waren wenig mehr als Objekte für Ethnogra 
+               <lb xml:id="p001_r_2_tl_52" break="no"/>phen und Folkloristen. In den letzten Jahren hat 
+               <lb xml:id="p001_r_2_tl_53"/>unter dem Einfluß der Leninschen Minoritätenpolitik 
+               <lb xml:id="p001_r_2_tl_54"/>eine rasche nationale Entwicklung dieser Völker ein 
+               <lb xml:id="p001_r_2_tl_55" break="no"/>gesetzt; die Eroberer und Beherrscher des Kaukasus 
+               <lb xml:id="p001_r_2_tl_56"/>sind durch seine Bewohner, Bauern, Hirten, Wein 
+               <lb xml:id="p001_r_2_tl_57" break="no"/>züchter und tatarische Nomaden, verdrängt worden. 
+               <lb xml:id="p001_r_2_tl_58"/>Seither hat die Grusinische Heerstraße ihre Bestim 
+               <lb xml:id="p001_r_2_tl_59" break="no"/>mung gewechselt und dient nun vor allem einem be 
+               <lb xml:id="p001_r_2_tl_60" break="no"/>ständig wachsenden Lokalverkehr.</p>
+            <p>
+               <lb xml:id="p001_r_2_tl_61"/>Auch <hi rendition="#g">Wladikawkas</hi> hat seinen Charakter voll 
+               <lb xml:id="p001_r_2_tl_62"/>ständig geändert und sogar einen neuen Namen er 
+               <lb xml:id="p001_r_2_tl_63" break="no"/>halten. Es war im 18. Jahrhundert als Festung 
+               <lb xml:id="p001_r_2_tl_64"/>gegen die aufsässigen Bergvölker erbaut worden; sein 
+               <lb xml:id="p001_r_2_tl_65"/>Name bedeutet "Beherrscherin des Kaukasus". Jetzt ist 
+               <lb xml:id="p001_r_2_tl_66"/>sie eine autonome Stadt des Nordkaukasischen Gaues 
+               <lb xml:id="p001_r_2_tl_67"/>und heißt nach einem der Männer der Revolution<hi rendition="#g"> 
+                  <lb xml:id="p001_r_2_tl_68"/>Ordjonikidze</hi>. Man fühlt hier zum erstenmal 
+               <lb xml:id="p001_r_2_tl_69"/>die Nähe des Orients. Im alten Stadtteil, am Ufer 
+               <lb xml:id="p001_r_2_tl_70"/>des Terek, steht eine hübsche Moschee. Im Händler 
+               <lb xml:id="p001_r_2_tl_71" break="no"/>viertel trifft man, neben Russen und Osseten, Ar 
+               <lb xml:id="p001_r_2_tl_72" break="no"/>menier, Georgier, Griechen und Juden, zuweilen auch 
+               <lb xml:id="p001_r_2_tl_73"/>Perser. Von hier aus führt die Grusinische Heer 
+               <lb xml:id="p001_r_2_tl_74" break="no"/>straße südwärts, zuerst durch die fruchtbare Ebene 
+               <lb xml:id="p001_r_2_tl_75"/>von Nord=Ossetien und durch die reichen Waldtäler. 
+               <lb xml:id="p001_r_2_tl_76"/>Mais wird hier in großen Mengen angepflanzt, da 
+               <lb xml:id="p001_r_2_tl_77" break="no"/>neben Kartoffeln und Sonnenblumen. Dann gelangt 
+               <lb xml:id="p001_r_2_tl_78"/>man ins "Weidengebirge", einen Gürtel von weichen, 
+               <lb xml:id="p001_r_2_tl_79"/>teppichähnlichen Matten, die an unsere Alpweiden er 
+               <lb xml:id="p001_r_2_tl_80" break="no"/>innern. Hier beginnen die Gebirgsdörfer der 
+               <lb xml:id="p001_r_2_tl_81"/>Osseten, die meistens von alten Wachttürmen um 
+               <lb xml:id="p001_r_2_tl_82" break="no"/>geben sind. Diese Türme – von breiter Basis sich 
+               <lb xml:id="p001_r_2_tl_83"/>pyramidenförmig verjüngend – sind im frühen Mit 
+               <lb xml:id="p001_r_2_tl_84" break="no"/>telalter aus graurötlichem Granitstein gebaut wor
+               <milestone unit="textregion" xml:id="p001_r_1"/>
+               <lb xml:id="p001_r_1_tl_1" break="no"/>den. Man findet sie selbst in den abgelegensten Tälern, 
+               <lb xml:id="p001_r_1_tl_2"/>wo sie oft von einer ersten Talsperre an in kleinen 
+               <lb xml:id="p001_r_1_tl_3"/>Abständen den Weg bis zum Dorf begleiten. Das 
+               <lb xml:id="p001_r_1_tl_4"/>Dorf selbst ist dann von vier oder mehr Türmen ge 
+               <lb xml:id="p001_r_1_tl_5" break="no"/>schützt, die früher den adeligen und kriegerischen 
+               <lb xml:id="p001_r_1_tl_6"/>Familien gehörten. In einigen Tälern besaßen sie 
+               <lb xml:id="p001_r_1_tl_7"/>außerdem Grabtürme, in denen die Leichen ähnlich 
+               <lb xml:id="p001_r_1_tl_8"/>wie in den Totentürmen der Parsi den Elementen 
+               <lb xml:id="p001_r_1_tl_9"/>und den wilden Tieren preisgegeben wurden. Man 
+               <lb xml:id="p001_r_1_tl_10"/>muß aber, um diese äußerst merkwürdigen Nekro 
+               <lb xml:id="p001_r_1_tl_11" break="no"/>polen zu finden, die hochgelegenen Dörfer Ossetiens 
+               <lb xml:id="p001_r_1_tl_12"/>besuchen, an der Heerstraße selbst steht keine.</p>
+            <p>
+               <lb xml:id="p001_r_1_tl_13"/><hi rendition="#g">Balta</hi>, das Dorf, wo zum erstenmal Station 
+               <lb xml:id="p001_r_1_tl_14"/>gemacht wird, liegt schon in dem kleinen autonomen 
+               <lb xml:id="p001_r_1_tl_15"/>Gebiet der <hi rendition="#g">Inguscheten</hi>, einem Tschetschenzen 
+               <lb xml:id="p001_r_1_tl_16" break="no"/>stamm, Bald nachher erreicht man die berühmte Eng 
+               <lb xml:id="p001_r_1_tl_17" break="no"/>des Terek, die Schlucht <hi rendition="#g">Darjal</hi>. Ihre schmalste 
+               <lb xml:id="p001_r_1_tl_18"/>Stelle wird von der 22 Meter langen Teufelsbrücke 
+               <lb xml:id="p001_r_1_tl_19"/>überspannt, von der ebensoviele romantische Legenden 
+               <lb xml:id="p001_r_1_tl_20"/>erzählt werden wie von unserer Teufelsbrücke am 
+               <lb xml:id="p001_r_1_tl_21"/>Gotthard. Am Eingang der Schlucht springt ein 
+               <lb xml:id="p001_r_1_tl_22"/>Felsblock wie eine mächtige Talsperre in den Weg. 
+               <lb xml:id="p001_r_1_tl_23"/>Auf ihm erkennt man noch die Ruinen einer Burg, 
+               <lb xml:id="p001_r_1_tl_24"/>die den Namen der Königin Tamara trägt. Lermon 
+               <lb xml:id="p001_r_1_tl_25" break="no"/>tow hat ihr ein berühmtes Gedicht gewidmet, denn 
+               <lb xml:id="p001_r_1_tl_26"/>zu seiner Zeit war diese Gegend das Reiseziel der 
+               <lb xml:id="p001_r_1_tl_27"/>Petersburger Gesellschaft, die Erholung vom städti 
+               <lb xml:id="p001_r_1_tl_28" break="no"/>schen Leben suchte und romantische Landschaften be 
+               <lb xml:id="p001_r_1_tl_29" break="no"/>vorzugte. Aehnlich wie man auf die Rigi stieg, um 
+               <lb xml:id="p001_r_1_tl_30"/>den Sonnenaufgang zu bewundern, so fuhr man in 
+               <lb xml:id="p001_r_1_tl_31"/>den Kaukasus – eine lange und beschwerliche Unter 
+               <lb xml:id="p001_r_1_tl_32" break="no"/>nehmung –, um das Panorama des <hi rendition="#g">Kasbek</hi> zu ge 
+               <lb xml:id="p001_r_1_tl_33" break="no"/>nießen, das sich nach dem beklemmenden Düster der 
+               <lb xml:id="p001_r_1_tl_34"/>Darjalschlucht plötzlich in großartiger Weise auftut. 
+               <lb xml:id="p001_r_1_tl_35"/>Der Kasbek, eine zerklüftete Pyramide, ist 5000 Meter 
+               <lb xml:id="p001_r_1_tl_36"/>hoch, niedriger als der Elbrus und auch leichter zu be 
+               <lb xml:id="p001_r_1_tl_37" break="no"/>steigen. In dem Inguschetendorf Gwilety findet man 
+               <lb xml:id="p001_r_1_tl_38"/>Führer, die alle seit mehreren Generationen der glei 
+               <lb xml:id="p001_r_1_tl_39" break="no"/>chen Familie angehören.</p>
+            <p>
+               <lb xml:id="p001_r_1_tl_40"/>Wir sind hier schon mitten im sogenannten "Fel 
+               <lb xml:id="p001_r_1_tl_41" break="no"/>sengebirge" und an der Grenze Georgiens. Hier be 
+               <lb xml:id="p001_r_1_tl_42" break="no"/>ginnt der <hi rendition="#g">Gudauer=Perewal</hi>, die eigentliche 
+               <lb xml:id="p001_r_1_tl_43"/>Paßstrecke der Heerstraße. Lawinenmauern schützen 
+               <lb xml:id="p001_r_1_tl_44"/>die Straße und umgeben die kleinen Dörfer wie 
+               <lb xml:id="p001_r_1_tl_45"/>Festungen. Immer noch sieht man die schöngeformten 
+               <lb xml:id="p001_r_1_tl_46"/>Wachttürme, aber es gibt keine Bäume mehr und 
+               <lb xml:id="p001_r_1_tl_47"/>kaum noch Weiden. Schafherden liegen wie weißer 
+               <lb xml:id="p001_r_1_tl_48"/>Flaum auf den Geröllhalden, breite Wasserfälle fallen 
+               <lb xml:id="p001_r_1_tl_49"/>über rötliche Felswände. Das Gebirge besteht fast aus 
+               <lb xml:id="p001_r_1_tl_50" break="no"/>schließlich aus Granit, der im starken Licht rötlich 
+               <lb xml:id="p001_r_1_tl_51"/>aussieht, im Schatten erlischt und stumpf wird wie 
+               <lb xml:id="p001_r_1_tl_52"/>Schiefer. Ein wenig unterhalb der Paßhöhe sprudelt 
+               <lb xml:id="p001_r_1_tl_53"/>eine Mineralquelle. Hirten und Bäuerinnen schöpfen 
+               <lb xml:id="p001_r_1_tl_54"/>das Wasser in Krüge, Kinder bieten es in Bechern 
+               <lb xml:id="p001_r_1_tl_55"/>den Reisenden an. Die Paßhöhe selbst liegt ohne Aus 
+               <lb xml:id="p001_r_1_tl_56" break="no"/>sicht in einer öden Felslandschaft. Dahinter senkt sich 
+               <lb xml:id="p001_r_1_tl_57"/>die Straße in zahlreichen, vorzüglich angelegten Keh 
+               <lb xml:id="p001_r_1_tl_58" break="no"/>ren rasch in die bewohnten Täler <hi rendition="#g">Georgiens</hi>
+               <lb xml:id="p001_r_1_tl_59"/>hinab.</p>
+            <p>
+               <lb xml:id="p001_r_1_tl_60"/>Das erste größere Dorf heißt Passanaur. Es liegt 
+               <lb xml:id="p001_r_1_tl_61"/>geschützt zwischen steilen Abhängen, die mit wunder 
+               <lb xml:id="p001_r_1_tl_62" break="no"/>baren Laubwäldern dicht bedeckt sind. Das Dorf selbst 
+               <lb xml:id="p001_r_1_tl_63"/>ist von einem Gürtel von Blumengärten umgeben, 
+               <lb xml:id="p001_r_1_tl_64"/>Obst gedeiht hier und Getreide, und die Nähe des 
+               <lb xml:id="p001_r_1_tl_65"/>Südens macht sich nach der rauhen Gebirgsfahrt 
+               <lb xml:id="p001_r_1_tl_66"/>überraschend bemerkbar. Georgien ist ganz anders 
+               <lb xml:id="p001_r_1_tl_67"/>als Ossetien. Dort war alles voll von großen Gegen 
+               <lb xml:id="p001_r_1_tl_68" break="no"/>sätzen, die Ebene mit riesigen Maisfeldern grenzte 
+               <lb xml:id="p001_r_1_tl_69"/>unmittelbar ans Gebirge mit seinen Alpweiden und 
+               <lb xml:id="p001_r_1_tl_70"/>die offenen, ausgedehnten Dörfer des Flachlandes 
+               <lb xml:id="p001_r_1_tl_71"/>wurden ohne Zwischenform von den engen, turm 
+               <lb xml:id="p001_r_1_tl_72" break="no"/>bewehrten Gebirgsflecken abgelöst. Georgien ist mil 
+               <lb xml:id="p001_r_1_tl_73" break="no"/>der, fruchtbarer und ausgeglichener. Obwohl es an 
+               <lb xml:id="p001_r_1_tl_74"/>der Grenze der höchsten Erhebungen und eigentlich im 
+               <lb xml:id="p001_r_1_tl_75"/>Herzen des Kaukasus liegt, hat es den Charakter einer 
+               <lb xml:id="p001_r_1_tl_76"/>Mittellandschaft; die Gebirgstäler öffnen sich weit 
+               <lb xml:id="p001_r_1_tl_77"/>und gehen in ein hügeliges Gelände über. Auf fetten 
+               <lb xml:id="p001_r_1_tl_78"/>Weiden sieht man große Vieh= und Schafherden, die 
+               <lb xml:id="p001_r_1_tl_79"/>Getreidefelder machen bald den ersten Reben Platz. 
+               <lb xml:id="p001_r_1_tl_80"/>Man könnte hier von idyllischem Frieden träumen, 
+               <lb xml:id="p001_r_1_tl_81"/>erinnerten nicht die Festungen, Wachttürme und die 
+               <lb xml:id="p001_r_1_tl_82"/>starken Schutzmauern der Städte an eine bewegte und 
+               <lb xml:id="p001_r_1_tl_83"/>blutige Geschichte. Selbst die georgischen Kirchen sind 
+               <lb xml:id="p001_r_1_tl_84"/>mit Türmen und Mauern umgeben und ragen wie 
+               <lb xml:id="p001_r_1_tl_85"/>Festungen auf starken Felsen empor. Am großartig 
+               <lb xml:id="p001_r_1_tl_86" break="no"/>sten ist die Festungskirche von <hi rendition="#g">Ananur</hi>, wo früher 
+               <lb xml:id="p001_r_1_tl_87"/>die Eristawe, die Fürsten von Aragwa, herrschten
+               <milestone unit="textregion" xml:id="p001_r_5"/>
+               <lb xml:id="p001_r_5_tl_1"/>und als Markgrafen Georgien gegen die Einfälle der 
+               <lb xml:id="p001_r_5_tl_2"/>Bergvölker und fremder Heere schützen sollten, was 
+               <lb xml:id="p001_r_5_tl_3"/>ihnen freilich nicht immer gelungen ist.</p>
+            <p>
+               <lb xml:id="p001_r_5_tl_4"/>Hinter Ananur liegt <hi rendition="#g">Mzchet</hi>, heute ein ärm 
+               <lb xml:id="p001_r_5_tl_5" break="no"/>liches Dorf, in alter Zeit aber die ehrwürdige, reli 
+               <lb xml:id="p001_r_5_tl_6" break="no"/>giöse und politische Hauptstadt Georgiens, Residenz 
+               <lb xml:id="p001_r_5_tl_7"/>seiner Zaren und des georgischen Patriarchen. Seine 
+               <lb xml:id="p001_r_5_tl_8"/>Anfänge gehen in sagenhafte Vorzeit zurück. Gräber 
+               <lb xml:id="p001_r_5_tl_9"/>und Ruinen müssen noch untersucht werden, um seine 
+               <lb xml:id="p001_r_5_tl_10"/>Geschichte aufzuhellen. Die Patriarchen von Mzchet 
+               <lb xml:id="p001_r_5_tl_11"/>gehören zu den ältesten christlichen Kirchenfürsten; 
+               <lb xml:id="p001_r_5_tl_12"/>die alte Kathedrale, im 3. Jahrhundert gegründet, 
+               <lb xml:id="p001_r_5_tl_13"/>mehrmals zerstört und wieder aufgebaut, ist eines 
+               <lb xml:id="p001_r_5_tl_14"/>der merkwürdigsten Gotteshäuser, sowohl in histori 
+               <lb xml:id="p001_r_5_tl_15" break="no"/>scher wie architektonischer Hinsicht. Im 5. Jahr 
+               <lb xml:id="p001_r_5_tl_16" break="no"/>hundert verlegten die Zaren von Georgien ihre Resi 
+               <lb xml:id="p001_r_5_tl_17" break="no"/>denz nach <hi rendition="#g">Tiflis</hi>. Seither war Mzchet ein Dorf, 
+               <lb xml:id="p001_r_5_tl_18"/>dessen religiöses Ansehen weiter bestand, dessen Klö 
+               <lb xml:id="p001_r_5_tl_19" break="no"/>ster und Kirchen noch lange von Wallfahrern besucht 
+               <lb xml:id="p001_r_5_tl_20"/>wurden, und in dessen festungsähnlicher Kathedrale 
+               <lb xml:id="p001_r_5_tl_21"/>alle georgischen Zaren begraben wurden, bis die 
+               <lb xml:id="p001_r_5_tl_22"/>letzte Dynastie von den Russen im Jahre 1800 ge 
+               <lb xml:id="p001_r_5_tl_23" break="no"/>stürzt wurde. Wenn man über die hier zusammen 
+               <lb xml:id="p001_r_5_tl_24" break="no"/>strömenden Flüsse Aragwa und Kura' setzt, sieht man 
+               <lb xml:id="p001_r_5_tl_25"/>den kleinen Ort, der von den viel zu großen Türmen 
+               <lb xml:id="p001_r_5_tl_26"/>seiner Kirchen und von den wuchtigen Mauern wie 
+               <lb xml:id="p001_r_5_tl_27"/>ein Kornfeld unter einem Sturm niedergedrückt wird. 
+               <lb xml:id="p001_r_5_tl_28"/>Eine halbe Stunde später erreicht man Tiflis, die 
+               <lb xml:id="p001_r_5_tl_29"/>Hauptstadt Georgiens, wo die Heerstraße endet und 
+               <lb xml:id="p001_r_5_tl_30"/>sich in den hundert kleinen Gassen seiner neuen und 
+               <lb xml:id="p001_r_5_tl_31"/>alten Viertel auflöst. Im Basar treffen sich hundert 
+               <lb xml:id="p001_r_5_tl_32"/>Völker des Kaukasus und des Orients, hundert Spra 
+               <lb xml:id="p001_r_5_tl_33" break="no"/>chen und Religionen. Man steht hier trotz aller 
+               <lb xml:id="p001_r_5_tl_34"/>modernen Tätigkeit an der Schwelle Asiens.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"><hi rendition="#g"> 
+                  <lb xml:id="p001_r_5_tl_35"/>Annemarie Schwarzenbach</hi></p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
