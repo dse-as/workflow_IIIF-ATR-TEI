@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="smallform_0110"
+     type="dseas-smallform">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>smallform_0110</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl corresp="smallform_0110">
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0110_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="smallform">
+            <pb xml:id="smallform_0110_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0110_0001.jpg"/>
+            <milestone unit="textregion" xml:id="smallform_0110_001_tr_1"/>
+            <lb xml:id="smallform_0110_001_tr_1_tl_1"/><PAGE tag="underlined">Eine Totenstadt in Ossetien.</PAGE><CONV tag="p">
+<lb xml:id="smallform_0110_001_tr_1_tl_2"/>Auf einsamen Felskuppen, über dem Talboden, liegen Gruppen von eigen¬
+<lb xml:id="smallform_0110_001_tr_1_tl_3"/>artigen Türmen, die man von weitem für bewohnte Ortschaften halten
+<lb xml:id="smallform_0110_001_tr_1_tl_4"/>könnte: erst beim Näherkommen unterscheidet man die viereckigen Pa¬
+<lb xml:id="smallform_0110_001_tr_1_tl_5"/>godentürme mit ihren pyramidenförmigen Dächern aus Schiefer und
+<lb xml:id="smallform_0110_001_tr_1_tl_6"/>Stein, fensterlos bis auf eine kleine Oeffnung, die am Steilhang über¬
+<lb xml:id="smallform_0110_001_tr_1_tl_7"/>einandergelagert sind, eine höchst sonderbare, stille, scheinbar ver¬
+<lb xml:id="smallform_0110_001_tr_1_tl_8"/>lassene Stadt. – Man erfährt dann von den ossetischen Talbewohnern, dass
+<lb xml:id="smallform_0110_001_tr_1_tl_9"/>es sich um eine Nekropole handelt, wie jedes Dorf sie für seine Toten
+<lb xml:id="smallform_0110_001_tr_1_tl_10"/>besitzt: Die Familien, die in sauberen kleinen Höfen wohnen, und ihr
+<lb xml:id="smallform_0110_001_tr_1_tl_11"/>Dorf mit starken, schöngeformten Wachttürmen umgeben – haben ausserdem
+<lb xml:id="smallform_0110_001_tr_1_tl_12"/>eine Behausung für die Verstorbenen, einen Totenturm. – Man weiss nicht,
+<lb xml:id="smallform_0110_001_tr_1_tl_13"/>wann diese Türme erbaut worden sind – in heidnischer Zeit jedenfalls,
+<lb xml:id="smallform_0110_001_tr_1_tl_14"/>denn die zahlreichen Völkerschaften des Kaukasus sind erst spät, auf
+<lb xml:id="smallform_0110_001_tr_1_tl_15"/>Befehl der zaristischen Regierung, zum Christentum übergetreten, und
+<lb xml:id="smallform_0110_001_tr_1_tl_16"/>bis heute haben sie alte Bräuche heidnischen Ursprungs erhalten und
+<lb xml:id="smallform_0110_001_tr_1_tl_17"/>pflegen sie, wie zeitenweise in den mohammedanischen Moscheen, in ihren
+<lb xml:id="smallform_0110_001_tr_1_tl_18"/>christlichen Kirchen und Kapellen. Die Totenstadt wird heute nicht
+<lb xml:id="smallform_0110_001_tr_1_tl_19"/>mehr benützt – wenigstens wird dies offiziell behauptet – vielleicht ver¬
+<lb xml:id="smallform_0110_001_tr_1_tl_20"/>hält es sich damit wie mit der Blutrache, die im Kaukasus nicht mehr
+<lb xml:id="smallform_0110_001_tr_1_tl_21"/>existieren soll, und von der doch die Bauern, Nachfolger höchst krieges¬
+<lb xml:id="smallform_0110_001_tr_1_tl_22"/>rischer Stämme, noch aus frischer Erinnerung wilde und tragische
+<lb xml:id="smallform_0110_001_tr_1_tl_23"/>Berichte geben...</CONV>
+<lb xml:id="smallform_0110_001_tr_1_tl_24"/>Dr. Annemarie Schwarzenbach</div>
+      </body>
+   </text>
+</TEI>
