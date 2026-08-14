@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0114" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0114#">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>smallform_0114</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl corresp="smallform_0114">
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0114_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0114_0001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p001_tr_1_tl_1"/>1/3. X. 1934 
+               <lb xml:id="p001_tr_1_tl_2"/>Die Stadt.</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_3"/>Wir wohnen auf dem Boden einer Stadt, die sechstausend Jahre 
+               <lb xml:id="p001_tr_1_tl_4"/>alt sein mag. Sie war so gross, dass wir, wohin wir immer blicken, 
+               <lb xml:id="p001_tr_1_tl_5"/>auf Stadtgebiet stossen, und sie hatte soviele Einwohner dass 
+               <lb xml:id="p001_tr_1_tl_6"/>es überliefert ist, der Mongole Hulagu Khan habe 700 000 Mensche 
+               <lb xml:id="p001_tr_1_tl_7"/>umgebracht, als er sie zerstörte.</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_8"/>Wenig Genaues ist über den Umfang dieser alten Stadt bekannt, 
+               <lb xml:id="p001_tr_1_tl_9"/>obwohl wenigstens einige Stellen gefunden wurden, die offenbar 
+               <lb xml:id="p001_tr_1_tl_10"/>zu den frühesten bewohnten Bezirken gehören. An anderen Stellen 
+               <lb xml:id="p001_tr_1_tl_11"/>erkenne[n] wir die Reste von Stadtmauern, den schmalen Kamm der Zita 
+               <lb xml:id="p001_tr_1_tl_12" break="no"/>delle, und einige Erdhügel die aus künstlich emporgew[a]chsenen 
+               <lb xml:id="p001_tr_1_tl_13"/>Schichten bestehen. Aber das ist auch alles, und darüber hinaus 
+               <lb xml:id="p001_tr_1_tl_14"/>ist der Boden der alten Stadt so oft in Acker verwandelt und 
+               <lb xml:id="p001_tr_1_tl_15"/>überpflügt worden, dass nur die herumliegenden Ziegel und Scher 
+               <lb xml:id="p001_tr_1_tl_16" break="no"/>ben zwischen den Stoppeln des abgemähten Korns uns noch an die 
+               <lb xml:id="p001_tr_1_tl_17"/>Stadt erinnern. Und selbst diese könnte man [w]egen ihrer grossen 
+               <lb xml:id="p001_tr_1_tl_18"/>Zahl und Gewöhnlichkeit leicht übersehen.</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_19"/>Gegen Norden wird der Ruinenboden zur Halbwüste, gelb, öde und 
+               <lb xml:id="p001_tr_1_tl_20"/>stauberfüllt. Hier pflegen die Leute in turmförmigen Oefen Ziegel 
+               <lb xml:id="p001_tr_1_tl_21"/>zu brennen, ausserdem breitet ein persischer Friedhof, der so 
+               <lb xml:id="p001_tr_1_tl_23"/>trostlos ist wie alle islamischen <del rend="overstrike">Friedhöfe</del>[add above: Begräbnisplätze], seine lehmfarbigen 
+               <lb xml:id="p001_tr_1_tl_24"/>und türkisgrünen Gräber aus. Der Friedhof endet erst an der 
+               <lb xml:id="p001_tr_1_tl_25"/>Stadtmauer der neuen Stadt, die wie die Zwillingsschwester un 
+               <lb xml:id="p001_tr_1_tl_26" break="no"/>serer alten ist. Eng benachbart liegen sie nebeneinander, und 
+               <lb xml:id="p001_tr_1_tl_27"/>die Mauern beider Städte sind aus denselben rohen, ungebrannten 
+               <lb xml:id="p001_tr_1_tl_28"/>Lehmklumpen aufgeschichtet, runde, hohe, mächtige Wälle die bald 
+               <lb xml:id="p001_tr_1_tl_29"/>vom Wind und Regen angegriffen werden und das Aussehen zer 
+               <lb xml:id="p001_tr_1_tl_30" break="no"/>franster Hügelkämme annehmen.</p>
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0114_0002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p002_tr_1_tl_1"/><hi rendition="#u">Die Stadt.</hi></p>
+            <p>
+               <lb xml:id="p002_tr_1_tl_2"/>Wir wohnen auf dem Gebiet der alten Stadt Rhages. Sie war so 
+               <lb xml:id="p002_tr_1_tl_3"/>gross, dass wir, ringsum blickend, immer wider auf Stadt 
+               <lb xml:id="p002_tr_1_tl_4" break="no"/>gebiet stossen, und niemand kann so genau sagen, wo sie 
+               <lb xml:id="p002_tr_1_tl_5"/>endete, wenn auch wenigstens einige Stellen bekan[n]t sind, die zu 
+               <lb xml:id="p002_tr_1_tl_6"/>den frühesten bewohnten gehört haben mag.</p>
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0114_0003.jpg"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p003_tr_1_tl_1"/>–2–</p>
+            <p>
+               <lb xml:id="p003_tr_1_tl_2"/>Trotzdem ist die Bezeichnung als Zwillingsschwestern ungenau, 
+               <lb xml:id="p003_tr_1_tl_3"/>denn die alte Stadt ist seit siebenhundert Jahren tot, die neue 
+               <lb xml:id="p003_tr_1_tl_4"/>aber hat noch keine Vergangenheit, sie ist jung und voller Leben 
+               <lb xml:id="p003_tr_1_tl_5"/>Und selbst die Bezeichnung als Nachbarstädte möchte ich zurück 
+               <lb xml:id="p003_tr_1_tl_6"/>nehmen, allzu wenig haben die beiden gemeinsam, obwohl ihre 
+               <lb xml:id="p003_tr_1_tl_7"/>Stadtmauern möglicherweise aneinandergrenzen – man kann nicht 
+               <lb xml:id="p003_tr_1_tl_8"/>wissen, wie weit nordwärts die alte Stadt sich erstreckt hat, 
+               <lb xml:id="p003_tr_1_tl_9"/>der grosse Friedhof bedeckt ja heute ihre zu Staub zerfallenen 
+               <lb xml:id="p003_tr_1_tl_10"/>Ruinen.</p>
+            <p>
+               <lb xml:id="p003_tr_1_tl_11"/>Wer auf dem Fall der Stadtmauer steht, kann unten im breiten 
+               <lb xml:id="p003_tr_1_tl_12"/>wasserlosen Graben die Leichen von Eseln, Pferden und Kamelen 
+               <lb xml:id="p003_tr_1_tl_13"/>sehen, sie <del rend="overstrike">lieg</del> verwesen neben weissen Skeletten, die in der 
+               <lb xml:id="p003_tr_1_tl_14"/>Stellung liegen geblieben sind, wie man sie vor einem oder vor 
+               <lb xml:id="p003_tr_1_tl_15"/>vielen Wintern hinuntergeworfen hat: die Füsse – sie waren wohl 
+               <lb xml:id="p003_tr_1_tl_16"/>zusammen geschnürt – nahe beieinander, und die langen Hälse zurück 
+               <lb xml:id="p003_tr_1_tl_17" break="no"/>gebogen. Und man betritt die Stadt durch ein <del rend="overstrike">grünes</del> Stadttor 
+               <lb xml:id="p003_tr_1_tl_18"/>aus grünen, glasierten Kacheln.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p003_tr_1_tl_19"/>Denn auch die neue Stadt schliesst sich durch Nord- und Südtore 
+               <lb xml:id="p003_tr_1_tl_20"/>von der Aussenwelt ab, <PAGE tag="continued">und schläft von vielen Nächen[sic] an Toren</PAGE>
+               <lb xml:id="p003_tr_1_tl_21"/><PAGE tag="continued">und,</PAGE> und <del rend="overstrike">hat</del>[add above: stellt] des Nachts Wachen [add above: aus] <del rend="overstrike">des Nachts</del>, auch wenn es nur noch zum Schein 
+               <lb xml:id="p003_tr_1_tl_22"/>geschieht. Und die Karawanen, die ihren Weg durch das Gebiet des 
+               <lb xml:id="p003_tr_1_tl_23"/>Friedhofs, der Ziegelbrenner und der Ruinen nehmen, müssen durch 
+               <lb xml:id="p003_tr_1_tl_24"/>das grünglänzende Stadttor hindurch, bevor die weisse, blendende 
+               <lb xml:id="p003_tr_1_tl_25"/>und staubige Landstrasse sie aufnimmt. Ja, zwischen beiden Städten 
+               <lb xml:id="p003_tr_1_tl_26"/>befindet sich beständig ein Fall von Staub, der in dichten Wolken 
+               <lb xml:id="p003_tr_1_tl_27"/>über dem Boden schwebt. Von weitem, von den Bergen <del rend="overstrike">ausgeshene,</del></p>
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0114_0004.jpg"/>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p004_tr_1_tl_1"/>–3– 
+               <lb xml:id="p004_tr_1_tl_2"/>aus gesehen, scheint eine grosse Ebene von Rauch erfüllt. 
+               <lb xml:id="p004_tr_1_tl_3"/>Erst am Abend wird die Luft klarer, der Staub verteilt sich, 
+               <lb xml:id="p004_tr_1_tl_4"/>und macht den Farben des dämmerigen Himmels, der spiegelnden 
+               <lb xml:id="p004_tr_1_tl_5"/>Berge, und des Liederscheins eines sehr fernen Horizontes Platz. 
+               <lb xml:id="p004_tr_1_tl_6"/>Selbst die leblose Halbwüste belebt sich um diese Stunde, 
+               <lb xml:id="p004_tr_1_tl_7"/>wenn man auch immer zu <del rend="overstrike">[illegible]</del> wissen glaubt, dass ihre Farbe 
+               <lb xml:id="p004_tr_1_tl_8"/>nur für kurze Zeit geliehen ist, so wie der Goldglanz der 
+               <lb xml:id="p004_tr_1_tl_9"/>Lüstermalereien auf alten islamischen Gefässen, der auch nur so 
+               <lb xml:id="p004_tr_1_tl_10"/>lange den täuschenden Eindruck <del rend="overstrike">von wahrem Edelmetall </del>hervorruft 
+               <lb xml:id="p004_tr_1_tl_11"/>es handle sich um echtes Edelmetall, als die Sonne darauf fällt 
+               <lb xml:id="p004_tr_1_tl_12"/>und eine bestimmte Spiegelung und Brechung der Strahlen erfolgt. 
+               <lb xml:id="p004_tr_1_tl_13"/>Rötlich und sanft-violett, kobaltblau und ein samtiges Türkis 
+               <lb xml:id="p004_tr_1_tl_14" break="no"/>grün gleiten wellenförmig über den ebenen Boden, und manchmal 
+               <lb xml:id="p004_tr_1_tl_15"/>legt sich darüber wie ein Riese der Schatten der Berge von 
+               <lb xml:id="p004_tr_1_tl_16"/>Norden. Aber diese Farben werden nicht etwa von der Dunkelheit 
+               <lb xml:id="p004_tr_1_tl_17"/>abgelöst, nein, dazwischen schiebt sich die tote Stunde. Sie ist 
+               <lb xml:id="p004_tr_1_tl_18"/>von jener Leprafarbe die man auf Strassen, Feldern, Mauern, und 
+               <lb xml:id="p004_tr_1_tl_19"/>Häusern Persiens wiederfindet. Die verbreitetste <del rend="overstrike">Farbe des Land</del>
+               <lb xml:id="p004_tr_1_tl_20"/>und eigentümliche Farbe des Landes, die Farbe des Staubs und des 
+               <lb xml:id="p004_tr_1_tl_21"/>Kamelhaares, des rohen Lehms, der gebrannten Tonkrüge, der Sol 
+               <lb xml:id="p004_tr_1_tl_22" break="no"/>daten. Es könnte leicht sein, dass jemand, der auf der Strasse 
+               <lb xml:id="p004_tr_1_tl_23"/>zwischen den beiden Städten von der toten Stunde überrascht 
+               <lb xml:id="p004_tr_1_tl_24"/>würde, und mit ansehen müsste, wie alles ringsum von seinen 
+               <lb xml:id="p004_tr_1_tl_25"/>geliehenen Farben entkleidet zurücksinkt in das stumpfe Gelb 
+               <lb xml:id="p004_tr_1_tl_26"/>bis zum Horizont und ringsum auf allen Seiten – dass er sich 
+               <lb xml:id="p004_tr_1_tl_27"/>nicht mehr entschliessen könnte, weiterzugehen, sondern gleichsam 
+               <lb xml:id="p004_tr_1_tl_28"/>auf der Stelle zur Salzsäule erstarrte vor Traurigkeit.</p>
+            <pb xml:id="p005" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0114_0005.jpg"/>
+            <milestone unit="textregion" xml:id="p005_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p005_tr_1_tl_1"/>–4–</p>
+            <p>
+               <lb xml:id="p005_tr_1_tl_2"/>Uebrigens verhalten sich auch die Kamele, sonst nüchterne, 
+               <lb xml:id="p005_tr_1_tl_3"/>fleissige, an ein einförmiges Leben gewöhnte Tiere, um diese 
+               <lb xml:id="p005_tr_1_tl_4"/>Stunde so dass man sie für verzaubert halten könnte. Weil 
+               <lb xml:id="p005_tr_1_tl_5"/>nämlich die Karawanenhöfe der Stadt nicht ausreichen, die 
+               <lb xml:id="p005_tr_1_tl_6"/>grosse Zahl der Karawanen über Nacht zu beherbergen, wird jeden 
+               <lb xml:id="p005_tr_1_tl_7"/>Abend ein<del rend="overstrike">e grosse</del> Teil davon ausserhalb der Stadtmauern auf 
+               <lb xml:id="p005_tr_1_tl_8"/>die kärgliche Weide getrieben<PAGE tag="continued">, dort, in der Halbwüste, verbringen</PAGE>
+               <lb xml:id="p005_tr_1_tl_9"/><PAGE tag="continued">dann die Tiere die Nacht</PAGE>. Es ist zwar bekannt, dass die meisten 
+               <lb xml:id="p005_tr_1_tl_10"/>Karawanen gerade des Nachts unterwegs zu sein pflegen, und die 
+               <lb xml:id="p005_tr_1_tl_11"/>Strasse ist deshalb von Anbruch der Dunkelheit bis zum frühen 
+               <lb xml:id="p005_tr_1_tl_12"/>Morgen von langen Kamelzügen eingenommen. Trotzdem bleiben 
+               <lb xml:id="p005_tr_1_tl_13"/>aber noch ganze Herden von Kamelen übrig, Herden zu hundert 
+               <lb xml:id="p005_tr_1_tl_14"/>Stück oder noch grössere, die man abends vor der Stadt antrifft 
+               <lb xml:id="p005_tr_1_tl_15"/>und die hier die Nacht verbringen. Man sieht sie umhergehen, 
+               <lb xml:id="p005_tr_1_tl_16"/>die Hälse so feierlich gereckt, als kümmerte sie der unfrucht 
+               <lb xml:id="p005_tr_1_tl_17" break="no"/>bare Boden nicht, und dann sich niederlegen. Andere, deren Vor 
+               <lb xml:id="p005_tr_1_tl_18" break="no"/>derfuss gefesselt wurde, hinken unentschlossen als wollten sie 
+               <lb xml:id="p005_tr_1_tl_19"/>sich bäumen wie Denkmalspferde. Und aller Silhouetten, zwar 
+               <lb xml:id="p005_tr_1_tl_20"/>grotesk und leicht entstellt, nehmen gegen den rötlichen und 
+               <lb xml:id="p005_tr_1_tl_21"/>schwefelgelben Horizont einen vergrösserten Masstab an und 
+               <lb xml:id="p005_tr_1_tl_22"/>verharren darin in sonderbar trauerndem Hochmut.</p>
+            <p>
+               <lb xml:id="p005_tr_1_tl_23"/>Sie gehören halb der lebenden Stadt an, halb der Ruine. Und währ 
+               <lb xml:id="p005_tr_1_tl_24" break="no"/>rend der Nacht, die nun fällt, bleibt sonst nichts mehr übrig 
+               <lb xml:id="p005_tr_1_tl_25"/>was beide Städte miteinander verbinden könnte. Nein, so gross 
+               <lb xml:id="p005_tr_1_tl_26"/>und feindselig ist jetzt die Trennung, dass gleich hinter dem 
+               <lb xml:id="p005_tr_1_tl_27"/>Stadttor die Finsternis, Verlassenheit und Weite der Wüste 
+               <lb xml:id="p005_tr_1_tl_28"/>beginnt, während man sich drinnen mit Oellampen und wärmenden 
+               <lb xml:id="p005_tr_1_tl_29"/>Kohlenbecken, Gesang und Bratspiessen auf offenen Feuern erst 
+               <lb xml:id="p005_tr_1_tl_30"/>recht des Lebens zu erfreuen Weiss!</p>
+            <pb xml:id="p006" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0114_0006.jpg"/>
+            <milestone unit="textregion" xml:id="p006_tr_2"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p006_tr_2_tl_1"/>–5– 
+               <lb xml:id="p006_tr_2_tl_2"/>–5– 
+               <lb xml:id="p006_tr_2_tl_3"/><del rend="overstrike">Doch man bemerkt bald in dieser latuen Rüstigkeit, 
+                  <lb xml:id="p006_tr_2_tl_5"/>Die Leute machen die Nacht zum Tag, sie küm[m]ern sich nicht 
+                  <lb xml:id="p006_l"/>um eine r vernünftige Regelung der Stunden, der 
+                  <lb xml:id="p006_l_1"/>Mahlzeiten, des Schlafs.</del>
+               <lb xml:id="p006_l_2"/>Es ist schwierig es sich in das Gedächtnis zu rufen, 
+               <lb xml:id="p006_l_3"/>dass jene tote Stadt vor 700 Jahren ein dem 
+               <lb xml:id="p006_tr_2_tl_23"/>Treiben der Lebendigen nicht [bis hier überlagenernde Handschrift] 
+               <lb xml:id="p006_tr_2_tl_4"/>Es ist schwierig, und fast unmöglich, es sich vorzustellen, dass 
+               <lb xml:id="p006_tr_2_tl_6"/>in der Stadt, die nunmehr tot ist, vor siebenhundert Jahren ein 
+               <lb xml:id="p006_tr_2_tl_9"/>diesem nicht und unähnliches <del rend="overstrike">Treiben</del> Wesen getrieben wurde, mit 
+               <lb xml:id="p006_tr_2_tl_12"/>Freudenfeuern und bescheidenen Oellampen, dass man Freudenfeuer 
+               <lb xml:id="p006_tr_2_tl_15"/>und bescheidene Oellampen entzündete, Wein ausschenkte, die 
+               <lb xml:id="p006_l_4"/>Gebote des Islam brach, und im Monat des Martyriums mit Schmerze 
+               <lb xml:id="p006_tr_2_tl_24" break="no"/>schreien und Geiselung des bei Kerbela gefallenen Hossein 
+               <lb xml:id="p006_tr_2_tl_25"/>gedachte. Es gab den Bazar, den Eseltreiber und den Wasserverkäu 
+               <lb xml:id="p006_tr_2_tl_26" break="no"/>fer, und es gab das ununterbrochene Feilschen und Handeltreiben[,] 
+               <lb xml:id="p006_tr_2_tl_27"/>das heute Bazargassen, Markt-und Karawanenhöfe vom frühen Morgen 
+               <lb xml:id="p006_tr_2_tl_28"/>an erfüllt wie das an- und abschwellende Brausen der Stimmen in 
+               <lb xml:id="p006_tr_2_tl_29"/>den Räumen einer Börse. So laut geht es heute auf dem Markt der 
+               <lb xml:id="p006_tr_2_tl_30"/>Stadt zu, dass man nicht versteht, wie die Leute dieses Getriebe 
+               <lb xml:id="p006_tr_2_tl_31"/>der Hölle auch nur einen Tag aushalten können odhne[sic] schweren 
+               <lb xml:id="p006_tr_2_tl_32"/>Schaden zu nehmen. Doch setzen sie es ihr ganzes Leben lang 
+               <lb xml:id="p006_tr_2_tl_33"/>fort. Gleich nach Sonnenaufgang beginnt schon der Zug der Land 
+               <lb xml:id="p006_tr_2_tl_34" break="no"/>leute mit ihren Lastkamelen und Packeseln in die Stadt. Und 
+               <lb xml:id="p006_tr_2_tl_35"/>mit Rufen und Zungenschnalzen steuern sie durch die rasch 
+               <lb xml:id="p006_tr_2_tl_36"/>wachsende Menge auf das schmale <del rend="overstrike">Eingangst</del>[add inline: T]or des Marktes zu, wo 
+               <lb xml:id="p006_tr_2_tl_37"/>der Pförtner ihnen Geldstück abnimmt und ihnen mit ihren 
+               <lb xml:id="p006_tr_2_tl_38"/>Waren Einlass gewährt. Da sichern sie sich ihren Platz, und 
+               <lb xml:id="p006_tr_2_tl_39"/>Haufen von Tomaten, Gurken, Paprikas und Pfefferschoten, Kürbissen 
+               <lb xml:id="p006_tr_2_tl_40"/>Granatäpfeln, Wassermelonen und vielen anderen Gewürzen und Ge 
+               <lb xml:id="p006_tr_2_tl_41" break="no"/>müsen fremder Art wachsen sogleich in die Höhe. Auf <del rend="overstrike">hohen</del>
+               <lb xml:id="p006_tr_2_tl_42"/>Stangen werden Sacktücher ausgespannt, um die Sonne abzuwehren, 
+               <lb xml:id="p006_tr_2_tl_43"/>Den Hof umgehen kühlere Hallen, da schreien und übervorteilen 
+               <lb xml:id="p006_tr_2_tl_44"/>sich die Händler und Käufer, und ihre Stimmen brechen sich an 
+               <lb xml:id="p006_tr_2_tl_45"/>den Wänden wie Wasser das vom Regen getrübt ist.</p>
+            <pb xml:id="p007" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0114_0007.jpg"/>
+            <milestone unit="textregion" xml:id="p007_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p007_tr_1_tl_1"/>–6– 
+               <lb xml:id="p007_tr_1_tl_2"/>Zwischen ihnen, über Körbe und aufgestapeltes Grünzeug <del rend="overstrike">hinweg</del>, 
+               <lb xml:id="p007_tr_1_tl_3"/>setzen die eifrigen Theeverkäufer in Sprüngen hinweg, 
+               <lb xml:id="p007_tr_1_tl_4"/>und auf der schiefen Ebene ihrer Hand tanzt das Messingbrett 
+               <lb xml:id="p007_tr_1_tl_5"/>mit den geschweiften Theegläschen, den leeren und den gefüllten, 
+               <lb xml:id="p007_tr_1_tl_6"/>und klappern die Tschaistücke. Am Abend, wenn die Gehilfen 
+               <lb xml:id="p007_tr_1_tl_7"/>Lampen an langen Stöcken wie Fackeln hereintragen und unter den 
+               <lb xml:id="p007_tr_1_tl_8"/>schwankenden Sacktüchern aufhängen, hat sich nichts verändert, 
+               <lb xml:id="p007_tr_1_tl_9"/>und die Esel, die getreten und gestossen mit <del rend="overstrike">vor Angst</del> weit hera[us] 
+               <lb xml:id="p007_tr_1_tl_10"/>hängenden Ohren durch die Menge trotten um den Ausgang zu errei 
+               <lb xml:id="p007_tr_1_tl_11" break="no"/>chen, werden morgen mit frischgefüllten Säcken den gleichen 
+               <lb xml:id="p007_tr_1_tl_12"/>Weg zurücktrotten. <PAGE tag="continued">Höchstens der Freitag vergönnt Mensch und Tier </PAGE>
+               <lb xml:id="p007_tr_1_tl_13"/><PAGE tag="continued">ein wenig Ruhe,</PAGE> Höchstens Am Freitag kann man auf ein wenig 
+               <lb xml:id="p007_tr_1_tl_14"/>Ruhe hoffen, doch ist auch sie unvollständig und vielen Störun 
+               <lb xml:id="p007_tr_1_tl_15" break="no"/>gen unterworfen, denn viele Juden wohnen in der Stadt und 
+               <lb xml:id="p007_tr_1_tl_16"/>schliessen ihre Werkstätten und Kaufläden erst am Samstag, und 
+               <lb xml:id="p007_tr_1_tl_17"/>die Christen, die sie an Zahl noch übertreffen, kehren sich 
+               <lb xml:id="p007_tr_1_tl_19"/>weder an den muslimischen noch den hebräischen <del rend="overstrike">Feiertäg</del>[add above: Brauch] und 
+               <lb xml:id="p007_tr_1_tl_20"/>Feiern <del rend="overstrike">erst</del> den Sonntag nach ihrer Weise. 
+               <lb xml:id="p007_tr_1_tl_21"/>Es ist nur <del rend="overstrike">natür</del> allzu verständlich, dass diese Tatsachen den 
+               <lb xml:id="p007_tr_1_tl_22"/>eigentlichen Wert des Feiertags herabsetzen, und geeignet sind, 
+               <lb xml:id="p007_tr_1_tl_23"/>nicht nur den Glauben an die Gott wohlgefällige Ordnung von 
+               <lb xml:id="p007_tr_1_tl_24"/>Arbeit und Musse zu erschüttern, sondern darüber hinaus <del rend="overstrike">die</del>
+               <lb xml:id="p007_tr_1_tl_25"/>den Zustand der wohlverdienten und notwendigen Musse überhaupt 
+               <lb xml:id="p007_tr_1_tl_26"/>in Frage zu stellen. Und wie jede allzu grosse Ungebundenheit, 
+               <lb xml:id="p007_tr_1_tl_27"/>führt auch diese Zwangslosigkeit dazu, das Leben als willkür 
+               <lb xml:id="p007_tr_1_tl_28" break="no"/>lich, seine Aufgaben als zufällig, seine Gesetze als Notbehelf 
+               <lb xml:id="p007_tr_1_tl_29"/>ohne innere Geltung zu empfinden, und was kann davon die Folge</p>
+            <pb xml:id="p008" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0114_0008.jpg"/>
+            <milestone unit="textregion" xml:id="p008_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p008_tr_1_tl_1"/>–7– 
+               <lb xml:id="p008_tr_1_tl_2"/>wenn nicht eine sich bis zur Entmutigung steigernde 
+               <lb xml:id="p008_tr_1_tl_3"/>Gleichgültigkeit?</p>
+            <p>
+               <lb xml:id="p008_tr_1_tl_4"/>Vielleicht möchte man annehmen, dass die Nachbarschaft der to 
+               <lb xml:id="p008_tr_1_tl_5" break="no"/>ten Stadt, die von der lebenden abgelöst wurde, ein kräftiger Bew 
+               <lb xml:id="p008_tr_1_tl_6" break="no"/>weis für die unerschütterliche Konsequenz des Lebens sei, und dass 
+               <lb xml:id="p008_tr_1_tl_7"/>der Glanz des von der Sonne beschienenen Stadttores über die 
+               <lb xml:id="p008_tr_1_tl_8"/>grosse Zahl der armseligen, aus rohem Lehm gemachten Gräber 
+               <lb xml:id="p008_tr_1_tl_9"/>triumphieren müsse. Jeder, der aus dem Bereich der ewig mit Staub 
+               <lb xml:id="p008_tr_1_tl_10"/>erfüllten Landstrasse, der wie Dünen wandernden Ruinen, dem dich 
+               <lb xml:id="p008_tr_1_tl_11" break="no"/>ten Rauch der Ziegelbrenner kommend die Stadt betritt und un 
+               <lb xml:id="p008_tr_1_tl_12" break="no"/>tertaucht im Getriebe der Bazargassen, der Droschken und Reiter, 
+               <lb xml:id="p008_tr_1_tl_13"/>der Handwerker und Strassenmusikanten, wird diesen Triumph mit 
+               <lb xml:id="p008_tr_1_tl_14"/>Genugtuung und Erleichterung empfinden! Er wird <del rend="overstrike">zu</del> sich sagen: 
+               <lb xml:id="p008_tr_1_tl_15"/>"Die Mongolen haben die Stadt zerstört, [del: und] ihre Einwohner [del: erseh] 
+               <lb xml:id="p008_tr_1_tl_16"/>erschlagen, ihr Handwerk, das berühmteste Töpferhandwerk des Orients, 
+               <lb xml:id="p008_tr_1_tl_17"/>zunichte gemacht. Aber darüber hinaus haben sie es nicht ver 
+               <lb xml:id="p008_tr_1_tl_18" break="no"/>mocht, den fortlaufenden Impuls des Lebens aneiner[sic] einzigen Stel 
+               <lb xml:id="p008_tr_1_tl_19" break="no"/>le zu unterbrechen."</p>
+            <p>
+               <lb xml:id="p008_tr_1_tl_20"/>Aber gerade dieser Gedanke birgt die grösste Gefahr, denn wir 
+               <lb xml:id="p008_tr_1_tl_21"/>wissen wohl, dass es keinem Handwerker der neuen Stadt gelingen 
+               <lb xml:id="p008_tr_1_tl_22"/>könnte, ein Gefäss herzustellen welches an Harmonie und Glanz 
+               <lb xml:id="p008_tr_1_tl_23"/>der Farbe mit dem einfachsten uns erhaltenen Gefäss jener frühen 
+               <lb xml:id="p008_tr_1_tl_24"/>Zeit wetteifern könnte – was aber ihre vortrefflichsten Erzeugnis 
+               <lb xml:id="p008_tr_1_tl_25" break="no"/>se betrifft, die unser Entzücken hervorrufen, so müssen wir zu 
+               <lb xml:id="p008_tr_1_tl_26" break="no"/>geben, dass wir diese Stufen eines nahezu vollkommenen Geschmacks 
+               <lb xml:id="p008_tr_1_tl_27"/>nie wieder erreichen werden.</p>
+            <pb xml:id="p009" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0114_0009.jpg"/>
+            <milestone unit="textregion" xml:id="p009_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p009_tr_1_tl_1"/>–6– 
+               <lb xml:id="p009_tr_1_tl_2"/><PAGE tag="continued">Und draussen, am Stadttar, kann er sich im offenen</PAGE>
+               <lb xml:id="p009_tr_1_tl_3"/><PAGE tag="continued">Tschaikhane niederlassen, Thee trinken u. der Ruhe</PAGE>
+               <lb xml:id="p009_tr_1_tl_4"/><PAGE tag="continued">pflegen. Oder der Strasse folgen, die zum Dunkel</PAGE>
+               <lb xml:id="p009_tr_1_tl_5"/><PAGE tag="continued">der Bazargassen führt.</PAGE></p>
+         </div>
+      </body>
+   </text>
+</TEI>
