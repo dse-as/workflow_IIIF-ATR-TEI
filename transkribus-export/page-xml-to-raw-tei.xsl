@@ -340,7 +340,7 @@
           <xsl:param name="pos" select="1"/>
           <xsl:on-completion select="$line"/>
           <!-- as we are printing additional characters to the string, the array is reversed to process the string from the back to the front -->
-          <xsl:variable name="currentMap" select="$lineTags => array:reverse() => array:get($pos)" as="map(*)"/>
+          <xsl:variable name="currentMap" select="$lineTags => array:get($pos)" as="map(*)"/>
           <xsl:variable name="regex" select="'(.{'||$currentMap?offset||'})(.{'||$currentMap?length||'})(.*)'"/>
           <xsl:variable name="posIncr" select="$pos + 1"/>
           <!--<xsl:comment>POS {$pos}</xsl:comment>
@@ -451,19 +451,28 @@
   <!-- ========================================
        | local functions                      |
        ======================================== -->
-  
+
   <xsl:function name="local:parse-PAGE-tag-syntax" as="array(*)">
     <xsl:param name="input"/>
+  
     <xsl:variable name="maps" as="map(*)*">
-      <xsl:for-each select="tokenize($input,'\}')[matches(.,'\w')]">
+      <xsl:for-each select="tokenize($input, '\}')[matches(., '\w')]">
         <xsl:map>
           <xsl:map-entry key="'tag'" select="(. => tokenize(';'))[normalize-space()][last()] => substring-before(':')"/>
-          <xsl:map-entry key="'offset'" select=". => substring-after('offset:') => substring-before(';')"/>
-          <xsl:map-entry key="'length'" select=". => substring-after('length:') => substring-before(';')"/>
+          <xsl:map-entry key="'offset'" select="xs:integer(. => substring-after('offset:') => substring-before(';'))"/>
+          <xsl:map-entry key="'length'" select="xs:integer( . => substring-after('length:') => substring-before(';'))"/>
         </xsl:map>
       </xsl:for-each>
     </xsl:variable>
-    <xsl:sequence select="array { $maps }"/>
+  
+    <!-- Sort by offset, rightmost first. -->
+    <xsl:sequence select="array {
+      sort(
+        $maps,
+        (),
+        function($m) { $m?offset }
+      ) => reverse()
+    }"/>
   </xsl:function>
   
   <xsl:function name="local:get-facs-url" as="xs:string">
