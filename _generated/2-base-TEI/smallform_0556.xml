@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0556" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0556#">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>smallform_0556</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl corresp="smallform_0556">
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0556_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0556_0001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p001_tr_1_tl_1"/>Notizen zum Thema: 
+               <lb xml:id="p001_tr_1_tl_2"/><hi rendition="#u">Marokkanische Jugend</hi></p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_3"/>Commandant Jacques Faure, Chef du Service de la Jeunesse et des Sports 
+               <lb xml:id="p001_tr_1_tl_4"/>an Maroc (Rabat)</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_5"/><hi rendition="#u">Situation der Jugend in Marokko</hi>, nach der Niederlage, Som[m]er 1940:</p>
+            <p>
+               <lb xml:id="p001_l_1"/>Es existierten:</p>
+            <p>
+               <lb xml:id="p001_l"/>1. Scoutisme Français 
+               <lb xml:id="p001_l_3"/>2. L'Action Catholique de la Jeunesse Française 
+               <lb xml:id="p001_tr_1_tl_9"/>3. Eclaireurs 
+               <lb xml:id="p001_tr_1_tl_10"/>4. Unionistes 
+               <lb xml:id="p001_tr_1_tl_11"/>5. Guides</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_7"/>} 5 Gruppen v. Scouts 
+               <lb xml:id="p001_l_2"/>u. Action Catholiqué</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_12"/>Der im Okt. 40 gegr. Service de la Jeunesse gründet, zur Sammlung der 
+               <lb xml:id="p001_tr_1_tl_13"/>führungsbürftigen Jugend, die Gardes <hi rendition="#u">Masculines du Maroc</hi>. 
+               <lb xml:id="p001_tr_1_tl_14"/>Diese Bewegung gab auch den schon existierenden Jugendgruppen einen 
+               <lb xml:id="p001_tr_1_tl_15"/>neuen Antrieb. Die Gesamtzahl der Mitgl. der Jugendbewegungen stieg 
+               <lb xml:id="p001_tr_1_tl_16"/>bis Juni 41 vom 5600 auf 12000, im OKT. 41 15000 (Knaben u. Mädchen) 
+               <lb xml:id="p001_tr_1_tl_17"/>1. Mai 42 – 17340</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_19"/><hi rendition="#u">"Ecole des Cadres"</hi>:</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_18"/>Erster Kurs im Dez. 1940, der Ecole des Cadres du 
+               <lb xml:id="p001_tr_1_tl_20"/>Service de la Jeunesse.</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_21"/>Etwa 30 Teilnehmer an den 3 Monats-Kursen, die 
+               <lb xml:id="p001_tr_1_tl_22"/>folg. Fächer umfassen:</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_23"/>Formation physique: 3 Std. täglich Körperkultur, indiv. u. kollekt. Sport. 
+               <lb xml:id="p001_tr_1_tl_24"/>" morale: 
+               <lb xml:id="p001_tr_1_tl_25"/>" intellectuelle: 
+               <lb xml:id="p001_l_4"/>" administrative: Buchführung 
+               <lb xml:id="p001_l_5"/>" civique: conférences sur l'ocum du Manéchal – 
+               <lb xml:id="p001_tr_1_tl_30"/>Revolution Nationale – Resultats 
+               <lb xml:id="p001_tr_1_tl_31"/>" artistique : Chorgesang, atte Tànne, ath Kostüme, Theater 
+               <lb xml:id="p001_tr_1_tl_32"/>" artisanale. 
+               <lb xml:id="p001_l_6"/>" du caractère: Séjour de la bled. [?] Ein Marsch v. 68 km – 
+               <lb xml:id="p001_tr_1_tl_35"/>Nachtmärsche – Dügenthalt in Bergen v. Fez 
+               <lb xml:id="p001_tr_1_tl_36"/>" sociale: durch Offizier der Affaires Indigènes.</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_37"/>Freiwillige, welche die Kurse du Service mitgemacht haben, – 
+               <lb xml:id="p001_tr_1_tl_38"/>Professoren, 
+               <lb xml:id="p001_tr_1_tl_39"/>u. die Spartslehrer u. Monitoren des Service – 
+               <lb xml:id="p001_tr_1_tl_40"/>helfen, das Program[m] der neuen Education Generale durchzuführen. 
+               <lb xml:id="p001_tr_1_tl_41"/>Jede Schule muss Sport einführen. Borotra war in Maroc. 
+               <lb xml:id="p001_tr_1_tl_42"/>Equippen u. Alhletengruppen <del rend="overstrike">vor</del> obligatorisch.</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_43"/>Viel wert auf Autorität der Leiter, Monitoren, etc.</p>
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0556_0002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_r_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p002_l"/><hi rendition="#u">2</hi></p>
+            <milestone unit="textregion" xml:id="p002_r"/>
+            <p>
+               <lb xml:id="p002_tr_2_tl_1"/>300 Sportclubs etc. wurden auf 35 reduziert.</p>
+            <p>
+               <lb xml:id="p002_tr_2_tl_2"/>Von 4000 jungen Leuten, die sportsärztlich untersucht wurden, 
+               <lb xml:id="p002_tr_2_tl_3"/>sind 88% f. alle Sportsarten fähig</p>
+            <p>
+               <lb xml:id="p002_tr_2_tl_4"/>10 % für gewisse –</p>
+            <p>
+               <lb xml:id="p002_tr_2_tl_5"/>2% unfähig</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space] </p>
+            <p>
+               <lb xml:id="p002_tr_2_tl_6"/>Athletik u. Schwim[m]en wurden f. alle unter 21 J. obligatorisch erklärt.</p>
+            <p>
+               <lb xml:id="p002_tr_2_tl_7"/>Zeitung "Jeunesse"</p>
+            <p>
+               <lb xml:id="p002_tr_2_tl_8"/>M. Borotra ist Comissair Général à l' Education Général et aux Sports</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space] </p>
+            <p>
+               <lb xml:id="p002_tr_2_tl_9"/><hi rendition="#u">Alpinismus u. Skie</hi> im Moyen u. Haut Atlas</p>
+            <p>
+               <lb xml:id="p002_tr_2_tl_10"/>Zentren gegr. im Massif du Toubkal (Tachedirt) u. 
+               <lb xml:id="p002_tr_2_tl_11"/>im Moyen Atlas, region du Bou Iblane (Taffert)</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space]</p>
+            <p>
+               <lb xml:id="p002_tr_2_tl_12"/>Miniaturflugzeuge: in Casablanca – 
+               <lb xml:id="p002_tr_2_tl_13"/>(Modelle) (modèles réduits)</p>
+            <p>
+               <lb xml:id="p002_tr_2_tl_14"/>Segelflug wird bei Meknés u. Petitjean ausprobiert.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space] </p>
+            <p>
+               <lb xml:id="p002_tr_1_tl_1"/><hi rendition="#u">Es fehlt:</hi>
+               <lb xml:id="p002_tr_2_tl_15"/>Sportplätze müssen gegründet, Terrain erworben werden. 
+               <lb xml:id="p002_tr_2_tl_16"/>In allen gr. Städten Athletik- Fürstall- Rugby- Basket- Volley-Ball 
+               <lb xml:id="p002_tr_2_tl_17"/>In Marrakech Schim[m]bassin 
+               <lb xml:id="p002_tr_2_tl_18"/>Pelota in Meknés – Stadion</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p002_tr_2_tl_19"/><hi rendition="#u">Camp-Bouchaut</hi> : "Chantier de la Jeunesse" (Arbeitsdienst) 
+               <lb xml:id="p002_tr_2_tl_20"/>"Die <del rend="overstrike">enk</del> Schüler-Chefs – erhalten in eimer "Choc"-Gruppe 
+               <lb xml:id="p002_tr_2_tl_21"/>3 Monate Training.</p>
+            <p>
+               <lb xml:id="p002_tr_2_tl_22"/>Sektion der Oeuvres Sociales Jeunesse, seit April 41</p>
+            <p>
+               <lb xml:id="p002_tr_2_tl_23"/>Die Ecole Sociale Jeunesse: Kurse in Recht, Medizin, u. Sozialkunde</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space] </p>
+            <p>
+               <lb xml:id="p002_tr_2_tl_24"/><hi rendition="#u">Herbergen</hi>: Relais de la Jeunesse.</p>
+            <p>
+               <lb xml:id="p002_tr_2_tl_25"/>Skiehütten in Tizi N' Tretten u. 
+               <lb xml:id="p002_tr_2_tl_26"/>an Gordj Doumorgue (Chalets de ski)</p>
+            <p>
+               <lb xml:id="p002_l_1"/>"Jeunesse": wöchentlich ein Leitartikel des chef Faure –</p>
+         </div>
+      </body>
+   </text>
+</TEI>
