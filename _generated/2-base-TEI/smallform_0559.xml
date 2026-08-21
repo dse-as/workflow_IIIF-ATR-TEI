@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0559" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0559#">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>smallform_0559</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl corresp="smallform_0559">
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0559_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0559_0001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p001_tr_1_tl_1"/><hi rendition="#u">Maroc. </hi> Bibliographie:</p>
+            <p>
+               <lb xml:id="p001_l"/>Maroc, Les Guides Bleus (Hachette) par Prosper Ricard, Chef du Service 
+               <lb xml:id="p001_tr_1_tl_4"/>des Arts indigenes au Maroc.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">[space]</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_5"/>Publications du Service des Antiquites du Maroc</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">[space] </p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_6"/>Joseph Bourrilly, Eléments d'Ethnographie Marocaine 
+               <lb xml:id="p001_tr_1_tl_7"/>(Paris 1952, Librairie coloniale et Orientaliste Larose)</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">[space]</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_8"/>Louis Brunot, Premiers Conseils, (Ecole du Livre,Rabat,1934)</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">[space] </p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_9"/><hi rendition="#u">Archives Marocaines</hi> (Residence Generale de la Rep. Francaise au Maroc) 
+               <lb xml:id="p001_tr_1_tl_10"/>Vol. XXXII, Histoire du Maroc par Ahmed Ben Khaled 
+               <lb xml:id="p001_tr_1_tl_11"/>En-Naciri Es-Slaoul.</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_12"/>Band I-VIII enthält: Notes Sur Rabat et Chella, v. Mercier.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">[space] </p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_13"/>Henri <hi rendition="#g">Basset</hi>: Essai sur la Litterature des Berbères 
+               <lb xml:id="p001_tr_1_tl_14"/>(Alger 1920)</p>
+            <p>
+               <lb xml:id="p001_l_1"/>Werke v. René Basset: Contes populaires berbères, u. Nouveaux Contes berbères (1887 
+               <lb xml:id="p001_tr_1_tl_17"/>1889)</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space]</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_18"/>E.-F. <hi rendition="#g">Gautier</hi>: Genséric, Roi des Vandales. (Ds[sic] la Bibliothéque Historiqu[lost] 
+               <lb xml:id="p001_tr_1_tl_19"/>Payot, Paris 1935</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_20"/>" L'islamisation de l'Afrique du Nord. Les Siecles obscurs du 
+               <lb xml:id="p001_tr_1_tl_21"/>Maghreb.</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_22"/>" Le Sahara (1928) etc etc</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">[space] </p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_23"/>Harris, Le Maroc disparu</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_24"/>Basset et Lévi-Provencal: Chella, une nécropole mérinide. Paris chez Larose 
+               <lb xml:id="p001_tr_1_tl_25"/>1922</p>
+         </div>
+      </body>
+   </text>
+</TEI>
