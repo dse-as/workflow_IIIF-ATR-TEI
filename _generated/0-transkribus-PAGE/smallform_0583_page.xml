@@ -1,0 +1,988 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<validation-wrapper>
+   <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+      <Metadata>
+         <Creator>prov=READ-COOP:name=TrHtr:version=2.25.0:model_id=51170:date=10_04_2025_10:34</Creator>
+         <Created>2025-03-31T17:37:23.962+02:00</Created>
+         <LastChange>2025-04-10T10:44:30.761+02:00</LastChange>
+         <TranskribusMetadata docId="7715515"
+                              pageId="94287302"
+                              pageNr="1"
+                              tsid="240326936"
+                              status="IN_PROGRESS"
+                              userId="295817"
+                              imgUrl="https://files.transkribus.eu/Get?id=BVRLFYWKLWTWFFACNGSYXGTM&amp;fileType=view"
+                              xmlUrl="https://files.transkribus.eu/Get?id=KUEDWRBBUCSSTYWNQMVJVDAL"
+                              imageId="78895555"/>
+      </Metadata>
+      <Page imageFilename="smallform_0583_001.jpg"
+            imageWidth="3827"
+            imageHeight="5669">
+         <ReadingOrder>
+            <OrderedGroup id="ro_1744274670762" caption="Regions reading order">
+               <RegionRefIndexed index="0" regionRef="r"/>
+               <RegionRefIndexed index="1" regionRef="r_9"/>
+            </OrderedGroup>
+         </ReadingOrder>
+         <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="80,660 887,660 909,3548 80,3548"/>
+            <TextLine id="r_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="166,778 812,787 811,733 733,723 564,745 521,717 165,720"/>
+               <Baseline points="170,767 214,764 259,764 304,764 349,764 394,764 438,764 483,764 528,767 573,767 617,767 662,767 707,767 752,767 797,770 814,767"/>
+               <TextEquiv>
+                  <Unicode>Neues Leben in Marokko</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="461,839 800,844 831,837 830,801 738,794 713,812 633,790 566,812 540,797 460,807"/>
+               <Baseline points="465,823 510,823 555,823 600,826 644,826 689,826 734,826 779,826 823,829 832,829"/>
+               <TextEquiv>
+                  <Unicode>A. Sch. \g\Rabat\:g\, im Juli</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_3" custom="readingOrder {index:2;}">
+               <Coords points="150,878 864,881 841,838 558,857 501,834 149,837"/>
+               <Baseline points="155,865 200,862 244,862 289,859 334,862 379,862 423,862 468,865 513,865 558,865 603,868 647,865 692,865 737,868 782,865 826,868 865,865"/>
+               <TextEquiv>
+                  <Unicode>\p\Bevor ich Lissabon verließ, um nach Französisch¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_4" custom="readingOrder {index:3;}">
+               <Coords points="111,914 860,917 847,879 111,878"/>
+               <Baseline points="116,904 146,898 191,898 235,895 280,895 325,895 370,898 414,898 459,898 504,898 549,901 594,901 638,901 683,898 728,901 773,901 817,901 862,901"/>
+               <TextEquiv>
+                  <Unicode>Marokko zu fliegen, zeigten mir portugiesische Jugend¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_5" custom="readingOrder {index:4;}">
+               <Coords points="111,954 866,953 844,912 111,914"/>
+               <Baseline points="116,937 152,934 197,931 241,931 286,928 331,928 376,928 420,928 465,931 510,931 555,934 600,934 644,934 689,934 734,934 779,934 823,934 868,934"/>
+               <TextEquiv>
+                  <Unicode>führer eine Reihe von Exemplaren der Wochenzeitung</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_6" custom="readingOrder {index:5;}">
+               <Coords points="111,984 863,981 846,941 111,954"/>
+               <Baseline points="116,973 149,967 194,967 238,967 283,964 328,961 373,964 417,964 462,964 507,967 552,967 597,967 641,967 686,967 731,967 776,967 820,970 865,967"/>
+               <TextEquiv>
+                  <Unicode>„Jeunesse“, die in Rabat erscheint und das offizielle</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_7" custom="readingOrder {index:6;}">
+               <Coords points="111,1012 866,1011 840,977 111,983"/>
+               <Baseline points="116,1006 152,1000 197,1000 241,1000 286,997 331,997 376,997 420,997 465,997 510,1000 555,1000 600,1000 644,1000 689,997 734,1000 779,1000 823,1000 868,1000"/>
+               <TextEquiv>
+                  <Unicode>Organ des Jugend- und Sportdienstes in Marokko</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_8" custom="readingOrder {index:7;}">
+               <Coords points="105,1048 864,1048 847,1009 105,1013"/>
+               <Baseline points="110,1038 149,1035 194,1032 238,1029 283,1029 328,1029 373,1029 417,1029 462,1032 507,1032 552,1032 597,1032 641,1032 686,1032 731,1032 776,1032 820,1035 865,1032"/>
+               <TextEquiv>
+                  <Unicode>ist. Ich fand darin Bilder, die das Herz eines Schwei¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_9" custom="readingOrder {index:8;}">
+               <Coords points="108,1090 860,1076 860,1049 108,1055"/>
+               <Baseline points="113,1071 146,1068 191,1065 235,1065 280,1062 325,1062 370,1062 414,1065 459,1065 504,1065 549,1065 594,1065 638,1065 683,1068 728,1065 773,1065 817,1068 862,1068"/>
+               <TextEquiv>
+                  <Unicode>zers höher schlagen lassen: Prächtige, in Frühnebel</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_10" custom="readingOrder {index:9;}">
+               <Coords points="105,1116 866,1109 859,1073 105,1087"/>
+               <Baseline points="110,1107 152,1101 197,1098 241,1098 286,1098 331,1098 376,1098 420,1098 465,1101 510,1098 555,1098 600,1098 644,1098 689,1098 734,1101 779,1098 823,1101 868,1101"/>
+               <TextEquiv>
+                  <Unicode>getauchte Berge, felsige, zum Klettern einladende</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_11" custom="readingOrder {index:10;}">
+               <Coords points="105,1143 869,1147 860,1108 105,1117"/>
+               <Baseline points="110,1137 155,1134 200,1134 244,1131 289,1131 334,1131 379,1131 423,1131 468,1131 513,1131 558,1131 603,1131 647,1131 692,1131 737,1131 782,1131 826,1134 871,1137"/>
+               <TextEquiv>
+                  <Unicode>Gipfel, Schluchten, grüne Täler mit friedlich in Mul¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_12" custom="readingOrder {index:11;}">
+               <Coords points="105,1187 866,1183 866,1147 815,1144 105,1144"/>
+               <Baseline points="110,1173 152,1167 197,1167 241,1167 286,1164 331,1164 376,1164 420,1164 465,1164 510,1164 555,1164 600,1164 644,1164 689,1164 734,1167 779,1167 823,1167 868,1167"/>
+               <TextEquiv>
+                  <Unicode>den gebetteten Tälern, Rebenterrassen, Burgruinen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_13" custom="readingOrder {index:12;}">
+               <Coords points="105,1215 864,1215 864,1184 105,1188"/>
+               <Baseline points="110,1203 155,1200 200,1200 244,1200 289,1197 334,1197 379,1197 423,1197 468,1200 513,1197 558,1197 603,1200 647,1200 692,1200 737,1200 782,1200 826,1200 865,1203"/>
+               <TextEquiv>
+                  <Unicode>und in der Sonne gleißende Schneefelder. Nur die</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_14" custom="readingOrder {index:13;}">
+               <Coords points="105,1243 860,1242 853,1210 105,1215"/>
+               <Baseline points="110,1238 146,1235 191,1232 235,1232 280,1232 325,1229 370,1229 414,1232 459,1229 504,1229 549,1232 594,1229 638,1232 683,1229 728,1232 773,1229 817,1232 862,1235"/>
+               <TextEquiv>
+                  <Unicode>kühn geschnittenen Gesichter der Berber unter ihren</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_15" custom="readingOrder {index:14;}">
+               <Coords points="108,1277 857,1279 857,1240 108,1246"/>
+               <Baseline points="113,1271 143,1268 188,1265 232,1265 277,1265 322,1265 367,1265 411,1265 456,1265 501,1265 546,1265 591,1265 635,1265 680,1265 725,1265 770,1265 814,1268 859,1265"/>
+               <TextEquiv>
+                  <Unicode>Turbanen und spitzen Kapuzen oder die Silhouette</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_16" custom="readingOrder {index:15;}">
+               <Coords points="114,1312 866,1314 866,1276 114,1286"/>
+               <Baseline points="119,1304 152,1301 197,1298 241,1298 286,1298 331,1298 376,1298 420,1298 465,1298 510,1298 555,1298 600,1298 644,1298 689,1298 734,1298 779,1298 823,1301 868,1298"/>
+               <TextEquiv>
+                  <Unicode>eines schönen Nomadenmädchens verrieten, daß diese</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_17" custom="readingOrder {index:16;}">
+               <Coords points="111,1346 850,1351 864,1315 112,1313"/>
+               <Baseline points="116,1340 149,1334 194,1334 238,1331 283,1331 328,1331 373,1331 417,1331 462,1331 507,1331 552,1331 597,1331 641,1331 686,1331 731,1331 776,1331 820,1334 865,1331"/>
+               <TextEquiv>
+                  <Unicode>Aufnahmen aus einem herrlichen Gebirgsland nicht</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_18" custom="readingOrder {index:17;}">
+               <Coords points="102,1375 599,1365 863,1390 864,1348 103,1355"/>
+               <Baseline points="107,1370 152,1367 197,1367 241,1367 286,1364 331,1364 376,1364 420,1367 465,1367 510,1364 555,1367 600,1364 644,1367 689,1364 734,1364 779,1364 823,1367 865,1370"/>
+               <TextEquiv>
+                  <Unicode>aus Europa stammten, und zum ersten Mal nahm</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_19" custom="readingOrder {index:18;}">
+               <Coords points="114,1415 873,1417 873,1382 794,1370 114,1380"/>
+               <Baseline points="119,1403 158,1403 202,1400 247,1400 292,1400 337,1400 382,1397 426,1397 471,1400 516,1400 561,1397 606,1400 650,1397 695,1397 740,1400 785,1400 829,1400 874,1400"/>
+               <TextEquiv>
+                  <Unicode>Marokko, nahmen der Mittlere und der Hohe Atlas</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_20" custom="readingOrder {index:19;}">
+               <Coords points="108,1448 860,1450 860,1416 795,1409 108,1414"/>
+               <Baseline points="113,1438 146,1435 191,1432 235,1432 280,1432 325,1432 370,1432 414,1432 459,1429 504,1432 549,1432 594,1432 638,1432 683,1432 728,1432 773,1432 817,1432 862,1432"/>
+               <TextEquiv>
+                  <Unicode>für mich verführerische Gestalt an. Weiter in der</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_21" custom="readingOrder {index:20;}">
+               <Coords points="108,1488 867,1479 867,1449 108,1450"/>
+               <Baseline points="113,1471 152,1468 197,1468 241,1465 286,1465 331,1465 376,1465 420,1465 465,1465 510,1465 555,1465 600,1465 644,1465 689,1465 734,1465 779,1465 823,1465 868,1465"/>
+               <TextEquiv>
+                  <Unicode>Zeitschrift blätternd, fand ich einige vorzügliche Re¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_22" custom="readingOrder {index:21;}">
+               <Coords points="114,1517 866,1515 867,1479 115,1488"/>
+               <Baseline points="119,1507 152,1501 197,1501 241,1498 286,1498 331,1498 376,1498 420,1498 465,1498 510,1498 555,1498 600,1498 644,1498 689,1498 734,1498 779,1498 823,1498 868,1501"/>
+               <TextEquiv>
+                  <Unicode>portagen über die portugiesische Jugendorganisation,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_23" custom="readingOrder {index:22;}">
+               <Coords points="102,1544 863,1543 842,1508 102,1516"/>
+               <Baseline points="107,1537 152,1537 197,1534 241,1534 286,1534 331,1531 376,1531 420,1531 465,1534 510,1534 555,1534 600,1531 644,1534 689,1531 734,1531 779,1531 823,1534 865,1537"/>
+               <TextEquiv>
+                  <Unicode>deren Zentren, Schulen und Lager kürzlich vom Chef</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_24" custom="readingOrder {index:23;}">
+               <Coords points="105,1582 872,1573 859,1548 768,1539 105,1545"/>
+               <Baseline points="110,1573 113,1573 158,1567 202,1567 247,1567 292,1567 337,1567 382,1567 426,1567 471,1567 516,1564 561,1567 606,1567 650,1564 695,1564 740,1567 785,1564 829,1567 874,1567"/>
+               <TextEquiv>
+                  <Unicode>der Jugend Marokkos, dem französischen Kommandan¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_25" custom="readingOrder {index:24;}">
+               <Coords points="111,1615 866,1614 855,1574 111,1582"/>
+               <Baseline points="116,1606 152,1603 197,1600 241,1600 286,1600 331,1600 376,1600 420,1600 465,1600 510,1600 555,1600 600,1600 644,1600 689,1600 734,1600 779,1597 823,1600 868,1603"/>
+               <TextEquiv>
+                  <Unicode>ten Jacques Faure, besucht worden waren. Und neben</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_26" custom="readingOrder {index:25;}">
+               <Coords points="108,1639 867,1645 867,1616 785,1607 108,1617"/>
+               <Baseline points="113,1638 152,1635 197,1635 241,1632 286,1632 331,1635 376,1632 420,1632 465,1632 510,1632 555,1632 600,1632 644,1632 689,1632 734,1632 779,1632 823,1632 868,1635"/>
+               <TextEquiv>
+                  <Unicode>den jungen Portugiesen in ihren schmucken Uniformen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_27" custom="readingOrder {index:26;}">
+               <Coords points="108,1692 863,1681 856,1643 108,1650"/>
+               <Baseline points="113,1674 149,1671 194,1668 238,1668 283,1665 328,1665 373,1665 417,1665 462,1665 507,1665 552,1665 597,1665 641,1665 686,1665 731,1665 776,1665 820,1665 865,1665"/>
+               <TextEquiv>
+                  <Unicode>grünen Hemden und braunen Sportshosen, erkannt</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_28" custom="readingOrder {index:27;}">
+               <Coords points="111,1717 860,1709 860,1683 111,1688"/>
+               <Baseline points="116,1707 146,1704 191,1701 235,1701 280,1701 325,1701 370,1701 414,1701 459,1701 504,1701 549,1701 594,1698 638,1698 683,1698 728,1701 773,1698 817,1701 862,1698"/>
+               <TextEquiv>
+                  <Unicode>man, gewissermaßen Schulter an Schulter mit ihnen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_29" custom="readingOrder {index:28;}">
+               <Coords points="111,1748 863,1741 852,1708 111,1713"/>
+               <Baseline points="116,1740 149,1737 194,1734 238,1734 283,1734 328,1734 373,1734 417,1734 462,1731 507,1734 552,1731 597,1731 641,1734 686,1734 731,1734 776,1734 820,1734 865,1734"/>
+               <TextEquiv>
+                  <Unicode>ihre Altersgenossen in Marokko: Junge Franzosen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_30" custom="readingOrder {index:29;}">
+               <Coords points="111,1782 857,1783 847,1745 111,1746"/>
+               <Baseline points="116,1773 143,1770 188,1770 232,1767 277,1767 322,1767 367,1767 411,1767 456,1767 501,1767 546,1767 591,1767 635,1767 680,1767 725,1767 770,1767 814,1767 859,1767"/>
+               <TextEquiv>
+                  <Unicode>Berber und Araber, in Pfadfinderkleidung, in der</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_31" custom="readingOrder {index:30;}">
+               <Coords points="108,1821 863,1812 863,1780 108,1781"/>
+               <Baseline points="113,1806 149,1803 194,1803 238,1803 283,1800 328,1800 373,1800 417,1800 462,1800 507,1800 552,1800 597,1800 641,1800 686,1797 731,1800 776,1800 820,1800 865,1797"/>
+               <TextEquiv>
+                  <Unicode>neuen Sportstracht der „Gardes“, andere in der Uni</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_32" custom="readingOrder {index:31;}">
+               <Coords points="111,1850 871,1857 866,1808 112,1814"/>
+               <Baseline points="116,1838 158,1838 202,1835 247,1835 292,1835 337,1832 382,1832 426,1832 471,1835 516,1832 561,1832 606,1835 650,1832 695,1832 740,1832 785,1832 829,1832 874,1829"/>
+               <TextEquiv>
+                  <Unicode>form des Arbeitsdienstes, noch andere im einheimi¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_33" custom="readingOrder {index:32;}">
+               <Coords points="108,1894 263,1877 304,1891 402,1882 448,1892 448,1846 291,1856 254,1844 216,1853 182,1837 108,1851"/>
+               <Baseline points="113,1874 137,1871 182,1871 226,1868 271,1868 316,1868 361,1868 405,1871 450,1871"/>
+               <TextEquiv>
+                  <Unicode>schen Turban oder Fez.\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_34" custom="readingOrder {index:33;}">
+               <Coords points="150,1922 872,1922 873,1883 151,1894"/>
+               <Baseline points="155,1919 158,1919 202,1916 247,1916 292,1916 337,1916 382,1916 426,1913 471,1916 516,1916 561,1913 606,1913 650,1913 695,1913 740,1910 785,1913 829,1913 874,1913"/>
+               <TextEquiv>
+                  <Unicode>\p\Ich erfuhr so zum erstenmal, daß auch Marokko</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_35" custom="readingOrder {index:34;}">
+               <Coords points="114,1967 858,1963 847,1922 114,1931"/>
+               <Baseline points="119,1955 143,1952 188,1949 232,1949 277,1949 322,1949 367,1949 411,1949 456,1949 501,1949 546,1949 591,1946 635,1946 680,1946 725,1949 770,1946 814,1946 859,1949"/>
+               <TextEquiv>
+                  <Unicode>seine Jugendbewegung besitzt, eine Bewegung, die sie</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_36" custom="readingOrder {index:35;}">
+               <Coords points="108,1993 875,1991 875,1965 108,1971"/>
+               <Baseline points="113,1988 116,1988 161,1985 205,1985 250,1982 295,1982 340,1982 385,1982 429,1982 474,1982 519,1982 564,1982 608,1982 653,1979 698,1979 743,1979 788,1979 832,1979 877,1979"/>
+               <TextEquiv>
+                  <Unicode>in einer bunten und lebendigen Vielfalt von Gruppen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_37" custom="readingOrder {index:36;}">
+               <Coords points="108,2030 869,2022 869,1998 108,2003"/>
+               <Baseline points="113,2021 155,2018 200,2018 244,2018 289,2018 334,2015 379,2015 423,2015 468,2015 513,2015 558,2015 603,2015 647,2015 692,2015 737,2015 782,2015 826,2015 871,2012"/>
+               <TextEquiv>
+                  <Unicode>und Tätigkeiten manifestiert, aber von einem einzigen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_38" custom="readingOrder {index:37;}">
+               <Coords points="111,2063 863,2062 864,2022 111,2027"/>
+               <Baseline points="116,2053 149,2050 194,2050 238,2050 283,2050 328,2050 373,2047 417,2050 462,2050 507,2050 552,2047 597,2047 641,2047 686,2047 731,2047 776,2044 820,2047 865,2050"/>
+               <TextEquiv>
+                  <Unicode>Geist der Kameradschaft, Opferbereitschaft und Diszi¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_39" custom="readingOrder {index:38;}">
+               <Coords points="111,2104 863,2095 863,2065 825,2054 111,2065"/>
+               <Baseline points="116,2089 149,2083 194,2083 238,2083 283,2083 328,2083 373,2083 417,2083 462,2080 507,2083 552,2080 597,2080 641,2080 686,2080 731,2080 776,2080 820,2080 865,2077"/>
+               <TextEquiv>
+                  <Unicode>plin erfüllt scheint. Und obwohl die Jugend in Ma¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_40" custom="readingOrder {index:39;}">
+               <Coords points="108,2132 631,2115 834,2135 860,2130 861,2090 108,2108"/>
+               <Baseline points="113,2119 146,2119 191,2116 235,2116 280,2116 325,2116 370,2116 414,2116 459,2116 504,2116 549,2113 594,2113 638,2113 683,2113 728,2113 773,2110 817,2113 862,2113"/>
+               <TextEquiv>
+                  <Unicode>rokko ihren besonderen, nationalen Charakter haben</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_41" custom="readingOrder {index:40;}">
+               <Coords points="108,2159 719,2166 863,2155 864,2130 108,2132"/>
+               <Baseline points="113,2155 149,2152 194,2152 238,2152 283,2152 328,2149 373,2149 417,2149 462,2149 507,2149 552,2149 597,2149 641,2149 686,2146 731,2146 776,2146 820,2146 865,2146"/>
+               <TextEquiv>
+                  <Unicode>muß, wie die portugiesische Jugend den ihren, war er</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_42" custom="readingOrder {index:41;}">
+               <Coords points="107,2200 859,2196 860,2157 108,2159"/>
+               <Baseline points="113,2188 143,2185 188,2185 232,2185 277,2185 322,2185 367,2185 411,2182 456,2182 501,2182 546,2182 591,2182 635,2182 680,2179 725,2182 770,2179 814,2179 862,2181"/>
+               <TextEquiv>
+                  <Unicode>doch leicht, erfreuliche Vergleiche zwischen den Jugend¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_43" custom="readingOrder {index:42;}">
+               <Coords points="108,2231 863,2231 863,2199 108,2200"/>
+               <Baseline points="113,2221 149,2221 194,2218 238,2218 283,2218 328,2215 373,2215 417,2215 462,2215 507,2215 552,2215 597,2215 641,2215 686,2215 731,2215 776,2212 820,2212 865,2212"/>
+               <TextEquiv>
+                  <Unicode>organisationen in diesen und manchen anderen Län¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_44" custom="readingOrder {index:43;}">
+               <Coords points="111,2261 866,2258 866,2232 803,2224 111,2230"/>
+               <Baseline points="116,2253 152,2253 197,2253 241,2250 286,2250 331,2250 376,2250 420,2250 465,2250 510,2250 555,2247 600,2247 644,2247 689,2247 734,2247 779,2247 823,2247 868,2247"/>
+               <TextEquiv>
+                  <Unicode>dern zu ziehen: Die Zukunftshoffnung eines jeden</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_45" custom="readingOrder {index:44;}">
+               <Coords points="108,2305 867,2296 851,2257 108,2267"/>
+               <Baseline points="113,2286 152,2286 197,2283 241,2286 286,2286 331,2283 376,2283 420,2283 465,2283 510,2283 555,2283 600,2280 644,2280 689,2280 734,2280 779,2280 823,2280 868,2280"/>
+               <TextEquiv>
+                  <Unicode>Landes ist auf seine Jugend gegründet, und wenn ein</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_46" custom="readingOrder {index:45;}">
+               <Coords points="108,2334 868,2325 869,2294 109,2305"/>
+               <Baseline points="113,2322 155,2319 200,2319 244,2316 289,2316 334,2319 379,2316 423,2316 468,2316 513,2316 558,2316 603,2313 647,2313 692,2313 737,2313 782,2313 826,2313 871,2313"/>
+               <TextEquiv>
+                  <Unicode>gleicher Geist des gegenseitigen Verständnisses und</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_47" custom="readingOrder {index:46;}">
+               <Coords points="108,2368 897,2349 823,2321 108,2334"/>
+               <Baseline points="113,2355 119,2355 164,2352 208,2352 253,2352 298,2352 343,2352 388,2352 432,2352 477,2349 522,2349 567,2349 611,2346 656,2349 701,2349 746,2346 791,2346 835,2346 880,2349 899,2345"/>
+               <TextEquiv>
+                  <Unicode>der Freundschaft die jungen Leute beseelt, so ist dies</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_48" custom="readingOrder {index:47;}">
+               <Coords points="111,2390 898,2395 862,2355 111,2368"/>
+               <Baseline points="116,2388 161,2388 205,2385 250,2385 295,2385 340,2385 385,2385 429,2385 474,2385 519,2382 564,2382 608,2382 653,2382 698,2379 743,2382 788,2379 832,2382 877,2382 900,2380"/>
+               <TextEquiv>
+                  <Unicode>eine Zukunftshoffnung für alle, deren wir heute</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_49" custom="readingOrder {index:48;}">
+               <Coords points="107,2429 152,2441 194,2430 219,2439 245,2427 286,2441 320,2425 382,2441 383,2402 366,2397 328,2402 309,2393 296,2401 272,2392 240,2405 108,2397"/>
+               <Baseline points="113,2421 158,2421 202,2421 247,2418 292,2418 337,2418 382,2421 385,2421"/>
+               <TextEquiv>
+                  <Unicode>dringlich bedürfen.\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_50" custom="readingOrder {index:49;}">
+               <Coords points="153,2483 872,2477 873,2421 671,2454 499,2427 153,2448"/>
+               <Baseline points="158,2468 202,2465 247,2465 292,2465 337,2465 382,2465 426,2465 471,2465 516,2462 561,2462 606,2462 650,2462 695,2462 740,2459 785,2459 829,2462 874,2462"/>
+               <TextEquiv>
+                  <Unicode>\p\Marokko befand sich, als ich ankam, im friedlichen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_51" custom="readingOrder {index:50;}">
+               <Coords points="102,2505 872,2504 856,2471 102,2478"/>
+               <Baseline points="107,2501 113,2501 158,2498 202,2501 247,2501 292,2501 337,2498 382,2498 426,2498 471,2498 516,2495 561,2495 606,2498 650,2495 695,2495 740,2495 785,2495 829,2495 874,2498"/>
+               <TextEquiv>
+                  <Unicode>und schimmernden Gewand der Erntezeit. Ich fuhr</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_52" custom="readingOrder {index:51;}">
+               <Coords points="105,2536 879,2541 869,2503 105,2508"/>
+               <Baseline points="110,2534 119,2534 164,2534 208,2534 253,2531 298,2534 343,2534 388,2531 432,2531 477,2531 522,2531 567,2531 611,2531 656,2528 701,2528 746,2528 791,2528 835,2528 880,2528"/>
+               <TextEquiv>
+                  <Unicode>durch die reichen Getreideebenen von Meknes, durch</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_53" custom="readingOrder {index:52;}">
+               <Coords points="111,2580 866,2572 848,2537 111,2544"/>
+               <Baseline points="116,2570 152,2567 197,2567 241,2567 286,2567 331,2567 376,2567 420,2564 465,2564 510,2564 555,2564 600,2564 644,2564 689,2561 734,2561 779,2561 823,2561 868,2564"/>
+               <TextEquiv>
+                  <Unicode>üppige Olivenhaine und Korkeichenwälder und sah</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_54" custom="readingOrder {index:53;}">
+               <Coords points="107,2614 863,2608 837,2573 108,2580"/>
+               <Baseline points="113,2603 149,2603 194,2600 238,2600 283,2600 328,2600 373,2600 417,2600 462,2597 507,2597 552,2597 597,2597 641,2597 686,2597 731,2597 776,2594 820,2594 865,2594"/>
+               <TextEquiv>
+                  <Unicode>über dieses Bild der Fruchtbarkeit und ländlichen Se¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_55" custom="readingOrder {index:54;}">
+               <Coords points="111,2651 842,2647 871,2603 112,2617"/>
+               <Baseline points="116,2638 155,2635 200,2632 244,2632 289,2632 334,2632 379,2632 423,2632 468,2630 513,2630 558,2630 603,2630 647,2630 692,2630 737,2627 782,2627 826,2630 871,2630"/>
+               <TextEquiv>
+                  <Unicode>gens hinaus die herberen Weiden am Fuß des Mitt¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_56" custom="readingOrder {index:55;}">
+               <Coords points="108,2683 875,2677 860,2636 108,2649"/>
+               <Baseline points="113,2668 116,2668 161,2668 205,2665 250,2665 295,2665 340,2665 385,2662 429,2665 474,2662 519,2662 564,2662 608,2662 653,2662 698,2662 743,2662 788,2659 832,2659 877,2659"/>
+               <TextEquiv>
+                  <Unicode>leren Atlas, deren Ketten blau in den hohen sommer¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_57" custom="readingOrder {index:56;}">
+               <Coords points="114,2710 873,2708 873,2675 114,2677"/>
+               <Baseline points="119,2704 158,2701 202,2701 247,2698 292,2701 337,2698 382,2698 426,2698 471,2698 516,2698 561,2695 606,2695 650,2695 695,2695 740,2692 785,2692 829,2695 874,2695"/>
+               <TextEquiv>
+                  <Unicode>lichen Himmel tauchten. Dieses Land hat die Schrecken</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_58" custom="readingOrder {index:57;}">
+               <Coords points="108,2748 793,2747 867,2738 868,2711 109,2705"/>
+               <Baseline points="113,2737 152,2734 197,2734 241,2734 286,2731 331,2731 376,2731 420,2731 465,2731 510,2731 555,2731 600,2728 644,2728 689,2728 734,2728 779,2728 823,2728 868,2728"/>
+               <TextEquiv>
+                  <Unicode>des Kriegs nur von weitem miterlebt, und wenn es</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_59" custom="readingOrder {index:58;}">
+               <Coords points="114,2775 878,2772 879,2736 115,2750"/>
+               <Baseline points="119,2770 164,2767 208,2767 253,2767 298,2767 343,2764 388,2764 432,2764 477,2764 522,2764 567,2764 611,2761 656,2761 701,2761 746,2764 791,2761 835,2761 880,2761"/>
+               <TextEquiv>
+                  <Unicode>auch wirtschaftlich an den Folgen mitträgt, so leben</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_60" custom="readingOrder {index:59;}">
+               <Coords points="123,2813 872,2806 864,2769 123,2779"/>
+               <Baseline points="128,2803 158,2800 202,2800 247,2800 292,2800 337,2800 382,2800 426,2797 471,2797 516,2797 561,2797 606,2797 650,2797 695,2794 740,2794 785,2794 829,2794 874,2794"/>
+               <TextEquiv>
+                  <Unicode>doch die Menschen hier friedlich, ein wenig abseits und</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_61" custom="readingOrder {index:60;}">
+               <Coords points="120,2844 875,2841 876,2808 121,2812"/>
+               <Baseline points="125,2835 161,2833 205,2833 250,2833 295,2833 340,2833 385,2833 429,2833 474,2830 519,2830 564,2830 608,2830 653,2830 698,2830 743,2827 788,2827 832,2827 877,2827"/>
+               <TextEquiv>
+                  <Unicode>frei von dem Druck, der täglich auf dem Mutterland</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_62" custom="readingOrder {index:61;}">
+               <Coords points="123,2879 875,2868 863,2837 123,2843"/>
+               <Baseline points="128,2871 161,2868 205,2865 250,2865 295,2865 340,2865 385,2865 429,2865 474,2865 519,2865 564,2862 608,2862 653,2862 698,2862 743,2862 788,2862 832,2862 877,2859"/>
+               <TextEquiv>
+                  <Unicode>lastet. Vielleicht können sich hier, in größerer Frei¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_63" custom="readingOrder {index:62;}">
+               <Coords points="123,2912 875,2911 876,2871 124,2879"/>
+               <Baseline points="128,2904 161,2901 205,2901 250,2898 295,2898 340,2898 385,2898 429,2898 474,2898 519,2895 564,2895 608,2895 653,2895 698,2895 743,2895 788,2892 832,2895 877,2898"/>
+               <TextEquiv>
+                  <Unicode>heit, auch die Kräfte der Erneuerung stärker, unge¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_64" custom="readingOrder {index:63;}">
+               <Coords points="114,2943 903,2959 883,2906 114,2911"/>
+               <Baseline points="119,2937 125,2937 170,2934 214,2934 259,2934 304,2934 349,2934 394,2931 438,2931 483,2931 528,2931 573,2928 617,2931 662,2931 707,2931 752,2928 797,2928 841,2928 886,2928 904,2940"/>
+               <TextEquiv>
+                  <Unicode>hinderter entfalten, die sich nach schweren Prüfungen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_65" custom="readingOrder {index:64;}">
+               <Coords points="117,2990 149,2980 205,2993 225,2981 251,2992 309,2975 342,2983 392,2977 392,2958 345,2954 327,2942 303,2951 273,2943 259,2953 117,2945"/>
+               <Baseline points="122,2970 167,2970 211,2967 256,2967 301,2967 346,2967 391,2970 394,2970"/>
+               <TextEquiv>
+                  <Unicode>überall ankünden.\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_66" custom="readingOrder {index:65;}">
+               <Coords points="150,3029 875,3025 875,2987 150,2989"/>
+               <Baseline points="155,3018 161,3018 205,3015 250,3015 295,3015 340,3015 385,3012 429,3012 474,3012 519,3012 564,3009 608,3012 653,3009 698,3009 743,3009 788,3009 832,3009 877,3009"/>
+               <TextEquiv>
+                  <Unicode>\p\Diesen Eindruck gewann ich, als ich, kurz nach</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_67" custom="readingOrder {index:66;}">
+               <Coords points="117,3056 903,3047 844,3019 117,3031"/>
+               <Baseline points="122,3050 161,3050 205,3050 250,3050 295,3047 340,3047 385,3047 429,3047 474,3047 519,3044 564,3044 608,3044 653,3044 698,3044 743,3044 788,3044 832,3041 877,3041 905,3048"/>
+               <TextEquiv>
+                  <Unicode>meiner Ankunft, dem Kommandanten Faure in Ra¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_68" custom="readingOrder {index:67;}">
+               <Coords points="114,3087 176,3107 873,3086 873,3051 114,3060"/>
+               <Baseline points="119,3086 158,3083 202,3083 247,3083 292,3083 337,3080 382,3080 426,3080 471,3080 516,3080 561,3077 606,3074 650,3077 695,3077 740,3074 785,3077 829,3074 874,3074"/>
+               <TextEquiv>
+                  <Unicode>bat und einigen seiner Mitarbeiter begegnet war und</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_69" custom="readingOrder {index:68;}">
+               <Coords points="114,3128 866,3124 867,3088 115,3095"/>
+               <Baseline points="119,3119 152,3119 197,3119 241,3116 286,3116 331,3116 376,3113 420,3116 465,3113 510,3113 555,3113 600,3113 644,3110 689,3110 734,3110 779,3110 823,3110 868,3113"/>
+               <TextEquiv>
+                  <Unicode>den ersten Kontakt mit der Jugend in Marokko ge¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_70" custom="readingOrder {index:69;}">
+               <Coords points="114,3164 869,3155 869,3126 114,3138"/>
+               <Baseline points="119,3152 155,3152 200,3149 244,3149 289,3149 334,3149 379,3146 423,3146 468,3146 513,3146 558,3146 603,3146 647,3146 692,3143 737,3143 782,3143 826,3143 871,3146"/>
+               <TextEquiv>
+                  <Unicode>nommen hatte. Aus jeder ihrer Aeußerungen sprach</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_71" custom="readingOrder {index:70;}">
+               <Coords points="114,3196 879,3187 879,3160 830,3153 115,3167"/>
+               <Baseline points="119,3185 164,3185 208,3185 253,3182 298,3182 343,3182 388,3182 432,3182 477,3179 522,3179 567,3179 611,3179 656,3176 701,3176 746,3176 791,3176 835,3176 880,3179"/>
+               <TextEquiv>
+                  <Unicode>ein ernster und glühender Patriotismus, aber auch ein</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_72" custom="readingOrder {index:71;}">
+               <Coords points="120,3226 844,3226 870,3186 120,3199"/>
+               <Baseline points="125,3218 155,3218 200,3218 244,3218 289,3218 334,3218 379,3215 423,3215 468,3215 513,3212 558,3212 603,3212 647,3212 692,3212 737,3212 782,3209 826,3209 871,3209"/>
+               <TextEquiv>
+                  <Unicode>nüchternes Wissen um die Realität, eine mutige Be¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_73" custom="readingOrder {index:72;}">
+               <Coords points="114,3259 904,3253 827,3214 114,3224"/>
+               <Baseline points="119,3253 164,3250 208,3250 253,3250 298,3250 343,3250 388,3247 432,3247 477,3247 522,3247 567,3247 611,3247 656,3244 701,3244 746,3244 791,3244 835,3244 880,3244 906,3254"/>
+               <TextEquiv>
+                  <Unicode>reitschaft und ein ruhiges Vertrauen in die Zukunft.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_74" custom="readingOrder {index:73;}">
+               <Coords points="114,3292 873,3294 863,3254 114,3264"/>
+               <Baseline points="119,3286 158,3283 202,3283 247,3283 292,3283 337,3283 382,3283 426,3280 471,3280 516,3280 561,3277 606,3280 650,3277 695,3280 740,3277 785,3277 829,3277 874,3277"/>
+               <TextEquiv>
+                  <Unicode>Das sind keine Schlagworte und Doktrinen einer obli¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_75" custom="readingOrder {index:74;}">
+               <Coords points="117,3332 872,3324 872,3294 833,3288 117,3292"/>
+               <Baseline points="122,3322 158,3319 202,3319 247,3319 292,3316 337,3316 382,3316 426,3313 471,3313 516,3313 561,3313 606,3313 650,3313 695,3313 740,3310 785,3310 829,3310 874,3316"/>
+               <TextEquiv>
+                  <Unicode>gatorischen, von oben befohlenen Jugendorganisation</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_76" custom="readingOrder {index:75;}">
+               <Coords points="116,3370 869,3353 869,3324 837,3319 117,3336"/>
+               <Baseline points="122,3352 155,3352 200,3352 244,3352 289,3352 334,3349 379,3349 423,3349 468,3349 513,3349 558,3346 603,3346 647,3346 692,3346 737,3346 782,3343 826,3343 871,3343"/>
+               <TextEquiv>
+                  <Unicode>eine solche Organisation besteht in Französisch-Ma¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_77" custom="readingOrder {index:76;}">
+               <Coords points="120,3393 827,3396 869,3390 870,3364 120,3370"/>
+               <Baseline points="125,3385 155,3385 200,3385 244,3385 289,3385 334,3385 379,3382 423,3382 468,3382 513,3382 558,3379 603,3379 647,3379 692,3376 737,3376 782,3376 826,3379 871,3379"/>
+               <TextEquiv>
+                  <Unicode>rokko so wenig wie im Mutterland. In den schweren</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_78" custom="readingOrder {index:77;}">
+               <Coords points="114,3429 830,3429 873,3420 874,3391 115,3399"/>
+               <Baseline points="119,3421 158,3418 202,3418 247,3418 292,3418 337,3418 382,3418 426,3415 471,3415 516,3415 561,3412 606,3412 650,3415 695,3412 740,3412 785,3412 829,3409 874,3412"/>
+               <TextEquiv>
+                  <Unicode>Augenblicken des Sommers 1940 machte sich lediglich</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_79" custom="readingOrder {index:78;}">
+               <Coords points="117,3464 872,3469 872,3420 117,3429"/>
+               <Baseline points="122,3453 158,3450 202,3453 247,3453 292,3453 337,3450 382,3450 426,3450 471,3450 516,3447 561,3447 606,3447 650,3444 695,3444 740,3444 785,3444 829,3444 874,3444"/>
+               <TextEquiv>
+                  <Unicode>das Bedürfnis bemerkbar, der durch die Ereignisse</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_80" custom="readingOrder {index:79;}">
+               <Coords points="114,3497 875,3490 875,3457 114,3467"/>
+               <Baseline points="119,3486 161,3486 205,3486 250,3486 295,3486 340,3483 385,3486 429,3483 474,3483 519,3480 564,3480 608,3480 653,3477 698,3477 743,3477 788,3480 832,3477 877,3477"/>
+               <TextEquiv>
+                  <Unicode>verwirrten und der Gefahr der Entmutigung und</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_81" custom="readingOrder {index:80;}">
+               <Coords points="113,3530 890,3530 890,3498 781,3487 114,3500"/>
+               <Baseline points="119,3519 131,3519 176,3519 220,3519 265,3519 310,3519 355,3519 400,3519 444,3519 489,3519 534,3516 579,3513 623,3513 668,3513 713,3513 758,3513 803,3510 847,3513 892,3513"/>
+               <TextEquiv>
+                  <Unicode>inneren Anarchie ausgesetzten Jugend eine Führung</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_9" custom="readingOrder {index:1;}">
+            <Coords points="895,667 1706,667 1706,2527 895,2527"/>
+            <TextLine id="r_9_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="902,721 1666,722 1666,690 902,693"/>
+               <Baseline points="907,710 952,707 997,707 1041,707 1086,707 1131,707 1176,710 1220,710 1265,710 1310,713 1355,713 1400,713 1444,713 1489,713 1534,713 1579,713 1623,713 1668,710"/>
+               <TextEquiv>
+                  <Unicode>zu geben, eine Führung, die zugleich Autorität und</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="905,753 1666,770 1665,723 904,725"/>
+               <Baseline points="910,743 955,740 1000,740 1044,740 1089,740 1134,743 1179,743 1223,743 1268,746 1313,746 1358,746 1403,746 1447,746 1492,746 1537,746 1582,746 1626,746 1668,746"/>
+               <TextEquiv>
+                  <Unicode>Sammlung bedeuten würde, eine Stelle der Orientie¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_3" custom="readingOrder {index:2;}">
+               <Coords points="897,798 993,786 1109,805 1162,785 1185,796 1205,787 1205,763 1117,761 1081,748 1050,765 1016,751 992,764 971,753 896,754"/>
+               <Baseline points="901,776 946,776 991,776 1035,776 1080,776 1125,776 1170,779 1206,779"/>
+               <TextEquiv>
+                  <Unicode>rung und Beratung.\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_4" custom="readingOrder {index:3;}">
+               <Coords points="944,836 1666,840 1666,795 944,797"/>
+               <Baseline points="949,826 994,823 1038,823 1083,823 1128,826 1173,823 1217,826 1262,826 1307,829 1352,829 1397,829 1441,829 1486,826 1531,829 1576,826 1620,826 1665,826 1668,826"/>
+               <TextEquiv>
+                  <Unicode>\p\Diesem Zweck dient der „Jugend- und Sport¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_5" custom="readingOrder {index:4;}">
+               <Coords points="909,868 1668,871 1667,841 1575,831 908,836"/>
+               <Baseline points="913,856 958,856 1003,856 1047,856 1092,856 1137,859 1182,859 1226,859 1271,859 1316,859 1361,862 1406,859 1450,859 1495,862 1540,862 1585,862 1629,862 1668,859"/>
+               <TextEquiv>
+                  <Unicode>dienst", dessen erste Sorge es war, die schon existieren¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_6" custom="readingOrder {index:5;}">
+               <Coords points="905,901 1666,904 1665,871 904,870"/>
+               <Baseline points="910,889 955,889 1000,892 1044,892 1089,892 1134,892 1179,895 1223,895 1268,895 1313,895 1358,895 1403,895 1447,895 1492,895 1537,895 1582,895 1626,895 1668,895"/>
+               <TextEquiv>
+                  <Unicode>den fünf Pfadfindergruppen und die Organisation der</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_7" custom="readingOrder {index:6;}">
+               <Coords points="902,942 1648,947 1635,904 902,904"/>
+               <Baseline points="907,928 952,925 997,925 1041,925 1086,925 1131,928 1176,928 1220,928 1265,928 1310,928 1355,928 1400,928 1444,928 1489,928 1534,928 1579,928 1623,928 1650,928"/>
+               <TextEquiv>
+                  <Unicode>„Katholischen Jugendbewegung“ zur Mitarbeit zu ge¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_8" custom="readingOrder {index:7;}">
+               <Coords points="902,961 1661,976 1661,944 1619,937 902,943"/>
+               <Baseline points="907,958 952,958 997,958 1041,958 1086,958 1131,961 1176,958 1220,961 1265,961 1310,961 1355,961 1400,961 1444,961 1489,961 1534,961 1579,961 1623,961 1662,961"/>
+               <TextEquiv>
+                  <Unicode>winnen und diese Gruppen durch die Gründung der</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_9" custom="readingOrder {index:8;}">
+               <Coords points="908,1005 1571,1011 1657,1005 1657,976 907,966"/>
+               <Baseline points="913,997 943,991 988,991 1032,991 1077,994 1122,994 1167,994 1212,994 1256,994 1301,997 1346,997 1391,997 1435,994 1480,994 1525,994 1570,994 1615,994 1659,994"/>
+               <TextEquiv>
+                  <Unicode>„Marokkanischen Garden“ zu ergänzen. Diese nach</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_10" custom="readingOrder {index:9;}">
+               <Coords points="905,1038 1666,1039 1666,1011 1631,1006 905,1007"/>
+               <Baseline points="910,1023 955,1023 1000,1026 1044,1026 1089,1026 1134,1026 1179,1026 1223,1026 1268,1029 1313,1026 1358,1029 1403,1029 1447,1026 1492,1029 1537,1026 1582,1026 1626,1026 1668,1026"/>
+               <TextEquiv>
+                  <Unicode>den nationalen und pädagogischen Richtlinien des</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_11" custom="readingOrder {index:10;}">
+               <Coords points="902,1062 1654,1078 1654,1040 1617,1035 902,1038"/>
+               <Baseline points="907,1059 952,1059 997,1059 1041,1059 1086,1059 1131,1059 1176,1062 1220,1062 1265,1062 1310,1059 1355,1062 1400,1062 1444,1062 1489,1062 1534,1062 1579,1059 1623,1062 1656,1062"/>
+               <TextEquiv>
+                  <Unicode>Jugenddienstes organisierte Bewegung hat den ge¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_12" custom="readingOrder {index:11;}">
+               <Coords points="902,1106 1661,1108 1661,1075 1614,1067 902,1071"/>
+               <Baseline points="907,1092 952,1092 997,1092 1041,1092 1086,1092 1131,1092 1176,1095 1220,1095 1265,1095 1310,1095 1355,1095 1400,1092 1444,1095 1489,1095 1534,1095 1579,1095 1623,1095 1662,1095"/>
+               <TextEquiv>
+                  <Unicode>samten Jugendbewegungen Marokkos' einen starken</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_13" custom="readingOrder {index:12;}">
+               <Coords points="902,1127 1661,1136 1661,1108 1569,1101 902,1108"/>
+               <Baseline points="907,1125 952,1125 997,1125 1041,1125 1086,1128 1131,1125 1176,1125 1220,1128 1265,1128 1310,1128 1355,1128 1400,1128 1444,1128 1489,1128 1534,1128 1579,1128 1623,1128 1662,1128"/>
+               <TextEquiv>
+                  <Unicode>Auftrieb verliehen und vielfach als Beispiel gedient.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_14" custom="readingOrder {index:13;}">
+               <Coords points="902,1162 1661,1171 1637,1137 902,1134"/>
+               <Baseline points="907,1161 952,1158 997,1158 1041,1161 1086,1158 1131,1161 1176,1161 1220,1161 1265,1161 1310,1161 1355,1161 1400,1161 1444,1161 1489,1161 1534,1164 1579,1161 1623,1161 1662,1161"/>
+               <TextEquiv>
+                  <Unicode>In besonderen Kursen der Caderschulen wurden so¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_15" custom="readingOrder {index:14;}">
+               <Coords points="905,1204 1664,1205 1653,1169 905,1167"/>
+               <Baseline points="910,1194 949,1194 994,1194 1038,1191 1083,1194 1128,1194 1173,1194 1217,1191 1262,1194 1307,1194 1352,1194 1397,1194 1441,1194 1486,1194 1531,1194 1576,1194 1620,1194 1665,1191"/>
+               <TextEquiv>
+                  <Unicode>dann, seit Dezember 1940 junge Leiter und Leiterin¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_16" custom="readingOrder {index:15;}">
+               <Coords points="902,1237 1661,1238 1661,1205 902,1206"/>
+               <Baseline points="907,1226 952,1223 997,1226 1041,1226 1086,1226 1131,1226 1176,1226 1220,1226 1265,1226 1310,1226 1355,1226 1400,1226 1444,1226 1489,1226 1534,1229 1579,1226 1623,1226 1662,1226"/>
+               <TextEquiv>
+                  <Unicode>nen ausgebildet, die in den Schulen und Lagern als</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_17" custom="readingOrder {index:16;}">
+               <Coords points="902,1267 1657,1268 1657,1238 902,1236"/>
+               <Baseline points="907,1259 952,1259 997,1259 1041,1259 1086,1259 1131,1259 1176,1259 1220,1259 1265,1259 1310,1259 1355,1259 1400,1259 1444,1259 1489,1262 1534,1262 1579,1259 1623,1259 1659,1262"/>
+               <TextEquiv>
+                  <Unicode>Berater, Sportlehrer und soziale und moralische Lei¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_18" custom="readingOrder {index:17;}">
+               <Coords points="902,1299 1666,1304 1666,1273 1634,1269 902,1276"/>
+               <Baseline points="907,1295 952,1292 997,1292 1041,1292 1086,1292 1131,1292 1176,1292 1220,1292 1265,1295 1310,1295 1355,1295 1400,1295 1444,1295 1489,1292 1534,1295 1579,1292 1623,1295 1668,1295"/>
+               <TextEquiv>
+                  <Unicode>ter und Helfer dienen. Unter der Bezeichnung „All¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_19" custom="readingOrder {index:18;}">
+               <Coords points="911,1341 1672,1335 1604,1306 911,1308"/>
+               <Baseline points="916,1331 958,1325 1003,1325 1047,1325 1092,1325 1137,1325 1182,1325 1226,1328 1271,1328 1316,1328 1361,1328 1406,1328 1450,1325 1495,1328 1540,1328 1585,1328 1629,1328 1674,1325"/>
+               <TextEquiv>
+                  <Unicode>gemeine Erziehung“ wurden in allen Schulen Körper¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_20" custom="readingOrder {index:19;}">
+               <Coords points="908,1367 1669,1372 1669,1336 908,1343"/>
+               <Baseline points="913,1361 958,1358 1003,1358 1047,1358 1092,1358 1137,1361 1182,1361 1226,1361 1271,1361 1316,1361 1361,1361 1406,1361 1450,1361 1495,1361 1540,1361 1585,1361 1629,1361 1671,1361"/>
+               <TextEquiv>
+                  <Unicode>bildung und Turnen als obligatorisch eingeführt und</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_21" custom="readingOrder {index:20;}">
+               <Coords points="914,1406 1669,1408 1654,1370 914,1371"/>
+               <Baseline points="919,1397 955,1394 1000,1394 1044,1394 1089,1394 1134,1394 1179,1394 1223,1394 1268,1397 1313,1394 1358,1394 1403,1394 1447,1397 1492,1394 1537,1394 1582,1394 1626,1394 1671,1391"/>
+               <TextEquiv>
+                  <Unicode>ein Nachmittag dem Sport, dem Spiel, kameradschaft¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_22" custom="readingOrder {index:21;}">
+               <Coords points="902,1446 1663,1437 1639,1403 902,1406"/>
+               <Baseline points="907,1429 952,1426 997,1426 1041,1426 1086,1426 1131,1426 1176,1429 1220,1426 1265,1429 1310,1426 1355,1429 1400,1426 1444,1426 1489,1429 1534,1426 1579,1426 1623,1426 1665,1429"/>
+               <TextEquiv>
+                  <Unicode>lichem Zusammenleben und moralisch-patriotischer Er¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_23" custom="readingOrder {index:22;}">
+               <Coords points="908,1473 1667,1473 1667,1445 1627,1436 908,1443"/>
+               <Baseline points="913,1462 952,1462 997,1462 1041,1462 1086,1462 1131,1462 1176,1462 1220,1462 1265,1462 1310,1462 1355,1462 1400,1462 1444,1462 1489,1462 1534,1459 1579,1459 1623,1459 1668,1459"/>
+               <TextEquiv>
+                  <Unicode>ziehung gewidmet. Die Zahl der Pfadfinder und Gar¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_24" custom="readingOrder {index:23;}">
+               <Coords points="914,1506 1666,1509 1645,1469 914,1476"/>
+               <Baseline points="919,1495 964,1492 1009,1492 1053,1492 1098,1495 1143,1495 1188,1495 1232,1495 1277,1495 1322,1495 1367,1495 1412,1495 1456,1495 1501,1492 1546,1492 1591,1492 1635,1492 1668,1495"/>
+               <TextEquiv>
+                  <Unicode>den stieg von der Gründung des Jugenddienstes bis</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_25" custom="readingOrder {index:24;}">
+               <Coords points="908,1546 1667,1537 1667,1508 908,1509"/>
+               <Baseline points="913,1531 952,1528 997,1528 1041,1528 1086,1525 1131,1528 1176,1528 1220,1528 1265,1528 1310,1528 1355,1528 1400,1525 1444,1525 1489,1525 1534,1525 1579,1525 1623,1525 1668,1528"/>
+               <TextEquiv>
+                  <Unicode>zum Oktober 1941 von 5600 auf 15 000 Mitglieder</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_26" custom="readingOrder {index:25;}">
+               <Coords points="902,1574 1666,1569 1656,1534 902,1548"/>
+               <Baseline points="907,1558 952,1561 997,1561 1041,1561 1086,1561 1131,1561 1176,1561 1220,1561 1265,1561 1310,1561 1355,1561 1400,1561 1444,1558 1489,1558 1534,1558 1579,1558 1623,1558 1668,1561"/>
+               <TextEquiv>
+                  <Unicode>während andererseits die Zahl der 300 früher existie¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_27" custom="readingOrder {index:26;}">
+               <Coords points="902,1611 1661,1603 1631,1571 902,1574"/>
+               <Baseline points="907,1594 952,1594 997,1594 1041,1594 1086,1594 1131,1594 1176,1594 1220,1594 1265,1594 1310,1594 1355,1594 1400,1591 1444,1594 1489,1591 1534,1591 1579,1591 1623,1594 1662,1594"/>
+               <TextEquiv>
+                  <Unicode>renden Sport- und Fußballclubs auf 35 reduziert</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_28" custom="readingOrder {index:27;}">
+               <Coords points="905,1637 1657,1637 1657,1608 905,1610"/>
+               <Baseline points="910,1629 943,1629 988,1626 1032,1626 1077,1626 1122,1626 1167,1626 1212,1626 1256,1626 1301,1626 1346,1626 1391,1626 1435,1623 1480,1626 1525,1626 1570,1626 1615,1623 1659,1623"/>
+               <TextEquiv>
+                  <Unicode>wurde! So bieten heute die Jugendgruppen in Ma¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_29" custom="readingOrder {index:28;}">
+               <Coords points="902,1667 1654,1677 1664,1638 902,1643"/>
+               <Baseline points="907,1659 952,1659 997,1662 1041,1662 1086,1662 1131,1662 1176,1659 1220,1659 1265,1659 1310,1659 1355,1659 1400,1659 1444,1659 1489,1659 1534,1659 1579,1656 1623,1659 1665,1662"/>
+               <TextEquiv>
+                  <Unicode>rokko ein einheitliches und wohlorganisiertes Bild</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_30" custom="readingOrder {index:29;}">
+               <Coords points="902,1702 1661,1707 1661,1675 1593,1668 902,1667"/>
+               <Baseline points="907,1695 946,1695 991,1692 1035,1695 1080,1695 1125,1692 1170,1692 1214,1692 1259,1692 1304,1692 1349,1692 1394,1692 1438,1692 1483,1689 1528,1692 1573,1692 1618,1692 1662,1692"/>
+               <TextEquiv>
+                  <Unicode>ohne daß doch die Initiative und freie Entwicklung</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_31" custom="readingOrder {index:30;}">
+               <Coords points="905,1742 1704,1747 1704,1715 1657,1706 905,1707"/>
+               <Baseline points="910,1728 955,1728 1000,1728 1044,1728 1089,1725 1134,1725 1179,1728 1223,1725 1268,1725 1313,1725 1358,1725 1403,1725 1447,1725 1492,1728 1537,1725 1582,1725 1626,1728 1671,1728 1677,1728 1706,1728"/>
+               <TextEquiv>
+                  <Unicode>der einzelnen Bewegungen Schaden gelitten hätte</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_32" custom="readingOrder {index:31;}">
+               <Coords points="908,1773 1672,1777 1672,1742 1636,1735 908,1740"/>
+               <Baseline points="913,1761 958,1761 1003,1761 1047,1761 1092,1761 1137,1761 1182,1758 1226,1758 1271,1758 1316,1758 1361,1761 1406,1758 1450,1758 1495,1758 1540,1761 1585,1761 1629,1761 1674,1758"/>
+               <TextEquiv>
+                  <Unicode>oder alle jungen Leute in eine einseitige Organisa¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_33" custom="readingOrder {index:32;}">
+               <Coords points="902,1805 1666,1805 1666,1779 1607,1770 902,1773"/>
+               <Baseline points="907,1794 952,1794 997,1794 1041,1794 1086,1794 1131,1794 1176,1794 1220,1794 1265,1794 1310,1794 1355,1794 1400,1794 1444,1794 1489,1794 1534,1797 1579,1794 1623,1794 1668,1794"/>
+               <TextEquiv>
+                  <Unicode>tion, die nur staatlichen Zielen diente, gezwungen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_34" custom="readingOrder {index:33;}">
+               <Coords points="911,1843 1670,1836 1670,1814 1582,1803 911,1804"/>
+               <Baseline points="916,1826 961,1826 1006,1826 1050,1826 1095,1826 1140,1826 1185,1826 1229,1826 1274,1826 1319,1826 1364,1826 1409,1826 1453,1826 1498,1826 1543,1826 1588,1826 1632,1826 1671,1826"/>
+               <TextEquiv>
+                  <Unicode>worden wären. Ihre Chefs, Erzieher und Berater</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_35" custom="readingOrder {index:34;}">
+               <Coords points="902,1876 1669,1872 1669,1846 1576,1838 902,1836"/>
+               <Baseline points="907,1862 910,1862 955,1859 1000,1859 1044,1859 1089,1859 1134,1859 1179,1859 1223,1859 1268,1859 1313,1859 1358,1859 1403,1859 1447,1859 1492,1862 1537,1862 1582,1862 1626,1862 1671,1859"/>
+               <TextEquiv>
+                  <Unicode>wissen, daß man die besten Bürger gewinnt, wenn</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_36" custom="readingOrder {index:35;}">
+               <Coords points="911,1905 1672,1905 1672,1876 911,1880"/>
+               <Baseline points="916,1895 961,1895 1006,1892 1050,1895 1095,1895 1140,1892 1185,1892 1229,1895 1274,1895 1319,1895 1364,1892 1409,1895 1453,1895 1498,1895 1543,1895 1588,1895 1632,1895 1674,1895"/>
+               <TextEquiv>
+                  <Unicode>man die Jugend zu harmonisch gebildeten, geistig und</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_37" custom="readingOrder {index:36;}">
+               <Coords points="908,1939 1675,1941 1674,1906 907,1905"/>
+               <Baseline points="913,1928 916,1928 961,1925 1006,1928 1050,1925 1095,1928 1140,1928 1185,1925 1229,1928 1274,1925 1319,1928 1364,1928 1409,1928 1453,1931 1498,1928 1543,1928 1588,1928 1632,1928 1677,1925"/>
+               <TextEquiv>
+                  <Unicode>körperlich gesunden und moralisch gefestigten Men¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_38" custom="readingOrder {index:37;}">
+               <Coords points="908,1987 962,1968 1000,1984 1112,1972 1139,1986 1202,1978 1202,1945 1162,1935 1036,1947 1011,1938 989,1948 908,1939"/>
+               <Baseline points="913,1961 958,1961 1003,1961 1047,1961 1092,1961 1137,1961 1182,1964 1203,1961"/>
+               <TextEquiv>
+                  <Unicode>schen heranbildet.\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_39" custom="readingOrder {index:38;}">
+               <Coords points="951,2029 1356,2031 1420,2010 1657,2032 1656,1994 1606,1981 1262,2002 1092,1975 1021,2003 950,1979"/>
+               <Baseline points="955,2012 1000,2009 1044,2009 1089,2009 1134,2009 1179,2009 1223,2009 1268,2009 1313,2009 1358,2009 1403,2009 1447,2012 1492,2009 1537,2012 1582,2009 1626,2012 1659,2012"/>
+               <TextEquiv>
+                  <Unicode>\p\In allen Städten Marokkos entstehen heute</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_40" custom="readingOrder {index:39;}">
+               <Coords points="914,2051 1669,2057 1668,2032 1599,2021 913,2023"/>
+               <Baseline points="919,2044 964,2041 1009,2041 1053,2044 1098,2044 1143,2044 1188,2044 1232,2044 1277,2044 1322,2044 1367,2044 1412,2044 1456,2044 1501,2044 1546,2044 1591,2044 1635,2044 1671,2044"/>
+               <TextEquiv>
+                  <Unicode>Sportplätze, Stadions, Schwimmbäder. In Casablanca</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_41" custom="readingOrder {index:40;}">
+               <Coords points="908,2087 1667,2088 1667,2060 908,2065"/>
+               <Baseline points="913,2077 958,2077 1003,2074 1047,2077 1092,2074 1137,2077 1182,2074 1226,2077 1271,2077 1316,2077 1361,2077 1406,2077 1450,2077 1495,2077 1540,2077 1585,2077 1629,2080 1668,2080"/>
+               <TextEquiv>
+                  <Unicode>wurde eine Schule für Modellflugzeuge eingerichtet</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_42" custom="readingOrder {index:41;}">
+               <Coords points="914,2121 1673,2133 1673,2093 1644,2087 914,2086"/>
+               <Baseline points="919,2113 964,2107 1009,2110 1053,2110 1098,2110 1143,2110 1188,2110 1232,2110 1277,2110 1322,2110 1367,2110 1412,2110 1456,2110 1501,2110 1546,2110 1591,2110 1635,2113 1674,2113"/>
+               <TextEquiv>
+                  <Unicode>bei Meknes und bei Petitjean wurde das Terrain für</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_43" custom="readingOrder {index:42;}">
+               <Coords points="914,2154 1669,2159 1669,2131 1543,2119 914,2121"/>
+               <Baseline points="919,2143 964,2143 1009,2143 1053,2143 1098,2143 1143,2143 1188,2143 1232,2143 1277,2146 1322,2143 1367,2143 1412,2143 1456,2143 1501,2143 1546,2146 1591,2146 1635,2146 1671,2146"/>
+               <TextEquiv>
+                  <Unicode>Segelflug vorbereitet. Ueberall in dem schönen, zu</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_44" custom="readingOrder {index:43;}">
+               <Coords points="914,2192 1666,2195 1648,2158 914,2154"/>
+               <Baseline points="919,2179 964,2176 1009,2176 1053,2176 1098,2176 1143,2179 1188,2179 1232,2179 1277,2179 1322,2179 1367,2179 1412,2179 1456,2179 1501,2179 1546,2179 1591,2176 1635,2179 1668,2179"/>
+               <TextEquiv>
+                  <Unicode>Wanderungen und Ferienlagern einladenden Land</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_45" custom="readingOrder {index:44;}">
+               <Coords points="902,2234 1672,2229 1672,2199 1619,2187 902,2191"/>
+               <Baseline points="907,2212 952,2209 997,2209 1041,2209 1086,2212 1131,2209 1176,2212 1220,2212 1265,2212 1310,2212 1355,2212 1400,2212 1444,2212 1489,2212 1534,2212 1579,2212 1623,2212 1668,2212 1674,2212"/>
+               <TextEquiv>
+                  <Unicode>entstehen Jugendherbergen. Alpinisten- und Skilager</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_46" custom="readingOrder {index:45;}">
+               <Coords points="911,2258 1657,2256 1657,2225 911,2229"/>
+               <Baseline points="916,2247 961,2244 1006,2241 1050,2244 1095,2244 1140,2244 1185,2244 1229,2244 1274,2244 1319,2244 1364,2244 1409,2244 1453,2244 1498,2244 1543,2244 1588,2244 1632,2244 1659,2247"/>
+               <TextEquiv>
+                  <Unicode>gibt es bereits im Hohen Atlas, im Toubkal-Massiv,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_47" custom="readingOrder {index:46;}">
+               <Coords points="911,2293 1672,2286 1634,2256 911,2264"/>
+               <Baseline points="916,2277 961,2277 1006,2277 1050,2277 1095,2277 1140,2277 1185,2277 1229,2277 1274,2277 1319,2277 1364,2277 1409,2277 1453,2277 1498,2277 1543,2277 1588,2277 1632,2277 1674,2280"/>
+               <TextEquiv>
+                  <Unicode>und im Mittleren Atlas in der Gegend von Bou</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_48" custom="readingOrder {index:47;}">
+               <Coords points="917,2324 1672,2331 1662,2298 1550,2286 917,2291"/>
+               <Baseline points="922,2313 967,2310 1012,2310 1056,2313 1101,2310 1146,2310 1191,2310 1235,2310 1280,2310 1325,2310 1370,2310 1415,2310 1459,2310 1504,2310 1549,2313 1594,2310 1638,2310 1674,2313"/>
+               <TextEquiv>
+                  <Unicode>Iblane, zwei Skihütten im Tizi N'tretten und</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_49" custom="readingOrder {index:48;}">
+               <Coords points="890,2350 1672,2356 1672,2331 1604,2318 890,2330"/>
+               <Baseline points="895,2346 913,2343 958,2346 1003,2343 1047,2346 1092,2343 1137,2346 1182,2346 1226,2346 1271,2346 1316,2346 1361,2346 1406,2346 1450,2346 1495,2346 1540,2346 1585,2346 1629,2346 1674,2349 1677,2346"/>
+               <TextEquiv>
+                  <Unicode>beim Bordj Doumorgue: Der Zauberklang dieser</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_50" custom="readingOrder {index:49;}">
+               <Coords points="890,2391 1672,2397 1672,2356 890,2359"/>
+               <Baseline points="895,2380 913,2379 958,2379 1003,2379 1047,2379 1092,2379 1137,2379 1182,2379 1226,2379 1271,2379 1316,2379 1361,2379 1406,2382 1450,2379 1495,2379 1540,2379 1585,2379 1629,2382 1674,2379"/>
+               <TextEquiv>
+                  <Unicode>Namen und der Glanz von Bergen, Schnee und afri¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_51" custom="readingOrder {index:50;}">
+               <Coords points="908,2416 1667,2420 1667,2396 1611,2386 908,2392"/>
+               <Baseline points="913,2412 958,2412 1003,2412 1047,2412 1092,2412 1137,2412 1182,2415 1226,2412 1271,2412 1316,2412 1361,2412 1406,2415 1450,2415 1495,2412 1540,2412 1585,2412 1629,2415 1668,2415"/>
+               <TextEquiv>
+                  <Unicode>kanischer Sonne wird die Burschen, jungen Mädchen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_52" custom="readingOrder {index:51;}">
+               <Coords points="908,2450 1669,2454 1662,2420 908,2424"/>
+               <Baseline points="913,2444 958,2444 1003,2444 1047,2444 1092,2444 1137,2444 1182,2444 1226,2447 1271,2447 1316,2447 1361,2447 1406,2447 1450,2447 1495,2444 1540,2447 1585,2447 1629,2447 1671,2447"/>
+               <TextEquiv>
+                  <Unicode>und Knaben dazu gewinnen, Marokko zu entdecken</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_53" custom="readingOrder {index:52;}">
+               <Coords points="914,2487 1669,2489 1669,2461 1614,2452 914,2461"/>
+               <Baseline points="919,2477 964,2477 1009,2480 1053,2477 1098,2477 1143,2477 1188,2480 1232,2480 1277,2477 1322,2480 1367,2480 1412,2480 1456,2480 1501,2477 1546,2480 1591,2480 1635,2480 1671,2480"/>
+               <TextEquiv>
+                  <Unicode>und auf jenen Höhen ein glückliches und freies Leben</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_tl_54" custom="readingOrder {index:53;}">
+               <Coords points="911,2531 1017,2540 1042,2525 1079,2535 1094,2522 1113,2534 1138,2524 1159,2532 1215,2515 1215,2506 1190,2507 1172,2492 1046,2498 1031,2487 949,2496 911,2487"/>
+               <Baseline points="916,2513 961,2513 1006,2513 1050,2513 1095,2513 1140,2513 1185,2513 1217,2516"/>
+               <TextEquiv>
+                  <Unicode>kennen zu lernen!\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+      </Page>
+   </PcGts>
+</validation-wrapper>
