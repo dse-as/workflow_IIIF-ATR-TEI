@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<validation-wrapper>
+   <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+      <Metadata>
+         <Creator>prov=READ-COOP:name=TrHtr:version=2.25.0:model_id=51170:date=10_04_2025_09:35</Creator>
+         <Created>2025-03-31T17:33:08.921+02:00</Created>
+         <LastChange>2025-04-10T09:43:28.616+02:00</LastChange>
+         <TranskribusMetadata docId="7715511"
+                              pageId="94286642"
+                              pageNr="1"
+                              tsid="240324104"
+                              status="IN_PROGRESS"
+                              userId="295817"
+                              imgUrl="https://files.transkribus.eu/Get?id=XJZYAPXPRHEOGFCTLNXMPJXC&amp;fileType=view"
+                              xmlUrl="https://files.transkribus.eu/Get?id=TJDNYXDTJHQQHZMWAIANPWGL"
+                              imageId="78894955"/>
+      </Metadata>
+      <Page imageFilename="smallform_0579_001.jpg"
+            imageWidth="3796"
+            imageHeight="5669">
+         <ReadingOrder>
+            <OrderedGroup id="ro_1744271008617" caption="Regions reading order">
+               <RegionRefIndexed index="0" regionRef="r"/>
+               <RegionRefIndexed index="1" regionRef="r_2"/>
+               <RegionRefIndexed index="2" regionRef="r_3"/>
+               <RegionRefIndexed index="3" regionRef="r_4"/>
+            </OrderedGroup>
+         </ReadingOrder>
+         <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="146,604 901,604 901,692 146,692"/>
+            <TextLine id="r_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="171,691 304,673 341,698 469,676 851,697 833,632 563,642 451,617 420,645 171,639"/>
+               <Baseline points="176,671 220,668 265,668 310,665 355,665 400,665 444,668 489,668 534,668 579,671 623,671 668,671 713,671 758,674 803,671 847,674 853,677"/>
+               <TextEquiv>
+                  <Unicode>Sonniges, herbes Portugal</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="118,697 909,697 909,848 118,848"/>
+            <TextLine id="r_2_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="141,745 197,733 517,742 517,705 478,713 451,696 407,707 358,691 266,707 211,695 141,704"/>
+               <Baseline points="146,734 161,731 205,728 250,725 295,725 340,725 385,725 429,725 474,728 519,728"/>
+               <TextEquiv>
+                  <Unicode>\p\„Du sagst mir: singe, sing!</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="138,773 191,780 306,760 331,775 523,769 523,742 138,746"/>
+               <Baseline points="143,764 167,761 211,761 256,761 301,758 346,758 391,758 435,758 480,761 525,761"/>
+               <TextEquiv>
+                  <Unicode>Doch Lieder weiß ich keine:</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_3" custom="readingOrder {index:2;}">
+               <Coords points="132,806 419,796 568,809 568,784 513,769 132,781"/>
+               <Baseline points="137,800 167,797 211,794 256,791 301,791 346,794 391,791 435,794 480,794 525,794 570,797"/>
+               <TextEquiv>
+                  <Unicode>War ich doch nie in Coimbra,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_4" custom="readingOrder {index:3;}">
+               <Coords points="132,838 881,842 862,802 132,806"/>
+               <Baseline points="137,832 182,829 226,826 271,826 316,826 361,826 405,826 450,826 495,826 540,829 585,829 629,829 674,829 719,829 764,832 809,832 853,832 883,832"/>
+               <TextEquiv>
+                  <Unicode>Bin ich doch nicht einmal daran vorbeigekommen..."\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="122,841 929,841 929,3682 122,3682"/>
+            <TextLine id="r_3_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="177,895 891,906 891,864 854,861 177,859"/>
+               <Baseline points="182,886 226,883 271,883 316,883 361,880 405,883 450,880 495,883 540,883 585,886 629,883 674,886 719,886 764,886 809,886 853,886 892,886"/>
+               <TextEquiv>
+                  <Unicode>\p\Der Sänger dieser Volksweise kennt, wie jeder</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="135,932 887,937 887,907 816,898 135,889"/>
+               <Baseline points="140,919 185,919 229,916 274,916 319,916 364,916 408,916 453,916 498,916 543,919 588,919 632,919 677,922 722,922 767,922 811,919 856,922 889,922"/>
+               <TextEquiv>
+                  <Unicode>Bauer und jedes Kind in \g\Portugal\:g\, den Namen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_3" custom="readingOrder {index:2;}">
+               <Coords points="135,971 884,970 884,936 855,930 135,932"/>
+               <Baseline points="140,958 170,955 214,952 259,952 304,949 349,949 394,949 438,949 483,949 528,952 573,952 617,952 662,952 707,952 752,955 797,955 841,955 886,955"/>
+               <TextEquiv>
+                  <Unicode>seiner ehrwürdigen Universität, die in der Vergangen¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_4" custom="readingOrder {index:3;}">
+               <Coords points="126,992 927,999 915,944 844,976 126,971"/>
+               <Baseline points="131,991 176,988 220,985 265,985 310,985 355,982 400,985 444,982 489,985 534,985 579,988 623,985 668,988 713,988 758,988 803,988 847,988 892,994 898,994 929,996"/>
+               <TextEquiv>
+                  <Unicode>heit eine große Stätte des Wissens war, und von der</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_5" custom="readingOrder {index:4;}">
+               <Coords points="126,1030 890,1037 889,1009 125,1008"/>
+               <Baseline points="131,1023 176,1020 220,1020 265,1017 310,1017 355,1017 400,1017 444,1017 489,1017 534,1017 579,1020 623,1017 668,1020 713,1020 758,1020 803,1020 847,1020 892,1023"/>
+               <TextEquiv>
+                  <Unicode>man heute sagt, man müsse nach Coimbra gehen, um</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_6" custom="readingOrder {index:5;}">
+               <Coords points="130,1062 927,1064 853,1032 129,1032"/>
+               <Baseline points="134,1059 179,1056 223,1053 268,1050 313,1050 358,1050 403,1050 447,1050 492,1053 537,1053 582,1053 626,1053 671,1053 716,1053 761,1053 806,1053 850,1056 895,1062 929,1062"/>
+               <TextEquiv>
+                  <Unicode>den Geist des neuen Portugal und seiner Regierung</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_7" custom="readingOrder {index:6;}">
+               <Coords points="129,1104 928,1103 873,1064 129,1075"/>
+               <Baseline points="134,1089 179,1089 223,1086 268,1086 313,1083 358,1083 403,1086 447,1083 492,1083 537,1086 582,1086 626,1086 671,1086 716,1083 761,1086 806,1089 850,1089 895,1092 929,1095"/>
+               <TextEquiv>
+                  <Unicode>verstehen zu lernen. Der portugiesische Ministerpräsi¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_8" custom="readingOrder {index:7;}">
+               <Coords points="126,1133 841,1124 928,1148 913,1100 126,1106"/>
+               <Baseline points="131,1125 176,1122 220,1119 265,1119 310,1119 355,1119 400,1116 444,1116 489,1119 534,1116 579,1119 623,1119 668,1119 713,1119 758,1122 803,1122 847,1122 892,1125 898,1125 929,1130"/>
+               <TextEquiv>
+                  <Unicode>dent Oliveira Salazar war Professor in Coimbra und</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_9" custom="readingOrder {index:8;}">
+               <Coords points="126,1171 887,1167 887,1141 831,1131 126,1135"/>
+               <Baseline points="131,1158 176,1158 220,1155 265,1152 310,1152 355,1152 400,1152 444,1152 489,1152 534,1152 579,1152 623,1152 668,1155 713,1155 758,1155 803,1155 847,1155 889,1161"/>
+               <TextEquiv>
+                  <Unicode>hat von dort aus seine bedeutende Mission angetreten.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_10" custom="readingOrder {index:9;}">
+               <Coords points="132,1203 891,1207 881,1165 132,1171"/>
+               <Baseline points="137,1194 176,1188 220,1188 265,1185 310,1185 355,1185 400,1185 444,1185 489,1185 534,1185 579,1188 623,1188 668,1185 713,1188 758,1188 803,1188 847,1188 892,1191"/>
+               <TextEquiv>
+                  <Unicode>Der Kardinal-Patriarch von Lissabon bekleidete frü¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_11" custom="readingOrder {index:10;}">
+               <Coords points="138,1240 887,1238 887,1200 138,1199"/>
+               <Baseline points="143,1226 188,1220 232,1220 277,1220 322,1217 367,1217 411,1220 456,1217 501,1217 546,1220 591,1220 635,1220 680,1220 725,1220 770,1220 814,1223 859,1223 889,1226"/>
+               <TextEquiv>
+                  <Unicode>her in Coimbra einen Lehrstuhl. Man hat das Re¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_12" custom="readingOrder {index:11;}">
+               <Coords points="135,1272 894,1266 888,1231 135,1238"/>
+               <Baseline points="140,1259 179,1256 223,1253 268,1253 313,1253 358,1253 403,1253 447,1253 492,1253 537,1253 582,1253 626,1253 671,1253 716,1253 761,1256 806,1256 850,1256 895,1256"/>
+               <TextEquiv>
+                  <Unicode>gime Dr. Salazars' eine Regierung der Professoren</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_13" custom="readingOrder {index:12;}">
+               <Coords points="132,1300 884,1303 884,1273 840,1266 132,1276"/>
+               <Baseline points="137,1292 170,1289 214,1289 259,1286 304,1286 349,1286 394,1286 438,1286 483,1286 528,1286 573,1286 617,1286 662,1286 707,1286 752,1289 797,1289 841,1289 886,1289"/>
+               <TextEquiv>
+                  <Unicode>oder eine Diktatur der Intellektuellen genannt, und</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_14" custom="readingOrder {index:13;}">
+               <Coords points="138,1336 890,1341 890,1303 138,1311"/>
+               <Baseline points="143,1328 188,1322 232,1322 277,1322 322,1319 367,1319 411,1319 456,1319 501,1319 546,1322 591,1322 635,1319 680,1319 725,1322 770,1322 814,1322 859,1325 892,1328"/>
+               <TextEquiv>
+                  <Unicode>es sind Ruhmestitel. Aber der Sänger der Volksweise</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_15" custom="readingOrder {index:14;}">
+               <Coords points="135,1371 927,1363 791,1331 135,1338"/>
+               <Baseline points="140,1361 182,1355 226,1355 271,1355 316,1355 361,1352 405,1355 450,1352 495,1355 540,1355 585,1355 629,1355 674,1355 719,1355 764,1355 809,1355 853,1358 898,1358 929,1363"/>
+               <TextEquiv>
+                  <Unicode>ist nie an den Toren von Coimbra vorbeigekommen.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_16" custom="readingOrder {index:15;}">
+               <Coords points="144,1403 896,1404 896,1367 144,1370"/>
+               <Baseline points="149,1391 194,1388 238,1388 283,1388 328,1388 373,1388 417,1388 462,1388 507,1388 552,1388 597,1388 641,1388 686,1388 731,1391 776,1388 820,1391 865,1391 898,1394"/>
+               <TextEquiv>
+                  <Unicode>Bis vor kurzer Zeit wurde nie von ihm verlangt,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_17" custom="readingOrder {index:16;}">
+               <Coords points="132,1431 887,1439 887,1406 850,1401 132,1399"/>
+               <Baseline points="137,1426 182,1426 226,1423 271,1420 316,1420 361,1420 405,1420 450,1420 495,1420 540,1420 585,1423 629,1420 674,1423 719,1420 764,1423 809,1423 853,1423 889,1426"/>
+               <TextEquiv>
+                  <Unicode>daß er lesen und schreiben lerne. Er ist arm, und er</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_18" custom="readingOrder {index:17;}">
+               <Coords points="132,1474 896,1474 887,1431 132,1440"/>
+               <Baseline points="137,1462 182,1459 226,1456 271,1453 316,1453 361,1453 405,1453 450,1456 495,1456 540,1456 585,1453 629,1456 674,1456 719,1456 764,1456 809,1456 853,1459 898,1459"/>
+               <TextEquiv>
+                  <Unicode>sagt, er könne nicht singen. Aber dennoch singt er, und</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_19" custom="readingOrder {index:18;}">
+               <Coords points="135,1504 896,1499 896,1474 812,1465 135,1473"/>
+               <Baseline points="140,1495 182,1492 226,1489 271,1489 316,1486 361,1486 405,1489 450,1489 495,1489 540,1489 585,1489 629,1489 674,1486 719,1489 764,1489 809,1489 853,1489 898,1489"/>
+               <TextEquiv>
+                  <Unicode>seine Lieder sind wohl so alt wie die Universität von</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_20" custom="readingOrder {index:19;}">
+               <Coords points="144,1537 890,1543 883,1497 144,1507"/>
+               <Baseline points="149,1525 194,1525 238,1522 283,1522 328,1522 373,1522 417,1522 462,1522 507,1525 552,1522 597,1522 641,1522 686,1522 731,1522 776,1522 820,1522 865,1525 892,1525"/>
+               <TextEquiv>
+                  <Unicode>Coimbra. Es hat sich wenig geändert. Der herbe</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_21" custom="readingOrder {index:20;}">
+               <Coords points="138,1578 890,1570 875,1538 734,1528 138,1538"/>
+               <Baseline points="143,1564 176,1561 220,1558 265,1558 310,1558 355,1555 400,1558 444,1555 489,1558 534,1558 579,1558 623,1558 668,1558 713,1558 758,1558 803,1558 847,1558 892,1561"/>
+               <TextEquiv>
+                  <Unicode>Frühling, das herbe Leben und die Wehmut der</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_22" custom="readingOrder {index:21;}">
+               <Coords points="144,1613 893,1603 893,1570 144,1574"/>
+               <Baseline points="149,1594 194,1594 238,1591 283,1588 328,1591 373,1591 417,1591 462,1588 507,1591 552,1591 597,1591 641,1591 686,1591 731,1591 776,1594 820,1591 865,1594 895,1597"/>
+               <TextEquiv>
+                  <Unicode>Liebe, von denen die Volksweisen künden, sind heute</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_23" custom="readingOrder {index:22;}">
+               <Coords points="141,1643 900,1646 891,1601 141,1611"/>
+               <Baseline points="146,1629 185,1626 229,1623 274,1623 319,1623 364,1623 408,1623 453,1623 498,1623 543,1623 588,1626 632,1623 677,1623 722,1623 767,1623 811,1623 856,1626 901,1623"/>
+               <TextEquiv>
+                  <Unicode>gleich und finden in der portugiesischen Seele den</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_24" custom="readingOrder {index:23;}">
+               <Coords points="132,1679 598,1668 598,1646 571,1634 477,1645 401,1627 374,1642 132,1647"/>
+               <Baseline points="137,1662 152,1659 197,1659 241,1656 286,1656 331,1656 376,1656 420,1656 465,1659 510,1659 555,1659 600,1659"/>
+               <TextEquiv>
+                  <Unicode>gleichen Widerhall wie damals.\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_25" custom="readingOrder {index:24;}">
+               <Coords points="180,1716 896,1722 896,1683 848,1675 180,1682"/>
+               <Baseline points="185,1707 229,1707 274,1707 319,1707 364,1707 408,1704 453,1707 498,1704 543,1707 588,1707 632,1704 677,1707 722,1704 767,1707 811,1704 856,1707 898,1710"/>
+               <TextEquiv>
+                  <Unicode>\p\Denn Portugal, dieser Balkon Europas, ist trotz</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_26" custom="readingOrder {index:25;}">
+               <Coords points="132,1758 902,1757 902,1721 843,1715 132,1717"/>
+               <Baseline points="137,1743 143,1743 188,1743 232,1740 277,1740 322,1740 367,1740 411,1740 456,1740 501,1740 546,1740 591,1740 635,1740 680,1740 725,1740 770,1740 814,1740 859,1740 904,1740"/>
+               <TextEquiv>
+                  <Unicode>seines goldenen Lichtes und seiner großen Lieblichkeit</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_27" custom="readingOrder {index:26;}">
+               <Coords points="132,1786 893,1782 875,1751 132,1758"/>
+               <Baseline points="137,1779 179,1776 223,1776 268,1773 313,1773 358,1773 403,1773 447,1773 492,1773 537,1773 582,1773 626,1773 671,1776 716,1773 761,1773 806,1773 850,1773 895,1773"/>
+               <TextEquiv>
+                  <Unicode>kein mildes Land. Das Leben in Portugal, das heute</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_28" custom="readingOrder {index:27;}">
+               <Coords points="132,1821 927,1816 927,1786 878,1784 132,1786"/>
+               <Baseline points="137,1809 182,1809 226,1809 271,1809 316,1806 361,1809 405,1809 450,1806 495,1806 540,1809 585,1806 629,1809 674,1809 719,1806 764,1806 809,1809 853,1806 898,1809 904,1809 929,1802"/>
+               <TextEquiv>
+                  <Unicode>die Fremden empfängt und verführt, weil es auf die¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_29" custom="readingOrder {index:28;}">
+               <Coords points="135,1860 894,1862 894,1820 135,1823"/>
+               <Baseline points="140,1844 179,1841 223,1841 268,1841 313,1841 358,1841 403,1841 447,1841 492,1841 537,1841 582,1841 626,1841 671,1838 716,1838 761,1841 806,1841 850,1841 895,1841"/>
+               <TextEquiv>
+                  <Unicode>sem schönen Küstenstrich noch einmal die Vielfalt, fast</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_30" custom="readingOrder {index:29;}">
+               <Coords points="138,1886 897,1887 869,1851 138,1859"/>
+               <Baseline points="143,1877 182,1877 226,1874 271,1877 316,1874 361,1874 405,1874 450,1874 495,1874 540,1874 585,1874 629,1874 674,1874 719,1874 764,1874 809,1874 853,1874 898,1871"/>
+               <TextEquiv>
+                  <Unicode>Ueppigkeit, und die Annehmlichkeit europäischer Le¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_31" custom="readingOrder {index:30;}">
+               <Coords points="132,1919 896,1921 878,1884 132,1890"/>
+               <Baseline points="137,1910 182,1910 226,1910 271,1907 316,1907 361,1907 405,1910 450,1910 495,1907 540,1907 585,1910 629,1907 674,1910 719,1907 764,1907 809,1907 853,1907 898,1910"/>
+               <TextEquiv>
+                  <Unicode>bensformen versammelt, hat wenig gemein mit den</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_32" custom="readingOrder {index:31;}">
+               <Coords points="132,1950 893,1957 893,1920 863,1918 132,1920"/>
+               <Baseline points="137,1946 179,1943 223,1943 268,1940 313,1943 358,1943 403,1943 447,1940 492,1943 537,1943 582,1943 626,1940 671,1940 716,1940 761,1940 806,1940 850,1940 895,1940"/>
+               <TextEquiv>
+                  <Unicode>tieferen Quellen, aus denen sich die lebendige Seele</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_33" custom="readingOrder {index:32;}">
+               <Coords points="132,1992 893,1991 893,1961 855,1949 132,1959"/>
+               <Baseline points="137,1979 182,1976 226,1976 271,1976 316,1976 361,1976 405,1976 450,1976 495,1973 540,1976 585,1976 629,1973 674,1976 719,1976 764,1976 809,1976 853,1976 895,1979"/>
+               <TextEquiv>
+                  <Unicode>des portugiesischen Volkes genährt hat und die es er</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_34" custom="readingOrder {index:33;}">
+               <Coords points="132,2024 723,2022 723,1990 132,1993"/>
+               <Baseline points="137,2012 143,2012 188,2012 232,2009 277,2012 322,2009 367,2009 411,2009 456,2009 501,2009 546,2009 591,2009 635,2009 680,2009 725,2009"/>
+               <TextEquiv>
+                  <Unicode>halten wird über viele Stürme hinaus.\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_35" custom="readingOrder {index:34;}">
+               <Coords points="174,2069 893,2072 893,2029 870,2026 174,2027"/>
+               <Baseline points="179,2059 223,2059 268,2056 313,2059 358,2059 403,2056 447,2056 492,2056 537,2056 582,2056 626,2056 671,2056 716,2056 761,2056 806,2053 850,2056 895,2053"/>
+               <TextEquiv>
+                  <Unicode>\p\Mit Stürmen, die hoch oben im Norden den Schnee,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_36" custom="readingOrder {index:35;}">
+               <Coords points="135,2103 899,2102 899,2075 858,2067 135,2069"/>
+               <Baseline points="140,2092 185,2092 229,2092 274,2092 319,2092 364,2092 408,2092 453,2092 498,2092 543,2092 588,2089 632,2089 677,2089 722,2089 767,2089 811,2089 856,2089 901,2092"/>
+               <TextEquiv>
+                  <Unicode>in Rosen verwandeln, die im Süden über die kahlen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_37" custom="readingOrder {index:36;}">
+               <Coords points="135,2133 902,2134 892,2106 754,2096 135,2106"/>
+               <Baseline points="140,2131 143,2131 188,2125 232,2125 277,2125 322,2125 367,2125 411,2125 456,2125 501,2125 546,2125 591,2125 635,2125 680,2125 725,2122 770,2122 814,2125 859,2122 904,2122"/>
+               <TextEquiv>
+                  <Unicode>Weiden der Algarve fegen, im Inneren die Fichten¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_38" custom="readingOrder {index:37;}">
+               <Coords points="132,2164 893,2168 876,2130 132,2134"/>
+               <Baseline points="137,2161 179,2161 223,2158 268,2161 313,2158 358,2158 403,2158 447,2158 492,2158 537,2158 582,2158 626,2155 671,2158 716,2158 761,2158 806,2155 850,2155 895,2155"/>
+               <TextEquiv>
+                  <Unicode>kronen schütteln und auf dem Tejo die Segel der Fi¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_39" custom="readingOrder {index:38;}">
+               <Coords points="135,2211 902,2198 891,2168 135,2167"/>
+               <Baseline points="140,2197 143,2197 188,2194 232,2194 277,2194 322,2194 367,2194 411,2191 456,2191 501,2191 546,2191 591,2191 635,2191 680,2191 725,2191 770,2191 814,2191 859,2191 904,2194"/>
+               <TextEquiv>
+                  <Unicode>scherbarken blähen, kündigt sich in Portugal der Früh¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_40" custom="readingOrder {index:39;}">
+               <Coords points="138,2235 890,2241 890,2206 857,2201 138,2209"/>
+               <Baseline points="143,2229 176,2229 220,2227 265,2227 310,2227 355,2227 400,2227 444,2227 489,2227 534,2227 579,2227 623,2224 668,2224 713,2224 758,2224 803,2224 847,2224 892,2227"/>
+               <TextEquiv>
+                  <Unicode>ling an. Auf den Hügeln warten die kleinen Segel</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_41" custom="readingOrder {index:40;}">
+               <Coords points="132,2273 899,2271 899,2239 132,2244"/>
+               <Baseline points="137,2262 140,2262 185,2262 229,2259 274,2259 319,2259 364,2259 408,2259 453,2259 498,2259 543,2259 588,2256 632,2256 677,2256 722,2259 767,2256 811,2256 856,2256 901,2256"/>
+               <TextEquiv>
+                  <Unicode>mühlen aus den Wind; auf den rötlichen Feldern</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_42" custom="readingOrder {index:41;}">
+               <Coords points="135,2310 899,2302 855,2268 136,2272"/>
+               <Baseline points="140,2298 185,2295 229,2295 274,2292 319,2292 364,2292 408,2292 453,2292 498,2292 543,2292 588,2292 632,2292 677,2292 722,2289 767,2289 811,2292 856,2289 901,2289"/>
+               <TextEquiv>
+                  <Unicode>stemmen die Ochsen vor dem Pflug ihm ihre breiten</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_43" custom="readingOrder {index:42;}">
+               <Coords points="132,2329 837,2342 899,2337 900,2302 132,2311"/>
+               <Baseline points="137,2328 140,2328 185,2328 229,2328 274,2328 319,2328 364,2328 408,2328 453,2328 498,2328 543,2325 588,2325 632,2325 677,2325 722,2322 767,2325 811,2325 856,2322 901,2322"/>
+               <TextEquiv>
+                  <Unicode>Stirnen entgegen, als wollten sie ihn zwischen der</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_44" custom="readingOrder {index:43;}">
+               <Coords points="145,2373 899,2367 890,2334 145,2337"/>
+               <Baseline points="150,2361 197,2361 241,2361 286,2361 331,2361 376,2361 420,2361 465,2358 510,2361 555,2361 600,2358 644,2358 689,2358 734,2358 779,2358 823,2358 868,2358 901,2358"/>
+               <TextEquiv>
+                  <Unicode>Lyra ihrer geschwungenen Hörner auffangen. Die</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_45" custom="readingOrder {index:44;}">
+               <Coords points="135,2402 899,2406 899,2376 833,2365 135,2376"/>
+               <Baseline points="140,2394 185,2394 229,2394 274,2394 319,2397 364,2394 408,2394 453,2394 498,2394 543,2394 588,2394 632,2394 677,2391 722,2391 767,2391 811,2391 856,2391 901,2391"/>
+               <TextEquiv>
+                  <Unicode>Sonne ist heiß und wirft sich mit fast metallischem</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_46" custom="readingOrder {index:45;}">
+               <Coords points="132,2435 899,2443 882,2402 132,2404"/>
+               <Baseline points="137,2429 182,2429 226,2427 271,2429 316,2427 361,2427 405,2427 450,2427 495,2427 540,2427 585,2427 629,2427 674,2427 719,2424 764,2424 809,2424 853,2424 898,2429 901,2429"/>
+               <TextEquiv>
+                  <Unicode>Glanz auf die weißen Landstraßen, die Marktplätze,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_47" custom="readingOrder {index:46;}">
+               <Coords points="132,2473 902,2466 868,2434 132,2435"/>
+               <Baseline points="137,2462 143,2462 188,2462 232,2462 277,2462 322,2462 367,2462 411,2459 456,2459 501,2459 546,2459 591,2459 635,2459 680,2459 725,2456 770,2456 814,2456 859,2456 904,2456"/>
+               <TextEquiv>
+                  <Unicode>die Fischerbuchten, die alten Mauern und Portale der</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_48" custom="readingOrder {index:47;}">
+               <Coords points="134,2512 899,2499 899,2467 135,2479"/>
+               <Baseline points="140,2498 185,2498 229,2495 274,2495 319,2495 364,2495 408,2495 453,2495 498,2492 543,2492 588,2495 632,2492 677,2492 722,2492 767,2489 811,2492 856,2489 901,2489"/>
+               <TextEquiv>
+                  <Unicode>„Quintas“ in den Dörfern und auf die blitzende</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_49" custom="readingOrder {index:48;}">
+               <Coords points="135,2541 902,2542 902,2504 135,2511"/>
+               <Baseline points="140,2531 143,2531 188,2528 232,2531 277,2528 322,2528 367,2528 411,2528 456,2525 501,2528 546,2525 591,2525 635,2525 680,2525 725,2525 770,2522 814,2525 859,2525 904,2525"/>
+               <TextEquiv>
+                  <Unicode>Wasserfläche des Tejo und des Meeres. Aber der</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_50" custom="readingOrder {index:49;}">
+               <Coords points="135,2577 896,2567 896,2538 135,2541"/>
+               <Baseline points="140,2567 182,2564 226,2561 271,2564 316,2561 361,2561 405,2561 450,2561 495,2561 540,2558 585,2561 629,2558 674,2558 719,2558 764,2558 809,2558 853,2558 898,2564"/>
+               <TextEquiv>
+                  <Unicode>Wind fährt dazwischen und spielt mit Wolkenmassen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_51" custom="readingOrder {index:50;}">
+               <Coords points="131,2603 898,2605 881,2568 132,2578"/>
+               <Baseline points="137,2597 140,2597 185,2597 229,2597 274,2597 319,2597 364,2597 408,2594 453,2594 498,2594 543,2594 588,2594 632,2591 677,2594 722,2591 767,2591 811,2591 856,2591 901,2594"/>
+               <TextEquiv>
+                  <Unicode>die sich zusammenballen und in Sekundenschnelle den</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_52" custom="readingOrder {index:51;}">
+               <Coords points="144,2646 903,2641 903,2601 144,2612"/>
+               <Baseline points="149,2630 188,2630 232,2630 277,2630 322,2630 367,2630 411,2627 456,2627 501,2627 546,2627 591,2627 635,2624 680,2624 725,2624 770,2624 814,2624 859,2624 904,2624"/>
+               <TextEquiv>
+                  <Unicode>Himmel verdüstern, dann sich wieder verflüchtigen und</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_53" custom="readingOrder {index:52;}">
+               <Coords points="141,2677 801,2679 877,2675 899,2645 142,2647"/>
+               <Baseline points="146,2668 185,2662 229,2662 274,2662 319,2662 364,2662 408,2662 453,2659 498,2659 543,2659 588,2659 632,2656 677,2659 722,2656 767,2656 811,2656 856,2656 901,2656"/>
+               <TextEquiv>
+                  <Unicode>zu zarten Schleiern werden, durch welche die Bläue</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_54" custom="readingOrder {index:53;}">
+               <Coords points="141,2710 908,2713 895,2666 141,2676"/>
+               <Baseline points="146,2698 149,2698 194,2695 238,2695 283,2695 328,2695 373,2695 417,2692 462,2695 507,2692 552,2692 597,2692 641,2692 686,2689 731,2689 776,2689 820,2689 865,2692 910,2692"/>
+               <TextEquiv>
+                  <Unicode>hervorbricht, bald matt wie Pastell, bald durch¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_55" custom="readingOrder {index:54;}">
+               <Coords points="141,2751 825,2746 825,2705 141,2711"/>
+               <Baseline points="146,2731 155,2731 200,2731 244,2731 289,2728 334,2728 379,2728 423,2728 468,2725 513,2725 558,2728 603,2725 647,2725 692,2725 737,2725 782,2725 826,2725"/>
+               <TextEquiv>
+                  <Unicode>scheinend hell, bald satt wie ein Königsmantel.\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_56" custom="readingOrder {index:55;}">
+               <Coords points="180,2785 899,2784 899,2749 180,2751"/>
+               <Baseline points="185,2779 229,2779 274,2776 319,2776 364,2776 408,2776 453,2776 498,2776 543,2776 588,2776 632,2773 677,2773 722,2773 767,2773 811,2773 856,2773 901,2773"/>
+               <TextEquiv>
+                  <Unicode>\p\Diese Unruhe des Himmels, dieses wilde Spiel</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_57" custom="readingOrder {index:56;}">
+               <Coords points="150,2826 877,2823 900,2784 264,2801 151,2778"/>
+               <Baseline points="155,2815 185,2812 229,2812 274,2812 319,2812 364,2809 408,2809 453,2809 498,2809 543,2809 588,2809 632,2809 677,2806 722,2806 767,2806 811,2806 856,2806 901,2806"/>
+               <TextEquiv>
+                  <Unicode>zwischen Licht und Schatten, Ruhe und Sturm, und</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_58" custom="readingOrder {index:57;}">
+               <Coords points="144,2852 886,2858 894,2818 144,2826"/>
+               <Baseline points="149,2847 179,2844 223,2844 268,2844 313,2841 358,2844 403,2841 447,2841 492,2841 537,2841 582,2841 626,2841 671,2838 716,2838 761,2838 806,2838 850,2838 895,2838"/>
+               <TextEquiv>
+                  <Unicode>dieser jähe Wechsel von fast afrikanischer Hitze zu</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_59" custom="readingOrder {index:58;}">
+               <Coords points="144,2895 903,2888 896,2850 144,2851"/>
+               <Baseline points="149,2880 188,2880 232,2880 277,2877 322,2877 367,2877 411,2877 456,2877 501,2877 546,2874 591,2874 635,2874 680,2874 725,2871 770,2871 814,2874 859,2871 904,2874"/>
+               <TextEquiv>
+                  <Unicode>feuchter, frontiger Kälte, sind wie eine Warnung, sich</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_60" custom="readingOrder {index:59;}">
+               <Coords points="147,2922 899,2920 893,2882 147,2893"/>
+               <Baseline points="152,2913 185,2913 229,2910 274,2910 319,2910 364,2910 408,2910 453,2910 498,2907 543,2907 588,2907 632,2907 677,2907 722,2907 767,2907 811,2907 856,2907 901,2904"/>
+               <TextEquiv>
+                  <Unicode>nicht verführen zu lassen — weder vom weißen Sand</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_61" custom="readingOrder {index:60;}">
+               <Coords points="150,2957 884,2951 861,2915 150,2928"/>
+               <Baseline points="155,2949 170,2946 214,2946 259,2946 304,2946 349,2946 394,2943 438,2943 483,2943 528,2943 573,2943 617,2943 662,2940 707,2943 752,2940 797,2940 841,2940 886,2940"/>
+               <TextEquiv>
+                  <Unicode>und den geschützten Blumenbeeten der „Costa de Sol"</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_62" custom="readingOrder {index:61;}">
+               <Coords points="144,2985 901,2989 877,2950 145,2962"/>
+               <Baseline points="149,2982 188,2979 232,2979 277,2979 322,2979 367,2979 411,2979 456,2976 501,2979 546,2976 591,2976 635,2976 680,2976 725,2976 770,2973 814,2973 859,2973 904,2976"/>
+               <TextEquiv>
+                  <Unicode>noch von den Gitarrenklängen und sehnsüchtig weichen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_63" custom="readingOrder {index:62;}">
+               <Coords points="138,3024 889,3019 890,2984 139,3003"/>
+               <Baseline points="143,3015 176,3015 220,3015 265,3015 310,3015 355,3015 400,3012 444,3012 489,3009 534,3012 579,3009 623,3009 668,3012 713,3009 758,3009 803,3009 847,3006 892,3009"/>
+               <TextEquiv>
+                  <Unicode>Stimmen der „Fatos“. Groß sind die Gegensätze in</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_64" custom="readingOrder {index:63;}">
+               <Coords points="141,3055 927,3053 906,3018 141,3024"/>
+               <Baseline points="146,3050 149,3050 194,3047 238,3047 283,3047 328,3047 373,3047 417,3044 462,3044 507,3044 552,3041 597,3044 641,3041 686,3041 731,3038 776,3041 820,3041 865,3041 910,3041 929,3043"/>
+               <TextEquiv>
+                  <Unicode>Portugal. Gleich hinter der Rivierabucht von Estoril</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_65" custom="readingOrder {index:64;}">
+               <Coords points="141,3096 900,3085 873,3049 141,3056"/>
+               <Baseline points="146,3080 185,3080 229,3080 274,3080 319,3080 364,3080 408,3080 453,3077 498,3080 543,3077 588,3077 632,3074 677,3077 722,3077 767,3074 811,3074 856,3074 901,3074"/>
+               <TextEquiv>
+                  <Unicode>breitet sich ein herbes, vom Wind gefegtes Land aus</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_66" custom="readingOrder {index:65;}">
+               <Coords points="138,3117 902,3126 902,3091 138,3105"/>
+               <Baseline points="143,3116 188,3113 232,3116 277,3116 322,3116 367,3113 411,3113 456,3113 501,3110 546,3110 591,3110 635,3110 680,3110 725,3110 770,3107 814,3110 859,3110 904,3113"/>
+               <TextEquiv>
+                  <Unicode>wo Heidekraut, Steine und dürftiges Gras herrschen,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_67" custom="readingOrder {index:66;}">
+               <Coords points="141,3157 900,3157 900,3125 141,3131"/>
+               <Baseline points="146,3149 185,3149 229,3149 274,3149 319,3149 364,3149 408,3146 453,3146 498,3146 543,3146 588,3146 632,3146 677,3146 722,3143 767,3143 811,3143 856,3143 901,3143"/>
+               <TextEquiv>
+                  <Unicode>wo Hirtenbuben, eine zerrissene Filzdecke auf den</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_68" custom="readingOrder {index:67;}">
+               <Coords points="141,3192 876,3196 901,3156 142,3159"/>
+               <Baseline points="146,3185 185,3182 229,3185 274,3185 319,3182 364,3182 408,3182 453,3179 498,3179 543,3179 588,3179 632,3179 677,3176 722,3176 767,3176 811,3176 856,3176 901,3179"/>
+               <TextEquiv>
+                  <Unicode>Rücken, die Füße mit Sackleinen und Bast umwickelt</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_69" custom="readingOrder {index:68;}">
+               <Coords points="147,3228 898,3228 899,3186 148,3192"/>
+               <Baseline points="152,3218 185,3218 229,3215 274,3215 319,3218 364,3215 408,3215 453,3215 498,3212 543,3215 588,3212 632,3212 677,3209 722,3212 767,3209 811,3209 856,3209 901,3206"/>
+               <TextEquiv>
+                  <Unicode>ihre Schafe und Schweine hüten. Und hinter der Weh¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_70" custom="readingOrder {index:69;}">
+               <Coords points="138,3255 826,3262 902,3251 903,3223 138,3235"/>
+               <Baseline points="143,3247 188,3250 232,3250 277,3250 322,3250 367,3247 411,3247 456,3247 501,3247 546,3247 591,3244 635,3244 680,3244 725,3241 770,3241 814,3244 859,3244 904,3241"/>
+               <TextEquiv>
+                  <Unicode>mut der „Fados“, hinter dem sanften Wort „Sauda¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_71" custom="readingOrder {index:70;}">
+               <Coords points="150,3295 899,3290 899,3252 150,3260"/>
+               <Baseline points="155,3286 185,3283 229,3283 274,3283 319,3283 364,3283 408,3283 453,3280 498,3280 543,3280 588,3280 632,3277 677,3280 722,3277 767,3277 811,3277 856,3277 901,3274"/>
+               <TextEquiv>
+                  <Unicode>des”, welches Wehmut und Reue, Heimweh, Zärt¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_72" custom="readingOrder {index:71;}">
+               <Coords points="141,3323 895,3324 896,3289 142,3288"/>
+               <Baseline points="146,3319 182,3316 226,3316 271,3319 316,3316 361,3316 405,3316 450,3316 495,3316 540,3313 585,3313 629,3310 674,3310 719,3313 764,3310 809,3310 853,3310 898,3310"/>
+               <TextEquiv>
+                  <Unicode>lichkeit und Liebe zugleich bedeutet und sich nicht</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_73" custom="readingOrder {index:72;}">
+               <Coords points="138,3354 927,3358 927,3327 875,3321 138,3330"/>
+               <Baseline points="143,3352 149,3352 194,3352 238,3352 283,3349 328,3352 373,3349 417,3349 462,3349 507,3346 552,3349 597,3346 641,3346 686,3346 731,3343 776,3343 820,3343 865,3343 910,3343 929,3343"/>
+               <TextEquiv>
+                  <Unicode>übersetzen läßt, verbirgt sich eine ernste und tiefe</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_74" custom="readingOrder {index:73;}">
+               <Coords points="150,3393 899,3389 899,3356 150,3361"/>
+               <Baseline points="155,3388 185,3385 229,3385 274,3385 319,3385 364,3382 408,3382 453,3382 498,3382 543,3379 588,3382 632,3379 677,3379 722,3379 767,3379 811,3379 856,3376 901,3373"/>
+               <TextEquiv>
+                  <Unicode>Trauer, welche ein Erbteil der Portugiesen ist. Rö¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_75" custom="readingOrder {index:74;}">
+               <Coords points="141,3427 847,3430 898,3423 899,3397 142,3400"/>
+               <Baseline points="146,3418 185,3418 229,3418 274,3418 319,3418 364,3418 408,3418 453,3415 498,3415 543,3415 588,3415 632,3412 677,3412 722,3412 767,3412 811,3412 856,3409 901,3409"/>
+               <TextEquiv>
+                  <Unicode>mische Viadukte, die ihre Felder durchschneiden, Ka¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_76" custom="readingOrder {index:75;}">
+               <Coords points="137,3469 899,3458 877,3420 138,3437"/>
+               <Baseline points="143,3453 185,3453 229,3450 274,3453 319,3450 364,3450 408,3450 453,3450 498,3447 543,3447 588,3447 632,3447 677,3447 722,3444 767,3444 811,3444 856,3444 901,3441"/>
+               <TextEquiv>
+                  <Unicode>pellen und Burgmauern der Westgoten, arabische Zi¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_77" custom="readingOrder {index:76;}">
+               <Coords points="144,3496 882,3498 927,3462 145,3469"/>
+               <Baseline points="149,3486 191,3486 235,3486 280,3486 325,3486 370,3483 414,3483 459,3483 504,3483 549,3480 594,3480 638,3480 683,3480 728,3477 773,3477 817,3477 862,3477 907,3477 929,3477"/>
+               <TextEquiv>
+                  <Unicode>tadellen, maurische Türme und die festen Schlösser</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_78" custom="readingOrder {index:77;}">
+               <Coords points="153,3536 902,3523 902,3494 153,3495"/>
+               <Baseline points="158,3522 188,3519 232,3519 277,3519 322,3519 367,3519 411,3519 456,3516 501,3516 546,3516 591,3516 635,3513 680,3513 725,3513 770,3513 814,3513 859,3510 904,3513"/>
+               <TextEquiv>
+                  <Unicode>ihrer ersten, aus dem Norden erobernd nach Lissabon</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_79" custom="readingOrder {index:78;}">
+               <Coords points="147,3564 927,3558 895,3522 147,3529"/>
+               <Baseline points="152,3558 191,3552 235,3552 280,3552 325,3552 370,3552 414,3552 459,3552 504,3552 549,3552 594,3549 638,3546 683,3549 728,3546 773,3546 817,3546 862,3546 907,3549 929,3551"/>
+               <TextEquiv>
+                  <Unicode>gekommenen Könige erinnern sie daran, daß sie von</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_80" custom="readingOrder {index:79;}">
+               <Coords points="144,3597 903,3594 903,3558 144,3569"/>
+               <Baseline points="149,3588 188,3588 232,3588 277,3588 322,3588 367,3585 411,3585 456,3585 501,3585 546,3585 591,3582 635,3582 680,3582 725,3579 770,3579 814,3579 859,3579 904,3579"/>
+               <TextEquiv>
+                  <Unicode>den Schicksalen vieler Völker gekostet haben; der</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_81" custom="readingOrder {index:80;}">
+               <Coords points="147,3635 875,3629 905,3595 148,3601"/>
+               <Baseline points="152,3621 191,3624 235,3621 280,3621 325,3621 370,3621 414,3618 459,3621 504,3618 549,3618 594,3618 638,3618 683,3615 728,3615 773,3615 817,3612 862,3612 907,3612"/>
+               <TextEquiv>
+                  <Unicode>Turm von Belem an der Tejomündung steht als</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_82" custom="readingOrder {index:81;}">
+               <Coords points="144,3667 371,3681 659,3650 717,3677 927,3650 927,3627 850,3618 145,3631"/>
+               <Baseline points="149,3659 188,3656 232,3656 277,3656 322,3656 367,3656 411,3653 456,3653 501,3653 546,3653 591,3650 635,3650 680,3647 725,3647 770,3647 814,3647 859,3644 904,3647 929,3647"/>
+               <TextEquiv>
+                  <Unicode>Zeugnis der großen Zeit, als von hier ihre kühnen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="917,578 1724,578 1724,1897 917,1897"/>
+            <TextLine id="r_4_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="929,624 1690,625 1690,592 1538,575 1405,600 929,574"/>
+               <Baseline points="934,608 979,608 1023,608 1068,608 1113,608 1158,608 1203,611 1247,611 1292,611 1337,611 1382,614 1426,614 1471,614 1516,614 1561,611 1606,611 1650,611 1692,611"/>
+               <TextEquiv>
+                  <Unicode>Seefahrer mit ihren Caravellen aussegelten, um den</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="926,647 1499,671 1678,656 1684,624 925,631"/>
+               <Baseline points="931,644 976,644 1020,644 1065,644 1110,644 1155,644 1200,644 1244,644 1289,647 1334,647 1379,647 1423,650 1468,650 1513,647 1558,650 1603,647 1647,644 1686,644"/>
+               <TextEquiv>
+                  <Unicode>Europäischen Menschen die Welt zu eröffnen, und die</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_3" custom="readingOrder {index:2;}">
+               <Coords points="926,694 1690,691 1690,654 926,650"/>
+               <Baseline points="931,680 976,677 1020,677 1065,677 1110,677 1155,677 1200,680 1244,680 1289,680 1334,680 1379,683 1423,683 1468,683 1513,683 1558,683 1603,680 1647,680 1692,680"/>
+               <TextEquiv>
+                  <Unicode>schönsten Paläste zeugen von den Zeiten großen Reich¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_4" custom="readingOrder {index:3;}">
+               <Coords points="926,718 1690,721 1690,692 926,697"/>
+               <Baseline points="931,713 976,710 1020,710 1065,713 1110,713 1155,713 1200,713 1244,713 1289,713 1334,716 1379,716 1423,716 1468,716 1513,716 1558,716 1603,713 1647,713 1692,713"/>
+               <TextEquiv>
+                  <Unicode>tums und großer Macht. Aber diese Schicksale waren</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_5" custom="readingOrder {index:4;}">
+               <Coords points="926,754 1690,755 1683,721 926,731"/>
+               <Baseline points="931,746 976,746 1020,746 1065,746 1110,746 1155,746 1200,746 1244,749 1289,749 1334,749 1379,749 1423,749 1468,749 1513,749 1558,749 1603,749 1647,746 1692,749"/>
+               <TextEquiv>
+                  <Unicode>vergänglich, und das Land, und die Bedingungen, die</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_6" custom="readingOrder {index:5;}">
+               <Coords points="926,787 1617,802 1722,780 1704,754 926,757"/>
+               <Baseline points="931,779 976,779 1020,779 1065,779 1110,779 1155,779 1200,782 1244,782 1289,782 1334,782 1379,782 1423,782 1468,785 1513,782 1558,782 1603,782 1647,782 1692,779 1698,779 1724,779"/>
+               <TextEquiv>
+                  <Unicode>seine Erde und seine Menschen geformt haben, sind</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_7" custom="readingOrder {index:6;}">
+               <Coords points="926,832 975,821 1058,834 1080,821 1130,840 1208,837 1281,815 1281,799 1254,788 1234,800 1151,791 1112,803 1064,787 926,787"/>
+               <Baseline points="931,814 976,811 1020,814 1065,814 1110,811 1155,814 1200,814 1244,814 1283,814"/>
+               <TextEquiv>
+                  <Unicode>die gleichen geblieben.\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_8" custom="readingOrder {index:7;}">
+               <Coords points="983,876 1690,882 1683,811 1580,842 983,838"/>
+               <Baseline points="988,862 1032,862 1077,862 1122,862 1167,862 1212,862 1256,862 1301,862 1346,862 1391,862 1435,862 1480,862 1525,862 1570,862 1615,862 1659,862 1692,862"/>
+               <TextEquiv>
+                  <Unicode>\p\Man hört manchmal, Reichtum und Weltherrschaft</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_9" custom="readingOrder {index:8;}">
+               <Coords points="926,911 1685,905 1685,880 1626,872 1083,881 926,857"/>
+               <Baseline points="931,895 976,895 1020,895 1065,895 1110,895 1155,895 1200,895 1244,895 1289,895 1334,898 1379,898 1423,895 1468,898 1513,895 1558,895 1603,895 1647,895 1686,895"/>
+               <TextEquiv>
+                  <Unicode>hätten die portugiesische Nation verwöhnt und ver¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_10" custom="readingOrder {index:9;}">
+               <Coords points="926,945 1693,942 1688,904 927,912"/>
+               <Baseline points="931,928 976,928 1020,928 1065,931 1110,931 1155,931 1200,931 1244,931 1289,931 1334,928 1379,931 1423,931 1468,931 1513,928 1558,931 1603,928 1647,928 1692,931 1695,931"/>
+               <TextEquiv>
+                  <Unicode>weichlicht, der Verlust der Weltherrschaft habe sie re¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_11" custom="readingOrder {index:10;}">
+               <Coords points="926,981 1722,987 1705,933 926,944"/>
+               <Baseline points="931,967 943,967 988,964 1032,961 1077,964 1122,961 1167,964 1212,964 1256,964 1301,964 1346,964 1391,964 1435,964 1480,964 1525,964 1570,964 1615,961 1659,961 1704,961 1724,954"/>
+               <TextEquiv>
+                  <Unicode>signiert und müde gemacht. Das ist eine vorschnelle</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_12" custom="readingOrder {index:11;}">
+               <Coords points="912,1001 1691,1009 1682,972 912,976"/>
+               <Baseline points="917,995 931,997 976,994 1020,997 1065,994 1110,997 1155,997 1200,997 1244,997 1289,997 1334,1000 1379,997 1423,997 1468,997 1513,997 1558,994 1603,997 1647,994 1692,997"/>
+               <TextEquiv>
+                  <Unicode>und oberflächliche Auffassung. Draußen im Land die</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_13" custom="readingOrder {index:12;}">
+               <Coords points="926,1036 1690,1039 1690,1014 1645,1004 926,1002"/>
+               <Baseline points="931,1029 976,1029 1020,1029 1065,1029 1110,1032 1155,1029 1200,1029 1244,1029 1289,1029 1334,1032 1379,1032 1423,1029 1468,1029 1513,1029 1558,1029 1603,1029 1647,1029 1692,1029"/>
+               <TextEquiv>
+                  <Unicode>Bauern haben an keinem verweichlichenden Reichtum</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_14" custom="readingOrder {index:13;}">
+               <Coords points="912,1078 1691,1075 1678,1039 912,1041"/>
+               <Baseline points="917,1062 940,1062 985,1062 1029,1062 1074,1065 1119,1062 1164,1062 1209,1062 1253,1062 1298,1062 1343,1065 1388,1062 1432,1065 1477,1065 1522,1065 1567,1062 1612,1062 1656,1062 1692,1062"/>
+               <TextEquiv>
+                  <Unicode>teilgenommen und leben heute wie damals von so</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_15" custom="readingOrder {index:14;}">
+               <Coords points="912,1103 1696,1106 1668,1074 912,1075"/>
+               <Baseline points="917,1094 931,1095 976,1098 1020,1095 1065,1098 1110,1098 1155,1095 1200,1098 1244,1095 1289,1098 1334,1095 1379,1098 1423,1098 1468,1098 1513,1095 1558,1095 1603,1095 1647,1095 1692,1095 1698,1098"/>
+               <TextEquiv>
+                  <Unicode>karger Nahrung und harter Arbeit wie kaum ein an¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_16" custom="readingOrder {index:15;}">
+               <Coords points="912,1149 1693,1144 1681,1104 912,1101"/>
+               <Baseline points="917,1128 934,1131 979,1131 1023,1131 1068,1131 1113,1131 1158,1131 1203,1131 1247,1128 1292,1131 1337,1131 1382,1131 1426,1131 1471,1128 1516,1131 1561,1131 1606,1128 1650,1128 1695,1131"/>
+               <TextEquiv>
+                  <Unicode>deres europäisches Volk; der Stempel würdigen Ern¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_17" custom="readingOrder {index:16;}">
+               <Coords points="932,1180 1722,1166 1702,1136 932,1140"/>
+               <Baseline points="937,1167 940,1167 985,1164 1029,1164 1074,1164 1119,1164 1164,1161 1209,1164 1253,1164 1298,1164 1343,1164 1388,1164 1432,1164 1477,1164 1522,1164 1567,1164 1612,1164 1656,1161 1701,1164 1724,1155"/>
+               <TextEquiv>
+                  <Unicode>stes, den ihnen ein herber Daseinskiampf aufdrückte,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_18" custom="readingOrder {index:17;}">
+               <Coords points="926,1208 1690,1211 1680,1172 926,1181"/>
+               <Baseline points="931,1197 976,1197 1020,1197 1065,1197 1110,1197 1155,1197 1200,1197 1244,1197 1289,1197 1334,1197 1379,1197 1423,1197 1468,1197 1513,1197 1558,1197 1603,1197 1647,1197 1692,1197"/>
+               <TextEquiv>
+                  <Unicode>mischt sich mit einer tiefen, echten Heiterkeit, die aus</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_19" custom="readingOrder {index:18;}">
+               <Coords points="926,1245 1696,1239 1696,1209 926,1217"/>
+               <Baseline points="931,1232 937,1232 982,1229 1026,1229 1071,1229 1116,1229 1161,1229 1206,1229 1250,1229 1295,1229 1340,1229 1385,1229 1429,1229 1474,1229 1519,1229 1564,1229 1609,1229 1653,1229 1698,1229"/>
+               <TextEquiv>
+                  <Unicode>der gleichen Quelle stammt. Man braucht nur einem</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_20" custom="readingOrder {index:19;}">
+               <Coords points="931,1275 1691,1273 1691,1248 1579,1238 932,1250"/>
+               <Baseline points="937,1265 976,1265 1020,1265 1065,1262 1110,1265 1155,1262 1200,1262 1244,1265 1289,1262 1334,1265 1379,1265 1423,1262 1468,1265 1513,1262 1558,1262 1603,1262 1647,1262 1692,1262"/>
+               <TextEquiv>
+                  <Unicode>portugiesischen Stierkampf beizuwohnen, der schon zu</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_21" custom="readingOrder {index:20;}">
+               <Coords points="941,1311 1652,1312 1690,1305 1691,1273 942,1277"/>
+               <Baseline points="946,1304 976,1298 1020,1298 1065,1295 1110,1298 1155,1298 1200,1298 1244,1298 1289,1298 1334,1298 1379,1298 1423,1298 1468,1295 1513,1298 1558,1295 1603,1292 1647,1295 1692,1295"/>
+               <TextEquiv>
+                  <Unicode>Zeit der westgotischen Könige das ritterliche Spiel</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_22" custom="readingOrder {index:21;}">
+               <Coords points="932,1349 1722,1331 1708,1296 933,1310"/>
+               <Baseline points="937,1334 943,1334 988,1328 1032,1331 1077,1331 1122,1331 1167,1331 1212,1331 1256,1331 1301,1331 1346,1328 1391,1331 1435,1331 1480,1331 1525,1328 1570,1328 1615,1328 1659,1328 1704,1328 1724,1321"/>
+               <TextEquiv>
+                  <Unicode>der Adeligen und das Vergnügen des Volks</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_23" custom="readingOrder {index:22;}">
+               <Coords points="912,1382 1693,1371 1681,1339 912,1348"/>
+               <Baseline points="917,1361 934,1364 979,1367 1023,1364 1068,1367 1113,1364 1158,1367 1203,1367 1247,1367 1292,1364 1337,1367 1382,1364 1426,1364 1471,1364 1516,1364 1561,1364 1606,1361 1650,1361 1695,1364"/>
+               <TextEquiv>
+                  <Unicode>war, um in der zugleich männlichen und anmutigen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_24" custom="readingOrder {index:23;}">
+               <Coords points="938,1410 1699,1410 1690,1374 938,1375"/>
+               <Baseline points="943,1400 985,1397 1029,1397 1074,1397 1119,1397 1164,1400 1209,1400 1253,1400 1298,1400 1343,1400 1388,1397 1432,1400 1477,1397 1522,1397 1567,1397 1612,1394 1656,1394 1701,1394"/>
+               <TextEquiv>
+                  <Unicode>Meisterschaft der „Cavalieros“ in der wunderbaren</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_25" custom="readingOrder {index:24;}">
+               <Coords points="929,1441 1723,1434 1717,1405 929,1412"/>
+               <Baseline points="934,1432 943,1432 988,1432 1032,1432 1077,1429 1122,1432 1167,1429 1212,1432 1256,1429 1301,1429 1346,1432 1391,1432 1435,1429 1480,1429 1525,1429 1570,1429 1615,1426 1659,1426 1704,1426 1724,1426"/>
+               <TextEquiv>
+                  <Unicode>Schulung ihrer herrlichen Pferde die Credition einer</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_26" custom="readingOrder {index:25;}">
+               <Coords points="941,1481 1722,1469 1711,1432 941,1447"/>
+               <Baseline points="946,1465 988,1465 1032,1465 1077,1468 1122,1465 1167,1465 1212,1465 1256,1465 1301,1465 1346,1465 1391,1465 1435,1462 1480,1462 1525,1462 1570,1459 1615,1459 1659,1459 1704,1459 1724,1459"/>
+               <TextEquiv>
+                  <Unicode>ritterlichen Nation wiederzufinden. Es ist kein blut¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_27" custom="readingOrder {index:26;}">
+               <Coords points="932,1507 1653,1510 1692,1501 1693,1473 933,1476"/>
+               <Baseline points="937,1498 979,1498 1023,1498 1068,1498 1113,1498 1158,1498 1203,1498 1247,1498 1292,1495 1337,1498 1382,1495 1426,1495 1471,1495 1516,1495 1561,1492 1606,1492 1650,1492 1695,1492"/>
+               <TextEquiv>
+                  <Unicode>rünstiges Schauspiel; der Stier wird in der portugie¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_28" custom="readingOrder {index:27;}">
+               <Coords points="932,1548 1594,1548 1702,1533 1703,1507 933,1508"/>
+               <Baseline points="937,1534 943,1534 988,1534 1032,1531 1077,1534 1122,1531 1167,1531 1212,1531 1256,1531 1301,1531 1346,1531 1391,1528 1435,1528 1480,1528 1525,1528 1570,1528 1615,1528 1659,1528 1704,1528"/>
+               <TextEquiv>
+                  <Unicode>sischen Form nicht getötet, und die berühmtesten „Ca¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_29" custom="readingOrder {index:28;}">
+               <Coords points="938,1573 1699,1572 1692,1537 938,1548"/>
+               <Baseline points="943,1567 985,1567 1029,1567 1074,1564 1119,1567 1164,1564 1209,1567 1253,1564 1298,1564 1343,1564 1388,1564 1432,1561 1477,1561 1522,1561 1567,1558 1612,1561 1656,1561 1701,1561"/>
+               <TextEquiv>
+                  <Unicode>valieros“ sind Söhne alter Familien, die auf dem</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_30" custom="readingOrder {index:29;}">
+               <Coords points="935,1608 1698,1612 1723,1579 936,1581"/>
+               <Baseline points="940,1603 949,1600 994,1600 1038,1600 1083,1600 1128,1600 1173,1600 1217,1597 1262,1597 1307,1597 1352,1597 1397,1597 1441,1594 1486,1594 1531,1594 1576,1597 1620,1594 1665,1594 1710,1597 1724,1597"/>
+               <TextEquiv>
+                  <Unicode>Land Pferde und Stiere züchten. Endlich muß man,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_31" custom="readingOrder {index:30;}">
+               <Coords points="935,1641 1696,1639 1696,1609 935,1619"/>
+               <Baseline points="940,1635 982,1632 1026,1632 1071,1635 1116,1632 1161,1632 1206,1632 1250,1629 1295,1632 1340,1629 1385,1626 1429,1629 1474,1629 1519,1626 1564,1626 1609,1626 1653,1626 1698,1632"/>
+               <TextEquiv>
+                  <Unicode>am stürmischen Morgen des 10. Mai, die kleinen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_32" custom="readingOrder {index:31;}">
+               <Coords points="929,1678 1699,1673 1674,1637 929,1646"/>
+               <Baseline points="934,1668 940,1668 985,1665 1029,1665 1074,1665 1119,1665 1164,1665 1209,1665 1253,1665 1298,1662 1343,1662 1388,1665 1432,1662 1477,1662 1522,1662 1567,1659 1612,1662 1656,1659 1701,1662"/>
+               <TextEquiv>
+                  <Unicode>drei- und viermastigen Segelschiffe der Kabeljau¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_33" custom="readingOrder {index:32;}">
+               <Coords points="938,1715 1699,1705 1699,1673 938,1677"/>
+               <Baseline points="943,1704 985,1701 1029,1698 1074,1701 1119,1701 1164,1698 1209,1698 1253,1698 1298,1698 1343,1695 1388,1695 1432,1695 1477,1698 1522,1695 1567,1695 1612,1695 1656,1695 1701,1692"/>
+               <TextEquiv>
+                  <Unicode>Fischer gesehen haben, die wie eine versammelte</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_34" custom="readingOrder {index:33;}">
+               <Coords points="937,1755 1722,1731 1715,1699 938,1715"/>
+               <Baseline points="943,1737 988,1734 1032,1731 1077,1731 1122,1731 1167,1731 1212,1731 1256,1731 1301,1731 1346,1731 1391,1731 1435,1731 1480,1728 1525,1728 1570,1728 1615,1728 1659,1728 1704,1731 1724,1729"/>
+               <TextEquiv>
+                  <Unicode>Herde auf dem Tejo lagen, um vor ihrer Ausfahrt</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_35" custom="readingOrder {index:34;}">
+               <Coords points="932,1776 1699,1769 1699,1745 932,1756"/>
+               <Baseline points="937,1767 940,1767 985,1767 1029,1767 1074,1767 1119,1767 1164,1764 1209,1764 1253,1764 1298,1764 1343,1764 1388,1764 1432,1764 1477,1764 1522,1764 1567,1764 1612,1761 1656,1764 1701,1761"/>
+               <TextEquiv>
+                  <Unicode>nach Grönland den Segen des Bischofs zu empfangen:</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_36" custom="readingOrder {index:35;}">
+               <Coords points="912,1821 1623,1816 1702,1808 1703,1779 913,1768"/>
+               <Baseline points="917,1805 940,1800 943,1803 988,1800 1032,1800 1077,1800 1122,1800 1167,1800 1212,1797 1256,1797 1301,1797 1346,1797 1391,1797 1435,1797 1480,1797 1525,1797 1570,1797 1615,1794 1659,1797 1704,1794"/>
+               <TextEquiv>
+                  <Unicode>mit diesem Segen der Heimat nehmen sie die Herbe</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_37" custom="readingOrder {index:36;}">
+               <Coords points="938,1845 1687,1841 1679,1806 938,1810"/>
+               <Baseline points="943,1829 988,1832 1032,1832 1077,1832 1122,1829 1167,1832 1212,1832 1256,1832 1301,1832 1346,1832 1391,1832 1435,1832 1480,1829 1525,1829 1570,1829 1615,1829 1659,1829 1689,1829"/>
+               <TextEquiv>
+                  <Unicode>ihrer Winde mit sich und den herben und ernsten Ge-</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_39" custom="readingOrder {index:37;}">
+               <Coords points="938,1886 1233,1881 1233,1846 1188,1853 1069,1842 1006,1854 938,1845"/>
+               <Baseline points="943,1868 988,1868 1032,1865 1077,1868 1122,1865 1167,1865 1212,1865 1235,1871"/>
+               <TextEquiv>
+                  <Unicode>schmack ihres Lebens.\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_38" custom="readingOrder {index:38;}">
+               <Coords points="1565,1877 1608,1873 1615,1879 1627,1879 1635,1874 1644,1881 1656,1874 1679,1876 1678,1846 1667,1849 1651,1840 1644,1846 1627,1839 1616,1845 1604,1840 1564,1847"/>
+               <Baseline points="1570,1865 1615,1862 1659,1865 1680,1865"/>
+               <TextEquiv>
+                  <Unicode>A. Sch.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+      </Page>
+   </PcGts>
+</validation-wrapper>
