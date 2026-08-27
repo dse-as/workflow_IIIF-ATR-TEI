@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0571" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0571#">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>smallform_0571</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl corresp="smallform_0571">
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0571_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0571_001.png"/>
+            <milestone unit="textregion" xml:id="p001_r"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p001_r_tl_1"/>Diplomaten-Austausch 
+               <lb xml:id="p001_r_tl_2"/>in Lissabon 
+               <lb xml:id="p001_r_tl_3"/>acs. <hi rendition="#g">Lissabon</hi></p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">, im Juni</p>
+            <p>
+               <lb xml:id="p001_r_tl_4"/>Die portugiesische Hauptstadt hat als bedeutend 
+               <lb xml:id="p001_r_tl_5" break="no"/>ster neutraler Hafen an der europäischen Atlantik 
+               <lb xml:id="p001_r_tl_6" break="no"/>küste schon manches außergewöhnliche Schauspiel 
+               <lb xml:id="p001_r_tl_7"/>gesehen, seit hier die ersten Clipper eintrafen, die 
+               <lb xml:id="p001_r_tl_8"/>Flüchtlingsschiffe nach Amerika ausfuhren, die ersten 
+               <lb xml:id="p001_r_tl_9"/>Schiffe der Eidgenossenschaft die Schweizerflagge hiß 
+               <lb xml:id="p001_r_tl_10" break="no"/>ten und die Dampfer im Dienste des Internationalen 
+               <lb xml:id="p001_r_tl_11"/>Komitees vom Roten Kreuz ihre Reisen nach Genua 
+               <lb xml:id="p001_r_tl_12"/>und Marseille antraten. Aber der Anblick, der sich am 
+               <lb xml:id="p001_r_tl_13"/>frühen Morgen des 16. Mai am Quai von Alcantara 
+               <lb xml:id="p001_r_tl_14"/>bot, war auch für Lissabon neu, und das Eintreffen 
+               <lb xml:id="p001_r_tl_15"/>des stattlichen schwedischen Dampfers "<hi rendition="#g">Drottning 
+                  <lb xml:id="p001_r_tl_16" break="no"/>holm</hi>", der neben dem heiteren Blau-Gelb der schwe 
+               <lb xml:id="p001_r_tl_17" break="no"/>dischen Landesflagge in riesigen Lettern die Aufschrift 
+               <lb xml:id="p001_r_tl_18"/>"Diplomat" trug, versetzte die ganze Stadt in einen 
+               <lb xml:id="p001_r_tl_19"/>Zustand erhöhter Betriebsamkeit. Vor allem in den 
+               <lb xml:id="p001_r_tl_20"/>Gesandtschaften der am "Diplomaten-Schiff" inter 
+               <lb xml:id="p001_r_tl_21" break="no"/>essierten Staaten ging es lebhaft zu; in Alcantara 
+               <lb xml:id="p001_r_tl_22"/>sammelte sich ein Park von Wagen mit dem C. D. 
+               <lb xml:id="p001_r_tl_23" break="no"/>Schild an, während das weiße Schiff sich in der leuch 
+               <lb xml:id="p001_r_tl_24" break="no"/>tenden Morgensonne langsam dem Quai näherte. Die 
+               <lb xml:id="p001_r_tl_25"/>Gesandten der Achsenmächte mit ihrem Stab trafen 
+               <lb xml:id="p001_r_tl_26"/>hier auf neutralem Boden mit den Vertretern des 
+               <lb xml:id="p001_r_tl_27"/>portugiesischen Protokolls, dem Vertreter der Gesandt 
+               <lb xml:id="p001_r_tl_28" break="no"/>schaft der Vereinigten Staaten und dem schweizerischen 
+               <lb xml:id="p001_r_tl_29"/>Gesandten, Minister Henri <hi rendition="#g">Martin</hi>, zusammen, 
+               <lb xml:id="p001_r_tl_30"/>Pressephotographen und Filmoperateure traten in 
+               <lb xml:id="p001_r_tl_31"/>Tätigkeit, Journalisten aller Nationalitäten begrüßten 
+               <lb xml:id="p001_r_tl_32"/>sich oder vermieden es, einander zu begegnen. Die 
+               <lb xml:id="p001_r_tl_33"/>Chefs der Internationalen Polizei und der Hafen 
+               <lb xml:id="p001_r_tl_34" break="no"/>polizei von Lissabon überwachten persönlich die 
+               <lb xml:id="p001_r_tl_35"/>Organisation des Ordnungsdienstes während dieses 
+               <lb xml:id="p001_r_tl_36"/>in der Geschichte der Diplomatie einzigartigen Ereig 
+               <lb xml:id="p001_r_tl_37" break="no"/>nisses.</p>
+            <p>
+               <lb xml:id="p001_r_tl_38"/>Die "Drottningholm", die von der amerikanischen 
+               <lb xml:id="p001_r_tl_39"/>Regierung zu diesem Zweck gechartert wurde, führte 
+               <lb xml:id="p001_r_tl_40"/>953 Personen an Bord, darunter fast 600 Deutsche, 
+               <lb xml:id="p001_r_tl_41"/>300 Italiener, 30 Ungarn und 30 Bulgaren; und die 
+               <lb xml:id="p001_r_tl_42"/>überwiegende Mehrzahl dieser Passagiere waren 
+               <lb xml:id="p001_r_tl_43"/>Diplomaten mit ihren Angehörigen, die in Lissabon 
+               <lb xml:id="p001_r_tl_44"/>gegen die in sieben Extrazügen aus Rom und Deutsch 
+               <lb xml:id="p001_r_tl_45" break="no"/>land eintreffenden amerikanischen Diplomaten aus 
+               <lb xml:id="p001_r_tl_46" break="no"/>getauscht wurden. Die Garantie für die Durchführung 
+               <lb xml:id="p001_r_tl_47"/>dieses Austausches hatte neben <hi rendition="#g">Portugal</hi> die<hi rendition="#g"> 
+                  <lb xml:id="p001_r_tl_48"/>Schweiz</hi> übernommen, so daß sich auf dem neu 
+               <lb xml:id="p001_r_tl_49" break="no"/>tralen Boden Portugals, wo der schweizerische Ge 
+               <lb xml:id="p001_r_tl_50" break="no"/>sandte als erster den schwedischen Kapitän und den 
+               <lb xml:id="p001_r_tl_51"/>Vertrauensmann der schweizerischen Regierung auf 
+               <lb xml:id="p001_r_tl_52"/>der "Drottningholm", Oberstleutnant <hi rendition="#g">Goßweiler</hi>, 
+               <lb xml:id="p001_r_tl_53"/>begrüßte, die drei neutralen Länder Europas in einer 
+               <lb xml:id="p001_r_tl_54"/>einzigartigen Vermittlerrolle zusammenfanden.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p001_r_tl_55"/>Unter den Passagieren der "Drottningholm" 
+               <lb xml:id="p001_r_tl_56"/>waren der italienische Botschafter in Washington, 
+               <lb xml:id="p001_r_tl_57"/>Fürst Colonna, der deutsche Geschäftsträger Herr 
+               <lb xml:id="p001_r_tl_58"/>Tomsen, der ungarische Minister Ghika, der bul 
+               <lb xml:id="p001_r_tl_59" break="no"/>garische Gesandte Naumoff; die Passagierliste wies 
+               <lb xml:id="p001_r_tl_60"/>auch die Namen zahlreicher deutscher <hi rendition="#g">Jour 
+                  <lb xml:id="p001_r_tl_61" break="no"/>nalisten</hi></p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> auf und den der als Spionin verurteilten 
+               <lb xml:id="p001_r_tl_62"/>Coiffeuse der "Europa", Johanna Hoffmann, die nach 
+               <lb xml:id="p001_r_tl_63"/>drei Jahren Gefängnis in Amerika begnadigt worden 
+               <lb xml:id="p001_r_tl_64"/>ist. Nicht weniger als 250 Kinder waren an Bord. 
+               <lb xml:id="p001_r_tl_65"/>15 000 Gepäckstücke mußten – neben 27 Hunden, 
+               <lb xml:id="p001_r_tl_66"/>Papageien und Kanarienvögeln – in Lissabon aus 
+               <lb xml:id="p001_r_tl_67" break="no"/>geladen werden. Obwohl Oberstlt. Goßweiler und 
+               <lb xml:id="p001_r_tl_68"/>seine junge Sekretärin Frau Lüscher nicht behaupten 
+               <lb xml:id="p001_r_tl_69"/>konnten, ihre Aufgabe als Vermittler, Berater, Für 
+               <lb xml:id="p001_r_tl_70" break="no"/>sorger und Vertreter von einigen hundert inter 
+               <lb xml:id="p001_r_tl_71" break="no"/>nierten Diplomaten sei vor und während der Reise</p>
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0571_002.png"/>
+            <milestone unit="textregion" xml:id="p002_r"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p002_r_tl_1"/>immer einfach gewesen, war doch das Verhältnis 
+               <lb xml:id="p002_r_tl_2"/>zwischen ihnen und ihren Schutzbefohlenen sehr herz 
+               <lb xml:id="p002_r_tl_3" break="no"/>lich. Oberstlt. Goßweiler lobte den Geist freiwilliger 
+               <lb xml:id="p002_r_tl_4"/>Disziplin und Royalität, der auf dem Schiff und schon 
+               <lb xml:id="p002_r_tl_5"/>vorher im "Interniertenlager" der Diplomaten in 
+               <lb xml:id="p002_r_tl_6"/>White Sulphur Springs herrschte; die Diplomaten 
+               <lb xml:id="p002_r_tl_7"/>äußerten sich voll dankbarer Anerkennung über seine 
+               <lb xml:id="p002_r_tl_8"/>unermüdliche Hilfsbereitschaft, und beide Teile waren 
+               <lb xml:id="p002_r_tl_9"/>über die Leistungen der schwedischen Besatzung der 
+               <lb xml:id="p002_r_tl_10"/>"Drottningholm" des Lobes voll.</p>
+            <p>
+               <lb xml:id="p002_r_tl_11"/>Umgekehrt hatten auch die <hi rendition="#g">amerikanischen 
+                  <lb xml:id="p002_r_tl_12"/>Diplomaten</hi>, die in kurz aufeinanderfolgenden 
+               <lb xml:id="p002_r_tl_13"/>Extrazügen die portugiesische Grenze überschritten, 
+               <lb xml:id="p002_r_tl_14"/>keine Klagen vorzubringen. Die Züge waren teils von 
+               <lb xml:id="p002_r_tl_15"/>schwedischen und schweizerischen Vertretern eskortiert. 
+               <lb xml:id="p002_r_tl_16"/>So waren die überfüllten Hotels in Lissabon und dem 
+               <lb xml:id="p002_r_tl_17"/>nahen Estoril während einiger Tage der denkwürdig 
+               <lb xml:id="p002_r_tl_18"/>Treffpunkt der diplomatischen Vertreterschar von ver 
+               <lb xml:id="p002_r_tl_19" break="no"/>bündeten, feindlichen, kriegführenden und neutralen 
+               <lb xml:id="p002_r_tl_20"/>Staaten, Vertreter, deren friedliche Aufgabe es gewe 
+               <lb xml:id="p002_r_tl_21" break="no"/>sen war, die Beziehungen zwischen ihren Ländern zu 
+               <lb xml:id="p002_r_tl_22"/>pflegen, und deren Heimbeförderung nun noch einmal 
+               <lb xml:id="p002_r_tl_23"/>mit aller Korrektheit und Höflichkeit der diplomati 
+               <lb xml:id="p002_r_tl_24" break="no"/>schen Kunst besorgt worden ist ...</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p002_r_tl_25"/>*</p>
+            <milestone unit="textregion" xml:id="p002_r_2"/>
+            <p>
+               <lb xml:id="p002_r_2_tl_1"/>Lissabon, 18. Juni. (Exchange) Aus Deutschland 
+               <lb xml:id="p002_r_2_tl_2"/>und Polen sind in Lissabon 232 Amerikaner 
+               <lb xml:id="p002_r_2_tl_3"/>eingetroffen, die sich am Sonntag an Bord des schwe 
+               <lb xml:id="p002_r_2_tl_4" break="no"/>dischen Dampfers "Drottningholm" nach Ame 
+               <lb xml:id="p002_r_2_tl_5" break="no"/>rika einschiffen werden. Es handelt sich um Staats 
+               <lb xml:id="p002_r_2_tl_6" break="no"/>angehörige der Vereinigten Staaten, von Canada, 
+               <lb xml:id="p002_r_2_tl_7"/>Peru, Columbien und Guatemala.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [in diesem Fall möglicherweise sinnvoll mitzuedieren, da es direkt unter Schwarzenbachs Text abgedruckt ist und wie als Fußnote der Zeitung gelesen werden kann]</p>
+         </div>
+      </body>
+   </text>
+</TEI>
