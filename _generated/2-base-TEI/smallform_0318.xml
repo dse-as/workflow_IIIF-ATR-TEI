@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0318" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0318#">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>smallform_0318</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl corresp="smallform_0318">
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0318_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0318_0001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p001_tr_1_tl_1"/>Dr. Annemarie Clark: 
+               <lb xml:id="p001_tr_1_tl_3"/><hi rendition="#u">(3) [add inline: Bayazid: ]Türkisch-Jranische Grenze.</hi></p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_4"/>Bayazid ist der letzte auf unserer Karte verzeichnete Ort vor der iranischen 
+               <lb xml:id="p001_tr_1_tl_5"/>Grenze. <del rend="overstrike">– </del>Noch sind wir in Klein-Asien, noch in der Türkei, <del rend="overstrike">– </del>aber wie weit vom 
+               <lb xml:id="p001_tr_1_tl_6"/>blauen Bosporus und der internationalen Kapitale Jstanbul, <del rend="overstrike">– </del>wie weit von der 
+               <lb xml:id="p001_tr_1_tl_7"/>heiteren Bucht des Städtchens Trapezunt! <del rend="overstrike">– </del>Eine Welt-Ende-Landschaft breitet sich 
+               <lb xml:id="p001_tr_1_tl_8"/>vor uns aus. Mitten in der dürftigen Ebene, – zu kahl, als dass ich sie "Steppe" 
+               <lb xml:id="p001_tr_1_tl_9"/>nennen möchte, – liegen die Lehmbaracken des neuen Bayazid zerstreut. Ein Ort ohne 
+               <lb xml:id="p001_tr_1_tl_10"/>Wasser und ohne Grün<del rend="overstrike">d</del>, der gerade hier aus dem Boden wächst und ein paar hundert 
+               <lb xml:id="p001_tr_1_tl_11"/>Männer beherbergt, weil hier die Strasse zur Grenze vorüberführen wird. Und der 
+               <lb xml:id="p001_tr_1_tl_12"/>Ort besteht nur aus den dürftigsten Behausungen, aus Lehmziegeln, alten Benzin 
+               <lb xml:id="p001_tr_1_tl_13" break="no"/>kannen, das Holz wird von weither gebracht, das Wasser aus der steil ansteigen 
+               <lb xml:id="p001_tr_1_tl_14" break="no"/>den Schlucht, welche, etwa zehn Kilometer vom neuen Bayazid entfernt, zum alten 
+               <lb xml:id="p001_tr_1_tl_15"/>Bayazid empor führt. Ein Dorf im nackten Fels, Haus an Haus in Terrassen übereinan 
+               <lb xml:id="p001_tr_1_tl_16" break="no"/>dergeschichtet, lehmfarbig, kaum sichtbar, <del rend="overstrike">–</del> überragt von einem schroffen Kamm<del rend="overstrike">,</del> [add inline: –] und 
+               <lb xml:id="p001_tr_1_tl_17"/>n. rux 
+               <lb xml:id="p001_tr_1_tl_18"/>auf dem Kamm thront das Schloss in Ruinen<del rend="overstrike">,</del> [add above: u. ruft] alle Vergleiche aus Tausendundeiner 
+               <lb xml:id="p001_tr_1_tl_19"/>Nacht wach<del rend="overstrike">rufend, w</del>[add inline: . W]elch ein Anblick!</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_20"/>Das neue Bayazid entsteht der Strasse wegen, und für die Strasse<del rend="overstrike">, – d</del>[add inline: . D]as alte war 
+               <lb xml:id="p001_tr_1_tl_21"/>eine Festung, ein unzugängliches Felsennest, <del rend="overstrike">–</del> und wer in diesem Schloss der Herr 
+               <lb xml:id="p001_tr_1_tl_22"/>war, mochte sich fast als der Herr der Erde fühlen, so unangreibar war er, und so 
+               <lb xml:id="p001_tr_1_tl_24"/>weit reichte sein Blick [u. beherrschte] die wellige Ebene <del rend="overstrike">beherrschend</del> bis zum breiten Fuss des 
+               <lb xml:id="p001_tr_1_tl_25"/>Ararat, dessen Schneehaupt selten aus den Wolken taucht.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p001_tr_1_tl_26"/>Der Wagen wollte kochen, als wir den Pfad durch die Schlucht hinauf bis ins Dorf 
+               <lb xml:id="p001_tr_1_tl_27"/>fuhren. <del rend="overstrike">Und als wir dann</del> Wir gingen zu Fuss weiter, <del rend="overstrike">– </del>die ganze männliche Jugend von 
+               <lb xml:id="p001_tr_1_tl_28"/>Bayazid begleitete [add above: uns]<del rend="overstrike">,</del>[add inline: :] Türken und Kurden, zerlumpte Burschen und ein sauber geklei 
+               <lb xml:id="p001_tr_1_tl_29" break="no"/>detes Bübchen, d<del rend="overstrike">er</del>[add inline: as] uns französisch ansprach, <del rend="overstrike">–</del> [add above: ein] Schüler der höheren Schule in Erze 
+               <lb xml:id="p001_tr_1_tl_30" break="no"/>rum. Jn der Schlucht sahen wir da und dort ein wenig Grün, winzige, terrassierte 
+               <lb xml:id="p001_tr_1_tl_31"/>Gärten, tiefer unten sogar ein üppiges Viereck von Bäumen<del rend="overstrike">, "d</del>[add inline: "D]er Garten eines 
+               <lb xml:id="p001_tr_1_tl_32"/>reichen Mannes, dort gibt es alle Früchte" erzählte man uns<del rend="overstrike">, s</del>[add inline: S]onst aber war dieses 
+               <lb xml:id="p001_tr_1_tl_33"/>Dorf eins mit den kahlen, glatten Hängen, und man fragte sich, wovon seine Bewoh 
+               <lb xml:id="p001_tr_1_tl_34" break="no"/>ner sich ernähren mochten. <del rend="overstrike">–</del> Als wir uns dem Schloss näherten, sahen wir immer deut 
+               <lb xml:id="p001_tr_1_tl_35" break="no"/>licher, dass die ganze<del rend="overstrike">,</del> hinter dem ersten Kamm ansteigende Felswand von Befes 
+               <lb xml:id="p001_tr_1_tl_36" break="no"/>tigungen durchsetzt war, <del rend="overstrike">–</del> Befestigungen, die teilweise zweifellos viel älter waren 
+               <lb xml:id="p001_tr_1_tl_37"/>als das Schloss selbst. Türme stiegen aus Spalten, Mauern liefen Felsbändern ent 
+               <lb xml:id="p001_tr_1_tl_38" break="no"/>lang, in halber Höhe sah man den viereckigen Eingang eines Felsengrabs, auf beiden 
+               <lb xml:id="p001_tr_1_tl_39"/>Seiten der Oeffnung zwei im Profil dargestellte schreitende Figuren, bärtig, in 
+               <lb xml:id="p001_tr_1_tl_40"/>langen Gewändern, an assyrische Darstellungen gemahnend. Weiter unten eine alte 
+               <lb xml:id="p001_tr_1_tl_41"/>Moschee, in schlichter Form, aus ungebrannten, unglasierten Lehmziegeln: die runde</p>
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0318_0002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p002_l"/>-2- (Türkisch-Jranische Grenze) 
+               <lb xml:id="p002_tr_1_tl_3"/>Kuppel über dem Kubus. – </p>
+            <p>
+               <lb xml:id="p002_tr_1_tl_4"/>Seit drei Stunden klettern wir in den Felsen von Bayazid<del rend="overstrike">, – w</del>[add inline: . W]ir haben die drei 
+               <lb xml:id="p002_tr_1_tl_5" break="no"/>fachen Tore, die Keller, die Treppen, die Riesenausmasse des Hofs jenes zerstör 
+               <lb xml:id="p002_tr_1_tl_6" break="no"/>ten Schlosses gesehen, von dessen Minarett aus der Blick bis zum Ararat und ins 
+               <lb xml:id="p002_tr_1_tl_7"/>Unendliche der anatolischen Hochebene reichte. Steinerne Bögen, fast aus einem 
+               <lb xml:id="p002_tr_1_tl_8"/>Stück, <del rend="overstrike">–</del> Deckengemälde, ohne Zweifel von persischen Künstlern gemalt, mit Zypressen 
+               <lb xml:id="p002_tr_1_tl_9"/>und mongolischen Figuren <del rend="overstrike">arrangiert</del> wie auf alten Miniaturen [add inline: arrangiert]<del rend="overstrike">, – w</del>[add inline: . W]ir haben alte und 
+               <lb xml:id="p002_tr_1_tl_10"/>neuere Festungsmauern im Fels gesehen, und die runde Zisterne, und Kanäle, die den 
+               <lb xml:id="p002_tr_1_tl_11"/>Belagerten dieser unglaublichen Festung frisches Wasser zuführen mussten<del rend="overstrike">, – j</del> [add inline: J]etzt 
+               <lb xml:id="p002_tr_1_tl_12"/>schleichen die ersten Schatten über den Kamm, das Dorf, tief unter uns, ist in 
+               <lb xml:id="p002_tr_1_tl_13"/>goldene Dämmerung getaucht. Wir machen Halt. <del rend="overstrike">–</del> "Die Grenze", <del rend="overstrike">–</del> dieses Bayazid, über 
+               <lb xml:id="p002_tr_1_tl_14"/>dessen Geschichte uns Niemand etwas berichten kann, war wohl zu allen Zeiten die 
+               <lb xml:id="p002_tr_1_tl_15"/>Grenzburg, umkämpft von Jraniern und Türken, Seldschukken und Mongolen, vielleicht 
+               <lb xml:id="p002_tr_1_tl_16"/>Byzantinern, vielleicht Russen. Auf den erhaltenen Mauern des neueren Schlosses 
+               <lb xml:id="p002_tr_1_tl_17"/>sieht man Hunderte von Kugeleinschlägen. Und unten, in der Ebene, beim neuen 
+               <lb xml:id="p002_tr_1_tl_18"/>Bayazid, rosten die Schienen, stehen verlassene Lokomotiven jener Bahn, welche der 
+               <lb xml:id="p002_tr_1_tl_19"/>Zar während des Weltkriegs bauen liess: von Täbris hinüber in die Türkei. – 
+               <lb xml:id="p002_tr_1_tl_20"/>Keinen Augenblick vergisst man hier, dass man nahe der <hi rendition="#g">Grenze</hi> <del rend="overstrike">ist</del>, – und 
+               <lb xml:id="p002_tr_1_tl_21"/>einer wichtigen Grenze [add inline: ist]. <del rend="overstrike">–</del> Der Ararat, Bayazid, die Hochebene mit ihren Wolken, Regen 
+               <lb xml:id="p002_tr_1_tl_22" break="no"/>güssen und grossen Winden, <del rend="overstrike">– </del>dieses gewaltige Klein-Asien endet hier, bleibt zurück 
+               <lb xml:id="p002_tr_1_tl_23"/>wie ein eigener Erdteil. <del rend="overstrike">–</del> Wir aber [add inline: folgen] am nächsten Morgen <del rend="overstrike">folgen</del> den Karawanenspuren, 
+               <lb xml:id="p002_tr_1_tl_24"/>den hochbeladenen Lastwagen, kreuzen Wasserläufe, holpern über Steine, der Grenze 
+               <lb xml:id="p002_tr_1_tl_25"/>entgegen. Hier ist die neue Strasse noch nicht gebaut. Die Spuren aber, die wir 
+               <lb xml:id="p002_tr_1_tl_26"/>befahren, sind die der uralten Seidenstrasse: es ist der Weg von Trapezunt, vom 
+               <lb xml:id="p002_tr_1_tl_27"/>Meer, nach der Handelsstadt Täbriz, und weiter hinein nach Zentral-Asien.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
