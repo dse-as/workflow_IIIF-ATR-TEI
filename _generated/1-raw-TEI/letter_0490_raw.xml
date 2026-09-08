@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0490"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0490</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0490_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0490_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0490_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0490_001_r_2"/>
+            <lb xml:id="letter_0490_001_l_1"/>Nov. 17
+<lb xml:id="letter_0490_001_l_2"/>Liebe Bodmerlis<CONV tag="p">
+<lb xml:id="letter_0490_001_l_3"/>hier wird Baumwolle
+<lb xml:id="letter_0490_001_l_4"/>Zuckerrohr u. Terpentin
+<lb xml:id="letter_0490_001_l_5"/>verfrachtet, der Fluss
+<lb xml:id="letter_0490_001_l_6"/>ist gelb u. langsam,
+<lb xml:id="letter_0490_001_l_7"/>u. die Neger singen
+<lb xml:id="letter_0490_001_l_8"/>am Abend in ihren
+<lb xml:id="letter_0490_001_l_9"/>Hütten. Jch möchte mehr
+<lb xml:id="letter_0490_001_l_10"/>schreiben, habe aber nie
+<lb xml:id="letter_0490_001_l_11"/>Zeit – u. wünsche mir
+<lb xml:id="letter_0490_001_l_14"/>dass ihr gesund u. 
+<lb xml:id="letter_0490_001_l_12"/>lustig seid? Eure Annemarie</CONV><milestone unit="textregion" xml:id="letter_0490_001_r"/>
+            <lb xml:id="letter_0490_001_l"/>P. S.<CONV tag="p">
+<lb xml:id="letter_0490_001_l_13"/>Erika ist in New York
+<lb xml:id="letter_0490_001_l_15"/>ich ab Dez. "zurück" – dort</CONV><milestone unit="textregion" xml:id="letter_0490_001_r_1"/>
+            <lb xml:id="letter_0490_001_l_16"/>Mrs. Robert Bodmer
+<lb xml:id="letter_0490_001_l_17"/>Hergiswil
+<lb xml:id="letter_0490_001_l_18"/>am See
+<lb xml:id="letter_0490_001_l_19"/>Nidwalden
+<lb xml:id="letter_0490_001_l_20"/><PAGE tag="underlined">SWITZERLAND</PAGE><milestone unit="textregion" xml:id="letter_0490_001_r_3"/>
+            <lb xml:id="letter_0490_001_l_21"/>2 Savannah
+<lb xml:id="letter_0490_001_l_22"/>GA.
+<lb xml:id="letter_0490_001_l_23"/>NOV 17
+<lb xml:id="letter_0490_001_l_24"/>1<PAGE tag="superscript">30</PAGE> PM
+<lb xml:id="letter_0490_001_l_25"/>1937<pb xml:id="letter_0490_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0490_002.jpg"/>
+         </div>
+      </body>
+   </text>
+</TEI>
