@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0300"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0300</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0300_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0300_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0300_001.tif"/>
+            <milestone unit="textregion" xml:id="letter_0300_001_r"/><CONV tag="f">
+<lb xml:id="letter_0300_001_l"/>Skizze von Manhattan</CONV><pb xml:id="letter_0300_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0300_002.tif"/>
+            <milestone unit="textregion" xml:id="letter_0300_002_r"/>
+            <lb xml:id="letter_0300_002_l"/> <CONV tag="p">1000 Grüsse u. Wünsche, –
+<lb xml:id="letter_0300_002_r_tl_3"/>und ich würde Dich gern einmal
+<lb xml:id="letter_0300_002_r_tl_4"/>wiedersehen. Wen[n] ich, vielleicht Ende
+<lb xml:id="letter_0300_002_r_tl_5"/>Februar, wieder in Sils bin?</CONV>
+<lb xml:id="letter_0300_002_r_tl_6"/>With Best Wishes for a
+<lb xml:id="letter_0300_002_r_tl_7"/>Merry Christmas
+<lb xml:id="letter_0300_002_r_tl_8"/>and a
+<lb xml:id="letter_0300_002_r_tl_9"/>Happy New Year[vorgedruckter Text]<CONV tag="p">
+<lb xml:id="letter_0300_002_r_tl_10"/>Ich sah Deinen Film hier, The Road Back, [Film erschien 1937]
+<lb xml:id="letter_0300_002_r_tl_11"/>u. habe Dein Buch[unklar, welches gemeint ist], gelesen – das sehr,
+<lb xml:id="letter_0300_002_r_tl_12"/>sehr schön ist. Lass es Dir gut gehen –</CONV>
+<lb xml:id="letter_0300_002_r_tl_13"/>Deine
+<lb xml:id="letter_0300_002_r_tl_14"/>Annemarie</div>
+      </body>
+   </text>
+</TEI>
