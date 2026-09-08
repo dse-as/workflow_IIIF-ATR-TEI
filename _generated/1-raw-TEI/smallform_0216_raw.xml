@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="smallform_0216"
+     type="dseas-smallform">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>smallform_0216</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl corresp="smallform_0216">
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0216_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="smallform">
+            <pb xml:id="smallform_0216_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0216_0001.jpg"/>
+            <milestone unit="textregion" xml:id="smallform_0216_001_tr_1"/>
+            <lb xml:id="smallform_0216_001_tr_1_tl_1"/>Dr. Annemarie Clark:
+<lb xml:id="smallform_0216_001_tr_1_tl_2"/><PAGE tag="underlined">Helsinki</PAGE>
+<lb xml:id="smallform_0216_001_tr_1_tl_3"/><PAGE tag="underlined">Suomi –</PAGE><CONV tag="p">
+<lb xml:id="smallform_0216_001_tr_1_tl_7"/>So heisst es korrekt, – während wir noch in Versuchung sind [add above: es*], einfach
+<lb xml:id="smallform_0216_001_tr_1_tl_8"/>"Helsingfors" und "Finnland" zu nennen. Man hat sich, seit dem Ende des
+<lb xml:id="smallform_0216_001_tr_1_tl_9"/>Weltkriegs, an eine Unmenge neuer und veränderter geographischer Namen
+<lb xml:id="smallform_0216_001_tr_1_tl_10"/>gewöhnen müssen, und wer im geographischen Fach ein guter Schüler war,
+<lb xml:id="smallform_0216_001_tr_1_tl_11"/>hat jetzt seine liebe Mühe, die so fleissig eingeprägten Bezeichnungen
+<lb xml:id="smallform_0216_001_tr_1_tl_12"/>zu vergessen. Meistens handelt es sich allerdings gar nicht um Neuer¬
+<lb xml:id="smallform_0216_001_tr_1_tl_13"/>findungen willkürlicher Art, – vielmehr ist der Nationalismus überall am
+<lb xml:id="smallform_0216_001_tr_1_tl_14"/>Werk, im Orient und im Baltikum, in Arabien und in Finnland, die alten
+<lb xml:id="smallform_0216_001_tr_1_tl_15"/>Namen und die der Landes- und Volkssprache wieder zur Geltung zu brin¬
+<lb xml:id="smallform_0216_001_tr_1_tl_16"/>gen. Daher heisst Persien heute "Jran", Reval "Tallinn", und Finnland
+<lb xml:id="smallform_0216_001_tr_1_tl_17"/>"Suomi". Man muss es sich merken, auch wenn es unbequem ist, denn überall
+<lb xml:id="smallform_0216_001_tr_1_tl_18"/>hat es natürlich seinen guten und legitimen Grund. Jn Finnland, – vielmehr
+<lb xml:id="smallform_0216_001_tr_1_tl_19"/>in Suomi, zum Beispiel, handelt es sich darum, das Schwedische zu verdrän¬
+<lb xml:id="smallform_0216_001_tr_1_tl_20"/>gen. Denn die Schweden kamen als Eroberer und Bekehrer ins Land, sie
+<lb xml:id="smallform_0216_001_tr_1_tl_21"/>waren die Herren und bilden heute noch einen bedeutenden Teil der
+<lb xml:id="smallform_0216_001_tr_1_tl_22"/>Gutsbesitzer und der städtischen "Oberschicht". Die Finnen waren Leibei¬
+<lb xml:id="smallform_0216_001_tr_1_tl_23"/>gene, Landarbeiter, bestenfalls Pächter, und das Finnische galt als ein
+<lb xml:id="smallform_0216_001_tr_1_tl_24"/>Bauerndialekt, den man weder lesen noch schreiben lernte, und den ein
+<lb xml:id="smallform_0216_001_tr_1_tl_25"/>"Gebildeter" nicht verstand. Das lassen sich die Finnen heute nicht
+<lb xml:id="smallform_0216_001_tr_1_tl_26"/>mehr gefallen, – sie sind ein tüchtiges, aufstrebendes, fortschrittliches
+<lb xml:id="smallform_0216_001_tr_1_tl_27"/>Volk, und sehr wohl fähig, die Geschicke ihres Heimatlandes selbst zu
+<lb xml:id="smallform_0216_001_tr_1_tl_28"/>leiten. Daher werden die Schweden heute zurückgedrängt, und Finnlands –
+<lb xml:id="smallform_0216_001_tr_1_tl_29"/>Suomis – Hauptstadt heisst nicht mehr Helsingfors, sondern Helsinki.</CONV>
+<lb xml:id="smallform_0216_001_tr_1_tl_30"/>Es ist eine schöne Stadt, – die Finnen sind mit Recht stolz darauf. Und
+<lb xml:id="smallform_0216_001_tr_1_tl_31"/>man spürt, dass etwas Neues am Werk ist, – man spürt jugendliche Aktivi¬
+<lb xml:id="smallform_0216_001_tr_1_tl_33"/>tät, Aufgeschlossenheit, Optimismus, <PAGE tag="strikethrough">einen</PAGE>[add above: den*] fortschrittlichen Geist eines
+<lb xml:id="smallform_0216_001_tr_1_tl_34"/>unverbrauchten Volks. Die Schweden, – sie nennen sich "Finnländer", um sich<pb xml:id="smallform_0216_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0216_0002.jpg"/>
+            <milestone unit="textregion" xml:id="smallform_0216_002_tr_1"/>
+            <lb xml:id="smallform_0216_002_tr_1_tl_1"/>–2– (Helsinki – Suomi)
+<lb xml:id="smallform_0216_002_tr_1_tl_2"/>von den "Finnen" zu unterscheiden, – klagen natürlich ein wenig darüber,
+<lb xml:id="smallform_0216_002_tr_1_tl_3"/>dass man sie aus ihrer Vorzugsstellung verdränge, und dass ihre Söhne
+<lb xml:id="smallform_0216_002_tr_1_tl_4"/>nun die schwierige finnische Sprache lernen müssen, – aber, wenn sie auch
+<lb xml:id="smallform_0216_002_tr_1_tl_5"/>in der Armee und im Beamtentum durch junge Finnen ersetzt werden, so hat
+<lb xml:id="smallform_0216_002_tr_1_tl_6"/>man sie doch als Gutsbesitzer, Unternehmer, Jndustrielle und Geschäfts¬
+<lb xml:id="smallform_0216_002_tr_1_tl_7"/>leute unbehelligt gelassen. Jn der Industrie Finnlands ist immer noch
+<lb xml:id="smallform_0216_002_tr_1_tl_8"/>viel schwedisches Kapital investiert. Und die <PAGE tag="strikethrough">Clubs</PAGE> schwedischen Segel¬
+<lb xml:id="smallform_0216_002_tr_1_tl_9"/>und Ruderclubs sind in Helsinki immer noch die exklusivsten! – Aber sie
+<lb xml:id="smallform_0216_002_tr_1_tl_10"/>sind Ueberreste des Alten, – zu dem auch die Spuren der hundertjährigen
+<lb xml:id="smallform_0216_002_tr_1_tl_11"/>Zarenherrschaft gehören, die man hie und da noch in Helsinki entdeckt:
+<lb xml:id="smallform_0216_002_tr_1_tl_12"/>eine Kirche russischen Stils, ein altmodisches Hotel, das einem Offiziers=
+<lb xml:id="smallform_0216_002_tr_1_tl_13"/>kasino einer russischen Provinzstadt gleicht. Daneben wächst das neue
+<lb xml:id="smallform_0216_002_tr_1_tl_14"/>Helsinki, mit seinen sauberen Strassen und modernen Geschäften, mit seiner
+<lb xml:id="smallform_0216_002_tr_1_tl_15"/>eigenen, berühmten, "finnischen" Architektur, mit seinem Hafenbetrieb,
+<lb xml:id="smallform_0216_002_tr_1_tl_16"/>seinem Flugplatz, seinen Schulen und Jnstituten. Der "Stil" Helsinkis, –
+<lb xml:id="smallform_0216_002_tr_1_tl_17"/>und damit der neue Stil Finnlands, wäre schwer zu umschreiben: manchmal
+<lb xml:id="smallform_0216_002_tr_1_tl_18"/>weist er nach Schweden, manchmal nach Estland-Russland. Vielleicht ist
+<lb xml:id="smallform_0216_002_tr_1_tl_19"/>es noch gar kein Stil, – erst der Versuch eines jungen Landes zwischen
+<lb xml:id="smallform_0216_002_tr_1_tl_20"/>West und Ost seinen eigenen Ausdruck zu finden. –<pb xml:id="smallform_0216_003"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0216_0003.jpg"/>
+            <milestone unit="textregion" xml:id="smallform_0216_003_tr_1"/>
+            <lb xml:id="smallform_0216_003_tr_1_tl_1"/>Text n.<milestone unit="textregion" xml:id="smallform_0216_003_tr_2"/>
+            <lb xml:id="smallform_0216_003_tr_2_tl_1"/>Bilder
+<lb xml:id="smallform_0216_003_tr_2_tl_2"/>Silor</div>
+      </body>
+   </text>
+</TEI>
