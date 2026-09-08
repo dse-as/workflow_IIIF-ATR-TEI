@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0218" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0218#">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>smallform_0218</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl corresp="smallform_0218">
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0218_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0218_0001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p001_tr_1_tl_1"/>Dr. Annemarie Clark: 
+               <lb xml:id="p001_tr_1_tl_2"/><hi rendition="#u">Von Gustaf Adolf bis zu Jwar Kreugher</hi></p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_4"/>Es ist gleichgültig, wie der Herrenhof heisst: es ist eines jener schönen, 
+               <lb xml:id="p001_tr_1_tl_5"/>weissen Häuser, wie man sie nur in Schweden, und allenfalls noch auf schwe 
+               <lb xml:id="p001_tr_1_tl_6" break="no"/>dischen Gütern in Finnland findet, ein "Herrgard", wie Selma Lagerlöf sie 
+               <lb xml:id="p001_tr_1_tl_7"/>beschreibt, nicht Schloss, und nicht bürgerliche Villa, sondern ein länd 
+               <lb xml:id="p001_tr_1_tl_8" break="no"/>licher und herrschaftlicher Wohnsitz, ohne einheitlichen Stil, weil meh 
+               <lb xml:id="p001_tr_1_tl_9" break="no"/>rere Generationen sich dort abgelöst und daran gebaut haben, und doch 
+               <lb xml:id="p001_tr_1_tl_10"/>stilvoll, weil ein legitimer Lebensstil sich darin ausdrückt. –</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_11"/>Es ist auch gleichgültig, wie der alte Herr heisst, der mit seiner ergrau 
+               <lb xml:id="p001_tr_1_tl_12" break="no"/>ten, immer noch schönen, und freundlich-heiteren Gattin dieses Haus bewohnt 
+               <lb xml:id="p001_tr_1_tl_13"/>und verwaltet. Ja, er ist nicht der Besitzer: obschon es ihm wohl anstehen 
+               <lb xml:id="p001_tr_1_tl_14"/>würde. Und damit beginnt die Geschichte des Herrgards, – eine Geschichte 
+               <lb xml:id="p001_tr_1_tl_15"/>"von Gustaf Adolf bis zu Jwar Kreugher", eine schwedische Geschichte ...</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p001_tr_1_tl_16"/>[horizontal space]Der Herrgard liegt in Mittelschweden, in einer 
+               <lb xml:id="p001_tr_1_tl_17"/>schönen Gegend, nahe von der alten Wasaburg Gripsholm. Wiesen und Felder 
+               <lb xml:id="p001_tr_1_tl_19"/>umgeben <del rend="overstrike">es</del> [add inline: das*] [add above: Gut], das Herrenhaus liegt auf einer Anhöhe, eine Allee führt von 
+               <lb xml:id="p001_tr_1_tl_20"/>der Landstrasse hinauf, schnurgerade bis zum runden Rasenplatz mit der 
+               <lb xml:id="p001_tr_1_tl_22"/>alten Sonnenuhr. Oben begrenzt [add above: ihn*] ein[e] barock gebauchte steinerne Brüstung, 
+               <lb xml:id="p001_tr_1_tl_23"/>und von dort, oder vom Balkon des weissen Hauses, hat man einen herrli 
+               <lb xml:id="p001_tr_1_tl_24" break="no"/>chen Blick über die grünen Weiden bis zum dunklen Waldsaum am Horizont. 
+               <lb xml:id="p001_tr_1_tl_25"/>Jm Herrenhaus wohnen aber nicht mehr die Besitzer, – es gehört seit eini 
+               <lb xml:id="p001_tr_1_tl_26" break="no"/>gen Jahren einem reichen Holländer, der in Schweden, um ein bischen von 
+               <lb xml:id="p001_tr_1_tl_27"/>seinem Geld anzulegen, mehrere solcher Häuser gekauft hat. "Zahlende Gäste" 
+               <lb xml:id="p001_tr_1_tl_28"/>gehen ein und aus, alte Fräuleins meistens, die still, mit einer Strickerei 
+               <lb xml:id="p001_tr_1_tl_29"/>beschäftigt, in der nach Fichtenholz und Wachholder duftenden Halle, im 
+               <lb xml:id="p001_tr_1_tl_30"/>kleinen Empire-Saal, oder in den Schaukelstühlen auf dem Balkon sitzen. 
+               <lb xml:id="p001_tr_1_tl_31"/>Der "Verwalter" raucht seine Pfeife und plaudert mit den alten Damen, 
+               <lb xml:id="p001_tr_1_tl_32"/>ganz als seien sie seine privaten Gäste auf seinem eigenen Herrenhof.</p>
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0218_0002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p002_tr_1_tl_1"/>–2– 
+               <lb xml:id="p002_tr_1_tl_2"/>Er spricht von seinem Hof, – den er vor zwei Jahren verkaufen musste, als 
+               <lb xml:id="p002_tr_1_tl_3"/>es sich unwiderruflich herausstellte, dass sein Vermögen im grossen 
+               <lb xml:id="p002_tr_1_tl_4"/>Kreugher-Sturm verschlungen worden war. Den Hof – auch hier tut der Name 
+               <lb xml:id="p002_tr_1_tl_5"/>nichts zur Sache – hatte Gustaf Adolf selbst seinem Vorfahren geschenkt. 
+               <lb xml:id="p002_tr_1_tl_6"/>Als Belohnung für geleistete Dienste. Zuerst war der Ahne ein einfacher 
+               <lb xml:id="p002_tr_1_tl_7"/>protestantischer Geistlicher gewesen, aber wie in jener kriegerischen 
+               <lb xml:id="p002_tr_1_tl_8"/>und gottesfürchtigen Epoche der Soldat ein Gottesstreiter war, und der 
+               <lb xml:id="p002_tr_1_tl_9"/>Diener Gottes ein Kämpfer im Namen des Königs, so hatte der Ahne das Amt 
+               <lb xml:id="p002_tr_1_tl_10"/>eines Feldpredigers der schwedischen Truppen aufgegeben, war Offizier <del rend="overstrike">gew</del>
+               <lb xml:id="p002_tr_1_tl_11"/>geworden, und zog sich die Ungnade Gustaf Adolfs zu, als er die belagerte 
+               <lb xml:id="p002_tr_1_tl_12"/>Festung Stettin dem Feind übergab. Später bereute der König, und schickte 
+               <lb xml:id="p002_tr_1_tl_13"/>seinen Diener als ersten Gouverneur von Neu-Schweden nach Amerika, wo 
+               <lb xml:id="p002_tr_1_tl_14"/>die schwedischen Kolonisten in Delaware einen Staat gegründet hatten. Und 
+               <lb xml:id="p002_tr_1_tl_15"/>als der Gouverneur, ein grosser Mann jetzt, nach zehn Jahren in die Heimat 
+               <lb xml:id="p002_tr_1_tl_16"/>zurückkehrte, bewohnte er den Herrenhof, der sich von Generation auf Gene 
+               <lb xml:id="p002_tr_1_tl_17" break="no"/>ration vererbte, mit Ahnenbildnissen, Erinnerungen und stets wieder mit 
+               <lb xml:id="p002_tr_1_tl_18"/>jungem Leben füllte, – bis auf die heutigen Tage, die Tage der Krise und 
+               <lb xml:id="p002_tr_1_tl_19"/>Jwar Kreughers.</p>
+            <p>
+               <lb xml:id="p002_tr_1_tl_20"/>Jn Delaware wird jetzt <del rend="overstrike">das</del> eine grosse Feier vorbereitet: das dreihundert 
+               <lb xml:id="p002_tr_1_tl_21" break="no"/>jährige Jubiläum von Neu-Schweden. Eine reiche amerikanische Dame, dadurch 
+               <lb xml:id="p002_tr_1_tl_22"/>auf ihre schwedische Herkunft aufmerksam geworden, hat den Hof des ersten 
+               <lb xml:id="p002_tr_1_tl_23"/>Gouverneurs gekauft, moderne Badezimmer eingebaut, und die Ahnenportraits 
+               <lb xml:id="p002_tr_1_tl_24"/>durch unsichtbare und indirekte elektrische Anlagen auf das Herrlichste 
+               <lb xml:id="p002_tr_1_tl_25"/>beleuchten lassen. Der letzte legitime Erbe aber sitzt auf einem fremden 
+               <lb xml:id="p002_tr_1_tl_26"/>Herrgard, und spricht mit seinen "zahlenden Sommergästen" davon, dass 
+               <lb xml:id="p002_tr_1_tl_27"/>vielleicht seine Tochter, die einen jungen Minister geheiratet hat, nach 
+               <lb xml:id="p002_tr_1_tl_28"/>Delaware zum Jubiläum reisen wird."Jch bin ein ruinierter alter Landwirt 
+               <lb xml:id="p002_tr_1_tl_29"/>der für einen reichen Holländer ein Hotel führt" erklärt er mit melan 
+               <lb xml:id="p002_tr_1_tl_30" break="no"/>cholischem Humor, – aber es beruhigt ihn, dass in einem soliden Land[,] wie 
+               <lb xml:id="p002_tr_1_tl_31"/>Schweden es ist, Traditionen sich trotz Jwar Kreugher fortzusetzen vermög 
+               <lb xml:id="p002_tr_1_tl_32"/>en. –</p>
+         </div>
+      </body>
+   </text>
+</TEI>
