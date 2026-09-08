@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0213" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0213#">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>smallform_0213</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl corresp="smallform_0213">
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0213_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0213_0001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p001_tr_1_tl_1"/>Dr. Annemarie Clark 
+               <lb xml:id="p001_tr_1_tl_2"/><hi rendition="#u">Die Drakooni kommen nach Petschur!</hi></p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_4"/>Die "Drakooni" sind Artisten, Löwenbändiger, Schlangenbezähmer, Athleten 
+               <lb xml:id="p001_tr_1_tl_5"/>und Zauberkünstler. Jhr Wanderzirkus umfasst einen einzigen Lastwagen, auf 
+               <lb xml:id="p001_tr_1_tl_6"/>dem zwei Käfige für ein Löwen- und ein Bärenpaar stehen, ferner ein sehr 
+               <lb xml:id="p001_tr_1_tl_7"/>enger Affenkasten, – ähnlich den Glaskästen, worin man bei uns in feinen 
+               <lb xml:id="p001_tr_1_tl_8"/>Restaurants die "lebenden Bachforellen" vorzeigt, – ein Schlangenkorb, ein 
+               <lb xml:id="p001_tr_1_tl_9"/>Zelt, die grosse Pauke, ein paar Kisten mit Kostümen und Geräten, – und 
+               <lb xml:id="p001_tr_1_tl_10"/>endlich findet dann noch die ganze Artistentruppe Platz, man weiss nicht 
+               <lb xml:id="p001_tr_1_tl_11"/>wie. So reisen die "Drakooni" durch Estland, – und wenn auch die Schlangen 
+               <lb xml:id="p001_tr_1_tl_12" break="no"/>dame direkt aus Jndien importiert wurde mitsamt ihrer grausig schillern 
+               <lb xml:id="p001_tr_1_tl_13" break="no"/>den Riesenschlange, ihrem Liebling, den sie als Boa um die mageren Schul 
+               <lb xml:id="p001_tr_1_tl_14" break="no"/>tern schlingt, – wenn auch der Löwenbändiger einen exotischen Namen führt 
+               <lb xml:id="p001_tr_1_tl_15"/>und das müde Löwenpaar selbst in den Urwäldern Afrikas gefangen hat, 
+               <lb xml:id="p001_tr_1_tl_16"/>wenn auch der Zirkusdirektor in Paris "studiert" hat und die Musiker 
+               <lb xml:id="p001_tr_1_tl_17"/>"international bekannt" sind, – so sieht man ihnen allen doch an, dass sie 
+               <lb xml:id="p001_tr_1_tl_18"/>Estländer sind: wie könnten sie s<del rend="overstrike">c</del>onst überhaupt die schrecklich schwie 
+               <lb xml:id="p001_tr_1_tl_19" break="no"/>rige estische Sprache gelernt haben? – Bauernsöhne sind sie, Söhne von Holz 
+               <lb xml:id="p001_tr_1_tl_20" break="no"/>fällern, die auf irgendeine Weise in diesen sonderbaren Beruf geraten 
+               <lb xml:id="p001_tr_1_tl_21"/>sind. Die Musiker – hr Repertoir besteht aus drei Volkstänzen und einem 
+               <lb xml:id="p001_tr_1_tl_22"/>Militärmarsch – haben gewiss früher auf dem heimatlichen Dorf zum Tanz 
+               <lb xml:id="p001_tr_1_tl_23"/>aufgespielt, und die indische Dame mit der Riesenschlange ist die Tochter 
+               <lb xml:id="p001_tr_1_tl_24"/>eines Landarbeiters und ist auf einem grossen Gut aufgewachsen, – bis sie 
+               <lb xml:id="p001_tr_1_tl_25"/>ihrem Vater davonlief und Künstlerin wurde ...</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p001_tr_1_tl_26"/>Das Leben der "Drakooni" ist nicht leicht. Den ganzen Tag rumpelt der hoch 
+               <lb xml:id="p001_tr_1_tl_27"/>bepackte Lastwagen über die Landstrassen, durch die einsamen Wälder Est 
+               <lb xml:id="p001_tr_1_tl_28" break="no"/>lands, bis man gegen Abend in irgendeinem Dorf oder Städtchen ankommt, – u. 
+               <lb xml:id="p001_tr_1_tl_29"/>da muss dann tüchtig gearbeitet werden, damit um acht Uhr alles zur Vor¬</p>
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0213_0002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p002_tr_1_tl_1" break="no"/>–2– 
+               <lb xml:id="p002_tr_1_tl_2"/>stellung bereit ist. – Das Publikum ist allerdings nicht anspruchsvoll: 
+               <lb xml:id="p002_tr_1_tl_3"/>denn die "Drakooni" gehen in die einsamsten Winkel des Landes, in die 
+               <lb xml:id="p002_tr_1_tl_4"/>weltfernsten Dörfer, bis nach Petschur zum Beispiel, das hoch oben in den 
+               <lb xml:id="p002_tr_1_tl_5"/>Wäldern an der russischen Grenze liegt. Die Leute von Petschur – sie reden 
+               <lb xml:id="p002_tr_1_tl_6"/>Russisch, und sind meistens Bauern oder Holzhändler, – haben in ihrem Leben 
+               <lb xml:id="p002_tr_1_tl_7"/>nicht viel Abwechslung: Werktags die Kneipe "zum Schwarzen Kater", Sonntag[add inline: s] 
+               <lb xml:id="p002_tr_1_tl_8"/>die Messe im russischen Kloster. Und einmal im Jahr kommt der Wanderzirku[add inline: s] 
+               <lb xml:id="p002_tr_1_tl_10"/>schlägt auf einer Wiese mitten im Städtchen <del rend="overstrike">ihr</del>[add above: sein] leichtes Zeit auf, – 
+               <lb xml:id="p002_tr_1_tl_11"/>Beleuchtung ist nicht nötig, die Sommernächte sind hell hier im Norden, – 
+               <lb xml:id="p002_tr_1_tl_12"/>der Bursche, der den ganzen Tag den Lastwagen gesteuert hat, spielt sei 
+               <lb xml:id="p002_tr_1_tl_13" break="no"/>nen Marsch auf der Ziehharmonika, der Clown – soeben hat er noch Pfähle 
+               <lb xml:id="p002_tr_1_tl_14"/>eingerammt und Seile gespannt, – sitzt bunt geschminkt an der Kasse [siehe Fotografie], – und 
+               <lb xml:id="p002_tr_1_tl_15"/>es kann los gehen. Sitze für die Zuschauer gibt es nicht, – sie stehen im 
+               <lb xml:id="p002_tr_1_tl_16"/>Zelt auf dem nackten Grasboden, und die Schlangendame geht herum, ihren 
+               <lb xml:id="p002_tr_1_tl_17"/>züngelnden Liebling als grausigen Schmuck um die Schultern geschlungen, 
+               <lb xml:id="p002_tr_1_tl_18"/>und verkauft Postkarten: man sieht sie auf einem Tigerfell liegen, in 
+               <lb xml:id="p002_tr_1_tl_19"/>verführerischer Pose, – und die Bauern von Petschur greifen zögernd in 
+               <lb xml:id="p002_tr_1_tl_20"/>die Tasche und zahlen eine Kupfermünze für das verblichene Bildchen. Dann 
+               <lb xml:id="p002_tr_1_tl_21"/>bricht die Musik ab, denn es kommt der grosse Moment, die Sensation des 
+               <lb xml:id="p002_tr_1_tl_22"/>Abends: die Löwen werden aus dem Käfig getrieben ...</p>
+            <p>
+               <lb xml:id="p002_tr_1_tl_23"/>Am nächsten Morgen sind die "Drakooni" aus Petschur verschwunden. Noch in 
+               <lb xml:id="p002_tr_1_tl_24"/>der Nacht haben sie das Zelt abgebrochen, und sind auf dem Lastwagen 
+               <lb xml:id="p002_tr_1_tl_25"/>davon gefahren, um am nächsten Abend in einem anderen Dorf ihr sensa 
+               <lb xml:id="p002_tr_1_tl_26" break="no"/>tionelles Programm zu wiederholen, und ein paar Kronen zu verdienen. 
+               <lb xml:id="p002_tr_1_tl_27"/>Jn Petschur aber reden die Leute noch lang von den Löwen, den Affen, 
+               <lb xml:id="p002_tr_1_tl_28"/>der Giftschlange, und den furchtlosen Artisten mit den exotischen 
+               <lb xml:id="p002_tr_1_tl_29"/>Namen, die aus der grossen Welt zu ihnen gekommen sind. –</p>
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0213_0003.jpg"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p003_tr_1_tl_1"/>Petsori 
+               <lb xml:id="p003_tr_1_tl_2"/>not only a convent – also a small 
+               <lb xml:id="p003_l"/>town. Migratory circus, but no 
+               <lb xml:id="p003_tr_1_tl_5"/>movies..[sic]</p>
+            <milestone unit="textregion" xml:id="p003_r"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p003_l_1"/><del rend="overstrike">Estni</del>
+               <lb xml:id="p003_l_2"/>Bilder (Cirkus Petsori) 
+               <lb xml:id="p003_l_3"/>Text u. Bilder 
+               <lb xml:id="p003_l_4"/>A.C Shw</p>
+         </div>
+      </body>
+   </text>
+</TEI>
