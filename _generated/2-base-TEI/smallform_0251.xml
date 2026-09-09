@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0251" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0251#">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>smallform_0251</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl corresp="smallform_0251">
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0251_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0251_0001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p001_tr_1_tl_2"/>Dr. Annemarie Clark 
+               <lb xml:id="p001_tr_1_tl_1"/>Juni 1937 
+               <lb xml:id="p001_tr_1_tl_3"/><PAGE tag="continued">Die Agrarreformen in den Baltischen Staaten</PAGE>
+               <lb xml:id="p001_tr_1_tl_4"/><PAGE tag="continued">seit dem Weltkrieg.</PAGE></p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_6"/>Die Baltischen Länder einschliesslich Finnlands, wie sie aus dem Zusa 
+               <lb xml:id="p001_tr_1_tl_7" break="no"/>menbruch[sic] des russischen Zarenreichs, aus Revolution und Befreiungskri[eg] 
+               <lb xml:id="p001_tr_1_tl_8"/>als selbständige, national geeinte Staaten hervorgingen, sind trotz 
+               <lb xml:id="p001_tr_1_tl_9"/>rascher Entwicklung auf allen Gebieten doch rein agrare Länder ge 
+               <lb xml:id="p001_tr_1_tl_10" break="no"/>blieben. Ihr Reichtum beruht auf der Landwirtschaft, die Ansätze zu 
+               <lb xml:id="p001_tr_1_tl_11"/>Industrien, soweit sie vorhanden sind, können als "agrare Industrien" 
+               <lb xml:id="p001_tr_1_tl_12"/>bezeichnet werden, die Grundlage der Nationen ist ein solider, <del rend="overstrike">neuer</del>
+               <lb xml:id="p001_tr_1_tl_13"/>zum grösseren Teil neugeschaffener Stand von Kleinbauern mit Eigen 
+               <lb xml:id="p001_tr_1_tl_14" break="no"/>besitz. Dieser Stand wurde durch die Agrarreformen geschaffen oder 
+               <lb xml:id="p001_tr_1_tl_15"/>konsolidiert, die man zum Teil noch während des Befreiungskampfes, 
+               <lb xml:id="p001_tr_1_tl_16"/>zum Teil unmittelbar nachher in Angriff genommen, und seither mit 
+               <lb xml:id="p001_tr_1_tl_17"/>manchen, durch Erfahrung nötig gewordenen Änderungen durchgeführt hat 
+               <lb xml:id="p001_tr_1_tl_19"/>Die ursprünglichen Reform-Entwürfe <del rend="overstrike">sind</del>[add above: liegen*] also schon fünfzehn bis 
+               <lb xml:id="p001_tr_1_tl_20"/>zwanzig Jahre zurück, – sie haben sich ausserdem so gut bewährt und 
+               <lb xml:id="p001_tr_1_tl_21"/>sind so rasch <del rend="overstrike">dur</del> zu festen und dauerhaften Einrichtungen des so 
+               <lb xml:id="p001_tr_1_tl_22" break="no"/>zialen und -[sic]Wirtschaftslebens geworden, dass man heute schon ihre 
+               <lb xml:id="p001_tr_1_tl_23"/>Ergebnisse bewerten kann, ohne fürchten zu müssen, es mit kurzfris 
+               <lb xml:id="p001_tr_1_tl_24" break="no"/>tigen Erscheinungen zu tun zu haben, aus denen Schlüsse für die 
+               <lb xml:id="p001_tr_1_tl_25"/>Zukunft zu ziehen unstatthaft und leichtfertig wäre. –</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p001_tr_1_tl_26"/>Das Jnteresse, dass man auch bei uns den jungen Baltischen Staaten 
+               <lb xml:id="p001_tr_1_tl_27"/>in den ersten Jahren nach dem Weltkrieg entgegengebracht hat, ist 
+               <lb xml:id="p001_tr_1_tl_28"/>erheblich geringer geworden, seitdem ihre Länder nicht mehr der 
+               <lb xml:id="p001_tr_1_tl_29"/>Schauplatz der bolschewistischen Revolution sind, und die Gefahr</p>
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0251_0002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_r"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p002_l"/>–2–</p>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p002_tr_1_tl_1"/>gebannt scheint, dass sie der russische Kommunismus als Schwelle zu 
+               <lb xml:id="p002_tr_1_tl_2"/>weiterer Ausbreitung der "Weltrevolution" benützen könnte. Dass sich 
+               <lb xml:id="p002_tr_1_tl_3"/>dort trotz der grossenteils durch deutsche Intervention nieder 
+               <lb xml:id="p002_tr_1_tl_4" break="no"/>gerungenen bolschewistischen Revolution, und in ideologischem Zusam 
+               <lb xml:id="p002_tr_1_tl_5" break="no"/>menhang mit ihr, eine tiefgreifende revolutionäre Veränderung voll 
+               <lb xml:id="p002_tr_1_tl_6" break="no"/>zogen hat, davon nahm die Welt ohne viel Anteilnahme Notiz, nachdem 
+               <lb xml:id="p002_tr_1_tl_7"/>man erst einmal sicher war, dass die deutschen Truppen die baltischen 
+               <lb xml:id="p002_tr_1_tl_8"/>Küsten von Finnland bis Memel von den Bolschewisten befreit und 
+               <lb xml:id="p002_tr_1_tl_9"/>gesäubert hatten. Die so gleichzeitig vom zaristischen Joch und von 
+               <lb xml:id="p002_tr_1_tl_10"/>der russisch-bolschewistischen Jnvasion befreiten Völker aber 
+               <lb xml:id="p002_tr_1_tl_11"/>mussten, sich selbst überlassen, zuerst sich die "Befreier" vom Halse 
+               <lb xml:id="p002_tr_1_tl_12"/>schaffen, die Truppen des deutschen Generals von der Goltz, die Ban 
+               <lb xml:id="p002_tr_1_tl_13" break="no"/>den des mit deutschen und baltischen Kreisen zusammenwirkenden 
+               <lb xml:id="p002_tr_1_tl_14"/>Abenteurers Bermondt-Awaloff, und die vom baltischen Adel aufgestell 
+               <lb xml:id="p002_tr_1_tl_15" break="no"/>ten "Landeswehren". Die baltischen Grundbesitzer in Lettland und Est 
+               <lb xml:id="p002_tr_1_tl_16" break="no"/>land, die polnischen in Litauen, sind nicht von den Bolschewisten 
+               <lb xml:id="p002_tr_1_tl_17"/>enteignet worden, sondern von den neugebildeten nationalen Regie 
+               <lb xml:id="p002_tr_1_tl_18" break="no"/>rungen im Verlauf der Agrarreformen, welche das Gerüst des neuen 
+               <lb xml:id="p002_tr_1_tl_19"/>Staatsgebilde bilden sollten. 
+               <lb xml:id="p002_tr_1_tl_20"/>[b]Während die Baltischen Staaten, als Absplitterungen des Zarenreichs, 
+               <lb xml:id="p002_tr_1_tl_21"/>und von ihm vorher unterdrückt und in ihrer nationalen Entwicklung 
+               <lb xml:id="p002_tr_1_tl_22"/>gehemmt, eine Parallele zu den aus den Trümmern der oesterreichen 
+               <lb xml:id="p002_tr_1_tl_23"/>Monarchie hervorgegangenen Nationalstaaten etwa der Tschechen und 
+               <lb xml:id="p002_tr_1_tl_24"/>Jugoslawen zu bieten scheinen, ist doch ihre Entstehungsgeschichte 
+               <lb xml:id="p002_tr_1_tl_25"/>ungleich komplexer, sind die vorgenommenen Neuordnungen der Gesell 
+               <lb xml:id="p002_tr_1_tl_26" break="no"/>schaft, des Besitzes, und der Wirtschaft gründlicher und revolutionäre[r] 
+               <lb xml:id="p002_tr_1_tl_27"/>und verdienen als recht extrem nationalistisch eingestellte, dabei 
+               <lb xml:id="p002_tr_1_tl_28"/>sozial fortschrittliche Kleinstaaten <del rend="overstrike">besonderes</del> Interesse besonders</p>
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0251_0003.jpg"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p003_tr_1_tl_1"/>–3– 
+               <lb xml:id="p003_tr_1_tl_2"/>etwa im Vergleich mit Schweden, wo eine rein sozialdemokratische 
+               <lb xml:id="p003_tr_1_tl_3"/>Regierung keine so radikalen Massnahmen wie die Enteignung einer 
+               <lb xml:id="p003_tr_1_tl_4"/>ganzen Klasse von Grundbesitzern <del rend="overstrike">gegriffen hat!</del> durchgeführt hat! 
+               <lb xml:id="p003_tr_1_tl_6"/>Jn diesem Zusammenhang nimmt übrigens [add aboe: Finnland-Suomi*] eine Sonder- und Mittelstel 
+               <lb xml:id="p003_tr_1_tl_7" break="no"/>lung ein, auf die wir noch zurückkommen werden. 
+               <lb xml:id="p003_tr_1_tl_8"/>[p]Wenn es auch nach der nationalen Befreiung die dringendste Aufgabe 
+               <lb xml:id="p003_tr_1_tl_9"/>war, die Masse der Landarbeiter, Pächter, Soldaten, – kurz das ländliche 
+               <lb xml:id="p003_tr_1_tl_10"/>Proletariat mit Land auszustatten und so in eine Klasse bäuerlicher 
+               <lb xml:id="p003_tr_1_tl_11"/>Grundbesitzer überzuführen, so war doch die Nationalisierung der 
+               <lb xml:id="p003_tr_1_tl_12"/>Güter und Enteignung des deutsch-baltischen, in Litauen polnischen 
+               <lb xml:id="p003_tr_1_tl_13"/>Landadels keine rein wirtschaftlich bedingte Massnahme. Kennzeich 
+               <lb xml:id="p003_tr_1_tl_14" break="no"/>nend für die "revolutionäre Bewegung" im Baltikum ist der Zusammen 
+               <lb xml:id="p003_tr_1_tl_15" break="no"/>hang, ja die Jdentität der wirtschaftlichen und der nationalen Un 
+               <lb xml:id="p003_tr_1_tl_16" break="no"/>terdrückung, – denn auch in der Zeit der russischen Herrschaft behielt 
+               <lb xml:id="p003_tr_1_tl_17"/>die Klasse der deutsch-baltischen Grundbesitzer ihre privilegierte 
+               <lb xml:id="p003_tr_1_tl_18"/>Stellung, wenn sie auch in ihren Sonderinteressen als Minorität 
+               <lb xml:id="p003_tr_1_tl_19"/>unter den Russifizierungs-Tendenzen besonders nach 1810 zu leiden 
+               <lb xml:id="p003_tr_1_tl_20"/>hatte. Es wäre aber falsch, anzunehmen, dass in den baltischen Ländern 
+               <lb xml:id="p003_tr_1_tl_21"/>vor 1914 überhaupt kein freier Bauernstand existiert habe. Jn Li 
+               <lb xml:id="p003_tr_1_tl_22" break="no"/>tauen z.B. waren 50 % des Bodens bäuerlicher Eigenbesitz, – allerdings 
+               <lb xml:id="p003_tr_1_tl_23"/>auf winzige Güter verteilt, die ihren Mann nicht ernähren konnten. Jn 
+               <lb xml:id="p003_tr_1_tl_24"/>Lettland war es den lettischen Bauern seit der zweiten Hälfte des 19[.] 
+               <lb xml:id="p003_tr_1_tl_25"/>Jahrhunderts möglich gewesen, eigenen Besitz zu erwerben, – trotzdem 
+               <lb xml:id="p003_tr_1_tl_26"/>waren bei Ausbruch des Weltkriegs noch 48% des Bodens in Besitz des 
+               <lb xml:id="p003_tr_1_tl_27"/>baltischen Adels. Ausserdem hatten die Deutsch-Balten, um einer "letti 
+               <lb xml:id="p003_tr_1_tl_28" break="no"/>schen Gefahr" vorzubeugen, nach der Revolution von 1905 deutsche Bau 
+               <lb xml:id="p003_tr_1_tl_29" break="no"/>ern ins Land gerufen, von denen 1914 etwa 15 000 Familien in Lett 
+               <lb xml:id="p003_tr_1_tl_30" break="no"/>land niedergelassen waren. Der Plan dieser deutschen Kolonisation 
+               <lb xml:id="p003_tr_1_tl_31"/>wurde dann zur Zeit der Okkupation durch deutsche Truppen wieder¬</p>
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0251_0004.jpg"/>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p004_tr_1_tl_1" break="no"/>–4– 
+               <lb xml:id="p004_tr_1_tl_2"/>aufgenommen, und hatte nach der Bildung der national-lettischen Re 
+               <lb xml:id="p004_tr_1_tl_3" break="no"/>gierung eine besonders scharfe Reaktion zur Folge. Jn Estland endlich 
+               <lb xml:id="p004_tr_1_tl_4"/>gab es zwar vor dem Krieg circa 60 000 kleine Bauerngüter, aber 2/3 
+               <lb xml:id="p004_tr_1_tl_5"/>des Bodens verteilte sich auf Majorate, Rittergüter, Kirchengüter und 
+               <lb xml:id="p004_tr_1_tl_6"/>Besitz des russischen Staats. Es ist unter solchen Umständen selbst 
+               <lb xml:id="p004_tr_1_tl_7" break="no"/>verständlich, dass die Jdeen der russischen Revolution bei den unter 
+               <lb xml:id="p004_tr_1_tl_8" break="no"/>drückten baltischen Völkern zunächst günstige Aufnahme fanden, der nu[r] 
+               <lb xml:id="p004_tr_1_tl_9"/>der Wunsch nach nationaler Einheit und staatlicher Selbständigkeit 
+               <lb xml:id="p004_tr_1_tl_10"/>entgegenwirkten. Man nahm mit Recht an, dass eine rasch durchgeführte 
+               <lb xml:id="p004_tr_1_tl_11"/>Landaufteilung die bäuerliche Bevölkerung für die andere, die nationa[le] 
+               <lb xml:id="p004_tr_1_tl_12"/>Revolution gewinnen werde, und hoffte ausserdem, dass durch Kleinbesit[z] 
+               <lb xml:id="p004_tr_1_tl_13"/>die Anbauflächen besser ausgenutzt und so die bitter notwendige Stei 
+               <lb xml:id="p004_tr_1_tl_14" break="no"/>gerung der landwirtschaftlichen Produktion erreicht werden könne. 
+               <lb xml:id="p004_tr_1_tl_15"/>Jn Litauen wurden die Majorate zunächst, schon 1918, als Staatseigen 
+               <lb xml:id="p004_tr_1_tl_16" break="no"/>tum erklärt, 1920 folgte die Nationalisierung der Wälder, Quellen, Bode[n] 
+               <lb xml:id="p004_tr_1_tl_17" break="no"/>schätze, 1922 trat das neue Agrargesetz inkraft, demzufolge die 
+               <lb xml:id="p004_tr_1_tl_18"/>verstaatlichten Ländereien in Kleingüter von 8 bis 20 Ha aufgeteilt 
+               <lb xml:id="p004_tr_1_tl_19"/>wurden, und ein gewisser Prozentsatz als Gemüsegärten für Handwerker 
+               <lb xml:id="p004_tr_1_tl_20"/>Arbeiter etc reserviert blieb, – eine Massnahme, die moralisch gute 
+               <lb xml:id="p004_tr_1_tl_21"/>Erfolge gezeitigt hat. Von den Enteignungen wurden in Litauen 1529 
+               <lb xml:id="p004_tr_1_tl_22"/>polnische, und nur 221 deutsche Gutsbesitzer <del rend="overstrike">ent</del> betroffen, deren ohne 
+               <lb xml:id="p004_tr_1_tl_23"/>hin geringe Entschädigungen durch die Jnflation der "Ostmark" meis 
+               <lb xml:id="p004_tr_1_tl_24" break="no"/>tens auf Null zusammenschmolzen. Jn Lettland, wo die Enteignung beson 
+               <lb xml:id="p004_tr_1_tl_25" break="no"/>ders radikal durchgeführt wurde, verwarf 1924 das Parlament auf so 
+               <lb xml:id="p004_tr_1_tl_26" break="no"/>zialdemokratischen Antrag jede Form von Entschädigung. Gegenüber rund 
+               <lb xml:id="p004_tr_1_tl_27"/>50 000 Bauernfamilien mit Eigenbesitz vor dem Weltkrieg gibt es heut 
+               <lb xml:id="p004_tr_1_tl_28"/>in Lettland deren 225 000, d.i. 2/3 de Gesamtbevölkerung! – Jn Estland, w[sic] 
+               <lb xml:id="p004_tr_1_tl_29"/>wo länger gekämpft wurde als in Lettland und Litauen, stellte sich di[e] 
+               <lb xml:id="p004_tr_1_tl_30"/>Frage der Agrarreform noch mitten im Bürgerkrieg mit besonderer Drin¬</p>
+            <pb xml:id="p005" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0251_0005.jpg"/>
+            <milestone unit="textregion" xml:id="p005_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p005_tr_1_tl_1" break="no"/>–5– 
+               <lb xml:id="p005_tr_1_tl_2"/>lichkeit. Man enteignete ohne Entschädigung, setzte die maximale Gröss[e] 
+               <lb xml:id="p005_tr_1_tl_3"/>eines Bauernguts auf 165 Ha fest, und verabschiedete im Oktober 1919 
+               <lb xml:id="p005_tr_1_tl_4"/>ein erstes Agrargesetz, das starke Sozialisierungstendenzen zeigte. 
+               <lb xml:id="p005_tr_1_tl_5"/>Statt nämlich, wie in den Nachbarländern, Boden zu billigen Preisen u. 
+               <lb xml:id="p005_tr_1_tl_6"/>auf langfristige Abzahlung an die Bauern zu verkaufen, verteilte man 
+               <lb xml:id="p005_tr_1_tl_7"/>Lose, deren Grösse so bestimmt wurde, dass eine Familie mit zwei Pfer 
+               <lb xml:id="p005_tr_1_tl_8" break="no"/>den sie bewirtschaften könne. Falls sich der "Pächter" bewährte, konnt[e] 
+               <lb xml:id="p005_tr_1_tl_9"/>ihm das Gut nach einer Probezeit von sechs Jahren zu lebenslängliche[sic] 
+               <lb xml:id="p005_tr_1_tl_10"/><del rend="overstrike">und vererblichem Besitz überlassen werden.</del> uberlassen[sic] werden, auch 
+               <lb xml:id="p005_tr_1_tl_11"/>sollte er das Pachtverhältnis auf seine Erben übertragen dürfen. 
+               <lb xml:id="p005_tr_1_tl_12"/>Diese Einrichtung bewährte sich nicht. Da die Leute nicht wussten, ob 
+               <lb xml:id="p005_tr_1_tl_13"/>sie ihr Gut nach Ablauf der sechs Jahre behalten würden, wollten sie 
+               <lb xml:id="p005_tr_1_tl_14"/>kein Geld investieren. Da sie sich nicht als Besitzer fuhlen[sic] konnten, 
+               <lb xml:id="p005_tr_1_tl_15"/>entstand ein sich rasch verschärfender Antagonismus zwischen ihnen 
+               <lb xml:id="p005_tr_1_tl_16"/>und den Kleinbauern, die schon vor der Reform eigenes Land besessen 
+               <lb xml:id="p005_tr_1_tl_17"/>hatten, und die von der neuen Klasse der Staatspächter die "Grauen 
+               <lb xml:id="p005_tr_1_tl_18"/>Barone" geschimpft wurden. 1925 und 26 wurde daher eine gründliche 
+               <lb xml:id="p005_tr_1_tl_19"/>Reform des bisherigen Gesetzes durchgeführt, frühere Gutsbesitzer 
+               <lb xml:id="p005_tr_1_tl_20"/>erhielten bis zu 75 Ha ihres Grund und Bodens, ausserdem Wald und 
+               <lb xml:id="p005_tr_1_tl_21"/>bisher unkultiviertes Land, und wurden für den Rest nachträglich 
+               <lb xml:id="p005_tr_1_tl_22"/>entschädigt, für den Stand der neuen Kleinbauern schuff[sic] man insgesamt 
+               <lb xml:id="p005_tr_1_tl_23"/>etwa 40 000 neue Güter. Heute ist die Anbaufläche Estlands gegenüber 
+               <lb xml:id="p005_tr_1_tl_24"/>1913 <del rend="overstrike">gesteigert</del> gewachsen, und die Produktion ist auch prozentual zur 
+               <lb xml:id="p005_tr_1_tl_25"/>Anbaufläche gesteigert. Hier wie in Lettland und Estland haben die 
+               <lb xml:id="p005_tr_1_tl_26"/>Veränderungen bisher ähnliche Resultate gezeitigt: eine intensivere 
+               <lb xml:id="p005_tr_1_tl_27"/>Bewirtschaftung der kleinen Güter, Rückgang des Roggenbaus, der durch 
+               <lb xml:id="p005_tr_1_tl_28"/>Hafer und Gerste, teilweise auch Leinsamen und Flachs ersetzt wurde, 
+               <lb xml:id="p005_tr_1_tl_29"/>vermehrter Viehbestand. Während in diesen drei Staaten das Schwer¬</p>
+            <pb xml:id="p006" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0251_0006.jpg"/>
+            <milestone unit="textregion" xml:id="p006_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p006_tr_1_tl_1" break="no"/>–6– 
+               <lb xml:id="p006_tr_1_tl_2"/>gewicht der jungen Nation auf einer ganz neuen Klasse, der des Klein 
+               <lb xml:id="p006_tr_1_tl_3" break="no"/>bauern mit eigenem Besitz beruht, und diese Klasse auch im Wirtschaft 
+               <lb xml:id="p006_tr_1_tl_4" break="no"/>leben noch auf lange Zeit hinaus die wichtigste Rolle spielt, besass 
+               <lb xml:id="p006_tr_1_tl_5"/>Finnland längst günstige Voraussetzungen, um sich als Agrarstaat und 
+               <lb xml:id="p006_tr_1_tl_6"/>agrarer Jndustriestaat (Holz, Papier, Käsereien) zu entwickeln. Dort gab 
+               <lb xml:id="p006_tr_1_tl_7"/>es schon 1901 29 000 Bauerngüter von weniger als 50 Ha Umfang gegenu[sic] 
+               <lb xml:id="p006_tr_1_tl_8" break="no"/>ber nur 1550 Gütern von mehr als 1000 Ha, – von denen Einige allerding 
+               <lb xml:id="p006_tr_1_tl_9"/>sehr grosse Ausmasse hatten. Daneben gab es einen Stand von Pächtern, 
+               <lb xml:id="p006_tr_1_tl_10"/>deren Lage durch ein fortschrittliches Gesetz von 1909 stabilisiert 
+               <lb xml:id="p006_tr_1_tl_11"/>war, und die im Allgemeinen darnach strebten, Besitzer der von ihnen 
+               <lb xml:id="p006_tr_1_tl_12"/>bewirtschafteten Güter zu werden. Die schwedische Oberschicht war bei 
+               <lb xml:id="p006_tr_1_tl_13"/>Weitem nicht so verhasst wie die Deutsch-Balten in Lettland und Est 
+               <lb xml:id="p006_tr_1_tl_14" break="no"/>land, und der nationale Aufstand nach dem Weltkrieg richtete sich 
+               <lb xml:id="p006_tr_1_tl_15"/>nicht gegen sie, sondern gegen Russland. Die nationale, antibolschewis 
+               <lb xml:id="p006_tr_1_tl_16" break="no"/>tische 'Lapo'-Bewegung ist bäuerlichen Ursprungs. Die unter dem Na 
+               <lb xml:id="p006_tr_1_tl_17" break="no"/>men ihres Jnitianten als Lex Kallio bekannte Agrarreform beschränkte 
+               <lb xml:id="p006_tr_1_tl_18"/>sich in Suomi daher darauf, den Pächtern den Ankauf ihrer Güter zu 
+               <lb xml:id="p006_tr_1_tl_19"/>ermöglichen, und für Landlose neue Bauerngüter zu schaffen. Enteignun 
+               <lb xml:id="p006_tr_1_tl_20" break="no"/>gen waren dafür nicht notwendig, da der Staat über beträchtliche Rese[r] 
+               <lb xml:id="p006_tr_1_tl_21" break="no"/>ven an unbebautem Land verfügte. Auf diese Weise sind seit 1922 in Fi[n] 
+               <lb xml:id="p006_tr_1_tl_22" break="no"/>land 130 000 neue bäuerliche Besitze geschaffen worden. Die beständig 
+               <lb xml:id="p006_tr_1_tl_23"/>wachsenden Produktionsziffern zeigen, wie wertvoll der intensive 
+               <lb xml:id="p006_tr_1_tl_24"/>Kleinbetrieb auch in Finnland ist, wo er sich neben Grossgütern und 
+               <lb xml:id="p006_tr_1_tl_25"/>so extensiven Wirtschaftszweigen wie der Holzgewinnung vorteil 
+               <lb xml:id="p006_tr_1_tl_26" break="no"/>haft behauptet. –</p>
+            <pb xml:id="p007" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0251_0007.jpg"/>
+            <milestone unit="textregion" xml:id="p007_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p007_tr_1_tl_1"/>–6– 
+               <lb xml:id="p007_tr_1_tl_2"/>gewicht der Nation auf einer neuen sozialen Klasse, den Kleinbauern 
+               <lb xml:id="p007_tr_1_tl_3"/>beruht, die auch im Wirtschaftsleben noch die wichtigste Rolle spie 
+               <lb xml:id="p007_tr_1_tl_4" break="no"/>len, besass Finnland längst die Voraussetzungen für die gunstigste[sic] 
+               <lb xml:id="p007_tr_1_tl_5"/>Entwicklung seiner Möglichkeiten. Dort gab es schon 1901 29000 
+               <lb xml:id="p007_tr_1_tl_6"/>Bauerngüter von weniger als 50 Ha gegenüber nur 1550 Gütern von 
+               <lb xml:id="p007_tr_1_tl_7"/>mehr als 1000 Ha. Daneben existierte ein Pächterstand, der durch ein 
+               <lb xml:id="p007_tr_1_tl_8"/>fortschrittliches Gesetz von 1909 stabilisert war, und die alle den 
+               <lb xml:id="p007_tr_1_tl_9"/>Wunsch hatten, Besitzer der von ihnen bewirtschafteten Pachtgüter zu 
+               <lb xml:id="p007_tr_1_tl_10"/>werden. Wohl gab es in Finnland eine schwedische Oberschicht, die eine 
+               <lb xml:id="p007_tr_1_tl_11"/>ähnliche Rolle spielte wie die Deutsch-Balten in Lettland und Est 
+               <lb xml:id="p007_tr_1_tl_12" break="no"/>land, – aber der nationale Antagonismus war weniger scharf, und wäh 
+               <lb xml:id="p007_tr_1_tl_13" break="no"/>rend sich Esten und Letten vor allem gegen den baltischen Adel erho 
+               <lb xml:id="p007_tr_1_tl_14" break="no"/>ben, war die Revolution der Finnen gegen Russland gerichtet, und die 
+               <lb xml:id="p007_tr_1_tl_15"/>nationale Lapo-Bewegung ist in bäuerlichen Kreisen entstanden. Die 
+               <lb xml:id="p007_tr_1_tl_16"/>Agrarreform beschränkte sich daher darauf, den Pächtern den Ankauf 
+               <lb xml:id="p007_tr_1_tl_17"/>ihrer Pachtguter[sic] zu ermöglichen, und für die Landlosen neue Bauern 
+               <lb xml:id="p007_tr_1_tl_18" break="no"/>gutern[sic] zu schaffen, – wozu Enteignungen nicht nötig waren, da Finnland 
+               <lb xml:id="p007_tr_1_tl_19"/>noch über Reserven unkultivierten Landes verfügt. Durch das nach sei 
+               <lb xml:id="p007_tr_1_tl_21" break="no"/>nem Initianten benannte <del rend="overstrike">[illegible]</del>[add above: Kallio-Gesetz sind*] seit 1922 130 000 neue 
+               <lb xml:id="p007_tr_1_tl_22"/>bäuerliche Besitze geschaffen worden. Die beständig anwachsenden 
+               <lb xml:id="p007_tr_1_tl_23"/>Produktionsziffern der Milchwirtschaft, des Käse-Exports u.a. beweisen 
+               <lb xml:id="p007_tr_1_tl_24"/>wie wertvoll der intensive bäuerliche Kleinbetrieb auch in Finnland 
+               <lb xml:id="p007_tr_1_tl_25"/>ist, wo er sich neben grossen Gutern[sic] und so extensiven Zweigen wie 
+               <lb xml:id="p007_tr_1_tl_26"/>der Holzgewinnung vorteilhaft behauptet.–</p>
+         </div>
+      </body>
+   </text>
+</TEI>
