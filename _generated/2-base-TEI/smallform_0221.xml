@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0221" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0221#">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>smallform_0221</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl corresp="smallform_0221">
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0221_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0221_0001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p001_l"/>Veröffentlichen !!!! 
+               <lb xml:id="p001_l_1"/>B. 
+               <lb xml:id="p001_tr_1_tl_1"/>Dr. Annemarie Clark: 
+               <lb xml:id="p001_tr_1_tl_4"/><hi rendition="#u">SCHWEDISCHE KINDER</hi>
+               <lb xml:id="p001_tr_1_tl_6"/>Jn Schweden wird die Hauptmahlzeit, das "Mittagessen", allgemein um 
+               <lb xml:id="p001_tr_1_tl_7"/>fünf Uhr oder spätestens um sechs Uhr nachmittags eingenommen. Der 
+               <lb xml:id="p001_tr_1_tl_8"/>Vater kommt von der Arbeit, aus dem Bureau, aus der Fabrik zurück und 
+               <lb xml:id="p001_tr_1_tl_9"/>isst mit den Kindern zusammen. Jm Sommer sind die Tage so lang und die 
+               <lb xml:id="p001_tr_1_tl_10"/>Abende so hell, dass man nachher spielen, segeln, schwimmen und spazieren 
+               <lb xml:id="p001_tr_1_tl_11"/>gehen kann. Die Eltern sind dafür meistens genau so begeistert wie die 
+               <lb xml:id="p001_tr_1_tl_12"/>Kinder. Die Schulen sind von Anfang Juni bis Ende August geschlossen, weil 
+               <lb xml:id="p001_tr_1_tl_13"/>die meisten Familien, auch die der wenig bemittelten Klassen, aufs Land 
+               <lb xml:id="p001_tr_1_tl_14"/>ziehen, ein Häuschen in den Schären haben, oder irgendwo ein Zelt auf 
+               <lb xml:id="p001_tr_1_tl_15" break="no"/>schlagen. Am Mitsommer-Fest dürfen die Kinder ihre hübschen National 
+               <lb xml:id="p001_tr_1_tl_16" break="no"/>trachten anziehen und mit den Erwachsenen auf dem Tanzboden im Freien 
+               <lb xml:id="p001_tr_1_tl_17"/>unterm Maibaum tanzen. Sogar die berufstätigen Frauen bringen es fertig, 
+               <lb xml:id="p001_tr_1_tl_18"/>sich um ihre Kinder selbst zu kümmern. Anders als in England, wo die Kin 
+               <lb xml:id="p001_tr_1_tl_19" break="no"/>der in der "Nursery" aufwachsen, und die Buben, kaum sind sie gross genug, 
+               <lb xml:id="p001_tr_1_tl_20"/>um sich selber anzuziehen, in ein Jnternat geschickt werden. Anders auch 
+               <lb xml:id="p001_tr_1_tl_21"/>als in Frankreich, wo die Kinder soviel lernen müssen, dass sie keine 
+               <lb xml:id="p001_tr_1_tl_22"/>Zeit für Sport und Spiel haben. Die schwedischen Schulen gelten [add above: als*] ausge 
+               <lb xml:id="p001_tr_1_tl_23" break="no"/>zeichnet. Die Lehrpläne stellen ziemlich hohe Anforderungen an die Kinder 
+               <lb xml:id="p001_tr_1_tl_24"/>aber gerade in den Volksschulen wird für Sport und Gymnastik gesorgt, 
+               <lb xml:id="p001_tr_1_tl_25"/>es gibt Preise für Schwimmen und Skielaufen, die Buben lernen schreinern, 
+               <lb xml:id="p001_tr_1_tl_26"/>die Mädchen stricken und nähen, und begabte Kinder bekommen gratis 
+               <lb xml:id="p001_tr_1_tl_27"/>Musikunterricht. Als Pfadfinder und Segelschüler, in Ferienlagern und 
+               <lb xml:id="p001_tr_1_tl_28"/>auf gemeinsamen Seereisen lernen die Kinder, sich in eine Gemeinschaft 
+               <lb xml:id="p001_tr_1_tl_29"/>einzufügen, selbständig, praktisch und kameradschaftlich zu sein. Trotzdem 
+               <lb xml:id="p001_tr_1_tl_30"/>entfremdet man sie keineswegs der Familie, Schule und Elternhaus sind 
+               <lb xml:id="p001_tr_1_tl_31"/>keine Gegensätze, sie wirken zusammen und ergänzen sich. Schwedische Kin 
+               <lb xml:id="p001_tr_1_tl_32" break="no"/>der sind den Erwachsenen, den Lehrern, den Eltern gegenüber höchst unbe 
+               <lb xml:id="p001_tr_1_tl_33" break="no"/>fangen, und benehmen sich natürlich, obwohl sie "gut erzogen" sind und 
+               <lb xml:id="p001_tr_1_tl_34"/>Knixe und Verbeugungen machen, wenn sie einem Erwachsenen die Hand geben.</p>
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0221_0002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p002_tr_1_tl_1"/>–2– (Schwedische Kinder) 
+               <lb xml:id="p002_tr_1_tl_2"/>Wieviel und in welcher Art <del rend="overstrike">in einem Land </del>für die Jugend gesorgt wird, 
+               <lb xml:id="p002_tr_1_tl_3"/>ist für die geistige Reife, die sozialen Zustände und die politische 
+               <lb xml:id="p002_tr_1_tl_4"/>Richtung eines Landes bezeichnend. Jn Schweden gibt es keine politischen, 
+               <lb xml:id="p002_tr_1_tl_5"/>militärischen, oder von einer Partei organisierten Jugendformationen. 
+               <lb xml:id="p002_tr_1_tl_6"/>Die Erziehung ist äusserst "zivil" und demokratisch, die Kinder lernen 
+               <lb xml:id="p002_tr_1_tl_7"/>schon in der Volksschule, dass es keine Klassengegensätze gibt. Der Sohn 
+               <lb xml:id="p002_tr_1_tl_8"/>eines Grafen und der eines Arbeiters tragen die gleichen "Overalls", 
+               <lb xml:id="p002_tr_1_tl_9"/>fahren Rad, und segeln zusammen. Die Kinder werden nicht verwöhnt, nicht 
+               <lb xml:id="p002_tr_1_tl_10"/>ängstlich erzogen, aber sie spielen eine grosse Rolle, – sowohl in der 
+               <lb xml:id="p002_tr_1_tl_11"/>Familie wie bei den verantwortlichen staatlichen Jnstanzen. Wer die 
+               <lb xml:id="p002_tr_1_tl_12"/>fortschrittlichen sozialen Einrichtungen Schwedens studieren will, muss 
+               <lb xml:id="p002_tr_1_tl_13"/>auch die Kleinkinder-Schulen, die Volksschulen, die von der Stadt Stock 
+               <lb xml:id="p002_tr_1_tl_14" break="no"/>holm mit Hilfe der Bau-Kooperative errichteten Wohnungen für kinderrei 
+               <lb xml:id="p002_tr_1_tl_15" break="no"/>che Familien, und das "sozialpädagogische Jnstitut" kennen lernen. 
+               <lb xml:id="p002_tr_1_tl_16"/>Aerztliche Kontrolle, Zahnpflege für Volksschüler, pädagogische Beratung, 
+               <lb xml:id="p002_tr_1_tl_17"/>das alles ist vorhanden und vorbildlich organisiert. Trotzdem wird kein 
+               <lb xml:id="p002_tr_1_tl_18"/>Kult mit den Kindern getrieben, – man betrachtet es eben als selbstver 
+               <lb xml:id="p002_tr_1_tl_19" break="no"/>ständlich, dass in einem sozial fortschrittlichen Staat die Verantwortung 
+               <lb xml:id="p002_tr_1_tl_20"/>gegenüber der heranwachsenden Generation eine der ersten und vornehmsten 
+               <lb xml:id="p002_tr_1_tl_21"/>Aufgaben ist. –</p>
+         </div>
+      </body>
+   </text>
+</TEI>
