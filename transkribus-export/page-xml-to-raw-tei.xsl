@@ -22,11 +22,21 @@
 
   <xsl:param name="debug" static="true" as="xs:boolean" select="true()"/>
 
-  <!-- TODO: remove temp fix for letter_0250 -->
+  <!-- The file name is clear and can be taken from //Page)[1]/@imageFilename
+  However there were cases of mismatch that required setting specific values using a conditional workaround:
+  - letter_0250 (bad IIIF manifest used for Transkribus import)
+  - smallform_0249 (bad IIIF manifest used for Transkribus import; stand-in for letter_0249)
+
+  The second workaround collided with the export of the actual smallform_0249. It was deactivated on 2026-09-09.
+  The first workaround is also not expected to be needed and was deactivated on 2026-09-09, too.
+  -->
+  <!--
   <xsl:param name="fileName" select="if (matches((//Page)[1]/@imageFilename,'letter_0249')) 
-    then 'letter_0250' (: needed for letter_0249 due to bad IIIF manifest used for Transkribus import :)
-    (: else if (matches((//Page)[1]/@imageFilename,'smallform_0249')) then 'letter_0249' :) (: needed for smallform_0249 due to bad IIIF manifest used for Transkribus import :)
+    then 'letter_0250'
+    else if (matches((//Page)[1]/@imageFilename,'smallform_0249')) then 'letter_0249'
       else (//Page)[1]/@imageFilename => replace('^(\w+_\d{4}).*$','$1')"/>
+  -->
+  <xsl:param name="fileName" select="(//Page)[1]/@imageFilename => replace('^(\w+_\d{4}).*$','$1')"/>
   <xsl:variable name="fileType" select="if (matches($fileName, 'letter')) then 'letter' else 'smallform'"/>
   <xsl:variable name="iiif-manifest" select="json-doc('https://iiif.annemarie-schwarzenbach.ch/presentation/'||$fileName||'.json')"/>
   <xsl:variable name="issue-parser-result" select="json-doc('../issue-parser-result.json')"/>
