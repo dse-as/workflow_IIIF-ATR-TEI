@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0855"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0855</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0855_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0855_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0855_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0855_001_tr_1"/>
+            <lb xml:id="letter_0855_001_tr_1_tl_1"/>Washington, DC, 2563, Waterside Drive,
+<lb xml:id="letter_0855_001_tr_1_tl_2"/>c/o Mrs. Wright
+<lb xml:id="letter_0855_001_tr_1_tl_3"/>3. Dezember 1937 [Jahreszahl mit Tinte ergänzt]<CONV tag="p">
+<lb xml:id="letter_0855_001_tr_1_tl_4"/>– ich weiss nicht, was Sie zu dieser "Lebensgeschichte" sagen werden,
+<lb xml:id="letter_0855_001_tr_1_tl_5"/>liebe Frau Storrer. Vielleicht ist sie für unsere Frauenseite zu radikal
+<lb xml:id="letter_0855_001_tr_1_tl_6"/>zu ungewöhnlich zu revolutionär zu gefährlich. Jedenfalls ist sie wahr.
+<lb xml:id="letter_0855_001_tr_1_tl_7"/>Und, natürlich, zu lang. Und nicht halb so gut wie[?] sein würde, wenn ich
+<lb xml:id="letter_0855_001_tr_1_tl_8"/>die Gespräche mit Aline vollständig und ungemildert aufgeschrieben
+<lb xml:id="letter_0855_001_tr_1_tl_9"/>hätte. Das wäre nur möglich, wenn man den ganzen Hintergrund ihres
+<lb xml:id="letter_0855_001_tr_1_tl_10"/>Schicksals, die Bühne der Fabrikdörfer in den Südstaaten, mit hinein¬
+<lb xml:id="letter_0855_001_tr_1_tl_11"/>bringen könnte. Und das würde ein Buch.</CONV><CONV tag="p">
+<lb xml:id="letter_0855_001_tr_1_tl_12"/>Jch konnte aber nicht anders, als Jhnen wenigstens einen Ausschnitt
+<lb xml:id="letter_0855_001_tr_1_tl_13"/>aus dem düsteren Gemälde zu zeigen, das mich, meinerseits, tief beein¬
+<lb xml:id="letter_0855_001_tr_1_tl_14"/>druckt hat.</CONV><CONV tag="p">
+<lb xml:id="letter_0855_001_tr_1_tl_15"/>Ein paar Gesprächsfetzen von Aline habe ich auch in einem Artikel
+<lb xml:id="letter_0855_001_tr_1_tl_16"/>über das Bedaux-System verwendet, den ich für "ABC" schrieb, – da die
+<lb xml:id="letter_0855_001_tr_1_tl_17"/>"Weltwoche" zweifellos chockiert gewesen wäre. Das Bedaux <CONV tag="g">ist</CONV>
+<lb xml:id="letter_0855_001_tr_1_tl_18"/>chockierend. Aber es ist die höchst logische Erfindung eines Jndus¬
+<lb xml:id="letter_0855_001_tr_1_tl_19"/>trie-Betriebs, der mittelalterlich und freibäuterisch ist, – je nach
+<lb xml:id="letter_0855_001_tr_1_tl_20"/>dem, – und jedenfalls zur nackten Ausbeutung des Menschen führen muss,
+<lb xml:id="letter_0855_001_tr_1_tl_21"/>der nur als "Hände" gilt, – eine Tendenz, die im amerikanischen Süden
+<lb xml:id="letter_0855_001_tr_1_tl_22"/>erleichtert und verstärkt ist durch die Sklavenpsychologie, die in
+<lb xml:id="letter_0855_001_tr_1_tl_23"/>den oberen Klassen noch immer vorherrscht.</CONV><CONV tag="p">
+<lb xml:id="letter_0855_001_tr_1_tl_24"/>Schreiben Sie mir gelegentlich? Nach:</CONV> <CONV tag="p">
+<lb xml:id="letter_0855_001_tr_1_tl_25"/>New York City,</CONV> <CONV tag="p">
+<lb xml:id="letter_0855_001_tr_1_tl_26"/>Bedford Hotel,</CONV> <CONV tag="p">
+<lb xml:id="letter_0855_001_tr_1_tl_27"/>118 East 40 Street –</CONV> <CONV tag="p">
+<lb xml:id="letter_0855_001_tr_1_tl_28"/>wohin ich in absehbarer Zeit zurückkehre. Viele Grüsse an Dr. Kleiber,
+<lb xml:id="letter_0855_001_tr_1_tl_29"/>– ich habe ihm wenig geschickt, – man wird mit dem Material nicht so
+<lb xml:id="letter_0855_001_tr_1_tl_30"/>schnell fertig.</CONV>
+<lb xml:id="letter_0855_001_tr_1_tl_31"/>Sehr herzlich – die Jhre –
+<lb xml:id="letter_0855_001_tr_1_tl_32"/>Annemarie [Unterschrift mit Bleistift ergänzt]</div>
+      </body>
+   </text>
+</TEI>
