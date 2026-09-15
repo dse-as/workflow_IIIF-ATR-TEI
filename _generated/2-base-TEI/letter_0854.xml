@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0854" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0854#">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0854</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0854_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0854_002.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p001_tr_1_tl_1"/>Nov. 20, 37</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_2"/>THIS SPACE FOR WRITING MESSAGES</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_3"/>Liebe Frau Storrer, es ist 
+               <lb xml:id="p001_tr_1_tl_5"/>leider einfach unmöglich 
+               <lb xml:id="p001_tr_1_tl_7"/>von unterwegs zu <hi rendition="#u">schreiben</hi>, 
+               <lb xml:id="p001_tr_1_tl_9"/>– ich meine: mehr als diesen 
+               <lb xml:id="p001_tr_1_tl_10"/>eiligen Brief. Die Landstrassen 
+               <lb xml:id="p001_tr_1_tl_11"/>sind zu lang, u. die Arbeit 
+               <lb xml:id="p001_tr_1_tl_12"/>zu schwierig, besonders für 
+               <lb xml:id="p001_tr_1_tl_14"/>den verdächtigen Ausländer 
+               <lb xml:id="p001_tr_1_tl_16"/>– u. hier im "South" ist man 
+               <lb xml:id="p001_tr_1_tl_17"/>dreifach verdächtig. Aber 
+               <lb xml:id="p001_tr_1_tl_19"/>es lohnt sich, weissgott, hier 
+               <lb xml:id="p001_tr_1_tl_20"/>etwas erfahren zu wollen – 
+               <lb xml:id="p001_tr_1_tl_22"/>das Land birst mit dra 
+               <lb xml:id="p001_tr_1_tl_23" break="no"/>matischem Fieber. Bald 
+               <lb xml:id="p001_tr_1_tl_24"/>mehr. Herzlich Ihre 
+               <lb xml:id="p001_tr_1_tl_25"/>An[n]emarie C.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p001_l"/>Frau F. Storrer 
+               <lb xml:id="p001_l_1"/>Rosengartenweg 6 
+               <lb xml:id="p001_l_2"/><hi rendition="#u">Basel 
+                  <lb xml:id="p001_l_3"/>Switzerland</hi>
+               <lb xml:id="p001_tr_1_tl_4"/>POST-CARD 
+               <lb xml:id="p001_tr_1_tl_6"/>THIS SPACE FOR ADDRESS ONLY</p>
+            <milestone unit="textregion" xml:id="p001_r"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p001_l_4"/>LUMBERTON N. C. 
+               <lb xml:id="p001_l_5"/>NOV 21 
+               <lb xml:id="p001_l_6"/>6 – PM 
+               <lb xml:id="p001_l_7"/>1937</p>
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0854_001.jpg"/>
+            <milestone unit="textregion" xml:id="p002_r"/>
+            <figure>
+               <head resp="editor">
+                  <lb xml:id="p002_l"/>Universität von Tuskegee</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p002_l_1"/>WHITE HALL, GIRLS' DORMITORY, TUSKEGEE INSTITUTE, TUSKEGEE, ALA.</p>
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0854_003.jpg"/>
+            <milestone unit="textregion" xml:id="p003_r"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p003_tr_1_tl_5"/>Mrs. Florianna Storrer 
+               <lb xml:id="p003_tr_1_tl_6"/>Rosengartenweg <del rend="overstrike">1</del> 6 
+               <lb xml:id="p003_tr_1_tl_7"/>Basel 
+               <lb xml:id="p003_tr_1_tl_8"/>Switzerland 
+               <lb xml:id="p003_tr_1_tl_9"/>QUEEN MARY! 
+               <lb xml:id="p003_tr_1_tl_10"/>S. S. Europa! [durchgestrichen und unterstrichen] 
+               <lb xml:id="p003_l"/>GRAND CENT.ANNEX.N.Y.3 
+               <lb xml:id="p003_l_1"/>OCT 19 
+               <lb xml:id="p003_l_2"/>5 – PM 
+               <lb xml:id="p003_l_3"/>1937 
+               <lb xml:id="p003_l_6"/>ASK YOUR POSTMASTER POSTMASTER 
+               <lb xml:id="p003_tr_1_tl_1"/>BUY U.S. SAVINGS 
+               <lb xml:id="p003_l_4"/>BONDS</p>
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0854_004.jpg"/>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>
+            <p>
+               <lb xml:id="p004_tr_1_tl_1"/>Belege bitte <hi rendition="#u">alle</hi> an Frau Picard 
+               <lb xml:id="p004_l"/>Breitingerstrasse 30, Zürich 2</p>
+            <p>
+               <lb xml:id="p004_tr_1_tl_4"/>COMPAGNIE GÉNÉRALE 
+               <lb xml:id="p004_tr_1_tl_5"/>TRANSATLANTIQUE 
+               <lb xml:id="p004_tr_1_tl_6"/>French Line [Vordruck in roter Farbe]</p>
+         </div>
+      </body>
+   </text>
+</TEI>

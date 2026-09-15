@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0854"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0854</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0854_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0854_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0854_002.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0854_001_tr_1"/>
+            <lb xml:id="letter_0854_001_tr_1_tl_1"/>Nov. 20, 37<CONV tag="p">
+<lb xml:id="letter_0854_001_tr_1_tl_2"/>THIS SPACE FOR WRITING MESSAGES</CONV> <CONV tag="p">
+<lb xml:id="letter_0854_001_tr_1_tl_3"/>Liebe Frau Storrer, es ist
+<lb xml:id="letter_0854_001_tr_1_tl_5"/>leider einfach unmöglich
+<lb xml:id="letter_0854_001_tr_1_tl_7"/>von unterwegs zu <PAGE tag="underlined">schreiben</PAGE>,
+<lb xml:id="letter_0854_001_tr_1_tl_9"/>– ich meine: mehr als diesen
+<lb xml:id="letter_0854_001_tr_1_tl_10"/>eiligen Brief. Die Landstrassen
+<lb xml:id="letter_0854_001_tr_1_tl_11"/>sind zu lang, u. die Arbeit
+<lb xml:id="letter_0854_001_tr_1_tl_12"/>zu schwierig, besonders für
+<lb xml:id="letter_0854_001_tr_1_tl_14"/>den verdächtigen Ausländer
+<lb xml:id="letter_0854_001_tr_1_tl_16"/>– u. hier im "South" ist man
+<lb xml:id="letter_0854_001_tr_1_tl_17"/>dreifach verdächtig. Aber
+<lb xml:id="letter_0854_001_tr_1_tl_19"/>es lohnt sich, weissgott, hier
+<lb xml:id="letter_0854_001_tr_1_tl_20"/>etwas erfahren zu wollen –
+<lb xml:id="letter_0854_001_tr_1_tl_22"/>das Land birst mit dra¬
+<lb xml:id="letter_0854_001_tr_1_tl_23"/>matischem Fieber. Bald
+<lb xml:id="letter_0854_001_tr_1_tl_24"/>mehr. Herzlich Ihre
+<lb xml:id="letter_0854_001_tr_1_tl_25"/>An[n]emarie C.</CONV>
+<lb xml:id="letter_0854_001_l"/>Frau F. Storrer
+<lb xml:id="letter_0854_001_l_1"/>Rosengartenweg 6
+<lb xml:id="letter_0854_001_l_2"/><PAGE tag="underlined">Basel</PAGE>
+<lb xml:id="letter_0854_001_l_3"/><PAGE tag="underlined">Switzerland</PAGE>
+<lb xml:id="letter_0854_001_tr_1_tl_4"/>POST-CARD
+<lb xml:id="letter_0854_001_tr_1_tl_6"/>THIS SPACE FOR ADDRESS ONLY<milestone unit="textregion" xml:id="letter_0854_001_r"/>
+            <lb xml:id="letter_0854_001_l_4"/>LUMBERTON N. C.
+<lb xml:id="letter_0854_001_l_5"/>NOV 21
+<lb xml:id="letter_0854_001_l_6"/>6 – PM
+<lb xml:id="letter_0854_001_l_7"/>1937<pb xml:id="letter_0854_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0854_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0854_002_r"/><CONV tag="f">
+<lb xml:id="letter_0854_002_l"/>Universität von Tuskegee</CONV>
+<lb xml:id="letter_0854_002_l_1"/>WHITE HALL, GIRLS' DORMITORY, TUSKEGEE INSTITUTE, TUSKEGEE, ALA.<pb xml:id="letter_0854_003"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0854_003.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0854_003_r"/>
+            <lb xml:id="letter_0854_003_tr_1_tl_5"/>Mrs. Florianna Storrer
+<lb xml:id="letter_0854_003_tr_1_tl_6"/>Rosengartenweg <PAGE tag="strikethrough">1</PAGE> 6
+<lb xml:id="letter_0854_003_tr_1_tl_7"/>Basel
+<lb xml:id="letter_0854_003_tr_1_tl_8"/>Switzerland
+<lb xml:id="letter_0854_003_tr_1_tl_9"/>QUEEN MARY!
+<lb xml:id="letter_0854_003_tr_1_tl_10"/>S. S. Europa! [durchgestrichen und unterstrichen]
+<lb xml:id="letter_0854_003_l"/>GRAND CENT.ANNEX.N.Y.3
+<lb xml:id="letter_0854_003_l_1"/>OCT 19
+<lb xml:id="letter_0854_003_l_2"/>5 – PM
+<lb xml:id="letter_0854_003_l_3"/>1937
+<lb xml:id="letter_0854_003_l_6"/>ASK YOUR POSTMASTER POSTMASTER
+<lb xml:id="letter_0854_003_tr_1_tl_1"/>BUY U.S. SAVINGS
+<lb xml:id="letter_0854_003_l_4"/>BONDS<pb xml:id="letter_0854_004"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0854_004.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0854_004_tr_1"/><CONV tag="p">
+<lb xml:id="letter_0854_004_tr_1_tl_1"/>Belege bitte <PAGE tag="underlined">alle</PAGE> an Frau Picard
+<lb xml:id="letter_0854_004_l"/>Breitingerstrasse 30, Zürich 2</CONV><CONV tag="p">
+<lb xml:id="letter_0854_004_tr_1_tl_4"/>COMPAGNIE GÉNÉRALE
+<lb xml:id="letter_0854_004_tr_1_tl_5"/>TRANSATLANTIQUE
+<lb xml:id="letter_0854_004_tr_1_tl_6"/>French Line [Vordruck in roter Farbe]</CONV></div>
+      </body>
+   </text>
+</TEI>
