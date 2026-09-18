@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0182" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0182#">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>smallform_0182</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl corresp="smallform_0182">
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0182_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0182_0001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p001_tr_1_tl_1"/><hi rendition="#u">Notes on T. V. A.</hi>
+               <lb xml:id="p001_tr_1_tl_2"/>N. York, Okt. 36.</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_3"/>TVA = Tennessee Valley Authority. (2 Millions people!)</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_4"/>Material: Fortune Oct. 33 and May 35 (James Agee) [space]</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_5"/>Der Schauplatz: Der Tennessee River begin[n]t in den Appalachians u. mündet 
+               <lb xml:id="p001_tr_1_tl_6"/>(2 Mill. Bewohner) in den Ohio. Das Tal – "das Herz des Südostens" ist so gross wie 
+               <lb xml:id="p001_tr_1_tl_7"/>ganz England. Städte: <hi rendition="#u">Asheville</hi> (50 000). Som[m]erfrische. Stadt von <hi rendition="#u">Look Homewards</hi> ... 
+               <lb xml:id="p001_tr_1_tl_8"/><hi rendition="#u">Knoxville</hi> – University of Tennessee. (106 000) [?]inen – Holz.</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_9"/><hi rendition="#u">Chattanooga</hi> (120 000) Industrien: American Cyanamid and Chemical –</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_10"/>Tennessee Products (besitzt 155 000 morgen Land!) $ 690 000 jährl. Schaden durch 
+               <lb xml:id="p001_tr_1_tl_11"/>Überschwem[m]ung! – mehr Kirchen im Verhältins zur Bevölkerungszahl als jede andere 
+               <lb xml:id="p001_tr_1_tl_12"/>U. S.-Stadt! – <hi rendition="#u">Paducah</hi> (34 000) Tabak.</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_13"/>Südl. Pflanzen-Tradition. Baumwolle –Sharecroppers u. Nigros.</p>
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0182_0002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>
+            <p>
+               <lb xml:id="p002_tr_1_tl_1"/><hi rendition="#u">Natürl. Reichtümer</hi>: Kohle u. Eisen (U.S.-"Ruhr"). Sandsteine, Ton, Marmor 
+               <lb xml:id="p002_tr_1_tl_2"/>[space horizontal] Kupfer, Zinn, Mangan u. a. Phosphorlager (aus den prähist. 
+               <lb xml:id="p002_tr_1_tl_3"/>[space horizontal] Knochenlagern). Etwa 40 verwendbare Mineralien! –</p>
+            <p>
+               <lb xml:id="p002_tr_1_tl_4"/>Holz – (schlechte Forstwirtsch.) – WASSERkraft! –</p>
+            <p>
+               <lb xml:id="p002_tr_1_tl_5"/>Flaches Land: Baumwolle-Boden erschöpft. Hügelland – fruchtbar, aber 
+               <lb xml:id="p002_tr_1_tl_6"/>von Erosion mehr u. mehr bedroht.</p>
+            <milestone unit="textregion" xml:id="p002_r_1"/>
+            <figure>
+               <head resp="editor">
+                  <lb xml:id="p002_l"/>Skizze einer Karte</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0182_0003.jpg"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p003_tr_1_tl_1"/>– 2 – 
+               <lb xml:id="p003_tr_1_tl_2"/><hi rendition="#u">Der Stab v. T. V. A.</hi> (Juli 1933)</p>
+            <p>
+               <lb xml:id="p003_tr_1_tl_3"/>– <hi rendition="#u">Dr. Arthur E. Morgan</hi>, Chairman. Ingenieur, berühmt auch als Präsident 
+               <lb xml:id="p003_tr_1_tl_4"/>des Antioch College. Ressort: Däm[m]e, Landregulierung, <del rend="overstrike">Landwirtsch.</del>, Wald, – u. soziale u. oek. Organis.</p>
+            <p>
+               <lb xml:id="p003_tr_1_tl_5"/>– <hi rendition="#u">David E. Lilienthal</hi> – Elektrizität</p>
+            <p>
+               <lb xml:id="p003_tr_1_tl_7"/>– <hi rendition="#u">Dr. Harcourt Morgan</hi> Landwirtschaft einschl. "fertilizer" – Verbindg. v. lokaler Industrie u. [add above: farming]</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p003_tr_1_tl_8"/><hi rendition="#u">Organisation</hi>:</p>
+            <p>
+               <lb xml:id="p003_tr_1_tl_9"/>T.V. A. trat in Kraft durch den Ten[n]essee Valley Authority Act – der "Vater" der 
+               <lb xml:id="p003_tr_1_tl_10"/>Idee ist Senator Norris v. Nebraska. Mai 1935 waren <hi rendition="#u">70 000 000 $</hi> verausgabt</p>
+            <p>
+               <lb xml:id="p003_tr_1_tl_12"/><hi rendition="#u">Die Arbeit, das Ziel</hi> [doppelt unterstrichen]: [ad above: Zusam[m]enhänge:] 1) Kraftwerk – 2) Kontrolle u. Schiffbarmachung des Ten[n]essee R. Septemb. 
+               <lb xml:id="p003_tr_1_tl_13"/>Flusskontrolle – heisst zuerst <hi rendition="#u">Bau von Däm[m]en</hi> (die wichtigsten: Norris, Wheeler, 
+               <lb xml:id="p003_tr_1_tl_14"/>Wilson, Pickwick). Ein Dam[m]bau bedeutet: Stauung v. Wasser, u. folglich Auf 
+               <lb xml:id="p003_tr_1_tl_15" break="no"/>speicherg. v. <hi rendition="#u">Wasserkraft</hi>. Bedeutet aber auch Bodenkontrolle, falls dies – wie in T. V. – 
+               <lb xml:id="p003_tr_1_tl_16"/>nötig ist (hügelig, locker) – also: <hi rendition="#u">Erosionskontrolle</hi>, dabei vor allem <hi rendition="#u">Aufforstung</hi> – 
+               <lb xml:id="p003_tr_1_tl_17"/>Um den Boden zu konservieren, nährt man ihn mit Phosphaten. Nitrate Plants 
+               <lb xml:id="p003_tr_1_tl_19"/>bei Wilson Dam[m]. Dies führt zu rein landwirtsch. Fragen: <hi rendition="#u">Die Farmer</hi> die das <del rend="overstrike">Boden</del> [add inline: Land] 
+               <lb xml:id="p003_tr_1_tl_20"/>besitzen, müssen dazu erzogen werden, ihren Grund u. Boden besser zu bebauen. 
+               <lb xml:id="p003_tr_1_tl_21"/>ausserdem, ist T. V. A. interessiert daran, sie als (Strom-) Verbraucher zu gewin[n]en: Ziel, 
+               <lb xml:id="p003_tr_1_tl_22"/>ganz allg. gesagt: <hi rendition="#u">besserer Lebensstandard</hi> der Farmer v. T. V.</p>
+            <p>
+               <lb xml:id="p003_tr_1_tl_23"/>Aber T. V. besitzt noch andere als nur landwirtsch. Möglichkeiten: <hi rendition="#u">Industrie</hi> – 
+               <lb xml:id="p003_tr_1_tl_24"/>Die Industrien, die am engsten mit Wasserkraft (Elektro) zusam[m]enhängen, sind: Elektro 
+               <lb xml:id="p003_tr_1_tl_25" break="no"/>mechanisch u. Elektrometallurgie – (cheap power needed!): So etwa entsteht ein 
+               <lb xml:id="p003_tr_1_tl_26"/>[space horizontal] <hi rendition="#u">soziales, industrielles, u. landwirtsch. Program[m]</hi>.</p>
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0182_0004.jpg"/>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p004_tr_1_tl_1"/><hi rendition="#u">Grenzen v. TVA:</hi></p>
+            <p>
+               <lb xml:id="p004_tr_1_tl_2"/>Aber nicht zuvergessen: TVA befasst sich <hi rendition="#u">direkt</hi> nur mit POWER, seine Aufgaben u. 
+               <lb xml:id="p004_tr_1_tl_3"/>Befugnisse sind nur: Bau v. Dä[m]en, Herstellg. u. Verkauf v. Strom, Herstellg. v. 
+               <lb xml:id="p004_tr_1_tl_4"/>Düngstoffen (Phosphornitraten). Darüber hinaus kan[n] es nur raten. Musterfarmen – 
+               <lb xml:id="p004_tr_1_tl_6"/>Mustersiedlungen. Beispiele v. Bodenkontrolle (Erosion) geben. <del rend="overstrike">eine</del> [add inline: auf] industr. Ent 
+               <lb xml:id="p004_tr_1_tl_7" break="no"/>wicklungsmöglichkeiten hinweisen. Aber so wie dies geschieht, folgen Farmer u. 
+               <lb xml:id="p004_tr_1_tl_8"/>industrielle Unternehmer den Anregungen v. T. V. A., sodass ein grossartiges 
+               <lb xml:id="p004_tr_1_tl_9"/>Program[m] durchgeführt wird. (S. 140 Fortune). Soviel <hi rendition="#u">kan[n]</hi> im Rahmen der 
+               <lb xml:id="p004_tr_1_tl_10"/>Demokratie getan werden, <hi rendition="#u">ohne</hi> reine "Staatswirtschaft" wie in USSR.</p>
+            <p>
+               <lb xml:id="p004_tr_1_tl_11"/>Dies der "Plan" – es folgt der:</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p004_tr_1_tl_12"/><hi rendition="#u">Fortgang der Arbeit</hi>.</p>
+            <p>
+               <lb xml:id="p004_tr_1_tl_13"/>Norris kan[n], weil fortgeschritten, als Beispiel dienen: 1) Dam[m] – 2) Siedlung.</p>
+            <p>
+               <lb xml:id="p004_tr_1_tl_14"/>1) Der Dam[m] – ein paar Zahlen: 1872 feet Länge</p>
+            <p>
+               <lb xml:id="p004_tr_1_tl_15"/>[space horizontal) 210 " Basisbreite</p>
+            <p>
+               <lb xml:id="p004_tr_1_tl_16"/>[space horizontal] 266 – grösste Höhe</p>
+            <p>
+               <lb xml:id="p004_tr_1_tl_17"/>Das Staubecken umfasst Clinch R. u. Powell R. – valleys u. wird einen Zugang 
+               <lb xml:id="p004_tr_1_tl_18"/>v. 775 Meilen haben. Kapazität 3'650'000 acre feet: Eines der grössten Staubecken 
+               <lb xml:id="p004_tr_1_tl_19"/>der Welt. Gebaut in Sandstein, auf nicht sehr sicherem, mit Ton vermischtem 
+               <lb xml:id="p004_tr_1_tl_20"/>dolomili-Boden.</p>
+            <p>
+               <lb xml:id="p004_tr_1_tl_21"/>Flussaufwärts kaufte TVA den 150 000 Morgen Land, von denen 45 000 unter Wasser 
+               <lb xml:id="p004_tr_1_tl_22"/>sind, at floodtime. Der Rest unter Erosionskontrolle.</p>
+            <p>
+               <lb xml:id="p004_tr_1_tl_23"/>Das Land musste v. den Farmern gekauft werden. Was wird aus den 
+               <lb xml:id="p004_tr_1_tl_24"/>Farmern? TVA kauft gleichwertigen oder besseren Boden – u. lässt ein 
+               <lb xml:id="p004_tr_1_tl_25"/>Program[m] ausarbeiten: <del rend="overstrike">zur Kontr</del> zur Bekämpfung der Erosion, möglichst 
+               <lb xml:id="p004_tr_1_tl_26"/>produktiven Bebauung, Düngung, etc–</p>
+            <pb xml:id="p005" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0182_0005.jpg"/>
+            <milestone unit="textregion" xml:id="p005_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p005_tr_1_tl_1"/>– 3 –</p>
+            <p>
+               <lb xml:id="p005_tr_1_tl_3"/>Für die Rodung des zukünftigen Stauseegrunds werden CCC <del rend="overstrike">Camps</del> [add inline: Civilian Conservation] boys 
+               <lb xml:id="p005_tr_1_tl_4"/>verwendet, etwas für Erosions-Kontrolle, Festwirtschaft.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space]</p>
+            <p>
+               <lb xml:id="p005_l_1"/><hi rendition="#u">Die Arbeiter</hi> / v. Norris, im[m]er als Beispiel der TVA-Aktivität) <hi rendition="#u">S. 142</hi>
+               <lb xml:id="p005_tr_1_tl_7"/>durchschnittl. 32 Jahr alt, 2 von 3 verheiratet, müssen erst für diese Art 
+               <lb xml:id="p005_tr_1_tl_8"/>Arbeit angelernt werden. Arbeiten 5 1/2 Std., fahren per Lastauto zurück nach 
+               <lb xml:id="p005_tr_1_tl_9"/>Norris. Siedlung: Einzelhäuser u. Gemeinschaftshäuser. aus Fichtenholz. 
+               <lb xml:id="p005_tr_1_tl_11"/>Cafeteria (2000 Mahlzeiten täglich ausgeteilt). Bank-Post-Recreation Hall – [add above: Tanz, Baseb-] ball, moovie, [add below: Vorträge –] 
+               <lb xml:id="p005_tr_1_tl_13"/>Arbeiter-Rat, Com[m]unity mit Stimmrecht für Jeden.</p>
+            <p>
+               <lb xml:id="p005_tr_1_tl_14"/>Schulhaus, beste Schule der Gegend. Eine Art Volkshochschule für die Arbeiter – 
+               <lb xml:id="p005_tr_1_tl_15"/>Naturwissensch. von ihnen bevorzugt. Mechaniker-Schreiner-Kurse. etc. 
+               <lb xml:id="p005_tr_1_tl_16"/>Bibliothek. Man lehrt "<hi rendition="#u">smalltime-industries</hi>", die z. B. von den Farmern 
+               <lb xml:id="p005_tr_1_tl_17"/>in ihrer freien Zeit ausgeführt werden können: Verwendung v. elektr. Apparaten! 
+               <lb xml:id="p005_tr_1_tl_18"/>Dazu Musterfarmen[Pfeil auf Gemüsegärten], – die Eier [illegible durchgestrichen] Milchprodukte in die Cafeteria liefern – 
+               <lb xml:id="p005_tr_1_tl_19"/>ebensolche Gemüsegärten – [Pfeil von Musterfarmen zu Gemüsegärten]</p>
+            <p>
+               <lb xml:id="p005_tr_1_tl_21"/> $ 3 500 000 wurden für den Bau v. Norris verwendet [add above: soll 10 000 Liter fassen in Klammern] – Experiment für 
+               <lb xml:id="p005_tr_1_tl_22"/>Plan-Städte, Städte-Plan, billige Häuser – ½ - 4 Morgen pro Familie, Gärten 
+               <lb xml:id="p005_tr_1_tl_23" break="no"/>Cinder-block-cottage mit 4 Zim[m]ern, Baukosten $ 1890, Monatsmiete $ 14.50 – 
+               <lb xml:id="p005_tr_1_tl_24"/>besser, mit Bad, $ 2074 resp. $ 22.–</p>
+            <p>
+               <lb xml:id="p005_tr_1_tl_25"/>Ende 1936 ist die Arbeit am Norris-Dam[m] beendet. –</p>
+            <p>
+               <lb xml:id="p005_tr_1_tl_26"/><hi rendition="#u">Was wird aus der Siedlung?</hi> Porzellan? (Ton-Lager) – Elektrometallurgische 
+               <lb xml:id="p005_tr_1_tl_27"/>Fabriken?</p>
+            <pb xml:id="p006" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0182_0006.jpg"/>
+            <milestone unit="textregion" xml:id="p006_tr_1"/>
+            <p>
+               <lb xml:id="p006_tr_1_tl_1"/>Im Süden, z. B. im Gebiet des <hi rendition="#u">Wheeler</hi>-Dam[m]s, 
+               <lb xml:id="p006_tr_1_tl_2"/>andere Probleme: <hi rendition="#u">Nigros</hi>. u. <hi rendition="#u">ShareCroppers</hi>. Also 2 der 
+               <lb xml:id="p006_tr_1_tl_3"/>grossen sozialen u. Bevölkerungs-Probleme der U. S.</p>
+            <p>
+               <lb xml:id="p006_l"/><hi rendition="#u">Nigros</hi>: werden – statt dass man duch ihre billige Arbeitskraft den 
+               <lb xml:id="p006_tr_1_tl_6"/>[space horizontal] Lohn der weissen Arbeiter drückt – zu gleichem Lohn u. im 
+               <lb xml:id="p006_tr_1_tl_7"/>[space horizontal] prozentualen Verh.[ältnis] zur Bevölkerungszahl engagiert (in jener 
+               <lb xml:id="p006_tr_1_tl_8"/>[space horizontal] Gegend: 20 %)</p>
+            <p>
+               <lb xml:id="p006_tr_1_tl_9"/><hi rendition="#u">Sharecroppers</hi>: Von 230 000 Famern in T. V. sind 95 000 Pächter – Wen[n] TVA 
+               <lb xml:id="p006_tr_1_tl_10"/>[space horizontal] das Land kauft, bekom[m]t der Besitzer das Geld, u. der 
+               <lb xml:id="p006_tr_1_tl_12"/>[space horizontal] Share-cropper... [add above: muss wegziehen,] wohin?</p>
+            <p>
+               <lb xml:id="p006_tr_1_tl_13"/><hi rendition="#u">Land-use:</hi> TVA muss ein Program[m] durchführen, das dem Program[m] der R. A. 
+               <lb xml:id="p006_tr_1_tl_15"/>entspricht: Allg. Plan für Strassen, alle Arten v. [add. above: Verkehrs]Verbindungen, 
+               <lb xml:id="p006_tr_1_tl_16"/>Plan v. Städten, v. Wald u. Bauernland, von Erosionskontrolle, 
+               <lb xml:id="p006_tr_1_tl_17"/>eine <hi rendition="#u">Landkarte</hi> wird "gemacht". Schlechter, z. B. steiles Land wird 
+               <lb xml:id="p006_tr_1_tl_18"/>mit Wald bepflanzt, Waldland das sich für Getreide- oder Grasbau 
+               <lb xml:id="p006_tr_1_tl_19"/>eignet, wird abgeforstet. Geologen untersuchen die Lager v. Mineralien, 
+               <lb xml:id="p006_tr_1_tl_20"/>die Bodenschätze.</p>
+            <p>
+               <lb xml:id="p006_tr_1_tl_21"/><hi rendition="#u">Kl. Industrie:</hi> Der Farmer soll neben der Landarbeit eine Möglichkeit 
+               <lb xml:id="p006_tr_1_tl_22"/>[space horizontal] erhalten, Bargeld zu verdienen: Holz-Handwerk, "Heimarbeit" – 
+               <lb xml:id="p006_tr_1_tl_23"/>Kooperation (verge. Konsum-Gesellsch.) für die Farmer.</p>
+            <p>
+               <lb xml:id="p006_tr_1_tl_24"/><hi rendition="#u">Gr. Industrie</hi> wird angeregt.</p>
+            <p>
+               <lb xml:id="p006_tr_1_tl_25"/>Kampf mit den Privatgesellschaften. World Power-Konferenz im 
+               <lb xml:id="p006_tr_1_tl_26"/>Sept. in Washington.</p>
+            <p>
+               <lb xml:id="p006_tr_1_tl_27"/>Grundsatz v. TVA: Private Kraftwerke folgten bisher der Bevölkerung – im Fall 
+               <lb xml:id="p006_tr_1_tl_28"/>von TVA soll die Bevölkerung der "Elektrizität" folgen: Aufbau eines jenen 
+               <lb xml:id="p006_tr_1_tl_29"/>Landes infolge der vorhandenen Wasserkraft.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
