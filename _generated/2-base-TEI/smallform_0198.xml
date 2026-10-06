@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0198" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0198#">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>smallform_0198</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl corresp="smallform_0198">
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0198_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0198_0001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p001_tr_1_tl_1"/>Notizen nach dem Bericht v. Dr. Stolper, 1, Wall Street, 
+               <lb xml:id="p001_tr_1_tl_2"/>vom 18. Februar, betreffend: [space] 
+               <lb xml:id="p001_tr_1_tl_3"/><hi rendition="#u">Kampf um den Supreme Court:</hi></p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_5"/>Der Supreme Court hat seine konservative Machtstellung nicht durch die 
+               <lb xml:id="p001_tr_1_tl_6"/>Verfassung, die inbezug auf den Court wortkarg ist, sondern durch 150 j. 
+               <lb xml:id="p001_tr_1_tl_7"/>Tradition, – wobei besonders Chief Justice John Marshall in 34 j. Amts 
+               <lb xml:id="p001_tr_1_tl_8" break="no"/>tätigkeit vor rund 100 Jahren die Spielregeln festgesetzt hat.</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_9"/>Eine Anzahl v. Republikanern, die bisher Roosevelt unterstützt haben, etwa 
+               <lb xml:id="p001_tr_1_tl_10"/>Senator Hiram Johnson v. Kalifornien u. Norris v. Nebraska, – u. Demokraten 
+               <lb xml:id="p001_tr_1_tl_11"/>wie Senator Wheeler (Kampf gegen Public Utilities!) u. Clark v. Missouri 
+               <lb xml:id="p001_tr_1_tl_12"/>sind gegen die Reform des Gerichtshofes.</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_13"/>R. trat jetzt mit den Reformvorschlägen hervor, weil die sog. neue NRA 
+               <lb xml:id="p001_tr_1_tl_14"/>vorbereitet wird, u. er eine verfassungsmässige Form für die sozialen 
+               <lb xml:id="p001_tr_1_tl_15"/>Klauseln finden muss, – bekanntlich hat die bisherige Spruchpraxis des 
+               <lb xml:id="p001_tr_1_tl_16"/>Supreme Court für solche Gesetze wie Verbot der Kinderarbeit, Mindest 
+               <lb xml:id="p001_tr_1_tl_17" break="no"/>löhne, Beschränkung der Arbeitszeit, keine legale Basis gefunden. Ebenso 
+               <lb xml:id="p001_tr_1_tl_18"/>wurde die durch die Guffey-Bill unternommene Sanierung der Kohlenind. 
+               <lb xml:id="p001_tr_1_tl_19"/>als "verfassungswidrig" w[sic]rklärt, u. überh. die ganze erste NRA aufgehoben!</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> [space]</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_20"/>Theoretisch würde es aus dieser Situation drei Auswege geben:</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_21"/>Verfassungsänderung herbeiführen –</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_22"/>durch ein Gesetz die Kompetenz des Court beschränken –</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_23"/>die personelle Zusammensetzung des Court ändern, u. so seinen Widerstand 
+               <lb xml:id="p001_tr_1_tl_24"/>gegen Rs' Ideen des sozialen Fortschritts zu brechen.</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_25"/>Letzterer Weg wurde gewählt:</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_26"/>Die Zahl der Richter ist zuletzt 1869 anlässlich des sog. "legal tender 
+               <lb xml:id="p001_tr_1_tl_27"/>case" geändert worden. Jn Zeiten nationalen Notstands – also 1933 – wäre R. 
+               <lb xml:id="p001_tr_1_tl_28"/>wahrsch. auf keinen Widerstand gestossen. Seine Reform geschieht innerhalb 
+               <lb xml:id="p001_tr_1_tl_29"/>einer allg. Gerichtsreform, – es soll die Ueberlastung u. Ueberalterung der 
+               <lb xml:id="p001_tr_1_tl_30"/>Federal Courts bekämpft werden. Infolgedessen soll bei allen Bundesge 
+               <lb xml:id="p001_tr_1_tl_31" break="no"/>richten, auch beim Supreme Court, jeder Richter über 70 J. das Recht haben 
+               <lb xml:id="p001_tr_1_tl_32"/>zurückzutreten, – falls er davon keinen Gebrauch macht, soll ein Ersatz 
+               <lb xml:id="p001_tr_1_tl_33" break="no"/>richter ernannt werden. Da momentan 6 v. 9 Richtern über 70J. sind, kann 
+               <lb xml:id="p001_tr_1_tl_34"/>also R. jeden Augenblick die Zahl der Richter auf 15 erhöhen. Dieser 
+               <lb xml:id="p001_tr_1_tl_35"/>"Trick" hat viele erbittert, da man unter dem Eindruck der europ. Vorgänge 
+               <lb xml:id="p001_tr_1_tl_36"/>besonders empfindlich gegen jede Machterweiterung der Exekutive ist. 
+               <lb xml:id="p001_tr_1_tl_37"/>Und wenn heute R. sich den Court gefügig machen könne, um soziale Reformen 
+               <lb xml:id="p001_tr_1_tl_38"/>durchzuführen, so könne er es morgen unter reakt. Kongressmehrheit für 
+               <lb xml:id="p001_tr_1_tl_39"/>die Unterdrückung bürgerl. Freiheiten tun.</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_40"/>Gleichgewicht der Macht zw. Exekutive, Gesetzgebung u. Gericht auf dem 
+               <lb xml:id="p001_tr_1_tl_41"/>Spiel.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p001_tr_1_tl_42"/><hi rendition="#u">General Motors-Strike.</hi></p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_44"/>Der Streik ist nach 6 Wochen mit einem Kompromiss abgebrochen worden, 
+               <lb xml:id="p001_tr_1_tl_45"/>der von den Beteiligten als das Optimum des Erreichbaren betrachtet 
+               <lb xml:id="p001_tr_1_tl_46"/>wird.</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_47"/>Die General Motors Corporation hat die U.A.W. als Partner eines Kollek 
+               <lb xml:id="p001_tr_1_tl_48" break="no"/>tivvvertrags[sic] für ihre Mitgl. (u. nur für sie) anerkannt. Sie hat sich 
+               <lb xml:id="p001_tr_1_tl_49"/>ausserdem verpflichtet, die nächsten 6 Mon., über Angelegenheiten der 
+               <lb xml:id="p001_tr_1_tl_50"/>allg. Gesellschaftspolitik (Gewerkschafts?) in den 20 (v. 63) am Streik bet. 
+               <lb xml:id="p001_tr_1_tl_51"/>Fabriken mit keiner anderen Gruppe als den U.A.W. zu verhandeln.</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_52"/>Die Union hat zugestanden, die Werke sofort zu räumen, keinen Zwang od. 
+               <lb xml:id="p001_tr_1_tl_53"/>Einschüchterung bei ihrer Werbung auszuüben, jede Möglichkeit von Ver 
+               <lb xml:id="p001_tr_1_tl_54" break="no"/>handlungen über Beschwerden zu erschöpfen, bevor wieder gestreikt wird. 
+               <lb xml:id="p001_tr_1_tl_55"/>Ausserdem hat die Company den Stundenlohn um 5 cents erhöht.</p>
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0198_0002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p002_tr_1_tl_1"/>– 2 – (U.S.-Bericht v. Stolper v. 18. Februar)</p>
+            <p>
+               <lb xml:id="p002_tr_1_tl_2"/>Es war für General Motors peinlich, dass während des Streiks das Senat 
+               <lb xml:id="p002_tr_1_tl_3" break="no"/>komitee für Arbeiterfragen feststellen musste, dass u. a. General Motors 
+               <lb xml:id="p002_tr_1_tl_4"/>bis Ende Jan. 1937 nicht weniger als $ 850 000 an Detektivbüros für 
+               <lb xml:id="p002_tr_1_tl_5"/>Spionage u. Einschüchterungssystem in ihren Betrieben ausgezahlt hatte. 
+               <lb xml:id="p002_tr_1_tl_6"/>Da Chevrolet auf Arbeiter als Käufer angewiesen ist, hätte <del rend="overstrike">sonst</del> General 
+               <lb xml:id="p002_tr_1_tl_7"/>Motors einen Boykott riskiert, hätte es die Verträge mit Detektivbüros 
+               <lb xml:id="p002_tr_1_tl_8"/>nicht aufgegeben.</p>
+            <p>
+               <lb xml:id="p002_tr_1_tl_9"/>Ergebnisse des Streiks sind als günstig zu bewerten: die Wolke der ständ. 
+               <lb xml:id="p002_tr_1_tl_10"/>Streikgefahr hat sich verzogen, <del rend="overstrike">Knudsen</del> "Let us have peace and make auto 
+               <lb xml:id="p002_tr_1_tl_11" break="no"/>mobiles", – Vice President Knudsen, als er das Abkommen unterschrieb. 
+               <lb xml:id="p002_tr_1_tl_12"/>Hauptverdienst den etwa 40 j. Governor v. Michigan, Frank Murphy, der sich, 
+               <lb xml:id="p002_tr_1_tl_13"/>früher Generalgouverneur der Philippinen, v. R. zur Kandidatur in M. bestim 
+               <lb xml:id="p002_tr_1_tl_14" break="no"/>men liess.</p>
+            <p>
+               <lb xml:id="p002_tr_1_tl_15"/>Wichtiger die indirekten Folgen des Streiks: im Abkommen ist die Formel 
+               <lb xml:id="p002_tr_1_tl_16"/>des Kollektivvertrags gefunden worden, die sich in Steel anwenden liesse 
+               <lb xml:id="p002_tr_1_tl_17"/>um dort einen viel seriöseren Streik zu vermeiden (?)</p>
+            <p>
+               <lb xml:id="p002_tr_1_tl_18"/>Die jüng. Generation der U.S. Steel Corporation behandelt Arbeiterfragen 
+               <lb xml:id="p002_tr_1_tl_19"/>viel unbefangener, – und von ihrem Verhalten hängt das der übrigen Stahl 
+               <lb xml:id="p002_tr_1_tl_20" break="no"/>industrien (Republic Steel, Jones &amp; Laughlin, Bethlehem) ab.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p002_tr_1_tl_21"/><hi rendition="#u">Konjunktur-Kontrolle. (Boom-Control)</hi></p>
+            <p>
+               <lb xml:id="p002_tr_1_tl_23"/>Betrifft Federal Reserve Board, – Chairman Mr. Eccles, Governor Broderick, 
+               <lb xml:id="p002_tr_1_tl_24"/>Economic Adviser Dr. Goldenweiser (!)</p>
+            <p>
+               <lb xml:id="p002_tr_1_tl_25"/>Der Board hat zuletzt am 31. Januar die Pflichtreserven wieder um ein 
+               <lb xml:id="p002_tr_1_tl_26"/>Drittel erhöht u. auf die gesetzl. Höchstgrenze gebracht. Sympton[sic], dass 
+               <lb xml:id="p002_tr_1_tl_27"/>bereits niemand am Näherkommen eines neuen Boom zweifelt. Mr. Eccles 
+               <lb xml:id="p002_tr_1_tl_28"/>ist überzeugt, ihn kontrollieren, einen Exzess vermeiden und damit einen 
+               <lb xml:id="p002_tr_1_tl_29"/>Krach vermeiden zu können. Er verwendet 2 Mittel:</p>
+            <p>
+               <lb xml:id="p002_tr_1_tl_30"/>1)Beschränkung des Geld- u. Kreditvolumens</p>
+            <p>
+               <lb xml:id="p002_tr_1_tl_31"/>2) Oeffentl. Arbeiten als permanentes Hilfsmittel des Konjunkturausgleichs 
+               <lb xml:id="p002_tr_1_tl_32"/>(PWA, WPA).</p>
+            <p>
+               <lb xml:id="p002_tr_1_tl_33"/>Sachverständige der Treasury sollen intern ausgerechnet haben, dass, 
+               <lb xml:id="p002_tr_1_tl_34"/>auch ohne Kürzung der Ausgaben, der Ueberschuss des Budgets 1939/40 
+               <lb xml:id="p002_tr_1_tl_35"/>S[Dollarzeichen gemeint] 3–4 Milliarden erreichen kann (!).</p>
+            <p>
+               <lb xml:id="p002_tr_1_tl_36"/>Eccles betrachtet die S 7–7½ Milliarden ausländ. Effekten u. Bankguthaben 
+               <lb xml:id="p002_tr_1_tl_37"/>in U.S. nur als Störungsfaktor, – weil Reg. u. Federal Reserve Banks keinen 
+               <lb xml:id="p002_tr_1_tl_38"/>Einfluss auf europ. Guthaben ausüben, während sie das amerikan. Kredit 
+               <lb xml:id="p002_tr_1_tl_39" break="no"/>volumen kontrollieren können. Ein anderer Punkt: die amerikan. Neutralität 
+               <lb xml:id="p002_tr_1_tl_40"/>sei gefährdet, wenn im Falle eines europ. Krieges die betreffenden Mächte 
+               <lb xml:id="p002_tr_1_tl_41"/>die Guthaben ihrer Untertanen in U.S.A. beschlagnahmen und dafür riesige 
+               <lb xml:id="p002_tr_1_tl_42"/>Kriegsmaterial-Käufe vornehmen könnten.</p>
+            <p>
+               <lb xml:id="p002_tr_1_tl_43"/>Aber – Ansicht Stolpers – wie kann U.S.A. etwas gegen das Einströmen europ. 
+               <lb xml:id="p002_tr_1_tl_44"/>Kapitals tun, ohne eine Devisenkontrolle einzuführen, – nur eine gewisse 
+               <lb xml:id="p002_tr_1_tl_45"/>Beschränkung durch Besteuerung der Dividenden mit 20 statt 10 % wäre 
+               <lb xml:id="p002_tr_1_tl_46"/>möglich, – aber schon eine Erhöhung des Dividendenabzugs ist nicht einfach, 
+               <lb xml:id="p002_tr_1_tl_47"/>wegen eines Vertrags mit Canada, das diesen Abzug auf 5 % festsetzt – 
+               <lb xml:id="p002_tr_1_tl_48"/>u. daran ist U.S. mehr interessiert als Canada, weil seine Jnvestments 
+               <lb xml:id="p002_tr_1_tl_49"/>in Canada grösser sind als umgekehrt. Sollte aber zw. Canada u. der übr. 
+               <lb xml:id="p002_tr_1_tl_50"/>Welt im Verhältnis 5 zu 20 differenziert werden, so würde eben ein gr. 
+               <lb xml:id="p002_tr_1_tl_51"/>Teil der europ. Bestände künftig über Canada geleitet.</p>
+            <p>
+               <lb xml:id="p002_tr_1_tl_52"/>Mr. Morgenthau wird über diesen Fragenkomplex noch im Febr. dem Präsiden 
+               <lb xml:id="p002_tr_1_tl_53" break="no"/>ten Vorschläge unterbreiten.</p>
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0198_0003.jpg"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p003_tr_1_tl_1"/>– 3 – (U.S.-Bericht v. Stolper v. 18. Febr. 37) 
+               <lb xml:id="p003_tr_1_tl_2"/><hi rendition="#u">Public Utilities</hi></p>
+            <p>
+               <lb xml:id="p003_tr_1_tl_4"/>am 30. Januar wurde in Washington die erste gerichtl. Entscheidung über 
+               <lb xml:id="p003_tr_1_tl_5"/>das Public Utility Holding Gesetz v. 1935 gefällt. Die SEC</p>
+            <p>
+               <lb xml:id="p003_tr_1_tl_6"/>hatte gegen die Electric Bond &amp; Share u. ihre Tochtergesellschaften 
+               <lb xml:id="p003_tr_1_tl_7"/>einen Prozess angestrengt, um sie zu der vom Gesetz verlangten, v. d. 
+               <lb xml:id="p003_tr_1_tl_8"/>Jndustrie verweigerten Registrierung zu zwingen.</p>
+            <p>
+               <lb xml:id="p003_tr_1_tl_9"/>Die Begründung des Urteils besagte u. a. dass die Vorschrift zu regis 
+               <lb xml:id="p003_tr_1_tl_10" break="no"/>trieren den Zweck verbesserter Publizität verfolge, – u. da die soge 
+               <lb xml:id="p003_tr_1_tl_11" break="no"/>nannte "Death Sentence", die zur Auflösung der Holding Gesellschaften 
+               <lb xml:id="p003_tr_1_tl_12"/>führen kann (§11 des Public Utility Holding Gesetz) noch nicht angewandt 
+               <lb xml:id="p003_tr_1_tl_13"/>wurde, erübrige es sich, jetzt über die Verfassungsmässigkeit dieser 
+               <lb xml:id="p003_tr_1_tl_14"/>Klausel zu diskutieren.</p>
+            <p>
+               <lb xml:id="p003_tr_1_tl_15"/>Folge der Gerichtsentscheidung war, dass 2 gr. Holding Gesellschaften, 
+               <lb xml:id="p003_tr_1_tl_16"/>die North American Co., u. die American Water Works, ihre Prozesse gegen 
+               <lb xml:id="p003_tr_1_tl_17"/>die SEC fallen gelassen, u.registriert haben. Ob die Bond &amp; Share-Gruppe 
+               <lb xml:id="p003_tr_1_tl_18"/>sich fügen oder den Prozess vor den Supreme Court bringen wird, ist 
+               <lb xml:id="p003_tr_1_tl_19"/>(18.2.) noch nicht entschieden. Der Präs.: Mr. Jnch, ist für Registrierung, 
+               <lb xml:id="p003_tr_1_tl_20"/>der Chairman Dr. Groesbeck dagegen.</p>
+            <p>
+               <lb xml:id="p003_tr_1_tl_21"/>Betr. die künftige Power Politic (Elektro Politik) der Reg. hat R. kürzlich 
+               <lb xml:id="p003_tr_1_tl_22"/>ein Fünferkomitee eingesetzt: Staatssekretär des Jnneren Mr. Jckes, 
+               <lb xml:id="p003_tr_1_tl_23"/>Landis v. d. SEC, Mr. Cooke-Vorsitzender des Rural Electrification Board, 
+               <lb xml:id="p003_tr_1_tl_24"/>Mr. Delano (Onkel des Präs. R.) der sich haupts. [hauptsächlich] mit der Konservierung der 
+               <lb xml:id="p003_tr_1_tl_25"/>natürl. Hilfsquellen Amerikas befasst hat, u. Mr. McNinch, Präs. der Federal 
+               <lb xml:id="p003_tr_1_tl_26"/>Power Commission. – Kein Vertr. der TVA!</p>
+            <p>
+               <lb xml:id="p003_tr_1_tl_27"/>Keines der Mitglieder ist prinzipiell für öffentl. Eigentum der Utilities, 
+               <lb xml:id="p003_tr_1_tl_28"/>gewünscht wird vielmehr Kooperation mit den privaten Public Utilities, 
+               <lb xml:id="p003_tr_1_tl_29"/>– die aber bisher eine geschlossene Front des Widerstands darstellen. 
+               <lb xml:id="p003_tr_1_tl_30"/>Immerhin ist die Registrierung der North American u. der American Water 
+               <lb xml:id="p003_tr_1_tl_31"/>Works ein erster Bruch mit der alten durch das American Edison Jnstitute 
+               <lb xml:id="p003_tr_1_tl_32"/>vertretenen Solidarität der privaten elektrischen Industrien.</p>
+            <p>
+               <lb xml:id="p003_tr_1_tl_33"/>Ein Konkurrenzproblem besteht ja praktisch nicht, da im Gegenteil 
+               <lb xml:id="p003_tr_1_tl_34"/>Knappheit an elektr. Strom droht.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p003_tr_1_tl_35"/></p>
+         </div>
+      </body>
+   </text>
+</TEI>
