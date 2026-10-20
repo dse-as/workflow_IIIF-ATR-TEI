@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0522" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0522#">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>smallform_0522</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl corresp="smallform_0522">
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0522_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/R-3627-S1242-24-10-1941_FR2.tif"/>
+            <milestone unit="textregion" xml:id="p001_r"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p001_r_tl_1"/>Kommt nun die Reihe an AFGHANISTAN? [Dem deutschen Titel fehlt die Doppeldeutigkeit des französischen Titels, der sowohl auf das zunächst portraitierte Töpferhandwerk als auch die geopolitische Situation des Landes anspricht: 'entrer dans la fournaise' heisst einerseits, einen Ofen betreten, sprichwörtlich jedoch auch, sich ins Getümmel stürzen oder in dieses hineingezogen werden] 
+               <lb xml:id="p001_r_8_tl_1"/><hi rendition="#i">L'Afghanistan va-t-il entrer dans la fournaise?</hi></p>
+            <milestone unit="textregion" xml:id="p001_r_2"/>
+            <figure>
+               <head resp="editor">
+                  <lb xml:id="p001_l"/>Junger Afghane am Töpfern</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+            <milestone unit="textregion" xml:id="p001_r_5"/>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph">
+               <lb xml:id="p001_r_5_tl_1"/>Ein junger Afghane bei der Arbeit in einer Töpferei. Auf primi 
+               <lb xml:id="p001_r_5_tl_2" break="no"/>tive Weise zerstößt er einen Stein, aus dem eine wunderbare 
+               <lb xml:id="p001_r_5_tl_3"/>blaue Glasur gewonnen wird. – <hi rendition="#i">Jeune potier afghan brisant 
+                  <lb xml:id="p001_r_5_tl_4"/>une pierre dont sera tirée une magnifique glagure bleue.</hi></p>
+            <milestone unit="textregion" xml:id="p001_r_8"/>
+            <milestone unit="textregion" xml:id="p001_r_3"/>
+            <figure>
+               <head resp="editor">
+                  <lb xml:id="p001_l_192"/>Geübter Töpfer</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+            <milestone unit="textregion" xml:id="p001_r_6"/>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph">
+               <lb xml:id="p001_r_6_tl_1"/>Mit wenig Handwerkszeug kommt dieser geübte Töpfer aus. Aber 
+               <lb xml:id="p001_r_6_tl_2"/>mit gutem Material schafft er herrliche Formen, die weitherum 
+               <lb xml:id="p001_r_6_tl_3"/>bei den Kennern beliebt sind. – <hi rendition="#i">Cet autre potier fait des choses 
+                  <lb xml:id="p001_r_6_tl_4"/>charmantes avec des moyens primitifs. Lorsqu'il dispose de matière 
+                  <lb xml:id="p001_r_6_tl_5"/>premières de choix, il produit de vrais chefs-d'œuvre.</hi></p>
+            <milestone unit="textregion" xml:id="p001_r_4"/>
+            <figure>
+               <head resp="editor">
+                  <lb xml:id="p001_l_245"/>Brennofen im Boden</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+            <milestone unit="textregion" xml:id="p001_r_7"/>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph">
+               <lb xml:id="p001_r_7_tl_1"/>Die Brennöfen sind noch einfach in den Boden eingebaut. Sie wer 
+               <lb xml:id="p001_r_7_tl_2" break="no"/>den durch Holzfeuerung erhitzt und die Formen werden für viele 
+               <lb xml:id="p001_r_7_tl_3"/>Stunden in diese Gruben vergraben. – <hi rendition="#i">Les fours de potier sont 
+                  <lb xml:id="p001_r_7_tl_4"/>creusés dans le sol même. Ils sont chauffés au bois et c'est dans 
+                  <lb xml:id="p001_r_7_tl_5"/>leurs profondeurs que les poteries passent plusieurs heures avant 
+                  <lb xml:id="p001_r_7_tl_6"/>d'acquérir leur consistance définitive.</hi></p>
+            <milestone unit="textregion" xml:id="p001_r_12"/>
+            <figure>
+               <head resp="editor">
+                  <lb xml:id="p001_l_114"/>Karawanenserail</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+            <milestone unit="textregion" xml:id="p001_r_17"/>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph">
+               <lb xml:id="p001_l_82"/>Für den Transport der Exportware über die Grenzen werden 
+               <lb xml:id="p001_l_86"/>immer noch Kamele gebraucht. Für ihre Unterkunft in dem 
+               <lb xml:id="p001_l_90"/>öden Bergland werden die sog. Karawanenserails gebaut, in 
+               <lb xml:id="p001_l_94"/>denen Kamele und Pferde die Ruhe- und Nachtzeiten verbring 
+               <lb xml:id="p001_l_98" break="no"/>en können und wo die Treiber Verpflegung und Schutz 
+               <lb xml:id="p001_l_102"/>finden. – <hi rendition="#i">Une caravansérail. C'est là, dans des régions déser 
+                  <lb xml:id="p001_l_106" break="no"/>tique ou dan des contrées montagneuses, que les chevaux 
+                  <lb xml:id="p001_l_110"/>et les chameaux des caravanes sont parquées durant la nuit.</hi></p>
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/R-3627-S1243-24-10-1941_FR1.tif"/>
+            <milestone unit="textregion" xml:id="p002_r_6"/>
+            <p>
+               <lb xml:id="p002_r_6_tl_1"/>Afghanistan hat wiederholt durch deutliche Er 
+               <lb xml:id="p002_r_6_tl_2" break="no"/>klärungen und durch das Verhalten der Re 
+               <lb xml:id="p002_r_6_tl_3" break="no"/>gierung den Willen bekundet, im Kriege strikte Neu 
+               <lb xml:id="p002_r_6_tl_4" break="no"/>tralität zu wahren, aber die neueste Zeit und der Stand 
+               <lb xml:id="p002_r_6_tl_5"/>des Krieges in Rußland scheinen auch diesem Lande 
+               <lb xml:id="p002_r_6_tl_6"/>Gefahren zu bringen, die jenen ähnlich sind, die für 
+               <lb xml:id="p002_r_6_tl_7"/>den Iran bereits so einschneidende Veränderungen ge 
+               <lb xml:id="p002_r_6_tl_8" break="no"/>bracht haben. Von britischer und sowjetrussischer 
+               <lb xml:id="p002_r_6_tl_9"/>Seite sind an Afghanistan Forderungen gestellt wor 
+               <lb xml:id="p002_r_6_tl_10" break="no"/>den, die sich mit der Neutralität nicht mehr vertragen. 
+               <lb xml:id="p002_r_6_tl_11"/>Und selbstverständlich ist Deutschland auch an allen 
+               <lb xml:id="p002_r_6_tl_12"/>Veränderungen, die sich hier vollziehen, lebhaft in 
+               <lb xml:id="p002_r_6_tl_13" break="no"/>teressiert. Schon die nächste Zukunft wird wahrschein 
+               <lb xml:id="p002_r_6_tl_14" break="no"/>lich Klarheit darüber bringen, wie sich diese heikle 
+               <lb xml:id="p002_r_6_tl_15"/>Situation löst. Früher führte mitten durch Afghanistan
+               <milestone unit="textregion" xml:id="p002_r_1"/>
+               <lb xml:id="p002_r_1_tl_1"/>die wichtigste Handelsstraße zwischen Indien und 
+               <lb xml:id="p002_r_1_tl_2"/>Europa, doch hat diese Straße in der neuern Zeit viel 
+               <lb xml:id="p002_r_1_tl_3"/>von ihrer Bedeutung eingebüßt. Eigentliche Industrie 
+               <lb xml:id="p002_r_1_tl_4"/>gibt es in Afghanistan in nur recht beschränktem 
+               <lb xml:id="p002_r_1_tl_5"/>Maße. Ertragreich ist hingegen die Landwirtschaft, 
+               <lb xml:id="p002_r_1_tl_6"/>vorab die Ziegen- und Schafzucht. Ausgeführt werden 
+               <lb xml:id="p002_r_1_tl_7"/>besonders viel Felle, Pelze, Edelsteine, Gewürze, Ge 
+               <lb xml:id="p002_r_1_tl_8" break="no"/>müse und Obst. Hervorragend entwickelt ist die 
+               <lb xml:id="p002_r_1_tl_9"/>Töpferei und die Teppichwirkerei, die beide auf eine 
+               <lb xml:id="p002_r_1_tl_10"/>sehr weite Entwicklung zurückreichen und deren Er 
+               <lb xml:id="p002_r_1_tl_11" break="no"/>zeugnisse bei den Kennern großes Ansehen genießen. 
+               <lb xml:id="p002_r_1_tl_12"/>Wird nun Afghanistan, das ein Pufferstaat ist zwi 
+               <lb xml:id="p002_r_1_tl_13" break="no"/>schen Rußland und Britisch-Indien, ein Opfer seiner 
+               <lb xml:id="p002_r_1_tl_14"/>geographischen Lage werden und in einen Krieg hin 
+               <lb xml:id="p002_r_1_tl_15" break="no"/>eingerissen, an dem es kein aktives Interesse hat, oder
+               <milestone unit="textregion" xml:id="p002_r_50"/>
+               <lb xml:id="p002_r_50_tl_1"/>wird es dem Druck nachgeben und die Aufgabe 
+               <lb xml:id="p002_r_50_tl_2"/>der Neutralität wählen, um wenigstens sein 
+               <lb xml:id="p002_r_50_tl_3"/>Land nicht Kriegsschauplatz werden zu lassen?</p>
+            <milestone unit="textregion" xml:id="p002_r"/>
+            <figure>
+               <head resp="editor">
+                  <lb xml:id="p002_l"/>Betende Afghanen am Khyber-Paß</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+            <milestone unit="textregion" xml:id="p002_r_2"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p002_r_2_tl_1"/>Betende Afghanen am Khyber-Paß, der das Hochland überquert. Die Straße besitzt heute nicht mehr ihre frühere Bedeutung 
+               <lb xml:id="p002_r_2_tl_2"/>für den Durchgangsverkehr, aber sie ist noch sehr wichtig für die Ausfuhr der Landeserzeugnisse. – Afghans en prière au 
+               <lb xml:id="p002_r_2_tl_3"/>col de Khyb, qui traverse la zone montagneuse. Ce passage n'a plus la même importance que jadis, mais il est toujours utilisé 
+               <lb xml:id="p002_r_2_tl_4"/>dans une large mesure pour le transport des produits que l'Afghanistan exporte</p>
+            <milestone unit="textregion" xml:id="p002_r_3"/>
+            <figure>
+               <head resp="editor">
+                  <lb xml:id="p002_l_4"/>Minarett der Musallah-Moschee</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+            <milestone unit="textregion" xml:id="p002_r_4"/>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph">
+               <lb xml:id="p002_r_4_tl_1"/>Eines der Minarette der Musallah-Moschee. Der hohe 
+               <lb xml:id="p002_r_4_tl_2"/>schlanke Turm ist mit reizvollen, leuchtenden Ornamenten 
+               <lb xml:id="p002_r_4_tl_3"/>verziert. – <hi rendition="#i">Minaret de la mosquée de Musallah. Cette 
+                  <lb xml:id="p002_r_4_tl_4"/>haute tour est orné de charmantes faiences multicolores.</hi></p>
+            <milestone unit="textregion" xml:id="p002_r_5"/>
+            <figure>
+               <head resp="editor">
+                  <lb xml:id="p002_r_5_tl_1"/>Natürlicher Stausee</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+            <milestone unit="textregion" xml:id="p002_r_14"/>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph">
+               <lb xml:id="p002_r_14_tl_1"/>Ein natürlicher Stausee in der Höhe von 3000 Meter. Er bietet dem Besucher ein überraschendes Naturschauspiel. – <hi rendition="#i">Un 
+                  <lb xml:id="p002_r_14_tl_2"/>barrage naturel à une altitude de 3000 m. Ce lac de montagne offre le plus aimable coup d'œil.</hi></p>
+            <milestone unit="textregion" xml:id="p002_r_15"/>
+            <figure>
+               <head resp="editor">
+                  <lb xml:id="p002_r_15_tl_2"/>Befestigungstürme eines Dorfes am Khyber-Paß</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+            <milestone unit="textregion" xml:id="p002_r_20"/>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph">
+               <lb xml:id="p002_r_20_tl_1"/>Die Befestigungstürme eines Dorfes am Khyber-Paß nahe 
+               <lb xml:id="p002_r_20_tl_2"/>an der indischen Grenze. Für einen modernen Krieg dürften 
+               <lb xml:id="p002_r_20_tl_3"/>diese Befestigungen keine großen Schwierigkeiten bedeuten. 
+               <lb xml:id="p002_r_20_tl_4"/>– <hi rendition="#i">Les remparts d'un village situé sur le col de Khyb, à 
+                  <lb xml:id="p002_r_20_tl_5"/>proximité des Indes. Ces antiques fortifications ne seraient 
+                  <lb xml:id="p002_r_20_tl_6"/>probablement pas de grande utilité dans la guerre moderne.</hi></p>
+            <milestone unit="textregion" xml:id="p002_r_26"/>
+            <figure>
+               <head resp="editor">
+                  <lb xml:id="p002_l_21"/>Afghanische Schafzüchter</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+            <milestone unit="textregion" xml:id="p002_r_28"/>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph">
+               <lb xml:id="p002_r_28_tl_1"/>Afghanische Schafzüchter. Im Hintergrund sieht man die 
+               <lb xml:id="p002_r_28_tl_2"/>Gebäude einer Stadt, die alle an kleine Festungen erinnern. 
+               <lb xml:id="p002_r_28_tl_3"/>–<hi rendition="#i"> Paysans et moutons afghans dans un majestueux décor de 
+                  <lb xml:id="p002_r_28_tl_4"/>ville fortifiée.</hi></p>
+         </div>
+      </body>
+   </text>
+</TEI>
