@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0710" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0710#">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>smallform_0710</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl corresp="smallform_0710">
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0710_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0710_0001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p001_tr_1_tl_1"/>Dr. Annemarie Clark-Schwarzenbach: 
+               <lb xml:id="p001_tr_1_tl_2"/><hi rendition="#u">Persisches Hochgebirge.</hi>
+               <lb xml:id="p001_tr_1_tl_4"/>(Text) [Haupttext der gleichnamigen Fotoreportage. Vermutlich schrieb AS dazu auch Fotobeschriftungen, die nicht als Entwurf erhalten ist.]</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_5"/>Jran ist noch lange kein Touristenland. Der Ruf von der Schön 
+               <lb xml:id="p001_tr_1_tl_6" break="no"/>heit seiner alten Hauptstadt Jsfahan, vom Glanz seiner Moscheen, 
+               <lb xml:id="p001_tr_1_tl_7"/>von den Rosen von Schiras, und auch von der majestätischen Grösse 
+               <lb xml:id="p001_tr_1_tl_8"/>der Ruinen von Persepolis ist allerdings im Westen verbreitet, 
+               <lb xml:id="p001_tr_1_tl_9"/>seit Jahrhunderten, – und um die Denkmäler von Persiens glänzends 
+               <lb xml:id="p001_tr_1_tl_10" break="no"/>ter Epoche zu sehen, unternehmen eine kleine Anzahl von Neugieri 
+               <lb xml:id="p001_tr_1_tl_11" break="no"/>gen und Weltenbummler, meistens amerikanischer Herkunft, die <del rend="overstrike">beseh</del>
+               <lb xml:id="p001_tr_1_tl_12"/>beschwerliche Reise, – auch der schwedische Kronprinz hat vor einem 
+               <lb xml:id="p001_tr_1_tl_13"/>Jahr genau den üblichen und lohnenden Touristenweg durch Persien 
+               <lb xml:id="p001_tr_1_tl_14"/>zurückgelegt. Aber Persien ist gross und unbekannt, und Jeder[sic], der 
+               <lb xml:id="p001_tr_1_tl_15"/>es wagt, kann dort noch zum Entdecker werden und auf ungeahnt 
+               <lb xml:id="p001_tr_1_tl_16"/>Schönes stossen. Mittelholzer hat den Vulkankegel des Demawend um 
+               <lb xml:id="p001_tr_1_tl_17"/>flogen, – aber über das Elbursgebirge, das sein schneeiger Gipfel 
+               <lb xml:id="p001_tr_1_tl_18"/>krönt, gibt es noch nicht einmal ausführliche Karten.</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p001_tr_1_tl_19"/>Jch war im Juli und August mit englischen Freunden im Lahr-Tal, 
+               <lb xml:id="p001_tr_1_tl_20"/>– es ist eines der schönsten Hochtäler der Erde, zweitausendfünf 
+               <lb xml:id="p001_tr_1_tl_21" break="no"/>hundert Meter über dem Meeresspiegel, vom Demawend beherrscht, nur 
+               <lb xml:id="p001_tr_1_tl_22"/>auf Saumpfaden erreichbar. Acht Stunden dauert, von der Abzweigung 
+               <lb xml:id="p001_tr_1_tl_23"/>der grösseren, mit Autos befahrbaren Strasse an gerechnet, der 
+               <lb xml:id="p001_tr_1_tl_24"/>kürzeste Weg. es[sic] geht passauf und passab, man fühlt sich klein, 
+               <lb xml:id="p001_tr_1_tl_25"/>der Hitze preisgegeben, der Welt entfremdet, in einer so giganti 
+               <lb xml:id="p001_tr_1_tl_26" break="no"/>schen Umgebung. Oben lebt man "primitiv", ohne die Tage zu zählen, 
+               <lb xml:id="p001_tr_1_tl_27"/>in der Nachbarschaft der Steinböcke, und die Hauptbeschäftigung 
+               <lb xml:id="p001_tr_1_tl_28"/>ist: Forellen fangen. Darüber wird dann am Abend im Zelt disku¬</p>
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0710_0002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p002_tr_1_tl_1" break="no"/>tiert mit einem Ernst, den man in Europa bei Sportsleuten 
+               <lb xml:id="p002_tr_1_tl_2"/>kennt und ein wenig belächelt, und den man nur dem Dichter 
+               <lb xml:id="p002_tr_1_tl_3"/>Hemingway ganz verzeiht, wenn er von den Forellenbächen der 
+               <lb xml:id="p002_tr_1_tl_4"/>Pyrenäen spricht.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
