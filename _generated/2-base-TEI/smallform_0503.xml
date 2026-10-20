@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0503" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0503#">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>smallform_0503</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl corresp="smallform_0503">
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0503_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0503_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_r_2"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p001_r_2_tl_1"/>MAN SPRICHT JETZT 
+               <lb xml:id="p001_r_2_tl_2"/>AUCH VON 
+               <lb xml:id="p001_r_2_tl_3"/>SYRIEN 
+               <lb xml:id="p001_r_2_tl_5"/>Un pays dont on parle: la Syrie</p>
+            <p>
+               <lb xml:id="p001_r_2_tl_6"/>Eine unendlich reiche und abenteuerliche Geschichte hat dieses 
+               <lb xml:id="p001_r_2_tl_7"/>vorderasiatische Hochland, das am Ostzipfel des Mittel 
+               <lb xml:id="p001_r_2_tl_8" break="no"/>ländischen Meeres liegt. Die Ueberlieferungen reichen bis 
+               <lb xml:id="p001_r_2_tl_9"/>um die Zeit von 1500 v. Chr. zurück, da das Gebiet zu Aegypten 
+               <lb xml:id="p001_r_2_tl_10"/>gehörte. Später kam es unter babylonische, dann unter persische 
+               <lb xml:id="p001_r_2_tl_11"/>Herrschaft, und im Jahre 333 v. Chr. wurde es von Alexander 
+               <lb xml:id="p001_r_2_tl_12"/>dem Großen erobert. Im Mittelalter gelangte es in den Interessen 
+               <lb xml:id="p001_r_2_tl_13" break="no"/>bereich der Kreuzfahrer und wurde dann im 16. Jahrhundert 
+               <lb xml:id="p001_r_2_tl_14"/>türkisch, litt sehr unter der Mißwirtschaft und verödete stark. 
+               <lb xml:id="p001_r_2_tl_15"/>Durch den Vertrag von San Remo wurde Syrien im Jahre 1920 
+               <lb xml:id="p001_r_2_tl_16"/>als Mandat Frankreich zugesprochen.</p>
+            <milestone unit="textregion" xml:id="p001_r_3"/>
+            <figure>
+               <head resp="editor">
+                  <lb xml:id="p001_l"/>Gruppe von Beduinen</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+            <milestone unit="textregion" xml:id="p001_r_4"/>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph">
+               <lb xml:id="p001_r_4_tl_1"/>Beduinen. Sie sind kräftig gebaut und haben wohlgeformte Gesichter, die allerdings ausgesprochen 
+               <lb xml:id="p001_r_4_tl_2"/>negroide Züge aufweisen. Ihre Keidung ist noch ganz asiatisch. – <hi rendition="#i">Bédouins de Syrie. Ce sont des 
+                  <lb xml:id="p001_r_4_tl_3"/>Arabes nomades au costume pittoresque et au visage marquant.</hi></p>
+            <milestone unit="textregion" xml:id="p001_r_8"/>
+            <figure>
+               <head resp="editor">
+                  <lb xml:id="p001_l_4"/>Bahnanlage im Libanon</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+            <milestone unit="textregion" xml:id="p001_r_13"/>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph">
+               <lb xml:id="p001_r_13_tl_1"/>Eine seltsame Bahnanlage im Libanon. Dieses "Rigibähnchen" (im Bild ganz links 
+               <lb xml:id="p001_r_13_tl_2"/>sichtbar) verbindet den Haupthafen Beirut mit der Hauptstadt Damaskus. Der 
+               <lb xml:id="p001_r_13_tl_3"/>reichen Schneefälle wegen ist es aber im Winter oft Störungen ausgesetzt. – 
+               <lb xml:id="p001_r_13_tl_4"/><hi rendition="#i">Le curieux parcours de la ligne de chemin de fer qui relie Beyrouth à Damas. 
+                  <lb xml:id="p001_r_13_tl_5"/>En hiver, les pannes sont fréquentes ...</hi></p>
+            <milestone unit="textregion" xml:id="p001_r_18"/>
+            <figure>
+               <head resp="editor">
+                  <lb xml:id="p001_l_8"/>Zelt eines Beduinen-Scheichs</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+            <milestone unit="textregion" xml:id="p001_r_23"/>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph">
+               <lb xml:id="p001_r_23_tl_1"/>Das ist das gewaltige Zelt eines Beduinen-Scheichs. Die Beduinen wandern immer noch jährlich von 
+               <lb xml:id="p001_r_23_tl_2"/>Syrien bis hinunter in das arabische Nedsch. Die Seßhaftmachung geht nur langsam vor sich. – 
+               <lb xml:id="p001_r_23_tl_3"/><hi rendition="#i">L'imposante tente d'un cheik, c'est-à-dire d'un notable. Les Bédouins se déplacent chaque année, avec 
+                  <lb xml:id="p001_r_23_tl_4"/>leurs troupeaux, de la Syrie au Nedj, en Arabie saoudite.</hi></p>
+            <milestone unit="textregion" xml:id="p001_r_28"/>
+            <figure>
+               <head resp="editor">
+                  <lb xml:id="p001_r_28_tl_1"/>Brücke bei Homs über den Orontes</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+            <milestone unit="textregion" xml:id="p001_r_33"/>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph">
+               <lb xml:id="p001_r_33_tl_1"/>Eine Brücke bei Homs, dem alten Emesa. Die Stadt liegt am Orontes, hat etwa 
+               <lb xml:id="p001_r_33_tl_2"/>60 000 Einwohner und ist der Sitz des syrischen Erzbischofs. – <hi rendition="#i">Pont sur l'Oronte, 
+                  <lb xml:id="p001_r_33_tl_3"/>près de Homs, l'ancienne Emesa, ville qui a 60.000 habitants. Elle est le siège 
+                  <lb xml:id="p001_r_33_tl_4"/>de l'archevêque de Syrie.</hi></p>
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0503_002.tif"/>
+            <milestone unit="textregion" xml:id="p002_r"/>
+            <figure>
+               <head resp="editor">
+                  <lb xml:id="p002_l"/>Wüstendorf in Syrien</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+            <milestone unit="textregion" xml:id="p002_r_2"/>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph">
+               <lb xml:id="p002_r_2_tl_1"/>Ein Wüstendorf in Syrien. Die kleinen Häuser haben die Form von großen Bienenkörben und sind aus lehmiger Erde gebaut. Um einzelne Häusergruppen ziehen sich häufig primitive Mauern, 
+               <lb xml:id="p002_r_2_tl_2"/>die den kleinen Dörfern eine Geschlossenheit verleihen. Vor dem Dorf ist der mit großen Steinen ummauerte Sodbrunnen. – <hi rendition="#i">Village dans le désert de Syrie. Les maisons, construites 
+                  <lb xml:id="p002_r_2_tl_3"/>en terre glaise, ressemblent à ces ruches en paille tressée que l'on voit encore, par ci par là, dans nos campagnes.</hi></p>
+            <milestone unit="textregion" xml:id="p002_r_3"/>
+            <figure>
+               <head resp="editor">
+                  <lb xml:id="p002_r_3_tl_1"/>Aufgehängte Seide in Lattakieh</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+            <milestone unit="textregion" xml:id="p002_r_4"/>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph">
+               <lb xml:id="p002_r_4_tl_1"/>Seide ist ein wichtiger Ausfuhrartikel von Syrien. Die Verarbeitung gent noch auf altmodische 
+               <lb xml:id="p002_r_4_tl_2"/>Art vor sich. Hier sieht man frisch gefärbte Seide zum Trocknen aufgehängt. Im Hintergrund 
+               <lb xml:id="p002_r_4_tl_3"/>sieht man einige Häuser der Stadt Lattakieh. – <hi rendition="#i">Les soieries sont un article d'exportation de 
+                  <lb xml:id="p002_r_4_tl_4"/>la Syrie. Ci-dessus, le primitif séchage de la soie teinte à Lattakieh.</hi></p>
+            <milestone unit="textregion" xml:id="p002_r_5"/>
+            <figure>
+               <head resp="editor">
+                  <lb xml:id="p002_l_4"/>Bewohner auf einer Strasse von Damaskus</head>
+               <bibl>
+                  <persName><rs type="person" key="person_0082">Schwarzenbach, Annemarie</rs></persName>
+               </bibl>
+            </figure>
+            <milestone unit="textregion" xml:id="p002_r_6"/>
+            <p xmlns:local="local" local:warning="FML-figure-paragraph">
+               <lb xml:id="p002_r_6_tl_1"/>Eingeborene in der Stadt Damaskus, der Hauptstadt von Syrien, die etwa 170 000 Einwohner 
+               <lb xml:id="p002_r_6_tl_2"/>hat. Baulich besonders interessant sind hier die zahlreichen Moscheen. Heute ist Damaskus 
+               <lb xml:id="p002_r_6_tl_3"/>eine wichtige Handelsstadt. –<hi rendition="#i"> Scène de rue à Damas, la belle capitale de la Syrie. Cette 
+                  <lb xml:id="p002_r_6_tl_4"/>ville à l'architecture intéressante et aux nombreuses mosquées, compte environ 170.000 âmes. 
+                  <lb xml:id="p002_r_6_tl_5"/>(Photos Annemarie Clarak-Schwarzenbach)</hi></p>
+         </div>
+      </body>
+   </text>
+</TEI>

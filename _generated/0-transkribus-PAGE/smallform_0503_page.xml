@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<validation-wrapper>
+   <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+      <Metadata>
+         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.25.0:model_id=39995:lm=none:date=27_03_2025_14:42</Creator>
+         <Created>2025-03-27T13:18:08.642+01:00</Created>
+         <LastChange>2025-04-01T22:00:37.278+02:00</LastChange>
+         <TranskribusMetadata docId="7648278"
+                              pageId="94083726"
+                              pageNr="1"
+                              tsid="237580589"
+                              status="IN_PROGRESS"
+                              userId="194245"
+                              imgUrl="https://files.transkribus.eu/Get?id=SWZVPASKGBCDIWJEEEJUUJNV&amp;fileType=view"
+                              xmlUrl="https://files.transkribus.eu/Get?id=MEKHIGIZEVWOWZGYAESKTCAX"
+                              imageId="78708999"/>
+      </Metadata>
+      <Page imageFilename="smallform_0503_001.jpg"
+            imageWidth="4252"
+            imageHeight="5669">
+         <ReadingOrder>
+            <OrderedGroup id="ro_1743537637278" caption="Regions reading order">
+               <RegionRefIndexed index="0" regionRef="r_2"/>
+               <RegionRefIndexed index="1" regionRef="r_3"/>
+               <RegionRefIndexed index="2" regionRef="r_4"/>
+               <RegionRefIndexed index="3" regionRef="r_8"/>
+               <RegionRefIndexed index="4" regionRef="r_13"/>
+               <RegionRefIndexed index="5" regionRef="r_18"/>
+               <RegionRefIndexed index="6" regionRef="r_23"/>
+               <RegionRefIndexed index="7" regionRef="r_28"/>
+               <RegionRefIndexed index="8" regionRef="r_33"/>
+            </OrderedGroup>
+         </ReadingOrder>
+         <TextRegion id="r_2" custom="readingOrder {index:0;}">
+            <Coords points="2746,864 4019,864 4019,2347 2746,2347"/>
+            <TextLine id="r_2_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="2799,1026 3547,1063 3657,998 3760,1059 3940,1048 3976,1042 3974,923 2797,923"/>
+               <Baseline points="2809,1009 2853,1009 2898,1012 2943,1009 2988,1009 3033,1012 3077,1014 3122,1014 3167,1017 3212,1014 3256,1014 3301,1017 3346,1020 3391,1017 3436,1020 3480,1020 3525,1020 3570,1017 3615,1020 3659,1023 3666,1030 3698,1023 3743,1017 3767,1020 3812,1023 3856,1023 3901,1023 3946,1023 3979,1023"/>
+               <TextEquiv>
+                  <Unicode>MAN SPRICHT JETZT</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="3045,1196 3297,1204 3434,1169 3518,1206 3714,1198 3714,1141 3684,1127 3575,1141 3510,1111 3434,1149 3202,1111 3045,1125"/>
+               <Baseline points="3056,1179 3101,1179 3146,1179 3191,1179 3236,1176 3280,1179 3325,1179 3370,1176 3415,1179 3459,1179 3504,1176 3549,1179 3594,1179 3639,1179 3683,1182 3719,1179"/>
+               <TextEquiv>
+                  <Unicode>AUCH VON</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_3" custom="readingOrder {index:2;}">
+               <Coords points="2861,1591 2920,1573 2960,1591 3077,1546 3127,1563 3874,1557 3246,1486 3198,1482 3163,1512 3115,1524 3038,1508 3008,1526 2976,1508 2936,1516 2903,1488 2865,1496"/>
+               <Baseline points="2874,1561 2889,1555 2934,1546 2979,1543 3024,1543 3068,1540 3113,1543 3158,1543 3203,1540 3894,1557"/>
+               <TextEquiv>
+                  <Unicode>SYRIEN</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_5" custom="readingOrder {index:3;}">
+               <Coords points="2968,1657 3061,1684 3212,1680 3284,1649 3391,1678 3524,1649 3603,1682 3714,1678 3714,1615 3645,1601 3593,1621 3426,1593 3178,1597 3143,1621 2968,1601"/>
+               <Baseline points="2979,1647 3024,1647 3068,1647 3113,1647 3158,1647 3203,1650 3247,1650 3292,1650 3337,1650 3382,1647 3427,1650 3471,1650 3516,1650 3561,1650 3606,1650 3650,1650 3695,1650 3719,1650"/>
+               <TextEquiv>
+                  <Unicode>Un pays dont on parle: la Syrie</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_6" custom="readingOrder {index:4;}">
+               <Coords points="2776,1811 3918,1811 3918,1766 3855,1746 3071,1774 2776,1734"/>
+               <Baseline points="2788,1794 2833,1791 2877,1791 2922,1791 2967,1794 3012,1794 3056,1794 3101,1794 3146,1794 3191,1794 3236,1794 3280,1794 3325,1794 3370,1797 3415,1797 3459,1797 3504,1797 3549,1797 3594,1797 3639,1797 3683,1797 3728,1797 3773,1800 3818,1800 3862,1797 3907,1800 3922,1797"/>
+               <TextEquiv>
+                  <Unicode>\p\Eine unendlich reiche und abenteuerliche Geschichte hat dieses</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_7" custom="readingOrder {index:5;}">
+               <Coords points="2782,1849 3910,1863 3910,1811 2782,1817"/>
+               <Baseline points="2794,1841 2838,1841 2883,1841 2928,1841 2973,1841 3018,1841 3062,1844 3107,1844 3152,1844 3197,1844 3241,1844 3286,1844 3331,1844 3376,1844 3421,1844 3465,1844 3510,1844 3555,1844 3600,1844 3644,1847 3689,1847 3734,1847 3779,1847 3824,1847 3868,1847 3913,1847 3916,1844"/>
+               <TextEquiv>
+                  <Unicode>vorderasiatische Hochland, das am Ostzipfel des Mittel¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_8" custom="readingOrder {index:6;}">
+               <Coords points="2780,1907 3920,1917 3875,1861 2780,1855"/>
+               <Baseline points="2791,1892 2835,1889 2880,1892 2925,1892 2970,1892 3015,1892 3059,1892 3104,1892 3149,1892 3194,1892 3239,1892 3283,1892 3328,1892 3373,1895 3418,1895 3462,1895 3507,1895 3552,1895 3597,1895 3642,1895 3686,1895 3731,1895 3776,1895 3821,1895 3865,1895 3910,1898 3925,1898"/>
+               <TextEquiv>
+                  <Unicode>ländischen Meeres liegt. Die Ueberlieferungen reichen bis</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_9" custom="readingOrder {index:7;}">
+               <Coords points="2776,1948 3914,1970 3914,1915 3859,1897 2776,1913"/>
+               <Baseline points="2788,1940 2833,1940 2877,1940 2922,1940 2967,1940 3012,1940 3056,1943 3101,1943 3146,1940 3191,1940 3236,1943 3280,1943 3325,1943 3370,1943 3415,1943 3459,1943 3504,1943 3549,1943 3594,1943 3639,1943 3683,1946 3728,1946 3773,1946 3818,1946 3862,1946 3907,1946 3916,1949"/>
+               <TextEquiv>
+                  <Unicode>um die Zeit von 1500 v. Chr. zurück, da das Gebiet zu Aegypten</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_10" custom="readingOrder {index:8;}">
+               <Coords points="2786,2008 3914,2024 3881,1960 2786,1966"/>
+               <Baseline points="2797,1991 2841,1991 2886,1991 2931,1991 2976,1991 3021,1991 3065,1991 3110,1991 3155,1991 3200,1991 3244,1991 3289,1991 3334,1994 3379,1991 3424,1994 3468,1994 3513,1994 3558,1994 3603,1994 3647,1994 3692,1994 3737,1994 3782,1994 3827,1994 3871,1994 3916,1997 3919,1997"/>
+               <TextEquiv>
+                  <Unicode>gehörte. Später kam es unter babylonische, dann unter persische</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_11" custom="readingOrder {index:9;}">
+               <Coords points="2776,2044 3914,2053 3877,2008 2776,2014"/>
+               <Baseline points="2788,2038 2833,2038 2877,2038 2922,2038 2967,2041 3012,2041 3056,2041 3101,2041 3146,2041 3191,2041 3236,2041 3280,2041 3325,2041 3370,2041 3415,2041 3459,2041 3504,2041 3549,2041 3594,2041 3639,2041 3683,2041 3728,2041 3773,2044 3818,2044 3862,2041 3907,2041 3916,2044"/>
+               <TextEquiv>
+                  <Unicode>Herrschaft, und im Jahre 333 v. Chr. wurde es von Alexander</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_12" custom="readingOrder {index:10;}">
+               <Coords points="2782,2103 3914,2109 3914,2075 3780,2059 2782,2051"/>
+               <Baseline points="2794,2089 2838,2086 2883,2089 2928,2089 2973,2089 3018,2089 3062,2089 3107,2089 3152,2089 3197,2089 3241,2089 3286,2089 3331,2092 3376,2092 3421,2089 3465,2092 3510,2089 3555,2092 3600,2092 3644,2092 3689,2092 3734,2092 3779,2092 3824,2092 3868,2092 3913,2092 3919,2092"/>
+               <TextEquiv>
+                  <Unicode>dem Großen erobert. Im Mittelalter gelangte es in den Interessen¬</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_13" custom="readingOrder {index:11;}">
+               <Coords points="2780,2151 3857,2167 3914,2119 2778,2103"/>
+               <Baseline points="2791,2137 2835,2137 2880,2137 2925,2137 2970,2137 3015,2137 3059,2137 3104,2137 3149,2137 3194,2137 3239,2137 3283,2137 3328,2137 3373,2140 3418,2140 3462,2140 3507,2140 3552,2140 3597,2140 3642,2140 3686,2140 3731,2140 3776,2143 3821,2140 3865,2143 3910,2143 3919,2143"/>
+               <TextEquiv>
+                  <Unicode>bereich der Kreuzfahrer und wurde dann im 16. Jahrhundert</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_14" custom="readingOrder {index:12;}">
+               <Coords points="2780,2202 3907,2204 3907,2157 2780,2153"/>
+               <Baseline points="2791,2188 2835,2185 2880,2185 2925,2188 2970,2188 3015,2188 3059,2188 3104,2188 3149,2188 3194,2188 3239,2188 3283,2188 3328,2188 3373,2188 3418,2191 3462,2188 3507,2188 3552,2191 3597,2191 3642,2191 3686,2191 3731,2191 3776,2191 3821,2191 3865,2191 3910,2194 3913,2194"/>
+               <TextEquiv>
+                  <Unicode>türkisch, litt sehr unter der Mißwirtschaft und verödete stark.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_15" custom="readingOrder {index:13;}">
+               <Coords points="2782,2250 3910,2258 3871,2204 2780,2202"/>
+               <Baseline points="2794,2235 2838,2235 2883,2235 2928,2235 2973,2235 3018,2235 3062,2235 3107,2235 3152,2238 3197,2238 3241,2238 3286,2238 3331,2238 3376,2238 3421,2238 3465,2238 3510,2238 3555,2238 3600,2238 3644,2241 3689,2241 3734,2238 3779,2241 3824,2241 3868,2241 3913,2241 3916,2238"/>
+               <TextEquiv>
+                  <Unicode>Durch den Vertrag von San Remo wurde Syrien im Jahre 1920</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_16" custom="readingOrder {index:14;}">
+               <Coords points="2776,2303 3182,2299 3210,2319 3353,2299 3450,2319 3450,2258 3416,2246 2776,2262"/>
+               <Baseline points="2788,2283 2833,2283 2877,2283 2922,2286 2967,2286 3012,2286 3056,2286 3101,2286 3146,2286 3191,2286 3236,2289 3280,2286 3325,2286 3370,2286 3415,2286 3453,2289"/>
+               <TextEquiv>
+                  <Unicode>als Mandat Frankreich zugesprochen.\:p\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_3" custom="readingOrder {index:1;}">
+            <Coords points="844,619 2669,619 2669,3114 844,3114"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+               <Coords points="1101,2969 1294,2966 1294,2936 1101,2939"/>
+               <Baseline points="1101,2969 1294,2966"/>
+               <TextEquiv>
+                  <Unicode>\f\Gruppe von Beduinen\:f\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_4" custom="readingOrder {index:2;}">
+            <Coords points="956,3150 2613,3150 2613,3293 956,3293"/>
+            <TextLine id="r_4_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="980,3184 2601,3190 2601,3145 2458,3133 980,3129"/>
+               <Baseline points="991,3170 1035,3170 1080,3170 1125,3170 1170,3170 1214,3170 1259,3173 1304,3173 1349,3173 1394,3173 1438,3173 1483,3170 1528,3170 1573,3173 1618,3170 1662,3173 1707,3173 1752,3170 1797,3173 1841,3173 1886,3173 1931,3173 1976,3173 2021,3173 2065,3173 2110,3173 2155,3173 2200,3173 2244,3173 2289,3176 2334,3173 2379,3176 2424,3176 2468,3176 2513,3176 2558,3176 2603,3173"/>
+               <TextEquiv>
+                  <Unicode>\fp\Beduinen. Sie sind kräftig gebaut und haben wohlgeformte Gesichter, die allerdings ausgesprochen</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_2"
+                      custom="readingOrder {index:1;} textStyle {offset:65; length:30;italic:true;}">
+               <Coords points="980,3222 2593,3234 2573,3184 980,3186"/>
+               <Baseline points="991,3206 1035,3206 1080,3206 1125,3209 1170,3209 1214,3209 1259,3209 1304,3206 1349,3206 1394,3209 1438,3209 1483,3209 1528,3209 1573,3209 1618,3209 1662,3209 1707,3209 1752,3209 1797,3209 1841,3209 1886,3209 1931,3209 1976,3209 2021,3209 2065,3209 2110,3209 2155,3209 2200,3212 2244,3212 2289,3212 2334,3209 2379,3212 2424,3212 2468,3212 2513,3212 2558,3212 2597,3209"/>
+               <TextEquiv>
+                  <Unicode>negroide Züge aufweisen. Ihre Keidung ist noch ganz asiatisch. — Bédouins de Syrie. Ce sont des</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_3"
+                      custom="readingOrder {index:2;} textStyle {offset:0; length:60;italic:true;}">
+               <Coords points="1250,3280 1379,3250 2309,3276 2294,3222 1250,3220"/>
+               <Baseline points="1262,3244 1307,3244 1352,3244 1397,3244 1441,3244 1486,3244 1531,3244 1576,3244 1620,3244 1665,3244 1710,3244 1755,3244 1800,3244 1844,3244 1889,3244 1934,3244 1979,3247 2024,3247 2068,3247 2113,3244 2158,3247 2203,3247 2247,3247 2292,3247 2313,3247"/>
+               <TextEquiv>
+                  <Unicode>Arabes nomades au costume pittoresque et au visage marquant.\:fp\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_8" custom="readingOrder {index:3;}">
+            <Coords points="2684,2388 4096,2388 4096,3395 2684,3395"/>
+            <TextLine id="l_4" custom="readingOrder {index:0;}">
+               <Coords points="2980,3274 3173,3274 3173,3244 2980,3244"/>
+               <Baseline points="2980,3274 3173,3274"/>
+               <TextEquiv>
+                  <Unicode>\f\Bahnanlage im Libanon\:f\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_13" custom="readingOrder {index:4;}">
+            <Coords points="2735,3410 4050,3410 4050,3600 2735,3600"/>
+            <TextLine id="r_13_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="2726,3450 4024,3454 4004,3395 2726,3391"/>
+               <Baseline points="2737,3436 2782,3436 2827,3436 2871,3436 2916,3436 2961,3436 3006,3436 3050,3436 3095,3436 3140,3436 3185,3436 3230,3436 3274,3436 3319,3436 3364,3436 3409,3436 3453,3436 3498,3436 3543,3436 3588,3436 3633,3436 3677,3436 3722,3436 3767,3436 3812,3436 3856,3436 3901,3439 3946,3439 3991,3436 4027,3439"/>
+               <TextEquiv>
+                  <Unicode>\fp\Eine seltsame Bahnanlage im Libanon. Dieses «Rigibähnchen» (im Bild ganz links</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_13_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="2726,3484 4024,3496 3986,3446 2726,3450"/>
+               <Baseline points="2737,3474 2782,3471 2827,3471 2871,3471 2916,3471 2961,3471 3006,3471 3050,3471 3095,3471 3140,3471 3185,3471 3230,3471 3274,3471 3319,3471 3364,3471 3409,3471 3453,3471 3498,3471 3543,3471 3588,3471 3633,3471 3677,3471 3722,3471 3767,3471 3812,3471 3856,3471 3901,3471 3946,3471 3991,3474 4027,3477"/>
+               <TextEquiv>
+                  <Unicode>sichtbar) verbindet den Haupthafen Beirut mit der Hauptstadt Damaskus. Der</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_13_tl_3" custom="readingOrder {index:2;}">
+               <Coords points="2724,3520 3974,3520 3938,3484 2724,3490"/>
+               <Baseline points="2735,3510 2770,3507 2815,3507 2859,3510 2904,3507 2949,3507 2994,3507 3038,3507 3083,3507 3128,3507 3173,3510 3218,3507 3262,3507 3307,3507 3352,3507 3397,3507 3441,3507 3486,3507 3531,3507 3576,3507 3621,3507 3665,3507 3710,3507 3755,3507 3800,3510 3845,3510 3889,3510 3934,3510 3979,3507"/>
+               <TextEquiv>
+                  <Unicode>reichen Schneefälle wegen ist es aber im Winter oft Störungen ausgesetzt. –</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_13_tl_4"
+                      custom="readingOrder {index:3;} textStyle {offset:0; length:76;italic:true;}">
+               <Coords points="2726,3569 4024,3557 4024,3514 2726,3522"/>
+               <Baseline points="2737,3546 2782,3546 2827,3546 2871,3543 2916,3546 2961,3546 3006,3543 3050,3543 3095,3543 3140,3543 3185,3543 3230,3543 3274,3543 3319,3543 3364,3543 3409,3543 3453,3543 3498,3543 3543,3546 3588,3546 3633,3546 3677,3546 3722,3546 3767,3546 3812,3546 3856,3546 3901,3546 3946,3546 3991,3546 4027,3549"/>
+               <TextEquiv>
+                  <Unicode>Le curieux parcours de la ligne de chemin de fer qui relie Beyrouth à Damas.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_13_tl_5"
+                      custom="readingOrder {index:4;} textStyle {offset:0; length:40;italic:true;}">
+               <Coords points="3055,3597 3202,3589 3309,3615 3381,3593 3428,3615 3486,3591 3688,3595 3688,3569 3647,3555 3055,3549"/>
+               <Baseline points="3065,3582 3110,3582 3155,3579 3200,3582 3244,3579 3289,3582 3334,3582 3379,3579 3424,3582 3468,3579 3513,3579 3558,3579 3603,3579 3647,3579 3692,3585"/>
+               <TextEquiv>
+                  <Unicode>En hiver, les pannes sont fréquentes ...\:fp\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_18" custom="readingOrder {index:5;}">
+            <Coords points="828,3318 2689,3318 2689,4684 828,4684"/>
+            <TextLine id="l_8" custom="readingOrder {index:0;}">
+               <Coords points="1271,4416 1488,4425 1489,4395 1272,4386"/>
+               <Baseline points="1271,4416 1488,4425"/>
+               <TextEquiv>
+                  <Unicode>\f\Zelt eines Beduinen-Scheichs\:f\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_23" custom="readingOrder {index:6;}">
+            <Coords points="961,4694 2643,4694 2643,4868 961,4868"/>
+            <TextLine id="r_23_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="978,4724 2593,4738 2591,4682 978,4680"/>
+               <Baseline points="988,4713 1032,4713 1077,4713 1122,4713 1167,4713 1212,4713 1256,4716 1301,4716 1346,4716 1391,4716 1435,4716 1480,4716 1525,4716 1570,4716 1615,4719 1659,4716 1704,4719 1749,4719 1794,4719 1838,4719 1883,4719 1928,4719 1973,4719 2018,4719 2062,4719 2107,4722 2152,4719 2197,4719 2241,4719 2286,4722 2331,4722 2376,4722 2421,4722 2465,4722 2510,4722 2555,4722 2597,4725"/>
+               <TextEquiv>
+                  <Unicode>\fp\Das ist das gewaltige Zelt eines Beduinen-Scheichs. Die Beduinen wandern immer noch jährlich von</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="982,4758 2448,4779 2538,4770 2536,4732 980,4722"/>
+               <Baseline points="991,4752 1035,4752 1080,4752 1125,4752 1170,4752 1214,4752 1259,4752 1304,4752 1349,4752 1394,4752 1438,4755 1483,4752 1528,4752 1573,4752 1618,4755 1662,4755 1707,4755 1752,4755 1797,4755 1841,4755 1886,4755 1931,4755 1976,4755 2021,4758 2065,4758 2110,4758 2155,4758 2200,4758 2244,4758 2289,4758 2334,4758 2379,4758 2424,4758 2468,4758 2513,4758 2543,4758"/>
+               <TextEquiv>
+                  <Unicode>Syrien bis hinunter in das arabische Nedsch. Die Seßhaftmachung geht nur langsam vor sich. –</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_3"
+                      custom="readingOrder {index:2;} textStyle {offset:0; length:101;italic:true;}">
+               <Coords points="980,4799 2593,4805 2581,4766 980,4760"/>
+               <Baseline points="991,4788 1035,4785 1080,4785 1125,4785 1170,4788 1214,4788 1259,4788 1304,4788 1349,4788 1394,4788 1438,4788 1483,4788 1528,4788 1573,4788 1618,4791 1662,4788 1707,4791 1752,4791 1797,4791 1841,4791 1886,4791 1931,4791 1976,4791 2021,4791 2065,4791 2110,4794 2155,4794 2200,4794 2244,4794 2289,4794 2334,4794 2379,4794 2424,4794 2468,4794 2513,4797 2558,4794 2597,4797"/>
+               <TextEquiv>
+                  <Unicode>L'imposante tente d'un cheik, c'est-à-dire d'un notable. Les Bédouins se déplacent chaque année, avec</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_23_tl_4"
+                      custom="readingOrder {index:3;} textStyle {offset:0; length:57;italic:true;}">
+               <Coords points="1309,4855 2248,4841 2214,4803 1309,4803"/>
+               <Baseline points="1319,4824 1364,4824 1409,4824 1453,4824 1498,4824 1543,4824 1588,4827 1632,4827 1677,4827 1722,4827 1767,4827 1812,4830 1856,4827 1901,4827 1946,4830 1991,4830 2035,4830 2080,4830 2125,4830 2170,4830 2215,4830 2253,4833"/>
+               <TextEquiv>
+                  <Unicode>leurs troupeaux, de la Syrie au Nedj, en Arabie saoudite.\:fp\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_28" custom="readingOrder {index:7;}">
+            <Coords points="2679,3640 4101,3640 4101,4694 2679,4694"/>
+            <TextLine id="r_28_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="3232,4188 3327,4202 3365,4172 3422,4166 3478,4200 3605,4186 3694,4210 3700,4026 3403,4049 3347,4026 3309,4041 3238,4022"/>
+               <Baseline points="3244,4173 3250,4170 3295,4164 3340,4161 3385,4158 3430,4155 3474,4155 3519,4158 3564,4155 3609,4152 3653,4152 3698,4152"/>
+               <TextEquiv>
+                  <Unicode>\f\Brücke bei Homs über den Orontes\:f\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_33" custom="readingOrder {index:8;}">
+            <Coords points="2730,4699 4044,4699 4044,4878 2730,4878"/>
+            <TextLine id="r_33_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="2726,4734 4016,4738 4016,4696 3774,4680 2726,4680"/>
+               <Baseline points="2737,4722 2782,4722 2827,4722 2871,4722 2916,4719 2961,4722 3006,4722 3050,4722 3095,4722 3140,4722 3185,4722 3230,4722 3274,4722 3319,4722 3364,4722 3409,4722 3453,4719 3498,4722 3543,4722 3588,4722 3633,4722 3677,4722 3722,4722 3767,4722 3812,4722 3856,4722 3901,4722 3946,4722 3991,4722 4021,4722"/>
+               <TextEquiv>
+                  <Unicode>\fp\Eine Brücke bei Homs, dem alten Emesa. Die Stadt liegt am Orontes, hat etwa</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_33_tl_2"
+                      custom="readingOrder {index:1;} textStyle {offset:63; length:18;italic:true;}">
+               <Coords points="2732,4768 4022,4772 4022,4734 3930,4730 2732,4732"/>
+               <Baseline points="2743,4758 2788,4758 2833,4758 2877,4758 2922,4758 2967,4758 3012,4758 3056,4758 3101,4758 3146,4758 3191,4758 3236,4758 3280,4758 3325,4761 3370,4758 3415,4758 3459,4758 3504,4758 3549,4758 3594,4758 3639,4758 3683,4758 3728,4755 3773,4758 3818,4758 3862,4758 3907,4758 3952,4758 3997,4758 4027,4761"/>
+               <TextEquiv>
+                  <Unicode>60 000 Einwohner und ist der Sitz des syrischen Erzbischofs. — Pont sur l'Oronte,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_33_tl_3"
+                      custom="readingOrder {index:2;} textStyle {offset:0; length:79;italic:true;}">
+               <Coords points="2722,4813 4020,4805 4020,4772 3932,4766 2722,4762"/>
+               <Baseline points="2734,4797 2779,4794 2824,4794 2868,4797 2913,4794 2958,4797 3003,4797 3047,4794 3092,4794 3137,4794 3182,4794 3227,4794 3271,4794 3316,4794 3361,4794 3406,4794 3450,4794 3495,4794 3540,4794 3585,4794 3630,4794 3674,4794 3719,4794 3764,4794 3809,4794 3853,4794 3898,4794 3943,4794 3988,4797 4024,4797"/>
+               <TextEquiv>
+                  <Unicode>près de Homs, l'ancienne Emesa, ville qui a 60.000 habitants. Elle est le siège</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_33_tl_4"
+                      custom="readingOrder {index:3;} textStyle {offset:0; length:25;italic:true;}">
+               <Coords points="3168,4857 3220,4839 3284,4863 3315,4839 3438,4857 3478,4841 3508,4855 3571,4843 3571,4807 3557,4803 3496,4803 3478,4817 3462,4803 3168,4809"/>
+               <Baseline points="3179,4830 3224,4833 3268,4833 3313,4830 3358,4830 3403,4830 3447,4833 3492,4833 3537,4830 3576,4833"/>
+               <TextEquiv>
+                  <Unicode>de l'archevêque de Syrie.\:fp\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+      </Page>
+   </PcGts>
+   <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+      <Metadata>
+         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.25.0:model_id=39995:lm=none:date=27_03_2025_14:42</Creator>
+         <Created>2025-03-27T13:18:08.793+01:00</Created>
+         <LastChange>2025-04-01T22:14:54.428+02:00</LastChange>
+         <TranskribusMetadata docId="7648278"
+                              pageId="94083731"
+                              pageNr="2"
+                              tsid="237580590"
+                              status="IN_PROGRESS"
+                              userId="194245"
+                              imgUrl="https://files.transkribus.eu/Get?id=JLWAXYOVMBHWCBAKNGWZEBAH&amp;fileType=view"
+                              xmlUrl="https://files.transkribus.eu/Get?id=LCQNTYGZOCDNUCFVRWSNGJBB"
+                              imageId="78709016"/>
+      </Metadata>
+      <Page imageFilename="smallform_0503_002.jpg"
+            imageWidth="4252"
+            imageHeight="5669">
+         <ReadingOrder>
+            <OrderedGroup id="ro_1743538494428" caption="Regions reading order">
+               <RegionRefIndexed index="0" regionRef="r"/>
+               <RegionRefIndexed index="1" regionRef="r_2"/>
+               <RegionRefIndexed index="2" regionRef="r_3"/>
+               <RegionRefIndexed index="3" regionRef="r_4"/>
+               <RegionRefIndexed index="4" regionRef="r_5"/>
+               <RegionRefIndexed index="5" regionRef="r_6"/>
+            </OrderedGroup>
+         </ReadingOrder>
+         <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="389,798 3487,798 3487,3150 389,3150"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+               <Coords points="1519,2579 1818,2587 1818,2557 1520,2549"/>
+               <Baseline points="1519,2579 1818,2587"/>
+               <TextEquiv>
+                  <Unicode>\f\Wüstendorf in Syrien\:f\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="404,3155 3308,3155 3308,3303 404,3303"/>
+            <TextLine id="r_2_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="401,3218 3276,3215 3276,3164 3225,3161 401,3154"/>
+               <Baseline points="420,3197 465,3197 510,3194 555,3194 600,3194 644,3197 689,3197 734,3197 779,3194 823,3197 868,3197 913,3197 958,3197 1003,3197 1047,3197 1092,3197 1137,3194 1182,3194 1226,3197 1271,3194 1316,3197 1361,3197 1406,3197 1450,3197 1495,3197 1540,3197 1585,3197 1629,3197 1674,3197 1719,3197 1764,3197 1809,3197 1853,3197 1898,3197 1943,3197 1988,3197 2032,3197 2077,3197 2122,3197 2167,3197 2212,3197 2256,3197 2301,3200 2346,3200 2391,3200 2435,3197 2480,3197 2525,3200 2570,3200 2615,3200 2659,3200 2704,3200 2749,3200 2794,3200 2838,3200 2883,3200 2928,3200 2973,3200 3018,3200 3062,3200 3107,3200 3152,3203 3197,3203 3241,3203 3286,3203"/>
+               <TextEquiv>
+                  <Unicode>\fp\Ein Wüstendorf in Syrien. Die kleinen Häuser haben die Form von großen Bienenkörben und sind aus lehmiger Erde gebaut. Um einzelne Häusergruppen ziehen sich häufig primitive Mauern,</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_2"
+                      custom="readingOrder {index:1;} textStyle {offset:120; length:57;italic:true;}">
+               <Coords points="405,3243 3276,3250 3276,3211 2992,3200 405,3207"/>
+               <Baseline points="426,3230 471,3233 516,3230 561,3230 606,3230 650,3230 695,3230 740,3233 785,3230 829,3230 874,3230 919,3233 964,3230 1009,3230 1053,3230 1098,3230 1143,3230 1188,3233 1232,3230 1277,3230 1322,3230 1367,3230 1412,3230 1456,3233 1501,3230 1546,3233 1591,3233 1635,3230 1680,3230 1725,3233 1770,3233 1815,3233 1859,3233 1904,3233 1949,3233 1994,3233 2038,3233 2083,3233 2128,3233 2173,3233 2218,3233 2262,3233 2307,3233 2352,3233 2397,3233 2441,3233 2486,3233 2531,3236 2576,3233 2621,3233 2665,3233 2710,3233 2755,3236 2800,3236 2844,3236 2889,3236 2934,3236 2979,3236 3024,3236 3068,3236 3113,3239 3158,3236 3203,3236 3247,3236 3286,3239"/>
+               <TextEquiv>
+                  <Unicode>die den kleinen Dörfern eine Geschlossenheit verleihen. Vor dem Dorf ist der mit großen Steinen ummauerte Sodbrunnen. — Village dans le désert de Syrie. Les maisons, construites</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_3"
+                      custom="readingOrder {index:2;} textStyle {offset:0; length:116;italic:true;}">
+               <Coords points="932,3286 2742,3290 2742,3243 2505,3236 932,3243"/>
+               <Baseline points="952,3265 997,3265 1041,3268 1086,3268 1131,3265 1176,3268 1220,3265 1265,3265 1310,3265 1355,3265 1400,3265 1444,3265 1489,3265 1534,3265 1579,3268 1623,3265 1668,3265 1713,3265 1758,3268 1803,3265 1847,3268 1892,3265 1937,3268 1982,3268 2026,3265 2071,3265 2116,3268 2161,3268 2206,3268 2250,3268 2295,3268 2340,3268 2385,3268 2429,3268 2474,3268 2519,3268 2564,3268 2609,3268 2653,3268 2698,3268 2743,3268 2752,3265"/>
+               <TextEquiv>
+                  <Unicode>en terre glaise, ressemblent à ces ruches en paille tressée que l'on voit encore, par ci par là, dans nos campagnes.\:fp\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="373,3385 1882,3385 1882,4653 373,4653"/>
+            <TextLine id="r_3_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="982,3745 1007,3749 1014,3741 1021,3745 1075,3738 1079,3598 1043,3595 1036,3587 1025,3587 1018,3595 986,3591"/>
+               <Baseline points="1003,3728 1038,3725 1083,3725"/>
+               <TextEquiv>
+                  <Unicode>\f\Aufgehängte Seide in Lattakieh\:f\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="378,4658 1830,4658 1830,4837 378,4837"/>
+            <TextLine id="r_4_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="376,4705 1799,4713 1770,4659 376,4648"/>
+               <Baseline points="397,4692 441,4692 486,4692 531,4692 576,4692 620,4692 665,4692 710,4692 755,4692 800,4692 844,4692 889,4692 934,4692 979,4692 1023,4692 1068,4692 1113,4692 1158,4692 1203,4692 1247,4695 1292,4695 1337,4695 1382,4695 1426,4695 1471,4695 1516,4698 1561,4695 1606,4695 1650,4695 1695,4698 1740,4698 1785,4698 1809,4698"/>
+               <TextEquiv>
+                  <Unicode>\fp\Seide ist ein wichtiger Ausfuhrartikel von Syrien. Die Verarbeitung gent noch auf altmodische</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="369,4745 1806,4745 1803,4709 1638,4702 369,4702"/>
+               <Baseline points="388,4725 432,4725 477,4725 522,4728 567,4728 611,4728 656,4728 701,4725 746,4728 791,4728 835,4728 880,4728 925,4728 970,4728 1014,4728 1059,4728 1104,4728 1149,4728 1194,4728 1238,4731 1283,4731 1328,4728 1373,4731 1417,4731 1462,4731 1507,4731 1552,4731 1597,4731 1641,4731 1686,4731 1731,4731 1776,4731 1812,4731"/>
+               <TextEquiv>
+                  <Unicode>Art vor sich. Hier sieht man frisch gefärbte Seide zum Trocknen aufgehängt. Im Hintergrund</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_3"
+                      custom="readingOrder {index:2;} textStyle {offset:47; length:45;italic:true;}">
+               <Coords points="376,4781 1806,4781 1806,4745 1537,4734 376,4738"/>
+               <Baseline points="397,4761 441,4761 486,4761 531,4761 576,4761 620,4761 665,4761 710,4761 755,4761 800,4761 844,4761 889,4761 934,4761 979,4761 1023,4761 1068,4761 1113,4761 1158,4764 1203,4764 1247,4764 1292,4764 1337,4764 1382,4764 1426,4764 1471,4764 1516,4764 1561,4764 1606,4764 1650,4764 1695,4767 1740,4767 1785,4767 1812,4764"/>
+               <TextEquiv>
+                  <Unicode>sieht man einige Häuser der Stadt Lattakieh. — Les soieries sont un article d'exportation de</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_tl_4"
+                      custom="readingOrder {index:3;} textStyle {offset:0; length:71;italic:true;}">
+               <Coords points="541,4813 1631,4813 1631,4777 1563,4770 541,4770"/>
+               <Baseline points="561,4797 606,4797 650,4797 695,4797 740,4797 785,4797 829,4797 874,4797 919,4800 964,4797 1009,4797 1053,4800 1098,4797 1143,4797 1188,4797 1232,4797 1277,4800 1322,4800 1367,4800 1412,4800 1456,4800 1501,4800 1546,4800 1591,4800 1635,4800 1638,4800"/>
+               <TextEquiv>
+                  <Unicode>la Syrie. Ci-dessus, le primitif séchage de la soie teinte à Lattakieh.\:fp\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="1902,3390 3502,3390 3502,4653 1902,4653"/>
+            <TextLine id="l_4" custom="readingOrder {index:0;}">
+               <Coords points="2242,4361 2414,4355 2413,4325 2241,4331"/>
+               <Baseline points="2242,4361 2414,4355"/>
+               <TextEquiv>
+                  <Unicode>\f\Bewohner auf einer Strasse von Damaskus\:f\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+         <TextRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="1948,4668 3375,4668 3375,4878 1948,4878"/>
+            <TextLine id="r_6_tl_1" custom="readingOrder {index:0;}">
+               <Coords points="1932,4709 3311,4720 3311,4677 3225,4662 1932,4666"/>
+               <Baseline points="1952,4701 1997,4701 2041,4701 2086,4701 2131,4701 2176,4701 2221,4698 2265,4701 2310,4701 2355,4701 2400,4701 2444,4701 2489,4701 2534,4701 2579,4701 2624,4701 2668,4701 2713,4701 2758,4701 2803,4704 2847,4704 2892,4704 2937,4704 2982,4704 3027,4704 3071,4704 3116,4704 3161,4704 3206,4704 3250,4704 3295,4704 3322,4704"/>
+               <TextEquiv>
+                  <Unicode>\fp\Eingeborene in der Stadt Damaskus, der Hauptstadt von Syrien, die etwa 170 000 Einwohner</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_tl_2" custom="readingOrder {index:1;}">
+               <Coords points="1928,4748 3322,4752 3322,4713 1928,4709"/>
+               <Baseline points="1949,4734 1994,4734 2038,4734 2083,4734 2128,4734 2173,4734 2218,4734 2262,4734 2307,4734 2352,4734 2397,4734 2441,4737 2486,4737 2531,4737 2576,4737 2621,4737 2665,4737 2710,4737 2755,4737 2800,4737 2844,4737 2889,4737 2934,4737 2979,4737 3024,4737 3068,4737 3113,4737 3158,4737 3203,4740 3247,4737 3292,4737 3331,4740"/>
+               <TextEquiv>
+                  <Unicode>hat. Baulich besonders interessant sind hier die zahlreichen Moscheen. Heute ist Damaskus</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_tl_3"
+                      custom="readingOrder {index:2;} textStyle {offset:29; length:59;italic:true;}">
+               <Coords points="1935,4784 3315,4784 3315,4748 3168,4741 1935,4748"/>
+               <Baseline points="1955,4770 2000,4767 2044,4767 2089,4770 2134,4770 2179,4770 2224,4770 2268,4770 2313,4770 2358,4770 2373,4770 2382,4770 2427,4770 2471,4770 2516,4770 2561,4770 2606,4770 2650,4770 2695,4770 2740,4770 2785,4773 2830,4773 2874,4770 2919,4773 2964,4770 3009,4773 3053,4773 3098,4770 3143,4773 3188,4770 3233,4773 3277,4773 3322,4773 3325,4773"/>
+               <TextEquiv>
+                  <Unicode>eine wichtige Handelsstadt. — Scène de rue à Damas, la belle capitale de la Syrie. Cette</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_tl_4"
+                      custom="readingOrder {index:3;} textStyle {offset:0; length:92;italic:true;}">
+               <Coords points="1932,4824 3315,4831 3315,4784 3254,4781 1932,4781"/>
+               <Baseline points="1952,4803 1997,4803 2041,4803 2086,4803 2131,4803 2176,4803 2221,4803 2265,4803 2310,4803 2355,4803 2400,4803 2444,4803 2489,4803 2534,4806 2579,4803 2624,4803 2668,4803 2713,4806 2758,4806 2803,4806 2847,4806 2892,4806 2937,4806 2982,4806 3027,4806 3071,4806 3116,4809 3161,4806 3206,4806 3250,4806 3295,4806 3325,4806"/>
+               <TextEquiv>
+                  <Unicode>ville à l'architecture intéressante et aux nombreuses mosquées, compte environ 170.000 âmes.</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_tl_5"
+                      custom="readingOrder {index:4;} textStyle {offset:0; length:39;italic:true;}">
+               <Coords points="2376,4863 2885,4860 2885,4820 2376,4817"/>
+               <Baseline points="2394,4842 2438,4842 2483,4842 2528,4842 2573,4842 2618,4842 2662,4842 2707,4842 2752,4842 2797,4842 2841,4842 2886,4845 2895,4845"/>
+               <TextEquiv>
+                  <Unicode>(Photos Annemarie Clarak-Schwarzenbach)\:fp\</Unicode>
+               </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+               <Unicode/>
+            </TextEquiv>
+         </TextRegion>
+      </Page>
+   </PcGts>
+</validation-wrapper>
