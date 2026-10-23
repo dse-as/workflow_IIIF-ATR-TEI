@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="smallform_0202"
+     type="dseas-smallform">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>smallform_0202</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl corresp="smallform_0202">
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0202_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="smallform">
+            <pb xml:id="smallform_0202_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0202_0001.jpg"/>
+            <milestone unit="textregion" xml:id="smallform_0202_001_r_2"/><CONV tag="p">
+<lb xml:id="smallform_0202_001_l_10"/>[Z]✓ Amerik. Lebensstandard [neue cell] Zürcher Jllu[strierte]
+<lb xml:id="smallform_0202_001_l_14"/>[Z]✓ Land verwandelt sich in Wüste [neue cell] 〃[Zürcher Illustrierte]
+<lb xml:id="smallform_0202_001_l_11"/>[Z] ✓ Amerikanische Typen [neue cell] 〃 [Zürcher Illustrierte] 
+<lb xml:id="smallform_0202_001_l_12"/>der Radiopriester [neue cell] 〃 [Zürcher Illustrierte]</CONV>
+<lb xml:id="smallform_0202_001_l_20"/> <CONV tag="p">[Z]Sept. [neue cell] Papiermühlen u. kleine Farmen in Maine [neue cell] Kleiber ✓
+<lb xml:id="smallform_0202_001_l_19"/>[Z] Sept. [neue cell] Amerika vor der Entscheidung [neue cell] Graeter ✓ 
+<lb xml:id="smallform_0202_001_l_13"/>[Z] Sept. Amerikan.[ische] Landstrassen [neue cell] Kleiber ✓
+<lb xml:id="smallform_0202_001_l_1"/>[Z] Okt. [neue cell]  Überzeugung eines Freskomalers [neue cell] 〃 [Kleiber]  
+<lb xml:id="smallform_0202_001_l_2"/>[Z] 〃[Oktober] [neue cell] Amerika – Land des Optimismus [neue cell] 〃 [Kleiber] ✓
+<lb xml:id="smallform_0202_001_l_3"/> [Z] 〃[Oktober] Problem der Landwirtschaft in U. S. A. [neue cell] Graeter
+<lb xml:id="smallform_0202_001_l_4"/> [Z] N[ov.] [neue cell] Abend in Washington [neue cell] Kleiber
+<lb xml:id="smallform_0202_001_l_5"/> [Z] Nov. [neue cell] Der Radiopriester – ein amerikan. Phänomen [neue cell] Graeter</CONV>
+<lb xml:id="smallform_0202_001_l_6"/> <CONV tag="p">[Z] Okt. [neue cell] Amerikan. Land in Gefahr [neue cell] Picard ✓
+<lb xml:id="smallform_0202_001_l"/>[Z] [space horizontal] Wahlnacht in New York [neue cell] Luzerner Tagbl.
+<lb xml:id="smallform_0202_001_l_8"/>[Z] [space horizontal] Was erwartet Amerika v. Roosevelt? [neue cell] Nov. [neue cell] Graeter ✓
+<lb xml:id="smallform_0202_001_l_7"/>[Z] [space horizontal] Ist Roosevelt ein Diktator [neue cell] 〃[November] [neue cell] Luz. Tagbl. ✓
+<lb xml:id="smallform_0202_001_l_16"/>[Z] Dez. [neue cell] Die Sensation von Baltimore [neue cell] Natizt. [National-Zeitung]
+<lb xml:id="smallform_0202_001_tr_2_tl_19"/>[Z] <PAGE tag="underlined">Jran</PAGE></CONV><pb xml:id="smallform_0202_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0202_0002.jpg"/>
+            <milestone unit="textregion" xml:id="smallform_0202_002_r"/><CONV tag="p">
+<lb xml:id="smallform_0202_002_l_1"/>[Z]Jan, [neue cell] Baumwolle [neue cell] Kübler
+<lb xml:id="smallform_0202_002_l_10"/>[Z] 〃[Januar] [neue cell] 〃[Baumwolle] [neue cell] Picard
+<lb xml:id="smallform_0202_002_l_2"/>[Z] 〃 [Januar] [neue cell] Nomaden der amerik. Landstrasse [neue cell] Zürch. Jll.
+<lb xml:id="smallform_0202_002_l_3"/>[Z] 〃 [Januar] [neue cell] 650 000 Familien [neue cell] 〃[Zürcher Illustrierte]</CONV><CONV tag="p">
+<lb xml:id="smallform_0202_002_l_11"/>[Z] ✓ 21. Januar [neue cell] Jenseits von New York [neue cell] <PAGE tag="strikethrough">N. Z. Z.</PAGE> Luzerner
+<lb xml:id="smallform_0202_002_l"/> [Z] ✓ 22.–23. 〃 [Januar] [neue cell] Verban[n]ung ins Paradies (Princeton) [neue cell] Basler
+<lb xml:id="smallform_0202_002_l_4"/> [Z] ✓ 5.–12. Febr. [neue cell] Die Reise nache Pittsburgh [neue cell] 〃[Basler National-Zeitung] ersch. März
+<lb xml:id="smallform_0202_002_l_6"/>[Z] März [neue cell] Lewis [neue cell] Volksricht[wer ist das?]
+<lb xml:id="smallform_0202_002_l_9"/>[Z] ✓ März [neue cell] Die Eiserne Stadt
+<lb xml:id="smallform_0202_002_l_12"/>[Z] ✓ 7. April [neue cell] "Skiferien ohne Schnee" [neue cell] Luzerner Tagblatt
+<lb xml:id="smallform_0202_002_l_7"/>[Z] März [neue cell] "Bei den Bergarbeitern Amerikas" [neue cell] ABC
+<lb xml:id="smallform_0202_002_l_8"/>[Z] ✓ April [neue cell] Die Zukunft der amerik. Demokratie [neue cell] Radiozeitung</CONV><pb xml:id="smallform_0202_003"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0202_0003.jpg"/>
+            <milestone unit="textregion" xml:id="smallform_0202_003_tr_1"/>
+            <lb xml:id="smallform_0202_003_tr_1_tl_1"/>2 (Herrn Kübler, Vorschläge)
+<lb xml:id="smallform_0202_003_tr_1_tl_2"/>1) "Amerikanischer Lebensstandard"<CONV tag="p">
+<lb xml:id="smallform_0202_003_tr_1_tl_3"/>Jnhalt: Unser Schlagwort vom amerikan. Standard of living stüptzt[sic]
+<lb xml:id="smallform_0202_003_tr_1_tl_4"/>sich auf einige Tatsachen und viele Jrrtümer. Jn Amerika bedeutet
+<lb xml:id="smallform_0202_003_tr_1_tl_5"/>es gar nichts, ein Automobil zu besitzen (Bild: eine verarmte
+<lb xml:id="smallform_0202_003_tr_1_tl_6"/>(destitute) Bergbauernfamilie aus Arkansas – im Automobil) – Die <PAGE tag="strikethrough">Ma</PAGE>
+<lb xml:id="smallform_0202_003_tr_1_tl_7"/>grossen Farmer, Getreidespekulanten, im Mittelwesten, haben pracht¬
+<lb xml:id="smallform_0202_003_tr_1_tl_8"/>volle Maschinen, in denen sie ihr ganzes Kapital investieren, und
+<lb xml:id="smallform_0202_003_tr_1_tl_9"/>leben in miserablen Häusern (Bild von der Farm eines Weizenspe¬
+<lb xml:id="smallform_0202_003_tr_1_tl_10"/>kulanten in Nebraska) – Die sharecroppers im Süden, – arme Pächter
+<lb xml:id="smallform_0202_003_tr_1_tl_11"/>der Baumwollplantagen – haben den niedrigsten Lebensstandard der
+<lb xml:id="smallform_0202_003_tr_1_tl_12"/>Welt, sie leben auf gleicher Stufe wie die Nigros (Bilder:
+<lb xml:id="smallform_0202_003_tr_1_tl_13"/>sharecropper-Familie aus Arkansas, und Negroquarters in Natchez,
+<lb xml:id="smallform_0202_003_tr_1_tl_14"/>Mississipi[sic]) – Amerika, weniger fatalistisch als Europa, ist sich aber
+<lb xml:id="smallform_0202_003_tr_1_tl_15"/>bewusst, dass es über genug Reichtümer und Reserven verfügt, um
+<lb xml:id="smallform_0202_003_tr_1_tl_16"/>Jedem eine anständige Lebensmöglichkeit zu bieten. Daher das Auf¬
+<lb xml:id="smallform_0202_003_tr_1_tl_17"/>bau-und Organisationswerk des "New Deal“.</CONV>[space]
+<lb xml:id="smallform_0202_003_tr_1_tl_18"/>2) Naturkatastrophen – unvermeidlich?<CONV tag="p">
+<lb xml:id="smallform_0202_003_tr_1_tl_19"/>Trockenheit, – verursacht durch den Anbau von Weizen auf den
+<lb xml:id="smallform_0202_003_tr_1_tl_20"/>einstigen riesigen Weideflächen, – durch den Weizenbau verwandelt
+<lb xml:id="smallform_0202_003_tr_1_tl_21"/>sich der Boden heute in Wüste. Ueberschwemmung – Vernichteter Wald
+<lb xml:id="smallform_0202_003_tr_1_tl_22"/> – dazu Bilder von abwandernden Familien. Dagegen planmässige
+<lb xml:id="smallform_0202_003_tr_1_tl_23"/>Aufbauprogramme der Regierung, Neuanpflanzung von Wald, etc</CONV> [space]<CONV tag="p">
+<lb xml:id="smallform_0202_003_tr_1_tl_24"/>3) Nomadisierendes Amerika: immer noch der alter "Frontier" –
+<lb xml:id="smallform_0202_003_tr_1_tl_25"/>(Grenz)-Begriff: der Drang, sein Heim zu verlassen, wenn irgendwo
+<lb xml:id="smallform_0202_003_tr_1_tl_26"/>bessere Möglichkeiten winken – Drang nach Westen – Gewohnheit, den
+<lb xml:id="smallform_0202_003_tr_1_tl_27"/>Boden bis zur Erschöpfung auszunützen und dann wegzuziehen –
+<lb xml:id="smallform_0202_003_tr_1_tl_28"/>Der Begriff des alten"Pioniergeistes", der den selfmade-man, den
+<lb xml:id="smallform_0202_003_tr_1_tl_29"/>amerikanischen Freiheitsbegriff, sowohl als den amerikanischen
+<lb xml:id="smallform_0202_003_tr_1_tl_30"/>skrupellosen "business"-Geist geboren hat. Dem gegenüber das neue
+<lb xml:id="smallform_0202_003_tr_1_tl_31"/>Gewissen der Nation: dass die Güter, der Boden, die Reichtümer nich[t]
+<lb xml:id="smallform_0202_003_tr_1_tl_32"/>für den schrankenlosen Privatprofit des Einzelnen, sondern ein
+<lb xml:id="smallform_0202_003_tr_1_tl_33"/>Besitz der Gemeinschaft, der Nation, des Volks, sein sollen.</CONV><CONV tag="p">
+<lb xml:id="smallform_0202_003_tr_1_tl_34"/>Bilder: Verlassene Bergwerksstadt Zinc in Arkansas – Die "slums"
+<lb xml:id="smallform_0202_003_tr_1_tl_35"/>in Brawley, Californien, Heime der wandernden mexikan. Arbeiter –
+<lb xml:id="smallform_0202_003_tr_1_tl_36"/>Ofen, hergestellt aus alten Benzinkannen, im "Camp" eines Neueinge¬
+<lb xml:id="smallform_0202_003_tr_1_tl_37"/>wanderten in Arkansas – verlassene Farm in Texas.</CONV>
+<lb xml:id="smallform_0202_003_l"/>4) Amerikanische Typen – unbekannt.<CONV tag="p">
+<lb xml:id="smallform_0202_003_tr_1_tl_40"/>Wer ist der"Amerikaner"? Ungeheure Komplexität einer "Nation",
+<lb xml:id="smallform_0202_003_tr_1_tl_41"/>die das reichste Land der Welt besitzt und zu organisieren be¬
+<lb xml:id="smallform_0202_003_tr_1_tl_42"/>ginnt. Bilder: Sohn eines Baumwollarbeiters im Süden – drei Negersch¬
+<lb xml:id="smallform_0202_003_tr_1_tl_43"/>schönheiten[sic] in Little Rock, am Sonntag-Zuhörer eines "Religious
+<lb xml:id="smallform_0202_003_tr_1_tl_44"/>meeting" in Nashville, Tennessee – etc</CONV></div>
+      </body>
+   </text>
+</TEI>
