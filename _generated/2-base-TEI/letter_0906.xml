@@ -1,71 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0906" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0906#"> 
-   <teiHeader> 
-      <fileDesc> 
-         <titleStmt> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0906" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0906#">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>letter_0906</title>
-          </titleStmt>
-          <publicationStmt> 
+         </titleStmt>
+         <publicationStmt>
             <p/>
-          </publicationStmt>
-          <notesStmt> 
-            <note type="global_comment"> 
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
                <p/>
-             </note>
-          </notesStmt>
-          <sourceDesc> 
-            <msDesc> 
-               <msIdentifier> 
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
                   <repository/>
-                   <collection/>
-                   <idno/>
-                </msIdentifier>
-             </msDesc>
-             <listBibl type="related"> 
-               <listBibl type="online"> 
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
                   <bibl/>
-                </listBibl>
-             </listBibl>
-          </sourceDesc>
-       </fileDesc>
-       <profileDesc> 
-         <correspDesc> 
-            <correspAction type="sent"> 
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
                <persName/>
-                <date/>
-                <placeName/>
-             </correspAction>
-             <correspAction type="received"> 
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
                <persName/>
-                <placeName/>
-             </correspAction>
-          </correspDesc>
-          <langUsage> 
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
             <language/>
-          </langUsage>
-          <textClass> 
-            <keywords ana="keywords"> 
-               <list> 
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
                   <item/>
-                </list>
-             </keywords>
-             <keywords ana="travels"> 
-               <list> 
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
                   <item/>
-                </list>
-             </keywords>
-          </textClass>
-       </profileDesc>
-    </teiHeader>
-    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0906_facs.xml"> 
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0906_facs.xml">
       <xi:fallback/>
-       <!--Inclusion path will be adjusted later.-->
-    </xi:include>
-    <text> 
-      <body> 
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
          <div type="letter">
             <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0906_001.jpg"/>
-            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+            <milestone unit="textregion" xml:id="p001_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
                <lb xml:id="p001_tr_1_tl_1"/>März 1931 [bleistift] 
                <lb xml:id="p001_tr_1_tl_2"/>Ma très chère Jacqueline, 
                <lb xml:id="p001_tr_1_tl_3"/>Votre bonne lettre est arrivée 
@@ -85,9 +86,9 @@
                <lb xml:id="p001_tr_1_tl_17"/>mois d'Avril ou début de 
                <lb xml:id="p001_tr_1_tl_18"/>Mai. Mais même si je réussis, 
                <lb xml:id="p001_tr_1_tl_19"/>je ne suis pas vraiment contente</p>
-
             <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0906_002.jpg"/>
-            <milestone unit="textregion" xml:id="p002_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+            <milestone unit="textregion" xml:id="p002_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
                <lb xml:id="p002_tr_1_tl_1"/>de moi-même. 
                <lb xml:id="p002_tr_1_tl_2"/>Peut-être je vais partir pour Rome. 
                <lb xml:id="p002_tr_1_tl_3"/>Je vais voir de belles choses, 
@@ -102,7 +103,7 @@
                <lb xml:id="p002_tr_1_tl_12"/>Je vous embrasse, chère Jaqueline, 
                <lb xml:id="p002_tr_1_tl_13"/>soyez contente et tranquille – 
                <lb xml:id="p002_tr_1_tl_14"/>Annemarie</p>
-</div>
-       </body>
-    </text>
- </TEI>
+         </div>
+      </body>
+   </text>
+</TEI>
