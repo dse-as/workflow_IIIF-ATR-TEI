@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0507" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0507#">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>smallform_0507</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl corresp="smallform_0507">
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0507_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0507_001.tif"/>
+            <milestone unit="textregion" xml:id="p001_r"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p001_r_tl_1"/>Eine Stunde vor Funchal 
+               <lb xml:id="p001_r_tl_2"/>Von Annemarie <hi rendition="#g">Clarac</hi></p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">-Schwarzenbach</p>
+            <p>
+               <lb xml:id="p001_r_tl_3"/>Heute früh, gegen sechs Uhr, begegnete unser Schiff 
+               <lb xml:id="p001_r_tl_4"/>einem Unterseeboot, das klein und grau, als eigen 
+               <lb xml:id="p001_r_tl_5" break="no"/>williger Fremdkörper, die von der Morgensionne be 
+               <lb xml:id="p001_r_tl_6" break="no"/>glänzten Wellen durchschnitt, grußlos an uns vorbei 
+               <lb xml:id="p001_r_tl_7" break="no"/>glitt, und schon nach wenigen Minuten wieder ver 
+               <lb xml:id="p001_r_tl_8" break="no"/>schwand. Die meisten Passagiere schliefen noch, nur 
+               <lb xml:id="p001_r_tl_9"/>die Kinder lärmten schon unbekümmert in den Kabi 
+               <lb xml:id="p001_r_tl_10" break="no"/>nen – und das Schiff ist voll von Kindern, kleinen 
+               <lb xml:id="p001_r_tl_11"/>Portugiesen, Belgiern und Holländern. Viele von 
+               <lb xml:id="p001_r_tl_12"/>ihnen sind nur von ihren Müttern begleitet, die Väter 
+               <lb xml:id="p001_r_tl_13"/>sind irgendwo im Krieg, oder gefangen. Eine junge 
+               <lb xml:id="p001_r_tl_14"/>Belgierin erzählte mir, daß sie fünf Monate in Lissa 
+               <lb xml:id="p001_r_tl_15" break="no"/>bon auf ihr englisches Visum gewartet habe, um zu 
+               <lb xml:id="p001_r_tl_16"/>ihrem Mann zu gelangen, der von Dünkirchen evaku 
+               <lb xml:id="p001_r_tl_17" break="no"/>iert wurde und sich bei einem belgischen Regiment in 
+               <lb xml:id="p001_r_tl_18"/>England befindet. Jetzt hat sie sich entschlossen, eine 
+               <lb xml:id="p001_r_tl_19"/>Stelle als Advokatin im Kongo anzunehmen, um für 
+               <lb xml:id="p001_r_tl_20"/>ihren dreijährigen Buben sorgen zu können. Eine 
+               <lb xml:id="p001_r_tl_21"/>andere Frau reist mit ihren drei blinden Kindern und 
+               <lb xml:id="p001_r_tl_22"/>einem Priester, irgendwohin nach Afrika, weil sie nicht 
+               <lb xml:id="p001_r_tl_23"/>in ihre vom Feind besetzte Heimat zurückkehren will. 
+               <lb xml:id="p001_r_tl_24"/>Eine Engländerin reist ganz allein, ihr jüngster Sohn 
+               <lb xml:id="p001_r_tl_25"/>ist als Flieger gefallen, zwei andere sind in London 
+               <lb xml:id="p001_r_tl_26"/>bei der RAF. Sie hat früher friedlich in Südfrankreich 
+               <lb xml:id="p001_r_tl_27"/>gelebt, jetzt weiß sie noch nicht, in welchem Hafen an 
+               <lb xml:id="p001_r_tl_28"/>der Westküste Afrikas sie aussteigen soll. – Die Männer 
+               <lb xml:id="p001_r_tl_29"/>sind auf unserem Schiff natürlich zahlreicher als die 
+               <lb xml:id="p001_r_tl_30"/>Frauen. Zum Vergnügen reist heute niemand, und 
+               <lb xml:id="p001_r_tl_31"/>Abenteurer befinden sich kaum unter den Passagieren, 
+               <lb xml:id="p001_r_tl_32"/>aber wenn man die Geschichte jedes einzelnen anhört, 
+               <lb xml:id="p001_r_tl_33"/>fragt man sich, ob man sich auf einem Gespensterschiff 
+               <lb xml:id="p001_r_tl_34"/>befinde, oder ob die Summe der Schicksale hier etwa 
+               <lb xml:id="p001_r_tl_35"/>ein getreues Bild sei vom Schicksal, das das alte 
+               <lb xml:id="p001_r_tl_36"/>Leben in unserer alten, vertrauten, zivilisierten, gere 
+               <lb xml:id="p001_r_tl_37" break="no"/>gelten europäischen Welt endgültig beendet, alle Ge 
+               <lb xml:id="p001_r_tl_38" break="no"/>setze aufgehoben, jede Sicherheit zunichte gemacht hat. 
+               <lb xml:id="p001_r_tl_39"/>Es gibt an Bord Männer, die resigniert sind, – und 
+               <lb xml:id="p001_r_tl_40"/>nun mit leeren Händen, ohne Hoffnung, wie Aben 
+               <lb xml:id="p001_r_tl_41" break="no"/>teurer ausfahren. Die Niederlage ihres Landes, der 
+               <lb xml:id="p001_r_tl_42"/>Tod ihres Sohnes, der Verlust ihrs Vermögens, der 
+               <lb xml:id="p001_r_tl_43"/>Ruin ihres Geschäfts hat sie besiegt und sie glauben 
+               <lb xml:id="p001_r_tl_44"/>an nichts mehr. Man muß ihnen zureden: aber du bist 
+               <lb xml:id="p001_r_tl_45"/>gesund, bist der gleiche wie vorher, lebst auf diesem 
+               <lb xml:id="p001_r_tl_46"/>Schiff wie andere Menschen, von Essen und Schlaf, Ge-
+               <milestone unit="textregion" xml:id="p001_r_2"/>
+               <lb xml:id="p001_r_2_tl_1"/>sprächen, Begegnungen. Beschäftigungen, gutem oder 
+               <lb xml:id="p001_r_2_tl_2"/>schlechtem Klima. Wenn auch nichts mehr standhält in 
+               <lb xml:id="p001_r_2_tl_3"/>dieser Welt, wir können doch standhalten, – wie wir uns 
+               <lb xml:id="p001_r_2_tl_4"/>an andere Sitten, andere Tagesläufe gewöhnen. Wenn 
+               <lb xml:id="p001_r_2_tl_5"/>du einen Feind hast, der dich beraubt und dir Böses 
+               <lb xml:id="p001_r_2_tl_6"/>angetan hat, – gibt es irgendeinen Grund, ihm nun 
+               <lb xml:id="p001_r_2_tl_7"/>deswegen auch alle Taten und Siege zu überlassen?" 
+               <lb xml:id="p001_r_2_tl_8"/>Es gibt andere Männer, die einen Feind getötet haben, 
+               <lb xml:id="p001_r_2_tl_9"/>um aus der Gefangenschaft zu entkommen, – die Frau 
+               <lb xml:id="p001_r_2_tl_10"/>und Kinder und ihre Häuser zurückgelassen haben, um 
+               <lb xml:id="p001_r_2_tl_11"/>ihrem bißchen nackten Leben die Kraft abzutrotzen, 
+               <lb xml:id="p001_r_2_tl_12"/>weiter zu kämpfen. Die sind meistens heiter, und es 
+               <lb xml:id="p001_r_2_tl_13"/>ist ihnen gleich, wie sie leben, und wo. Es ist ihnen 
+               <lb xml:id="p001_r_2_tl_14"/>sogar gleich, daß das Ziel sich noch nicht genau nennen 
+               <lb xml:id="p001_r_2_tl_15"/>läßt.</p>
+            <p>
+               <lb xml:id="p001_r_2_tl_16"/>So fährt dieses Schiff, ein kleiner portugiesischer 
+               <lb xml:id="p001_r_2_tl_17"/>Dampfer, seit zwei Tagen unter seiner neutralen 
+               <lb xml:id="p001_r_2_tl_18"/>Flagge über ein leicht bewegtes Meer, immer weiter 
+               <lb xml:id="p001_r_2_tl_19"/>weg von den bezaubernd grünen Tejoufern, dem glän 
+               <lb xml:id="p001_r_2_tl_20" break="no"/>zenden und freundlichen Hafen von Lissabon, der Küste 
+               <lb xml:id="p001_r_2_tl_21"/>Afrikas entgegen. Endlich sind heute vormittag zu 
+               <lb xml:id="p001_r_2_tl_22"/>unserer Rechten ein paar phantastisch geformte Felsen 
+               <lb xml:id="p001_r_2_tl_23"/>aufgetaucht. Die meisten Passagiere kümmerten sich 
+               <lb xml:id="p001_r_2_tl_24"/>nicht darum, ob sie Madeira hießen, oder Teneriffa, 
+               <lb xml:id="p001_r_2_tl_25"/>ob es die Kanarischen oder die Kapverdischen Inseln 
+               <lb xml:id="p001_r_2_tl_26"/>waren. Aber es ist doch Land! – Und jetzt wissen wir 
+               <lb xml:id="p001_r_2_tl_27"/>schon, daß wir in einer Stunde in <hi rendition="#g">Funchal</hi> anlegen 
+               <lb xml:id="p001_r_2_tl_28"/>werden, auf <hi rendition="#g">Madeira</hi>, wo es Wein gibt, und Zucker 
+               <lb xml:id="p001_r_2_tl_29" break="no"/>rohrfelder neben stämmigen Eichen.</p>
+            <p>
+               <lb xml:id="p001_r_2_tl_30"/>Wir werden uns ziemlich lang dort aufhalten, einen 
+               <lb xml:id="p001_r_2_tl_31"/>ganzen Nachmittag, bei mildem Wetter, herrlicher 
+               <lb xml:id="p001_r_2_tl_32"/>Sonne und leichtem Wind, wir werden in der Bucht 
+               <lb xml:id="p001_r_2_tl_33"/>schwimmen, einen Spaziergang auf den berühmten 
+               <lb xml:id="p001_r_2_tl_34"/>Hügeln machen, die berühmten Blumen sehen. die be 
+               <lb xml:id="p001_r_2_tl_35" break="no"/>rühmten Süßweine kosten, – und nachher werden wir 
+               <lb xml:id="p001_r_2_tl_36"/>einen kühlen Abend in der kleinen Stadt verbringen, 
+               <lb xml:id="p001_r_2_tl_37"/>die wahrscheinlich reizend ist. Morgen ist der Dampfer 
+               <lb xml:id="p001_r_2_tl_38"/>dann wieder unterwegs, und man wird wieder ringsum 
+               <lb xml:id="p001_r_2_tl_39"/>nur das Weltmeer sehen. Und die Passagiere werden 
+               <lb xml:id="p001_r_2_tl_40"/>wieder Ausschau halten. Aber jetzt, eine Stunde vor 
+               <lb xml:id="p001_r_2_tl_41"/>Funchal, sagen alle: "Was für ein herrlicher Tag!"...</p>
+         </div>
+      </body>
+   </text>
+</TEI>
