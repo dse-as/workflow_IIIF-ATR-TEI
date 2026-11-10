@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="letter_0695"
+     type="dseas-letter">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0695</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0695_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="letter_0695_001"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0695_001.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0695_001_tr_1"/>
+            <lb xml:id="letter_0695_001_tr_1_tl_1"/>Alp Blumlisberg
+<lb xml:id="letter_0695_001_tr_1_tl_2"/>8. Aug. 29
+<lb xml:id="letter_0695_001_tr_1_tl_3"/>Lieber Herr Haushofer,
+<lb xml:id="letter_0695_001_l_1"/>Vielen Dank für Ihren Brief
+<lb xml:id="letter_0695_001_tr_1_tl_7"/>u. die hübschen Gedichte. Leider
+<lb xml:id="letter_0695_001_tr_1_tl_9"/>habe ich den Brief nicht mit
+<lb xml:id="letter_0695_001_tr_1_tl_10"/>heraufgenommen, so das ich nicht
+<lb xml:id="letter_0695_001_tr_1_tl_11"/>genauer darauf antworten kan].
+<lb xml:id="letter_0695_001_tr_1_tl_13"/>Um die Zeit Ihrer Schweizer¬
+<lb xml:id="letter_0695_001_tr_1_tl_14"/>reise werde ich aller Wahr¬
+<lb xml:id="letter_0695_001_tr_1_tl_15"/>scheinlichkeit nach <PAGE tag="strikethrough">hier sein</PAGE> in
+<lb xml:id="letter_0695_001_tr_1_tl_16"/>Zurich sein, d. h. wen[ nichts Un¬
+<lb xml:id="letter_0695_001_tr_1_tl_17"/>Vorhergesehenes dazwischen ko[mt.
+<lb xml:id="letter_0695_001_tr_1_tl_18"/>Momentan bin ich mit einer<pb xml:id="letter_0695_002"
+                facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0695_002.jpg"/>
+            <milestone unit="textregion" xml:id="letter_0695_002_tr_1"/>
+            <lb xml:id="letter_0695_002_tr_1_tl_1"/>ganzen Bande von Studentin[en 
+<lb xml:id="letter_0695_002_tr_1_tl_3"/>u. Bekan[ten auf unserer Alp,
+<lb xml:id="letter_0695_002_tr_1_tl_4"/>bei zur Zeit strömendem Regen –
+<lb xml:id="letter_0695_002_tr_1_tl_5"/>weltabgeschnitten u. deshalb auch
+<lb xml:id="letter_0695_002_tr_1_tl_6"/>heiter u. ungestört. Ich bereite
+<lb xml:id="letter_0695_002_tr_1_tl_7"/>mich, mit mässigem Fleiss, auf
+<lb xml:id="letter_0695_002_tr_1_tl_8"/>das kommende Semester vor um
+<lb xml:id="letter_0695_002_tr_1_tl_10"/><PAGE tag="strikethrough">mir d</PAGE> dan[ rascher weiter zu
+<lb xml:id="letter_0695_002_tr_1_tl_11"/>ko[men – da wir doch in unserer
+<lb xml:id="letter_0695_002_l"/>Zeit alles rasch machen müssen,
+<lb xml:id="letter_0695_002_tr_1_tl_14"/>wenigstens unsere Dinge –
+<lb xml:id="letter_0695_002_tr_1_tl_15"/>hij ausser Dinge
+<lb xml:id="letter_0695_002_tr_1_tl_16"/>Herzlichen Gruss, auch von
+<lb xml:id="letter_0695_002_tr_1_tl_17"/>Gundi Wille, Ihre
+<lb xml:id="letter_0695_002_tr_1_tl_18"/>An[emarie Schwarzenbach</div>
+      </body>
+   </text>
+</TEI>
