@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0697" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0697#">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter_0697</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository/>
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0697_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="letter">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0697_001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_2"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p001_tr_2_tl_1"/>27.XII. 29 
+               <lb xml:id="p001_tr_2_tl_2"/>ANNEMARIE SCHWARZENBACH 
+               <lb xml:id="p001_tr_2_tl_3"/>Bocken/Horgen 
+               <lb xml:id="p001_tr_2_tl_4"/>Lieber Herr von Haushofer! 
+               <lb xml:id="p001_tr_2_tl_5"/>ich war sehr glücklich über 
+               <lb xml:id="p001_tr_2_tl_6"/>die Zusendung Ihres Buches, 
+               <lb xml:id="p001_tr_2_tl_7"/>u. ich danke Ihnen sehr dafür – 
+               <lb xml:id="p001_tr_2_tl_8"/>Denken Sie sich dass ich eben 
+               <lb xml:id="p001_tr_2_tl_9"/>entschlossen war mich wegen einer 
+               <lb xml:id="p001_tr_2_tl_10"/>Arbeit auf diesem Gebiet an Sie 
+               <lb xml:id="p001_tr_2_tl_11"/>zu wenden: ich soll Mitte oder 
+               <lb xml:id="p001_tr_2_tl_12"/>Ende Januar einen kleinen 
+               <lb xml:id="p001_tr_2_tl_13"/>(1 Std.) Seminarvortrag halten, auf 
+               <lb xml:id="p001_tr_2_tl_14"/>dem Gebiete der "mittleren u. 
+               <lb xml:id="p001_tr_2_tl_15"/>neueren Geschichte" – Sie sehen, der 
+               <lb xml:id="p001_tr_2_tl_16"/>Rahmen ist weit gefasst, u. Prof. 
+               <lb xml:id="p001_tr_2_tl_17"/>Gagliardi stellt uns die Wahl 
+               <lb xml:id="p001_tr_2_tl_18"/>des Themas frei.</p>
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0697_002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p002_tr_1_tl_1"/>Da ich nun bei den Geographen 
+               <lb xml:id="p002_tr_1_tl_2"/>(Prof. Flückiger) eine Vorlesung über 
+               <lb xml:id="p002_tr_1_tl_3"/>Anthropogeographie höre u. sehe dass 
+               <lb xml:id="p002_tr_1_tl_4"/>die Historiker vom Existieren eines 
+               <lb xml:id="p002_tr_1_tl_5"/>solchen Gebietes<del rend="overstrike">, wo</del> keine Ahnung 
+               <lb xml:id="p002_tr_1_tl_7"/>haben, möchte ich <del rend="overstrike">mein</del> [ein] Referat 
+               <lb xml:id="p002_tr_1_tl_8"/>darüber halten. D.h. es soll ein 
+               <lb xml:id="p002_tr_1_tl_9"/>Grundriss anthropogeographischer Be 
+               <lb xml:id="p002_tr_1_tl_10" break="no"/>ziehungen sein, mit besonderer Berück 
+               <lb xml:id="p002_tr_1_tl_11" break="no"/>sichtigung <hi rendition="#u">Graubündens</hi> als Einzelbei 
+               <lb xml:id="p002_tr_1_tl_12" break="no"/>spiel. (weil ich das ganze Semesters[sic] besonders 
+               <lb xml:id="p002_tr_1_tl_13"/>über Graubünden gearbeitet habe, meine 
+               <lb xml:id="p002_tr_1_tl_14"/>1. Seminararbeit war über Chur, verfassungs 
+               <lb xml:id="p002_tr_1_tl_15" break="no"/>geschichtlich)[sic]. Würde es Ihnen grosse 
+               <lb xml:id="p002_tr_1_tl_16"/>Mühe machen, mir zu diesem Zwecke 
+               <lb xml:id="p002_tr_1_tl_17"/>einige Literatur anzugeben? Ich 
+               <lb xml:id="p002_tr_1_tl_18"/>habe viel zu wenig Zeit für die 
+               <lb xml:id="p002_tr_1_tl_19"/>ganze Arbeit – habe auch bedenklich 
+               <lb xml:id="p002_tr_1_tl_20"/>wenig Ahnung wie sie anzufassen,</p>
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0697_003.jpg"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p003_tr_1_tl_1"/>2</p>
+            <milestone unit="textregion" xml:id="p003_tr_3"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p003_tr_3_tl_1"/>aber wenn ich die Ferientage dazu 
+               <lb xml:id="p003_tr_3_tl_2"/>benütze hoffe ich doch fertig zu 
+               <lb xml:id="p003_tr_3_tl_3"/>werden, dies der Grund des 
+               <lb xml:id="p003_tr_3_tl_5"/>"Express"! – 
+               <lb xml:id="p003_tr_3_tl_6"/>[space] ich bitte Sie Ihren verehrten Eltern 
+               <lb xml:id="p003_tr_3_tl_7"/>unsere herzlichsten Neujahrs 
+               <lb xml:id="p003_tr_3_tl_8" break="no"/>wünsche zu übermitteln. Alles 
+               <lb xml:id="p003_tr_3_tl_10"/>Gute für Sie u. beste Grüsse Ihre 
+               <lb xml:id="p003_tr_3_tl_11"/>An[nemarie Schwarzenbach</p>
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0697_004.jpg"/>
+            <milestone unit="textregion" xml:id="p004_tr_2"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p004_tr_2_tl_1"/>preste 
+               <lb xml:id="p004_tr_2_tl_2"/>Eilsendung 
+               <lb xml:id="p004_tr_2_tl_3"/>Exprès – Espresso 
+               <lb xml:id="p004_tr_2_tl_4"/>Herrn Albrecht von Haushofer 
+               <lb xml:id="p004_tr_2_tl_7"/>München 
+               <lb xml:id="p004_tr_2_tl_9"/>Kolbergstrasse 18</p>
+            <pb xml:id="p005" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0697_005.jpg"/>
+            <milestone unit="textregion" xml:id="p005_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p005_tr_1_tl_7"/>ANNEMARIE SCHWARZENBACH</p>
+         </div>
+      </body>
+   </text>
+</TEI>
