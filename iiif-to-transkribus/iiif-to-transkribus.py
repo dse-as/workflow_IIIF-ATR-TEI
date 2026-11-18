@@ -81,20 +81,40 @@ def get_pages(manifest):
 
 def download_pages(pages, wait=1):
     """Download the images for each page."""
+
     page_dict = {}
-    for page in enumerate(sorted(pages)):
+
+    session = requests.Session()
+    session.headers.update({
+        "User-Agent": "DSL-Image-Query/1.0",
+        "Accept": "image/jpeg",
+    })
+
+    for filename in sorted(pages):
         try:
-            filename = page[1]
             base_url = pages[filename]
-            base_url = base_url.removesuffix('/info.json')  # Clean up the URL
+            base_url = base_url.removesuffix('/info.json')
             full_url = f"{base_url}/full/max/0/default.jpg"
-            r = requests.get(full_url, stream=True)
+ 
+            r = session.get(
+                full_url,
+                stream=True,
+                timeout=60
+            )
+
+            r.raise_for_status()
+
             page_dict[filename + ".jpg"] = r.content
+
             logging.info(f"Downloaded {filename}.jpg")
+
             time.sleep(wait)
-        except Exception as e:
-            logging.error(f"Error processing page {filename}: {e}")
+
+        except requests.exceptions.RequestException as e:
+            logging.error(f"Error downloading {filename}: {e}")
             continue
+
+    session.close()
     return page_dict
 
 def upload_file(upload_id, file_name, file_data):
