@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0260" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0260#">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>smallform_0260</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl corresp="smallform_0260">
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0260_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0260_0001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p001_tr_1_tl_3"/>Dr. A. Clark 
+               <lb xml:id="p001_tr_1_tl_4"/>Ein Artikel macht Sensation. 
+               <lb xml:id="p001_l"/>"Der Beginn einer Arbeiterbewegung" [mit Bleistift oben links ergänzt] 
+               <lb xml:id="p001_l_1"/>Ⅰ</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_6"/>Am 13. November 1937 erschien in der populären amerikanischen Wochenzei 
+               <lb xml:id="p001_tr_1_tl_7" break="no"/>tung "Colliers Weekly" ein Artikel von Walter Davenport, der den sensa 
+               <lb xml:id="p001_tr_1_tl_8" break="no"/>tionellen Titel trug: "ALL W0RK AND NO PAY" (wörtlich: Alle Arbeit und kei[n] 
+               <lb xml:id="p001_tr_1_tl_9"/>Lohn). Der Autor befasst sich darin mit den Zuständen in einigen Textil 
+               <lb xml:id="p001_tr_1_tl_10" break="no"/>fabriken in North und South Carolina, die er als typisch für den ganzen 
+               <lb xml:id="p001_tr_1_tl_11"/>Südosten der Vereinigten Staaten erklärt. Photographische Reproduktionen 
+               <lb xml:id="p001_tr_1_tl_12"/>von Lohn-Umschlägen – (der amerikanische Arbeiter erhält gewöhnlich sei 
+               <lb xml:id="p001_tr_1_tl_13" break="no"/>nen Wochenlohn in einem "Lohn-Couvert" zugestellt) – erbringen den Beweis 
+               <lb xml:id="p001_tr_1_tl_14"/>für die Behauptung Davenports: dass Männer und Frauen jahrelang in die 
+               <lb xml:id="p001_tr_1_tl_16" break="no"/>sen Fabriken arbeiten, ohne auch nur einen <del rend="overstrike">Pfennig</del> [add above: Cent] Bargeld zu sehen" 
+               <lb xml:id="p001_tr_1_tl_17"/>Diese unglaublich scheinende Tatsache ist leicht erklärlich, wenn man 
+               <lb xml:id="p001_tr_1_tl_18"/>das System des "Fabrik-Dorfs" kennt, das gerade in den Südstaaten noch 
+               <lb xml:id="p001_tr_1_tl_19"/>durchaus üblich ist: Grund und Boden, Arbeiterhäuser, Licht und Wasser 
+               <lb xml:id="p001_tr_1_tl_20"/>gehören ebenso der Gesellschaft, wie der "Company-store", der Laden, wo 
+               <lb xml:id="p001_tr_1_tl_21"/>der Arbeiter [add above: alles] kaufen kann – oder kaufen muss – vom Radio bis zum Bier, von 
+               <lb xml:id="p001_tr_1_tl_22"/>der Arbeitskleidung bis zum täglichen Brot. Statt mit Bargeld, zahlt der 
+               <lb xml:id="p001_tr_1_tl_23"/>Arbeiter mit Gutscheinen. Die Preise sind höher als in gewöhnlichen 
+               <lb xml:id="p001_tr_1_tl_24"/>Geschäften, weil der Arbeiter für seinen Kredit Zins zahlen muss. Ab 
+               <lb xml:id="p001_tr_1_tl_25" break="no"/>rechnungen gibt es nicht, – der Gesamtbetrag der während einer Woche 
+               <lb xml:id="p001_tr_1_tl_26"/>gezeitigten Einkäufe wird vom Wochenlohn abgezogen, ebenso wie Miete 
+               <lb xml:id="p001_tr_1_tl_28"/>und andere Ausgaben. <del rend="overstrike">Die</del> [add above: Zwei der] von Davenport reproduzierten Umschläge zeigen 
+               <lb xml:id="p001_tr_1_tl_29"/>Wochenlöhne von Dollar 14.40 und Dollar 13.60, die sich beide nach Ab 
+               <lb xml:id="p001_tr_1_tl_30" break="no"/>zug aller "Unkosten" genau auf Null belaufen.</p>
+            <p>
+               <lb xml:id="p001_tr_1_tl_31"/>Eine andere mit dem Artikel publizierte Photographie zeigt ein Plakat, 
+               <lb xml:id="p001_tr_1_tl_32"/>das Davenport an einer Hausmauer in einem Fabrik-Dorf gefunden hat, und 
+               <lb xml:id="p001_tr_1_tl_33"/>das die Jnschrift trägt:</p>
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0260_0002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p002_tr_1_tl_1"/>– 2 –</p>
+            <p>
+               <lb xml:id="p002_tr_1_tl_2"/>"CJO ist kommunistisch. 
+               <lb xml:id="p002_tr_1_tl_3"/>Kommunismus wird nicht geduldet. 
+               <lb xml:id="p002_tr_1_tl_4"/>Der Ku Klux Klan reitet wieder."</p>
+            <p>
+               <lb xml:id="p002_tr_1_tl_5"/>"CJO" ist bekanntlich die Abkürzung für das "Comité für Jndustrie Orga 
+               <lb xml:id="p002_tr_1_tl_6" break="no"/>nisation" des amerikanischen Arbeiterführers John L. Lewis. Seit ungefähr 
+               <lb xml:id="p002_tr_1_tl_7"/>sieben Monaten führt das an CJO angeschlossene TWOC (Organisations- 
+               <lb xml:id="p002_tr_1_tl_8"/>Comité der Textilarbeiter) im Süden seine erste grosse Campagne durch. 
+               <lb xml:id="p002_tr_1_tl_9"/>Zwischen der Kommunistischen Partei und dem CJO besteht keine Verbin 
+               <lb xml:id="p002_tr_1_tl_10" break="no"/>dung. Aber die Beschuldigung des "Kommunismus" ist ein wirksames Argu 
+               <lb xml:id="p002_tr_1_tl_11" break="no"/>ment im Kampf gegen die Gewerkschafts-Bewegung. Man warnt den religiösen, 
+               <lb xml:id="p002_tr_1_tl_12"/>patriotischen, oder eigenwillig-individualistischen amerikanischen Ar 
+               <lb xml:id="p002_tr_1_tl_13" break="no"/>beiter, dass CJO die Religion untergrabe, die Gewerkschafts-Beiträge nach 
+               <lb xml:id="p002_tr_1_tl_14"/>Russland schicke, "verjudet" sei, in die privaten Rechte des Jndividuums 
+               <lb xml:id="p002_tr_1_tl_15"/>eingreife. Ein Teil dieser Propaganda geht aus vom Geheimbund des 
+               <lb xml:id="p002_tr_1_tl_16"/>Ku Klux Klan, der für ungezählte Fälle von Lynchmorden verantwortlich 
+               <lb xml:id="p002_tr_1_tl_17"/>ist und mit fanatischem Hass "Neger, Juden und Katholiken" verfolgte. 
+               <lb xml:id="p002_tr_1_tl_18"/>Ein Geheimbund, geboren aus der Furcht der weissen Minorität im Süden 
+               <lb xml:id="p002_tr_1_tl_19"/>vor der schwarzen Rasse, der jetzt im Kampf gegen die Arbeiterklasse 
+               <lb xml:id="p002_tr_1_tl_20"/>ein neues Aktionsfeld gefunden hat.</p>
+            <p>
+               <lb xml:id="p002_tr_1_tl_21"/>Der Artikel von Davenport hat in Amerika riesiges Aufsehen gemacht, und 
+               <lb xml:id="p002_tr_1_tl_22"/>in den Südstaaten einen Sturm der Meinungen hervorgerufen, die wochen 
+               <lb xml:id="p002_tr_1_tl_23" break="no"/>lang die lokalen Zeitungen füllten. Die Direktoren der von Davenport 
+               <lb xml:id="p002_tr_1_tl_24"/>zitierten Textilfabriken kündigten eine Untersuchung an, die ihn als 
+               <lb xml:id="p002_tr_1_tl_25"/>Sensationsmacher, wenn nicht als Lügner, entlarven würde. Die Resultate 
+               <lb xml:id="p002_tr_1_tl_26"/>dieser Untersuchung sind nie bekannt geworden. Die Bureaux des TWOC 
+               <lb xml:id="p002_tr_1_tl_27"/>produzierten mehr Beweise, um Davenports Behauptungen zu unterstützen. 
+               <lb xml:id="p002_tr_1_tl_28"/>Meine amerikanische Kollegin und ich lasen den Artikel in Chattanooga, 
+               <lb xml:id="p002_tr_1_tl_29"/>einer Jndustriestadt im Staate Tennessee. Wir hatten bald darauf Gele 
+               <lb xml:id="p002_tr_1_tl_30" break="no"/>genheit, die Wahrheit und Exaktheit von Davenports Anschuldigungen nach 
+               <lb xml:id="p002_tr_1_tl_31" break="no"/>zuprüfen.</p>
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0260_0003.jpg"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p003_tr_1_tl_1"/>– 3 –</p>
+            <p>
+               <lb xml:id="p003_tr_1_tl_2"/>Wir hatten einen Ford 8, zwei Rolleiflex-Kameras, und drei Wochen 
+               <lb xml:id="p003_tr_1_tl_3"/>Zeit zu unserer Verfügung, als wir aufbrachen, um herauszufinden, was 
+               <lb xml:id="p003_tr_1_tl_4"/>heute im amerikanischen Süden wirklich vorgeht. Jn Washington ist viel 
+               <lb xml:id="p003_tr_1_tl_5"/>von der "Hinterbühne der amerikanischen Prosperität" die Rede, vom 
+               <lb xml:id="p003_tr_1_tl_6"/>"Stiefkind der Nation", und vom "vergessenen Mann Amerikas." – Das Jnteres 
+               <lb xml:id="p003_tr_1_tl_7" break="no"/>se für die Staaten des "Alten Südens" ist erst vor wenigen Jahren er 
+               <lb xml:id="p003_tr_1_tl_8" break="no"/>wacht, – als die Wirtschaftskrise den Landwirtschaftssekretär Wallace und 
+               <lb xml:id="p003_tr_1_tl_9"/>die verschiedenen, von Präsident Roosevelt gegründeten Unterstützungs- 
+               <lb xml:id="p003_tr_1_tl_10"/>Behörden zwang, sich mit den Problemen des schwer betroffenen Baumwoll- 
+               <lb xml:id="p003_tr_1_tl_11"/>Systems auseinanderzusetzen. Die ausländischen Märkte schwanden, die 
+               <lb xml:id="p003_tr_1_tl_12"/>Preise für Rohbaumwolle fielen, – Aegypten, Jndien, Südamerika machten 
+               <lb xml:id="p003_tr_1_tl_13"/>Amerika erfolgreich Konkurrenz. Gleichzeitig wurde der Schwerpunkt der 
+               <lb xml:id="p003_tr_1_tl_14"/>amerikanischen Baumwollproduktion nach Westen verlegt, in die fruchtbaren 
+               <lb xml:id="p003_tr_1_tl_15"/>Ebenen von Texas und Arizona, wo sich riesige Felder mit dem Traktor 
+               <lb xml:id="p003_tr_1_tl_16"/>bearbeiten liessen. [?] [durchgestrichen] 
+               <lb xml:id="p003_tr_1_tl_17"/>[?] [durchgestrichen], – Das Maultier auf den kleinen Pachtgütern des "Alten 
+               <lb xml:id="p003_tr_1_tl_18"/>Südens", – genauer ausgedrückt die Staaten im Südosten –, konnte nicht 
+               <lb xml:id="p003_tr_1_tl_19"/>mit dem Traktor konkurrieren. Der Boden war erschöpft durch die einsei 
+               <lb xml:id="p003_tr_1_tl_20" break="no"/>tige Bebauung mit Baumwolle als "Profit-Ernte". Die Seuche des "Boll 
+               <lb xml:id="p003_tr_1_tl_21"/>weevil" suchte die Plantagen heim.</p>
+            <p>
+               <lb xml:id="p003_tr_1_tl_22"/>Jn Wirklichkeit war dieser Höhepunkt der Krise nur die letzte Phase 
+               <lb xml:id="p003_tr_1_tl_23"/>einer langen Degeneration, die Land und Menschen seit dem amerikanischen 
+               <lb xml:id="p003_tr_1_tl_24"/>Bürgerkrieg und der Niederlage des Südens unaufhaltsam demoralisiert 
+               <lb xml:id="p003_tr_1_tl_25"/>hatte. Die Pflanzer-Aristokraten hatten damals, nach der Sklavenbefreiung,</p>
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0260_0004.jpg"/>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p004_tr_1_tl_1"/>– 3 – 
+               <lb xml:id="p004_tr_1_tl_2"/><PAGE tag="continued">Wir hatten einen Ford 6, zwei Rolleiflex-Kameras, und drei Wochen Zeit</PAGE>
+               <lb xml:id="p004_tr_1_tl_3"/><PAGE tag="continued">zur Verfügung, als wir von Washington aufbrachen, um herauszufinden,</PAGE>
+               <lb xml:id="p004_tr_1_tl_4"/><PAGE tag="continued">was heute im amerikanischen Süden, der Hinterbühne der amerikanischen</PAGE>
+               <lb xml:id="p004_tr_1_tl_5"/><PAGE tag="continued">Prosperität, wirklich vor sich geht.</PAGE></p>
+            <pb xml:id="p005" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0260_0005.jpg"/>
+            <milestone unit="textregion" xml:id="p005_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p005_tr_1_tl_1"/>– 4 –</p>
+            <p>
+               <lb xml:id="p005_tr_1_tl_2"/>das System der "Ernteteilung" (Sharecropping) erfunden, das zu einem 
+               <lb xml:id="p005_tr_1_tl_3"/>festen Bollwerk gegen jede Veränderung, jeden Fortschritt geworden ist, 
+               <lb xml:id="p005_tr_1_tl_4"/>und errichtet war, um die Ueberlegenheit einer zahlenmässig geringen 
+               <lb xml:id="p005_tr_1_tl_5"/>weissen Oberschicht gegenüber den ehemaligen Sklaven zu sichern. 
+               <lb xml:id="p005_tr_1_tl_6"/>Die Pächter oder "Sharecropper", – zu den Negern gesellte sich bald ein<del rend="overstrike">e</del>
+               <lb xml:id="p005_tr_1_tl_7"/>Landproletariat von "Armen Weissen" – erhielten Land, Werkzeug, Maultier, 
+               <lb xml:id="p005_tr_1_tl_8"/>eine Hütte und Kredit im Laden (der dem Landherrn gehörte), und lieferten 
+               <lb xml:id="p005_tr_1_tl_9"/>dafür einen Teil ihrer Baumwollernte ab. Bargeld war aus diesem System 
+               <lb xml:id="p005_tr_1_tl_10"/>praktisch ausgeschaltet. Der Sharecropper blieb an das Land gebunden, 
+               <lb xml:id="p005_tr_1_tl_11"/>und mit dem Schwinden der "Baumwoll-Prosperität" wuchsen Armut, schlech 
+               <lb xml:id="p005_tr_1_tl_12" break="no"/>te Ernährung, Krankheit, Unwissenheit. Und je mehr der Reichtum der 
+               <lb xml:id="p005_tr_1_tl_13"/>Pflanzer und Landherren schwand, umso riguroser[sic] hielten sie ein System 
+               <lb xml:id="p005_tr_1_tl_14"/>des Rassenvorurteils und Klassengegensatzes aufrecht. Es war ein fataler 
+               <lb xml:id="p005_tr_1_tl_15"/>Kreislauf, – der Kreislauuf von "Profit-Ernte" und einem verrotteten sozia 
+               <lb xml:id="p005_tr_1_tl_16" break="no"/>len Ordnung, der nicht aufzuhalten war, wenn nicht die eigentliche Trieb 
+               <lb xml:id="p005_tr_1_tl_17" break="no"/>feder, die Baumwolle, zerstört wurde.</p>
+            <p>
+               <lb xml:id="p005_tr_1_tl_18"/>Die Staaten des "Alten Südens", wo Baumwolle die dominierende Ernte ist, 
+               <lb xml:id="p005_tr_1_tl_19"/>und die Bevölkerung einen grösseren Prozentsatz Neger als Weisse auf 
+               <lb xml:id="p005_tr_1_tl_20" break="no"/>weist, wird "Baumwollgürtel", "Schwarzer Gürtel", "Bibelgürtel", und der 
+               <lb xml:id="p005_tr_1_tl_21"/>"Tiefe Süden" genannt. Als die Propaganda und Aufklärungs-Arbeit der 
+               <lb xml:id="p005_tr_1_tl_22"/>Roosevelt-Regierung ihre Wirkung tat, wurde es in Amerika Mode, sich für 
+               <lb xml:id="p005_tr_1_tl_23"/>den armen Sharecropper zu interessieren, die traurigen Negerlieder der 
+               <lb xml:id="p005_tr_1_tl_24"/>Baumwoll-Plantagen wurden auf Grammophonplatten registriert, die pracht 
+               <lb xml:id="p005_tr_1_tl_25" break="no"/>voll-schlichte Architektur der zerfallenden Plantagen-Häuser und die 
+               <lb xml:id="p005_tr_1_tl_26"/>schäbigen Hütten der Baumwoll-Pflücker wurden photographiert, – das Buch 
+               <lb xml:id="p005_tr_1_tl_27"/>"Gone with the wind", das sich mit dem Schicksal einer durch den Bürger 
+               <lb xml:id="p005_tr_1_tl_28" break="no"/>krieg ruinierten aristokratischen Pflanzerfamilie beschäftigt, wurde 
+               <lb xml:id="p005_tr_1_tl_29"/>ein Sensationserfolg.</p>
+            <p>
+               <lb xml:id="p005_tr_1_tl_30"/>Gleichzeitig gründete eine Handvoll mutiger Männer und Frauen aus dem
+               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+            </p>
+            <pb xml:id="p006" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0260_0006.jpg"/>
+            <milestone unit="textregion" xml:id="p006_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p006_tr_1_tl_1"/>– 5 – 
+               <lb xml:id="p006_tr_1_tl_2"/></p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+            <p>
+               <lb xml:id="p006_tr_1_tl_2"/>Baumwoll-Proletariat die "Union der südlichen Farmpächter" (Southern 
+               <lb xml:id="p006_tr_1_tl_3"/>Tenant Farmers Union), die sogleich von Pflanzern, Landherrn, lokalen 
+               <lb xml:id="p006_tr_1_tl_4"/>Richtern und Polizei auf das Bitterste bekämpft und verfolgt wurde. 
+               <lb xml:id="p006_tr_1_tl_5"/>Negerpriester wurden ermordet, die sich für die Union eingesetzt hatten, 
+               <lb xml:id="p006_tr_1_tl_6"/>weil sie darin ein Jnstrument der Nächstenliebe erblickten, um den alten 
+               <lb xml:id="p006_tr_1_tl_7"/>Hass zwischen Negern und Armen Weissen zu überbrücken. Die Fälle von 
+               <lb xml:id="p006_tr_1_tl_8"/>Lynchjustiz mehrten sich. Weisse Agitatoren büssten als Kettensträflinge, 
+               <lb xml:id="p006_tr_1_tl_9"/>schwarze wurden ohne Gerichtsverhandlungen auf Plantagen geschickt, um 
+               <lb xml:id="p006_tr_1_tl_10"/>ihre Strafe abzuarbeiten. Manchmal drangen solche Fälle an die Oeffent 
+               <lb xml:id="p006_tr_1_tl_11" break="no"/>lichkeit, weckten Entrüstung, wurden "revidiert". Aber <del rend="overstrike">Aber</del> kein wirksames 
+               <lb xml:id="p006_tr_1_tl_12"/>Mittel schien gefunden, um die tragische Verkettung von Plantagensystem, 
+               <lb xml:id="p006_tr_1_tl_13"/>Baumwoll-Sklaverei, lokaler Politik und <del rend="overstrike">[?]</del> sozialem Vorurteil zu 
+               <lb xml:id="p006_tr_1_tl_14"/>lösen. Der Niedergang der Baumwolle, und die Massnahmen der Regierung 
+               <lb xml:id="p006_tr_1_tl_15"/>zur <del rend="overstrike">[?]</del> Einschränkung der Ernte und Kontrolle der Preise schien die 
+               <lb xml:id="p006_tr_1_tl_16"/>Armut noch zu vermehren. Tausende von ehemaligen Baumwollpächtern sind 
+               <lb xml:id="p006_tr_1_tl_17"/>während der letzten Jahre in die Städte abgewandert, oder vermehren das 
+               <lb xml:id="p006_tr_1_tl_18"/>Heer der "Wanderarbeiter" auf den Landstrassen von Florida bis Califor 
+               <lb xml:id="p006_tr_1_tl_19" break="no"/>nien.</p>
+            <p>
+               <lb xml:id="p006_tr_1_tl_20"/>Noch vor einem Jahr hatte man den Eindruck, dass der "Alte Süden" 
+               <lb xml:id="p006_tr_1_tl_21"/>für immer ruiniert, ein bedeutender Teil der amerikanischen Nation 
+               <lb xml:id="p006_tr_1_tl_22"/>hoffnungsloser Degeneration ausgeliefert sei.</p>
+            <p>
+               <lb xml:id="p006_tr_1_tl_23"/>Seither hat John L. Lewis seine Gewerkschafts-Organisatoren in die 
+               <lb xml:id="p006_tr_1_tl_24"/>Jndustrielandschaften des Südens geschickt. Schon seit einigen Jahren 
+               <lb xml:id="p006_tr_1_tl_25"/>verlegen industrielle Unternehmer aus dem Norden ihre Fabriken in die 
+               <lb xml:id="p006_tr_1_tl_26"/>Südstaaten, wo die Steuern geringer, die Löhne niedriger sind, und das 
+               <lb xml:id="p006_tr_1_tl_27"/>ländliche Proletariat eine Reserve an unorganisierter und billiger 
+               <lb xml:id="p006_tr_1_tl_28"/>Arbeitskraft bietet. Für die Jndustrie ist der Süden Neuland und Nie 
+               <lb xml:id="p006_tr_1_tl_29" break="no"/>mandsland, wie <del rend="overstrike">die ganzen</del> der ganze amerikanische Kontinent es vor 
+               <lb xml:id="p006_tr_1_tl_30"/>hundert und noch vor fünfzig Jahren war. Unbegrenzte Möglichkeiten,
+               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+            </p>
+            <pb xml:id="p007" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0260_0007.jpg"/>
+            <milestone unit="textregion" xml:id="p007_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p007_tr_1_tl_1"/>– 6 – 
+               <lb xml:id="p007_tr_1_tl_2"/></p>
+            <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+            <p>
+               <lb xml:id="p007_tr_1_tl_2"/>öffnen sich für den Unternehmungslustigen, das starke Jndividuum, den 
+               <lb xml:id="p007_tr_1_tl_3"/>Pionier. Aber während früher der Pioniergeist gerechtfertigt war, wo 
+               <lb xml:id="p007_tr_1_tl_4"/>unendliche Reserven an Land sich boten, wird heute Kapital im Süden 
+               <lb xml:id="p007_tr_1_tl_5"/>investiert, um menschliche Arbeitskraft auszunützen. Und sie ist billig 
+               <lb xml:id="p007_tr_1_tl_6"/>zu haben, wo Armut, Rückständigkeit und Unwissenheit herrschen. 
+               <lb xml:id="p007_tr_1_tl_7"/>Jmmerhin gibt es auch im Süden einige alte lokale Jndustrien. Jn Georgia 
+               <lb xml:id="p007_tr_1_tl_8"/>und in Nord- und Süd-Carolina gibt es Baumwollfabriken, die teilweise 
+               <lb xml:id="p007_tr_1_tl_9"/>bis in die Zeit des Bürgerkriegs zurückgehen. Die "Stahlstadt" Birming 
+               <lb xml:id="p007_tr_1_tl_10" break="no"/>ham im Staate Alabama ist sechzig Jahre alt und hat eine Bevölkerung 
+               <lb xml:id="p007_tr_1_tl_11"/>von 250 000. Jn den Bergen von Tennessee findet man Kohlengruben, die 
+               <lb xml:id="p007_tr_1_tl_12"/>bereits erschöpft sind und eine verarmte Bevölkerung von ehemaligen 
+               <lb xml:id="p007_tr_1_tl_13"/>Grubenarbeitern zurückgelassen haben. Agraroekonomen versichern, was der 
+               <lb xml:id="p007_tr_1_tl_14"/>Süden brauche, sei ein vernünftiges Landprogramm, um den Boden zu konser 
+               <lb xml:id="p007_tr_1_tl_15" break="no"/>vieren, gegen Erosion zu schützen, mit Kunstdünger zu verbessern, – die 
+               <lb xml:id="p007_tr_1_tl_16"/>Baumwolle durch andere Ernten zu ersetzen, den Baumwollpächter zum selb- 
+               <lb xml:id="p007_tr_1_tl_17"/>ständigen Eigenbauern zu machen. Mustersiedlungen und Projekte der Land 
+               <lb xml:id="p007_tr_1_tl_18" break="no"/>konservierung zeigen heute bereits, was auf diesem Wege erreicht werden 
+               <lb xml:id="p007_tr_1_tl_19"/>kann. Aber ein Landprogramm allein genügt nicht. Kapital wird gebraucht, 
+               <lb xml:id="p007_tr_1_tl_20"/>um Jndustrien zu etablieren, und die <del rend="overstrike">Rohstoffe</del> Rohstoffe und landwirt 
+               <lb xml:id="p007_tr_1_tl_21" break="no"/>schaftlichen Produkte im Lande zu verarbeiten. Neben zahlreichen neuen 
+               <lb xml:id="p007_tr_1_tl_22"/>Textil-Fabriken wurden während der letzten sechs Jahre nicht weniger 
+               <lb xml:id="p007_tr_1_tl_23"/>als vierzehn Papiermühlen gebaut, die das Holz einer im Süden gedeihen 
+               <lb xml:id="p007_tr_1_tl_24" break="no"/>den Fichtenart mit kurzer Wachstumsperiode verwenden. Kunstseide ist 
+               <lb xml:id="p007_tr_1_tl_25"/>eine junge Jndustrie im Süden, die das gleiche Rohmaterial verwendet. 
+               <lb xml:id="p007_tr_1_tl_26"/>Ford hat ein Automobilwerk in Memphis, Tennessee eröffnet. Jn Columbus, 
+               <lb xml:id="p007_tr_1_tl_27"/>Georgia, einer alten Textilstadt, befinden sich die Coca Cola-Werke und 
+               <lb xml:id="p007_tr_1_tl_28"/>die zweitgrösste Fabrik der Welt für Baumwollgin-Maschinen. Möbel 
+               <lb xml:id="p007_tr_1_tl_29" break="no"/>fabrikation ist eine andere neue Jndustrie, die einheimisches Holz 
+               <lb xml:id="p007_tr_1_tl_30"/>verwendet.</p>
+            <pb xml:id="p008" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0260_0008.jpg"/>
+            <milestone unit="textregion" xml:id="p008_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p008_tr_1_tl_1"/> – 3 – 
+               <lb xml:id="p008_tr_1_tl_2"/><PAGE tag="continued">Jn einer kleinen Landstadt in Georgia steht eines der merkwürdigsten</PAGE>
+               <lb xml:id="p008_tr_1_tl_3"/><PAGE tag="continued">Denkmale der Welt: es wurde zu Ehren und zum Andenken des "Boll wheevel</PAGE>
+               <lb xml:id="p008_tr_1_tl_4"/><PAGE tag="continued">errichtet, –</PAGE></p>
+            <pb xml:id="p009" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0260_0009.jpg"/>
+            <milestone unit="textregion" xml:id="p009_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p009_tr_1_tl_1"/>– 7 –</p>
+            <p>
+               <lb xml:id="p009_tr_1_tl_2"/>Die Goodyear-Autoreifen-Werke befinden sich in Gadsden, Alabama. Eine 
+               <lb xml:id="p009_tr_1_tl_3"/>Konkurrenzfirma, die sich ebenfalls dort etablieren wollte, hat den 
+               <lb xml:id="p009_tr_1_tl_4"/>Plan aufgegeben, nachdem die Goodyear-Arbeiter von Gadsden gegen die 
+               <lb xml:id="p009_tr_1_tl_5"/>niedrigen Löhne gestreikt haben, und es Goodyear nicht gelungen <del rend="overstrike">war</del> [add above: ist] 
+               <lb xml:id="p009_tr_1_tl_6"/>die Gewerkschafts-Organisatoren mit Gewalt aus der Stadt zu jagen. 
+               <lb xml:id="p009_tr_1_tl_7"/>Jm Grubendistrikt von Harlan County wurden im Frühjahr 1937 alle Ar 
+               <lb xml:id="p009_tr_1_tl_8" break="no"/>beiter entlassen, die im Verdacht standen, etwas mit den Gewerkschaften 
+               <lb xml:id="p009_tr_1_tl_9"/>zu tun zu haben. Mehrere Organisatoren wurden erschossen, andere mit 
+               <lb xml:id="p009_tr_1_tl_10"/>Gas vergiftet, viele unter irgendeinem Vorwand ins Gefängnis geworfen. 
+               <lb xml:id="p009_tr_1_tl_11"/>Der "Fall" von Harlan County kam vor das Arbeits-Schiedsgericht in 
+               <lb xml:id="p009_tr_1_tl_12"/>Washington, (National Labour Relation Board), mehrere Unternehmer wurden 
+               <lb xml:id="p009_tr_1_tl_13"/>wegen unlauteren Methoden und Gewalttaten verurteilt.</p>
+            <p>
+               <lb xml:id="p009_tr_1_tl_14"/>Die Funktionäre und Organisatoren von CJO wissen, dass der "Zug der Jn 
+               <lb xml:id="p009_tr_1_tl_16" break="no"/>dustrie nach Süden" eine [add above: neue] Phase von Ausbeutung, Unterdrückung und Gewalt 
+               <lb xml:id="p009_tr_1_tl_17"/>bedeutet. Aber sie glauben, dass die Konzentration von Arbeitern in 
+               <lb xml:id="p009_tr_1_tl_18"/>industriellen Zentren ihnen die Chance gibt, Gewerkschaften zu organi 
+               <lb xml:id="p009_tr_1_tl_19" break="no"/>sieren, und dass Organisation das einzige Mittel ist, um gegen die Aus 
+               <lb xml:id="p009_tr_1_tl_20" break="no"/>beutung der "billigen Hände" zu kämpfen, die heute in den Südstaaten 
+               <lb xml:id="p009_tr_1_tl_21"/>im Gange ist. Das ist es, was uns Gewerkschafts-Organisatoren, aufgeklärte 
+               <lb xml:id="p009_tr_1_tl_22"/>Arbeiter, Männer und Frauen in den Südstaaten immer wieder versicherten: 
+               <lb xml:id="p009_tr_1_tl_23"/>"Wir wollen keine Revolution. Wir wollen eine starke Organisation, damit 
+               <lb xml:id="p009_tr_1_tl_24"/>das Kapital gezwungen wird, mit der Arbeiterschaft fair zu verhandeln." 
+               <lb xml:id="p009_tr_1_tl_25"/>Jch hatte in reaktionären Kreisen wiederholt die Ansicht gehört, das 
+               <lb xml:id="p009_tr_1_tl_26"/>weisse und schwarze Proletariat im "Tiefen Süden" sei so degeneriert 
+               <lb xml:id="p009_tr_1_tl_27"/>und demoralisiert, dass es zwecklos sei, ihm eine "faire Chance" zu bieten[.] 
+               <lb xml:id="p009_tr_1_tl_28"/>Tatsächlich fand ich in den Baumwoll-Gegenden von Alabama und Georgia 
+               <lb xml:id="p009_tr_1_tl_29"/>weisse und schwarze Sharecroopers, die, geschlagen von Armut, Hunger, 
+               <lb xml:id="p009_tr_1_tl_30"/>Pellagra und Malaria, in einer Art von stumpfer Resignation vegetierten. 
+               <lb xml:id="p009_tr_1_tl_31"/>Diese fürchterliche Demoralisation war nicht ihre Schuld. <del rend="overstrike">Jm gleichen</del>
+               <!--FML: this needs attention (was tagged as "fml" in Transkribus)-->
+            </p>
+            <pb xml:id="p010" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0260_0010.jpg"/>
+            <milestone unit="textregion" xml:id="p010_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p010_tr_1_tl_1"/>– 8 –</p>
+            <p>
+               <lb xml:id="p010_tr_1_tl_2"/><del rend="overstrike">Jm gleichen Staat besuchte ich einig</del></p>
+            <p>
+               <lb xml:id="p010_tr_1_tl_3"/>Jm gleichen Staat, nur wenige Stunden von den erschöpften Baumwollfeldern 
+               <lb xml:id="p010_tr_1_tl_4"/>und zerfallenen Hütten dieser im Gesetz des Baumwoll-Systems gefangenen 
+               <lb xml:id="p010_tr_1_tl_5"/>Leute besuchte ich das "Pine Valley-Project", wo die Regierung ehemalige 
+               <lb xml:id="p010_tr_1_tl_6"/>Sharecroopers als selbständige Farmer angesiedelt hat. Die Siedlung wird 
+               <lb xml:id="p010_tr_1_tl_7"/>als Kollektiv betrieben. Die Farmer übernehmen <del rend="overstrike">je</del> nach Neigung und Talent 
+               <lb xml:id="p010_tr_1_tl_8"/>einzelne Produktionszweige wie Gemüsebau, Hühnerzucht, Molkerei, oder 
+               <lb xml:id="p010_tr_1_tl_9"/>Kartoffel- und Maisbau. Die Produkte werden zum eigenen Gebrauch verwendet 
+               <lb xml:id="p010_tr_1_tl_10"/>oder durch eine Kooperative verkauft. Das Projekt beweist, dass die Baum 
+               <lb xml:id="p010_tr_1_tl_11" break="no"/>wolle in dieser Gegend durch andere Produkte ersetzt werden kann, und 
+               <lb xml:id="p010_tr_1_tl_12"/>dass die früheren Sharecroppers durchaus fähige und tüchtige Farmer 
+               <lb xml:id="p010_tr_1_tl_13"/>abgeben, wenn man ihnen eine "faire Chance" bietet.</p>
+            <p>
+               <lb xml:id="p010_tr_1_tl_14"/>Es ist zweifellos schwieriger, den Kreislauf der Jndustrie zu ändern, der 
+               <lb xml:id="p010_tr_1_tl_15"/>nach dem Prinzip "möglichst viel, möglicht billig" produziert und des 
+               <lb xml:id="p010_tr_1_tl_16" break="no"/>halb dem Pendelschlag von fieberhafter Produktion, Ueberproduktion und 
+               <lb xml:id="p010_tr_1_tl_17"/>Krise unterworfen ist. Jm amerikanischen Süden, einem verhältnismässig 
+               <lb xml:id="p010_tr_1_tl_19"/>jungen und rohen Land, [add above: sind] diese fundamentalen Vorgänge deutlich sichtbar. 
+               <lb xml:id="p010_tr_1_tl_20"/>Der Gegensatz zwischen der perfekten Technik der Jndustrie und der 
+               <lb xml:id="p010_tr_1_tl_21"/>Armut und Rückständigkeit der für die Jndustrie arbeitenden Menschen 
+               <lb xml:id="p010_tr_1_tl_22"/>macht heute den Süden, das "Hinterland der amerikanischen Prosperität", 
+               <lb xml:id="p010_tr_1_tl_23"/>zum Schauplatz eines höchst aktuellen und mit brutalen Mitteln geführ 
+               <lb xml:id="p010_tr_1_tl_24" break="no"/>ten Kampfs. – Es war das eigentliche Ziel unserer Reise, nicht die Theorie, 
+               <lb xml:id="p010_tr_1_tl_26"/>sondern den Alltag dieses Kampfes kennen zu lernen, und [add above: um] beurteilen zu 
+               <lb xml:id="p010_tr_1_tl_27"/>können, ob eine intelligent geführte Arbeiterbewegung diesem so lange 
+               <lb xml:id="p010_tr_1_tl_28"/>vernachlässigten Land die Hoffnung eines besseren Lebens geben kann.</p>
+            <pb xml:id="p011" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0260_0011.jpg"/>
+            <milestone unit="textregion" xml:id="p011_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p011_tr_1_tl_1"/>– 8 – 
+               <lb xml:id="p011_tr_1_tl_2"/><PAGE tag="continued">Staat, nur einige Stunden von den erschöpften Baumwollfeldern und</PAGE>
+               <lb xml:id="p011_tr_1_tl_3"/><PAGE tag="continued">zerfallenen Baracken dieser Sharecroppers entfernt, besuchte ich die</PAGE>
+               <lb xml:id="p011_tr_1_tl_4"/><PAGE tag="continued">Siedlung eines Kollektivs von Farmern,</PAGE></p>
+         </div>
+      </body>
+   </text>
+</TEI>
