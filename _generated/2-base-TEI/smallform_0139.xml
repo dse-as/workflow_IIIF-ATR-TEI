@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="smallform_0139" type="dseas-smallform" xml:base="https://annemarie-schwarzenbach.ch/smallform_0139#">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>smallform_0139</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
+               <p/>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl corresp="smallform_0139">
+               <persName key="person_0082" type="author">Schwarzenbach, Annemarie (1908-1942)</persName>
+               <bibl>
+                  <title level="j"/>
+                  <date/>
+                  <biblScope/>
+               </bibl>
+            </bibl>
+            <listBibl type="related">
+               <listBibl type="online">
+                  <bibl/>
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language/>
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="smallform_0139_facs.xml">
+      <xi:fallback/>
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
+         <div type="smallform">
+            <pb xml:id="p001" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0139_0001.jpg"/>
+            <milestone unit="textregion" xml:id="p001_r"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p001_l"/>1 (Heimreise)</p>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p001_tr_1_tl_1"/>Annemarie Clark. 
+               <lb xml:id="p001_tr_1_tl_2"/><hi rendition="#u">Auf der Heimreise ...</hi>
+               <lb xml:id="p001_tr_1_tl_3"/>Claude und ich sassen mit dem Hauptmann auf der Terrasse des 
+               <lb xml:id="p001_tr_1_tl_4"/>Hotels Saint-Georges und assen zu Abend. Der Hauptmann hatte 
+               <lb xml:id="p001_tr_1_tl_5"/>seinen Sommer-Urlaub in Cypern zugebracht, irgendwo im Jnneren 
+               <lb xml:id="p001_tr_1_tl_6"/>der Jnsel, bei einem Freund[,] der sich um die Antiquitäten von 
+               <lb xml:id="p001_tr_1_tl_7"/>Cypern kümmerte. Claude und ich waren zufällig nach Beyrouth 
+               <lb xml:id="p001_tr_1_tl_8"/>gekommen. Wir waren seit vierzehn Tagen unterwegs, erst Persien, 
+               <lb xml:id="p001_tr_1_tl_9"/>Urumia-See, Kurdistan, dann ein Stück irakische Wüste, und ein 
+               <lb xml:id="p001_tr_1_tl_10"/>grösseres Stück syrische Wüste [das scheint der umgekehrte Weg zu sein, den die beiden wirklich zusammen genommen haben - oder kehrte sie tatsächlich auch so zurück (dann wäre Beirut aber eine notwendige Station gewesen, nicht ein Plausch)? Dachte, sie fuhr über den Norden]. Schliesslich hatten wir genug 
+               <lb xml:id="p001_tr_1_tl_11"/>von der Wüste und fuhren nach Beyrouth, um uns ein paar Tage 
+               <lb xml:id="p001_tr_1_tl_12"/>Ruhe zu gönnen. Es war Ende September, und Beyrouth war wie ein 
+               <lb xml:id="p001_tr_1_tl_13"/>Dampfbad. Der erträglichste Aufenthalt war das Hotel Saint- 
+               <lb xml:id="p001_tr_1_tl_14"/>Georges, weil es neu war und eine kühle Halle und eine ver 
+               <lb xml:id="p001_tr_1_tl_15" break="no"/>dunkelte, kühle Bar hatte, und weil man den ganzen Tag im Was 
+               <lb xml:id="p001_tr_1_tl_16" break="no"/>ser liegen konnte. Die Luft war so feucht, dass die Kleider im 
+               <lb xml:id="p001_tr_1_tl_17"/>Schrank sich feucht anfühlten, und die Schuhe dunkle Flecken 
+               <lb xml:id="p001_tr_1_tl_18"/>bekamen. Und die ganze Zeit fühlte man sich wie ein Schwamm. 
+               <lb xml:id="p001_tr_1_tl_19"/>Am Abend wurde es dann ein wenig kühler. Man ass auf der 
+               <lb xml:id="p001_tr_1_tl_20"/>Terrasse, die wie ein Schiffsdeck über dem Meer hing, <del rend="overstrike">und man</del>
+               <lb xml:id="p001_tr_1_tl_22"/>sah auf das dunkle, leicht bewegte Wasser hinaus und <del rend="overstrike">fühlte</del>[aa: spürte*] 
+               <lb xml:id="p001_tr_1_tl_23"/>den Nachtwind. Die Kellner trugen weisse Jacken und servierten 
+               <lb xml:id="p001_tr_1_tl_24"/>alle Getränke in Eis. Jeder Tisch hatte seinen Eiskübel, den 
+               <lb xml:id="p001_tr_1_tl_25"/>eine deutsche Schaumwein-Fabrik gestiftet hatte, und dessen 
+               <lb xml:id="p001_tr_1_tl_26"/>versilberte Oberfläche sich von der Kälte beschlug und mit 
+               <lb xml:id="p001_tr_1_tl_27"/>Feuchtigkeitsperlen bedeckte. Die Türen zum Speisesaal standen 
+               <lb xml:id="p001_tr_1_tl_28"/>offen. Der Speisesall war leer bis auf die Kapelle, die dort</p>
+            <pb xml:id="p002" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0139_0002.jpg"/>
+            <milestone unit="textregion" xml:id="p002_r"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p002_l"/>2 (Heimreise)</p>
+            <milestone unit="textregion" xml:id="p002_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p002_tr_1_tl_1"/>spielte. "Ein zivilisierter Ort" sagte der Hauptmann. "Man 
+               <lb xml:id="p002_tr_1_tl_2"/>könnte ebenso gut in Juan-les Pins sein." – "Wenn es bloss 
+               <lb xml:id="p002_tr_1_tl_3"/>nicht so heiss wäre!" – "Wie war es in Cypern?" fragte Claude. 
+               <lb xml:id="p002_tr_1_tl_4"/>"Ein bischen heiss" sagte der Hauptmann, "sonst ganz hübsch, 
+               <lb xml:id="p002_tr_1_tl_5"/>primitiv und idyllisch." – Wein und Liebe?" – "Viel Wein ohne 
+               <lb xml:id="p002_tr_1_tl_6"/>Liebe –". – "Na," sagte ich, "bei uns war es genau so<del rend="overstrike">.</del>[ai: :*] <del rend="overstrike">E</del>[ai: e*]in bischen[sic] 
+               <lb xml:id="p002_tr_1_tl_7"/>zu heiss." – "Das ist die Eigenheit eines Sommer-Urlaubs im 
+               <lb xml:id="p002_tr_1_tl_8"/>Orient." – Der Hauptmann erhob sein Glas, und sagte: "Nichts 
+               <lb xml:id="p002_tr_1_tl_9"/>gegen die Eigenheiten des Orients." – Er war seit sechs Jahren 
+               <lb xml:id="p002_tr_1_tl_10"/>Militärattaché in orientalischen Ländern, und war während <del rend="overstrike">all</del>
+               <lb xml:id="p002_tr_1_tl_12"/>dieser [aa: ganzen*] Zeit nie nach Europa gefahren. Er hatte im ersten Jahr 
+               <lb xml:id="p002_tr_1_tl_13"/>in Kabul seine Frau verloren, die er erst gerade vor seiner 
+               <lb xml:id="p002_tr_1_tl_14"/>Abreise geheiratet hatte. Damals hatte man ihn auf seinen 
+               <lb xml:id="p002_tr_1_tl_15"/>Wunsch versetzt, zuerst nach Baghdad, zwei Jahre später nach 
+               <lb xml:id="p002_tr_1_tl_16"/>Persien. Jn Persien hatte er angefangen, Windhunde zu züchten. 
+               <lb xml:id="p002_tr_1_tl_17"/>Das Reiten hatte er nach dem Krieg aufgeben müssen, wegen 
+               <lb xml:id="p002_tr_1_tl_18"/>eines [ai: Trachoms*][für das Wort scheint ausdrücklich eine Lücke im Typoskript gelassen worden zu sein, um es nachträglich einzufügen], welches er im letzten Kriegsjahr in der 
+               <lb xml:id="p002_tr_1_tl_20"/>Türkei davongetragen hatte. Diese [ao: Augen*]<del rend="overstrike">K</del>[ai: k*]rankheit war gewöhnlich 
+               <lb xml:id="p002_tr_1_tl_21"/>die Folge von Unterernährung und war in vielen Teiles des 
+               <lb xml:id="p002_tr_1_tl_22"/>Orients verbreitet. "Früher verging kein Tag, ohne dass ich 
+               <lb xml:id="p002_tr_1_tl_23"/>mich nicht auf einen Sattel gesetzt hätte" sagte der Haupt 
+               <lb xml:id="p002_tr_1_tl_24" break="no"/>mann, "ich hatte kein Geld, um eigene Pferde zu kaufen, aber 
+               <lb xml:id="p002_tr_1_tl_25"/>ich trainierte die Pferde von irgendwelchen Grafen, die 
+               <lb xml:id="p002_tr_1_tl_26"/>ihre Ställe draussen in St. Cloud hatten. Morgens um drei 
+               <lb xml:id="p002_tr_1_tl_27"/>Uhr ging ich hinaus und galoppierte den ersten Gaul ab,<del rend="overstrike">"</del>
+               <lb xml:id="p002_tr_1_tl_28"/>bevor die Sonne aufging."</p>
+            <pb xml:id="p003" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0139_0003.jpg"/>
+            <milestone unit="textregion" xml:id="p003_tr_1"/>
+            <p>
+               <lb xml:id="p003_tr_1_tl_3"/>Er hatte Vorkriegs-und Nachkriegserinnerungen. [aa: Die Nachkriegserinnerungen begannen erst nach dem Tode seiner Frau*] Die Vorkriegs 
+               <lb xml:id="p003_tr_1_tl_4" break="no"/>erinnerungen waren so, als ob das Frankreich von damals gar 
+               <lb xml:id="p003_tr_1_tl_5"/>nicht mehr existierte. Nicht nur die Namen der reichen Renn 
+               <lb xml:id="p003_tr_1_tl_6" break="no"/>stallbesitzer hatten gewechselt, sondern auch St. Cloud und 
+               <lb xml:id="p003_tr_1_tl_7"/>die glatte<del rend="overstrike">n</del>, trockene Grasbahn, und die Fahrt durch die 
+               <lb xml:id="p003_tr_1_tl_8"/>frischbesprengten Strassen von Paris, wenn er vom Reiten 
+               <lb xml:id="p003_tr_1_tl_9"/>zurückkam. Es gab keinen frühen Morgen von St. Cloud mehr. – 
+               <lb xml:id="p003_tr_1_tl_10"/>"Wissen Sie", sagte er zu Claude, "man sollte sich Europa 
+               <lb xml:id="p003_tr_1_tl_11"/>überhaupt aus dem Kopf schlagen. Dieses alte, traute, von 
+               <lb xml:id="p003_tr_1_tl_12"/>Sentimentalitäten lebende Europa!" – "Jch mag einige seiner 
+               <lb xml:id="p003_tr_1_tl_14"/>Sentimentalitäten [aa: gern*]" sagte ich. Der Hauptmann: "Aber man kann 
+               <lb xml:id="p003_tr_1_tl_15"/>nicht davon leben. Jn Europa weigert man sich, der Wirklichkeit 
+               <lb xml:id="p003_tr_1_tl_16"/>ins Gesicht zu sehen. All diese halb- und ganz konservativen 
+               <lb xml:id="p003_tr_1_tl_17"/>Politiker möchten, dass Europa von ihren edlen Gefühlen lebt, 
+               <lb xml:id="p003_tr_1_tl_18"/>von ihrer Pietät gegen die Vergangenheit, und von ihrem Glau 
+               <lb xml:id="p003_tr_1_tl_19" break="no"/>ben, dass Besitz, Klassenvorrechte, und Erziehungsprivilegien 
+               <lb xml:id="p003_tr_1_tl_20"/>ewig und unveränderlich seien." – "Nein", sagte Claude, "sie 
+               <lb xml:id="p003_tr_1_tl_21"/>haben nur Angst vor einer Veränderung. Sie wissen, dass grosse 
+               <lb xml:id="p003_tr_1_tl_22"/>Veränderungen Unordnung, Unglück und Elend mit sich bringen, 
+               <lb xml:id="p003_tr_1_tl_23"/>und sie wollen die Verantwortung dafür nicht tragen."</p>
+            <p>
+               <lb xml:id="p003_tr_1_tl_24"/>"Diese guten, wohlmeinenden Vogel Strausse" sagte der Haupt 
+               <lb xml:id="p003_tr_1_tl_26" break="no"/>mann." <del rend="overstrike">Es h</del>[ai: H*]eisst [aa: es nicht*] 'Vögel Strausse [ai: ?*]" sagte ich. – "Galgenvögel" sagte 
+               <lb xml:id="p003_tr_1_tl_27"/>der Hauptmann."Kommen Sie" sagte Claude, "trinken Sie noch 
+               <lb xml:id="p003_tr_1_tl_28"/>ein Glas Weisswein. Finden Sie auch, dass dieses Palasthotel 
+               <lb xml:id="p003_tr_1_tl_29"/><del rend="overstrike">aus</del> europäischer Sentimentalität seine Annehmlichkeiten 
+               <lb xml:id="p003_tr_1_tl_30"/>verdankt? Wie waren die Weinschenken in Cypern?" –</p>
+            <pb xml:id="p004" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0139_0004.jpg"/>
+            <milestone unit="textregion" xml:id="p004_r"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p004_l"/>4 (Heimreise)</p>
+            <milestone unit="textregion" xml:id="p004_tr_1"/>
+            <p>
+               <lb xml:id="p004_tr_1_tl_1"/>"Es gibt die Sentimentalität, und es gibt den Geschäftssinn" 
+               <lb xml:id="p004_tr_1_tl_2"/>sagte der Hauptmann. "Dieses Hotel ist ein Werk des levanti 
+               <lb xml:id="p004_tr_1_tl_3" break="no"/>nischen Geschäftssinns.Es kommt denen zugute, die es bezah 
+               <lb xml:id="p004_tr_1_tl_4" break="no"/>len können, <del rend="overstrike">Die Weinschenken in Cypern</del> und es wird solange 
+               <lb xml:id="p004_tr_1_tl_5"/>existieren, wie seine Gäste."</p>
+            <p>
+               <lb xml:id="p004_tr_1_tl_6"/>"Aber wie war es mit den Weinschenken in Cypern?" fragte 
+               <lb xml:id="p004_tr_1_tl_7"/>Claude. – "Es gab cypriotischen Wein und griechischen Wein. 
+               <lb xml:id="p004_tr_1_tl_8"/>Es gab Wein mit Wasser, und Süsswein, und starken Wein[,] der 
+               <lb xml:id="p004_tr_1_tl_9"/>den stärksten Trinker besiegte. Die Bauern waren mässige Trin 
+               <lb xml:id="p004_tr_1_tl_10" break="no"/>ker, die Fischer waren besser. Diese Schenken waren vorzüg 
+               <lb xml:id="p004_tr_1_tl_11" break="no"/>lich, und sie waren, im Gegensatz zum Palasthotel Saint-Georges, 
+               <lb xml:id="p004_tr_1_tl_12"/>sozusagen ewige Einrichtungen. Mein Freund versicherte mir, 
+               <lb xml:id="p004_tr_1_tl_13"/>dass man in der Broncezeit den Wein in den gleichen Krügen 
+               <lb xml:id="p004_tr_1_tl_14"/>gemischt ha<del rend="overstrike">t</del>[ai: be*] wie heute. Und dann waren da noch die ewigen 
+               <lb xml:id="p004_tr_1_tl_15"/>Oellampen." – "Lauter orientalische Sentimentalität" sagte 
+               <lb xml:id="p004_tr_1_tl_16"/>Claude. – "Ein banales, weitverbreitetes Missverständnis" sagte 
+               <lb xml:id="p004_tr_1_tl_17"/>der Hauptmann." Der Orient ist frei von Gefühlen. Man kann 
+               <lb xml:id="p004_tr_1_tl_18"/>hier lieben und trinken ohne Gefühl. Man kann hier, unbelastet 
+               <lb xml:id="p004_tr_1_tl_19"/>von Gefühlen gegenüber der Vergangenheit, der Zukunft entgegen 
+               <lb xml:id="p004_tr_1_tl_20"/>leben." – "Sind Sie der Meinung," fragte ich, "dass dem Orient 
+               <lb xml:id="p004_tr_1_tl_21"/>die Zukunft gehört?"</p>
+            <p>
+               <lb xml:id="p004_tr_1_tl_22"/>– Man kann in unserer Zeit nicht von der Zukunft reden, ohne 
+               <lb xml:id="p004_tr_1_tl_23"/>dass sich <del rend="overstrike">nicht</del> ein beklommenes Schweigen einstellt. – – –</p>
+            <p>
+               <lb xml:id="p004_tr_1_tl_24"/>– "Leben Sie wirklich gern hier draussen?" fragte ich.</p>
+            <p>
+               <lb xml:id="p004_tr_1_tl_25"/>– "Warum nicht" –</p>
+            <p>
+               <lb xml:id="p004_tr_1_tl_26"/>– "Sind Sie wirklich aufrichtig, wenn Sie das sagen?"</p>
+            <p>
+               <lb xml:id="p004_tr_1_tl_27"/>– "Sei nicht taktlos" sagte Claude.</p>
+            <pb xml:id="p005" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0139_0005.jpg"/>
+            <milestone unit="textregion" xml:id="p005_r"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p005_l"/>5 (Heimreise)</p>
+            <milestone unit="textregion" xml:id="p005_tr_1"/>
+            <p>
+               <lb xml:id="p005_tr_1_tl_1"/>"Lasst uns den schönen Abend geniessen," sagte ich, "wir wollen auf 
+               <lb xml:id="p005_tr_1_tl_2"/>irgendetwas trinken." – <del rend="overstrike">"Auf</del> Der Kellner, der gerade vorbeikam, hielt an, 
+               <lb xml:id="p005_tr_1_tl_3"/>und nahm die Flasche aus dem Eiskübel. Er befühlte sie, und wickelte 
+               <lb xml:id="p005_tr_1_tl_4"/>seine Serviette darum. "Giessen Sie nicht ganz voll" sagte Claude zu 
+               <lb xml:id="p005_tr_1_tl_5"/>ihm, "füllen Sie mit Mineralwasser auf," – und zu uns: "Es ist Euch doch 
+               <lb xml:id="p005_tr_1_tl_6"/>recht so? Auf was trinken wir?" – "Auf eine glückliche Rückreise nach 
+               <lb xml:id="p005_tr_1_tl_7"/>Persien." – "Auf dass es ein <del rend="overstrike">wen</del> bischen weniger heiss sei!" –</p>
+            <p>
+               <lb xml:id="p005_tr_1_tl_8"/>Es war schon spät. Die Kapelle spielte jetzt auf der Seitenterrasse, 
+               <lb xml:id="p005_tr_1_tl_9"/>wo getanzt wurde. Die Tische in unserer Nähe waren leer, die Kellner 
+               <lb xml:id="p005_tr_1_tl_10"/>fingen an, die Hors-d'Oeuvres-Schüsseln wegzutragen. – "Wollen Sie 
+               <lb xml:id="p005_tr_1_tl_11"/>tanzen?" fragte mich der Hauptmann. "Danke" sagte ich, "wir wollen es<del rend="overstrike">,</del>
+               <lb xml:id="p005_tr_1_tl_12"/>wenn irgend möglich vermeiden."</p>
+            <p>
+               <lb xml:id="p005_tr_1_tl_13"/>Jn diesem Augenblick kam der Major mit seiner Familie durch das dunkle 
+               <lb xml:id="p005_tr_1_tl_14"/>Restaurant auf die Terrasse heraus. Er blieb stehen, und sah die 
+               <lb xml:id="p005_tr_1_tl_15"/>leeren Tische an, und sah dann zu uns herüber. Claude grüsste. Der Haupt 
+               <lb xml:id="p005_tr_1_tl_17" break="no"/>mann erhob sich. "[aa: Das ist*] Lesconte" sagte er, – "ich denke, ich gehe besser einen 
+               <lb xml:id="p005_tr_1_tl_18"/>Augenblick zu ihm hinüber."</p>
+            <p>
+               <lb xml:id="p005_tr_1_tl_20"/><del rend="overstrike">Der</del> Major [aa: Lesconte*] hatte sich mit seiner Frau an einen Tisch gesetzt. An einem 
+               <lb xml:id="p005_tr_1_tl_22"/>anderen Tisch; [aa so*] weit <del rend="overstrike">genug</del> von ihnen entfernt <del rend="overstrike">um</del>[,] dass sie nicht zusam 
+               <lb xml:id="p005_tr_1_tl_23" break="no"/>men sprechen konnten, sassen die beiden kleinen Jungen mit ihrer Bon[ngem]e. 
+               <lb xml:id="p005_tr_1_tl_24"/>Die Jungen sahen blass aus, wie Kinder, die einen Sommer in einem 
+               <lb xml:id="p005_tr_1_tl_25"/>heissen Land zugebracht haben.</p>
+            <p>
+               <lb xml:id="p005_tr_1_tl_26"/>"Jch hätte ihn lieber nicht hier getroffen" sagte Claude.</p>
+            <p>
+               <lb xml:id="p005_tr_1_tl_27"/>"Was ist mit ihm?" –</p>
+            <p>
+               <lb xml:id="p005_tr_1_tl_28"/>"Oh, nichts Besonderes. Aber er hat viel Pech gehabt, und man konnte 
+               <lb xml:id="p005_tr_1_tl_29"/>nichts für ihn tun. Er kam mit der Militärmission nach Teheran. Der 
+               <lb xml:id="p005_tr_1_tl_30"/>Hauptmann sagte damals gleich, dass er nicht der richtige Mann sei ..."</p>
+            <pb xml:id="p006" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0139_0006.jpg"/>
+            <milestone unit="textregion" xml:id="p006_r"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p006_l"/>6 (Heimreise)</p>
+            <milestone unit="textregion" xml:id="p006_tr_1"/>
+            <p>
+               <lb xml:id="p006_tr_1_tl_1"/>"Es ist schwer, der richtige Mann für hier draussen zu sein" sagte ich.</p>
+            <p>
+               <lb xml:id="p006_tr_1_tl_2"/><del rend="overstrike">"Ha," sagte Claude, " </del>"Es gibt schon Leute" sagte Claude. "Aber Lesconte 
+               <lb xml:id="p006_tr_1_tl_3"/>war nicht der richtige." –</p>
+            <p>
+               <lb xml:id="p006_tr_1_tl_4"/>Jch sah zu dem anderen Tisch hinüber. Der Hauptmann unterhielt sich 
+               <lb xml:id="p006_tr_1_tl_5"/>mit Lesconte. Die Frau las die Karte, und gab sie dem wartenden Kellner 
+               <lb xml:id="p006_tr_1_tl_7"/>zurück, <del rend="overstrike">indem</del>[aa: wobei*] sie etwas zu ihrem Mann sagte. Lesconte hob den grauen 
+               <lb xml:id="p006_tr_1_tl_8"/>Kopf und winkte dann mit der Hand ab. Ein zweiter Kellner brachte 
+               <lb xml:id="p006_tr_1_tl_9"/>einen Eiskübel mit zwei Flaschen darin, die er am Hals hielt und drehte, 
+               <lb xml:id="p006_tr_1_tl_10"/>um sie richtig in das Eis hinein zu stossen.</p>
+            <p>
+               <lb xml:id="p006_tr_1_tl_11"/>Der Major hörte dem Hauptmann zu, und sah manchmal zerstreut auf das 
+               <lb xml:id="p006_tr_1_tl_12"/>Meer hinaus.</p>
+            <p>
+               <lb xml:id="p006_tr_1_tl_13"/>"Es ging, wie es hier immer geht" sagte Claude." Sie empfingen ihn wie 
+               <lb xml:id="p006_tr_1_tl_14"/>einen Propheten, er bekam eine persönliche Audienz, und Vollmachten 
+               <lb xml:id="p006_tr_1_tl_15"/>soviel er haben wollte. Nachher nahmen sie nicht einen einzigen seiner 
+               <lb xml:id="p006_tr_1_tl_16"/>Vorschläge an, und machten ihn für alles verantwortlich, was passierte."</p>
+            <p>
+               <lb xml:id="p006_tr_1_tl_17"/>"Konnte man ihn nicht schützen?"</p>
+            <p>
+               <lb xml:id="p006_tr_1_tl_18"/>"Nein", sagte Claude<del rend="overstrike">.</del>[ai: ,*] "<del rend="overstrike">D</del>[ai: d*]ie Offiziere der Mission haben individuelle 
+               <lb xml:id="p006_tr_1_tl_19"/>Kontrakte. Sie werden nicht von ihrem Land geschickt, sondern melden 
+               <lb xml:id="p006_tr_1_tl_20"/>sich freiwillig."</p>
+            <p>
+               <lb xml:id="p006_tr_1_tl_21"/>"Was er sich wohl davon versprochen hat?"</p>
+            <p>
+               <lb xml:id="p006_tr_1_tl_22"/>"Sie werden gut bezahlt."</p>
+            <p>
+               <lb xml:id="p006_tr_1_tl_23"/>"Was hat er jetzt davon" ...</p>
+            <p>
+               <lb xml:id="p006_tr_1_tl_25"/>"Ja, "sagte Claude," – sie haben <del rend="overstrike">seinen Kontrakt gebrochen</del>[aa: ihn dazu gebracht, seine Demission einzureichen,*] und ihn einfach 
+               <lb xml:id="p006_tr_1_tl_27"/><del rend="overstrike">weg</del>[aa: nach Hause *]geschickt. Und überdies hat er eines seiner Kinder verloren."</p>
+            <p>
+               <lb xml:id="p006_tr_1_tl_28"/>Drüben brach die Musik ab. Man hörte die Leute schwatzend und lachend 
+               <lb xml:id="p006_tr_1_tl_29"/>durch die Bar in die Hotelhalle <del rend="overstrike">zurück</del>gehen. Die Terrasse blieb leer 
+               <lb xml:id="p006_tr_1_tl_30"/>zurück, die Lichter wurden ausgemacht.</p>
+            <pb xml:id="p007" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0139_0007.jpg"/>
+            <milestone unit="textregion" xml:id="p007_r"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p007_l"/>7 (Heimreise)</p>
+            <milestone unit="textregion" xml:id="p007_tr_1"/>
+            <p>
+               <lb xml:id="p007_tr_1_tl_1"/>"Jst der Hauptmann richtig für hier draussen?" fragte ich.</p>
+            <p>
+               <lb xml:id="p007_tr_1_tl_2"/>"Was weiss ich," sagte Claude, "er glaubt es jedenfalls."</p>
+            <p>
+               <lb xml:id="p007_tr_1_tl_3"/>"Er macht sich nicht viel Jllusionen darüber –"</p>
+            <p>
+               <lb xml:id="p007_tr_1_tl_4"/>"Das ist es eben. Der Major hatte eine Menge Jllusionen. Er kam 
+               <lb xml:id="p007_tr_1_tl_5"/>aus einer langweiligen, kleinen Provinzgarnison und war dort grau 
+               <lb xml:id="p007_tr_1_tl_6"/>geworden vor Langweile. Nun glaubte er, er könne etwas nachholen. 
+               <lb xml:id="p007_tr_1_tl_7"/>Er glaubte, es sei seine grosse Chance, und kam mit den Jdeen eines 
+               <lb xml:id="p007_tr_1_tl_8"/>europäischen Offiziers, und mit einem Haufen Energie, Tatkraft, gutem 
+               <lb xml:id="p007_tr_1_tl_9"/>Willen, – wie Du es nennen willst."</p>
+            <p>
+               <lb xml:id="p007_tr_1_tl_11"/><del rend="overstrike">"Scheusslich für ihn –"</del> "War [aa: hier*] natürlich alles ganz unbrauchbar" –</p>
+            <p>
+               <lb xml:id="p007_tr_1_tl_12"/>"Natürlich" sagte Claude, "aber er wollte es nicht einsehen. Bis zuletzt. 
+               <lb xml:id="p007_tr_1_tl_13"/>– Jch glaube, er sieht es immer noch nicht ein –".</p>
+            <p>
+               <lb xml:id="p007_tr_1_tl_14"/>"Scheusslich für ihn," sagte ich. "Aber jetzt kann er wenigstens 
+               <lb xml:id="p007_tr_1_tl_15"/>nach Hause fahren".</p>
+            <p>
+               <lb xml:id="p007_tr_1_tl_16"/>"Trotzdem scheusslich.<del rend="overstrike">"</del> Er hat ein Kind eingebüsst. Und sicher hat er 
+               <lb xml:id="p007_tr_1_tl_17"/>Geld zugesetzt."</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p007_tr_1_tl_19"/>"Haben Sie ihn <del rend="overstrike">scheusslich</del>[aa: schlecht*] behandelt?"</p>
+            <p>
+               <lb xml:id="p007_tr_1_tl_20"/>"Und ob", sagte Claude. "Einfach niederträchtig. Und Militärs sind doch 
+               <lb xml:id="p007_tr_1_tl_21"/>so empfindlich!"</p>
+            <p>
+               <lb xml:id="p007_tr_1_tl_22"/>"Es kehrt sich eben alles um –" sagte ich.</p>
+            <p>
+               <lb xml:id="p007_tr_1_tl_23"/>– "Wie meinst Du das?"</p>
+            <p>
+               <lb xml:id="p007_tr_1_tl_24"/>"Wir haben solange die Orientalen gedemütigt. Jetzt machen sie es 
+               <lb xml:id="p007_tr_1_tl_25"/>ebenso mit unseren Leuten."</p>
+            <p>
+               <lb xml:id="p007_tr_1_tl_26"/>"Ja, jetzt können sie sich's leisten."</p>
+            <p>
+               <lb xml:id="p007_tr_1_tl_27"/>"Man muss sich richtig dazu einstellen. Dir und mir zum Beispiel 
+               <lb xml:id="p007_tr_1_tl_28"/>können sie nichts tun –"</p>
+            <p>
+               <lb xml:id="p007_tr_1_tl_29"/>"Bist Du sicher?"</p>
+            <pb xml:id="p008" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0139_0008.jpg"/>
+            <milestone unit="textregion" xml:id="p008_r"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p008_l"/>8 (Heimreise)</p>
+            <milestone unit="textregion" xml:id="p008_tr_1"/>
+            <p>
+               <lb xml:id="p008_tr_1_tl_1"/>"Schau Dir doch die beiden an!" sagte ich, "– der Hauptmann leidet wegen 
+               <lb xml:id="p008_tr_1_tl_2"/>Europa, und der Major wegen Asien. Fühlst Du Dich nicht jung, wenn Du 
+               <lb xml:id="p008_tr_1_tl_3"/>sie ansiehst?"</p>
+            <p>
+               <lb xml:id="p008_tr_1_tl_4"/>"Jung und glücklich" sagte Claude.<del rend="overstrike"> "</del></p>
+            <p>
+               <lb xml:id="p008_tr_1_tl_5"/>Drüben erhob sich der Hauptmann. Madame Lesconte reichte ihm die Hand 
+               <lb xml:id="p008_tr_1_tl_6"/>über den Tisch hinüber, und er kam zu uns zurück.</p>
+            <p>
+               <lb xml:id="p008_tr_1_tl_7"/>"Haben Sie ihm ein bischen[bisschen] Mut zugesprochen?" fragte Claude.</p>
+            <p>
+               <lb xml:id="p008_tr_1_tl_8"/>"So ein armer Kerl,"sagte der Hauptmann.</p>
+            <p>
+               <lb xml:id="p008_tr_1_tl_9"/>"Freut er sich nicht auf die Heimreise?"</p>
+            <p>
+               <lb xml:id="p008_tr_1_tl_10"/>"Auf eine solche Heimreise?"</p>
+            <p>
+               <lb xml:id="p008_tr_1_tl_11"/>"Jch meine, wegen der Kinder. Und dann, weil er doch gründlich genug 
+               <lb xml:id="p008_tr_1_tl_12"/>haben muss ..."</p>
+            <p>
+               <lb xml:id="p008_tr_1_tl_14"/>"Wissen Sie", sagte der Hauptmann, "sein Kind starb am Typhus, gerade <del rend="overstrike">wie</del>[aa: als*] 
+               <lb xml:id="p008_tr_1_tl_15"/>er in Ungnade fiel. Es war sein Lieblingskind, ein kleines Mädchen. Und 
+               <lb xml:id="p008_tr_1_tl_16"/>zum Begräbnis kam kein einziger von seinen Kameraden. Sie trauten sich 
+               <lb xml:id="p008_tr_1_tl_17"/>alle nicht. Also gingen wir ganz allein hinter dem winzigen Sarg her, 
+               <lb xml:id="p008_tr_1_tl_18"/>der Major, der ältere von den beiden Buben, und ich. Es war eine teuf 
+               <lb xml:id="p008_tr_1_tl_19" break="no"/>lische Hitze."</p>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p008_tr_1_tl_20"/>Wir sassen eine Weile schweigend. "Wollen wir die Sitzung aufheben?" 
+               <lb xml:id="p008_tr_1_tl_21"/>fragte ich. Wir gingen am Tisch des Majors vorbei, und Claude blieb 
+               <lb xml:id="p008_tr_1_tl_22"/>einen Augenblick stehen und wünschte ihm eine glückliche Heimreise. 
+               <lb xml:id="p008_tr_1_tl_24"/>Jch sah, dass der Major wieder, an Claude <del rend="overstrike">vorbei</del>[aa: vorüber*], zerstreut auf das Meer 
+               <lb xml:id="p008_tr_1_tl_25"/>hinaus sah. Jn der Halle trennte sich der Hauptmann von uns. "Jch glaube, 
+               <lb xml:id="p008_tr_1_tl_26"/>was ich brauche, ist ein eisgekühlter Whisky Soda" sagte er. Wir sahen 
+               <lb xml:id="p008_tr_1_tl_27"/>ihn in die Bar hinüber gehen." – Wir konnten noch ein paar Schritte dem 
+               <lb xml:id="p008_tr_1_tl_29"/>Strand entlang machen" sagte Claude. Wir gingen hinaus. Das <del rend="overstrike">arabische Kaffee</del>[aa: Araberkaffee*] 
+               <lb xml:id="p008_tr_1_tl_30"/>unter freiem Himmel war noch erleuchtet. Wir gingen bis zum Ende</p>
+            <pb xml:id="p009" facs="https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0139_0009.jpg"/>
+            <milestone unit="textregion" xml:id="p009_r"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p009_l"/>9 (Heimreise)</p>
+            <milestone unit="textregion" xml:id="p009_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
+               <lb xml:id="p009_tr_1_tl_1"/>des Strands und wieder zurück, und setzten uns im Kaffee an einen 
+               <lb xml:id="p009_tr_1_tl_2"/>Tisch an der Ballustrade, sodass wir auf das Wasser hinunter sehen 
+               <lb xml:id="p009_tr_1_tl_3"/>konnten, welches schwarz gegen die Felsen <del rend="overstrike">lief</del> anlief und sie dann 
+               <lb xml:id="p009_tr_1_tl_4"/>mit weichem, weissem Schaum bespülte. <del rend="overstrike">und wieder zurücklief</del></p>
+            <p>
+               <lb xml:id="p009_tr_1_tl_5"/>Wir tranken türkischen Kaffee und ruhten uns aus. <del rend="overstrike">Am Nebentisch, sass </del>
+               <lb xml:id="p009_tr_1_tl_6"/>Ein paar Tische weiter sass ein Junge im Fez, <del rend="overstrike">und</del> ein Mädchen lehnte 
+               <lb xml:id="p009_tr_1_tl_7"/>an seiner Schulter.</p>
+            <p>
+               <lb xml:id="p009_tr_1_tl_8"/>"Fühlst Du Dich jung und glücklich?" fragte mich Claude.</p>
+            <p>
+               <lb xml:id="p009_tr_1_tl_9"/>"Und Du?"</p>
+            <p>
+               <lb xml:id="p009_tr_1_tl_10"/>"Jch denke, ja" –</p>
+            <p>
+               <lb xml:id="p009_tr_1_tl_11"/>"Jch weiss nicht" sagte ich." – "Wir sollten nicht zu lang in diesem 
+               <lb xml:id="p009_tr_1_tl_12"/>Erdteil bleiben!" –</p>
+         </div>
+      </body>
+   </text>
+</TEI>
