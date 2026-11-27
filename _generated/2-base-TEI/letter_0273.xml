@@ -1,71 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/tei_dseas.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://cdn.jsdelivr.net/gh/dse-as/oxygen-framework@latest/schema/dseas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0273" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0273#"> 
-   <teiHeader> 
-      <fileDesc> 
-         <titleStmt> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="letter_0273" type="dseas-letter" xml:base="https://annemarie-schwarzenbach.ch/letter_0273#">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
             <title>letter_0273</title>
-          </titleStmt>
-          <publicationStmt> 
+         </titleStmt>
+         <publicationStmt>
             <p/>
-          </publicationStmt>
-          <notesStmt> 
-            <note type="global_comment"> 
+         </publicationStmt>
+         <notesStmt>
+            <note type="global_comment">
                <p/>
-             </note>
-          </notesStmt>
-          <sourceDesc> 
-            <msDesc> 
-               <msIdentifier> 
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
                   <repository/>
-                   <collection/>
-                   <idno/>
-                </msIdentifier>
-             </msDesc>
-             <listBibl type="related"> 
-               <listBibl type="online"> 
+                  <collection/>
+                  <idno/>
+               </msIdentifier>
+            </msDesc>
+            <listBibl type="related">
+               <listBibl type="online">
                   <bibl/>
-                </listBibl>
-             </listBibl>
-          </sourceDesc>
-       </fileDesc>
-       <profileDesc> 
-         <correspDesc> 
-            <correspAction type="sent"> 
+               </listBibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
                <persName/>
-                <date/>
-                <placeName/>
-             </correspAction>
-             <correspAction type="received"> 
+               <date/>
+               <placeName/>
+            </correspAction>
+            <correspAction type="received">
                <persName/>
-                <placeName/>
-             </correspAction>
-          </correspDesc>
-          <langUsage> 
+               <placeName/>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
             <language/>
-          </langUsage>
-          <textClass> 
-            <keywords ana="keywords"> 
-               <list> 
+         </langUsage>
+         <textClass>
+            <keywords ana="keywords">
+               <list>
                   <item/>
-                </list>
-             </keywords>
-             <keywords ana="travels"> 
-               <list> 
+               </list>
+            </keywords>
+            <keywords ana="travels">
+               <list>
                   <item/>
-                </list>
-             </keywords>
-          </textClass>
-       </profileDesc>
-    </teiHeader>
-    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0273_facs.xml"> 
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="letter_0273_facs.xml">
       <xi:fallback/>
-       <!--Inclusion path will be adjusted later.-->
-    </xi:include>
-    <text> 
-      <body> 
+      <!--Inclusion path will be adjusted later.-->
+   </xi:include>
+   <text>
+      <body>
          <div type="letter">
-            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415263/info.json"/>
-            <milestone unit="textregion" xml:id="p001_tr_1"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+            <pb xml:id="p001" facs="https://www.monacensia-digital.de/i3f/v20/415263"/>
+            <milestone unit="textregion" xml:id="p001_tr_1"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
                <lb xml:id="p001_tr_1_tl_1"/>Kannst Du mir die Adresse von <hi rendition="#u">Teddy</hi> sagen, ich muss es versuchen 
                <lb xml:id="p001_tr_1_tl_2"/>ihn für Claude u. Persien zu gewinnen, ich habe es 
                <lb xml:id="p001_tr_1_tl_3"/>Claude so sehr zugesagt. 
@@ -98,9 +99,9 @@
                <lb xml:id="p001_tr_1_tl_30"/>aber doch möcht' ich, ich wäre schon dort, u. 
                <lb xml:id="p001_tr_1_tl_31"/>allein. Hier ist's so mühsam u. leidvoll 
                <lb xml:id="p001_tr_1_tl_32"/>von allen Seiten. Und mein Bruder, der Hasi,</p>
-
-            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415261/info.json"/>
-            <milestone unit="textregion" xml:id="p002_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+            <pb xml:id="p002" facs="https://www.monacensia-digital.de/i3f/v20/415261"/>
+            <milestone unit="textregion" xml:id="p002_r"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
                <lb xml:id="p002_tr_2_tl_1"/>der sich tapfer, freundlich in ordentlich stellt, 
                <lb xml:id="p002_tr_2_tl_2"/>nen[n]t es einen faulen Frieden. Gut daran ist 
                <lb xml:id="p002_tr_2_tl_3"/>höchstens bloss, dass meine Mutter es nun weiss 
@@ -122,7 +123,7 @@
                <lb xml:id="p002_tr_1_tl_4"/>nicht die vielen Fronten- u. Hass-Konstellationen, 
                <lb xml:id="p002_tr_1_tl_5"/>entschuldigt nicht die Leichtfertigkeit mit der sie 
                <lb xml:id="p002_tr_1_tl_6"/>alle einstim[m]ten, Eri sei es gewesen, u. die Ein 
-               <lb xml:id="p002_tr_1_tl_7" break="no"/>mischung gegen sie –; u., dass sie sich gegen <hi rendition="#u">mich</hi> 
+               <lb xml:id="p002_tr_1_tl_7" break="no"/>mischung gegen sie –; u., dass sie sich gegen <hi rendition="#u">mich</hi>
                <lb xml:id="p002_tr_1_tl_8"/>keinerlei Loyalität schuldig glaubten, fällt 
                <lb xml:id="p002_tr_1_tl_9"/>vielleicht auf mich, dass sie sich gegen Eri 
                <lb xml:id="p002_tr_1_tl_10"/>nicht benahmen, wie es unter unbescholtenen 
@@ -133,9 +134,9 @@
                <lb xml:id="p002_tr_1_tl_15"/>u. Solidarität mit Euch. Ich glaube, sie ist nicht 
                <lb xml:id="p002_tr_1_tl_16"/>fröhlich darüber. Die Anderen sind erstaunt, 
                <lb xml:id="p002_tr_1_tl_17"/>dass ich es nicht mit ein wenig Traurigkeit</p>
-
-            <pb xml:id="p003" facs="https://www.monacensia-digital.de/i3f/v20/415262/info.json"/>
-            <milestone unit="textregion" xml:id="p003_r_88"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+            <pb xml:id="p003" facs="https://www.monacensia-digital.de/i3f/v20/415262"/>
+            <milestone unit="textregion" xml:id="p003_r_88"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
                <lb xml:id="p003_tr_3_tl_1"/>abtue. Ich zwinge sie, die ekelhaften Auschuldigungen 
                <lb xml:id="p003_tr_3_tl_2"/>zu lesen, schreibe laut, sage es dem Polizeiinspektor 
                <lb xml:id="p003_tr_3_tl_3"/>u. der Waserin [Maria Waser - interessant, dass sie hier eine Bezeichnung verwendet, die Waser für die Figur ihres Erfolgromans "Anna Waser" verwendet hat], schreibe an die Basler, auch 
@@ -167,9 +168,9 @@
                <lb xml:id="p003_tr_1_tl_10"/>Es ist mir ganz natürlich, es ihnen deutlich 
                <lb xml:id="p003_tr_1_tl_11"/>kund zu tun. Aber, was so absurd u. so 
                <lb xml:id="p003_tr_1_tl_12"/>schmerzhaft ist: Ich bin nun doch zu Hause,</p>
-
-            <pb xml:id="p004" facs="https://www.monacensia-digital.de/i3f/v20/415260/info.json"/>
-            <milestone unit="textregion" xml:id="p004_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+            <pb xml:id="p004" facs="https://www.monacensia-digital.de/i3f/v20/415260"/>
+            <milestone unit="textregion" xml:id="p004_r"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
                <lb xml:id="p004_tr_1_tl_1"/>doch um diese u. jene Bereinigung bemüht, 
                <lb xml:id="p004_tr_1_tl_2"/>u. äusserlich gerade jetzt von Euch getren[n]t 
                <lb xml:id="p004_tr_1_tl_3"/>– vielleicht spornt es mich an, hält mich 
@@ -198,9 +199,9 @@
                <lb xml:id="p004_tr_2_tl_10"/>können daran, an der plötzlichen, 
                <lb xml:id="p004_tr_2_tl_11"/>viel zu grossen, viel zur sinnlosen 
                <lb xml:id="p004_tr_2_tl_12"/>Verlassenheit etwas ändern.–</p>
-
-            <pb xml:id="p005" facs="https://www.monacensia-digital.de/i3f/v20/415259/info.json"/>
-            <milestone unit="textregion" xml:id="p005_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+            <pb xml:id="p005" facs="https://www.monacensia-digital.de/i3f/v20/415259"/>
+            <milestone unit="textregion" xml:id="p005_r"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
                <lb xml:id="p005_tr_2_tl_2"/>Adieu Klaus – der Brief soll doch vielleicht 
                <lb xml:id="p005_tr_2_tl_3"/>fort – Enthält er die Festtagsgrüsse, die 
                <lb xml:id="p005_tr_2_tl_4"/>Wünsche? Eri sagte mir dass Du den 
@@ -221,9 +222,9 @@
                <lb xml:id="p005_tr_1_tl_8"/>von dem Brief zu trennen. Voller 
                <lb xml:id="p005_tr_1_tl_9"/>Anhänglichkeit doch: 
                <lb xml:id="p005_tr_1_tl_10"/>Miro</p>
-
-            <pb xml:id="p006" facs="https://www.monacensia-digital.de/i3f/v20/415258/info.json"/>
-            <milestone unit="textregion" xml:id="p006_r"/>            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems"> 
+            <pb xml:id="p006" facs="https://www.monacensia-digital.de/i3f/v20/415258"/>
+            <milestone unit="textregion" xml:id="p006_r"/>
+            <p xmlns:local="local" local:warning="FML-generated-to-avoid-structural-problems">
                <lb xml:id="p006_l"/>2 tag [?] Nachts. 
                <lb xml:id="p006_tr_2_tl_3"/>– Ja, nun habe ich soeben die letzten Seiten gelesen. Klaus – 
                <lb xml:id="p006_tr_2_tl_4"/>ich habe dazwischen wohl ein bischen geschlafen, wie 
@@ -252,7 +253,7 @@
                <lb xml:id="p006_tr_1_tl_15"/>leicht denken – schmerzlich gerührt 
                <lb xml:id="p006_tr_1_tl_16"/>über den Abend in der Stadtwohnung 
                <lb xml:id="p006_tr_1_tl_17"/>in Helsingfors ...</p>
-</div>
-       </body>
-    </text>
- </TEI>
+         </div>
+      </body>
+   </text>
+</TEI>
